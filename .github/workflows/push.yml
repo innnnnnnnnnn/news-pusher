@@ -1,0 +1,40 @@
+name: News Pusher Cron
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Every 30 minutes (GitHub limits free tier to 5-15 mins min but 30 is safer)
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Important for committing back
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Push Job
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times (not cn subdomain)' }}
+          BPC_PATH: './extension-bpc'
+        run: node scripts/github-push.mjs
+
+      - name: Commit & Push History
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add history.json
+          git diff-index --quiet HEAD || git commit -m "update: sync push history [skip ci]"
+          git push
