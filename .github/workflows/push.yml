@@ -2,7 +2,7 @@ name: News Pusher Cron
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Every 30 minutes (GitHub limits free tier to 5-15 mins min but 30 is safer)
+    - cron: '*/5 * * * *' # Every 5 minutes (Fastest stable interval on GitHub)
   workflow_dispatch: # Allows manual trigger
 
 jobs:
