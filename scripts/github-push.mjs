@@ -40,11 +40,13 @@ async function getDomainForSite(siteName) {
 
 const HISTORY_FILE = './history.json';
 const history = fs.existsSync(HISTORY_FILE) ? JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8')) : [];
+const DASHBOARD_FILE = './public/news-data.json';
+const newDashboardItems = [];
 
 async function pushArticles() {
   const telegramToken = process.env.TELEGRAM_TOKEN;
   const chatId = process.env.CHAT_ID;
-  const subscriptionsString = process.env.SUBSCRIPTIONS || 'The Economist';
+  const subscriptionsString = process.env.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times (not cn subdomain)';
   const sites = subscriptionsString.split(',').map(s => s.trim());
 
   if (!telegramToken || !chatId) {
@@ -57,12 +59,9 @@ async function pushArticles() {
   for (const siteName of sites) {
     try {
       const domain = await getDomainForSite(siteName);
-      if (!domain) {
-        console.log(`[SKIP] Domain not found for: ${siteName}`);
-        continue;
-      }
+      if (!domain) continue;
 
-      console.log(`[CHECK] Fetching RSS for: ${siteName} (${domain})`);
+      console.log(`[CHECK] ${siteName}...`);
       const articleUrls = await fetchAllArticlesFromGoogleNewsRSS(domain);
       
       for (const articleUrl of articleUrls) {
@@ -93,9 +92,20 @@ async function pushArticles() {
           }
 
           history.push(articleUrl);
-          console.log(`[SENT] ${article.title}`);
           
-          // Small delay backoff
+          newDashboardItems.push({
+            title: article.title,
+            title_zh: tTitle.text,
+            excerpt_zh: tExcerpt.text,
+            category: article.category,
+            category_zh: tCategory.text,
+            image: article.image,
+            readingTime: article.readingTime,
+            url: article.url,
+            pushed_at: new Date().toISOString()
+          });
+
+          console.log(`[SENT] ${article.title}`);
           await new Promise(r => setTimeout(r, 2000));
         } catch (err) {
           console.error(`[FAIL] ${articleUrl}:`, err.message);
@@ -106,9 +116,20 @@ async function pushArticles() {
     }
   }
 
-  // Save history back to file (keep only last 500 entries to avoid file bloat)
+  // Finalize history
   const trimmedHistory = history.slice(-500);
   fs.writeFileSync(HISTORY_FILE, JSON.stringify(trimmedHistory, null, 2));
+
+  // Finalize dashboard
+  if (!fs.existsSync('./public')) fs.mkdirSync('./public');
+  let dashboardData = fs.existsSync(DASHBOARD_FILE) ? JSON.parse(fs.readFileSync(DASHBOARD_FILE, 'utf8')) : [];
+  
+  if (newDashboardItems.length > 0) {
+    dashboardData = [...newDashboardItems, ...dashboardData];
+    dashboardData = dashboardData.slice(0, 50); // Keep last 50
+    fs.writeFileSync(DASHBOARD_FILE, JSON.stringify(dashboardData, null, 2));
+    console.log(`[DASHBOARD] Updated history with ${newDashboardItems.length} new items.`);
+  }
 }
 
 pushArticles().then(() => {
