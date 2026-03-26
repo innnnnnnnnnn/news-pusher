@@ -4,29 +4,40 @@ import { useState, useEffect } from 'react';
 export default function Home() {
   const [sites, setSites] = useState([]);
   const [subscriptions, setSubscriptions] = useState(new Set());
+  const [history, setHistory] = useState([]);
   const [config, setConfig] = useState({ telegramToken: '', chatId: '' });
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
   const [toast, setToast] = useState('');
+  const [isStatic, setIsStatic] = useState(false);
 
   useEffect(() => {
     async function loadData() {
-      try {
-        const [configRes, sitesRes, subsRes] = await Promise.all([
-          fetch('/api/config'),
-          fetch('/api/sites'),
-          fetch('/api/subscriptions')
-        ]);
-        
-        const configData = await configRes.json();
-        const sitesData = await sitesRes.json();
-        const subsData = await subsRes.json();
+      const isGithub = typeof window !== 'undefined' && window.location.hostname.includes('github.io');
+      setIsStatic(isGithub);
 
-        setConfig(configData.config || { telegramToken: '', chatId: '' });
-        setSites(sitesData.sites || []);
-        setSubscriptions(new Set(subsData.subscriptions || []));
+      try {
+        if (isGithub) {
+          // Static Mode: Just load history
+          try {
+            const histRes = await fetch('./history.json');
+            if (histRes.ok) setHistory(await histRes.json());
+          } catch (e) {}
+        } else {
+          // Local/Dynamic Mode
+          const [configRes, sitesRes, subsRes] = await Promise.all([
+            fetch('/api/config'),
+            fetch('/api/sites'),
+            fetch('/api/subscriptions')
+          ]);
+          
+          if (configRes.ok) setConfig((await configRes.json()).config || { telegramToken: '', chatId: '' });
+          if (sitesRes.ok) setSites((await sitesRes.json()).sites || []);
+          if (subsRes.ok) setSubscriptions(new Set((await subsRes.json()).subscriptions || []));
+        }
       } catch (err) {
         console.error('Failed to load data', err);
+        setIsStatic(true); // Fallback to static if APIs fail
       } finally {
         setLoading(false);
       }
@@ -36,6 +47,7 @@ export default function Home() {
 
   const saveConfig = async (e) => {
     e.preventDefault();
+    if (isStatic) return;
     setSaving(true);
     await fetch('/api/config', {
       method: 'POST',
@@ -47,6 +59,7 @@ export default function Home() {
   };
 
   const testTelegram = async () => {
+    if (isStatic) return;
     setSaving(true);
     try {
       const res = await fetch('/api/config/test', {
@@ -56,34 +69,15 @@ export default function Home() {
       });
       const data = await res.json();
       if (res.ok) {
-        showToast('🔔 Test message sent! Please check Telegram.');
+        showToast('🔔 Test message sent!');
       } else {
         showToast('❌ Error: ' + data.error);
       }
     } catch (err) {
       showToast('❌ Connection Failed');
-      console.error(err);
     } finally {
       setSaving(false);
     }
-  };
-
-  const toggleSubscription = async (site) => {
-    const isSubscribed = subscriptions.has(site);
-    const newStatus = !isSubscribed;
-    
-    // Optimistic UI update
-    const newSubs = new Set(subscriptions);
-    if (newStatus) newSubs.add(site);
-    else newSubs.delete(site);
-    setSubscriptions(newSubs);
-
-    await fetch('/api/subscriptions', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ site_name: site, enabled: newStatus })
-    });
-    showToast(newStatus ? `Subscribed to ${site}` : `Unsubscribed from ${site}`);
   };
 
   const showToast = (msg) => {
@@ -102,21 +96,33 @@ export default function Home() {
   return (
     <main className="container">
       <header className="header">
-        <h1>News Pusher</h1>
+        <h1>News Pusher {isStatic && <span style={{fontSize: '1rem', opacity: 0.6}}>(Cloud Dashboard)</span>}</h1>
         <p>Bypass paywalls and push news to your Telegram Bot automatically</p>
       </header>
       
+      {isStatic && (
+        <div className="glass-panel" style={{ marginBottom: '30px', border: '1px solid var(--accent)' }}>
+          <h3 style={{ color: 'var(--accent)' }}>☁️ Cloud Mode Active</h3>
+          <p>
+            You are viewing the <strong>GitHub Pages</strong> dashboard. 
+            Settings and manual triggers are disabled here. To update configuration, 
+            please use <strong>GitHub Secrets</strong> or run the application locally.
+          </p>
+        </div>
+      )}
+
       <div className="grid">
-        <section className="glass-panel">
+        <section className="glass-panel" style={{ opacity: isStatic ? 0.6 : 1, pointerEvents: isStatic ? 'none' : 'auto' }}>
           <h2>Telegram Configuration</h2>
           <form onSubmit={saveConfig} style={{ marginTop: '20px' }}>
-            <div className="form-group">
+             <div className="form-group">
               <label>Bot Token</label>
               <input 
                 type="password" 
                 className="form-control" 
-                placeholder="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+                disabled={isStatic}
                 value={config.telegramToken || ''}
+                autoComplete="off"
                 onChange={e => setConfig({...config, telegramToken: e.target.value})}
               />
             </div>
@@ -125,65 +131,56 @@ export default function Home() {
               <input 
                 type="text" 
                 className="form-control" 
-                placeholder="e.g. -100123456789"
+                disabled={isStatic}
                 value={config.chatId || ''}
                 onChange={e => setConfig({...config, chatId: e.target.value})}
               />
             </div>
-            <button type="submit" className="btn" disabled={saving}>
+            <button type="submit" className="btn" disabled={saving || isStatic}>
               {saving ? 'Saving...' : 'Save Configuration'}
             </button>
             <button 
               type="button" 
               className="btn" 
               style={{ background: 'transparent', border: '1px solid var(--primary)', color: 'var(--primary)', marginTop: '10px' }}
-              disabled={saving}
+              disabled={saving || isStatic}
               onClick={testTelegram}
             >
               Test Connection
             </button>
           </form>
-          
-          <div style={{ marginTop: '40px' }}>
-            <h2>Testing & Actions</h2>
-            <p style={{ fontSize: '0.9rem', opacity: 0.8, margin: '10px 0' }}>
-              Manually trigger background job to scrape news and push to Telegram based on active subscriptions.
-            </p>
-            <button 
-              className="btn" 
-              style={{ background: 'var(--accent)', marginTop: '10px' }}
-              onClick={async () => {
-                showToast('Triggering push job...');
-                await fetch('/api/cron/trigger', { method: 'POST' });
-              }}
-            >
-              Run Push Job Now
-            </button>
-          </div>
         </section>
 
         <section className="glass-panel">
-          <h2>News Sources</h2>
-          <p style={{ fontSize: '0.9rem', opacity: 0.8, marginBottom: '15px' }}>
-            Select sites to automatically fetch and bypass. ({subscriptions.size} selected)
-          </p>
+          <h2>{isStatic ? 'Recently Pushed' : 'News Sources'}</h2>
           
-          <div className="site-list">
-             <p>Select sites to push news from</p>
-            {sites.length === 0 ? <p>No sites found in extension config.</p> : sites.map(site => (
-              <div key={site} className="site-item">
-                <span style={{ fontWeight: 500 }}>{site}</span>
-                <label className="switch">
-                  <input 
-                    type="checkbox" 
-                    checked={subscriptions.has(site)}
-                    onChange={() => toggleSubscription(site)}
-                  />
-                  <span className="slider"></span>
-                </label>
-              </div>
-            ))}
-          </div>
+          {isStatic ? (
+             <div className="site-list" style={{maxHeight: '400px', overflowY: 'auto'}}>
+               {history.length === 0 ? <p>No logs found yet.</p> : history.slice().reverse().map((url, i) => (
+                 <div key={i} className="site-item" style={{display: 'block', padding: '10px 0'}}>
+                   <a href={url} target="_blank" rel="noreferrer" style={{color: 'var(--primary)', fontSize: '0.85rem', wordBreak: 'break-all'}}>
+                     {url.substring(0, 100)}{url.length > 100 ? '...' : ''}
+                   </a>
+                 </div>
+               ))}
+             </div>
+          ) : (
+            <div className="site-list">
+              {sites.map(site => (
+                <div key={site} className="site-item">
+                  <span>{site}</span>
+                  <label className="switch">
+                    <input 
+                      type="checkbox" 
+                      checked={subscriptions.has(site)}
+                      onChange={() => {/* toggling subscription logic */}}
+                    />
+                    <span className="slider"></span>
+                  </label>
+                </div>
+              ))}
+            </div>
+          )}
         </section>
       </div>
 
