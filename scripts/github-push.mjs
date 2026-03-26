@@ -40,7 +40,7 @@ async function getDomainForSite(siteName) {
 
 const HISTORY_FILE = './history.json';
 const history = fs.existsSync(HISTORY_FILE) ? JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8')) : [];
-const DASHBOARD_FILE = './public/news-data.json';
+const DASHBOARD_FILE = './news-data.json';
 const newDashboardItems = [];
 
 async function pushArticles() {
@@ -120,8 +120,7 @@ async function pushArticles() {
   const trimmedHistory = history.slice(-500);
   fs.writeFileSync(HISTORY_FILE, JSON.stringify(trimmedHistory, null, 2));
 
-  // Finalize dashboard
-  if (!fs.existsSync('./public')) fs.mkdirSync('./public');
+  // Finalize dashboard (in root for GitHub Pages)
   let dashboardData = fs.existsSync(DASHBOARD_FILE) ? JSON.parse(fs.readFileSync(DASHBOARD_FILE, 'utf8')) : [];
   
   if (newDashboardItems.length > 0) {

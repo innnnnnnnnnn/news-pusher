@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add history.json public/news-data.json
+          git add history.json news-data.json
           git diff-index --quiet HEAD || git commit -m "update: sync push history & dashboard [skip ci]"
           git push
