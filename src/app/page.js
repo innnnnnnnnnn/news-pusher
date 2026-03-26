@@ -1,66 +1,195 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+'use client';
+import { useState, useEffect } from 'react';
 
 export default function Home() {
+  const [sites, setSites] = useState([]);
+  const [subscriptions, setSubscriptions] = useState(new Set());
+  const [config, setConfig] = useState({ telegramToken: '', chatId: '' });
+  const [loading, setLoading] = useState(true);
+  const [saving, setSaving] = useState(false);
+  const [toast, setToast] = useState('');
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const [configRes, sitesRes, subsRes] = await Promise.all([
+          fetch('/api/config'),
+          fetch('/api/sites'),
+          fetch('/api/subscriptions')
+        ]);
+        
+        const configData = await configRes.json();
+        const sitesData = await sitesRes.json();
+        const subsData = await subsRes.json();
+
+        setConfig(configData.config || { telegramToken: '', chatId: '' });
+        setSites(sitesData.sites || []);
+        setSubscriptions(new Set(subsData.subscriptions || []));
+      } catch (err) {
+        console.error('Failed to load data', err);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadData();
+  }, []);
+
+  const saveConfig = async (e) => {
+    e.preventDefault();
+    setSaving(true);
+    await fetch('/api/config', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(config)
+    });
+    setSaving(false);
+    showToast('Configuration Saved!');
+  };
+
+  const testTelegram = async () => {
+    setSaving(true);
+    try {
+      const res = await fetch('/api/config/test', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(config)
+      });
+      const data = await res.json();
+      if (res.ok) {
+        showToast('🔔 Test message sent! Please check Telegram.');
+      } else {
+        showToast('❌ Error: ' + data.error);
+      }
+    } catch (err) {
+      showToast('❌ Connection Failed');
+      console.error(err);
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const toggleSubscription = async (site) => {
+    const isSubscribed = subscriptions.has(site);
+    const newStatus = !isSubscribed;
+    
+    // Optimistic UI update
+    const newSubs = new Set(subscriptions);
+    if (newStatus) newSubs.add(site);
+    else newSubs.delete(site);
+    setSubscriptions(newSubs);
+
+    await fetch('/api/subscriptions', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ site_name: site, enabled: newStatus })
+    });
+    showToast(newStatus ? `Subscribed to ${site}` : `Unsubscribed from ${site}`);
+  };
+
+  const showToast = (msg) => {
+    setToast(msg);
+    setTimeout(() => setToast(''), 3000);
+  };
+
+  if (loading) {
+    return (
+      <div className="container" style={{ display: 'flex', justifyContent: 'center', marginTop: '100px' }}>
+        <div className="loading-spinner"></div>
+      </div>
+    );
+  }
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.js file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
+    <main className="container">
+      <header className="header">
+        <h1>News Pusher</h1>
+        <p>Bypass paywalls and push news to your Telegram Bot automatically</p>
+      </header>
+      
+      <div className="grid">
+        <section className="glass-panel">
+          <h2>Telegram Configuration</h2>
+          <form onSubmit={saveConfig} style={{ marginTop: '20px' }}>
+            <div className="form-group">
+              <label>Bot Token</label>
+              <input 
+                type="password" 
+                className="form-control" 
+                placeholder="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+                value={config.telegramToken || ''}
+                onChange={e => setConfig({...config, telegramToken: e.target.value})}
+              />
+            </div>
+            <div className="form-group">
+              <label>Chat ID / Channel ID</label>
+              <input 
+                type="text" 
+                className="form-control" 
+                placeholder="e.g. -100123456789"
+                value={config.chatId || ''}
+                onChange={e => setConfig({...config, chatId: e.target.value})}
+              />
+            </div>
+            <button type="submit" className="btn" disabled={saving}>
+              {saving ? 'Saving...' : 'Save Configuration'}
+            </button>
+            <button 
+              type="button" 
+              className="btn" 
+              style={{ background: 'transparent', border: '1px solid var(--primary)', color: 'var(--primary)', marginTop: '10px' }}
+              disabled={saving}
+              onClick={testTelegram}
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
+              Test Connection
+            </button>
+          </form>
+          
+          <div style={{ marginTop: '40px' }}>
+            <h2>Testing & Actions</h2>
+            <p style={{ fontSize: '0.9rem', opacity: 0.8, margin: '10px 0' }}>
+              Manually trigger background job to scrape news and push to Telegram based on active subscriptions.
+            </p>
+            <button 
+              className="btn" 
+              style={{ background: 'var(--accent)', marginTop: '10px' }}
+              onClick={async () => {
+                showToast('Triggering push job...');
+                await fetch('/api/cron/trigger', { method: 'POST' });
+              }}
             >
-              Learning
-            </a>{" "}
-            center.
+              Run Push Job Now
+            </button>
+          </div>
+        </section>
+
+        <section className="glass-panel">
+          <h2>News Sources</h2>
+          <p style={{ fontSize: '0.9rem', opacity: 0.8, marginBottom: '15px' }}>
+            Select sites to automatically fetch and bypass. ({subscriptions.size} selected)
           </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+          
+          <div className="site-list">
+             <p>Select sites to push news from</p>
+            {sites.length === 0 ? <p>No sites found in extension config.</p> : sites.map(site => (
+              <div key={site} className="site-item">
+                <span style={{ fontWeight: 500 }}>{site}</span>
+                <label className="switch">
+                  <input 
+                    type="checkbox" 
+                    checked={subscriptions.has(site)}
+                    onChange={() => toggleSubscription(site)}
+                  />
+                  <span className="slider"></span>
+                </label>
+              </div>
+            ))}
+          </div>
+        </section>
+      </div>
+
+      {toast && (
+        <div className="toast">{toast}</div>
+      )}
+    </main>
   );
 }

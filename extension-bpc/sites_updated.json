@@ -1,0 +1,120 @@
+{
+  "BBC History Extra": {
+    "domain": "historyextra.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.historyextra\\.com\\/zephr\\/feature",
+    "upd_version": "4.3.1.7"
+  },
+  "Der Standard.at": {
+    "domain": "derstandard.at",
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "upd_version": "4.3.1.8"
+  },
+  "Fd.nl": {
+    "domain": "fd.nl",
+    "allow_cookies": 1,
+    "block_regex": "\\/specials\\.fd\\.nl\\/_next\\/static\\/chunks\\/framework-.+\\.js",
+    "useragent": "googlebot",
+    "upd_version": "4.3.2.5"
+  },
+  "Harvard Business Review": {
+    "domain": "hbr.org",
+    "block_regex": "(\\.cxense\\.com\\/|cdn\\.tinypass\\.com\\/|\\.adobedtm\\.com\\/.+\\/launch-.+\\.js)",
+    "remove_cookies_select_drop": ["xbc"],
+    "upd_version": "4.3.2.3"
+  },
+  "Il Manifesto": {
+    "domain": "ilmanifesto.it",
+    "allow_cookies": 1,
+    "useragent": "googlebot",
+    "upd_version": "4.3.1.5"
+  },
+  "London Review of Books": {
+    "domain": "lrb.co.uk",
+    "allow_cookies": 1,
+    "cs_clear_lclstrg": 1,
+    "upd_version": "4.3.2.3"
+  },
+  "Nautilus": {
+    "domain": "nautil.us",
+    "allow_cookies": 1,
+    "block_regex": "\\/nautil\\.us\\/_next\\/static\\/chunks\\/pages\\/_sites\\/%5BsiteSlug%5D\\/%5B...slug.+\\.js",
+    "upd_version": "4.3.2.4"
+  },
+  "Neue Zürcher Zeitung": {
+    "domain": "nzz.ch",
+    "allow_cookies": 1,
+    "block_regex": "(\\.piano\\.io\\/xbuilder\\/experience\\/execute|\\.cxense\\.com\\/|tms\\.danzz\\.ch\\/scripts\\/t\\.min\\.js)",
+    "upd_version": "4.3.2.5"
+  },
+  "PhiloMag.com": {
+    "domain": "philomag.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.qiota\\.com",
+    "amp_redirect": "div.paywall-content",
+    "cs_code": "[{\"cond\":\"amp-script\", \"rm_attrib\":\"class|layout\"}, {\"cond\":\"amp-script div.i-amphtml-fill-content\", \"rm_attrib\":\"class\"}]",
+    "upd_version": "4.3.1.7"
+  },
+  "Slate": {
+    "domain": "slate.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\.piano\\.io\\/xbuilder\\/experience\\/execute|\\.cxense\\.com\\/|\\.sophi\\.io\\/)",
+    "upd_version": "4.3.1.7"
+  },
+  "Standardmedia.co.ke": {
+    "domain": "standardmedia.co.ke",
+    "allow_cookies": 1,
+    "ld_json": "div.spw-wrap|div.tbl_art>p:not([class])",
+    "upd_version": "4.3.2.6"
+  },
+  "Telegraaf": {
+    "domain": "telegraaf.nl",
+    "remove_cookies_select_drop": ["mh_pw_se"],
+    "ld_archive_is": "div[data-testid='paywall-position-popover']:not(:empty)|article",
+    "cs_block": 1,
+    "cs_code": "[{\"cond\":\"body[class]\", \"rm_attrib\":\"class\"}]",
+    "upd_version": "4.3.1.8"
+  },
+  "The Daily Wire": {
+    "domain": "dailywire.com",
+    "cs_code": "[{\"cond\":\"div.css-1lul109\", \"rm_attrib\":\"class\"}, {\"hide_elem\":\"div#payed-article-paywall\"}]",
+    "upd_version": "4.3.1.8"
+  },
+  "The Economist": {
+    "domain": "economist.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\/zephr\\/feature|\\.economist\\.com\\/(latest\\/wall-ui|script)\\.js)",
+    "useragent_custom": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.103 Mobile Safari/537.36 Liskov",
+    "upd_version": "4.3.2.2"
+  },
+  "The Independent": {
+    "domain": "###_uk_independent",
+    "group": [
+      "independent.co.uk",
+      "the-independent.com"
+    ],
+    "allow_cookies": 1,
+    "block_regex": "\\.independent\\.co\\.uk\\/api\\/tinypass\\.min\\.js",
+    "upd_version": "4.3.1.5"
+  },
+  "The New York Sun": {
+    "domain": "nysun.com",
+    "allow_cookies": 1,
+    "ld_json": "p>a[href^='/login?']|div.article-wrapper>div:last-child",
+    "upd_version": "4.3.1.6"
+  },
+  "The Times UK": {
+    "domain": "thetimes.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.zephr\\.com\\/zephr-browser",
+    "ld_archive_is":  "div#paywall-takeover|article[id]",
+    "upd_version": "4.3.2.6"
+  },
+  "World Economics": {
+    "domain": "worldeconomics.com",
+    "allow_cookies": 1,
+    "cs_code": "[{\"cond\":\"div.blurred\", \"rm_class\":\"blurred\"}, {\"cond\":\"div.blurredImage\", \"rm_class\":\"blurredImage\"}, {\"cond\":\"body.noscroll\", \"rm_class\":\"noscroll\"}, {\"hide_elem\":\"div#paywall,div.StickyFooter,div#scrollable\"}]",
+    "upd_version": "4.3.1.7"
+  }
+}
