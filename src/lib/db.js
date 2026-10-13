@@ -23,8 +23,11 @@ db.exec(`
 db.exec(`
   CREATE TABLE IF NOT EXISTS pushed_articles (
     url TEXT PRIMARY KEY,
+    title TEXT,
     pushed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
   );
 `);
+
+db.exec(`CREATE INDEX IF NOT EXISTS idx_pushed_articles_title ON pushed_articles(title);`);
 
 export default db;

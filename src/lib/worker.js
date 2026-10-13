@@ -6,17 +6,31 @@ import fs from 'fs';
 import vm from 'vm';
 import path from 'path';
 
+function normalizeTitle(title) {
+  if (!title) return '';
+  // Remove " - Site Name" suffix
+  const clean = title.replace(/\s+-\s+[^-\s]+.*$/, '').trim();
+  // Lowercase and remove extra spaces
+  return clean.toLowerCase().replace(/\s+/g, ' ');
+}
+
 async function fetchAllArticlesFromGoogleNewsRSS(siteUrl) {
   try {
     const rssUrl = `https://news.google.com/rss/search?q=site:${siteUrl}`;
     const res = await fetch(rssUrl);
     const text = await res.text();
-    // Use regex to find all <link> values within <item> tags
+    // Use regex to find all <item> tags
     const items = text.match(/<item>.*?<\/item>/gs) || [];
     return items.map(item => {
       const linkMatch = item.match(/<link>(.*?)<\/link>/);
-      return linkMatch ? linkMatch[1] : null;
-    }).filter(link => link !== null);
+      const titleMatch = item.match(/<title>(.*?)<\/title>/);
+      const originalTitle = titleMatch ? titleMatch[1] : null;
+      return {
+        url: linkMatch ? linkMatch[1] : null,
+        title: originalTitle,
+        normalizedTitle: normalizeTitle(originalTitle)
+      };
+    }).filter(item => item.url !== null);
   } catch(e) {
     console.error('RSS Fetch error:', e);
     return [];
@@ -62,18 +76,55 @@ export async function runPushJob() {
       const domain = await getDomainForSite(siteName);
       if (!domain) continue;
 
-      const articleUrls = await fetchAllArticlesFromGoogleNewsRSS(domain);
+      const articles = await fetchAllArticlesFromGoogleNewsRSS(domain);
       // Process newest first (RSS usually sorted by date desc)
-      for (const articleUrl of articleUrls) {
-        // Check if already sent
+      for (const articleItem of articles) {
+        const { url: articleUrl, title: rssTitle, normalizedTitle: rssNormTitle } = articleItem;
+
+        // 1. Initial check (Exact RSS URL)
         const exist = db.prepare('SELECT 1 FROM pushed_articles WHERE url = ?').get(articleUrl);
         if (exist) continue;
+
+        // 2. Title check (RSS Title - Normalized)
+        if (rssNormTitle) {
+          const existTitle = db.prepare('SELECT 1 FROM pushed_articles WHERE title = ?').get(rssNormTitle);
+          if (existTitle) {
+            console.log(`[SKIP] Title already pushed (norm): ${rssNormTitle}`);
+            // Still mark this URL as seen to avoid re-checking
+            db.prepare('INSERT OR IGNORE INTO pushed_articles (url, title) VALUES (?, ?)').run(articleUrl, rssNormTitle);
+            continue;
+          }
+        }
 
         console.log(`[QUEUE] Found new article for ${siteName}: ${articleUrl}`);
         
         try {
           const article = await scrapeArticleWithBPC(articleUrl);
-          
+          const scrapedNormTitle = normalizeTitle(article.title);
+
+          // 3. Final check (Canonical URL after redirect)
+          if (article.url !== articleUrl) {
+            const existCanonical = db.prepare('SELECT 1 FROM pushed_articles WHERE url = ?').get(article.url);
+            if (existCanonical) {
+              console.log(`[SKIP] Canonical URL already pushed: ${article.url}`);
+              db.prepare('INSERT OR IGNORE INTO pushed_articles (url, title) VALUES (?, ?)').run(articleUrl, scrapedNormTitle || rssNormTitle);
+              continue;
+            }
+          }
+
+          // 4. Final title check (Scraped Title - Normalized)
+          if (scrapedNormTitle) {
+            const existScrapedTitle = db.prepare('SELECT 1 FROM pushed_articles WHERE title = ?').get(scrapedNormTitle);
+            if (existScrapedTitle) {
+              console.log(`[SKIP] Scraped title already pushed (norm): ${scrapedNormTitle}`);
+              db.prepare('INSERT OR IGNORE INTO pushed_articles (url, title) VALUES (?, ?)').run(articleUrl, scrapedNormTitle);
+              if (article.url !== articleUrl) {
+                db.prepare('INSERT OR IGNORE INTO pushed_articles (url, title) VALUES (?, ?)').run(article.url, scrapedNormTitle);
+              }
+              continue;
+            }
+          }
+
           const [tTitle, tCategory, tExcerpt] = await Promise.all([
             translate(article.title, { to: 'zh-TW' }),
             translate(article.category || 'News', { to: 'zh-TW' }),
@@ -93,7 +144,12 @@ export async function runPushJob() {
             await bot.sendMessage(configMap.chatId, message, { parse_mode: 'Markdown' });
           }
 
-          db.prepare('INSERT INTO pushed_articles (url) VALUES (?)').run(articleUrl);
+          // Save both URLs and the normalized title
+          db.prepare('INSERT OR IGNORE INTO pushed_articles (url, title) VALUES (?, ?)').run(articleUrl, scrapedNormTitle);
+          if (article.url !== articleUrl) {
+            db.prepare('INSERT OR IGNORE INTO pushed_articles (url, title) VALUES (?, ?)').run(article.url, scrapedNormTitle);
+          }
+          
           console.log(`[PASS] Sent: ${article.title}`);
           
           // Wait 2 seconds between individual articles to be safe

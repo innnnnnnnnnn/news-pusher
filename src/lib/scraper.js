@@ -1,31 +1,41 @@
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import { Readability } from '@mozilla/readability';
 import { JSDOM } from 'jsdom';
 import path from 'path';
 
+puppeteer.use(StealthPlugin());
+
 export async function scrapeArticleWithBPC(url) {
   const extensionPath = process.env.BPC_PATH || path.resolve(process.cwd(), './extension-bpc');
   
-  // Puppeteer setup with extension loaded
+  // Puppeteer setup with extension loaded and stealth configuration
   const browser = await puppeteer.launch({
     headless: 'new',
     args: [
       `--disable-extensions-except=${extensionPath}`,
       `--load-extension=${extensionPath}`,
-      '--no-sandbox'
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-blink-features=AutomationControlled',
+      '--window-size=1920,1080',
+      '--disable-dev-shm-usage',
+      '--disable-gpu',
+      '--lang=en-US,en;q=0.9'
     ]
   });
 
   try {
     const page = await browser.newPage();
+    await page.setViewport({ width: 1920, height: 1080 });
     
-    // Set a random user agent to mimic regular browsing further (optional, BPC does this too)
+    // Set a realistic user agent
     await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
     
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
     
-    // Wait a bit just in case BPC needs a moment to manipulate DOM/Cookies
-    await new Promise(r => setTimeout(r, 3000));
+    // Wait for BPC to bypass and Cloudflare challenge to complete
+    await new Promise(r => setTimeout(r, 4000));
     
     // Extract main image, title, and other metadata
     const articleData = await page.evaluate(() => {
@@ -59,12 +69,28 @@ export async function scrapeArticleWithBPC(url) {
     const reader = new Readability(dom.window.document);
     const article = reader.parse();
     
-    const textContent = article?.textContent || '';
+    const textContent = article?.textContent?.trim() || '';
+    const title = article?.title?.trim() || '';
+    
+    // Check if intercepted by Cloudflare challenge / Turnstile bot wall
+    const isCloudflareChallenge = 
+      title.toLowerCase().includes('just a moment') ||
+      title.toLowerCase().includes('security verification') ||
+      title.toLowerCase().includes('attention required') ||
+      textContent.includes('help.ft.com') ||
+      textContent.includes('cf-browser-verification') ||
+      textContent.includes('Cloudflare Ray ID') ||
+      textContent.length < 150;
+
+    if (isCloudflareChallenge) {
+      throw new Error(`Article blocked by Cloudflare/Anti-bot challenge: "${title}" at ${resolvedUrl}`);
+    }
+
     const wordCount = textContent.split(/\s+/).length;
     const readingTime = Math.ceil(wordCount / 200);
 
     return {
-      title: article?.title || 'Unknown Title',
+      title: title || 'Unknown Title',
       textContent: textContent,
       excerpt: article?.excerpt || '',
       category: articleData.category,
