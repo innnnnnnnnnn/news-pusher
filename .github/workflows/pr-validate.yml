@@ -1,0 +1,44 @@
+name: PR Validation
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Validate RSS feeds are reachable
+        run: |
+          node -e "
+          const feeds = [
+            'https://www.ft.com/rss/home/uk',
+            'https://www.economist.com/finance-and-economics/rss.xml',
+            'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+          ];
+          Promise.all(feeds.map(url =>
+            fetch(url, { signal: AbortSignal.timeout(10000) })
+              .then(r => ({ url: url.split('/').pop(), status: r.status, ok: r.ok }))
+              .catch(e => ({ url: url.split('/').pop(), error: e.message }))
+          )).then(results => {
+            results.forEach(r => console.log(r.ok ? '✅' : '❌', r.url, r.status || r.error));
+            const failed = results.filter(r => !r.ok);
+            if (failed.length > 0) process.exit(1);
+          });
+          "
+
+      - name: Check script syntax
+        run: node --check scripts/github-push.mjs
