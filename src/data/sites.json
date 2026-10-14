@@ -1,0 +1,3488 @@
+[
+  {
+    "name": "BBC History Extra",
+    "domain": "historyextra.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "BBC USA",
+    "domain": "bbc.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "Bloomberg",
+    "domain": "bloomberg.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "Bloomberg Adria",
+    "domain": "bloombergadria.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "CNN",
+    "domain": "cnn.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "Financial Times (not cn subdomain)",
+    "domain": "ft.com",
+    "isRecommended": true,
+    "hasRss": true
+  },
+  {
+    "name": "Nikkei Asian Review",
+    "domain": "asia.nikkei.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "Reuters",
+    "domain": "reuters.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "South China Morning Post",
+    "domain": "scmp.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "The Atlantic",
+    "domain": "theatlantic.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "The Economist",
+    "domain": "economist.com",
+    "isRecommended": true,
+    "hasRss": true
+  },
+  {
+    "name": "The New York Times",
+    "domain": "nytimes.com",
+    "isRecommended": true,
+    "hasRss": true
+  },
+  {
+    "name": "The Wall Street Journal",
+    "domain": "wsj.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "The Washington Post",
+    "domain": "washingtonpost.com",
+    "isRecommended": true,
+    "hasRss": false
+  },
+  {
+    "name": "60 Millions de consommateurs",
+    "domain": "60millions-mag.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Aachener Zeitung (fetch from archive.is)",
+    "domain": "aachener-zeitung.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Abcmais.com",
+    "domain": "abcmais.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Actu.fr",
+    "domain": "actu.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Advance Local",
+    "domain": "al.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Adweek",
+    "domain": "adweek.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Aftenposten.no",
+    "domain": "aftenposten.no",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Al-Monitor (fetch from archive.is)",
+    "domain": "al-monitor.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Albuquerque Journal",
+    "domain": "abqjournal.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Algemeen Dagblad (+ regional/ADR; fetch from archive.is)",
+    "domain": "ad.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Alternatives Economiques",
+    "domain": "alternatives-economiques.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ámbito",
+    "domain": "ambito.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "America's Test Kitchen",
+    "domain": "americastestkitchen.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "American Affairs",
+    "domain": "americanaffairsjournal.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "American Banker (+ Arizent/opt-in to custom sites)",
+    "domain": "americanbanker.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "American Purpose",
+    "domain": "americanpurpose.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Amp-access",
+    "domain": "cdn.ampproject.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Amplitude",
+    "domain": "amplitude.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Aoc.media",
+    "domain": "aoc.media",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "ARA",
+    "domain": "ara.cat",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Arc XP",
+    "domain": "###_arcxp.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Arena Holdings (ZA; opt-in to custom sites for unlisted)",
+    "domain": "businessday.co.za",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Artforum",
+    "domain": "artforum.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Artnet",
+    "domain": "artnet.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ärzte Zeitung",
+    "domain": "aerztezeitung.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Atavist Magazine",
+    "domain": "atavist.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Atlantico.fr",
+    "domain": "atlantico.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Australia News Corp",
+    "domain": "adelaidenow.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Australia Nine Entertainment",
+    "domain": "afr.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Australian Community Media (opt-in to custom sites for unlisted)",
+    "domain": "bendigoadvertiser.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Autocar.co.uk",
+    "domain": "autocar.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "AutoHebdo.fr",
+    "domain": "autohebdo.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Automobilwoche",
+    "domain": "automobilwoche.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "AutoPlus.fr",
+    "domain": "autoplus.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Autosport (free articles only)",
+    "domain": "autosport.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Axate.io",
+    "domain": "###_uk_axate.io",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Axios",
+    "domain": "axios.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Azure Connext Loader",
+    "domain": "###_azure_connext",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Badische Neueste Nachrichten (fetch from archive.is)",
+    "domain": "bnn.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Balkan Insight",
+    "domain": "balkaninsight.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bar and Bench",
+    "domain": "barandbench.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Barron's",
+    "domain": "barrons.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Benzinga",
+    "domain": "benzinga.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bergens Tidende",
+    "domain": "bt.no",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Berliner Zeitung (fetch from archive.is)",
+    "domain": "berliner-zeitung.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Berlingske Media",
+    "domain": "berlingske.dk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bhaskar",
+    "domain": "bhaskar.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bild (fetch from archive.is)",
+    "domain": "bild.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Blaze Media",
+    "domain": "theblaze.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "BlueConic",
+    "domain": "blueconic.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "BNP Media (opt-in to custom sites)",
+    "domain": "###_usa_bnp_media",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bonnier News Group (SE; opt-in to custom sites for unlisted)",
+    "domain": "dagensmedicin.se",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Börsen-Zeitung",
+    "domain": "boersen-zeitung.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bridge Tower Media (opt-in to custom sites)",
+    "domain": "###_usa_bridge_tower",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Brill",
+    "domain": "brill.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Bulletin of the Atomic Scientists",
+    "domain": "thebulletin.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Business Insider",
+    "domain": "businessinsider.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Business Insider Japan",
+    "domain": "businessinsider.jp",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Business Insider Nederland",
+    "domain": "businessinsider.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Business Post.ie",
+    "domain": "businesspost.ie",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Business Standard",
+    "domain": "business-standard.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "BusinessAM.be",
+    "domain": "businessam.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "BusinessDesk.co.nz",
+    "domain": "businessdesk.co.nz",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "California Business Journals",
+    "domain": "labusinessjournal.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Capital.bg",
+    "domain": "capital.bg",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Capital.fr",
+    "domain": "capital.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "CaravanMagazine.in (fetch from archive.is)",
+    "domain": "caravanmagazine.in",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "CartaCapital",
+    "domain": "cartacapital.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Causeur",
+    "domain": "causeur.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Challenges",
+    "domain": "challenges.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Charlie Hebdo",
+    "domain": "charliehebdo.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Chemical & Engineering News",
+    "domain": "cen.acs.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Chunichi Shimbun Group",
+    "domain": "chunichi.co.jp",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Cicero.de (fetch from archive.is)",
+    "domain": "cicero.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Citywire",
+    "domain": "citywire.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "CNBC (news only)",
+    "domain": "cnbc.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "CNHI Group (opt-in to custom sites)",
+    "domain": "###_usa_cnhi",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Commentary Magazine",
+    "domain": "commentary.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "CommonWealth Magazine Taiwan (free articles only)",
+    "domain": "cw.com.tw",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Condé Nast magazines",
+    "domain": "architecturaldigest.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Connaissance des Arts",
+    "domain": "connaissancedesarts.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Correio do Povo",
+    "domain": "correiodopovo.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Corriere della Sera",
+    "domain": "corriere.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Corriere dello Sport",
+    "domain": "corrieredellosport.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Cosmopolitan.fr",
+    "domain": "cosmopolitan.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Courrier international",
+    "domain": "courrierinternational.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Cox First Media (opt-in to custom sites for unlisted)",
+    "domain": "daytondailynews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Crain Communications",
+    "domain": "360dx.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Crusoe.com.br",
+    "domain": "crusoe.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Cxense",
+    "domain": "cxense.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "CyclingNews",
+    "domain": "cyclingnews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Dagens ETC",
+    "domain": "etc.se",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Dagsavisen.no",
+    "domain": "dagsavisen.no",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Daily Herald (USA)",
+    "domain": "dailyherald.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Daily Mail Group UK",
+    "domain": "dailymail.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "De Tijd",
+    "domain": "tijd.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Decanter (not reviews)",
+    "domain": "decanter.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Defector",
+    "domain": "defector.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Denik.cz",
+    "domain": "denik.cz",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Der Freitag",
+    "domain": "freitag.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Der Spiegel (fetch from archive.is)",
+    "domain": "spiegel.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Der Standard.at",
+    "domain": "derstandard.at",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Der Tagesspiegel (fetch from archive.is; not background/checkpoint)",
+    "domain": "tagesspiegel.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Deutscher Fachverlag Mediengruppe (opt-in to custom sites)",
+    "domain": "###_de_dfv_medien",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Diario de Navarra (text only)",
+    "domain": "diariodenavarra.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Diário de Notícias (dn.pt)",
+    "domain": "dn.pt",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Diario Financiero (df.cl)",
+    "domain": "df.cl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Die Presse (AT)",
+    "domain": "diepresse.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Die Rheinpfalz",
+    "domain": "rheinpfalz.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Die Welt (fetch from archive.is)",
+    "domain": "welt.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Die Zeit (fetch from archive.is)",
+    "domain": "zeit.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Digiday Media",
+    "domain": "digiday.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "DigiTimes Asia",
+    "domain": "digitimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Discover Magazine",
+    "domain": "discovermagazine.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "DK Medier Group (opt-in to custom sites)",
+    "domain": "###_dk_medier",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "DN Media Group",
+    "domain": "dn.no",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Dnevnik.bg",
+    "domain": "dnevnik.bg",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Domani",
+    "domain": "editorialedomani.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Doorbraak.be",
+    "domain": "doorbraak.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "DPG Media (not ADR)",
+    "domain": "demorgen.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "DVV Media International (opt-in to custom sites)",
+    "domain": "###_uk_dvv_media",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Dwell",
+    "domain": "dwell.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Eastwest.eu",
+    "domain": "eastwest.eu",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Confidencial",
+    "domain": "elconfidencial.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Cronista",
+    "domain": "cronista.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Deber.com.bo",
+    "domain": "eldeber.com.bo",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Diario.es",
+    "domain": "eldiario.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Español",
+    "domain": "elespanol.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Espectador",
+    "domain": "elespectador.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Mercurio (digital only)",
+    "domain": "elmercurio.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Observador.com.uy",
+    "domain": "elobservador.com.uy",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El País",
+    "domain": "elpais.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El País.com.uy",
+    "domain": "elpais.com.uy",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Tiempo (CO)",
+    "domain": "eltiempo.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Tribuno (AR)",
+    "domain": "eltribuno.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Universal.com.mx",
+    "domain": "eluniversal.com.mx",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "El Universo (EC)",
+    "domain": "eluniverso.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Elle.fr",
+    "domain": "elle.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Encyclopedia Britannica",
+    "domain": "britannica.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "eNotes",
+    "domain": "enotes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ensighten",
+    "domain": "ensighten.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Entrepreneur",
+    "domain": "entrepreneur.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Erna Media.se (opt-in to custom sites)",
+    "domain": "###_se_erna_media",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "ESPN USA (news only; fetch from archive.is)",
+    "domain": "espn.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Esprit",
+    "domain": "esprit.presse.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Estado de Minas",
+    "domain": "em.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "EUobserver",
+    "domain": "euobserver.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Evening Standard (UK)",
+    "domain": "standard.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "EverCookie",
+    "domain": "###_evercookie",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Evolok",
+    "domain": "evolok.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Evolok WordPress",
+    "domain": "###_wp_evolok",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Exame",
+    "domain": "exame.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Expresso.pt (not Tribuna)",
+    "domain": "expresso.pt",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Fast Company",
+    "domain": "fastcompany.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Fd.nl",
+    "domain": "fd.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "FewCents",
+    "domain": "fewcents.co",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Field & Stream",
+    "domain": "fieldandstream.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Financial News (London)",
+    "domain": "fnlondon.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "First Things",
+    "domain": "firstthings.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "FMR",
+    "domain": "fmrmagazine.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "FocusPlus.de",
+    "domain": "focusplus.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Fokus.se",
+    "domain": "fokus.se",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Follow the Money (ftm.nl & ftm.eu)",
+    "domain": "ftm.eu",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Forbes (not newsletters)",
+    "domain": "forbes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Forbes Australia",
+    "domain": "forbes.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Forbes.ua (text only)",
+    "domain": "forbes.ua",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Foreign Affairs (not reader)",
+    "domain": "foreignaffairs.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Foreign Policy",
+    "domain": "foreignpolicy.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Fortune",
+    "domain": "fortune.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Forum Communications (opt-in to custom sites)",
+    "domain": "###_usa_forum_comm",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Fox News (regwall)",
+    "domain": "foxnews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Frankfurter Allgemeine Zeitung",
+    "domain": "faz.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "FT Specialist Group (opt-in to custom sites)",
+    "domain": "###_uk_ft_specialist",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Funke Mediengruppe",
+    "domain": "abendblatt.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Gannett Group (local USA Today; opt-in to custom sites for unlisted)",
+    "domain": "azcentral.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "GaúchaZH",
+    "domain": "gauchazh.clicrbs.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Gazeta do Povo",
+    "domain": "gazetadopovo.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "GB News",
+    "domain": "gbnews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Glassdoor (regwall)",
+    "domain": "glassdoor.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Globes",
+    "domain": "globes.co.il",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Granta Magazine",
+    "domain": "granta.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "GremiMedia.pl Group",
+    "domain": "parkiet.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groene Amsterdammer",
+    "domain": "groene.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Capitales Médias (+ regional/opt-in to custom sites)",
+    "domain": "lesoleil.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Centre France (opt-in to custom sites for unlisted)",
+    "domain": "lamontagne.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe EBRA",
+    "domain": "bienpublic.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe ESH Médias",
+    "domain": "arcinfo.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Infopro Digital (opt-in to custom sites for unlisted)",
+    "domain": "usinenouvelle.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe IPM",
+    "domain": "dhnet.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe La Dépêche",
+    "domain": "centrepresseaveyron.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe La Manche Libre",
+    "domain": "lamanchelibre.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Nice-Matin",
+    "domain": "monacomatin.mc",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Profession Santé",
+    "domain": "lequotidiendumedecin.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Québecor",
+    "domain": "journaldemontreal.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Rossel",
+    "domain": "aisnenouvelle.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe Sud Ouest",
+    "domain": "sudouest.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Groupe SynerJ Media (opt-in to custom sites)",
+    "domain": "###_fr_synerj",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Grupo Abril",
+    "domain": "abril.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Grupo Clarín",
+    "domain": "clarin.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Grupo El Comercio",
+    "domain": "diariocorreo.pe",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Grupo Prensa Ibérica (opt-in to custom sites for unlisted)",
+    "domain": "diariodemallorca.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Grupo Unidad Editorial",
+    "domain": "elmundo.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Grupo Vocento",
+    "domain": "abc.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Gruppo GEDI.it",
+    "domain": "huffingtonpost.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Gruppo SAE.it (free articles only; opt-in to custom sites for unlisted)",
+    "domain": "iltirreno.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Haaretz Group (article no menu/footer)",
+    "domain": "haaretz.co.il",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Handelsblatt",
+    "domain": "handelsblatt.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Harper's Magazine (free articles only)",
+    "domain": "harpers.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Harvard Business Review (do not block TinyPass-script externally)",
+    "domain": "hbr.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Haymarket Media Group (opt-in to custom sites)",
+    "domain": "###_uk_haymarket",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Haymarket Medical Network (opt-in to custom sites)",
+    "domain": "###_uk_haymarket_medical",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Hearst Communications (newspapers; opt-in to custom sites for unlisted)",
+    "domain": "ctinsider.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Hearst Communications magazines",
+    "domain": "bicycling.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Heise online (fetch from archive.is)",
+    "domain": "heise.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Het Laatste Nieuws (fetch from archive.is)",
+    "domain": "hln.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Hindustan Times (not epaper)",
+    "domain": "hindustantimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Historia.fr",
+    "domain": "historia.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "History Today (app only)",
+    "domain": "historytoday.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Hola",
+    "domain": "hola.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Honolulu Star-Advertiser",
+    "domain": "staradvertiser.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Iconic Media Group (UK; opt-in to custom sites for unlisted)",
+    "domain": "scotsman.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Il Fatto Quotidiano (free articles only)",
+    "domain": "ilfattoquotidiano.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Il Foglio",
+    "domain": "ilfoglio.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Il Manifesto",
+    "domain": "ilmanifesto.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Il Messaggero (+ regional)",
+    "domain": "corriereadriatico.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Il Sole 24 Ore (24+ only)",
+    "domain": "ilsole24ore.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Inc.com",
+    "domain": "inc.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Inc42",
+    "domain": "inc42.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "India Today",
+    "domain": "indiatoday.in",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Industry Dive (opt-in to custom sites)",
+    "domain": "###_usa_industrydive",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "iNews (UK)",
+    "domain": "inews.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "InfoLibre.es",
+    "domain": "infolibre.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Inkl",
+    "domain": "inkl.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Inside Higher Ed",
+    "domain": "insidehighered.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Inside Retail (opt-in to custom sites)",
+    "domain": "###_au_inside_retail",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Institute of Art and Ideas (articles only)",
+    "domain": "iai.tv",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Interesting Engineering",
+    "domain": "interestingengineering.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Internazionale.it",
+    "domain": "internazionale.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Investor's Business Daily",
+    "domain": "investors.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Investors' Chronicle (UK)",
+    "domain": "investorschronicle.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "iPolitics.ca",
+    "domain": "ipolitics.ca",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ippen.media (opt-in to custom sites for unlisted)",
+    "domain": "fr.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Irish Independent",
+    "domain": "independent.ie",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Italia Oggi",
+    "domain": "italiaoggi.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Jacobin.de",
+    "domain": "jacobin.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Jazzwise",
+    "domain": "jazzwise.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Jeune Afrique (last month only)",
+    "domain": "jeuneafrique.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Kathimerini.gr",
+    "domain": "kathimerini.gr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Kölner Stadt-Anzeiger",
+    "domain": "ksta.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Kölnische Rundschau",
+    "domain": "rundschau-online.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Kompas.id",
+    "domain": "kompas.id",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Krautreporter.de",
+    "domain": "krautreporter.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Kurier.at",
+    "domain": "kurier.at",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Écho",
+    "domain": "lecho.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Équipe.fr",
+    "domain": "lequipe.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Express",
+    "domain": "lexpress.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Humanité",
+    "domain": "humanite.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Informé (not pro)",
+    "domain": "linforme.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Oeil de la Photographie",
+    "domain": "loeildelaphotographie.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "L'Opinion (not Le Journal)",
+    "domain": "lopinion.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Croix",
+    "domain": "la-croix.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Diaria.com.uy",
+    "domain": "ladiaria.com.uy",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Gaceta.com.ar (no menu)",
+    "domain": "lagaceta.com.ar",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Gazzetta dello Sport (text only)",
+    "domain": "gazzetta.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Nación",
+    "domain": "lanacion.com.ar",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Segunda (not digital)",
+    "domain": "lasegunda.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Tercera",
+    "domain": "latercera.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "La Vanguardia",
+    "domain": "lavanguardia.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Landwirtschaftsverlag",
+    "domain": "profi.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Las Vegas Review-Journal",
+    "domain": "reviewjournal.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Law.com (not archive)",
+    "domain": "law.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Canard enchaîné.fr",
+    "domain": "lecanardenchaine.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Courrier des Stratèges",
+    "domain": "lecourrierdesstrateges.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Devoir",
+    "domain": "ledevoir.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Figaro (no video)",
+    "domain": "lefigaro.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Grand Continent",
+    "domain": "legrandcontinent.eu",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Journal du Dimanche",
+    "domain": "lejdd.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Journal du Net",
+    "domain": "journaldunet.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Monde Diplomatique Brasil",
+    "domain": "diplomatique.org.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Monde.fr",
+    "domain": "lemonde.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Nouvel Economiste",
+    "domain": "lenouveleconomiste.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Parisien",
+    "domain": "leparisien.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Point",
+    "domain": "lepoint.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Revenu",
+    "domain": "lerevenu.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Télégramme",
+    "domain": "letelegramme.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le Temps.ch (fetch from archive.is)",
+    "domain": "letemps.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Le1Hebdo.fr",
+    "domain": "le1hebdo.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Leaky Paywall (WordPress plugin)",
+    "domain": "###_wp_leaky_paywall",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Lee Enterprises Group (opt-in to custom sites for unlisted)",
+    "domain": "buffalonews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Les Échos",
+    "domain": "lesechos.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Les Inrockuptibles",
+    "domain": "lesinrocks.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Libération.fr",
+    "domain": "liberation.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Linda.nl",
+    "domain": "linda.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Literary Review (UK)",
+    "domain": "literaryreview.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Live Law",
+    "domain": "livelaw.in",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "LiveMint (not epaper)",
+    "domain": "livemint.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Loeb Classical Library",
+    "domain": "loebclassics.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "London Review of Books",
+    "domain": "lrb.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Los Angeles Times",
+    "domain": "latimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MacroBusiness.com.au",
+    "domain": "macrobusiness.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Madsack Mediengruppe (opt-in to custom sites for unlisted)",
+    "domain": "haz.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Maine Trust for Local News (opt-in to custom sites)",
+    "domain": "###_usa_maine_trust",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mainichi Shimbun",
+    "domain": "mainichi.jp",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Malayala Manorama",
+    "domain": "manoramaonline.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Marianne.net (last month only)",
+    "domain": "marianne.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MarketWatch",
+    "domain": "marketwatch.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MatherAnalytics",
+    "domain": "matheranalytics.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "McClatchy Group (opt-in to custom sites for unlisted)",
+    "domain": "bnd.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "McPherson Media Group (opt-in to custom sites)",
+    "domain": "###_au_mmg",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mediahuis België (fetch from archive.is)",
+    "domain": "gva.be",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mediahuis Nederland Regional (fetch from archive.is; opt-in to custom sites for unlisted)",
+    "domain": "haarlemsdagblad.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mediahuis Noord (+ regional/opt-in to custom sites)",
+    "domain": "dvhn.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MediaNews Group (opt-in to custom sites for unlisted)",
+    "domain": "bostonherald.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Medium (opt-in to custom sites for custom domains)",
+    "domain": "medium.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Medscape (regwall)",
+    "domain": "medscape.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Memberstack",
+    "domain": "memberstack.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mexico News Daily",
+    "domain": "mexiconewsdaily.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mid-Day (not epaper)",
+    "domain": "mid-day.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MilanoFinanza.it",
+    "domain": "milanofinanza.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Milenio",
+    "domain": "milenio.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MIT Sloan Management Review",
+    "domain": "sloanreview.mit.edu",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MIT Technology Review",
+    "domain": "technologyreview.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mittelbayerische Zeitung (fetch from archive.is)",
+    "domain": "mittelbayerische.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MNI Market News",
+    "domain": "mnimarkets.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Monocle",
+    "domain": "monocle.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Motor Presse Stuttgart",
+    "domain": "aerokurier.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Motor Sport Magazine (UK)",
+    "domain": "motorsportmagazine.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mountain View Voice",
+    "domain": "mv-voice.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Mundo Deportivo",
+    "domain": "mundodeportivo.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "MusicOMH",
+    "domain": "musicomh.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Nation Media Group (Kenya; opt-in to custom sites for unlisted)",
+    "domain": "businessdailyafrica.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "National Geographic USA",
+    "domain": "nationalgeographic.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "National Review",
+    "domain": "nationalreview.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Nature (regwall only; fetch from archive.is)",
+    "domain": "nature.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Nautilus",
+    "domain": "nautil.us",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "NDTV Profit",
+    "domain": "ndtvprofit.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Neue Westfälische",
+    "domain": "nw.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Neue Zürcher Zeitung",
+    "domain": "nzz.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "New Scientist",
+    "domain": "newscientist.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "New Voice (nv.ua)",
+    "domain": "nv.ua",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "New York Post",
+    "domain": "nypost.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "New Zealand Herald",
+    "domain": "nzherald.co.nz",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Newsday",
+    "domain": "newsday.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Newslaundry",
+    "domain": "newslaundry.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "NewsMemory",
+    "domain": "newsmemory.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Newspack (WordPress plugin)",
+    "domain": "###_wp_newspack_gate",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Newsquest Media Group (UK; opt-in to custom sites)",
+    "domain": "###_uk_newsquest",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Newsweek",
+    "domain": "newsweek.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Nordwest Zeitung",
+    "domain": "nwzonline.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "NOZ/MHN Mediengruppe (fetch from archive.is)",
+    "domain": "noz.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "NRC Handelsblad",
+    "domain": "nrc.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "NSC Total",
+    "domain": "nsctotal.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "NyTeknik",
+    "domain": "nyteknik.se",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "O Estado de S. Paulo",
+    "domain": "estadao.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "O Globo (& Valor Econômico)",
+    "domain": "globo.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Observador.pt",
+    "domain": "observador.pt",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Omeda Olytics",
+    "domain": "omeda.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "ON3 (fetch from archive.is)",
+    "domain": "on3.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "OneCount",
+    "domain": "onecount.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ouest-France.fr",
+    "domain": "ouest-france.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Outdoor Life",
+    "domain": "outdoorlife.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Outlook Business",
+    "domain": "outlookbusiness.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Outlook India",
+    "domain": "outlookindia.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Outside magazines",
+    "domain": "backpacker.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Oxford University Press (not oup.com; opt-in to custom sites)",
+    "domain": "###_uk_oup",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Palo Alto Online",
+    "domain": "paloaltoonline.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Paris Match",
+    "domain": "parismatch.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Passauer Neue Presse (fetch from archive.is)",
+    "domain": "pnp.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Paste Magazine",
+    "domain": "pastemagazine.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pelcro",
+    "domain": "pelcro.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Penske Media Corporation",
+    "domain": "billboard.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "PhiloMag.com",
+    "domain": "philomag.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "PhiloMag.de",
+    "domain": "philomag.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Philonomist",
+    "domain": "philonomist.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Philosophy Now",
+    "domain": "philosophynow.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Piano.io (+ TinyPass)",
+    "domain": "piano.io",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pico.tools",
+    "domain": "pico.tools",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pigeon (WordPress plugin)",
+    "domain": "###_wp_pigeon",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pirate Wires",
+    "domain": "piratewires.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pittsburgh Post Gazette",
+    "domain": "post-gazette.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pmpro Limit Post Views (WordPress plugin)",
+    "domain": "###_wp_pmpro_limit_post_views",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Política Exterior",
+    "domain": "politicaexterior.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Politico (regwall; not pro)",
+    "domain": "politico.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Politis.fr",
+    "domain": "politis.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Polityka.pl",
+    "domain": "polityka.pl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Poool.fr",
+    "domain": "poool.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Popular Science",
+    "domain": "popsci.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Postmedia Network (opt-in to custom sites for unlisted)",
+    "domain": "calgaryherald.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pour l'Éco",
+    "domain": "pourleco.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Pour la Science.fr",
+    "domain": "pourlascience.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Private Media AU",
+    "domain": "crikey.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Profil.at",
+    "domain": "profil.at",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Project Syndicate (fetch from archive.is)",
+    "domain": "project-syndicate.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "ProMedia.nl Group (opt-in to custom sites)",
+    "domain": "###_nl_promedia",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Prospect Magazine",
+    "domain": "prospectmagazine.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Public.fr",
+    "domain": "public.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Público.es",
+    "domain": "publico.es",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Puck.news (fetch from archive.is)",
+    "domain": "puck.news",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Puls Biznesu",
+    "domain": "pb.pl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Qiota",
+    "domain": "qiota.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Quartz (newsletter)",
+    "domain": "qz.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Quora",
+    "domain": "quora.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Quotidiano.net (+ regional)",
+    "domain": "ilgiorno.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "RCP-View Limit (WordPress plugin)",
+    "domain": "###_rcp_view_limit",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Réforme.net",
+    "domain": "reforme.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Revista Oeste",
+    "domain": "revistaoeste.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Revue Conflits",
+    "domain": "revueconflits.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Revue21.fr",
+    "domain": "revue21.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Rheinische Post Mediengruppe (fetch from archive.is)",
+    "domain": "ga.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ringier Axel Springer Polska",
+    "domain": "auto-swiat.pl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ringier Gruppe (CH)",
+    "domain": "beobachter.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Roularta Media Group",
+    "domain": "beleggersbelangen.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "RugbyPass",
+    "domain": "rugbypass.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "S&P Global",
+    "domain": "spglobal.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sábado (not video)",
+    "domain": "sabado.pt",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Scholastic",
+    "domain": "scholastic.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Schweizer Monat",
+    "domain": "schweizermonat.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Science (free articles only)",
+    "domain": "science.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Science & Vie",
+    "domain": "science-et-vie.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "ScienceNews.org",
+    "domain": "sciencenews.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sciences et Avenir",
+    "domain": "sciencesetavenir.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Scientific American",
+    "domain": "scientificamerican.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Semana (CO)",
+    "domain": "semana.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sky.it (sport & tg24 only)",
+    "domain": "sky.it",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Slate",
+    "domain": "slate.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "SlideShare",
+    "domain": "slideshare.net",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "SOFREP",
+    "domain": "sofrep.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sophi.io",
+    "domain": "sophi.io",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sound Publishing (opt-in to custom sites)",
+    "domain": "###_usa_sound_publishing",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Southern Weekly (fetch from archive.is)",
+    "domain": "infzm.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Spacenews",
+    "domain": "spacenews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Spektrum.de",
+    "domain": "spektrum.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "SPH Media (fetch from archive.is)",
+    "domain": "businesstimes.com.sg",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sport Life Ibérica (text only; opt-in to custom sites)",
+    "domain": "###_es_sport_life",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Sports Illustrated",
+    "domain": "si.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Springer Medizin",
+    "domain": "springermedizin.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Standardmedia.co.ke (text only)",
+    "domain": "standardmedia.co.ke",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Star Tribune",
+    "domain": "startribune.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "StatNews",
+    "domain": "statnews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Steady",
+    "domain": "steadyhq.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Stereogum (no comments)",
+    "domain": "stereogum.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Stern.de (fetch from archive.is)",
+    "domain": "stern.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Stock News",
+    "domain": "stocknews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Stratfor",
+    "domain": "stratfor.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Study.com (only lessons; no videos)",
+    "domain": "study.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Stylist.co.uk",
+    "domain": "stylist.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Süddeutsche Zeitung (fetch from archive.is)",
+    "domain": "sueddeutsche.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Südkurier (fetch from archive.is)",
+    "domain": "suedkurier.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Südwest Media Network (opt-in to custom sites for unlisted)",
+    "domain": "schwarzwaelder-bote.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Suomen Sotilas",
+    "domain": "suomensotilas.fi",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Swarajyamag",
+    "domain": "swarajyamag.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "T3n.de (text only)",
+    "domain": "t3n.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Tamedia.ch Group (opt-in to custom sites for unlisted)",
+    "domain": "24heures.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Tampa Bay Times",
+    "domain": "tampabay.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Tech in Asia",
+    "domain": "techinasia.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "TechTarget Group",
+    "domain": "computerweekly.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Telegraaf (fetch from archive.is)",
+    "domain": "telegraaf.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Télérama.fr",
+    "domain": "telerama.fr",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Tes Magazine",
+    "domain": "tes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Texas Monthly",
+    "domain": "texasmonthly.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The (New Orleans) Advocate",
+    "domain": "nola.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The American Conservative",
+    "domain": "theamericanconservative.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The American Interest",
+    "domain": "the-american-interest.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The American Scholar",
+    "domain": "theamericanscholar.org",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Art Newspaper",
+    "domain": "theartnewspaper.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Atlanta Journal-Constitution",
+    "domain": "ajc.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Baffler",
+    "domain": "thebaffler.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Baltimore Banner",
+    "domain": "thebanner.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Boston Globe",
+    "domain": "bostonglobe.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Business Journals (free articles only)",
+    "domain": "bizjournals.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Business of Fashion",
+    "domain": "businessoffashion.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Christian Science Monitor",
+    "domain": "csmonitor.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Chronicle of Higher Education (& Philanthropy)",
+    "domain": "chronicle.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Columbian",
+    "domain": "columbian.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Critic",
+    "domain": "thecritic.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Daily Beast",
+    "domain": "thedailybeast.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Daily Wire (news only)",
+    "domain": "dailywire.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Dallas Morning News",
+    "domain": "dallasnews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Diplomat",
+    "domain": "thediplomat.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Dispatch",
+    "domain": "thedispatch.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Economic Times (ET Prime)",
+    "domain": "economictimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Epoch Times (+ br|cz|de|fr|jp|ro; opt-in to custom sites)",
+    "domain": "epoch.org.il",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Financial Express",
+    "domain": "financialexpress.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Globe and Mail",
+    "domain": "theglobeandmail.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Hill",
+    "domain": "thehill.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Hill Times",
+    "domain": "hilltimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Hindu (not epaper)",
+    "domain": "thehindu.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Hindu BusinessLine (not epaper)",
+    "domain": "thehindubusinessline.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Independent (UK & USA)",
+    "domain": "independent.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Indian Express",
+    "domain": "indianexpress.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Information (news only; fetch from archive.is)",
+    "domain": "theinformation.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Intercept (regwall)",
+    "domain": "theintercept.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Irish Examiner",
+    "domain": "irishexaminer.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Irish News",
+    "domain": "irishnews.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Irish Times",
+    "domain": "irishtimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Japan Times (do not block TinyPass-script externally)",
+    "domain": "japantimes.co.jp",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Jerusalem Post",
+    "domain": "jpost.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Juggernaut",
+    "domain": "thejuggernaut.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Lamp Magazine",
+    "domain": "thelampmagazine.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Lawyer (UK; not mda)",
+    "domain": "thelawyer.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Leaflet.in",
+    "domain": "theleaflet.in",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Local Group (EU)",
+    "domain": "###_eu_thelocal",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Logic.co (do not block TinyPass-script externally)",
+    "domain": "thelogic.co",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Market.ch",
+    "domain": "themarket.ch",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Nation",
+    "domain": "thenation.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New Atlantis",
+    "domain": "thenewatlantis.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New Criterion",
+    "domain": "newcriterion.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New Republic",
+    "domain": "newrepublic.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New Statesman",
+    "domain": "newstatesman.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New World (UK)",
+    "domain": "thenewworld.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New York Review of Books",
+    "domain": "nybooks.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The New York Sun (text only)",
+    "domain": "nysun.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The News Lens",
+    "domain": "thenewslens.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The News Minute",
+    "domain": "thenewsminute.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Observer UK",
+    "domain": "observer.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Past",
+    "domain": "the-past.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Philadelphia Inquirer",
+    "domain": "inquirer.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Point Magazine",
+    "domain": "thepointmag.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Quint",
+    "domain": "thequint.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Salt Lake Tribune",
+    "domain": "sltrib.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The San Francisco Standard",
+    "domain": "sfstandard.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Saturday Paper",
+    "domain": "thesaturdaypaper.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Scientist (archive)",
+    "domain": "the-scientist.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Seattle Times",
+    "domain": "seattletimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Spectator Group (UK)",
+    "domain": "spectator.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Spokesman-Review",
+    "domain": "spokesman.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Stage Media (UK)",
+    "domain": "thebookseller.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Sun Group (UK)",
+    "domain": "thescottishsun.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Telegraph",
+    "domain": "telegraph.co.uk",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Times Literary Supplement",
+    "domain": "the-tls.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Times UK (fetch from archive.is)",
+    "domain": "thetimes.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Toronto Star (+ local TorStar sites)",
+    "domain": "niagarafallsreview.ca",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Week (regwall)",
+    "domain": "theweek.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The West Australian (+ regional/opt-in to custom sites)",
+    "domain": "thewest.com.au",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "The Wrap",
+    "domain": "thewrap.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Times Higher Education",
+    "domain": "timeshighereducation.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "TownNews sites (Blox CMS)",
+    "domain": "###_usa_townnews",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Tribune Publishing Company",
+    "domain": "baltimoresun.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Tuttosport",
+    "domain": "tuttosport.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "TVN24.pl",
+    "domain": "tvn24.pl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "UnHerd",
+    "domain": "unherd.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "UOL.com.br",
+    "domain": "uol.com.br",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "USA Today",
+    "domain": "usatoday.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Valeurs Actuelles",
+    "domain": "valeursactuelles.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Valnet Group (regwall; opt-in to custom sites)",
+    "domain": "###_ca_valnet",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Verlagsgruppe Rhein Main (fetch from archive.is; opt-in to custom sites for unlisted)",
+    "domain": "allgemeine-zeitung.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vice",
+    "domain": "vice.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vikatan",
+    "domain": "vikatan.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "VmnMedia.nl Group (opt-in to custom sites)",
+    "domain": "###_nl_vmnmedia",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vogue Business",
+    "domain": "voguebusiness.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vorarlberg Nachrichten",
+    "domain": "vn.at",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vorarlberg Online",
+    "domain": "vol.at",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vox Media Group",
+    "domain": "curbed.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Vrij Nederland",
+    "domain": "vn.nl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Wallkit (WordPress plugin)",
+    "domain": "###_wp_wallkit",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "War on the Rocks",
+    "domain": "warontherocks.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Washington Examiner",
+    "domain": "washingtonexaminer.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Weltkunst",
+    "domain": "weltkunst.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Weser-Kurier",
+    "domain": "weser-kurier.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "William Reed Group (opt-in to custom sites)",
+    "domain": "###_uk_william_reed",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Winnipeg Free Press",
+    "domain": "winnipegfreepress.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "WirtschaftsWoche (text only & GST-link)",
+    "domain": "wiwo.de",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Wonderzine",
+    "domain": "wonderzine.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "World Economics",
+    "domain": "worldeconomics.com",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Wyborcza.pl Group (fetch from archive.is)",
+    "domain": "magazyn-kuchnia.pl",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Ynet",
+    "domain": "ynet.co.il",
+    "isRecommended": false,
+    "hasRss": false
+  },
+  {
+    "name": "Zephr",
+    "domain": "zephr.com",
+    "isRecommended": false,
+    "hasRss": false
+  }
+]

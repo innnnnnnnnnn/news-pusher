@@ -1,1 +1,10 @@
-[]
+{
+  "config": {},
+  "subscriptions": {
+    "The Economist": 1,
+    "The New York Times": 1,
+    "Financial Times": 1,
+    "Bloomberg": 1
+  },
+  "pushed_articles": []
+}

@@ -220,7 +220,8 @@ async function pushArticles() {
 
     // Push new articles (not in history)
     for (const article of allArticles) {
-      if (history.includes(article.id)) continue;
+      const isAlreadyPushed = history.some(item => (typeof item === 'string' ? item : item.id) === article.id);
+      if (isAlreadyPushed) continue;
 
       console.log(`  [NEW] ${article.title.substring(0, 70)}`);
 
@@ -264,7 +265,15 @@ async function pushArticles() {
           await bot.sendMessage(chatId, message, { parse_mode: 'Markdown' });
         }
 
-        history.push(article.id);
+        history.push({
+          id: article.id,
+          title: article.title,
+          titleZh: tTitle.text,
+          source: source.label,
+          url: article.url,
+          image: article.image || null,
+          pushedAt: new Date().toISOString()
+        });
         totalSent++;
         console.log(`  [SENT] ✓`);
 
