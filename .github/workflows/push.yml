@@ -26,16 +26,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install xvfb
-        run: sudo apt-get update && sudo apt-get install -y xvfb
-
       - name: Run Push Job
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times (not cn subdomain)' }}
-          BPC_PATH: './extension-bpc'
-        run: xvfb-run --auto-servernum -- node scripts/github-push.mjs
+        run: node scripts/github-push.mjs
 
       - name: Commit & Push History
         run: |
