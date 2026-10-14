@@ -148,5 +148,131 @@
   "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765",
   "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf",
   "https://www.ft.com/content/c69ef2f5-0644-4ec3-accb-cbc8d633e008",
-  "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5"
+  "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5",
+  {
+    "id": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
+    "title": "U.S. Is Sending Hundreds of Troops to Latin America",
+    "titleZh": "美國派遣數百名軍隊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-military-latam-lcgv/14dc-military-latam-lcgv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-14T20:00:09.857Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+    "title": "Sally Rooney Says Her Novels Will No Longer Be Sold in Britain",
+    "titleZh": "莎莉·魯尼表示她的小說將不再在英國出售",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-uk-sally-rooney01-photo-blgh/14int-uk-sally-rooney01-photo-blgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-14T20:00:13.692Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+    "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+    "titleZh": "利奧十四世的肺癌診斷考驗了仍在成型的教宗權",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-assess-01-qzbl/13int-pope-assess-01-qzbl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-14T20:00:15.692Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+    "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+    "titleZh": "能源部命令針對大西洋中部停電風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-power-qplm/14xp-power-qplm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-14T20:00:17.685Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1",
+    "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+    "titleZh": "由於通膨和人工智慧債務擔憂令投資者不安，美國晶片股下滑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3fd5c0f5-57ce-4e3a-a1ca-30ddf15f60a8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-14T20:00:24.000Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17",
+    "title": "Perella Weinberg and Piper Sandler abandon merger talks",
+    "titleZh": "佩雷拉·溫伯格和派珀·桑德勒放棄合併談判",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa61112e3-9ff5-4bfd-8568-febf9d83c8dc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-14T20:00:28.047Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0c821d3e-241f-46a9-a54b-e0d0cf8ee4cf",
+    "title": "How Michael Woodford made modern macro relevant to central bankers",
+    "titleZh": "邁克爾伍德福德 (Michael Woodford) 如何使現代宏觀經濟與央行行長相關",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0c821d3e-241f-46a9-a54b-e0d0cf8ee4cf",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:30.039Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9acc4f6f-2faa-4ac1-aa7b-42166d677316",
+    "title": "Transcription: Marine Le Pen en entretien avec le Financial Times",
+    "titleZh": "文字記錄：瑪麗娜·勒龐接受英國《金融時報》採訪",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9acc4f6f-2faa-4ac1-aa7b-42166d677316?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:32.260Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3c23e59b-f4c9-4837-b534-ec19fb77a0c8",
+    "title": "Unshackle workers from non-compete clauses",
+    "titleZh": "讓工人擺脫競業禁止條款的束縛",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3c23e59b-f4c9-4837-b534-ec19fb77a0c8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:34.609Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877",
+    "title": "BofA profits drop 17% after $1.2bn money laundering fine",
+    "titleZh": "美國銀行因洗錢罰款 12 億美元利潤下降 17%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:37.176Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c",
+    "title": "German prosecutors accuse Ukraine of Nord Stream sabotage",
+    "titleZh": "德國檢察官指控烏克蘭破壞北溪",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:40.244Z"
+  },
+  {
+    "id": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7",
+    "title": "BlackRock pulls in $205bn to take assets to record high",
+    "titleZh": "貝萊德吸資2050億美元資產創歷史新高",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:42.361Z"
+  },
+  {
+    "id": "https://www.ft.com/content/60a8f4e6-5da4-4f59-b009-baed53215497",
+    "title": "Lufthansa wins battle to buy stake in Portugal’s TAP",
+    "titleZh": "漢莎航空贏得葡萄牙 TAP 股份收購戰",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/60a8f4e6-5da4-4f59-b009-baed53215497?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:45.018Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0c178261-2c29-4677-9649-5b9257662d7e",
+    "title": "Turkish authorities take over country’s most-watched news channel",
+    "titleZh": "土耳其當局接管全國收視率最高的新聞頻道",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0c178261-2c29-4677-9649-5b9257662d7e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-14T20:00:47.668Z"
+  }
 ]
