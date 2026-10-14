@@ -4,29 +4,41 @@ import fs from 'fs';
 
 // ── Config ────────────────────────────────────────────────────────────────────
 // Only push articles published within this many hours
-const MAX_AGE_HOURS = 72;
+// ── Config ────────────────────────────────────────────────────────────────────
+// Only push articles published within this many hours (prevents pushing old articles)
+const MAX_AGE_HOURS = 48;
 
-// Minimum title word count — filters out stub items like "Politics" / "Business"
+// Minimum title word count — filters out stub items
 const MIN_TITLE_WORDS = 3;
+
+// Category labels to filter out
+const STUB_PATTERNS = [
+  /^(politics|business|cartoon|letters|corrections|leaders|briefing|world this week|special report|graphic detail|finance & economics)$/i,
+  /^cartoon:\s*$/i,
+];
 
 // ── RSS Feed Definitions ──────────────────────────────────────────────────────
 const OFFICIAL_RSS_SOURCES = {
   'financial times': {
     label: '金融時報 Financial Times',
     feeds: [
+      'https://www.ft.com/rss/home',
       'https://www.ft.com/rss/home/uk',
-      'https://www.ft.com/rss/home/us',
+      'https://www.ft.com/global-economy?format=rss',
+      'https://www.ft.com/world?format=rss',
+      'https://www.ft.com/companies?format=rss',
     ],
   },
   'the economist': {
     label: '經濟學人 The Economist',
     feeds: [
-      'https://www.economist.com/rss/the_world_this_week_rss.xml',
+      'https://www.economist.com/leaders/rss.xml',
       'https://www.economist.com/finance-and-economics/rss.xml',
       'https://www.economist.com/business/rss.xml',
       'https://www.economist.com/united-states/rss.xml',
       'https://www.economist.com/china/rss.xml',
       'https://www.economist.com/asia/rss.xml',
+      'https://www.economist.com/international/rss.xml',
     ],
   },
   'the new york times': {
@@ -41,28 +53,8 @@ const OFFICIAL_RSS_SOURCES = {
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
-/**
- * Extract text from a tag that may use CDATA or plain text.
- * Handles whitespace/newlines between the tag and CDATA delimiter.
- */
-function extractTagText(item, tagName) {
-  // Try CDATA first (with optional whitespace around CDATA content)
-  const cdataRe = new RegExp(`<${tagName}[^>]*>\\s*<!\\[CDATA\\[([\\s\\S]*?)\\]\\]>\\s*<\\/${tagName}>`, 'i');
-  const cdataMatch = item.match(cdataRe);
-  if (cdataMatch) return cdataMatch[1].trim();
-
-  // Fallback: plain text (strip inner tags)
-  const plainRe = new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i');
-  const plainMatch = item.match(plainRe);
-  if (plainMatch) {
-    return plainMatch[1]
-      .replace(/<[^>]+>/g, '')  // strip any inner HTML/XML tags
-      .trim();
-  }
-  return null;
-}
-
 function decodeEntities(text) {
+  if (!text) return '';
   return text
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
@@ -73,11 +65,42 @@ function decodeEntities(text) {
     .replace(/&nbsp;/g, ' ');
 }
 
+/**
+ * Sanitize text by stripping CDATA wrappers, HTML tags, and decoding entities.
+ */
+function sanitizeText(text) {
+  if (!text) return '';
+  return decodeEntities(
+    text
+      .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, '$1')
+      .replace(/<!\[CDATA\[/gi, '')
+      .replace(/\]\]>/g, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim()
+  );
+}
+
+/**
+ * Extract text from a tag that may use CDATA or plain text.
+ */
+function extractTagText(item, tagName) {
+  const cdataRe = new RegExp(`<${tagName}[^>]*>\\s*<!\\[CDATA\\[([\\s\\S]*?)\\]\\]>\\s*<\\/${tagName}>`, 'i');
+  const cdataMatch = item.match(cdataRe);
+  if (cdataMatch) return sanitizeText(cdataMatch[1]);
+
+  const plainRe = new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i');
+  const plainMatch = item.match(plainRe);
+  if (plainMatch) return sanitizeText(plainMatch[1]);
+
+  return null;
+}
+
 /** Escape Telegram MarkdownV1 special characters */
 function escapeMarkdown(text) {
   if (!text) return '';
-  // In MarkdownV1, only * _ ` [ need escaping
   return text
+    .replace(/\\/g, '\\\\')
     .replace(/\*/g, '\\*')
     .replace(/_/g, '\\_')
     .replace(/`/g, '\\`')
@@ -103,33 +126,31 @@ async function fetchArticlesFromRSS(feedUrl) {
   return items.map(item => {
     const rawTitle = extractTagText(item, 'title');
     const rawLink  = extractTagText(item, 'link') ||
-                     (item.match(/<guid[^>]*isPermaLink="true"[^>]*>([\s\S]*?)<\/guid>/) || [])[1];
+                     (item.match(/<guid[^>]*isPermaLink="true"[^>]*>([\s\S]*?)<\/guid>/i) || [])[1];
     const rawDesc  = extractTagText(item, 'description');
     const rawDate  = extractTagText(item, 'pubDate');
 
     if (!rawTitle || !rawLink) return null;
 
-    const title = decodeEntities(rawTitle);
-    const url   = rawLink.trim().replace(/\?.*$/, ''); // strip tracking for dedup ID
+    const title = sanitizeText(rawTitle);
+    const url   = sanitizeText(rawLink).replace(/\?.*$/, '');
 
-    // ── Date filter: skip articles older than MAX_AGE_HOURS ──
-    if (rawDate) {
-      const pubTime = new Date(rawDate).getTime();
-      if (!isNaN(pubTime) && pubTime < cutoff) return null;
-    }
+    // ── Date filter: require valid pubDate within MAX_AGE_HOURS ──
+    if (!rawDate) return null;
+    const pubTime = new Date(rawDate).getTime();
+    if (isNaN(pubTime) || pubTime < cutoff) return null;
 
-    // ── Title quality filter: skip stub items (e.g. "Politics", "Business") ──
+    // ── Title quality filter: skip short stubs or section titles ──
     if (title.split(/\s+/).length < MIN_TITLE_WORDS) return null;
+    if (STUB_PATTERNS.some(p => p.test(title))) return null;
 
     // Extract image
-    const imgMatch = item.match(/media:content[^>]+url="([^"]+)"/) ||
-                     item.match(/media:thumbnail[^>]+url="([^"]+)"/) ||
-                     item.match(/enclosure[^>]+url="([^"]+)"/);
+    const imgMatch = item.match(/media:content[^>]+url="([^"]+)"/i) ||
+                     item.match(/media:thumbnail[^>]+url="([^"]+)"/i) ||
+                     item.match(/enclosure[^>]+url="([^"]+)"/i);
 
     // Clean description
-    const excerpt = rawDesc
-      ? decodeEntities(rawDesc.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()).substring(0, 280)
-      : '';
+    const excerpt = rawDesc ? sanitizeText(rawDesc).substring(0, 280) : '';
 
     return {
       id: url,
