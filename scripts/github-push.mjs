@@ -2,8 +2,14 @@ import TelegramBot from 'node-telegram-bot-api';
 import { translate } from 'google-translate-api-x';
 import fs from 'fs';
 
-// ── RSS Feed Definitions ─────────────────────────────────────────────────────
-// Each entry maps a site name keyword → array of official RSS feed URLs
+// ── Config ────────────────────────────────────────────────────────────────────
+// Only push articles published within this many hours
+const MAX_AGE_HOURS = 72;
+
+// Minimum title word count — filters out stub items like "Politics" / "Business"
+const MIN_TITLE_WORDS = 3;
+
+// ── RSS Feed Definitions ──────────────────────────────────────────────────────
 const OFFICIAL_RSS_SOURCES = {
   'financial times': {
     label: '金融時報 Financial Times',
@@ -33,7 +39,52 @@ const OFFICIAL_RSS_SOURCES = {
   },
 };
 
-// ── RSS Parser ───────────────────────────────────────────────────────────────
+// ── Helpers ───────────────────────────────────────────────────────────────────
+
+/**
+ * Extract text from a tag that may use CDATA or plain text.
+ * Handles whitespace/newlines between the tag and CDATA delimiter.
+ */
+function extractTagText(item, tagName) {
+  // Try CDATA first (with optional whitespace around CDATA content)
+  const cdataRe = new RegExp(`<${tagName}[^>]*>\\s*<!\\[CDATA\\[([\\s\\S]*?)\\]\\]>\\s*<\\/${tagName}>`, 'i');
+  const cdataMatch = item.match(cdataRe);
+  if (cdataMatch) return cdataMatch[1].trim();
+
+  // Fallback: plain text (strip inner tags)
+  const plainRe = new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i');
+  const plainMatch = item.match(plainRe);
+  if (plainMatch) {
+    return plainMatch[1]
+      .replace(/<[^>]+>/g, '')  // strip any inner HTML/XML tags
+      .trim();
+  }
+  return null;
+}
+
+function decodeEntities(text) {
+  return text
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&nbsp;/g, ' ');
+}
+
+/** Escape Telegram MarkdownV1 special characters */
+function escapeMarkdown(text) {
+  if (!text) return '';
+  // In MarkdownV1, only * _ ` [ need escaping
+  return text
+    .replace(/\*/g, '\\*')
+    .replace(/_/g, '\\_')
+    .replace(/`/g, '\\`')
+    .replace(/\[/g, '\\[');
+}
+
+// ── RSS Parser ────────────────────────────────────────────────────────────────
 async function fetchArticlesFromRSS(feedUrl) {
   const res = await fetch(feedUrl, {
     headers: {
@@ -43,56 +94,61 @@ async function fetchArticlesFromRSS(feedUrl) {
     signal: AbortSignal.timeout(15000),
   });
 
-  if (!res.ok) {
-    throw new Error(`HTTP ${res.status} from ${feedUrl}`);
-  }
+  if (!res.ok) throw new Error(`HTTP ${res.status} from ${feedUrl}`);
 
   const text = await res.text();
   const items = text.match(/<item>[\s\S]*?<\/item>/g) || [];
+  const cutoff = Date.now() - MAX_AGE_HOURS * 60 * 60 * 1000;
 
   return items.map(item => {
-    const titleMatch  = item.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/) ||
-                        item.match(/<title>([\s\S]*?)<\/title>/);
-    const linkMatch   = item.match(/<link>([\s\S]*?)<\/link>/) ||
-                        item.match(/<guid isPermaLink="true">([\s\S]*?)<\/guid>/);
-    const descMatch   = item.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/) ||
-                        item.match(/<description>([\s\S]*?)<\/description>/);
-    const dateMatch   = item.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
-    const imgMatch    = item.match(/<media:content[^>]+url="([^"]+)"/) ||
-                        item.match(/<media:thumbnail[^>]+url="([^"]+)"/) ||
-                        item.match(/<enclosure[^>]+url="([^"]+)"/);
+    const rawTitle = extractTagText(item, 'title');
+    const rawLink  = extractTagText(item, 'link') ||
+                     (item.match(/<guid[^>]*isPermaLink="true"[^>]*>([\s\S]*?)<\/guid>/) || [])[1];
+    const rawDesc  = extractTagText(item, 'description');
+    const rawDate  = extractTagText(item, 'pubDate');
 
-    if (!titleMatch || !linkMatch) return null;
+    if (!rawTitle || !rawLink) return null;
 
-    const rawTitle = titleMatch[1].trim()
-      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"');
-    const url = linkMatch[1].trim().split('?')[0]; // strip tracking params for dedup key
+    const title = decodeEntities(rawTitle);
+    const url   = rawLink.trim().replace(/\?.*$/, ''); // strip tracking for dedup ID
 
-    const rawDesc = descMatch ? descMatch[1] : '';
+    // ── Date filter: skip articles older than MAX_AGE_HOURS ──
+    if (rawDate) {
+      const pubTime = new Date(rawDate).getTime();
+      if (!isNaN(pubTime) && pubTime < cutoff) return null;
+    }
+
+    // ── Title quality filter: skip stub items (e.g. "Politics", "Business") ──
+    if (title.split(/\s+/).length < MIN_TITLE_WORDS) return null;
+
+    // Extract image
+    const imgMatch = item.match(/media:content[^>]+url="([^"]+)"/) ||
+                     item.match(/media:thumbnail[^>]+url="([^"]+)"/) ||
+                     item.match(/enclosure[^>]+url="([^"]+)"/);
+
+    // Clean description
     const excerpt = rawDesc
-      .replace(/<[^>]+>/g, '')
-      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'")
-      .replace(/\s+/g, ' ')
-      .trim()
-      .substring(0, 300);
+      ? decodeEntities(rawDesc.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()).substring(0, 280)
+      : '';
 
     return {
       id: url,
-      title: rawTitle,
+      title,
       excerpt,
-      url: linkMatch[1].trim(), // original URL with utm for clicking
+      url: rawLink.trim(),
       image: imgMatch ? imgMatch[1] : null,
-      pubDate: dateMatch ? dateMatch[1] : '',
+      pubDate: rawDate || '',
     };
   }).filter(Boolean);
 }
 
-// ── Main ─────────────────────────────────────────────────────────────────────
+// ── History ───────────────────────────────────────────────────────────────────
 const HISTORY_FILE = './history.json';
 const history = fs.existsSync(HISTORY_FILE)
   ? JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8'))
   : [];
 
+// ── Main ──────────────────────────────────────────────────────────────────────
 async function pushArticles() {
   const telegramToken = process.env.TELEGRAM_TOKEN;
   const chatId = process.env.CHAT_ID;
@@ -108,7 +164,6 @@ async function pushArticles() {
   let totalSent = 0;
 
   for (const siteName of sites) {
-    // Find matching RSS config (case-insensitive)
     const sourceKey = Object.keys(OFFICIAL_RSS_SOURCES).find(k =>
       siteName.toLowerCase().includes(k)
     );
@@ -121,14 +176,14 @@ async function pushArticles() {
     const source = OFFICIAL_RSS_SOURCES[sourceKey];
     console.log(`\n[CHECK] ${source.label} — fetching ${source.feeds.length} feed(s)...`);
 
-    // Collect all articles from all feeds, deduplicate by id
+    // Collect unique articles from all feeds
     const seen = new Set();
     const allArticles = [];
 
     for (const feedUrl of source.feeds) {
       try {
         const articles = await fetchArticlesFromRSS(feedUrl);
-        console.log(`  ↳ ${feedUrl.split('/').pop()}: ${articles.length} items`);
+        console.log(`  ↳ ${feedUrl.split('/').pop()}: ${articles.length} recent items`);
         for (const a of articles) {
           if (!seen.has(a.id)) {
             seen.add(a.id);
@@ -140,13 +195,13 @@ async function pushArticles() {
       }
     }
 
-    console.log(`  Total unique articles: ${allArticles.length}`);
+    console.log(`  Total unique recent articles: ${allArticles.length}`);
 
-    // Push new articles
+    // Push new articles (not in history)
     for (const article of allArticles) {
       if (history.includes(article.id)) continue;
 
-      console.log(`  [NEW] ${article.title.substring(0, 60)}...`);
+      console.log(`  [NEW] ${article.title.substring(0, 70)}`);
 
       try {
         const [tTitle, tExcerpt] = await Promise.all([
@@ -161,7 +216,11 @@ async function pushArticles() {
         if (article.pubDate) {
           try {
             const d = new Date(article.pubDate);
-            pubDateStr = `📅 ${d.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })}\n`;
+            pubDateStr = `📅 ${d.toLocaleString('zh-TW', {
+              timeZone: 'Asia/Taipei',
+              month: 'short', day: 'numeric',
+              hour: '2-digit', minute: '2-digit',
+            })}\n`;
           } catch {}
         }
 
@@ -178,7 +237,6 @@ async function pushArticles() {
             caption: message,
             parse_mode: 'Markdown',
           }).catch(() =>
-            // Fallback if image fails
             bot.sendMessage(chatId, message, { parse_mode: 'Markdown' })
           );
         } else {
@@ -189,7 +247,7 @@ async function pushArticles() {
         totalSent++;
         console.log(`  [SENT] ✓`);
 
-        // Throttle to avoid Telegram rate limits
+        // Throttle: avoid Telegram rate limit (30 msgs/sec)
         await new Promise(r => setTimeout(r, 1500));
       } catch (err) {
         console.error(`  [FAIL] ${err.message}`);
@@ -201,28 +259,6 @@ async function pushArticles() {
   const trimmedHistory = history.slice(-1000);
   fs.writeFileSync(HISTORY_FILE, JSON.stringify(trimmedHistory, null, 2));
   console.log(`\n=== Done. Sent ${totalSent} new article(s). ===`);
-}
-
-// Escape Telegram Markdown special chars
-function escapeMarkdown(text) {
-  if (!text) return '';
-  return text
-    .replace(/\[/g, '\\[')
-    .replace(/\]/g, '\\]')
-    .replace(/\(/g, '\\(')
-    .replace(/\)/g, '\\)')
-    .replace(/~/g, '\\~')
-    .replace(/`/g, '\\`')
-    .replace(/>/g, '\\>')
-    .replace(/#/g, '\\#')
-    .replace(/\+/g, '\\+')
-    .replace(/-/g, '\\-')
-    .replace(/=/g, '\\=')
-    .replace(/\|/g, '\\|')
-    .replace(/\{/g, '\\{')
-    .replace(/\}/g, '\\}')
-    .replace(/\./g, '\\.')
-    .replace(/!/g, '\\!');
 }
 
 pushArticles().catch(err => {
