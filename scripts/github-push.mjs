@@ -29,8 +29,7 @@ async function safeTranslate(text) {
         },
         body: JSON.stringify({
           text: [text],
-          target_lang: 'ZH',  // Traditional Chinese
-          source_lang: 'EN',
+          target_lang: 'ZH-HANT',  // Traditional Chinese (繁體中文)
         }),
         signal: AbortSignal.timeout(10000),
       });
