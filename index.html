@@ -3,215 +3,542 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Pusher | 最新時事看板</title>
+    <title>News Pusher | 最新深度時事看板</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #0f172a;
-            --card-bg: rgba(30, 41, 59, 0.7);
-            --accent: #38bdf8;
+            --bg: #0b0f19;
+            --card-bg: rgba(17, 24, 39, 0.75);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --card-hover: rgba(30, 41, 59, 0.9);
+            --primary: #6366f1;
+            --accent: #06b6d4;
+            --success: #10b981;
             --text-main: #f8fafc;
             --text-dim: #94a3b8;
+            --glow: rgba(99, 102, 241, 0.15);
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            background: var(--bg);
-            background: radial-gradient(circle at top right, #1e293b, #0f172a);
+            background-color: var(--bg);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 0%, rgba(6, 182, 212, 0.15) 0px, transparent 50%),
+                radial-gradient(at 50% 100%, rgba(16, 185, 129, 0.1) 0px, transparent 50%);
+            background-attachment: fixed;
             color: var(--text-main);
             font-family: 'Outfit', 'Noto Sans TC', sans-serif;
             line-height: 1.6;
             min-height: 100vh;
-            padding: 40px 20px;
+            padding: 40px 20px 80px;
         }
 
         .container {
-            max-width: 1000px;
+            max-width: 1100px;
             margin: 0 auto;
         }
 
         header {
             text-align: center;
-            margin-bottom: 60px;
+            margin-bottom: 40px;
+        }
+
+        .badge-live {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(99, 102, 241, 0.12);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            color: #a5b4fc;
+            padding: 5px 16px;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #10b981;
+            box-shadow: 0 0 10px #10b981;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(0.95); opacity: 0.8; }
+            50% { transform: scale(1.2); opacity: 1; }
+            100% { transform: scale(0.95); opacity: 0.8; }
         }
 
         h1 {
-            font-size: 3rem;
-            font-weight: 600;
-            background: linear-gradient(to right, #38bdf8, #818cf8);
+            font-size: 2.8rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #ffffff 30%, #93c5fd 70%, #c084fc 100%);
             -webkit-background-clip: text;
             background-clip: text;
             -webkit-text-fill-color: transparent;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
         }
 
         .subtitle {
             color: var(--text-dim);
             font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
         }
 
+        .nav-links {
+            margin-top: 18px;
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+        }
+
+        .nav-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 18px;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.2s;
+            border: 1px solid var(--card-border);
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .nav-btn:hover {
+            background: rgba(255, 255, 255, 0.12);
+            border-color: var(--accent);
+            transform: translateY(-1px);
+        }
+
+        /* Filter & Search Bar */
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            background: var(--card-bg);
+            padding: 16px 20px;
+            border-radius: 16px;
+            border: 1px solid var(--card-border);
+            backdrop-filter: blur(12px);
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--card-border);
+            color: var(--text-dim);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            color: #fff;
+            background: rgba(99, 102, 241, 0.2);
+            border-color: var(--primary);
+        }
+
+        .search-box {
+            position: relative;
+            min-width: 240px;
+            flex-grow: 1;
+            max-width: 360px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 8px 14px 8px 36px;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            color: #fff;
+            font-size: 0.9rem;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .search-input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 2px rgba(6, 182, 212, 0.2);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            opacity: 0.5;
+            pointer-events: none;
+        }
+
+        /* News Grid */
         #news-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 30px;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 24px;
         }
 
         .news-card {
             background: var(--card-bg);
-            backdrop-filter: blur(12px);
-            border-radius: 24px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(16px);
+            border-radius: 18px;
+            border: 1px solid var(--card-border);
             overflow: hidden;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            transition: all 0.25s ease;
             display: flex;
             flex-direction: column;
-            animation: fadeIn 0.6s ease forwards;
-            opacity: 0;
+            animation: fadeIn 0.4s ease forwards;
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
+            from { opacity: 0; transform: translateY(15px); }
             to { opacity: 1; transform: translateY(0); }
         }
 
         .news-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
-            border-color: rgba(56, 189, 248, 0.3);
-        }
-
-        .card-image {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            background: #1e293b;
+            transform: translateY(-4px);
+            box-shadow: 0 16px 32px rgba(0, 0, 0, 0.4);
+            border-color: rgba(99, 102, 241, 0.4);
+            background: var(--card-hover);
         }
 
         .card-content {
-            padding: 24px;
+            padding: 22px;
             flex-grow: 1;
             display: flex;
             flex-direction: column;
+            gap: 10px;
         }
 
-        .category {
-            font-size: 0.8rem;
-            color: var(--accent);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-weight: 600;
-            margin-bottom: 12px;
-        }
-
-        .title-zh {
-            font-size: 1.25rem;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #fff;
-        }
-
-        .title-en {
-            font-size: 0.9rem;
-            font-style: italic;
-            color: var(--text-dim);
-            margin-bottom: 16px;
-        }
-
-        .excerpt {
-            font-size: 0.95rem;
-            color: #cbd5e1;
-            margin-bottom: 20px;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        .footer {
-            margin-top: auto;
+        .meta-top {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 0.85rem;
+        }
+
+        .source-tag {
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 6px;
+            background: rgba(99, 102, 241, 0.15);
+            color: #a5b4fc;
+            border: 1px solid rgba(99, 102, 241, 0.3);
+        }
+
+        .source-tag.economist {
+            background: rgba(239, 68, 68, 0.12);
+            color: #fca5a5;
+            border-color: rgba(239, 68, 68, 0.3);
+        }
+
+        .source-tag.ft {
+            background: rgba(245, 158, 11, 0.12);
+            color: #fde68a;
+            border-color: rgba(245, 158, 11, 0.3);
+        }
+
+        .source-tag.nyt {
+            background: rgba(56, 189, 248, 0.12);
+            color: #93c5fd;
+            border-color: rgba(56, 189, 248, 0.3);
+        }
+
+        .pub-date {
+            font-size: 0.78rem;
             color: var(--text-dim);
+        }
+
+        .title-zh {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #fff;
+            line-height: 1.45;
+        }
+
+        .title-en {
+            font-size: 0.88rem;
+            font-style: italic;
+            color: var(--text-dim);
+            line-height: 1.4;
+        }
+
+        .card-footer {
+            margin-top: auto;
+            padding-top: 14px;
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .status-dot {
+            font-size: 0.8rem;
+            color: var(--success);
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
         }
 
         .btn-read {
             color: var(--accent);
             text-decoration: none;
             font-weight: 600;
-            transition: opacity 0.2s;
+            font-size: 0.88rem;
+            transition: color 0.2s;
         }
 
-        .btn-read:hover { opacity: 0.8; }
+        .btn-read:hover {
+            color: #67e8f9;
+            text-decoration: underline;
+        }
 
-        .loading {
+        .loading-box {
+            grid-column: 1 / -1;
             text-align: center;
-            padding: 100px;
-            font-size: 1.2rem;
+            padding: 80px 20px;
             color: var(--text-dim);
         }
 
-        @media (max-width: 600px) {
-            h1 { font-size: 2rem; }
+        @media (max-width: 640px) {
+            h1 { font-size: 2.1rem; }
             #news-grid { grid-template-columns: 1fr; }
+            .toolbar { flex-direction: column; align-items: stretch; }
+            .search-box { max-width: 100%; }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>News Pusher Feed</h1>
-            <p class="subtitle">AI 自動翻譯與繞過付費牆的時事看板</p>
+            <div class="badge-live">
+                <span class="pulse-dot"></span>
+                <span>24/7 自動巡邏推播進行中</span>
+            </div>
+            <h1>News Pusher 看板</h1>
+            <p class="subtitle">AI 自動翻譯與繞過付費牆的深度國際時事快訊</p>
+            <div class="nav-links">
+                <a href="https://news-pusher.vercel.app" target="_blank" class="nav-btn">⚙️ Vercel 控制台</a>
+                <a href="https://github.com/innnnnnnnnnn/news-pusher" target="_blank" class="nav-btn">📂 GitHub 倉庫</a>
+                <a href="https://github.com/innnnnnnnnnn/news-pusher/actions" target="_blank" class="nav-btn">⚡ Actions 排程</a>
+            </div>
         </header>
 
+        <!-- Toolbar -->
+        <div class="toolbar">
+            <div class="filter-group">
+                <button class="filter-btn active" onclick="setFilter('all')">全部來源 (<span id="count-all">0</span>)</button>
+                <button class="filter-btn" onclick="setFilter('economist')">經濟學人</button>
+                <button class="filter-btn" onclick="setFilter('ft')">金融時報</button>
+                <button class="filter-btn" onclick="setFilter('nyt')">紐約時報</button>
+            </div>
+
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="search-input" class="search-input" placeholder="搜尋標題關鍵字..." oninput="handleSearch()">
+            </div>
+        </div>
+
         <div id="news-grid">
-            <div class="loading">正在載入最新消息...</div>
+            <div class="loading-box">
+                <div class="pulse-dot" style="margin: 0 auto 12px;"></div>
+                <p>正在載入最新推播紀錄...</p>
+            </div>
         </div>
     </div>
 
     <script>
+        let allArticles = [];
+        let currentFilter = 'all';
+        let searchQuery = '';
+
+        function slugToTitle(slug) {
+            if (!slug) return '';
+            return slug
+                .replace(/\.html?$/i, '')
+                .split(/[-_]+/)
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+        }
+
+        function parseItem(item) {
+            if (typeof item === 'object' && item !== null) {
+                return {
+                    id: item.id || item.url,
+                    url: item.url || item.id,
+                    title: item.title || '',
+                    titleZh: item.titleZh || item.title_zh || '',
+                    source: item.source || item.category || '國際新聞',
+                    pushedAt: item.pushedAt || item.date || ''
+                };
+            }
+
+            // String URL format fallback
+            const url = String(item);
+            let source = '新聞來源';
+            let title = '';
+            let dateStr = '';
+
+            try {
+                const u = new URL(url);
+                const parts = u.pathname.split('/').filter(Boolean);
+                const last = parts[parts.length - 1] || '';
+
+                if (u.hostname.includes('economist.com')) {
+                    source = '經濟學人 The Economist';
+                    title = slugToTitle(last);
+                } else if (u.hostname.includes('ft.com')) {
+                    source = '金融時報 Financial Times';
+                    title = slugToTitle(last);
+                } else if (u.hostname.includes('nytimes.com')) {
+                    source = '紐約時報 New York Times';
+                    title = slugToTitle(last);
+                } else {
+                    source = u.hostname.replace(/^www\./, '');
+                    title = slugToTitle(last);
+                }
+
+                const dMatch = u.pathname.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//);
+                if (dMatch) dateStr = `${dMatch[1]}-${dMatch[2]}-${dMatch[3]}`;
+            } catch {
+                title = url;
+            }
+
+            return {
+                id: url,
+                url: url,
+                title: title,
+                titleZh: '',
+                source: source,
+                pushedAt: dateStr
+            };
+        }
+
+        function getSourceClass(source) {
+            const s = (source || '').toLowerCase();
+            if (s.includes('economist')) return 'economist';
+            if (s.includes('ft') || s.includes('financial')) return 'ft';
+            if (s.includes('nyt') || s.includes('york times')) return 'nyt';
+            return '';
+        }
+
+        function formatDate(dStr) {
+            if (!dStr) return '';
+            try {
+                const d = new Date(dStr);
+                return d.toLocaleDateString('zh-TW', {
+                    month: 'numeric',
+                    day: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    timeZone: 'Asia/Taipei'
+                });
+            } catch {
+                return dStr;
+            }
+        }
+
         async function loadNews() {
             try {
-                // We'll fetch news-data.json which the script will generate
-                const response = await fetch('./news-data.json');
-                const data = await response.json();
-                
-                const grid = document.getElementById('news-grid');
-                grid.innerHTML = '';
+                // Fetch history.json directly from local or GitHub raw
+                let rawData = [];
+                try {
+                    const res = await fetch('./history.json');
+                    if (res.ok) rawData = await res.json();
+                } catch {}
 
-                if (!data || data.length === 0) {
-                    grid.innerHTML = '<div class="loading">目前尚無新聞紀錄。</div>';
+                if (!rawData || rawData.length === 0) {
+                    const fallbackRes = await fetch('https://raw.githubusercontent.com/innnnnnnnnnn/news-pusher/main/history.json');
+                    if (fallbackRes.ok) rawData = await fallbackRes.json();
+                }
+
+                if (!rawData || rawData.length === 0) {
+                    document.getElementById('news-grid').innerHTML = '<div class="loading-box">目前暫無新聞推送紀錄。</div>';
                     return;
                 }
 
-                data.forEach((item, index) => {
-                    const card = document.createElement('div');
-                    card.className = 'news-card';
-                    card.style.animationDelay = (index * 0.1) + 's';
-
-                    card.innerHTML = `
-                        <img src="${item.image || 'https://images.unsplash.com/photo-1504711432869-efd597cdd0bf?auto=format&fit=crop&q=80&w=800'}" class="card-image" alt="news cover">
-                        <div class="card-content">
-                            <div class="category">${item.category_zh || item.category}</div>
-                            <h2 class="title-zh">${item.title_zh}</h2>
-                            <p class="title-en">${item.title}</p>
-                            <p class="excerpt">${item.excerpt_zh}</p>
-                            <div class="footer">
-                                <span>⏳ ${item.readingTime} 分鐘</span>
-                                <a href="${item.url}" target="_blank" class="btn-read">閱讀全文 →</a>
-                            </div>
-                        </div>
-                    `;
-                    grid.appendChild(card);
-                });
+                allArticles = rawData.map(parseItem).reverse();
+                document.getElementById('count-all').textContent = allArticles.length;
+                renderArticles();
             } catch (err) {
-                document.getElementById('news-grid').innerHTML = '<div class="loading">無法載入新聞數據，請確認 GitHub Actions 是否已執行並產生 news-data.json。</div>';
+                document.getElementById('news-grid').innerHTML = `<div class="loading-box">載入失敗: ${err.message}</div>`;
                 console.error(err);
             }
+        }
+
+        function setFilter(filter) {
+            currentFilter = filter;
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            renderArticles();
+        }
+
+        function handleSearch() {
+            searchQuery = document.getElementById('search-input').value.trim().toLowerCase();
+            renderArticles();
+        }
+
+        function renderArticles() {
+            const grid = document.getElementById('news-grid');
+            const filtered = allArticles.filter(item => {
+                // Filter by source
+                if (currentFilter === 'economist' && !item.source.toLowerCase().includes('economist')) return false;
+                if (currentFilter === 'ft' && !item.source.toLowerCase().includes('financial') && !item.source.toLowerCase().includes('ft')) return false;
+                if (currentFilter === 'nyt' && !item.source.toLowerCase().includes('york times') && !item.source.toLowerCase().includes('nyt')) return false;
+
+                // Search query
+                if (searchQuery) {
+                    const matchTitle = item.title && item.title.toLowerCase().includes(searchQuery);
+                    const matchZh = item.titleZh && item.titleZh.toLowerCase().includes(searchQuery);
+                    const matchSource = item.source && item.source.toLowerCase().includes(searchQuery);
+                    if (!matchTitle && !matchZh && !matchSource) return false;
+                }
+                return true;
+            });
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '<div class="loading-box">找不到符合條件的新聞紀錄。</div>';
+                return;
+            }
+
+            grid.innerHTML = filtered.map((item, idx) => `
+                <article class="news-card" style="animation-delay: ${Math.min(idx * 0.05, 0.5)}s">
+                    <div class="card-content">
+                        <div class="meta-top">
+                            <span class="source-tag ${getSourceClass(item.source)}">${item.source}</span>
+                            <span class="pub-date">${formatDate(item.pushedAt)}</span>
+                        </div>
+                        ${item.titleZh ? `<h2 class="title-zh">${item.titleZh}</h2>` : ''}
+                        <p class="title-en">${item.title}</p>
+                        <div class="card-footer">
+                            <span class="status-dot">● 已推播至 Telegram</span>
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="btn-read">閱讀全文 ↗</a>
+                        </div>
+                    </div>
+                </article>
+            `).join('');
         }
 
         loadNews();
