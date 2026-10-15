@@ -2,7 +2,7 @@ name: News Pusher Cron
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Every 30 minutes (GitHub limits free tier to 5-15 mins min but 30 is safer)
+    - cron: '*/15 * * * *' # Every 15 minutes
   workflow_dispatch: # Allows manual trigger
 
 permissions:
@@ -27,11 +27,14 @@ jobs:
         run: npm install
 
       - name: Run Push Job
+        continue-on-error: true  # Don't fail workflow on translation/network errors
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times (not cn subdomain)' }}
-        run: node scripts/github-push.mjs
+        run: |
+          node scripts/github-push.mjs
+          echo "Exit code: $?"
 
       - name: Commit & Push History
         run: |

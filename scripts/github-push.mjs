@@ -107,6 +107,36 @@ function escapeMarkdown(text) {
     .replace(/\[/g, '\\[');
 }
 
+/**
+ * Translate with retry + fallback.
+ * Retries up to 3 times with exponential backoff.
+ * Returns original text if all retries fail.
+ */
+async function safeTranslate(text, opts = {}) {
+  if (!text || !text.trim()) return text || '';
+  const maxRetries = 3;
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const result = await translate(text, {
+        to: 'zh-TW',
+        rejectOnPartialFail: false,
+        ...opts,
+      });
+      return result.text || text;
+    } catch (err) {
+      if (attempt < maxRetries) {
+        const delay = attempt * 2000; // 2s, 4s, 6s
+        console.warn(`  [TRANSLATE] Retry ${attempt}/${maxRetries} after ${delay}ms: ${err.message.substring(0, 80)}`);
+        await new Promise(r => setTimeout(r, delay));
+      } else {
+        console.warn(`  [TRANSLATE] All retries failed, using original text.`);
+        return text; // fallback: return original
+      }
+    }
+  }
+  return text;
+}
+
 // ── RSS Parser ────────────────────────────────────────────────────────────────
 async function fetchArticlesFromRSS(feedUrl) {
   const res = await fetch(feedUrl, {
@@ -226,12 +256,12 @@ async function pushArticles() {
       console.log(`  [NEW] ${article.title.substring(0, 70)}`);
 
       try {
-        const [tTitle, tExcerpt] = await Promise.all([
-          translate(article.title, { to: 'zh-TW' }),
-          article.excerpt
-            ? translate(article.excerpt, { to: 'zh-TW' })
-            : Promise.resolve({ text: '' }),
+        const [tTitleText, tExcerptText] = await Promise.all([
+          safeTranslate(article.title),
+          article.excerpt ? safeTranslate(article.excerpt) : Promise.resolve(''),
         ]);
+        const tTitle = { text: tTitleText };
+        const tExcerpt = { text: tExcerptText };
 
         // Format pub date
         let pubDateStr = '';
