@@ -2,7 +2,7 @@ name: News Pusher Cron
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Every 15 minutes
+    - cron: '*/5 * * * *' # Every 5 minutes (GitHub minimum interval)
   workflow_dispatch: # Allows manual trigger
 
 permissions:
@@ -31,6 +31,7 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times (not cn subdomain)' }}
         run: |
           node scripts/github-push.mjs

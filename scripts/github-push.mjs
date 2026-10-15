@@ -1,6 +1,60 @@
 import TelegramBot from 'node-telegram-bot-api';
-import { translate } from 'google-translate-api-x';
 import fs from 'fs';
+
+// ── DeepL Translator ─────────────────────────────────────────────────────────
+/**
+ * Translate text using DeepL Free API.
+ * Falls back to original text if API key is missing or request fails.
+ */
+async function safeTranslate(text) {
+  if (!text || !text.trim()) return text || '';
+
+  const apiKey = process.env.DEEPL_API_KEY;
+  if (!apiKey) {
+    console.warn('  [TRANSLATE] No DEEPL_API_KEY set, skipping translation.');
+    return text;
+  }
+
+  // DeepL Free tier uses api-free.deepl.com (key ends with :fx)
+  const endpoint = 'https://api-free.deepl.com/v2/translate';
+  const maxRetries = 3;
+
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+          'Authorization': `DeepL-Auth-Key ${apiKey}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          text: [text],
+          target_lang: 'ZH',  // Traditional Chinese
+          source_lang: 'EN',
+        }),
+        signal: AbortSignal.timeout(10000),
+      });
+
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(`DeepL HTTP ${res.status}: ${errText.substring(0, 100)}`);
+      }
+
+      const data = await res.json();
+      return data?.translations?.[0]?.text || text;
+    } catch (err) {
+      if (attempt < maxRetries) {
+        const delay = attempt * 1500;
+        console.warn(`  [TRANSLATE] Retry ${attempt}/${maxRetries} after ${delay}ms: ${err.message.substring(0, 80)}`);
+        await new Promise(r => setTimeout(r, delay));
+      } else {
+        console.warn(`  [TRANSLATE] All retries failed, using original text: ${err.message.substring(0, 80)}`);
+        return text;
+      }
+    }
+  }
+  return text;
+}
 
 // ── Config ────────────────────────────────────────────────────────────────────
 // Only push articles published within this many hours
@@ -105,36 +159,6 @@ function escapeMarkdown(text) {
     .replace(/_/g, '\\_')
     .replace(/`/g, '\\`')
     .replace(/\[/g, '\\[');
-}
-
-/**
- * Translate with retry + fallback.
- * Retries up to 3 times with exponential backoff.
- * Returns original text if all retries fail.
- */
-async function safeTranslate(text, opts = {}) {
-  if (!text || !text.trim()) return text || '';
-  const maxRetries = 3;
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
-    try {
-      const result = await translate(text, {
-        to: 'zh-TW',
-        rejectOnPartialFail: false,
-        ...opts,
-      });
-      return result.text || text;
-    } catch (err) {
-      if (attempt < maxRetries) {
-        const delay = attempt * 2000; // 2s, 4s, 6s
-        console.warn(`  [TRANSLATE] Retry ${attempt}/${maxRetries} after ${delay}ms: ${err.message.substring(0, 80)}`);
-        await new Promise(r => setTimeout(r, delay));
-      } else {
-        console.warn(`  [TRANSLATE] All retries failed, using original text.`);
-        return text; // fallback: return original
-      }
-    }
-  }
-  return text;
 }
 
 // ── RSS Parser ────────────────────────────────────────────────────────────────
