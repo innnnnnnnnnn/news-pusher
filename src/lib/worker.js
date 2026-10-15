@@ -1,10 +1,32 @@
 import db from './db';
 import { scrapeArticleWithBPC } from './scraper';
 import TelegramBot from 'node-telegram-bot-api';
-import { translate } from 'google-translate-api-x';
 import fs from 'fs';
 import vm from 'vm';
 import path from 'path';
+
+// ── DeepL Translator (Free API, ZH-HANT = Traditional Chinese) ───────────────
+async function translate(text, opts = {}) {
+  const apiKey = process.env.DEEPL_API_KEY;
+  if (!apiKey || !text || !text.trim()) return { text: text || '' };
+  const targetLang = 'ZH-HANT';
+  try {
+    const res = await fetch('https://api-free.deepl.com/v2/translate', {
+      method: 'POST',
+      headers: {
+        'Authorization': `DeepL-Auth-Key ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ text: [text], target_lang: targetLang }),
+      signal: AbortSignal.timeout(10000),
+    });
+    if (!res.ok) return { text };
+    const data = await res.json();
+    return { text: data?.translations?.[0]?.text || text };
+  } catch {
+    return { text };
+  }
+}
 
 function normalizeTitle(title) {
   if (!title) return '';
@@ -126,9 +148,9 @@ export async function runPushJob() {
           }
 
           const [tTitle, tCategory, tExcerpt] = await Promise.all([
-            translate(article.title, { to: 'zh-TW' }),
-            translate(article.category || 'News', { to: 'zh-TW' }),
-            translate(article.excerpt || article.textContent.substring(0, 200), { to: 'zh-TW' })
+            translate(article.title),
+            translate(article.category || 'News'),
+            translate(article.excerpt || article.textContent.substring(0, 200))
           ]);
 
           const message = `*${tCategory.text}*\n\n` +
