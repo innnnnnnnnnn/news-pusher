@@ -37,9 +37,31 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git fetch origin main
+          node -e '
+            const fs = require("fs");
+            const { execSync } = require("child_process");
+            let local = [];
+            try { local = JSON.parse(fs.readFileSync("history.json", "utf8")); } catch {}
+            let remote = [];
+            try {
+              const remoteStr = execSync("git show origin/main:history.json", { encoding: "utf8" });
+              remote = JSON.parse(remoteStr);
+            } catch {}
+            const merged = [...remote];
+            const seen = new Set(merged.map(x => typeof x === "string" ? x : x.id));
+            for (const item of local) {
+              const id = typeof item === "string" ? item : item.id;
+              if (!seen.has(id)) {
+                merged.push(item);
+                seen.add(id);
+              }
+            }
+            execSync("git reset --hard origin/main");
+            fs.writeFileSync("history.json", JSON.stringify(merged.slice(-1500), null, 2));
+          '
           git add history.json
           if ! git diff-index --quiet HEAD; then
             git commit -m "update: sync push history [skip ci]"
-            git pull --rebase origin main
             git push origin main
           fi
