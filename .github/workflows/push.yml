@@ -1,21 +1,22 @@
-name: News Pusher Cron
+name: News Pusher Continuous
 
 on:
-  # schedule:
-  #   - cron: '*/5 * * * *' # Disabled: OCI server runs 24/7 continuous pusher daemon
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Manual trigger / self-trigger from previous run
 
 permissions:
   contents: write
+  actions: write   # Required to trigger workflow_dispatch via API
 
 jobs:
-  push:
+  push-loop:
     runs-on: ubuntu-latest
+    timeout-minutes: 350  # ~5h 50min — leave buffer before GitHub's 6h hard limit
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Important for committing back
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -26,46 +27,90 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run Push Job
-        continue-on-error: true  # Don't fail workflow on translation/network errors
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Run continuous push loop (up to ~5h 45min)
+        timeout-minutes: 345  # inner step limit, slightly less than job limit
+        continue-on-error: true
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-          SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times (not cn subdomain)' }}
+          SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times' }}
+          INTERVAL_SECONDS: '120'  # Push interval: 2 minutes
         run: |
-          node scripts/github-push.mjs
-          echo "Exit code: $?"
+          START_TIME=$(date +%s)
+          # 5h 45min = 20700s  (leaves 5min for re-trigger + cleanup)
+          MAX_DURATION=20700
+          INTERVAL=${INTERVAL_SECONDS:-120}
+          CYCLE=0
 
-      - name: Commit & Push History
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git fetch origin main
-          node -e '
-            const fs = require("fs");
-            const { execSync } = require("child_process");
-            let local = [];
-            try { local = JSON.parse(fs.readFileSync("history.json", "utf8")); } catch {}
-            let remote = [];
-            try {
-              const remoteStr = execSync("git show origin/main:history.json", { encoding: "utf8" });
-              remote = JSON.parse(remoteStr);
-            } catch {}
-            const merged = [...remote];
-            const seen = new Set(merged.map(x => typeof x === "string" ? x : x.id));
-            for (const item of local) {
-              const id = typeof item === "string" ? item : item.id;
-              if (!seen.has(id)) {
-                merged.push(item);
-                seen.add(id);
+          echo "🚀 Starting continuous push loop"
+          echo "   Interval: ${INTERVAL}s | Max duration: ${MAX_DURATION}s (~5h 45min)"
+
+          while true; do
+            NOW=$(date +%s)
+            ELAPSED=$(( NOW - START_TIME ))
+
+            # Exit loop when we're close to the time limit
+            if [ $ELAPSED -ge $MAX_DURATION ]; then
+              echo "⏰ Approaching 6h limit (elapsed: ${ELAPSED}s). Stopping loop."
+              break
+            fi
+
+            CYCLE=$(( CYCLE + 1 ))
+            REMAINING=$(( MAX_DURATION - ELAPSED ))
+            echo ""
+            echo "════════════════════════════════════════"
+            echo "  🔄 Cycle #${CYCLE} | Elapsed: ${ELAPSED}s | Remaining: ~${REMAINING}s"
+            echo "════════════════════════════════════════"
+
+            # Pull latest history from remote to avoid duplicates
+            git fetch origin main --quiet
+            git checkout origin/main -- history.json 2>/dev/null || true
+
+            # Run push job
+            node scripts/github-push.mjs
+            EXIT_CODE=$?
+            echo "  Push exit code: $EXIT_CODE"
+
+            # Commit & sync history back to GitHub after each cycle
+            git add history.json
+            if ! git diff-index --quiet HEAD; then
+              git commit -m "update: sync push history [skip ci]"
+
+              # Rebase in case remote advanced (concurrent runs)
+              git fetch origin main --quiet
+              git rebase origin/main --quiet 2>/dev/null || {
+                git rebase --abort 2>/dev/null || true
+                git fetch origin main --quiet
+                git reset --hard origin/main --quiet
               }
-            }
-            execSync("git reset --hard origin/main");
-            fs.writeFileSync("history.json", JSON.stringify(merged.slice(-1500), null, 2));
-          '
-          git add history.json
-          if ! git diff-index --quiet HEAD; then
-            git commit -m "update: sync push history [skip ci]"
-            git push origin main
-          fi
+              git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push skipped (conflict resolved next cycle)"
+            else
+              echo "  ✅ No new articles this cycle — history unchanged"
+            fi
+
+            # Sleep until next cycle
+            SLEEP_START=$(date +%s)
+            echo "  💤 Sleeping ${INTERVAL}s until next scan..."
+            sleep $INTERVAL
+          done
+
+          echo ""
+          echo "✅ Loop completed after $CYCLE cycles."
+
+      - name: Auto re-trigger next run (seamless relay)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔁 Triggering next continuous run via workflow_dispatch..."
+          curl -s -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/push.yml/dispatches" \
+            -d '{"ref":"main"}' && echo "✅ Next run triggered successfully." || echo "⚠️ Failed to trigger next run."
