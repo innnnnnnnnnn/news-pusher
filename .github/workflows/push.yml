@@ -1,8 +1,8 @@
 name: News Pusher Cron
 
 on:
-  schedule:
-    - cron: '*/5 * * * *' # Every 5 minutes (GitHub minimum interval)
+  # schedule:
+  #   - cron: '*/5 * * * *' # Disabled: OCI server runs 24/7 continuous pusher daemon
   workflow_dispatch: # Allows manual trigger
 
 permissions:
