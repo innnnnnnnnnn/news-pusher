@@ -2,11 +2,6 @@ import { spawn, execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 
-// ── Configuration ─────────────────────────────────────────────────────────────
-// Default check every 2 minutes for real-time continuous push
-const INTERVAL_MINUTES = parseFloat(process.env.INTERVAL_MINUTES || '2');
-const INTERVAL_MS = Math.max(60000, Math.floor(INTERVAL_MINUTES * 60 * 1000));
-
 // Load .env automatically if present
 if (fs.existsSync('.env')) {
   const content = fs.readFileSync('.env', 'utf8');
@@ -23,6 +18,12 @@ if (fs.existsSync('.env')) {
     }
   });
 }
+
+// ── Configuration ─────────────────────────────────────────────────────────────
+// Default check every 10 seconds for real-time continuous push
+const INTERVAL_SECONDS = parseFloat(process.env.INTERVAL_SECONDS || (process.env.INTERVAL_MINUTES ? String(parseFloat(process.env.INTERVAL_MINUTES) * 60) : '10'));
+const INTERVAL_MS = Math.max(5000, Math.floor(INTERVAL_SECONDS * 1000));
+
 
 function log(msg) {
   const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei' });
@@ -64,10 +65,10 @@ async function runPushCycle() {
   child.on('close', code => {
     isRunning = false;
     if (code === 0) {
-      log(`✅ 本次巡邏完成。同步歷史並等待 ${INTERVAL_MINUTES} 分鐘後執行下一次巡邏...`);
+      log(`✅ 本次巡邏完成。同步歷史並等待 ${INTERVAL_SECONDS} 秒後執行下一次巡邏...`);
       syncHistoryToGithub();
     } else {
-      log(`⚠️ 推播程式退出，退出碼: ${code}。等待 ${INTERVAL_MINUTES} 分鐘後重試...`);
+      log(`⚠️ 推播程式退出，退出碼: ${code}。等待 ${INTERVAL_SECONDS} 秒後重試...`);
     }
   });
 
@@ -79,7 +80,7 @@ async function runPushCycle() {
 
 console.log('='.repeat(60));
 console.log(`  🌐 News Pusher Daemon 守護進程啟動 (OCI 本地常駐推播模式)`);
-console.log(`  ⏱️ 巡邏間隔: 每 ${INTERVAL_MINUTES} 分鐘自動檢查一次 (永不結束)`);
+console.log(`  ⏱️ 巡邏間隔: 每 ${INTERVAL_SECONDS} 秒自動檢查一次 (永不結束)`);
 console.log(`  📰 來源: ${process.env.SUBSCRIPTIONS || 'The Economist, Financial Times, New York Times'}`);
 console.log('='.repeat(60));
 
