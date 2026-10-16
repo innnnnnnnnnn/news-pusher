@@ -45,7 +45,7 @@ jobs:
           START_TIME=$(date +%s)
           # 5h 45min = 20700s  (leaves 5min for re-trigger + cleanup)
           MAX_DURATION=20700
-          INTERVAL=${INTERVAL_SECONDS:-120}
+          INTERVAL=${INTERVAL_SECONDS:-10}
           CYCLE=0
 
           echo "🚀 Starting continuous push loop"
@@ -57,7 +57,7 @@ jobs:
 
             # Exit loop when we're close to the time limit
             if [ $ELAPSED -ge $MAX_DURATION ]; then
-              echo "⏰ Approaching 6h limit (elapsed: ${ELAPSED}s). Stopping loop."
+              echo "⏰ Approaching 6h limit (elapsed: ${ELAPSED}s). Stopping loop to relay to next run."
               break
             fi
 
@@ -69,42 +69,39 @@ jobs:
             echo "════════════════════════════════════════"
 
             # Pull latest history from remote to avoid duplicates
-            git fetch origin main --quiet
+            git fetch origin main --quiet 2>/dev/null || true
             git checkout origin/main -- history.json 2>/dev/null || true
 
-            # Run push job
-            node scripts/github-push.mjs
-            EXIT_CODE=$?
-            echo "  Push exit code: $EXIT_CODE"
+            # Run push job (protected against aborting loop on single-cycle error)
+            node scripts/github-push.mjs || echo "  ⚠️ Push script encountered an error, will retry next cycle"
 
-            # Commit & sync history back to GitHub after each cycle
+            # Commit & sync history back to GitHub if changed
             git add history.json
-            if ! git diff-index --quiet HEAD; then
-              git commit -m "update: sync push history [skip ci]"
+            if [ -n "$(git status --porcelain history.json)" ]; then
+              git commit -m "update: sync push history [skip ci]" || true
 
-              # Rebase in case remote advanced (concurrent runs)
-              git fetch origin main --quiet
+              # Rebase in case remote advanced
+              git fetch origin main --quiet 2>/dev/null || true
               git rebase origin/main --quiet 2>/dev/null || {
                 git rebase --abort 2>/dev/null || true
-                git fetch origin main --quiet
-                git reset --hard origin/main --quiet
+                git fetch origin main --quiet 2>/dev/null || true
+                git reset --hard origin/main --quiet 2>/dev/null || true
               }
               git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push skipped (conflict resolved next cycle)"
             else
               echo "  ✅ No new articles this cycle — history unchanged"
             fi
 
-            # Sleep until next cycle
-            SLEEP_START=$(date +%s)
+            # Sleep until next cycle (10 seconds)
             echo "  💤 Sleeping ${INTERVAL}s until next scan..."
             sleep $INTERVAL
           done
 
           echo ""
-          echo "✅ Loop completed after $CYCLE cycles."
+          echo "✅ 6-hour relay loop completed after $CYCLE cycles."
 
       - name: Auto re-trigger next run (seamless relay)
-        if: always()
+        if: success()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -114,3 +111,4 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/${{ github.repository }}/actions/workflows/push.yml/dispatches" \
             -d '{"ref":"main"}' && echo "✅ Next run triggered successfully." || echo "⚠️ Failed to trigger next run."
+
