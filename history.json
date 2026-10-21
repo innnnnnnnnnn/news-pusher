@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/c69ef2f5-0644-4ec3-accb-cbc8d633e008",
   "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5",
   {
     "id": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
@@ -8982,5 +8981,14 @@
     "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T21:50:03.338Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
+    "title": "Trump Envoy Calls Putin a ‘Humanitarian’",
+    "titleZh": "川普特使稱普丁為「人道主義者」",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21evening-nl-top-fphv/21evening-nl-top-fphv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T22:09:53.890Z"
   }
 ]
