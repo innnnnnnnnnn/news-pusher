@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/6cfc1469-df2d-4f56-953a-77a15ed26e1f",
   "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb",
   "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740",
   "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5",
@@ -8822,5 +8821,14 @@
     "url": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
     "image": null,
     "pushedAt": "2026-10-21T18:11:25.835Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
+    "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+    "titleZh": "馬克宏表示，川普不喜歡法國，並歪曲了法國面臨的困境",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-10-21T18:16:15.127Z"
   }
 ]
