@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/d9aaf82c-1975-4f07-99b1-f3b858b4dc7c",
   "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4",
   "https://www.ft.com/content/b06d00da-9df7-405b-9410-b5485c267397",
   "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971",
@@ -8886,5 +8885,14 @@
     "url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
     "image": null,
     "pushedAt": "2026-10-21T19:43:42.353Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
+    "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
+    "titleZh": "學生抗議活動在歐洲如雨後春筍般湧現，揭露了人們對未來的黯淡展望",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-europe-protests-bjlw/21int-europe-protests-bjlw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T20:13:10.663Z"
   }
 ]
