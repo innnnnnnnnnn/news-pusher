@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/badcd536-6e53-4968-8fea-914ffc3d8d0c",
   "https://www.ft.com/content/a3621421-bee4-4e96-a5f2-28fa545e6397",
   "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
   "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
@@ -8710,5 +8709,14 @@
     "url": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-rioters-lgwk/21int-france-rioters-lgwk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T15:56:50.065Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+    "title": "Delhi’s Winter Season of Polluted Air Begins",
+    "titleZh": "德里冬季空氣污染季節正式展開",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-india-kzvm/21int-india-kzvm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T16:06:57.473Z"
   }
 ]
