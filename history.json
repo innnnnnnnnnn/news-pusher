@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/9af2b0d0-e31f-46e8-9041-36b37a9cd3ba",
   "https://www.ft.com/content/badcd536-6e53-4968-8fea-914ffc3d8d0c",
   "https://www.ft.com/content/a3621421-bee4-4e96-a5f2-28fa545e6397",
   "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
@@ -8702,5 +8701,14 @@
     "url": "https://www.nytimes.com/2026/10/21/t-magazine/cardi-b-music-albums.html",
     "image": null,
     "pushedAt": "2026-10-21T15:55:53.610Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
+    "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+    "titleZh": "我們在法國針對暴動嫌疑人的快速審判中見到了什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-rioters-lgwk/21int-france-rioters-lgwk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T15:56:50.065Z"
   }
 ]
