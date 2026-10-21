@@ -58,8 +58,8 @@ async function safeTranslate(text) {
 // ── Config ────────────────────────────────────────────────────────────────────
 // Only push articles published within this many hours
 // ── Config ────────────────────────────────────────────────────────────────────
-// Only push articles published within this many hours (prevents pushing old articles)
-const MAX_AGE_HOURS = 48;
+// Only push articles published within this many hours (prevents pushing obsolete articles)
+const MAX_AGE_HOURS = 168; // 7 days window for rich rotation pool
 
 // Minimum title word count — filters out stub items
 const MIN_TITLE_WORDS = 3;
@@ -189,9 +189,10 @@ async function fetchArticlesFromRSS(feedUrl) {
     const url   = sanitizeText(rawLink).replace(/\?.*$/, '');
 
     // ── Date filter: require valid pubDate within MAX_AGE_HOURS ──
-    if (!rawDate) return null;
-    const pubTime = new Date(rawDate).getTime();
-    if (isNaN(pubTime) || pubTime < cutoff) return null;
+    if (rawDate) {
+      const pubTime = new Date(rawDate).getTime();
+      if (!isNaN(pubTime) && pubTime < cutoff) return null;
+    }
 
     // ── Title quality filter: skip short stubs or section titles ──
     if (title.split(/\s+/).length < MIN_TITLE_WORDS) return null;
@@ -222,11 +223,72 @@ const history = fs.existsSync(HISTORY_FILE)
   ? JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8'))
   : [];
 
+function recordPushedArticle(article, sourceLabel, titleZh) {
+  const existingIndex = history.findIndex(item => (typeof item === 'string' ? item : item.id) === article.id);
+  const record = {
+    id: article.id,
+    title: article.title,
+    titleZh: titleZh,
+    source: sourceLabel,
+    url: article.url,
+    image: article.image || null,
+    pushedAt: new Date().toISOString()
+  };
+
+  if (existingIndex !== -1) {
+    history[existingIndex] = record;
+  } else {
+    history.push(record);
+  }
+}
+
+async function sendArticleToTelegram(bot, chatId, article, sourceLabel, cachedTitleZh = null) {
+  const titleZh = cachedTitleZh || await safeTranslate(article.title);
+  let excerptZh = '';
+  if (article.excerpt) {
+    excerptZh = await safeTranslate(article.excerpt);
+  }
+
+  // Format pub date
+  let pubDateStr = '';
+  if (article.pubDate) {
+    try {
+      const d = new Date(article.pubDate);
+      pubDateStr = `📅 ${d.toLocaleString('zh-TW', {
+        timeZone: 'Asia/Taipei',
+        month: 'short', day: 'numeric',
+        hour: '2-digit', minute: '2-digit',
+      })}\n`;
+    } catch {}
+  }
+
+  const message =
+    `*${escapeMarkdown(sourceLabel)}*\n\n` +
+    `*${escapeMarkdown(titleZh)}*\n` +
+    `_${escapeMarkdown(article.title)}_\n\n` +
+    (excerptZh ? `${escapeMarkdown(excerptZh)}\n\n` : '') +
+    pubDateStr +
+    `🔗 [閱讀全文](${article.url})`;
+
+  if (article.image) {
+    await bot.sendPhoto(chatId, article.image, {
+      caption: message,
+      parse_mode: 'Markdown',
+    }).catch(() =>
+      bot.sendMessage(chatId, message, { parse_mode: 'Markdown' })
+    );
+  } else {
+    await bot.sendMessage(chatId, message, { parse_mode: 'Markdown' });
+  }
+
+  recordPushedArticle(article, sourceLabel, titleZh);
+}
+
 // ── Main ──────────────────────────────────────────────────────────────────────
 async function pushArticles() {
   const telegramToken = process.env.TELEGRAM_TOKEN;
   const chatId = process.env.CHAT_ID;
-  const subscriptionsString = process.env.SUBSCRIPTIONS || 'The Economist';
+  const subscriptionsString = process.env.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times';
   const sites = subscriptionsString.split(',').map(s => s.trim());
 
   if (!telegramToken || !chatId) {
@@ -235,7 +297,12 @@ async function pushArticles() {
   }
 
   const bot = new TelegramBot(telegramToken, { polling: false });
-  let totalSent = 0;
+  let newSent = 0;
+  let replayedSent = 0;
+
+  // Collect unique articles across all feeds
+  const seen = new Set();
+  const allArticles = [];
 
   for (const siteName of sites) {
     const sourceKey = Object.keys(OFFICIAL_RSS_SOURCES).find(k =>
@@ -250,98 +317,89 @@ async function pushArticles() {
     const source = OFFICIAL_RSS_SOURCES[sourceKey];
     console.log(`\n[CHECK] ${source.label} — fetching ${source.feeds.length} feed(s)...`);
 
-    // Collect unique articles from all feeds
-    const seen = new Set();
-    const allArticles = [];
-
     for (const feedUrl of source.feeds) {
       try {
         const articles = await fetchArticlesFromRSS(feedUrl);
-        console.log(`  ↳ ${feedUrl.split('/').pop()}: ${articles.length} recent items`);
         for (const a of articles) {
           if (!seen.has(a.id)) {
             seen.add(a.id);
-            allArticles.push(a);
+            allArticles.push({ article: a, source });
           }
         }
       } catch (e) {
-        console.warn(`  ↳ [WARN] Feed failed: ${e.message}`);
+        console.warn(`  ↳ [WARN] Feed failed (${feedUrl}): ${e.message}`);
       }
     }
+  }
 
-    console.log(`  Total unique recent articles: ${allArticles.length}`);
+  console.log(`\n📊 總共自訂閱來源抓取 ${allArticles.length} 篇有效文章`);
 
-    // Push new articles (not in history)
-    for (const article of allArticles) {
-      const isAlreadyPushed = history.some(item => (typeof item === 'string' ? item : item.id) === article.id);
-      if (isAlreadyPushed) continue;
+  // Identify brand new articles (not present in history)
+  const newArticles = allArticles.filter(item =>
+    !history.some(h => (typeof h === 'string' ? h : h.id) === item.article.id)
+  );
 
+  if (newArticles.length > 0) {
+    console.log(`📢 發現 ${newArticles.length} 篇全新新聞，優先推播：`);
+    for (const { article, source } of newArticles) {
       console.log(`  [NEW] ${article.title.substring(0, 70)}`);
-
       try {
-        const [tTitleText, tExcerptText] = await Promise.all([
-          safeTranslate(article.title),
-          article.excerpt ? safeTranslate(article.excerpt) : Promise.resolve(''),
-        ]);
-        const tTitle = { text: tTitleText };
-        const tExcerpt = { text: tExcerptText };
-
-        // Format pub date
-        let pubDateStr = '';
-        if (article.pubDate) {
-          try {
-            const d = new Date(article.pubDate);
-            pubDateStr = `📅 ${d.toLocaleString('zh-TW', {
-              timeZone: 'Asia/Taipei',
-              month: 'short', day: 'numeric',
-              hour: '2-digit', minute: '2-digit',
-            })}\n`;
-          } catch {}
-        }
-
-        const message =
-          `*${escapeMarkdown(source.label)}*\n\n` +
-          `*${escapeMarkdown(tTitle.text)}*\n` +
-          `_${escapeMarkdown(article.title)}_\n\n` +
-          (tExcerpt.text ? `${escapeMarkdown(tExcerpt.text)}\n\n` : '') +
-          pubDateStr +
-          `🔗 [閱讀全文](${article.url})`;
-
-        if (article.image) {
-          await bot.sendPhoto(chatId, article.image, {
-            caption: message,
-            parse_mode: 'Markdown',
-          }).catch(() =>
-            bot.sendMessage(chatId, message, { parse_mode: 'Markdown' })
-          );
-        } else {
-          await bot.sendMessage(chatId, message, { parse_mode: 'Markdown' });
-        }
-
-        history.push({
-          id: article.id,
-          title: article.title,
-          titleZh: tTitle.text,
-          source: source.label,
-          url: article.url,
-          image: article.image || null,
-          pushedAt: new Date().toISOString()
-        });
-        totalSent++;
-        console.log(`  [SENT] ✓`);
-
-        // Throttle: avoid Telegram rate limit (30 msgs/sec)
+        await sendArticleToTelegram(bot, chatId, article, source.label);
+        newSent++;
+        console.log(`  [SENT NEW] ✓`);
         await new Promise(r => setTimeout(r, 1500));
       } catch (err) {
-        console.error(`  [FAIL] ${err.message}`);
+        console.error(`  [FAIL NEW] ${err.message}`);
       }
+    }
+  } else {
+    console.log(`🔄 目前無全新文章，啟動無縫輪播機制（Round-Robin Carousel）...`);
+    // Find candidates from allArticles sorted by last pushed timestamp ascending
+    const candidates = allArticles.map(item => {
+      const histEntry = history.find(h => (typeof h === 'string' ? h : h.id) === item.article.id);
+      const lastPushedAt = (histEntry && typeof histEntry === 'object' && histEntry.pushedAt)
+        ? new Date(histEntry.pushedAt).getTime()
+        : 0;
+      return {
+        ...item,
+        histEntry,
+        lastPushedAt,
+      };
+    }).sort((a, b) => a.lastPushedAt - b.lastPushedAt);
+
+    if (candidates.length > 0) {
+      const target = candidates[0];
+      const lastTimeStr = target.lastPushedAt ? new Date(target.lastPushedAt).toLocaleString('zh-TW', { timeZone: 'Asia/Taipei' }) : '首次推播';
+      console.log(`  [CAROUSEL] 輪播文章: ${target.article.title.substring(0, 60)} (前次推播: ${lastTimeStr})`);
+      try {
+        const cachedZh = (target.histEntry && typeof target.histEntry === 'object' && target.histEntry.titleZh)
+          ? target.histEntry.titleZh
+          : null;
+        await sendArticleToTelegram(bot, chatId, target.article, target.source.label, cachedZh);
+        replayedSent++;
+        console.log(`  [SENT CAROUSEL] ✓`);
+      } catch (err) {
+        console.error(`  [FAIL CAROUSEL] ${err.message}`);
+      }
+    } else {
+      console.log(`⚠️ 無候選文章可供輪播`);
     }
   }
 
   // Save history (keep last 1000 entries)
   const trimmedHistory = history.slice(-1000);
   fs.writeFileSync(HISTORY_FILE, JSON.stringify(trimmedHistory, null, 2));
-  console.log(`\n=== Done. Sent ${totalSent} new article(s). ===`);
+
+  // Write status flag for workflow commit decision
+  try {
+    fs.writeFileSync('./.last_push_status.json', JSON.stringify({
+      newSent,
+      replayedSent,
+      timestamp: new Date().toISOString()
+    }));
+  } catch {}
+
+  console.log(`\n=== 推播完成：全新 ${newSent} 則 / 輪播 ${replayedSent} 則 ===`);
 }
 
 pushArticles().catch(err => {

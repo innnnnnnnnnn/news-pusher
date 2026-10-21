@@ -44,12 +44,12 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times' }}
-          INTERVAL_SECONDS: '10'   # Push interval: 10 seconds
+          INTERVAL_SECONDS: '20'   # Push interval: 20 seconds (10~30s continuous news stream)
         run: |
           START_TIME=$(date +%s)
           # 5h 45min = 20700s  (leaves 5min for re-trigger + cleanup)
           MAX_DURATION=20700
-          INTERVAL=${INTERVAL_SECONDS:-10}
+          INTERVAL=${INTERVAL_SECONDS:-20}
           CYCLE=0
 
           echo "🚀 Starting continuous push loop"
@@ -72,34 +72,49 @@ jobs:
             echo "  🔄 Cycle #${CYCLE} | Elapsed: ${ELAPSED}s | Remaining: ~${REMAINING}s"
             echo "════════════════════════════════════════"
 
-            # Pull latest history from remote to avoid duplicates
+            # Pull latest history from remote to keep rotation in sync
             git fetch origin main --quiet 2>/dev/null || true
             git checkout origin/main -- history.json 2>/dev/null || true
 
-            # Run push job (protected against aborting loop on single-cycle error)
+            # Run push job (handles new articles + continuous carousel replay)
             node scripts/github-push.mjs || echo "  ⚠️ Push script encountered an error, will retry next cycle"
 
-            # Commit & sync history back to GitHub if changed
-            git add history.json
-            if [ -n "$(git status --porcelain history.json)" ]; then
-              git commit -m "update: sync push history [skip ci]" || true
-
-              # Rebase in case remote advanced
-              git fetch origin main --quiet 2>/dev/null || true
-              git rebase origin/main --quiet 2>/dev/null || {
-                git rebase --abort 2>/dev/null || true
-                git fetch origin main --quiet 2>/dev/null || true
-                git reset --hard origin/main --quiet 2>/dev/null || true
-              }
-              git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push skipped (conflict resolved next cycle)"
-            else
-              echo "  ✅ No new articles this cycle — history unchanged"
+            # Check if brand new article was pushed
+            NEW_SENT=0
+            if [ -f .last_push_status.json ]; then
+              NEW_SENT=$(jq -r '.newSent // 0' .last_push_status.json 2>/dev/null || echo 0)
             fi
 
-            # Sleep until next cycle (10 seconds)
-            echo "  💤 Sleeping ${INTERVAL}s until next scan..."
+            # Commit & sync history back to GitHub: immediately for new articles, or every 10 cycles (~3 min) for carousel
+            git add history.json
+            if [ -n "$(git status --porcelain history.json)" ]; then
+              if [ "$NEW_SENT" -gt 0 ] || [ $(( CYCLE % 10 )) -eq 0 ]; then
+                git commit -m "update: sync push history [skip ci]" || true
+
+                # Rebase in case remote advanced
+                git fetch origin main --quiet 2>/dev/null || true
+                git rebase origin/main --quiet 2>/dev/null || {
+                  git rebase --abort 2>/dev/null || true
+                  git fetch origin main --quiet 2>/dev/null || true
+                  git reset --hard origin/main --quiet 2>/dev/null || true
+                }
+                git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push skipped (conflict resolved next cycle)"
+              else
+                echo "  ℹ️ Carousel history updated locally (batch sync scheduled in next interval)"
+              fi
+            fi
+
+            # Sleep until next cycle (20 seconds)
+            echo "  💤 Sleeping ${INTERVAL}s until next news check..."
             sleep $INTERVAL
           done
+
+          # Final sync before relay
+          git add history.json
+          if [ -n "$(git status --porcelain history.json)" ]; then
+            git commit -m "update: sync push history before relay [skip ci]" || true
+            git push origin main --quiet || true
+          fi
 
           echo ""
           echo "✅ 6-hour relay loop completed after $CYCLE cycles."

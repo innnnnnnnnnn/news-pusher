@@ -20,8 +20,8 @@ if (fs.existsSync('.env')) {
 }
 
 // ── Configuration ─────────────────────────────────────────────────────────────
-// Default check every 10 seconds for real-time continuous push
-const INTERVAL_SECONDS = parseFloat(process.env.INTERVAL_SECONDS || (process.env.INTERVAL_MINUTES ? String(parseFloat(process.env.INTERVAL_MINUTES) * 60) : '10'));
+// Default check every 20 seconds for continuous news stream
+const INTERVAL_SECONDS = parseFloat(process.env.INTERVAL_SECONDS || (process.env.INTERVAL_MINUTES ? String(parseFloat(process.env.INTERVAL_MINUTES) * 60) : '20'));
 const INTERVAL_MS = Math.max(5000, Math.floor(INTERVAL_SECONDS * 1000));
 
 
