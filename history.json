@@ -1,6 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
-  "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
   "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
   "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
   "https://www.nytimes.com/2026/10/13/world/europe/russia-migrant-workers-killed.html",
@@ -8262,5 +8260,23 @@
     "url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
     "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-palestinian-stakes-htlb/20int-palestinian-stakes-htlb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T08:56:28.465Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
+    "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
+    "titleZh": "委內瑞拉地震的死亡人數很可能遠高於官方統計數字",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/venezuela-deaths-kclz/venezuela-deaths-kclz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:01:31.371Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
+    "title": "Why These Towers Collapsed in Venezuela’s Earthquakes",
+    "titleZh": "為何這些大樓會在委內瑞拉的地震中倒塌",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
+    "image": null,
+    "pushedAt": "2026-10-21T09:01:33.965Z"
   }
 ]
