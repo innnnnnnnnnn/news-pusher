@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
   "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
   "https://www.nytimes.com/2026/10/13/world/europe/russia-migrant-workers-killed.html",
   "https://www.nytimes.com/2026/10/13/world/asia/south-korea-stabbing-homeplus.html",
@@ -8278,5 +8277,14 @@
     "url": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
     "image": null,
     "pushedAt": "2026-10-21T09:01:33.965Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+    "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+    "titleZh": "人工智慧製作的選舉影片正席捲巴西。這些影片會影響選民投票意向嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+    "image": null,
+    "pushedAt": "2026-10-21T09:04:11.111Z"
   }
 ]
