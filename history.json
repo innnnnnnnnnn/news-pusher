@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a",
   "https://www.ft.com/content/d9aaf82c-1975-4f07-99b1-f3b858b4dc7c",
   "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4",
   "https://www.ft.com/content/b06d00da-9df7-405b-9410-b5485c267397",
@@ -8878,5 +8877,14 @@
     "url": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-title-nine-01-wcmg/21dc-title-nine-01-wcmg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T19:21:22.180Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+    "title": "Either AI or public debt could crash markets. But probably not both",
+    "titleZh": "無論是人工智慧還是公共債務，都可能導致市場崩盤。但兩者同時引發崩盤的可能性不大",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+    "image": null,
+    "pushedAt": "2026-10-21T19:43:42.353Z"
   }
 ]
