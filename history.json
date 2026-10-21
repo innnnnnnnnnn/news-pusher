@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39",
   "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2",
   "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f",
   "https://www.ft.com/content/6cfc1469-df2d-4f56-953a-77a15ed26e1f",
@@ -8798,5 +8797,14 @@
     "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
     "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T18:04:45.383Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
+    "title": "Everything Feels So Expensive. Here’s What’s Really Going On.",
+    "titleZh": "一切都感覺好貴。這背後究竟是怎麼一回事？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
+    "image": null,
+    "pushedAt": "2026-10-21T18:06:06.561Z"
   }
 ]
