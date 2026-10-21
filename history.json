@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17",
-    "title": "Perella Weinberg and Piper Sandler abandon merger talks",
-    "titleZh": "佩雷拉·溫伯格和派珀·桑德勒放棄合併談判",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa61112e3-9ff5-4bfd-8568-febf9d83c8dc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-14T20:00:28.047Z"
-  },
-  {
     "id": "https://www.ft.com/content/0c821d3e-241f-46a9-a54b-e0d0cf8ee4cf",
     "title": "How Michael Woodford made modern macro relevant to central bankers",
     "titleZh": "邁克爾伍德福德 (Michael Woodford) 如何使現代宏觀經濟與央行行長相關",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d3ad59b9-b3fe-4948-8979-4236f2b38c90?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T23:02:08.780Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+    "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+    "titleZh": "美國與以色列擬定計畫，準備在伊朗大選後再次對其發動空襲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T23:02:36.143Z"
   }
 ]
