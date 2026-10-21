@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
   "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
   "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
   "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d",
@@ -8590,5 +8589,14 @@
     "url": "https://www.ft.com/content/8eda2888-0b63-43c9-80b9-b4b7557374ca?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T13:34:21.340Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
+    "title": "Israeli Military Detains Brad Lander in West Bank During Volunteer Trip",
+    "titleZh": "以色列軍方在約旦河西岸拘留了正在進行志工之旅的布拉德·蘭德",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21met-lander-lqpf/21met-lander-lqpf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T13:44:21.980Z"
   }
 ]
