@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
   "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
   "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
   "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
@@ -8174,5 +8173,14 @@
     "url": "https://www.ft.com/content/0a892b95-0216-40d9-89a4-e1654b9a3fa2",
     "image": null,
     "pushedAt": "2026-10-21T06:29:45.843Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/asia/china-moves-to-tighten-its-grip-over-exports-of-top-ai-models.html",
+    "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+    "titleZh": "中國採取措施，加強對頂級人工智慧模型出口的管控",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/asia/china-moves-to-tighten-its-grip-over-exports-of-top-ai-models.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-china-ai-rules-01-lvpc/21int-china-ai-rules-01-lvpc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T06:39:28.407Z"
   }
 ]
