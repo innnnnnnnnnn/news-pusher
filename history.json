@@ -1,7 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
-  "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
-  "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
   "https://www.nytimes.com/2026/10/14/world/asia/korea-assassins-movie.html",
   "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
   "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
@@ -8102,5 +8099,32 @@
     "url": "https://www.ft.com/content/76bf9a5f-a1f9-4b59-9473-35fe18a7a008?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T05:15:27.748Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc",
+    "title": "Nscale boss seeks to reassure staff amid AI market jitters",
+    "titleZh": "Nscale 執行長在人工智慧市場動盪之際，致力安撫員工",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc",
+    "image": null,
+    "pushedAt": "2026-10-21T05:49:34.773Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6d347f2c-b5da-4966-b95d-fd09f2d0960a",
+    "title": "Oh OK, we’ll write something about the new Truss book",
+    "titleZh": "哦，好啦，我們會寫點關於特拉斯新書的內容",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6d347f2c-b5da-4966-b95d-fd09f2d0960a",
+    "image": null,
+    "pushedAt": "2026-10-21T05:49:36.995Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b7e5fa98-0cb5-4eba-b921-26e3a9393199",
+    "title": "Small caps: not a great AI hedge",
+    "titleZh": "小盤股：並非理想的 AI 避險工具",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b7e5fa98-0cb5-4eba-b921-26e3a9393199?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T05:49:39.200Z"
   }
 ]
