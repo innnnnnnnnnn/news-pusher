@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/0e57c134-bb4b-44f1-85be-7780a0a21d9f",
   "https://www.ft.com/content/f8f302b1-3859-45dd-9e45-b5e9149c6f51",
   "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3",
   "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765",
@@ -8942,5 +8941,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-theworld-top2-bmzl/22int-theworld-top2-bmzl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T20:43:18.307Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
+    "title": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
+    "titleZh": "泰爾森·奧雷利安的魁北克出版商因人工智慧指控而終止合作關係",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-canada-ai-author-lhqz/21int-canada-ai-author-lhqz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T20:48:34.183Z"
   }
 ]
