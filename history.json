@@ -1,6 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html",
-  "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
   "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
   "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
   "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
@@ -8454,5 +8452,23 @@
     "url": "https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T10:47:23.115Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b3544087-2673-4e90-9192-342c6b1a6a03",
+    "title": "The rise of index vigilantes",
+    "titleZh": "指數「義警」的崛起",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b3544087-2673-4e90-9192-342c6b1a6a03",
+    "image": null,
+    "pushedAt": "2026-10-21T10:50:43.836Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158",
+    "title": "WHO issues alert as Ebola spreads to west Africa",
+    "titleZh": "隨著伊波拉疫情蔓延至西非，世界衛生組織發布警報",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T10:50:46.103Z"
   }
 ]
