@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html",
   "https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html",
   "https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html",
   "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
@@ -8326,5 +8325,14 @@
     "url": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
     "image": null,
     "pushedAt": "2026-10-21T09:10:30.232Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+    "title": "Russia Releases American Stephen Hubbard",
+    "titleZh": "俄羅斯釋放美國人史蒂芬·哈伯德",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-hubbard-mhbc/00dc-hubbard-mhbc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:45:29.125Z"
   }
 ]
