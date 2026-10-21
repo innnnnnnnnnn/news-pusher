@@ -1,11 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html",
-  "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
-  "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html",
-  "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
-  "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
-  "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
-  "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
   "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
   "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
   "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest",
@@ -8342,5 +8335,68 @@
     "url": "https://www.ft.com/content/a2c32972-da84-44ff-82cf-d66ae8bc1446?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T09:49:46.343Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html",
+    "title": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds",
+    "titleZh": "民調顯示：距離中期選舉僅剩兩週，川普支持率創下新低",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/2026-10-16-national-poll-index/2026-10-16-national-poll-index-mediumSquareAt3X-v4.png",
+    "pushedAt": "2026-10-21T09:58:13.696Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
+    "title": "Democrats Have a Wide Lead in Our New Poll as Trump Slides",
+    "titleZh": "在我們最新的民調中，民主黨保持大幅領先，而川普的支持率則持續下滑",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/2026-10-16-tilt-uturn-index/2026-10-16-tilt-uturn-index-mediumSquareAt3X-v3.png",
+    "pushedAt": "2026-10-21T09:58:16.118Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
+    "title": "Inside the World of Dark Nutrition",
+    "titleZh": "《暗黑營養》的世界",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-nutrition/01mag-nutrition-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:58:19.056Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/20/insider/what-it-took-for-nikole-hannah-jones-to-write-about-her-daughters-distress.html",
+    "title": "What It Took for Nikole Hannah-Jones to Write About Her Daughter’s Distress",
+    "titleZh": "妮可·漢娜-瓊斯究竟經歷了什麼，才寫下關於女兒痛苦的這篇文章",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/20/insider/what-it-took-for-nikole-hannah-jones-to-write-about-her-daughters-distress.html",
+    "image": null,
+    "pushedAt": "2026-10-21T09:58:21.786Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html",
+    "title": "In Fighting for Every Black Child, Did I Betray My Own?",
+    "titleZh": "在《為每個黑人孩子而戰》一書中，我是否背叛了自己的孩子？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html",
+    "image": "https://static01.nyt.com/images/2026/10/04/magazine/04mag-daughter-02/04mag-daughter-02-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:58:24.281Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
+    "title": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant",
+    "titleZh": "若您攜帶 APOE4 基因變異，該如何降低罹患阿茲海默症的風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/well/21WELL-APOE4-image/21WELL-APOE4-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:58:27.457Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
+    "title": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
+    "titleZh": "如何觀測來自哈雷彗星的獵戶座流星雨",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/science/21SCI-ORIONIDS/21SCI-ORIONIDS-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:58:30.020Z"
   }
 ]
