@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5",
   {
     "id": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
     "title": "U.S. Is Sending Hundreds of Troops to Latin America",
@@ -8990,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21evening-nl-top-fphv/21evening-nl-top-fphv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T22:09:53.890Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
+    "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Says",
+    "titleZh": "醫生表示，教宗的肺癌無需進一步治療",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T22:12:31.293Z"
   }
 ]
