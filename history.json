@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf",
   "https://www.ft.com/content/c69ef2f5-0644-4ec3-accb-cbc8d633e008",
   "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5",
   {
@@ -8974,5 +8973,14 @@
     "url": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T21:44:23.576Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+    "title": "Trump Administration Asks Supreme Court to Allow Border Wall Construction",
+    "titleZh": "川普政府請求最高法院准許興建邊境圍牆",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T21:50:03.338Z"
   }
 ]
