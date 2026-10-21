@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
   "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
   "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d",
   "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27",
@@ -8598,5 +8597,14 @@
     "url": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21met-lander-lqpf/21met-lander-lqpf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T13:44:21.980Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
+    "title": "Is Rabies Making a Comeback?",
+    "titleZh": "狂犬病是否正在捲土重來？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
+    "image": null,
+    "pushedAt": "2026-10-21T14:10:31.321Z"
   }
 ]
