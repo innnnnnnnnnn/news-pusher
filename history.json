@@ -1,7 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
-  "https://www.nytimes.com/2026/10/13/world/europe/russia-migrant-workers-killed.html",
-  "https://www.nytimes.com/2026/10/13/world/asia/south-korea-stabbing-homeplus.html",
   "https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html",
   "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
   "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html",
@@ -8286,5 +8283,32 @@
     "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
     "image": null,
     "pushedAt": "2026-10-21T09:04:11.111Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
+    "title": "Senator Asks 4 Accounting Giants to Describe Malta Tax Advice",
+    "titleZh": "參議員要求四家會計巨頭說明其針對馬耳他的稅務建議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-malta-letters-vfbc/20biz-malta-letters-vfbc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:04:32.957Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
+    "title": "A Battle for Control of India’s Biggest Business Empire",
+    "titleZh": "一場爭奪印度最大商業帝國控制權的戰役",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00biz-india-tata-hwvj/00biz-india-tata-hwvj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:04:35.227Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html",
+    "title": "For an Experiment in Political Affirmative Action, Look to Taiwan",
+    "titleZh": "若要觀察政治平權措施的實驗，不妨看看台灣",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/18biz-newworld-taiwangender-01-pqhf/18biz-newworld-taiwangender-01-pqhf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T09:04:37.518Z"
   }
 ]
