@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
   "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d",
   "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27",
   "https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504",
@@ -8606,5 +8605,14 @@
     "url": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
     "image": null,
     "pushedAt": "2026-10-21T14:10:31.321Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
+    "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
+    "titleZh": "「讓美國再次偉大」（MAGA）的外交政策一團糟。民主黨人對於下一步該怎麼做意見不一",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
+    "image": null,
+    "pushedAt": "2026-10-21T14:38:36.287Z"
   }
 ]
