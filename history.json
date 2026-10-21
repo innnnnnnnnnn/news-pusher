@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72",
   "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb",
   "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745",
   "https://www.ft.com/content/9af2b0d0-e31f-46e8-9041-36b37a9cd3ba",
@@ -8678,5 +8677,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T15:30:06.190Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+    "title": "In France, Raging Against the Luxury Machine",
+    "titleZh": "在法國，對抗奢侈品機器",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T15:35:57.638Z"
   }
 ]
