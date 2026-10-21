@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/183ace53-2a89-43a9-88c1-9ea1e1b4437d",
   "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249",
   "https://www.ft.com/content/c6a28cf5-cd3c-447b-ad79-dcc247fc6fdf",
   "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39",
@@ -8774,5 +8773,14 @@
     "url": "https://www.ft.com/content/8c443652-5c29-4711-81d1-dd985f2e4578?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T17:54:22.706Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+    "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+    "titleZh": "Meta 因在隱私問題上欺騙用戶，被裁定須支付 250 億美元",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+    "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T17:56:12.808Z"
   }
 ]
