@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
   "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
   "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
   "https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html",
@@ -8478,5 +8477,14 @@
     "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T11:00:13.363Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7713a613-7b31-4e31-9aeb-0fb2bd03391e",
+    "title": "Can Britain’s grid make the grade?",
+    "titleZh": "英國的電網能否達到標準？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7713a613-7b31-4e31-9aeb-0fb2bd03391e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T11:02:36.813Z"
   }
 ]
