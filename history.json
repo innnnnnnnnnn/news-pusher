@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
   "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
   "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
   "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
@@ -8142,5 +8141,14 @@
     "url": "https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46987f26-f270-4f63-90ed-07ecb985f58e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-21T06:09:42.392Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+    "title": "Britain Approves New Gas Drilling in the North Sea",
+    "titleZh": "英國批准在北海進行新的天然氣鑽探",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/Biz-Northsea-Decision-01-mvjg/Biz-Northsea-Decision-01-mvjg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T06:10:34.161Z"
   }
 ]
