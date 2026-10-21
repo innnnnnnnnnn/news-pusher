@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
-    "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
-    "titleZh": "利奧十四世的肺癌診斷考驗了仍在成型的教宗權",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-assess-01-qzbl/13int-pope-assess-01-qzbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-14T20:00:15.692Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
     "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
     "titleZh": "能源部命令針對大西洋中部停電風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/int21-Haiti-bukele-hjbm/int21-Haiti-bukele-hjbm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T22:48:44.455Z"
+  },
+  {
+    "id": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b",
+    "title": "LSEG nears $3.5bn deal to buy credit data specialist Octus",
+    "titleZh": "倫敦證交所（LSEG）即將以 35 億美元收購信用數據專家 Octus",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T22:51:46.786Z"
   }
 ]
