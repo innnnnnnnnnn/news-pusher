@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2",
   "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f",
   "https://www.ft.com/content/6cfc1469-df2d-4f56-953a-77a15ed26e1f",
   "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb",
@@ -8806,5 +8805,14 @@
     "url": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
     "image": null,
     "pushedAt": "2026-10-21T18:06:06.561Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
+    "title": "How the 2010s remade business",
+    "titleZh": "2010年代如何重塑商界",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
+    "image": null,
+    "pushedAt": "2026-10-21T18:10:57.533Z"
   }
 ]
