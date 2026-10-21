@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/a3621421-bee4-4e96-a5f2-28fa545e6397",
   "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
   "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
   "https://www.ft.com/content/25c6e29b-f6e6-40a4-b9df-cd0883e9234f",
@@ -8718,5 +8717,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-india-kzvm/21int-india-kzvm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T16:06:57.473Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
+    "title": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
+    "titleZh": "在川普的國際外交世界裡，侮辱是條單行道",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-memo-top-vbwz/21dc-memo-top-vbwz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T16:50:48.930Z"
   }
 ]
