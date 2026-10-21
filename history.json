@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2",
   "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72",
   "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb",
   "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745",
@@ -8670,5 +8669,14 @@
     "url": "https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock",
     "image": null,
     "pushedAt": "2026-10-21T15:29:35.942Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
+    "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+    "titleZh": "馬克宏表示，川普不喜歡法國，並歪曲了法國面臨的困境",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T15:30:06.190Z"
   }
 ]
