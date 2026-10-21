@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html",
   "https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html",
   "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
   "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
@@ -8502,5 +8501,14 @@
     "url": "https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F657c407f-5691-4551-90c5-a6261ea3544f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-21T12:06:21.478Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+    "title": "SpaceX Boosts the A.I. Rally",
+    "titleZh": "SpaceX 帶動人工智慧熱潮",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21db-musk-vqjz/21db-musk-vqjz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T12:24:36.985Z"
   }
 ]
