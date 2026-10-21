@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/25c6e29b-f6e6-40a4-b9df-cd0883e9234f",
   "https://www.ft.com/content/0a39fcdb-860c-4739-8454-21fb429f6336",
   "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d",
   "https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5",
@@ -8742,5 +8741,14 @@
     "url": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F63462bd2-0f8d-4bc8-95d4-510b8fa0f9e8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-21T17:30:26.384Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+    "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+    "titleZh": "美國將在中期選舉前動用取暖油儲備",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-heating-oil/21biz-heating-oil-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T17:39:17.184Z"
   }
 ]
