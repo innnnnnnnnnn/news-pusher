@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877",
-    "title": "BofA profits drop 17% after $1.2bn money laundering fine",
-    "titleZh": "美國銀行因洗錢罰款 12 億美元利潤下降 17%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-14T20:00:37.176Z"
-  },
-  {
-    "id": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c",
-    "title": "German prosecutors accuse Ukraine of Nord Stream sabotage",
-    "titleZh": "德國檢察官指控烏克蘭破壞北溪",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-14T20:00:40.244Z"
-  },
-  {
     "id": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7",
     "title": "BlackRock pulls in $205bn to take assets to record high",
     "titleZh": "貝萊德吸資2050億美元資產創歷史新高",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/bfb6ca00-5deb-4c39-87f0-9dcf055e0ff4?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T23:10:23.308Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
+    "title": "Why a Pillar of Christian Journalism is in Turmoil",
+    "titleZh": "為何基督教新聞界的支柱正陷入動盪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-christianity-today--01-gqtb/21nat-christianity-today--01-gqtb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T23:57:37.121Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
+    "title": "Oregon Teacher Disputes Account of Her Heroism During School Shooting",
+    "titleZh": "俄勒岡州一名教師對關於她在校園槍擊案中英勇事蹟的描述提出異議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
+    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/-21nat-bend2/-21nat-bend2-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T23:57:39.672Z"
   }
 ]
