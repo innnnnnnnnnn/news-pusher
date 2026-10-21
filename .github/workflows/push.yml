@@ -79,29 +79,21 @@ jobs:
             # Run push job (handles new articles + continuous carousel replay)
             node scripts/github-push.mjs || echo "  ⚠️ Push script encountered an error, will retry next cycle"
 
-            # Check if brand new article was pushed
-            NEW_SENT=0
-            if [ -f .last_push_status.json ]; then
-              NEW_SENT=$(jq -r '.newSent // 0' .last_push_status.json 2>/dev/null || echo 0)
-            fi
-
-            # Commit & sync history back to GitHub: immediately for new articles, or every 10 cycles (~3 min) for carousel
+            # Always commit & push history.json after every send to prevent carousel repeats.
+            # If history is only saved locally and remote is pulled next cycle, the pushedAt
+            # timestamp won't be updated and the same article gets picked again.
             git add history.json
             if [ -n "$(git status --porcelain history.json)" ]; then
-              if [ "$NEW_SENT" -gt 0 ] || [ $(( CYCLE % 10 )) -eq 0 ]; then
-                git commit -m "update: sync push history [skip ci]" || true
+              git commit -m "update: sync push history [skip ci]" || true
 
-                # Rebase in case remote advanced
+              # Rebase in case remote advanced
+              git fetch origin main --quiet 2>/dev/null || true
+              git rebase origin/main --quiet 2>/dev/null || {
+                git rebase --abort 2>/dev/null || true
                 git fetch origin main --quiet 2>/dev/null || true
-                git rebase origin/main --quiet 2>/dev/null || {
-                  git rebase --abort 2>/dev/null || true
-                  git fetch origin main --quiet 2>/dev/null || true
-                  git reset --hard origin/main --quiet 2>/dev/null || true
-                }
-                git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push skipped (conflict resolved next cycle)"
-              else
-                echo "  ℹ️ Carousel history updated locally (batch sync scheduled in next interval)"
-              fi
+                git reset --hard origin/main --quiet 2>/dev/null || true
+              }
+              git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push failed (conflict resolved next cycle)"
             fi
 
             # Sleep until next cycle (20 seconds)
