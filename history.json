@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971",
   "https://www.ft.com/content/3e5cabb7-18ec-45f3-b4bb-e83b5bf90df2",
   "https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12",
   "https://www.ft.com/content/7addd5d0-11d6-4706-bf0b-995084ef7bb6",
@@ -8910,5 +8909,14 @@
     "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F66d99a4b-b6d7-4ceb-a499-7830ac51f21d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-21T20:13:43.076Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+    "title": "Tesla Earnings Show Profit Declines Amid Talks to Merge With SpaceX",
+    "titleZh": "特斯拉財報顯示獲利下滑，同時正與 SpaceX 商討合併事宜",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-tesla-earnings-jgch/21biz-tesla-earnings-jgch-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T20:15:05.318Z"
   }
 ]
