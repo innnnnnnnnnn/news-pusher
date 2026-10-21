@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745",
   "https://www.ft.com/content/9af2b0d0-e31f-46e8-9041-36b37a9cd3ba",
   "https://www.ft.com/content/badcd536-6e53-4968-8fea-914ffc3d8d0c",
   "https://www.ft.com/content/a3621421-bee4-4e96-a5f2-28fa545e6397",
@@ -8694,5 +8693,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
     "image": null,
     "pushedAt": "2026-10-21T15:36:27.856Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/t-magazine/cardi-b-music-albums.html",
+    "title": "Cardi B Is Using Her Music, Her Business and Her Politics to Express Herself",
+    "titleZh": "卡迪·B 正透過她的音樂、事業和政治立場來表達自我",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/t-magazine/cardi-b-music-albums.html",
+    "image": null,
+    "pushedAt": "2026-10-21T15:55:53.610Z"
   }
 ]
