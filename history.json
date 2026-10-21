@@ -1,6 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html",
-  "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
   "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
   "https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html",
   "https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html",
@@ -8510,5 +8508,23 @@
     "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21db-musk-vqjz/21db-musk-vqjz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T12:24:36.985Z"
+  },
+  {
+    "id": "https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d",
+    "title": "Hungary detains Orbán’s former central bank chief",
+    "titleZh": "匈牙利拘留奧班的前央行行長",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T12:44:26.806Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c647a4d9-bd2d-4758-9482-2e89f7151038",
+    "title": "Do memorials belong in train stations?",
+    "titleZh": "紀念碑應該設在火車站裡嗎？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c647a4d9-bd2d-4758-9482-2e89f7151038?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T12:44:29.070Z"
   }
 ]
