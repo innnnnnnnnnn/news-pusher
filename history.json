@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb",
   "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740",
   "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5",
   "https://www.ft.com/content/9209fd59-386b-4399-a870-0a3451548251",
@@ -8830,5 +8829,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-10-21T18:16:15.127Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
+    "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family Ties",
+    "titleZh": "阿卜杜勒·埃爾-賽義德直面針對其信仰與家庭紐帶的攻擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-el-sayed-01-zhwg/21pol-el-sayed-01-zhwg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T18:36:14.473Z"
   }
 ]
