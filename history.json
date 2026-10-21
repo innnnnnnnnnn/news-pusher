@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
   "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
   "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
   "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
@@ -8470,5 +8469,14 @@
     "url": "https://www.ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T10:50:46.103Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+    "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+    "titleZh": "伊隆·馬斯克表示，SpaceX 和特斯拉正在探討合併的可能性",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T11:00:13.363Z"
   }
 ]
