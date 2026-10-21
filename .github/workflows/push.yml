@@ -3,6 +3,10 @@ name: News Pusher Continuous
 on:
   workflow_dispatch: # Manual trigger / self-trigger from previous run
 
+concurrency:
+  group: news-pusher-single-runner
+  cancel-in-progress: false
+
 permissions:
   contents: write
   actions: write   # Required to trigger workflow_dispatch via API
@@ -105,6 +109,16 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          echo "🔍 Checking for any existing active/queued workflow runs..."
+          ACTIVE_RUNS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/push.yml/runs?per_page=20" \
+            | jq --arg my_id "${{ github.run_id }}" '[.workflow_runs[]? | select((.id | tostring) != $my_id and (.status == "in_progress" or .status == "queued" or .status == "waiting"))] | length')
+
+          if [ -n "$ACTIVE_RUNS" ] && [ "$ACTIVE_RUNS" -gt 0 ]; then
+            echo "⚠️ Found $ACTIVE_RUNS other active/queued run(s). Skipping auto-trigger to avoid duplicate runners."
+            exit 0
+          fi
+
           echo "🔁 Triggering next continuous run via workflow_dispatch..."
           curl -s -X POST \
             -H "Authorization: Bearer $GH_TOKEN" \
