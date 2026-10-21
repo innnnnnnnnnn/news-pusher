@@ -1,6 +1,4 @@
 [
-  "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4",
-  "https://www.ft.com/content/b06d00da-9df7-405b-9410-b5485c267397",
   "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971",
   "https://www.ft.com/content/3e5cabb7-18ec-45f3-b4bb-e83b5bf90df2",
   "https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12",
@@ -8894,5 +8892,23 @@
     "url": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-europe-protests-bjlw/21int-europe-protests-bjlw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T20:13:10.663Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31",
+    "title": "Meta to create new non-voting share class",
+    "titleZh": "Meta 將設立新的無表決權股份類別",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d858858-e39a-4a29-888f-f7af0bfdf3e1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-21T20:13:39.634Z"
+  },
+  {
+    "id": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f",
+    "title": "Tesla’s profits slip on weaker vehicle sales",
+    "titleZh": "特斯拉因車款銷量下滑，獲利減少",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F66d99a4b-b6d7-4ceb-a499-7830ac51f21d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-21T20:13:43.076Z"
   }
 ]
