@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f",
   "https://www.ft.com/content/6cfc1469-df2d-4f56-953a-77a15ed26e1f",
   "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb",
   "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740",
@@ -8814,5 +8813,14 @@
     "url": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
     "image": null,
     "pushedAt": "2026-10-21T18:10:57.533Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
+    "title": "What Putin Gains From Releasing an American Prisoner",
+    "titleZh": "普丁釋放一名美國囚犯能獲得什麼好處",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
+    "image": null,
+    "pushedAt": "2026-10-21T18:11:25.835Z"
   }
 ]
