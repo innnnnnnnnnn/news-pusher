@@ -1,5 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
   "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
   "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
   "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
@@ -8078,5 +8077,14 @@
     "url": "https://www.nytimes.com/2026/10/21/opinion/serbia-elections-students-vucic.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21bal-fktq/21bal-fktq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T05:02:14.908Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/climate/united-states-climate-pledge-emissions-gap-report.html",
+    "title": "Emissions Gap Report Identifies U.S. as Outlier Among G20 Nations",
+    "titleZh": "《排放差距報告》指出，美國在 G20 國家中屬特例",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/climate/united-states-climate-pledge-emissions-gap-report.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21CLI-US-EMISSIONS-SURGE-01-qvjl/21CLI-US-EMISSIONS-SURGE-01-qvjl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T05:14:39.300Z"
   }
 ]
