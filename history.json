@@ -1,7 +1,4 @@
 [
-  "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3",
-  "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75",
-  "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f",
   "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2",
   "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72",
   "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb",
@@ -8646,5 +8643,32 @@
     "url": "https://www.ft.com/content/3d67dfc3-e17c-4580-9797-a6bfa7256be0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F94d7a320-48f0-4bef-8f5b-f24383839279.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-21T15:17:29.607Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/10/14/hardly-his-finest-hour",
+    "title": "Hardly his finest hour",
+    "titleZh": "這實在算不上是他最光彩的時刻",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/10/14/hardly-his-finest-hour",
+    "image": null,
+    "pushedAt": "2026-10-21T15:29:30.603Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+    "title": "Another warning sign for China’s economy: falling consumer credit",
+    "titleZh": "中國經濟的另一項警訊：消費信貸下滑",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+    "image": null,
+    "pushedAt": "2026-10-21T15:29:33.317Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock",
+    "title": "Can Asian governments prevent a food shock?",
+    "titleZh": "亞洲各國政府能否防止糧食危機？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock",
+    "image": null,
+    "pushedAt": "2026-10-21T15:29:35.942Z"
   }
 ]
