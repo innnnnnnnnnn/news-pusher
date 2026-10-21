@@ -1,6 +1,4 @@
 [
-  "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
-  "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
   "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
   "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
   "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
@@ -8086,5 +8084,23 @@
     "url": "https://www.nytimes.com/2026/10/21/climate/united-states-climate-pledge-emissions-gap-report.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21CLI-US-EMISSIONS-SURGE-01-qvjl/21CLI-US-EMISSIONS-SURGE-01-qvjl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T05:14:39.300Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b136cc73-cf87-447d-bd9e-4a890273ec0c",
+    "title": "Foreign diplomats queue for handshake with EU leaders",
+    "titleZh": "外國外交官排隊與歐盟領導人握手",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b136cc73-cf87-447d-bd9e-4a890273ec0c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T05:15:25.549Z"
+  },
+  {
+    "id": "https://www.ft.com/content/76bf9a5f-a1f9-4b59-9473-35fe18a7a008",
+    "title": "World headed for warming of 2.8C, UN reports, and US emissions rise",
+    "titleZh": "聯合國報告指出，全球氣溫將上升 2.8°C，而美國的排放量則持續攀升",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/76bf9a5f-a1f9-4b59-9473-35fe18a7a008?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T05:15:27.748Z"
   }
 ]
