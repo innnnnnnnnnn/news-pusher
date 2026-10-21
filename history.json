@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/3e5cabb7-18ec-45f3-b4bb-e83b5bf90df2",
   "https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12",
   "https://www.ft.com/content/7addd5d0-11d6-4706-bf0b-995084ef7bb6",
   "https://www.ft.com/content/0e57c134-bb4b-44f1-85be-7780a0a21d9f",
@@ -8918,5 +8917,14 @@
     "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-tesla-earnings-jgch/21biz-tesla-earnings-jgch-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T20:15:05.318Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1",
+    "title": "GM aims to leapfrog rivals with new generation of autonomous cars",
+    "titleZh": "通用汽車（GM）旨在透過新一代自動駕駛汽車超越競爭對手",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T20:16:26.602Z"
   }
 ]
