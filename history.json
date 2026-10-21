@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-    "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
-    "titleZh": "能源部命令針對大西洋中部停電風險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-power-qplm/14xp-power-qplm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-14T20:00:17.685Z"
-  },
-  {
     "id": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1",
     "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
     "titleZh": "由於通膨和人工智慧債務擔憂令投資者不安，美國晶片股下滑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-21T22:51:46.786Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5833c24e-3a4b-4242-a8c2-8f9918c4670c",
+    "title": "Buyout firm EQT acquires German diagnostics group in €10.8bn deal",
+    "titleZh": "私募股權公司 EQT 以 108 億歐元收購德國診斷集團",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5833c24e-3a4b-4242-a8c2-8f9918c4670c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T22:59:05.765Z"
   }
 ]
