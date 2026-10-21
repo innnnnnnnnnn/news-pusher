@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3",
   "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765",
   "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf",
   "https://www.ft.com/content/c69ef2f5-0644-4ec3-accb-cbc8d633e008",
@@ -8958,5 +8957,14 @@
     "url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-meta-earnings-hfo-1-jzvc/21biz-meta-earnings-hfo-1-jzvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T21:01:39.338Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f",
+    "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
+    "titleZh": "胡塞武裝發動襲擊後，美國下令部分人員撤離沙烏地阿拉伯",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90ce4f96-234b-40ea-8d29-84d88395cf43.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-21T21:12:35.852Z"
   }
 ]
