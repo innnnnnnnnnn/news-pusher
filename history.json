@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/c6a28cf5-cd3c-447b-ad79-dcc247fc6fdf",
   "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39",
   "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2",
   "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f",
@@ -8790,5 +8789,14 @@
     "url": "https://www.ft.com/content/7c0fb51a-2c17-414e-96a7-ac33f40af3de?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0c084d53-4c9f-4da9-9567-ce4af89d3d80.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-21T17:58:01.539Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+    "title": "G.M. Hopes to Design New Cars in as Little as 2 Years Using A.I.",
+    "titleZh": "通用汽車（G.M.）希望利用人工智慧（A.I.），在最短兩年內完成新車款的設計。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T18:04:45.383Z"
   }
 ]
