@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
-    "title": "U.S. Is Sending Hundreds of Troops to Latin America",
-    "titleZh": "美國派遣數百名軍隊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-military-latam-lcgv/14dc-military-latam-lcgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-14T20:00:09.857Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
     "title": "Sally Rooney Says Her Novels Will No Longer Be Sold in Britain",
     "titleZh": "莎莉·魯尼表示她的小說將不再在英國出售",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T22:12:31.293Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
+    "title": "Supreme Court Blocks Trump From Denying Gender-Affirming Care to Trans Prisoners",
+    "titleZh": "最高法院阻止川普剝奪跨性別囚犯接受性別肯定治療的權利",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
+    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00dc-scotus-transprisoners-tmgl/00dc-scotus-transprisoners-tmgl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-21T22:34:06.364Z"
   }
 ]
