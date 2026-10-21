@@ -1,5 +1,4 @@
 [
-  "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740",
   "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5",
   "https://www.ft.com/content/9209fd59-386b-4399-a870-0a3451548251",
   "https://www.ft.com/content/53cc8647-5ba9-4212-8515-8d40258553b9",
@@ -8838,5 +8837,14 @@
     "url": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-el-sayed-01-zhwg/21pol-el-sayed-01-zhwg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-21T18:36:14.473Z"
+  },
+  {
+    "id": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853",
+    "title": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI",
+    "titleZh": "美國國家安全局（NSA）針對利用人工智慧偵測到的「關鍵」網路漏洞發出警告",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-21T18:50:42.459Z"
   }
 ]
