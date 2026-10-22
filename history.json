@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/659f0ebb-4092-4113-a686-2ae565d3f817",
-    "title": "Six must-see shows in Paris this autumn",
-    "titleZh": "今年秋天巴黎必看的六場演出",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/659f0ebb-4092-4113-a686-2ae565d3f817",
-    "image": null,
-    "pushedAt": "2026-10-15T12:39:15.948Z"
-  },
-  {
-    "id": "https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd",
-    "title": "American Hagwon — lessons in the immigrant experience",
-    "titleZh": "美國 Hagwon－移民經驗的教訓",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd",
-    "image": null,
-    "pushedAt": "2026-10-15T12:39:19.692Z"
-  },
-  {
     "id": "https://www.ft.com/content/0be97035-3854-4b6c-8191-98f486862b02",
     "title": "Wave of Saudi Arabia events delayed after Houthi attacks",
     "titleZh": "胡塞武裝襲擊後，沙烏地阿拉伯的一系列活動被推遲",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/93852564-cae6-41f6-aa79-8db53e2b7774",
     "image": null,
     "pushedAt": "2026-10-22T13:40:54.019Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
+    "title": "America’s attack on the International Criminal Court is a headache for Japan",
+    "titleZh": "美國對國際刑事法院的攻擊，讓日本感到頭痛",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
+    "image": null,
+    "pushedAt": "2026-10-22T13:52:47.989Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/22/tackling-stray-dogs-in-bhutan",
+    "title": "Tackling stray dogs in Bhutan",
+    "titleZh": "解決不丹的流浪狗問題",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/22/tackling-stray-dogs-in-bhutan",
+    "image": null,
+    "pushedAt": "2026-10-22T13:52:50.490Z"
   }
 ]
