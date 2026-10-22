@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/33aca8da-f22c-41e5-8255-289ae7d58ee7",
-    "title": "Monte dei Paschi should try the ‘just say maybe’ bid defence",
-    "titleZh": "蒙特帕斯基银行应尝试采用“姑且这么说吧”的竞购防御策略",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/33aca8da-f22c-41e5-8255-289ae7d58ee7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T17:35:21.900Z"
-  },
-  {
     "id": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab",
     "title": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
     "titleZh": "英美资源集团首席执行官表示，科技巨头对矿业股权表现出“浓厚兴趣”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2270e4b7-fad1-4528-b817-95235c78ba99.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-22T23:04:30.320Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/well/cancer-vaccine-melanoma-merck-moderna.html",
+    "title": "Cancer Vaccine Cuts the Risk of Melanoma Recurrence, Merck and Moderna Report",
+    "titleZh": "默克與莫德納報告指出：癌症疫苗可降低黑色素瘤復發風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/well/cancer-vaccine-melanoma-merck-moderna.html",
+    "image": "https://static01.nyt.com/images/2026/08/05/multimedia/22WELL-CANCER-VAX-RESULTS-1/22WELL-CANCER-VAX-RESULTS-1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T23:08:40.288Z"
   }
 ]
