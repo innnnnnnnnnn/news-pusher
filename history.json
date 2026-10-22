@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b4a90a3-d5da-43ad-b213-8ff9879c5943",
-    "title": "Fried chicken bucks UK fast-food trend",
-    "titleZh": "炸雞逆襲英國速食潮流",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b4a90a3-d5da-43ad-b213-8ff9879c5943?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:43.024Z"
-  },
-  {
     "id": "https://www.ft.com/content/42755069-1980-43d2-9c6b-0c54ebcf50d6",
     "title": "Health-focused youth help Healf take growth crown",
     "titleZh": "注重健康的年輕人幫助 Healf 摘得生長桂冠",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-flaw-fcbk/21dc-flaw-fcbk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T10:03:36.448Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
+    "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+    "titleZh": "弓箭手策馬奔馳，追尋那流傳數世紀的戰士精神",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
+    "image": null,
+    "pushedAt": "2026-10-22T10:06:41.148Z"
   }
 ]
