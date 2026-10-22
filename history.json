@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-    "titleZh": "随着抵押贷款利率上升，购房梦想愈发遥不可及",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T17:34:24.940Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/business/economy/californias-housing-proposition-45.html",
     "title": "California’s Proposition 45 Brings the Sprawl Debate Back",
     "titleZh": "加利福尼亚州第45号提案重新引发了关于城市无序扩张的争论",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T17:37:15.821Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+    "title": "Impeachment. It’s Not Just for Presidents.",
+    "titleZh": "彈劾。這不僅僅是針對總統的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+    "image": null,
+    "pushedAt": "2026-10-22T17:48:51.187Z"
   }
 ]
