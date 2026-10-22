@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0c178261-2c29-4677-9649-5b9257662d7e",
-    "title": "Turkish authorities take over country’s most-watched news channel",
-    "titleZh": "土耳其當局接管全國收視率最高的新聞頻道",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0c178261-2c29-4677-9649-5b9257662d7e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-14T20:00:47.668Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
     "title": "The AI boom is threatened by an epidemic of unreliable numbers",
     "titleZh": "人工智慧熱潮受到大量不可靠數據的威脅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21xp-egg-04/21xp-egg-04-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T01:35:53.620Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+    "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
+    "titleZh": "馬克·祖克柏如何推動 Meta 協助他規避加州擬議的財富稅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T01:42:47.203Z"
   }
 ]
