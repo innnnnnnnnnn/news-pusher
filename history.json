@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
-    "title": "Families of Sailors Killed in Gulf Struggle for Compensation and Closure",
-    "titleZh": "在海灣戰爭中喪生的水手家屬要求賠償和關閉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/business/00hormuz-deaths/00hormuz-deaths-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:37:31.118Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
     "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
     "titleZh": "儘管船舶襲擊事件激增，海灣石油仍在流動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
     "image": "https://static01.nyt.com/images/2026/10/21/climate/00cli-google-power/00cli-google-power-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T11:43:47.330Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+    "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+    "titleZh": "全球爭相修復 PHP 安全漏洞，導致部分網站無法上線",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T11:51:16.131Z"
   }
 ]
