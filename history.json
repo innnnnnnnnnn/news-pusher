@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
-    "title": "What happens when AI can read our minds?",
-    "titleZh": "当人工智能能够读懂我们的心思时，会发生什么？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5a9e042a-d80e-4287-a0b5-a0f973c1fe5c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T17:35:02.614Z"
-  },
-  {
     "id": "https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2",
     "title": "Healey signals Budget bank tax raid",
     "titleZh": "希利暗示将在预算案中对银行征收特别税",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T20:53:32.680Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+    "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
+    "titleZh": "在伊朗首都上空，一名模仿川普的人在牢房裡跳舞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png",
+    "pushedAt": "2026-10-22T21:30:24.799Z"
   }
 ]
