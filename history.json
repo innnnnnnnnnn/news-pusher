@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-    "title": "Yemen Says Prime Minister Unhurt After Iran-Backed Houthis Strike Palace",
-    "titleZh": "也门称，在伊朗支持的胡塞武装袭击总统府后，总理安然无恙",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-    "image": null,
-    "pushedAt": "2026-10-15T17:34:40.876Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
     "title": "Violent Protests in Albania",
     "titleZh": "阿尔巴尼亚发生暴力抗议活动",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T20:03:18.369Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+    "title": "Justice Dept. Opens Inquiry Into Lewandoski",
+    "titleZh": "司法部針對萊萬多夫斯基展開調查",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+    "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21DC-Lewandowski/21dc-corey-hp-ctmj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T20:08:03.437Z"
   }
 ]
