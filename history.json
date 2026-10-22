@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
-    "title": "Mexico Bans Violent Content on Social Media for Children",
-    "titleZh": "墨西哥禁止兒童社群媒體上的暴力內容",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-mexico-socialmedia01-photo-gfvk/14int-mexico-socialmedia01-photo-gfvk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T07:00:36.801Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
     "title": "North Korea and China Open Their Biggest Border Bridge",
     "titleZh": "北韓和中國開放最大的邊境大橋",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T04:31:19.607Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/opinion/palestinians-citizens-israel-election-voting.html",
+    "title": "Palestinian Voters Could Determine Israel’s Future",
+    "titleZh": "巴勒斯坦選民可能決定以色列的未來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/opinion/palestinians-citizens-israel-election-voting.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22hardal-hzcq/22hardal-hzcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T05:01:26.475Z"
   }
 ]
