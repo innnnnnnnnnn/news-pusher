@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/42755069-1980-43d2-9c6b-0c54ebcf50d6",
-    "title": "Health-focused youth help Healf take growth crown",
-    "titleZh": "注重健康的年輕人幫助 Healf 摘得生長桂冠",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/42755069-1980-43d2-9c6b-0c54ebcf50d6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:46.497Z"
-  },
-  {
     "id": "https://www.ft.com/content/b7ddb6bf-c486-4e18-9c2b-b7a16029b3c5",
     "title": "Neobanks beat other fintechs to profit thanks to SME lending gap",
     "titleZh": "由於中小企業貸款缺口，新銀行擊敗其他金融科技公司獲利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
     "image": null,
     "pushedAt": "2026-10-22T10:06:41.148Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
+    "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
+    "titleZh": "美以針對伊朗的新攻擊計畫，以及川普的吹哨人獎勵計畫",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-iran-03-vwtg/22themorning-iran-03-vwtg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T10:08:34.779Z"
   }
 ]
