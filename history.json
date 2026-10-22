@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
-    "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
-    "titleZh": "川普政府和擔任高層職務的女性人數不斷減少",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
-    "image": null,
-    "pushedAt": "2026-10-15T01:40:37.208Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
     "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
     "titleZh": "凱蒂·扎卡里亞 (Katie Zacharia) 是川普的新新聞秘書。 但她是律師嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T02:20:52.682Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+    "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+    "titleZh": "法官限制國土安全部旨在查出選民舞弊的實地行動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+    "image": "https://static01.nyt.com/images/2025/11/04/multimedia/21dc-voting/04election-day-us-carousel-CAL-bwfl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T02:40:08.081Z"
   }
 ]
