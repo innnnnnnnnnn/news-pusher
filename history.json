@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/69bfdf93-cbba-477c-9fb0-5978d1d4f506",
-    "title": "French debt worries spill into stocks, driving biggest underperformance since 2010",
-    "titleZh": "法國債務憂慮蔓延至股市，導致股市表現自2010年以來最大跌幅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/69bfdf93-cbba-477c-9fb0-5978d1d4f506?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe2f8f9e2-e2bc-4d7b-973b-0051d35e8d94.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T12:38:59.182Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b76da86e-2087-48de-bab7-7344457af340",
-    "title": "How the Greens lost their party to the hard left",
-    "titleZh": "綠黨如何輸給極左派",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b76da86e-2087-48de-bab7-7344457af340?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e8eebfc-b41f-4fb6-9e9c-cbeab20c06e4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T12:39:03.689Z"
-  },
-  {
-    "id": "https://www.ft.com/content/825b0ed4-060e-49dd-8199-b6accc393ff1",
-    "title": "Macroeconomic policy must now do many things at once",
-    "titleZh": "宏觀經濟政策現在必須同時做很多事情",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/825b0ed4-060e-49dd-8199-b6accc393ff1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T12:39:05.765Z"
-  },
-  {
     "id": "https://www.ft.com/content/b83b0edc-0ea9-4933-a3a7-f8905137fae6",
     "title": "The housing plan for London is no plan at all",
     "titleZh": "倫敦的房屋計劃根本不是計劃",
@@ -8998,5 +8971,32 @@
     "url": "https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites",
     "image": null,
     "pushedAt": "2026-10-22T13:29:41.610Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
+    "title": "Multinational businesses are losing confidence in Indonesia",
+    "titleZh": "跨國企業正逐漸對印尼失去信心",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
+    "image": null,
+    "pushedAt": "2026-10-22T13:32:21.344Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+    "title": "If AI displaces human workers, they will lose more than just pay",
+    "titleZh": "如果人工智慧取代了人類勞工，他們失去的將不僅僅是薪資",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+    "image": null,
+    "pushedAt": "2026-10-22T13:32:23.931Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy",
+    "title": "Personal AI assistants could soon reshape the digital economy",
+    "titleZh": "個人人工智慧助理可能很快就會重塑數位經濟",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy",
+    "image": null,
+    "pushedAt": "2026-10-22T13:32:26.531Z"
   }
 ]
