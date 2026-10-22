@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9",
-    "title": "London’s gold market enjoys the Trump effect",
-    "titleZh": "倫敦黃金市場享受川普效應",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7b24bfab-a17e-4294-9d37-9f958082e0a2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T07:01:16.378Z"
-  },
-  {
     "id": "https://www.ft.com/content/8f1e2cc9-4e2a-48f0-9750-251585e345d3",
     "title": "Salmon producers start feeding chicken to fish",
     "titleZh": "鮭魚生產者開始用雞餵魚",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/reports/wealth?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T07:53:24.228Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cc456111-4c0b-4eaa-8910-53d8933271a3",
+    "title": "Nestlé removes Russian business from accounts after Kremlin takeover",
+    "titleZh": "克里姆林宮接管後，雀巢將俄羅斯業務從財務報表中移除",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cc456111-4c0b-4eaa-8910-53d8933271a3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T07:55:37.122Z"
   }
 ]
