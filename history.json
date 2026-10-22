@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
-    "title": "North Korea and China Open Their Biggest Border Bridge",
-    "titleZh": "北韓和中國開放最大的邊境大橋",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T07:00:40.272Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
     "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
     "titleZh": "為什麼沙烏地阿拉伯努力阻止胡塞武裝攻擊？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/opinion/palestinians-citizens-israel-election-voting.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22hardal-hzcq/22hardal-hzcq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T05:01:26.475Z"
+  },
+  {
+    "id": "https://www.ft.com/content/480f2d4a-a3a4-423e-8be1-a039a6b16fc6",
+    "title": "EU scrambles for seat at the table in Ukraine talks",
+    "titleZh": "歐盟爭相在烏克蘭談判中爭取一席之地",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/480f2d4a-a3a4-423e-8be1-a039a6b16fc6?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T05:01:54.347Z"
   }
 ]
