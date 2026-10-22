@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1",
-    "title": "Marsh to shoulder biggest chunk of Greensill settlement with Credit Suisse",
-    "titleZh": "達信將承擔與瑞信達成的格林希爾和解協議的最大一部分",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd544a39f-611d-45f4-97df-06e74cfb1772.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T07:01:34.525Z"
-  },
-  {
-    "id": "https://www.ft.com/content/789307ae-5109-465c-9b79-7ce71308f0d2",
-    "title": "CPI comes in hot, AI goes cold",
-    "titleZh": "CPI熱，AI冷",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/789307ae-5109-465c-9b79-7ce71308f0d2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:01:38.348Z"
-  },
-  {
-    "id": "https://www.ft.com/content/1a125f04-4de5-4840-a580-81ff06dc0c40",
-    "title": "US inflation again set to be a crucial factor for the midterms",
-    "titleZh": "美國通膨再次成為中期選舉的關鍵因素",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1a125f04-4de5-4840-a580-81ff06dc0c40",
-    "image": null,
-    "pushedAt": "2026-10-15T07:01:42.188Z"
-  },
-  {
-    "id": "https://www.ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a",
-    "title": "Zelenskyy doesn’t mince words about Trump",
-    "titleZh": "澤倫斯基對川普毫不諱言",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:01:45.865Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b7da9229-5423-41c5-bcf9-6da87b16c49a",
-    "title": "Soaring energy prices set to swamp EU summit and overshadow budget talks",
-    "titleZh": "能源價格飆升將淹沒歐盟高峰會並給預算談判蒙上陰影",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b7da9229-5423-41c5-bcf9-6da87b16c49a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:01:49.651Z"
-  },
-  {
     "id": "https://www.ft.com/reports/uk-fastest-growing-companies",
     "title": "The UK’s Fastest-Growing Companies",
     "titleZh": "英國成長最快的公司",
@@ -8998,5 +8953,50 @@
     "url": "https://www.economist.com/china/2026/10/22/china-wants-to-revive-the-spirit-of-the-long-march",
     "image": null,
     "pushedAt": "2026-10-22T09:02:01.178Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
+    "title": "Reliably Red Iowa in Play as Economic Woes Mount",
+    "titleZh": "隨著經濟困境加劇，向來被視為「鐵票倉」的愛荷華州選情變得撲朔迷離",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-iowa-econ-vzwl/22dc-iowa-econ-vzwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:04:57.390Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+    "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
+    "titleZh": "雇主將不斷攀升的醫療保健成本轉嫁給數百萬名勞工",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+    "image": null,
+    "pushedAt": "2026-10-22T09:05:00.301Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+    "title": "Why Many Voters Are Unhappy With the Economy",
+    "titleZh": "為何許多選民對經濟狀況感到不滿",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+    "image": null,
+    "pushedAt": "2026-10-22T09:05:03.137Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
+    "title": "For Clues About How A.I. Will Change Work, Look to the Past",
+    "titleZh": "若想了解人工智慧將如何改變工作，不妨從過去尋找線索",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
+    "image": "https://static01.nyt.com/images/2026/09/27/business/27biz-sun-AI-History-illo/27biz-sun-AI-History-illo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:05:05.881Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html",
+    "title": "When Do Rules on Historic Preservation Go Too Far?",
+    "titleZh": "歷史保存的規範何時會走得太遠？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html",
+    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00biz-sqft-historical-preservation-wfzt/00biz-sqft-historical-preservation-wfzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:05:09.337Z"
   }
 ]
