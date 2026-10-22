@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
-    "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
-    "titleZh": "當利奧教宗從肺部手術中康復時，梵蒂岡卻處於自動駕駛狀態",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:38:10.091Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html",
     "title": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms",
     "titleZh": "川普選民對中期選舉前的高食品價格有何看法",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T12:40:18.449Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
+    "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+    "titleZh": "巴克萊將裁員 5,000 人，藉助人工智慧推動降低成本",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Bank-AI-Jobs-tbkw/22Biz-Bank-AI-Jobs-tbkw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T12:51:15.409Z"
   }
 ]
