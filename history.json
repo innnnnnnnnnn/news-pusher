@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b771ff23-8f40-4b44-ad50-50cea967a171",
-    "title": "Robot dolls, chip shortages and Apple’s soft sales",
-    "titleZh": "機器人玩偶、晶片短缺和蘋果銷售疲軟",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b771ff23-8f40-4b44-ad50-50cea967a171?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T12:39:50.249Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
     "title": "America makes waves in Cuba",
     "titleZh": "美国在古巴掀起波澜",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T15:00:41.363Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+    "titleZh": "什麼是 PHP？為什麼政府和企業網站會離線？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T15:57:56.974Z"
   }
 ]
