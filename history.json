@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html",
-    "title": "Elon Musk and Other Donors Pile $94 Million Into House Republican Effort",
-    "titleZh": "馬斯克 (Elon Musk) 和其他捐助者向眾議院共和黨捐款 9,400 萬美元",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html",
-    "image": "https://static01.nyt.com/images/2025/09/25/multimedia/15pol-house-gop-money/15pol-house-gop-money-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:37:58.819Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html",
-    "title": "Glitch Delays 600,000 Voter Registrations in Texas as Early Voting Looms",
-    "titleZh": "由於提前投票迫在眉睫，德州 60 萬名選民登記故障",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14midterms-texas-voter-reg-thjl/14midterms-texas-voter-reg-thjl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:38:01.772Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/nyregion/mamdani-dsa-protest-israel.html",
     "title": "Anti-Israel Protesters Pose a Purity Test That Even Mamdani Can’t Pass",
     "titleZh": "反以色列抗議者提出連馬姆達尼都無法通過的純潔測試",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/5a5f8d2c-94d0-4e90-b9f4-27e398e4e108?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T12:15:38.276Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a5432bf6-44fc-494c-94c0-f3ab66419d4a",
+    "title": "How are AI agents changing work inside Anthropic?",
+    "titleZh": "AI 代理正在如何改變 Anthropic 內部的工作方式？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a5432bf6-44fc-494c-94c0-f3ab66419d4a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T12:16:06.187Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e6185f87-0f7a-4e95-80db-94462133c266",
+    "title": "Why climate could soon move back up the global agenda",
+    "titleZh": "為何氣候議題可能很快重新成為全球議程的重點",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e6185f87-0f7a-4e95-80db-94462133c266?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T12:16:09.066Z"
   }
 ]
