@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/10/15/mark-carney-shows-middle-powers-how-to-handle-a-dangerous-world",
-    "title": "Mark Carney shows middle powers how to handle a dangerous world",
-    "titleZh": "马克·卡尼向中等国家展示如何应对这个充满危险的世界",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/10/15/mark-carney-shows-middle-powers-how-to-handle-a-dangerous-world",
-    "image": null,
-    "pushedAt": "2026-10-22T10:11:21.038Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
     "title": "When AI agents take matters into their own hands",
     "titleZh": "当人工智能代理开始自行其是时",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/63ed58ac-f9ef-41b7-a172-dc540337b698?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4081631a-bb83-4446-8ac0-8c26e89129b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-22T15:59:19.526Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
+    "title": "The Dream House With a Radioactive Backyard",
+    "titleZh": "那棟後院有輻射的夢幻之家",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-niagara-radiation-TOP/22met-niagara-radiation-TOP-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T16:01:09.813Z"
   }
 ]
