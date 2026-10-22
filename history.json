@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-    "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-    "titleZh": "儘管船舶襲擊事件激增，海灣石油仍在流動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-    "image": "https://static01.nyt.com/images/2026/09/29/multimedia/15biz-hormuz-exports/29biz-hormuz-oil-vcjm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:37:42.998Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
     "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
     "titleZh": "隨著德州學校向校園增派警察，一些學生面臨嚴重指控",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T11:51:16.131Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess",
+    "title": "MAGA foreign policy is a mess",
+    "titleZh": "「讓美國再次偉大」（MAGA）的外交政策一團糟",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess",
+    "image": null,
+    "pushedAt": "2026-10-22T12:01:48.715Z"
   }
 ]
