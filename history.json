@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/business/media/shook-research-veritant-forbes.html",
-    "title": "Shook Research Changes Name to Veritant After Forbes Scandal",
-    "titleZh": "Shook Research 在《福布斯》丑闻后更名为 Veritant",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/media/shook-research-veritant-forbes.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/business/15Biz-Forbes-Rankings-randall/15Biz-Forbes-Rankings-randall-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T17:34:50.208Z"
-  },
-  {
     "id": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
     "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
     "titleZh": "随着人工智能领域的借款人面临“达尔文时刻”，投资者纷纷抛售数据中心债券",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
     "image": "https://static01.nyt.com/images/2017/06/06/arts/skerritt-obit/skerritt-obit-moth.jpg",
     "pushedAt": "2026-10-22T20:13:48.389Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
+    "title": "Monet Painting Sells for $56 Million in France",
+    "titleZh": "莫內畫作在法國以5,600萬美元售出",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22cul-monet-auction-jgmh/22cul-monet-auction-jgmh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T20:31:04.670Z"
   }
 ]
