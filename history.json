@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/46708b2a-0392-43f9-b378-de7117febd16",
-    "title": "UK economy grew 0.1 per cent in August",
-    "titleZh": "英國8月經濟成長0.1%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/46708b2a-0392-43f9-b378-de7117febd16?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1bbc35d5-2bf5-4637-b137-5adfd78d25f4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T07:01:25.625Z"
-  },
-  {
     "id": "https://www.ft.com/content/26db5bb2-9d81-4c62-aeac-c0dfef4c79e6",
     "title": "How AI mega-rounds make life harder for VC firms",
     "titleZh": "人工智慧巨輪如何讓創投公司的日子變得更艱難",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d8e3ca1c-ef96-4148-9ca2-49d48f1604b8?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T08:27:36.145Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89",
+    "title": "Fixing Britain’s welfare state and the limits of AI policymaking",
+    "titleZh": "修復英國的福利國家體系與人工智慧政策制定的局限",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T08:37:42.778Z"
   }
 ]
