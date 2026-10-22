@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/246e950b-e1e5-4f12-af78-4a13433f3977",
-    "title": "Healey promises to ‘stay the path’ on reducing UK deficit",
-    "titleZh": "希利承諾「堅持下去」減少英國赤字",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/246e950b-e1e5-4f12-af78-4a13433f3977?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T12:39:31.060Z"
-  },
-  {
     "id": "https://www.ft.com/content/51aa0972-4794-42bb-9204-8bb1645e4282",
     "title": "Are the Lib Dem birds angry or just disappointed?",
     "titleZh": "自由民主黨的鳥兒是憤怒還是只是失望？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-META-ETA-1-01-qlpv/22BIZ-META-ETA-1-01-qlpv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T14:34:12.799Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+    "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+    "titleZh": "人工智慧及其潛在風險已深植於中期選舉之中",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22biz-midterm-ai-disinfo-fjtz/22biz-midterm-ai-disinfo-fjtz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T14:37:19.622Z"
   }
 ]
