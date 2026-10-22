@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760",
-    "title": "FCA plans to embrace AI to automate financial regulation",
-    "titleZh": "FCA 計劃採用人工智慧實現金融監管自動化",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:02:00.120Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2174fa8e-5b5e-4b1c-9a92-7afc3b9a52c3",
-    "title": "EU carmakers bet on nostalgia to fight Chinese EVs",
-    "titleZh": "歐盟汽車製造商押注懷舊情緒對抗中國電動車",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2174fa8e-5b5e-4b1c-9a92-7afc3b9a52c3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:02:03.968Z"
-  },
-  {
     "id": "https://www.ft.com/content/ed713df4-92b3-45bc-9cf4-bb5c9ea72673",
     "title": "Inheritance tax toll is mounting on UK family companies",
     "titleZh": "英國家族企業的遺產稅負擔不斷增加",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
     "image": "https://static01.nyt.com/images/2026/10/20/multimedia/00int-serbia-nationalism-01-cbtq/00int-serbia-nationalism-01-cbtq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T09:06:33.388Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
+    "title": "Inside the White House’s Push for More A.I.",
+    "titleZh": "白宮推動擴大人工智慧應用的幕後故事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/opinion/22itpod-kratsios-image/22itpod-kratsios-image-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-10-22T09:08:22.228Z"
+  },
+  {
+    "id": "https://www.ft.com/content/06da3859-0143-4e94-9384-cb22d0b64cb2",
+    "title": "Tech at the plate for Asian baseball climax",
+    "titleZh": "亞洲棒球大決戰：打擊區上的科技應用",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/06da3859-0143-4e94-9384-cb22d0b64cb2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T09:08:25.538Z"
   }
 ]
