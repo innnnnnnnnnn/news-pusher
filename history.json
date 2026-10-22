@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
-    "title": "America makes waves in Cuba",
-    "titleZh": "美国在古巴掀起波澜",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
-    "image": null,
-    "pushedAt": "2026-10-22T11:42:28.069Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/10/15/mark-carney-shows-middle-powers-how-to-handle-a-dangerous-world",
     "title": "Mark Carney shows middle powers how to handle a dangerous world",
     "titleZh": "马克·卡尼向中等国家展示如何应对这个充满危险的世界",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T15:57:56.974Z"
+  },
+  {
+    "id": "https://www.ft.com/content/63ed58ac-f9ef-41b7-a172-dc540337b698",
+    "title": "Creditors to Sanjeev Gupta’s first UK steel plant appoint liquidators",
+    "titleZh": "桑吉夫·古普塔在英國的首家鋼鐵廠的債權人委任清算人",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/63ed58ac-f9ef-41b7-a172-dc540337b698?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4081631a-bb83-4446-8ac0-8c26e89129b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-22T15:59:19.526Z"
   }
 ]
