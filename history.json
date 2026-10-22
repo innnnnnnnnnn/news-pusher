@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
-    "title": "A shortage of sulphur could hurt mines and farms everywhere",
-    "titleZh": "硫磺短缺可能會損害各地的礦場和農場",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
-    "image": null,
-    "pushedAt": "2026-10-22T08:32:25.920Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash",
-    "title": "Is the semiconductor industry headed for an almighty crash?",
-    "titleZh": "半導體產業是否正在走向全面崩潰？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash",
-    "image": null,
-    "pushedAt": "2026-10-22T08:33:18.061Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/10/15/how-to-survive-a-predatory-world-order",
     "title": "How to survive a predatory world order",
     "titleZh": "如何在掠奪性的世界秩序中生存",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
     "image": null,
     "pushedAt": "2026-10-22T11:02:04.911Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
+    "title": "A Shifting Standard",
+    "titleZh": "不斷變化的標準",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-nl-titleIX-lede-fchq/22themorning-nl-titleIX-lede-fchq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T11:08:37.676Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
+    "title": "Late Night: Trump Can’t Stop Talking About Jon Husted’s Rear End",
+    "titleZh": "《深夜秀》：川普對喬恩·赫斯泰德的臀部念念不忘",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
+    "image": null,
+    "pushedAt": "2026-10-22T11:08:40.509Z"
   }
 ]
