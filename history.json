@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
-    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
-    "titleZh": "抵押贷款利率徘徊在7.4%，创2023年以来新高",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-oct-biz-promos-oct15-mortgage/2026-oct-biz-promos-oct15-mortgage-mediumSquareAt3X.png",
-    "pushedAt": "2026-10-15T17:34:29.412Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/style/fox-collie-mcnab-dog-breed.html",
     "title": "Is the Fox Collie the Perfect Dog for Our Aimless Era?",
     "titleZh": "福克斯柯利犬是这个迷失方向的时代里最理想的狗狗吗？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9a072c7a-b0ee-4a43-ae73-b19bbde9261b",
     "image": null,
     "pushedAt": "2026-10-22T17:54:54.831Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/insider/oj-simpson-accomplice-1994-murder.html",
+    "title": "He Told Us About an O.J. Accomplice. Then He Said He’d Lied. What Next?",
+    "titleZh": "他向我們透露了 O.J. 的一名同夥。隨後他又承認自己說謊了。接下來會怎樣？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/insider/oj-simpson-accomplice-1994-murder.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21-Insider-oj-mzfw/21-Insider-oj-mzfw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T17:59:04.379Z"
   }
 ]
