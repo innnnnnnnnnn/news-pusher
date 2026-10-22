@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
-    "title": "The AI boom is threatened by an epidemic of unreliable numbers",
-    "titleZh": "人工智慧熱潮受到大量不可靠數據的威脅",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
-    "image": null,
-    "pushedAt": "2026-10-21T20:23:04.196Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
     "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
     "titleZh": "川普政府和擔任高層職務的女性人數不斷減少",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T01:42:47.203Z"
+  },
+  {
+    "id": "https://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd",
+    "title": "Australian iron ore miner warns of production slowdown without China deal",
+    "titleZh": "澳洲鐵礦石開採商警告，若無法與中國達成協議，生產將放緩",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T02:20:52.682Z"
   }
 ]
