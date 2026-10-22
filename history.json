@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fff4d860-5652-427a-b99d-19ce370d2dc3",
-    "title": "Hold philanthropists accountable when their projects fail",
-    "titleZh": "当慈善家的项目失败时，应追究其责任",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fff4d860-5652-427a-b99d-19ce370d2dc3",
-    "image": null,
-    "pushedAt": "2026-10-15T17:35:17.406Z"
-  },
-  {
     "id": "https://www.ft.com/content/0a436452-c1a1-492a-b5be-92848ed5e6e7",
     "title": "Former Everton bidder Josh Wander to plead guilty in US fraud case",
     "titleZh": "曾竞购埃弗顿的乔什·万德将在美国一起欺诈案中认罪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T22:03:45.081Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html",
+    "title": "Trump Goes to Iowa, Hoping to Stop Farmers From Voting Blue",
+    "titleZh": "川普造訪愛荷華州，希望阻止農民投給民主黨",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22evening-nl-trump-iowa-fgvw/22evening-nl-trump-iowa-fgvw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T22:08:43.333Z"
   }
 ]
