@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/movies/rosalind-eleazar-misty-green-slow-horses.html",
-    "title": "Rosalind Eleazar on ‘Misty Green’ and ‘Slow Horses’",
-    "titleZh": "羅莎琳德·埃利亞撒談《迷霧綠》和《慢馬》",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/movies/rosalind-eleazar-misty-green-slow-horses.html",
-    "image": null,
-    "pushedAt": "2026-10-15T12:37:52.944Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/adam-hamilton-religious-democrats-candidates.html",
-    "title": "How Adam Hamilton Built a Megachurch Where People Can Disagree",
-    "titleZh": "亞當·漢密爾頓如何建造一座人們可以提出不同意見的巨型教堂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/adam-hamilton-religious-democrats-candidates.html",
-    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09nat-pastor-campaign-vpwk/09nat-pastor-campaign-vpwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:37:55.455Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html",
     "title": "Elon Musk and Other Donors Pile $94 Million Into House Republican Effort",
     "titleZh": "馬斯克 (Elon Musk) 和其他捐助者向眾議院共和黨捐款 9,400 萬美元",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/22/business/dealbook/zuckerbergs-big-deal.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22db-zuckerberg-hjpg/22db-zuckerberg-hjpg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T12:11:22.184Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
+    "title": "A bond is like a party balloon",
+    "titleZh": "債券就像一個派對氣球",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
+    "image": null,
+    "pushedAt": "2026-10-22T12:15:35.521Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5a5f8d2c-94d0-4e90-b9f4-27e398e4e108",
+    "title": "Rapid UK pay growth adds to pressure on Healey over minimum wage",
+    "titleZh": "英國薪資的快速增長，使希利在最低工資問題上面臨更大壓力",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5a5f8d2c-94d0-4e90-b9f4-27e398e4e108?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T12:15:38.276Z"
   }
 ]
