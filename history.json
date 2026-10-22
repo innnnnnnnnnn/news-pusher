@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
-    "title": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
-    "titleZh": "令人驚訝的民主黨捐助者透過廣告在傾向共和黨的州的參議院競選中大放異彩",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/us/14pol-dem-donor/14pol-dem-donor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T01:40:50.637Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
-    "title": "Fact-Checking Senate Debates in Georgia, Maine and Michigan",
-    "titleZh": "喬治亞州、緬因州和密西根州參議院辯論的事實核查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/us/14dc-factcheck/14dc-factcheck-mediumSquareAt3X.png",
-    "pushedAt": "2026-10-15T01:40:52.879Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
     "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
     "titleZh": "Anthropic 表示第三季營收躍升 45% 至 168 億美元",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-france-resale-01-hqlz/21biz-france-resale-01-hqlz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T04:03:06.785Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+    "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
+    "titleZh": "阿富汗與巴基斯坦之間的「公開戰爭」增添了不穩定因素",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-afghanistan-pakistan-hwkc/22int-afghanistan-pakistan-hwkc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T04:05:44.959Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/middleeast/archers-mount-their-steeds-in-pursuit-of-centuries-old-warrior-spirit.html",
+    "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+    "titleZh": "弓箭手策馬奔馳，追尋那流傳數世紀的戰士精神",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/middleeast/archers-mount-their-steeds-in-pursuit-of-centuries-old-warrior-spirit.html",
+    "image": null,
+    "pushedAt": "2026-10-22T04:05:47.529Z"
   }
 ]
