@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ca22fe02-c720-4162-8e84-2c3ebe956ed7",
-    "title": "UK’s resilient entrepreneurs prove growth is possible in the gloom",
-    "titleZh": "英國堅韌的企業家證明經濟低迷時期仍可實現成長",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ca22fe02-c720-4162-8e84-2c3ebe956ed7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:02:55.012Z"
-  },
-  {
-    "id": "https://www.ft.com/video/ca7652de-937e-4ba3-89a4-17dd427cc919",
-    "title": "Zelenskyy on Trump's relationship with Putin | FT Interview",
-    "titleZh": "澤倫斯基談川普與普丁的關係英國《金融時報》採訪",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/video/ca7652de-937e-4ba3-89a4-17dd427cc919?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:08.614Z"
-  },
-  {
-    "id": "https://www.ft.com/content/1fadb40f-45eb-4744-9b9b-deb12758daf7",
-    "title": "What’s at stake in the Saudi-Houthi conflict?",
-    "titleZh": "沙烏地阿拉伯與胡塞武裝的衝突有何利害關係？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1fadb40f-45eb-4744-9b9b-deb12758daf7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:14.437Z"
-  },
-  {
     "id": "https://www.ft.com/content/99be8a0c-dc81-4798-a55a-f8b6054fe672",
     "title": "Investor appetite for data centre IPOs is reaching its limit",
     "titleZh": "投資者對資料中心 IPO 的興趣已達到極限",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T09:36:36.117Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/us/james-talarico-texas-republicans-legislative-record.html",
+    "title": "James Talarico’s Texas House Record: Partisan Fights, Bipartisan Laws",
+    "titleZh": "詹姆斯·塔拉里科在德州眾議院的履歷：黨派之爭，跨黨派法案",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/us/james-talarico-texas-republicans-legislative-record.html",
+    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06nat-talarico-record-top-hqgw/06nat-talarico-record-top-hqgw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:58:30.741Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/upshot/young-voters-polls-midterms.html",
+    "title": "Just How Much Are Young Voters Backing Democrats Now? See the Shift.",
+    "titleZh": "年輕選民目前究竟有多支持民主黨？看看這股轉變。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/upshot/young-voters-polls-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/10/09/multimedia/2026-10-07-young-dems-topper-index/2026-10-07-young-dems-topper-index-mediumSquareAt3X-v10.png",
+    "pushedAt": "2026-10-22T09:58:33.535Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html",
+    "title": "In San Francisco, a Family Earning $325,000 Qualifies for Government Aid",
+    "titleZh": "在舊金山，年收入達 325,000 美元的家庭符合申請政府援助的資格",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html",
+    "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00nat-sf-unaffordable-01-qzmv/00nat-sf-unaffordable-01-qzmv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:58:36.359Z"
   }
 ]
