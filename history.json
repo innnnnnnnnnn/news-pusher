@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-    "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-    "titleZh": "被指控植入 bug 的 OpenAI 工程師為沙烏地阿拉伯提供建議",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T07:00:26.383Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html",
     "title": "Israelis Must Choose a Secular Nation or Theocracy",
     "titleZh": "以色列人必須選擇世俗國家或神權國家",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/aa873f0f-464d-4fc5-a630-1f1a968796bb?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T04:21:13.753Z"
+  },
+  {
+    "id": "https://www.ft.com/content/490cfe91-f63c-430f-9f1f-418cb09dea4d",
+    "title": "Accountants fear £1.2bn hit from UK plan to exempt midsized groups from audits",
+    "titleZh": "會計師擔心，英國計劃豁免中型集團接受審計，將造成 12 億英鎊的損失",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/490cfe91-f63c-430f-9f1f-418cb09dea4d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T04:23:26.297Z"
   }
 ]
