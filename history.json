@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-    "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-    "titleZh": "澤倫斯基稱烏克蘭將恢復俄羅斯煉油廠罷工，無視川普",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:37:29.151Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
     "title": "Families of Sailors Killed in Gulf Struggle for Compensation and Closure",
     "titleZh": "在海灣戰爭中喪生的水手家屬要求賠償和關閉",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1ca7e612-9a1a-4f26-a31a-651675ee67bb?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76b17272-855a-4223-bf66-963593814a08.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-22T11:21:54.087Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
+    "title": "Google Eyes Large ‘Virtual Power Plant’ for Data Centers",
+    "titleZh": "Google 瞄準為資料中心打造大型「虛擬發電廠」",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/climate/00cli-google-power/00cli-google-power-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T11:43:47.330Z"
   }
 ]
