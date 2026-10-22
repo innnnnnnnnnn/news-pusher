@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7761de04-7fac-4f7b-bddb-8457e425b642",
-    "title": "Investors predict new record price for gold within two years",
-    "titleZh": "投資人預測金價將在兩年內創下新紀錄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7761de04-7fac-4f7b-bddb-8457e425b642?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ea7d834-e588-4418-9b13-6fd3fb4abfee.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T07:01:12.161Z"
-  },
-  {
     "id": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9",
     "title": "London’s gold market enjoys the Trump effect",
     "titleZh": "倫敦黃金市場享受川普效應",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/cbf8759b-ec19-4728-ab65-5706bc3343af?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T07:49:43.652Z"
+  },
+  {
+    "id": "https://www.ft.com/reports/wealth",
+    "title": "FT Wealth: October",
+    "titleZh": "《金融時報》財富專欄：10月",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/reports/wealth?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T07:53:24.228Z"
   }
 ]
