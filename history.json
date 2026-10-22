@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/99be8a0c-dc81-4798-a55a-f8b6054fe672",
-    "title": "Investor appetite for data centre IPOs is reaching its limit",
-    "titleZh": "投資者對資料中心 IPO 的興趣已達到極限",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/99be8a0c-dc81-4798-a55a-f8b6054fe672?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:18.912Z"
-  },
-  {
-    "id": "https://www.ft.com/content/caf5bf51-11fc-4079-b49a-737f04a1acd1",
-    "title": "West in nuclear fusion race with China, says UK atomic energy body",
-    "titleZh": "英國原子能總署稱西方正在與中國進行核融合競賽",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/caf5bf51-11fc-4079-b49a-737f04a1acd1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:22.559Z"
-  },
-  {
-    "id": "https://www.ft.com/content/122eb13c-54a6-4fb5-8bb1-b0755a053502",
-    "title": "Private credit funds target English football clubs with player-backed loans",
-    "titleZh": "私人信貸基金向英格蘭足球俱樂部提供球員支持貸款",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/122eb13c-54a6-4fb5-8bb1-b0755a053502?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:35.059Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5f998eb7-78e4-4d3c-9a3b-2306b9908ec7",
-    "title": "Growth companies chase grey pound",
-    "titleZh": "成長型公司追逐灰色英鎊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5f998eb7-78e4-4d3c-9a3b-2306b9908ec7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:03:39.157Z"
-  },
-  {
     "id": "https://www.ft.com/content/6b4a90a3-d5da-43ad-b213-8ff9879c5943",
     "title": "Fried chicken bucks UK fast-food trend",
     "titleZh": "炸雞逆襲英國速食潮流",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html",
     "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00nat-sf-unaffordable-01-qzmv/00nat-sf-unaffordable-01-qzmv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T09:58:36.359Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
+    "title": "METRO with Sarah Koenig: Episode 2",
+    "titleZh": "《METRO》與莎拉·科尼格：第 2 集",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/serial-METRO-ep-2-diamond-district-photo-zjmp/serial-METRO-ep-2-diamond-district-photo-zjmp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T10:03:27.142Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
+    "title": "METRO with Sarah Koenig: Episode 1",
+    "titleZh": "《METRO》與莎拉·科尼格：第 1 集",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/podcasts/serial-METRO-episode-1-photo/serial-METRO-episode-1-photo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T10:03:30.873Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+    "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
+    "titleZh": "人工智慧熱潮如何帶動灰色油漆銷量攀升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+    "image": null,
+    "pushedAt": "2026-10-22T10:03:33.750Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
+    "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites",
+    "titleZh": "人工智慧在 PHP（許多網站背後所使用的程式語言）中發現了一個關鍵漏洞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-flaw-fcbk/21dc-flaw-fcbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T10:03:36.448Z"
   }
 ]
