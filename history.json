@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html",
-    "title": "Israelis Must Choose a Secular Nation or Theocracy",
-    "titleZh": "以色列人必須選擇世俗國家或神權國家",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15kasparov-qkgf/15kasparov-qkgf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T07:00:30.052Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/opinion/france-protests-debt-budget.html",
     "title": "France Is on the Brink",
     "titleZh": "法國正處於崩潰的邊緣",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/490cfe91-f63c-430f-9f1f-418cb09dea4d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-22T04:23:26.297Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
+    "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+    "titleZh": "印尼爆發抗議活動，要求採取行動遏止雨林大火",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-indonesia-haze-tmfp/22int-indonesia-haze-tmfp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T04:27:50.054Z"
   }
 ]
