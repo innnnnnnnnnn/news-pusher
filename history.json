@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/podcasts/the-headlines/inflation-jet-powered-drones.html",
-    "title": "Inflation Data Undercuts Trump’s Economic Claims, and the Danger of New Jet-Powered Drones",
-    "titleZh": "通膨數據削弱了川普的經濟主張，以及新型噴射動力無人機的危險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/podcasts/the-headlines/inflation-jet-powered-drones.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/business/15headlines-audio-promo/14biz-inflation-blog-pew-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:37:23.360Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
     "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
     "titleZh": "保衛基輔免受可怕的新型噴射動力無人機的競賽",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9a0fec5-a269-4e2d-9275-886ca87b4a99.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-22T11:09:09.145Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+    "title": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+    "titleZh": "沙烏地機場遭襲致2人死亡，美國要求部分外交官撤離",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/world/22int-Saudi-Diplos-aifb/22int-Saudi-Diplos-aifb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T11:12:15.538Z"
   }
 ]
