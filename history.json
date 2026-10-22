@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
-    "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
-    "titleZh": "随着人工智能领域的借款人面临“达尔文时刻”，投资者纷纷抛售数据中心债券",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef825cc6-1924-400d-b896-1f24d681040e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T17:34:55.083Z"
-  },
-  {
     "id": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d",
     "title": "Risk of an AI crunch for stock markets is rising",
     "titleZh": "股市面临人工智能“寒冬”的风险正在上升",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22cul-monet-auction-jgmh/22cul-monet-auction-jgmh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T20:31:04.670Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html",
+    "title": "A Cancer Revolution",
+    "titleZh": "一場癌症革命",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-theworld-cancer-01-thlm-promo/23int-theworld-cancer-01-thlm-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T20:45:26.323Z"
   }
 ]
