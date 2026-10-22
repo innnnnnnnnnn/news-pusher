@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
-    "title": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
-    "titleZh": "由於對人工智慧的懷疑，科技股暴跌支出增加",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-oil-stocks-bonds-wpql/15biz-oil-stocks-bonds-wpql-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:38:33.005Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/business/chinese-evs-europe-paris-motor-show.html",
-    "title": "Chinese Carmakers, Once a Sideshow, Take Center Stage at Paris Motor Show",
-    "titleZh": "曾經的雜耍中國汽車製造商在巴黎車展上佔據中心舞台",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/chinese-evs-europe-paris-motor-show.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-paris-auto-show-01-khgp/14biz-paris-auto-show-01-khgp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:38:35.405Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-    "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
-    "titleZh": "特斯拉推出 2026 Roadster，一款售價至少 20 萬美元的電動跑車",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/business/15biz-luxury-ev/15biz-luxury-ev-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T12:38:39.532Z"
-  },
-  {
     "id": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579",
     "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
     "titleZh": "歐盟領袖敦促澤連斯基遏制對川普的批評",
@@ -8998,5 +8971,32 @@
     "url": "https://www.economist.com/united-states/2026/10/22/the-midterms-fundraising-figures-tell-a-surprising-story",
     "image": null,
     "pushedAt": "2026-10-22T13:02:07.541Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa",
+    "title": "Turkey cuts interest rates despite $18bn investment funds scandal",
+    "titleZh": "儘管爆發了涉及180億美元投資基金的醜聞，土耳其仍降息",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T13:12:14.340Z"
+  },
+  {
+    "id": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34",
+    "title": "France to ban non-union protests, says Macron",
+    "titleZh": "馬克宏表示，法國將禁止非工會組織的抗議活動",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-22T13:12:17.198Z"
+  },
+  {
+    "id": "https://www.ft.com/content/43f5c6af-5b1f-4995-9263-b7882013cb99",
+    "title": "Serbia’s students should take a leaf out of Magyar’s book",
+    "titleZh": "塞爾維亞的學生應該向馬加爾學習",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/43f5c6af-5b1f-4995-9263-b7882013cb99",
+    "image": null,
+    "pushedAt": "2026-10-22T13:12:19.827Z"
   }
 ]
