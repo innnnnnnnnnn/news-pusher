@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/60a8f4e6-5da4-4f59-b009-baed53215497",
-    "title": "Lufthansa wins battle to buy stake in Portugal’s TAP",
-    "titleZh": "漢莎航空贏得葡萄牙 TAP 股份收購戰",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/60a8f4e6-5da4-4f59-b009-baed53215497?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-14T20:00:45.018Z"
-  },
-  {
     "id": "https://www.ft.com/content/0c178261-2c29-4677-9649-5b9257662d7e",
     "title": "Turkish authorities take over country’s most-watched news channel",
     "titleZh": "土耳其當局接管全國收視率最高的新聞頻道",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-ramaswamy-ad-topart-vqzg/21nat-ramaswamy-ad-topart-vqzg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T00:37:33.135Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
+    "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
+    "titleZh": "澳洲動物園為巨型鳥類牽線，而那些巨大的綠色蛋便是明證",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21xp-egg-04/21xp-egg-04-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T01:35:53.620Z"
   }
 ]
