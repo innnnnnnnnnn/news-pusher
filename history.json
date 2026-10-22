@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579",
-    "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
-    "titleZh": "歐盟領袖敦促澤連斯基遏制對川普的批評",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9d214c3a-48d1-461d-a01e-2b2343e60127.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T12:38:43.770Z"
-  },
-  {
-    "id": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae",
-    "title": "Germany’s Merz vows to fight on: ‘We are the firewall’",
-    "titleZh": "德國默茨誓言繼續戰鬥：“我們是防火牆”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08a2811b-d8e3-4404-bbb8-089217fe5aec.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T12:38:47.868Z"
-  },
-  {
     "id": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b",
     "title": "CoreWeave’s bonds scream financial distress",
     "titleZh": "CoreWeave 的債券引發財務困境",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/43f5c6af-5b1f-4995-9263-b7882013cb99",
     "image": null,
     "pushedAt": "2026-10-22T13:12:19.827Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
+    "title": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
+    "titleZh": "南卡羅來納州集會因衝突蒙上陰影，特朗普正力圖為達琳·格雷厄姆助選",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-trump-graham-sc-cfjk/21pol-trump-graham-sc-cfjk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T13:14:07.743Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
+    "title": "In Wake of Riots, French Authorities Ban Some Protests",
+    "titleZh": "騷亂過後，法國當局禁止部分抗議活動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-france-protests-qzmc/22int-france-protests-qzmc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T13:14:10.988Z"
   }
 ]
