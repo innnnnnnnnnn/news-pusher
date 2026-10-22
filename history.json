@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/reports/uk-fastest-growing-companies",
-    "title": "The UK’s Fastest-Growing Companies",
-    "titleZh": "英國成長最快的公司",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/reports/uk-fastest-growing-companies?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:01:53.306Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d9353431-e9ba-4b34-a277-ab1510120ef8",
-    "title": "General Atlantic’s IPO ambitions",
-    "titleZh": "General Atlantic 的 IPO 野心",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d9353431-e9ba-4b34-a277-ab1510120ef8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T07:01:56.920Z"
-  },
-  {
     "id": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760",
     "title": "FCA plans to embrace AI to automate financial regulation",
     "titleZh": "FCA 計劃採用人工智慧實現金融監管自動化",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html",
     "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00biz-sqft-historical-preservation-wfzt/00biz-sqft-historical-preservation-wfzt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-22T09:05:09.337Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+    "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+    "titleZh": "在「傷亡風險日益增加」之際，數日內兩度發現太空垃圾",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-spacejunk-indonesia-fchj/22int-spacejunk-indonesia-fchj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:06:30.512Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+    "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+    "titleZh": "塞爾維亞大選凸顯該地區長期處於政治僵局",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/00int-serbia-nationalism-01-cbtq/00int-serbia-nationalism-01-cbtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-22T09:06:33.388Z"
   }
 ]
