@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-    "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-    "titleZh": "川普對投票制度的攻擊，引發外界擔憂他將試圖對中期選舉結果提出異議",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-midterms-mqfb/15dc-trump-midterms-mqfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T17:40:53.867Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
     "title": "Second Ebola Infection Announced in Kenya",
     "titleZh": "肯亞宣布出現第二例伊波拉確診病例",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-china-tibet-quake-pvlf/23int-china-tibet-quake-pvlf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T04:00:10.905Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
+    "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
+    "titleZh": "牧師們如何在剛果對抗伊波拉疫情的行動中動員社區",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-ebola-congo-religion-promo-lqwc/23int-ebola-congo-religion-promo-lqwc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T04:03:16.425Z"
   }
 ]
