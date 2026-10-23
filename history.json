@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
-    "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
-    "titleZh": "委內瑞拉警方展開致命突襲、造成數千人喪生後，加拉加斯卻顯得詭異地安全",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-venezuela-caracas01a-photo-ghbj/00int-venezuela-caracas01a-photo-ghbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T09:47:19.286Z"
-  },
-  {
     "id": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798",
     "title": "EU vows to maintain Russia sanctions after US pivot",
     "titleZh": "歐盟誓言在美國調整政策後維持對俄制裁",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
     "image": null,
     "pushedAt": "2026-10-23T12:48:41.485Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
+    "title": "Volvo Shares Plunge as China Ambitions Fade for Western Carmakers",
+    "titleZh": "Volvo Shares Plunge as China Ambitions Fade for Western Carmakers",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23biz-volvo-china-ltvk/23biz-volvo-china-ltvk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T12:51:55.331Z"
   }
 ]
