@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f",
-    "title": "France and Germany seal EU car deal",
-    "titleZh": "法國與德國敲定歐盟汽車協議",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T13:52:16.213Z"
-  },
-  {
     "id": "https://www.ft.com/content/44934b4f-f01b-45c1-9c51-ec4566e662a9",
     "title": "UAE had ‘clear incentives’ to influence Telegraph coverage, Ofcom finds",
     "titleZh": "英國通訊管理局（Ofcom）調查發現，阿聯酋有「明顯動機」試圖影響《每日電訊報》的報導",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
     "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
     "pushedAt": "2026-10-23T16:19:48.014Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+    "title": "Justice Dept. Moves to Block Certification of Alaska Senate Race Results if Republican Loses",
+    "titleZh": "Justice Dept. Moves to Block Certification of Alaska Senate Race Results if Republican Loses",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-tmwl/23dc-alaska-tmwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T16:23:09.157Z"
   }
 ]
