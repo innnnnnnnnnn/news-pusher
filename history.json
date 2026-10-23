@@ -1,59 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/americas/caracas-is-eerily-safe-state-death-squads-made-sure-of-it.html",
-    "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
-    "titleZh": "委內瑞拉警方展開致命突襲、造成數千人喪生後，加拉加斯卻顯得詭異地安全",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-is-eerily-safe-state-death-squads-made-sure-of-it.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-venezuela-caracas01a-photo-ghbj/00int-venezuela-caracas01a-photo-ghbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T09:02:17.493Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
-    "title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
-    "titleZh": "漢莎航空最後一班 A346 航班，標誌著一段航空愛情故事的落幕",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
-    "image": null,
-    "pushedAt": "2026-10-16T09:07:22.463Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/business/midterms-election-trump-drug-prices-affordability.html",
-    "title": "Trump Hasn’t Lowered Drug Prices for These Voters",
-    "titleZh": "川普並未為這些選民降低藥價",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/business/midterms-election-trump-drug-prices-affordability.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-drug-prices-01-lzfk/16biz-drug-prices-01-lzfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T09:07:25.352Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html",
-    "title": "After Welcoming China’s Electric Vehicles, This Country Is Paying the Price",
-    "titleZh": "在歡迎中國電動車進駐後，這個國家正為此付出代價",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html",
-    "image": null,
-    "pushedAt": "2026-10-16T09:07:27.642Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/business/longevity-medicine-mainstream.html",
-    "title": "Is Longevity Medicine Going Mainstream?",
-    "titleZh": "長壽醫學是否正走向主流？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/business/longevity-medicine-mainstream.html",
-    "image": null,
-    "pushedAt": "2026-10-16T09:07:29.905Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html",
-    "title": "Trump’s Attempt to Deport Ilhan Omar Is Another Leap Toward the Abyss",
-    "titleZh": "川普試圖將伊爾漢·奧馬爾驅逐出境，是朝著深淵邁出的又一步",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16Goldberg-lbgh/16Goldberg-lbgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T09:12:14.452Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html",
     "title": "This Texas Region Flipped for Trump. Will It Stay Red?",
     "titleZh": "德州這個地區曾為川普而沸騰。它會繼續保持「紅色」嗎？",
@@ -8998,5 +8944,59 @@
     "url": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23db-nasdaq-wclt/23db-nasdaq-wclt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T11:46:28.864Z"
+  },
+  {
+    "id": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87",
+    "title": "What the coming copper crunch means for the global economy",
+    "titleZh": "What the coming copper crunch means for the global economy",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T12:13:26.108Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0db7d1cd-be3b-4034-b813-51fc8be88f11",
+    "title": "EU capitals moderate plans to help companies operate bloc-wide",
+    "titleZh": "EU capitals moderate plans to help companies operate bloc-wide",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0db7d1cd-be3b-4034-b813-51fc8be88f11?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T12:13:38.379Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd",
+    "title": "Netanyahu orders West Bank’s closure after gun attack wounds five Israelis",
+    "titleZh": "Netanyahu orders West Bank’s closure after gun attack wounds five Israelis",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd",
+    "image": null,
+    "pushedAt": "2026-10-23T12:13:50.709Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4e3f67c8-70d0-44aa-950e-62190717c2db",
+    "title": "London Underground blames rising delays on repair backlog",
+    "titleZh": "London Underground blames rising delays on repair backlog",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4e3f67c8-70d0-44aa-950e-62190717c2db",
+    "image": null,
+    "pushedAt": "2026-10-23T12:14:03.032Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8f0b71c3-b097-4126-b0ff-ad7b66676107",
+    "title": "100 days of Burnham",
+    "titleZh": "100 days of Burnham",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8f0b71c3-b097-4126-b0ff-ad7b66676107?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T12:14:15.374Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2fae96bf-4328-4aa6-b68f-af416a9cb4bf",
+    "title": "National Crime Agency wins freezing order over £15mn London flat",
+    "titleZh": "National Crime Agency wins freezing order over £15mn London flat",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2fae96bf-4328-4aa6-b68f-af416a9cb4bf?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T12:14:27.708Z"
   }
 ]
