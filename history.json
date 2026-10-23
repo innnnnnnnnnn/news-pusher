@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c",
-    "title": "Airlines should give up their fuel-hedging dogfight",
-    "titleZh": "航空公司應停止在燃油避險方面的激烈爭鬥",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:35.447Z"
-  },
-  {
     "id": "https://www.ft.com/content/1eee5ed8-48dd-4c2e-9eba-a407d98b6a38",
     "title": "What the espresso pot says about Italian capitalism",
     "titleZh": "義式濃縮咖啡壺所揭示的義大利資本主義",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/business/trump-ground-beef-imports.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23biz-beef-imports-zjqt/23biz-beef-imports-zjqt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T09:10:15.000Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
+    "title": "Where Brazil’s Left Is Losing Voters",
+    "titleZh": "Where Brazil’s Left Is Losing Voters",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23vid-brazil-shift-1-qzvw/23vid-brazil-shift-1-qzvw-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-10-23T09:11:07.512Z"
   }
 ]
