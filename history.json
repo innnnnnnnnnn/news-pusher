@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
-    "title": "El Niño Threatens Global Sugar Supply",
-    "titleZh": "聖嬰現象威脅全球糖供應",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
-    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T04:07:10.440Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
     "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
     "titleZh": "巴黎公立學校的性虐待危機",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T08:47:44.270Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
+    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "titleZh": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:03:28.691Z"
   }
 ]
