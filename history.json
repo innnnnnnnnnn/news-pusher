@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-    "title": "Is This the Breaking Point for Trump and Zelensky?",
-    "titleZh": "這會是川普與澤連斯基關係的臨界點嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T15:12:14.182Z"
-  },
-  {
     "id": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91",
     "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
     "titleZh": "花旗銀行成為最新一家限制人工智慧代理存取帳戶的美國銀行",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T17:20:09.044Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
+    "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
+    "titleZh": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/science/23SCI-LGB-TEENS/23SCI-LGB-TEENS-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T17:28:41.449Z"
   }
 ]
