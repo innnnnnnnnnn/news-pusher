@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d3a07d72-0f99-40b6-a1ad-97ecc91af81f",
-    "title": "The future energy mix",
-    "titleZh": "未来的能源结构",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d3a07d72-0f99-40b6-a1ad-97ecc91af81f",
-    "image": null,
-    "pushedAt": "2026-10-15T17:35:35.428Z"
-  },
-  {
     "id": "https://www.ft.com/content/3effd703-591f-43c5-828e-dd11839653eb",
     "title": "Tokenomics: smart strategies to deal with the costs of AI and infrastructure",
     "titleZh": "代币经济学：应对人工智能和基础设施成本的明智策略",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
     "image": "https://static01.nyt.com/images/2025/09/22/multimedia/22int-ukraine-sumy-print03-kjgq/22int-ukraine-sumy-print02-kjgq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T01:23:57.364Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
+    "title": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
+    "titleZh": "皮特·瑞凱茨的財富讓階級問題成為內布拉斯加州參議員選戰的核心議題",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-income-disparities2-tzpf/23nat-income-disparities2-tzpf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T01:58:59.047Z"
   }
 ]
