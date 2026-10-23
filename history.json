@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
-    "title": "Why Bad News in the Bond Market May Be Good News for Investors",
-    "titleZh": "為何債券市場的壞消息對投資者而言可能是好消息",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/business/18bizsun-strategies-illo/18bizsun-strategies-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T05:12:19.606Z"
-  },
-  {
     "id": "https://www.ft.com/content/6533c873-29df-453b-9ac4-7b17e5a3576f",
     "title": "Hiding from the everything trade",
     "titleZh": "躲避「萬事通」交易策略",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3eab64ae-1a0b-4ac8-8341-847c1b6bf2d8?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T10:33:42.150Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
+    "title": "You Are Being Watched",
+    "titleZh": "You Are Being Watched",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/briefing/topper-camera/topper-camera-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T10:42:40.233Z"
   }
 ]
