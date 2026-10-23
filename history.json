@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
-    "title": "Sizing that ‘unlimited’ insurance capital",
-    "titleZh": "評估那項「無限」保險資本的規模",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
-    "image": null,
-    "pushedAt": "2026-10-16T10:32:14.000Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html",
     "title": "Handcuffs in Schools",
     "titleZh": "校園中的手銬",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19BIZ-MINNESOTA-DISINFO-1-zhtl/19BIZ-MINNESOTA-DISINFO-1-zhtl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T14:54:28.407Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
+    "title": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
+    "titleZh": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-finland-puppies-01-hkzf/23int-finland-puppies-01-hkzf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T14:59:14.302Z"
   }
 ]
