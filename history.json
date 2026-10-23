@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cd0e9788-3988-447d-8682-65db7a1558b1",
-    "title": "India’s largest FDI in the banking sector",
-    "titleZh": "印度銀行業最大的外國直接投資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cd0e9788-3988-447d-8682-65db7a1558b1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T02:02:17.034Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html",
     "title": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
     "titleZh": "在密西根州參議員選戰中，奧卡西奧-科爾特茲與埃爾-賽義德一同在「川普票倉」展開競選活動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/575c54b3-b194-4338-930b-3f446da5044f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T05:43:14.676Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/insider/royal-canin-purina.html",
+    "title": "‘Cats Love Gravy’: How a Reporter Ended Up at a Pet Food Research Center",
+    "titleZh": "‘Cats Love Gravy’: How a Reporter Ended Up at a Pet Food Research Center",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/insider/royal-canin-purina.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23a2_insider_petfood-print1/23a2_insider_petfood-hfbg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T07:03:19.539Z"
   }
 ]
