@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html",
-    "title": "Is Anyone Actually in Charge of the Democratic Party? And Does It Matter?",
-    "titleZh": "民主黨究竟由誰掌舵？這又重要嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html",
-    "image": null,
-    "pushedAt": "2026-10-16T16:52:12.313Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
     "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
     "titleZh": "美國海岸防衛隊表示，墨西哥外海太平洋海域共有16人獲救",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
     "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-midterms-mqfb/15dc-trump-midterms-mqfb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T19:18:50.649Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+    "title": "Ahead of Tight Race, Trump Exempts Some Canadian Goods From Tariffs",
+    "titleZh": "Ahead of Tight Race, Trump Exempts Some Canadian Goods From Tariffs",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T19:30:54.232Z"
   }
 ]
