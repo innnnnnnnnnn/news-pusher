@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-    "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-    "titleZh": "巴黎公立學校的性虐待危機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-    "image": "https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T04:07:12.758Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html",
-    "title": "‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes",
-    "titleZh": "《你無所不知》影評：伊莉莎白·霍姆斯的善變心態",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:15.202Z"
-  },
-  {
-    "id": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee",
-    "title": "Wall Street’s AI wobbles",
-    "titleZh": "華爾街的 AI 步履蹣跚",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:19.735Z"
-  },
-  {
     "id": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66",
     "title": "Why law firms should resist the lure of the AI spin-off",
     "titleZh": "為何律師事務所應抵禦人工智慧分拆公司的誘惑",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
     "image": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T09:03:28.691Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+    "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+    "titleZh": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/world/00int-brazil-minas-02/00int-brazil-minas-02-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:05:09.523Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
+    "title": "The Bukeleization of Latin America Has Arrived",
+    "titleZh": "The Bukeleization of Latin America Has Arrived",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:05:21.821Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+    "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+    "titleZh": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+    "image": "https://static01.nyt.com/images/2026/10/11/multimedia/00int-Houthi-Messaging-qhgb/00int-Houthi-Messaging-qhgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:05:34.087Z"
   }
 ]
