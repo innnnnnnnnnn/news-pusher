@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3b431be8-e758-42ef-b957-bdf8ef702529",
-    "title": "Stockpickers: Bytes Technology, YouGov, Softcat",
-    "titleZh": "個股精選：Bytes Technology、YouGov、Softcat",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3b431be8-e758-42ef-b957-bdf8ef702529",
-    "image": null,
-    "pushedAt": "2026-10-16T18:42:04.246Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
     "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
     "titleZh": "美國預算赤字逼近 2 兆美元，對川普的削減開支政策是一記當頭棒喝",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T23:06:34.187Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
+    "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+    "titleZh": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-legal-cfph/23dc-alaska-legal-cfph-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T23:25:36.784Z"
   }
 ]
