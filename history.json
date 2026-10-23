@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081",
-    "title": "The hunt for Fed October",
-    "titleZh": "追蹤聯準會十月動向",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081",
-    "image": null,
-    "pushedAt": "2026-10-16T15:30:38.439Z"
-  },
-  {
     "id": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be",
     "title": "India police detain ‘Cockroach’ leader again to head off new protests",
     "titleZh": "印度警方再次拘留「蟑螂」組織領袖，以遏止新一輪抗議活動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2aeaf5c1-1fc2-45ae-a6dd-0634384ae9d7",
     "image": null,
     "pushedAt": "2026-10-23T17:58:43.083Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+    "title": "Why Trump’s 2024 Voters Are Turning on Him",
+    "titleZh": "Why Trump’s 2024 Voters Are Turning on Him",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/opinion/23eks-longwell-image01/23eks-longwell-image01-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T18:03:35.715Z"
   }
 ]
