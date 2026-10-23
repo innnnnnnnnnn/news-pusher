@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a",
-    "title": "Has London’s £5bn ‘super sewer’ improved water quality in the Thames?",
-    "titleZh": "倫敦耗資 50 億英鎊的「超級下水道」是否改善了泰晤士河的水質？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:26.515Z"
-  },
-  {
-    "id": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b",
-    "title": "UK government courted UBS over London HQ move",
-    "titleZh": "英國政府曾積極爭取瑞銀將總部遷至倫敦",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:28.790Z"
-  },
-  {
-    "id": "https://www.ft.com/content/dcab1c7f-00aa-4194-bdb1-0a0c6712e4e8",
-    "title": "Canary Wharf developer George Iacobescu overseeing new London skyscraper",
-    "titleZh": "金絲雀碼頭開發商喬治·雅科貝斯庫正負責監督倫敦一棟新摩天大樓的興建",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dcab1c7f-00aa-4194-bdb1-0a0c6712e4e8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:31.032Z"
-  },
-  {
-    "id": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
-    "title": "US business leaders are waking up to the perils of plutopopulism",
-    "titleZh": "美國商界領袖正逐漸意識到「財閥民粹主義」的危險性",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
-    "image": null,
-    "pushedAt": "2026-10-16T04:07:33.229Z"
-  },
-  {
     "id": "https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c",
     "title": "Airlines should give up their fuel-hedging dogfight",
     "titleZh": "航空公司應停止在燃油避險方面的激烈爭鬥",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
     "image": "https://static01.nyt.com/images/2026/10/23/opinion/23opinions-sarin-rampell-image/23opinions-sarin-rampell-image-mediumSquareAt3X-v2.png",
     "pushedAt": "2026-10-23T09:08:59.563Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+    "title": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
+    "titleZh": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+    "image": null,
+    "pushedAt": "2026-10-23T09:09:37.611Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+    "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
+    "titleZh": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-ai-jobs-01-hmcb/23dc-ai-jobs-01-hmcb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:09:50.416Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
+    "title": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
+    "titleZh": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/business/23strategies-illo/23strategies-illo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:10:02.747Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/trump-ground-beef-imports.html",
+    "title": "Trump’s Plan to Import More Ground Beef Is Falling Short",
+    "titleZh": "Trump’s Plan to Import More Ground Beef Is Falling Short",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/trump-ground-beef-imports.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23biz-beef-imports-zjqt/23biz-beef-imports-zjqt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T09:10:15.000Z"
   }
 ]
