@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html",
-    "title": "You’ve Found a Long-Lost CD. Can You Still Get Your Money?",
-    "titleZh": "你找到了一張失落已久的 CD。還能拿回錢嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html",
-    "image": null,
-    "pushedAt": "2026-10-21T19:01:21.784Z"
-  },
-  {
     "id": "https://www.ft.com/content/e3a17496-0dc2-42d8-ba7d-16a013016249",
     "title": "The new unequivocal Zelenskyy",
     "titleZh": "嶄新且立場鮮明的澤連斯基",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html",
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00inv-callout-medicaid-gjzq/00inv-callout-medicaid-gjzq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T16:04:09.051Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+    "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+    "titleZh": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23biz-energy-politics-03-hqpk/23biz-energy-politics-03-hqpk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T16:04:47.306Z"
   }
 ]
