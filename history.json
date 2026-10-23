@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html",
-    "title": "Avalanche of G.O.P. Cash Keeps the Party Competitive Despite Its Problems",
-    "titleZh": "儘管面臨諸多問題，共和黨的巨額資金仍使其保持競爭力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html",
-    "image": "https://static01.nyt.com/images/2026/03/13/multimedia/16pol-midterm-money/16pol-midterm-money-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T10:02:24.278Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
     "title": "$137 Million in A.I.-Generated Ads Flood the Midterms",
     "titleZh": "價值 1.37 億美元的人工智慧生成廣告淹沒了中期選舉",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/22554b78-9a26-43ec-b17c-6dddda3e6d69?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T13:00:52.225Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
+    "title": "Americans Are Struggling to Pay Rising Medical Costs",
+    "titleZh": "Americans Are Struggling to Pay Rising Medical Costs",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
+    "image": null,
+    "pushedAt": "2026-10-23T13:02:32.911Z"
   }
 ]
