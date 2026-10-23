@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
-    "title": "China unveils draft export controls on AI technologies and chips",
-    "titleZh": "中國公布人工智慧技術與晶片出口管制草案",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T13:42:16.718Z"
-  },
-  {
     "id": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f",
     "title": "France and Germany seal EU car deal",
     "titleZh": "法國與德國敲定歐盟汽車協議",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-melania-gwcp/23dc-melania-gwcp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T16:18:07.250Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+    "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+    "titleZh": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+    "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
+    "pushedAt": "2026-10-23T16:19:48.014Z"
   }
 ]
