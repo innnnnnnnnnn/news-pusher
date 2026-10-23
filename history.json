@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
-    "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
-    "titleZh": "教宗呼籲普丁對一座遭圍困的烏克蘭城市實施停火",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-pope-putin03-photo-pvfb/16int-pope-putin03-photo-pvfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T18:28:07.488Z"
-  },
-  {
     "id": "https://www.ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd",
     "title": "US illegal border crossings from Mexico near 60-year low",
     "titleZh": "從墨西哥非法越境進入美國的人數接近60年來最低點",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T22:30:47.441Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
+    "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
+    "titleZh": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23evening-nl-alaska-top/23evening-nl-alaska-top-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T22:45:30.785Z"
   }
 ]
