@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b739fd97-d839-4287-ab91-45fcedaec76a",
-    "title": "‘We’re potty for vintage Polo Ralph Lauren’",
-    "titleZh": "「我們對復古款的 Polo Ralph Lauren 著迷不已」",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b739fd97-d839-4287-ab91-45fcedaec76a",
-    "image": null,
-    "pushedAt": "2026-10-16T10:07:21.091Z"
-  },
-  {
     "id": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb",
     "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
     "titleZh": "共和黨人在「政治生存」之戰中轉而反對川普的關稅政策",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
     "image": null,
     "pushedAt": "2026-10-23T14:33:15.117Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f",
+    "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+    "titleZh": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b883d5f-1a02-409d-9e0d-70bfdb16c302.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-23T14:42:42.923Z"
   }
 ]
