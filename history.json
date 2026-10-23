@@ -1,284 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
-    "title": "Second Ebola Infection Announced in Kenya",
-    "titleZh": "肯亞宣布出現第二例伊波拉確診病例",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-kenya-ebola-1-qgth/15int-kenya-ebola-1-qgth-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T17:40:56.696Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/harvard-endowment-soars.html",
-    "title": "Harvard Endowment Soars to $68 Billion Even as Federal Cuts Force Layoffs",
-    "titleZh": "哈佛大學捐贈基金飆升至680億美元，儘管聯邦政府削減預算迫使該校裁員",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/harvard-endowment-soars.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15nat-harvard-endowment-zkqg/15nat-harvard-endowment-zkqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T17:52:22.832Z"
-  },
-  {
-    "id": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40",
-    "title": "Criminals stole $90mn of crypto by hiding password readers in USB-like devices",
-    "titleZh": "犯罪分子將密碼讀取器藏在類似 USB 的裝置中，竊取了價值 9,000 萬美元的加密貨幣",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F528950e5-b24e-4751-860a-2b84e4a4cee5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T17:52:27.076Z"
-  },
-  {
-    "id": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2",
-    "title": "Bankers and advisers set for £334mn easyJet payout",
-    "titleZh": "銀行家與顧問即將獲得易捷航空（easyJet）支付的 3.34 億英鎊款項",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T17:57:03.063Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
-    "title": "What the Frontier Labs Know That We Don’t",
-    "titleZh": "前沿實驗室知道而我們不知道的是什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/opinion/15itpod-patel-image/15itpod-patel-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T18:07:05.802Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/nyregion/hochul-mamdani-blakeman-election-campaign-ny-governor.html",
-    "title": "Mamdani Taps His Social Media Charm on Behalf of Hochul, a Crucial Ally",
-    "titleZh": "曼達尼為其關鍵盟友霍丘爾發揮其社群媒體魅力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/nyregion/hochul-mamdani-blakeman-election-campaign-ny-governor.html",
-    "image": null,
-    "pushedAt": "2026-10-15T18:12:07.993Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-    "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-    "titleZh": "都柏林一家飯店被指控因一場反猶太主義活動而取消預訂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/world/15int-Ireland-Hotel-top/15int-Ireland-Hotel-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T18:27:10.704Z"
-  },
-  {
-    "id": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c",
-    "title": "Harvard endowment returns surge on back of AI and SpaceX investments",
-    "titleZh": "哈佛大學捐贈基金收益因投資人工智慧與SpaceX而大幅飆升",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb80949c-09ff-4c3d-8a88-d0a1fe6543f8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T18:32:14.028Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html",
-    "title": "20 Hours After Falling Overboard, Cruise Passenger Is Rescued Near Greece",
-    "titleZh": "落水20小時後，郵輪乘客在希臘附近獲救",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15trav-cruise-overboard-bmvk/15trav-cruise-overboard-bmvk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T19:07:03.519Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/world/africa/south-africa-anc-campaign-election.html",
-    "title": "6 Members of South Africa’s Biggest Party Are Killed in Shootings",
-    "titleZh": "南非最大政黨的6名成員在槍擊事件中遇害",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/africa/south-africa-anc-campaign-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-safrica-anc-shootings-photo-vphk/15int-safrica-anc-shootings-photo-vphk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T19:27:10.382Z"
-  },
-  {
-    "id": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513",
-    "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks",
-    "titleZh": "Anthropic 授予非營利組織 METR 「類似員工」的存取權限，以便監測 AI 風險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83c2a5ab-0533-4ca1-9d83-48cbd6992754.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T19:27:15.862Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
-    "title": "Trump Administration Sues California Over Voter Rolls",
-    "titleZh": "川普政府就選民名冊一事起訴加州",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-california-kjbf/15dc-california-kjbf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T19:42:13.170Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa",
-    "title": "Commercial goods blocked from entry into Gaza",
-    "titleZh": "商業貨物被阻止進入加薩",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T19:52:08.215Z"
-  },
-  {
-    "id": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d",
-    "title": "Meta and Apple team up on AI model tailored for Mac computers",
-    "titleZh": "Meta 與 Apple 攜手合作，共同開發專為 Mac 電腦量身打造的人工智慧模型",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T20:07:08.730Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/hegseth-livestream-execution-hasan.html",
-    "title": "Many Figures Opposed Hegseth’s Plan to Livestream Fort Hood Shooter’s Execution",
-    "titleZh": "許多人士反對赫格塞斯（Hegseth）直播胡德堡槍擊案兇手處決過程的計畫",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/hegseth-livestream-execution-hasan.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-execution-backlash-tfjg/15dc-execution-backlash-tfjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T20:12:46.960Z"
-  },
-  {
-    "id": "https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c",
-    "title": "The AI boom stumbles",
-    "titleZh": "人工智慧熱潮遭遇挫折",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T20:32:07.240Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/world/us-midterms-texas-zelensky-ukraine.html",
-    "title": "America’s Most Expensive Senate Race",
-    "titleZh": "美國最昂貴的參議院選戰",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/us-midterms-texas-zelensky-ukraine.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/reader-center/16int-theworld-texas-elex/14evening-nl-texas-polls-mediumSquareAt3X.png",
-    "pushedAt": "2026-10-15T20:42:10.082Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9f269231-7c1a-4cb0-a4d3-0603f6cd73b6",
-    "title": "Fifa president Gianni Infantino apologises for failed investment plan",
-    "titleZh": "國際足總主席詹尼·因凡蒂諾就投資計畫失敗致歉",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9f269231-7c1a-4cb0-a4d3-0603f6cd73b6?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb297953-e249-4a69-b42b-12e0257c3097.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T20:57:10.832Z"
-  },
-  {
-    "id": "https://www.ft.com/content/a26ba5dd-e298-469f-8779-a40041addd47",
-    "title": "How India lost more than 100mn voters",
-    "titleZh": "印度是如何流失超過一億名選民的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a26ba5dd-e298-469f-8779-a40041addd47?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-15T21:07:21.454Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
-    "title": "Senators Demand Investigation Into Ukraine Satellite Disruption",
-    "titleZh": "參議員要求對烏克蘭衛星訊號中斷事件展開調查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-cong-ukraine-wvbq/15dc-cong-ukraine-wvbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T21:27:13.753Z"
-  },
-  {
-    "id": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219",
-    "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
-    "titleZh": "川普正考慮放寬對俄羅斯和伊朗「影子艦隊」的限制",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33f4f270-c87b-4533-abf1-e6e41893e816.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T21:27:17.771Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html",
-    "title": "More Trump Allies Aided Pro-Russian Balkan Government",
-    "titleZh": "更多川普盟友曾協助親俄的巴爾幹政府",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html",
-    "image": null,
-    "pushedAt": "2026-10-15T21:42:15.128Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/ice-pursuit-houston-dead-man.html",
-    "title": "ICE Agents Who Rammed a Worker in Houston Were Chasing a Dead Man, Family Says",
-    "titleZh": "家屬表示，在休士頓撞傷一名工人的ICE探員當時正在追捕一名已故男子",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/ice-pursuit-houston-dead-man.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15nat-immig-dead-man-1-bzjf/15nat-immig-dead-man-1-bzjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T21:42:17.520Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/well/live/menopause-hormone-therapy-acog.html",
-    "title": "New Guidelines Strongly Support Hormone Therapy for Common Menopause Symptoms",
-    "titleZh": "新指南強力支持採用荷爾蒙療法來緩解常見的更年期症狀",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/well/live/menopause-hormone-therapy-acog.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/well/15WELL-ACOG-MENOPAUSE/15WELL-ACOG-MENOPAUSE-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T21:42:20.307Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html",
-    "title": "Venezuela’s Opposition Leader Breaks With Trump Over Oil Deal",
-    "titleZh": "委內瑞拉反對派領袖因石油協議與川普決裂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-venezuela-machado01-photo-klht/15int-venezuela-machado01-photo-klht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T22:02:14.679Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/hindu-temple-chicago-arrest.html",
-    "title": "Teen Arrested Over Plan to Attack Hindu Temple, Officials Say",
-    "titleZh": "官員表示，一名青少年因策劃襲擊印度教寺廟而被捕",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/hindu-temple-chicago-arrest.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15nat-attack-averted-wkqc/15nat-attack-averted-wkqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T22:07:18.105Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
-    "title": "Netflix Shakes Up Top Ranks, Replacing Its Chief Content Officer",
-    "titleZh": "Netflix 重組高層，更換首席內容官",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/NETFLIX-Bela-Bajaria-qpfh/NETFLIX-Bela-Bajaria-qpfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T22:07:20.270Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/briefing/california-voter-rolls-ukraine-trump.html",
-    "title": "Justice Department Sues California Over Voter Rolls",
-    "titleZh": "司法部就選民名冊一事對加州提起訴訟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/briefing/california-voter-rolls-ukraine-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15evening-nl-trump-california-kjbf/15evening-nl-trump-california-kjbf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T22:12:14.471Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/bend-oregon-school-shooting.html",
-    "title": "At Least 2 People Are Shot at an Elementary School in Oregon",
-    "titleZh": "俄勒岡州一所小學發生槍擊案，至少有 2 人中彈",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/bend-oregon-school-shooting.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-bend-lgck/15xp-bend-lgck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T22:32:16.162Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9",
-    "title": "Netflix replaces chief content officer in effort to arrest declining share price",
-    "titleZh": "Netflix 更換首席內容官，力圖遏止股價下跌趨勢",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27665630-873a-48f0-9e37-8387f2577452.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-15T22:52:13.703Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
-    "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
-    "titleZh": "川普取消原定對胡德堡槍擊案兇手尼達爾·哈桑的處決直播",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15DC-execution-gqjp/15DC-execution-gqjp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-15T23:07:19.923Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html",
     "title": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
     "titleZh": "訴訟指出，帕克斯頓曾與被控詐欺的通緝犯在杜拜同樂",
@@ -8998,5 +8719,284 @@
     "url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-ebola-congo-religion-promo-lqwc/23int-ebola-congo-religion-promo-lqwc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T04:03:16.425Z"
+  },
+  {
+    "id": "https://www.ft.com/reports/investing-argentina",
+    "title": "Investing in Argentina",
+    "titleZh": "在阿根廷投資",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/reports/investing-argentina?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:03:44.962Z"
+  },
+  {
+    "id": "https://www.ft.com/content/51df7b68-927a-49a5-b596-3b867695b102",
+    "title": "The dispute that blew up a $34bn deal",
+    "titleZh": "那場導致一筆 340 億美元交易告吹的爭端",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/51df7b68-927a-49a5-b596-3b867695b102?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:03:47.567Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7",
+    "title": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
+    "titleZh": "烏克蘭尋求將海關檢查移至歐盟境內，以避開俄羅斯無人機",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:03:50.014Z"
+  },
+  {
+    "id": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d",
+    "title": "US is prepared for long stand-off with Iran, says Trump envoy",
+    "titleZh": "川普特使表示，美國已做好與伊朗長期對峙的準備",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:03:52.580Z"
+  },
+  {
+    "id": "https://www.ft.com/content/00471cd9-c579-4205-a573-b38a0237ddb8",
+    "title": "Summer heatwave linked to 50,000 deaths in Europe",
+    "titleZh": "歐洲夏季熱浪導致 50,000 人死亡",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/00471cd9-c579-4205-a573-b38a0237ddb8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:03:55.007Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879",
+    "title": "How a transatlantic mega-merger fell apart over a leadership tug of war",
+    "titleZh": "一樁橫跨大西洋的巨型併購案，如何因領導權之爭而告吹",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:03:57.638Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11",
+    "title": "Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK",
+    "titleZh": "勞斯萊斯即將與英國政府達成一項由納稅人資助的協議，以在英國開發新型引擎",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:00.204Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d66ab794-72e9-447b-b6f4-a633dd9fda91",
+    "title": "Should UK banks be taxed more?",
+    "titleZh": "英國銀行是否應被課以更高稅率？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d66ab794-72e9-447b-b6f4-a633dd9fda91?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:02.710Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bf1814f5-d3bc-4df6-adbf-0fb980e22235",
+    "title": "The living being on your bookshelf",
+    "titleZh": "你書架上的那個生物",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bf1814f5-d3bc-4df6-adbf-0fb980e22235",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:05.276Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48",
+    "title": "Beware Bessent’s tilt towards short-term debt",
+    "titleZh": "請警惕貝森特傾向於短期債務的傾向",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:07.965Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ee40daa9-48a7-4157-b6a1-d2ea3c90dbd0",
+    "title": "Government accused of ‘fudging’ consultancy spending to meet pledge",
+    "titleZh": "政府被指為兌現承諾而「瞞報」顧問費支出",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ee40daa9-48a7-4157-b6a1-d2ea3c90dbd0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:10.654Z"
+  },
+  {
+    "id": "https://www.ft.com/content/26f97311-f72c-40a8-bc89-c46740f9cdc0",
+    "title": "Students seek to oust Serbia’s strongman in Sunday vote",
+    "titleZh": "學生們希望在週日的投票中將塞爾維亞的強人趕下台",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/26f97311-f72c-40a8-bc89-c46740f9cdc0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:13.264Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d",
+    "title": "Calpers retreats from Big Tech as AI rally falters",
+    "titleZh": "隨著人工智慧熱潮趨緩，加州公務員退休基金（Calpers）開始撤出科技巨頭投資",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:15.840Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a",
+    "title": "Caught between the US and China",
+    "titleZh": "夾在美國與中國之間",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:18.247Z"
+  },
+  {
+    "id": "https://www.ft.com/content/90bd7c83-f219-4d2c-be27-c31f77daa662",
+    "title": "A cure for ‘plant blindness’? Try London’s Royal Parks",
+    "titleZh": "想治好「植物盲症」？不妨去倫敦的皇家公園走走",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/90bd7c83-f219-4d2c-be27-c31f77daa662?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:21.021Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f1e6e30a-7f2b-49c9-bc8d-ef3821c9695a",
+    "title": "Argentina in global trading sweet spot",
+    "titleZh": "阿根廷處於全球貿易的黃金地帶",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f1e6e30a-7f2b-49c9-bc8d-ef3821c9695a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:23.648Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ecfefa34-a0c3-43c5-b892-21c715a355a4",
+    "title": "Could Peronism return as Milei’s popularity falters?",
+    "titleZh": "隨著米萊的人氣下滑，庇隆主義會捲土重來嗎？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ecfefa34-a0c3-43c5-b892-21c715a355a4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:26.249Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c97986bf-6d3a-47a9-834c-173228454c3d",
+    "title": "Risks to peso as Argentine elections loom",
+    "titleZh": "阿根廷大選將至，比索面臨風險",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c97986bf-6d3a-47a9-834c-173228454c3d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:29.104Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0910ef9b-30da-4ea4-8991-f62af1f9d07d",
+    "title": "How coffee shops became ‘the last pleasure’ for war-weary Tehran",
+    "titleZh": "咖啡館如何成為戰火摧殘下德黑蘭市民的「最後的樂趣」",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0910ef9b-30da-4ea4-8991-f62af1f9d07d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:31.694Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bba22699-a32b-4c1e-bc19-8a53de122fc9",
+    "title": "Milei’s economic reforms under pressure",
+    "titleZh": "米萊的經濟改革面臨壓力",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bba22699-a32b-4c1e-bc19-8a53de122fc9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:34.333Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ff93c256-0562-4279-8a3f-34707711cf58",
+    "title": "Superdry is latest brand to enter Argentine market",
+    "titleZh": "Superdry 成為最新進軍阿根廷市場的品牌",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ff93c256-0562-4279-8a3f-34707711cf58?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:36.825Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561",
+    "title": "Milei’s AI hype outpaces reality",
+    "titleZh": "米萊對人工智慧的炒作超前於現實",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:39.362Z"
+  },
+  {
+    "id": "https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b",
+    "title": "Argentina’s resources boom gathers pace",
+    "titleZh": "阿根廷的資源熱潮正加速發展",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:41.895Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308",
+    "title": "Yen rallies as global tech rout sparks flight to safety",
+    "titleZh": "受全球科技股慘跌影響，投資人湧向避險資產，日圓匯率應聲上漲",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:44.677Z"
+  },
+  {
+    "id": "https://www.ft.com/content/876baf7b-f8a6-43e7-b03f-7813ab50f87a",
+    "title": "Is Zuckerberg being greedy? Let shareholders decide",
+    "titleZh": "祖克柏是否太貪婪？就讓股東來決定吧",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/876baf7b-f8a6-43e7-b03f-7813ab50f87a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:47.182Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6b7b5f61-3550-46ac-a032-4163164c0af0",
+    "title": "Credit insurers cut cover on struggling UK housebuilder Crest Nicholson",
+    "titleZh": "信用保險公司削減了對陷入困境的英國房屋建商 Crest Nicholson 的承保額度",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6b7b5f61-3550-46ac-a032-4163164c0af0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:49.741Z"
+  },
+  {
+    "id": "https://www.ft.com/content/01085941-f97f-44a1-8a37-f7bb84955e49",
+    "title": "Scientists probe link between early brain development and conditions such as autism",
+    "titleZh": "科學家正探究早期大腦發育與自閉症等疾病之間的關聯",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/01085941-f97f-44a1-8a37-f7bb84955e49?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:52.190Z"
+  },
+  {
+    "id": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a",
+    "title": "Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans",
+    "titleZh": "歐洲最大房東因柏林公寓計畫面臨80億歐元損失",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:54.741Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+    "title": "AI oversight needs a different model to banking",
+    "titleZh": "人工智慧的監管需要一種有別於銀行業的模式",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:57.225Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4efc4898-769e-4b3f-807f-0685c2903cd0",
+    "title": "Wealthy travellers boost Argentina’s tourism",
+    "titleZh": "富裕旅客帶動阿根廷旅遊業",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4efc4898-769e-4b3f-807f-0685c2903cd0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:04:59.787Z"
+  },
+  {
+    "id": "https://www.ft.com/content/30b49bee-1b22-4fa5-81f4-91db182f43e8",
+    "title": "China’s rapid human trials draw western drugmakers — and safety concerns",
+    "titleZh": "中國迅速展開的人體試驗吸引西方製藥公司——也引發安全疑慮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/30b49bee-1b22-4fa5-81f4-91db182f43e8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T04:05:02.420Z"
   }
 ]
