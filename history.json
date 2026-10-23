@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html",
-    "title": "What We Know About the School Shooting in Bend, Oregon",
-    "titleZh": "關於俄勒岡州本德市校園槍擊案的現有資訊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16xp-bend-shooting-wwk-qvwl/16xp-bend-shooting-wwk-qvwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T10:02:28.840Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-tv-shows-elizabeth-holmes.html",
     "title": "A Guide to Nathan Fielder’s Work Before Watching ‘You Can See Everything’",
     "titleZh": "觀看《You Can See Everything》前，納森·菲爾德作品指南",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23france-shooting-zltc/23france-shooting-zltc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T13:12:38.942Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "titleZh": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T13:14:57.098Z"
   }
 ]
