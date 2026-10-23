@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
-    "title": "Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says.",
-    "titleZh": "覺得自己住飯店付了過高的價格？一樁新訴訟指出，這要歸咎於 Expedia。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/realestate/16trav-expedia-lawsuit1/16trav-expedia-lawsuit1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T09:12:19.034Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
     "title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
     "titleZh": "MSCI 威脅將印尼股市從指數中剔除，導致印尼股市暴跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/f75c25c2-4164-4dfc-9d56-fc6a86704c47?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T12:34:27.513Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+    "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+    "titleZh": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/world/23haiti-force/23haiti-force-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T12:47:00.874Z"
   }
 ]
