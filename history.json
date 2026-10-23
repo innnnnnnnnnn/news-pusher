@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-    "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-    "titleZh": "當俄羅斯試圖讓基輔變得無法居住時，那裡的生活是怎樣的",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-kyiv-fklq/16int-ukraine-kyiv-fklq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T09:02:15.186Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/world/americas/caracas-is-eerily-safe-state-death-squads-made-sure-of-it.html",
     "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
     "titleZh": "委內瑞拉警方展開致命突襲、造成數千人喪生後，加拉加斯卻顯得詭異地安全",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9743b853-1a19-4693-a353-78e014cf1833?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b97e925-1fe7-4e34-a0fd-143547d954e7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-23T11:45:18.920Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+    "title": "A Tech Rotation Roils the Markets, Again",
+    "titleZh": "A Tech Rotation Roils the Markets, Again",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23db-nasdaq-wclt/23db-nasdaq-wclt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T11:46:28.864Z"
   }
 ]
