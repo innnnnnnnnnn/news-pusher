@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
-    "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
-    "titleZh": "俄勒岡州校園槍擊案讓「銀鐵小學」加入了這份駭人名單",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15bend-shooting-school-shootings-lmbf/15bend-shooting-school-shootings-lmbf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T01:47:13.309Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
     "title": "5 Takeaways From the Senate Debate in Maine",
     "titleZh": "緬因州參議院辯論的 5 大重點",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9193784c-9b3b-4626-bd69-15806b0221ed?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a3034d5-6262-49eb-b1d5-afe84da816b6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-23T05:30:32.053Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284",
+    "title": "Winter arrives in markets",
+    "titleZh": "市場迎來寒冬",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F137004b3-951e-49ca-958e-dde6b0fc27ea.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-23T05:36:40.729Z"
   }
 ]
