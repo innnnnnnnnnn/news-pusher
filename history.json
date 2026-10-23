@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d3ebfda8-4580-465a-bfb0-c1f5fe050ff7",
-    "title": "NHS boss Penny Dash: ‘We can’t just blame the politicians’",
-    "titleZh": "英國國民保健署（NHS）負責人佩妮·達什表示：「我們不能只怪政客。」",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d3ebfda8-4580-465a-bfb0-c1f5fe050ff7?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F16a0768b-8f03-485c-ad3b-eab324568836.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-16T11:52:20.091Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html",
     "title": "When Will the Fed Move on Rates?",
     "titleZh": "聯準會何時會調整利率？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a7e72609-8b63-4412-ab07-ccd7f685c5ea?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T15:57:56.026Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+    "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+    "titleZh": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-japan-invest-vmpl/23dc-japan-invest-vmpl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T15:59:42.694Z"
   }
 ]
