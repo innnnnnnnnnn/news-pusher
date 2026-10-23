@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-    "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
-    "titleZh": "以色列大選中的阿拉伯「造王者」：他渴望與猶太人建立夥伴關係",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-israel-mansour-zpch/00int-israel-mansour-zpch-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T10:02:34.108Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/well/glp1-anorexia-eating-disorders.html",
     "title": "The Difficulty of Diagnosing Anorexia in the GLP-1 Era",
     "titleZh": "在 GLP-1 時代診斷厭食症的難處",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
     "image": null,
     "pushedAt": "2026-10-23T13:33:19.311Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+    "title": "The Bukeleization of Latin America Has Arrived",
+    "titleZh": "The Bukeleization of Latin America Has Arrived",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T13:43:50.093Z"
   }
 ]
