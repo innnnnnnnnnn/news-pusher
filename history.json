@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd",
-    "title": "US illegal border crossings from Mexico near 60-year low",
-    "titleZh": "從墨西哥非法越境進入美國的人數接近60年來最低點",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90e76b90-5a45-411c-a98a-cc9d3a2b8561.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-16T18:37:23.453Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-    "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-    "titleZh": "以色列定居者在約旦河西岸襲擊巴勒斯坦人及《華盛頓郵報》記者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T18:38:44.155Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html",
     "title": "What Measures Keep Students Safe? Prevention, Not Defenses, Experts Say",
     "titleZh": "哪些措施能保障學生安全？專家表示：關鍵在於預防，而非防禦",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23evening-nl-alaska-top/23evening-nl-alaska-top-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T22:45:30.785Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/nyregion/ice-shooting-oscar-belgal-judge-ruling.html",
+    "title": "Judge Denies Medical Release for N.Y.C. Man Shot by ICE",
+    "titleZh": "Judge Denies Medical Release for N.Y.C. Man Shot by ICE",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/nyregion/ice-shooting-oscar-belgal-judge-ruling.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00met-ice-release1-jlmf/00met-ice-release1-jlmf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T22:55:20.934Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
+    "title": "Appeals Court Backs Trump on Constitutionality of Detentions",
+    "titleZh": "Appeals Court Backs Trump on Constitutionality of Detentions",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-immig-jbmk/23dc-immig-jbmk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T22:55:32.620Z"
   }
 ]
