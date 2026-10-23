@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html",
-    "title": "Oregon Has Approved Tight Gun Laws, but They Have Been Held Up in Courts",
-    "titleZh": "俄勒岡州雖已通過嚴格的槍枝管制法，但這些法律在法院審理過程中遭到擱置",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15bend-shooting-gun-control-jwml/15bend-shooting-gun-control-jwml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T14:47:12.650Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
     "title": "Is This the Breaking Point for Trump and Zelensky?",
     "titleZh": "這會是川普與澤連斯基關係的臨界點嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T17:18:28.555Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+    "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+    "titleZh": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T17:20:09.044Z"
   }
 ]
