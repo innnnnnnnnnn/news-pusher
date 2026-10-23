@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5b9c0cfa-849d-40a2-92bf-0bd2e2b58871",
-    "title": "Olly Robbins wins payout over Mandelson scandal sacking",
-    "titleZh": "奧利·羅賓斯因曼德爾森醜聞遭解僱而獲賠",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5b9c0cfa-849d-40a2-92bf-0bd2e2b58871?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff9371618-64db-4037-9afd-023fb1928327.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-16T18:07:19.279Z"
-  },
-  {
-    "id": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
-    "title": "It’s not just Commerzbank: Italians are eating up German business",
-    "titleZh": "不僅是德國商業銀行：義大利企業正大舉進軍德國市場",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
-    "image": null,
-    "pushedAt": "2026-10-23T17:48:54.762Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608",
-    "title": "Italy secures EU deal to lower its electricity prices",
-    "titleZh": "義大利與歐盟達成協議，將降低其電價",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T18:23:57.074Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
     "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
     "titleZh": "教宗呼籲普丁對一座遭圍困的烏克蘭城市實施停火",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-bend-01-hmbz/23xp-bend-01-hmbz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T22:05:20.897Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
+    "title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
+    "titleZh": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-lewandowski-bzgt/23dc-lewandowski-bzgt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T22:30:24.030Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+    "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+    "titleZh": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-Srpska-vptf/23dc-Srpska-vptf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T22:30:35.750Z"
+  },
+  {
+    "id": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831",
+    "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
+    "titleZh": "France avoids downgrade from Moody’s in boost for Macron’s government",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-23T22:30:47.441Z"
   }
 ]
