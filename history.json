@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html",
-    "title": "Katie Zacharia Admits Failing Bar, but Defends Calling Herself a Lawyer",
-    "titleZh": "凱蒂·扎卡里亞承認未能通過律師資格考試，但為自稱律師一事辯護",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-zacharia-vtpc/15dc-zacharia-vtpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T23:42:14.006Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
-    "title": "How U.S. Support to Ukraine Has Evolved Under Trump",
-    "titleZh": "在川普執政期間，美國對烏克蘭的支持如何演變",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-ukraine-support-cvfl/15dc-ukraine-support-cvfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-15T23:47:04.099Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html",
     "title": "Behind a White House Feud That Is Bitter Even by Trump-Era Standards",
     "titleZh": "一場即使以川普時代的標準來看也格外激烈的白宮內鬥背後",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00int-korea-arms-01-vbct/00int-korea-arms-01-vbct-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T04:32:16.933Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/opinion/africa-map-un-mercator.html",
+    "title": "The Map of Africa Is Being Redrawn. It’s a Trap.",
+    "titleZh": "非洲地圖正在被重新劃分。這是一個陷阱。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/opinion/africa-map-un-mercator.html",
+    "image": null,
+    "pushedAt": "2026-10-23T05:03:18.419Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
+    "title": "The Most Important Factory in America",
+    "titleZh": "美國最重要的工廠",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/22wang-mountains-BRIGHT-qwfz/22wang-mountains-BRIGHT-qwfz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T05:03:20.911Z"
   }
 ]
