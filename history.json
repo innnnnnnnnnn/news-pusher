@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48",
-    "title": "Trump urges his new press secretary to ‘reconsider’ the role",
-    "titleZh": "川普敦促其新任新聞秘書「重新考慮」這個職位",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F50af8644-9e40-4826-90f9-8871c441a6cb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-16T18:02:23.274Z"
-  },
-  {
     "id": "https://www.ft.com/content/5b9c0cfa-849d-40a2-92bf-0bd2e2b58871",
     "title": "Olly Robbins wins payout over Mandelson scandal sacking",
     "titleZh": "奧利·羅賓斯因曼德爾森醜聞遭解僱而獲賠",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-23T21:11:52.261Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
+    "title": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
+    "titleZh": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-bend-01-hmbz/23xp-bend-01-hmbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T22:05:20.897Z"
   }
 ]
