@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6fc92bd5-e79f-42a9-833c-74b8fffcf1a7",
-    "title": "Carmakers face smaller cut in UK EV sales targets",
-    "titleZh": "車廠在英國的電動車銷售目標下調幅度較小",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6fc92bd5-e79f-42a9-833c-74b8fffcf1a7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T13:42:14.427Z"
-  },
-  {
     "id": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
     "title": "China unveils draft export controls on AI technologies and chips",
     "titleZh": "中國公布人工智慧技術與晶片出口管制草案",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/786adb71-2e7f-4218-b8dc-146bfb1db8b6",
     "image": null,
     "pushedAt": "2026-10-23T16:07:30.911Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
+    "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
+    "titleZh": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-melania-gwcp/23dc-melania-gwcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T16:18:07.250Z"
   }
 ]
