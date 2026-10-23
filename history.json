@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
-    "title": "$137 Million in A.I.-Generated Ads Flood the Midterms",
-    "titleZh": "價值 1.37 億美元的人工智慧生成廣告淹沒了中期選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-05-ai-election-ad-grids-index/2026-10-05-ai-election-ad-grids-index-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T10:02:26.530Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html",
     "title": "What We Know About the School Shooting in Bend, Oregon",
     "titleZh": "關於俄勒岡州本德市校園槍擊案的現有資訊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
     "image": null,
     "pushedAt": "2026-10-23T13:02:32.911Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+    "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+    "titleZh": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23france-shooting-zltc/23france-shooting-zltc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T13:12:38.942Z"
   }
 ]
