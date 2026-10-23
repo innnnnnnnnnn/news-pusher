@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c62481a2-eb6c-4ab8-b226-47efd50affcd",
-    "title": "Should I be stockpiling for an emergency?",
-    "titleZh": "我應該為緊急情況囤積物資嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c62481a2-eb6c-4ab8-b226-47efd50affcd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T10:07:25.542Z"
-  },
-  {
-    "id": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1",
-    "title": "Treasuries head for best week since February as AI jitters halt bond rout",
-    "titleZh": "受人工智慧引發的市場擔憂遏止債券拋售潮影響，美國公債正邁向自二月以來表現最佳的一週",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43afca06-37b9-4610-bc2c-81da3b9782f4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-16T10:17:22.844Z"
-  },
-  {
     "id": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
     "title": "Sizing that ‘unlimited’ insurance capital",
     "titleZh": "評估那項「無限」保險資本的規模",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-markle-whct/23xp-markle-whct-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-23T14:49:31.597Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html",
+    "title": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+    "titleZh": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23xp-markle-whct/23xp-markle-whct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T14:54:16.122Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+    "title": "A Fight Over Felon Voting Fuels a Free Speech Debate",
+    "titleZh": "A Fight Over Felon Voting Fuels a Free Speech Debate",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19BIZ-MINNESOTA-DISINFO-1-zhtl/19BIZ-MINNESOTA-DISINFO-1-zhtl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-23T14:54:28.407Z"
   }
 ]
