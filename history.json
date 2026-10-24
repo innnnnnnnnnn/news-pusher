@@ -1,59 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f5388310-ea4b-47b5-ae9c-7aff01198422",
-    "title": "This earnings season, what CEOs say matters more than what they’ve done",
-    "titleZh": "在這個財報季，執行長們所說的話比他們實際做過的事更重要",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f5388310-ea4b-47b5-ae9c-7aff01198422",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:49.532Z"
-  },
-  {
-    "id": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649",
-    "title": "Why have screens replaced socialising?",
-    "titleZh": "為什麼螢幕會取代了社交活動？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:51.646Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b4996387-0a4a-4f75-b16d-830fbc8c40c3",
-    "title": "HMRC claws back nearly £500mn in underpaid capital gains",
-    "titleZh": "英國稅務及海關總署（HMRC）追回近 5 億英鎊的未足額繳納資本利得稅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b4996387-0a4a-4f75-b16d-830fbc8c40c3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:53.814Z"
-  },
-  {
-    "id": "https://www.ft.com/content/169bbf6e-d0af-4c8d-afd0-2c561a58c855",
-    "title": "UK dividend payments jump 14% in a year",
-    "titleZh": "英國股息派發額一年內飆升 14%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/169bbf6e-d0af-4c8d-afd0-2c561a58c855?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:55.893Z"
-  },
-  {
-    "id": "https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116",
-    "title": "The AI El Niño",
-    "titleZh": "AI 聖嬰現象",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:58.004Z"
-  },
-  {
-    "id": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729",
-    "title": "Are we sleepwalking into World War III?",
-    "titleZh": "我們是否正在渾然不覺地走向第三次世界大戰？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:04:00.208Z"
-  },
-  {
     "id": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d",
     "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
     "titleZh": "「通膨會讓人變窮」：航空公司為未來數年的艱難時期做好準備",
@@ -8998,5 +8944,59 @@
     "url": "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23trav-corsica-PROMO-plcw/23trav-corsica-PROMO-plcw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T09:01:55.449Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+    "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+    "titleZh": "Looting Left Damage and Fear on Paradise Street in Marseille",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-marseille-jfgm/24int-france-marseille-jfgm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:06:51.533Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+    "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+    "titleZh": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:07:03.278Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
+    "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
+    "titleZh": "The Other Bolsonaro Who Could Become Brazil’s Next President",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-brazil-bolsonaro-profile-cwqg/24int-brazil-bolsonaro-profile-cwqg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:07:15.021Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
+    "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
+    "titleZh": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-mexico-pressure-bhlk/23int-mexico-pressure-bhlk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:07:27.023Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+    "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+    "titleZh": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-brazil-lula-profile-bwkl/00int-brazil-lula-profile-bwkl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:07:38.766Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
+    "title": "Why Brazil’s Election Could Come Down to Crime",
+    "titleZh": "Why Brazil’s Election Could Come Down to Crime",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
+    "image": null,
+    "pushedAt": "2026-10-24T09:07:50.525Z"
   }
 ]
