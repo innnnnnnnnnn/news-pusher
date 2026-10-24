@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html",
-    "title": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary",
-    "titleZh": "在內森·菲爾德紀錄片中揭發伊莉莎白·霍姆斯的記者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/17Sunbiz-holmes-film-lede-gqlb/17Sunbiz-holmes-film-lede-gqlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T10:19:41.022Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
     "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
     "titleZh": "在川普執政期間，儘管企業獲利飆升，企業所得稅收入卻仍下滑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-germany-fire-tlcj/24int-germany-fire-tlcj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T11:17:17.178Z"
+  },
+  {
+    "id": "https://www.ft.com/content/47073bc4-f176-4fbe-b277-30e93007fbb1",
+    "title": "Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test",
+    "titleZh": "Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/47073bc4-f176-4fbe-b277-30e93007fbb1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-24T11:53:51.346Z"
   }
 ]
