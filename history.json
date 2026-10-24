@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3e6effe9-fd4f-4c67-a4a5-ed04693dabfa",
-    "title": "The financial double life of barristers",
-    "titleZh": "大律師的財務雙重生活",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3e6effe9-fd4f-4c67-a4a5-ed04693dabfa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T05:06:30.637Z"
-  },
-  {
     "id": "https://www.ft.com/content/766f613b-7d0d-4f04-ae44-a8c827864932",
     "title": "Activists highlight a Big Yellow warning sign for the London market",
     "titleZh": "活動人士將一塊「Big Yellow」警告標誌作為倫敦市場的警示",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-24T10:44:45.147Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+    "title": "Checks and Balance newsletter: If American voters lived under one roof",
+    "titleZh": "Checks and Balance newsletter: If American voters lived under one roof",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+    "image": null,
+    "pushedAt": "2026-10-24T10:56:26.536Z"
   }
 ]
