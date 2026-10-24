@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/95e1b194-7dab-4f69-87b4-27535772cf18",
-    "title": "It’s nearly FT Alphaville's 20th birthday. We did a chart show to celebrate!",
-    "titleZh": "《FT Alphaville》即將迎來 20 週年。為了慶祝這個特別的日子，我們特別製作了一期排行榜特輯！",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/95e1b194-7dab-4f69-87b4-27535772cf18",
-    "image": null,
-    "pushedAt": "2026-10-16T20:07:23.749Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/16/us/six-flags-roller-coaster-death.html",
-    "title": "After Six Flags Roller Coaster Death, Critics Call for Federal Oversight",
-    "titleZh": "過山車致死事件後，批評者呼籲實施聯邦監管",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/us/six-flags-roller-coaster-death.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16nat-roller-coaster-wvqp-copy/16nat-roller-coaster-wvqp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T15:37:40.721Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
     "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
     "titleZh": "世界上最古老的沉船？也許吧，但「光是這個『也許』就讓我們都興奮不已。」",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T03:50:36.969Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+    "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+    "titleZh": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T04:05:48.169Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+    "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
+    "titleZh": "How Defiant Youth Are Testing India’s Idea of Democracy",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00INT-INDIA-PROTESTS-LESSONS-01-wgml/00INT-INDIA-PROTESTS-LESSONS-01-wgml-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T04:05:59.965Z"
   }
 ]
