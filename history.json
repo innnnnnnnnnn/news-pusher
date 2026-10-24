@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028",
-    "title": "Rich make millions by flipping private jets",
-    "titleZh": "富人透過倒賣私人噴射機賺取數百萬",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-16T20:00:51.961Z"
-  },
-  {
     "id": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687",
     "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
     "titleZh": "以色列定居者襲擊在約旦河西岸進行橄欖採收的巴勒斯坦人",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
     "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T02:45:38.029Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7",
+    "title": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
+    "titleZh": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5e596ca-6c1b-4f2e-be69-b535d6d3489c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-24T02:54:03.077Z"
   }
 ]
