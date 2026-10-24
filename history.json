@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
-    "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
-    "titleZh": "在川普執政期間，儘管企業獲利飆升，企業所得稅收入卻仍下滑",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-corporate-tax-fmhg/17dc-corporate-tax-fmhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T08:45:49.760Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/dining/breakfast-cereal-healthy.html",
     "title": "Can Cereal Be Healthy? Big Companies Are Trying.",
     "titleZh": "穀物早餐能健康嗎？大企業正努力嘗試。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/47073bc4-f176-4fbe-b277-30e93007fbb1?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-24T11:53:51.346Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
+    "title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+    "titleZh": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/business/00db-ai-disconnect/00db-ai-disconnect-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T12:07:54.887Z"
   }
 ]
