@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html",
-    "title": "Firefighters Race to Control California Wildfires as Winds Threaten to Spark More",
-    "titleZh": "強風恐引發更多山火，消防員正爭分奪秒控制加州山火",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16wea-cafire-TOP-lchf/16wea-cafire-TOP-lchf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-16T19:13:18.075Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html",
     "title": "Is There an A.I. Bubble? A Debate.",
     "titleZh": "是否存在人工智慧泡沫？一場辯論。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T00:25:34.723Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b",
+    "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+    "titleZh": "US executives quit $25bn gas venture over claims of secret Russian control",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F18da6814-ae58-4dc2-bc39-bcdab10bb1c7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-24T00:31:02.232Z"
   }
 ]
