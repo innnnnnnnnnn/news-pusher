@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aef6d0ed-1019-452a-b3f0-3e3dfc9eac05",
-    "title": "What is behind the surprising resilience of the UK economy?",
-    "titleZh": "英國經濟為何能展現出如此令人驚訝的韌性？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aef6d0ed-1019-452a-b3f0-3e3dfc9eac05?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:43.146Z"
-  },
-  {
     "id": "https://www.ft.com/content/690d164b-58d4-4edc-951d-1cd35bc13bd0",
     "title": "US university offers cut-price UK degree for international students",
     "titleZh": "美國大學為國際學生提供價格優惠的英國學位",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9c00e8f9-b7dc-4893-8b34-66a4bb5a5605",
     "image": null,
     "pushedAt": "2026-10-24T04:21:29.447Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
+    "title": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
+    "titleZh": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
+    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00met-hfo-archdiocese-settlement-whck/00met-hfo-archdiocese-settlement-whck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T04:36:07.129Z"
   }
 ]
