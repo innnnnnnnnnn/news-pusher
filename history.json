@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/690d164b-58d4-4edc-951d-1cd35bc13bd0",
-    "title": "US university offers cut-price UK degree for international students",
-    "titleZh": "美國大學為國際學生提供價格優惠的英國學位",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/690d164b-58d4-4edc-951d-1cd35bc13bd0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:45.275Z"
-  },
-  {
-    "id": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce",
-    "title": "Houthis encircle new target in conflict with Saudi-backed forces",
-    "titleZh": "胡塞武裝在與沙特支持的部隊的衝突中包圍了新的目標",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T04:03:47.396Z"
-  },
-  {
     "id": "https://www.ft.com/content/f5388310-ea4b-47b5-ae9c-7aff01198422",
     "title": "This earnings season, what CEOs say matters more than what they’ve done",
     "titleZh": "在這個財報季，執行長們所說的話比他們實際做過的事更重要",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
     "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00met-hfo-archdiocese-settlement-whck/00met-hfo-archdiocese-settlement-whck-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T08:08:12.372Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+    "title": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+    "titleZh": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-china-korea-visit-01-jzht/24int-china-korea-visit-01-jzht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:01:43.747Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html",
+    "title": "Corsica’s GR20: A Visual Diary of the Hike",
+    "titleZh": "Corsica’s GR20: A Visual Diary of the Hike",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23trav-corsica-PROMO-plcw/23trav-corsica-PROMO-plcw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:01:55.449Z"
   }
 ]
