@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
-    "title": "A Wayward Shark Becomes a Celebrity in South Korea",
-    "titleZh": "一隻迷路的鯊魚在南韓一夕成名",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T02:44:37.592Z"
-  },
-  {
     "id": "https://www.ft.com/content/aef6d0ed-1019-452a-b3f0-3e3dfc9eac05",
     "title": "What is behind the surprising resilience of the UK economy?",
     "titleZh": "英國經濟為何能展現出如此令人驚訝的韌性？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/bdfebbea-061d-48cb-b95e-d0e4698e91b7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-24T04:20:53.572Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9c00e8f9-b7dc-4893-8b34-66a4bb5a5605",
+    "title": "The money questions children ask AI chatbots",
+    "titleZh": "The money questions children ask AI chatbots",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9c00e8f9-b7dc-4893-8b34-66a4bb5a5605",
+    "image": null,
+    "pushedAt": "2026-10-24T04:21:29.447Z"
   }
 ]
