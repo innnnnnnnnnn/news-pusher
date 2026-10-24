@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html",
-    "title": "Is There an A.I. Bubble? A Debate.",
-    "titleZh": "是否存在人工智慧泡沫？一場辯論。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/opinion/16eks-azhar-kedrosky-image/16eks-azhar-kedrosky-image-mediumSquareAt3X-v2.png",
-    "pushedAt": "2026-10-16T20:00:18.862Z"
-  },
-  {
     "id": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028",
     "title": "Rich make millions by flipping private jets",
     "titleZh": "富人透過倒賣私人噴射機賺取數百萬",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F18da6814-ae58-4dc2-bc39-bcdab10bb1c7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-24T02:16:19.623Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
+    "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
+    "titleZh": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
+    "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T02:45:38.029Z"
   }
 ]
