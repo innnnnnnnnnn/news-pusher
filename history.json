@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709",
-    "title": "The Man City theory of politics",
-    "titleZh": "曼城的政治理論",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F05be862f-a11a-4068-894f-90651606ecad.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-17T04:09:14.693Z"
-  },
-  {
     "id": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4",
     "title": "The dress rehearsal for an AI reckoning",
     "titleZh": "人工智慧大考驗的預演",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-canada-letter-smith-bqcz/24int-canada-letter-smith-bqcz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T10:01:56.251Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+    "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+    "titleZh": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T10:12:11.026Z"
   }
 ]
