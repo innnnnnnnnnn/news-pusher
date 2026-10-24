@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/766f613b-7d0d-4f04-ae44-a8c827864932",
-    "title": "Activists highlight a Big Yellow warning sign for the London market",
-    "titleZh": "活動人士將一塊「Big Yellow」警告標誌作為倫敦市場的警示",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/766f613b-7d0d-4f04-ae44-a8c827864932?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T05:06:32.730Z"
-  },
-  {
-    "id": "https://www.ft.com/content/72a21062-193b-4a63-8365-29e0b78d19dd",
-    "title": "How to create a tech-free zone in your home (without a family revolt)",
-    "titleZh": "如何在家中建立「無科技區」（且不引發家庭叛亂）",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/72a21062-193b-4a63-8365-29e0b78d19dd",
-    "image": null,
-    "pushedAt": "2026-10-17T05:06:34.898Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html",
     "title": "He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.",
     "titleZh": "他是巴勒斯坦解放運動的領軍人物。影迷們正傾聽他的聲音。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
     "image": null,
     "pushedAt": "2026-10-24T10:56:26.536Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
+    "title": "The Eyes of Elizabeth Holmes",
+    "titleZh": "The Eyes of Elizabeth Holmes",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T11:06:14.040Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
+    "title": "Dare We Dream of a Blue Wave?",
+    "titleZh": "Dare We Dream of a Blue Wave?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
+    "pushedAt": "2026-10-24T11:06:26.434Z"
   }
 ]
