@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cd092bf2-2614-46cb-b024-7865ccc0a0cc",
-    "title": "An autumn adventure at a kasbah in the clouds",
-    "titleZh": "雲端卡斯巴的一場秋日冒險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cd092bf2-2614-46cb-b024-7865ccc0a0cc",
-    "image": null,
-    "pushedAt": "2026-10-17T04:04:11.612Z"
-  },
-  {
     "id": "https://www.ft.com/content/dcb61611-f2e7-4974-a4a6-8c565253dacf",
     "title": "Martin Wolf on the US midterms: Is American democracy safe?",
     "titleZh": "馬丁·沃爾夫談美國中期選舉：美國民主是否安全？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
     "image": null,
     "pushedAt": "2026-10-24T09:46:57.222Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+    "title": "How a Small Student Protest Spread Across France",
+    "titleZh": "How a Small Student Protest Spread Across France",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-timeline-qzbm/24france-protests-timeline-qzbm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T09:51:53.690Z"
   }
 ]
