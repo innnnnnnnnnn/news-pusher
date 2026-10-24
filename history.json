@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
-    "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
-    "titleZh": "53歲的市長巴利·巴加約科如何成為法國青年抗議活動的代表人物",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
-    "image": null,
-    "pushedAt": "2026-10-17T04:05:55.671Z"
-  },
-  {
     "id": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709",
     "title": "The Man City theory of politics",
     "titleZh": "曼城的政治理論",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-promo-bgpl/24france-protests-promo-bgpl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T09:57:29.989Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
+    "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
+    "titleZh": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-canada-letter-smith-bqcz/24int-canada-letter-smith-bqcz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T10:01:56.251Z"
   }
 ]
