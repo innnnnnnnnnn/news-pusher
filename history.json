@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7",
-    "title": "Lula turns to selfie videos in election fightback",
-    "titleZh": "盧拉在選戰中轉而採用自拍影片展開反擊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T11:53:55.743Z"
-  },
-  {
     "id": "https://www.ft.com/content/3d964bed-ed6e-4b15-ade0-f190d2723cac",
     "title": "Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)?",
     "titleZh": "《歐洲快訊》週末特輯：當澤連斯基需要朋友時，他們在哪裡？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T21:26:08.680Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
+    "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
+    "titleZh": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-alaska-voting-sites/24hp-alaska-legal-promo-01-zqgl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T22:21:56.563Z"
   }
 ]
