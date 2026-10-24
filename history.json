@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4",
-    "title": "The dress rehearsal for an AI reckoning",
-    "titleZh": "人工智慧大考驗的預演",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F07b8ed16-d631-4674-b18a-2dc5e0d75b34.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-17T04:09:17.559Z"
-  },
-  {
     "id": "https://www.ft.com/content/e3ecf86b-13a9-4f36-8c00-a99d60267e93",
     "title": "Margaret Hamilton, software engineer, 1936-2026",
     "titleZh": "瑪格麗特·漢密爾頓，軟體工程師，1936–2026",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T10:12:11.026Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+    "title": "Ukraine military says Starlink service restrictions have been removed",
+    "titleZh": "Ukraine military says Starlink service restrictions have been removed",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5377933b-e31c-4adf-9751-759591ed9473.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-24T10:33:02.793Z"
   }
 ]
