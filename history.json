@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0c3a4b7d-077c-427f-852a-163db6d84455",
-    "title": "Hong Kong’s wine boom, uncorked",
-    "titleZh": "香港葡萄酒熱潮，正式揭開序幕",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0c3a4b7d-077c-427f-852a-163db6d84455",
-    "image": null,
-    "pushedAt": "2026-10-17T04:04:09.112Z"
-  },
-  {
     "id": "https://www.ft.com/content/cd092bf2-2614-46cb-b024-7865ccc0a0cc",
     "title": "An autumn adventure at a kasbah in the clouds",
     "titleZh": "雲端卡斯巴的一場秋日冒險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
     "image": null,
     "pushedAt": "2026-10-24T09:08:49.368Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "Here’s the latest.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-10-24T09:46:57.222Z"
   }
 ]
