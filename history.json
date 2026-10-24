@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/19de89f6-c7b5-4dd7-b4d0-7ae29c6120a5",
-    "title": "Formula 1 bets on Rwanda",
-    "titleZh": "一級方程式賽車押注盧安達",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/19de89f6-c7b5-4dd7-b4d0-7ae29c6120a5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T09:06:22.952Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
-    "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
-    "titleZh": "賓夕法尼亞州如何解析影響中期選舉的各項因素",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-pennsylvania-scrolly-01-kzhg/17pol-pennsylvania-scrolly-01-kzhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T09:51:07.643Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html",
     "title": "Hegseth Singled Out in Democrats’ Campaign Attacks for War and High Prices",
     "titleZh": "赫格塞特因戰爭與物價高漲問題，成為民主黨競選攻勢的攻擊目標",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/24/opinion/midterm-elections-republicans.html",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24bouie-newsletter-vqbc/24bouie-newsletter-vqbc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-24T15:41:34.759Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+    "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+    "titleZh": "Why Is the U.S. Accusing Canada of Election Interference?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00int-canada-midterms-explainer-zvbw/00int-canada-midterms-explainer-zvbw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T16:07:56.945Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+    "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+    "titleZh": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-paris-shutdown-scene-topart-jftw/24france-protests-paris-shutdown-scene-topart-jftw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-24T16:08:08.667Z"
   }
 ]
