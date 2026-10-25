@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
-    "title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
-    "titleZh": "以投票為焦點的「無王日」帶來的 4 大啟示",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19no-kings-dallas-print1-wjbh-copy/19no-kings-dallas-print1-wjbh-copy-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-18T09:59:42.965Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
     "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
     "titleZh": "O.J. 辛普森、一名秘密線人，以及一樁長達數十年的謎團",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-jzmw/25int-venezuela-machado-jzmw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T16:29:32.160Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+    "title": "The winners and losers of Trumponomics",
+    "titleZh": "The winners and losers of Trumponomics",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+    "image": null,
+    "pushedAt": "2026-10-25T16:44:37.066Z"
   }
 ]
