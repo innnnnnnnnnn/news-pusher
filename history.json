@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44",
-    "title": "Trump’s bid to make America cheap again has failed",
-    "titleZh": "川普讓美國重拾低成本的企圖已告失敗",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-21T17:36:14.593Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/10/18/republicans-identity-crisis-in-texas",
     "title": "Republicans’ identity crisis in Texas",
     "titleZh": "德州共和黨的身份認同危機",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent",
     "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-brazil-elections-meta01-photo-jlgw/00int-brazil-elections-meta01-photo-jlgw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T22:16:56.514Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+    "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+    "titleZh": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T22:21:55.638Z"
   }
 ]
