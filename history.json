@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html",
-    "title": "The Case Against Business School",
-    "titleZh": "反對商學院的論點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html",
-    "image": null,
-    "pushedAt": "2026-10-18T05:01:00.474Z"
-  },
-  {
     "id": "https://www.ft.com/content/5d45d66f-fd31-4263-b52f-54d9d88baa63",
     "title": "Europe’s industrial giants take diverging paths as they ride AI boom",
     "titleZh": "隨著人工智慧熱潮的興起，歐洲工業巨頭們走上了各不相同的道路",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/86e2ad4c-4a19-4221-8043-1c26e3354936?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-25T12:14:07.173Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+    "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+    "titleZh": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T12:20:09.656Z"
   }
 ]
