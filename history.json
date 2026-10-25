@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210",
-    "title": "Several dead and injured in fire at Alberta military base",
-    "titleZh": "亞伯達省軍事基地發生火災，造成數人死傷",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210",
-    "image": null,
-    "pushedAt": "2026-10-18T08:06:47.796Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
     "title": "The Man Who Taught Us How to Pay Attention",
     "titleZh": "那位教導我們如何專注的人",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb2a267c-7086-45e4-9184-5d64dbdbe85d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T12:34:13.836Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+    "title": "India has stabilised its currency. But at what cost?",
+    "titleZh": "India has stabilised its currency. But at what cost?",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+    "image": null,
+    "pushedAt": "2026-10-25T13:00:59.563Z"
   }
 ]
