@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/opinion/gerrymandering-congress-black-voting.html",
-    "title": "How to End Gerrymandering",
-    "titleZh": "如何終結選區劃分舞弊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/opinion/gerrymandering-congress-black-voting.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/opinion/17gerrymandering-editorial-image/17gerrymandering-editorial-image-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-17T14:20:59.269Z"
-  },
-  {
-    "id": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780",
-    "title": "Protesters clash with police in Paris and Marseille",
-    "titleZh": "示威者在巴黎和馬賽與警方發生衝突",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-17T14:30:54.583Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
     "title": "Weak Links Start to Show in A.I. Borrowing",
     "titleZh": "人工智慧借貸領域的薄弱環節開始顯現",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/24zonszein-vgqz/24zonszein-vgqz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T00:57:46.924Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59",
+    "title": "Why 17 is not the magic number in industrial policy",
+    "titleZh": "Why 17 is not the magic number in industrial policy",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fedd1c644-707a-4973-9d45-898d2cd25e52.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T01:07:53.796Z"
+  },
+  {
+    "id": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8",
+    "title": "Australia’s treasurer says middle powers should co-operate to avoid being hostage to geopolitics",
+    "titleZh": "Australia’s treasurer says middle powers should co-operate to avoid being hostage to geopolitics",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4dd5a27f-765e-49d7-a331-52431dc41926.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T01:08:07.309Z"
   }
 ]
