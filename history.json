@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-    "title": "Dispute Between Trump Allies Centers on Payment From Congo",
-    "titleZh": "川普盟友之間的爭端聚焦於來自剛果的一筆款項",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17dc-investigate-jmkz/17dc-investigate-jmkz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T16:21:44.936Z"
-  },
-  {
     "id": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
     "title": "Israeli settlers attack European diplomats in the West Bank",
     "titleZh": "以色列定居者在約旦河西岸襲擊歐洲外交官",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
     "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-island-tristan-promo-1-chvq/00int-island-tristan-promo-1-chvq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T04:19:17.249Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+    "title": "Violent Protests Resurface in Albania: What to Know",
+    "titleZh": "Violent Protests Resurface in Albania: What to Know",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-albania-protests-wtk-fhbj/24int-albania-protests-wtk-fhbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T04:19:53.886Z"
   }
 ]
