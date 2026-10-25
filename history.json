@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a1b2bdd8-212c-45bf-91d7-7e56a6fe14bb",
-    "title": "The US needs a social compact on data centres",
-    "titleZh": "美國需要就資料中心達成一項社會契約",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a1b2bdd8-212c-45bf-91d7-7e56a6fe14bb",
-    "image": null,
-    "pushedAt": "2026-10-18T04:36:36.004Z"
-  },
-  {
     "id": "https://www.ft.com/content/5427eed7-6cfc-4e8b-892f-efbb289e4a53",
     "title": "How YouTubers finance their videos",
     "titleZh": "YouTube 創作者如何籌措影片製作資金",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95c87536-a1ea-4f9d-ad42-13d9ee1cf10e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T12:06:21.139Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+    "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+    "titleZh": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-france-assess-01-fvtc/25int-france-assess-01-fvtc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T12:07:27.055Z"
   }
 ]
