@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082",
-    "title": "‘The Switzerland of North America’: Albertans vote on leaving Canada",
-    "titleZh": "「北美版的瑞士」：亞伯達省居民就脫離加拿大進行公投",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-18T12:29:02.555Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
     "title": "Would You Press This Button?",
     "titleZh": "你會按下這個按鈕嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-machado-who-fbqg/25int-machado-who-fbqg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T21:11:43.147Z"
+  },
+  {
+    "id": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3",
+    "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+    "titleZh": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8c45639-926f-44f5-a324-39895d504cc0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T21:12:21.710Z"
   }
 ]
