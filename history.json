@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/opinion/cornell-jane-doe-title-ix.html",
-    "title": "This Is One of the Saddest Facts About the Cornell Rape Case",
-    "titleZh": "這是康乃爾大學強姦案中最令人心碎的事實之一",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/opinion/cornell-jane-doe-title-ix.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/17bazelon-htpm/17bazelon-htpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T18:35:38.943Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-    "title": "Israeli Settlers Attack Palestinians and Diplomats in West Bank",
-    "titleZh": "以色列定居者在約旦河西岸襲擊巴勒斯坦人和外交官",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T19:01:55.902Z"
-  },
-  {
     "id": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c",
     "title": "White House chaos overshadows Trump’s midterms push",
     "titleZh": "白宮的混亂局面掩蓋了川普為期中選所做的努力",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04b6572c-9e47-4f4c-8a03-ced09d0a464b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T05:16:26.765Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4528aa39-1ef2-47f2-9ff0-3271db0ae029",
+    "title": "Why is it getting harder to raise taxes in the UK?",
+    "titleZh": "Why is it getting harder to raise taxes in the UK?",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4528aa39-1ef2-47f2-9ff0-3271db0ae029?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53abb49a-b230-4ad4-8c70-7548a7809d37.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T05:21:04.022Z"
+  },
+  {
+    "id": "https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a",
+    "title": "More than 1mn antiquities returned to countries of origin",
+    "titleZh": "More than 1mn antiquities returned to countries of origin",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02be9965-92c4-45fe-bc4d-92b959ee4d1e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T05:21:16.829Z"
   }
 ]
