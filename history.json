@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
-    "title": "Across Farm Country, Economic Discontent Strains Republican Coalition",
-    "titleZh": "在農業地區，經濟不滿情緒正使共和黨聯盟面臨壓力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
-    "image": null,
-    "pushedAt": "2026-10-18T09:59:40.774Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
     "title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
     "titleZh": "以投票為焦點的「無王日」帶來的 4 大啟示",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
     "image": null,
     "pushedAt": "2026-10-25T16:19:03.464Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+    "title": "María Corina Machado Returns to Venezuela",
+    "titleZh": "María Corina Machado Returns to Venezuela",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-jzmw/25int-venezuela-machado-jzmw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T16:29:32.160Z"
   }
 ]
