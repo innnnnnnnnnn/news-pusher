@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
-    "title": "The Man Who Taught Us How to Pay Attention",
-    "titleZh": "那位教導我們如何專注的人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
-    "image": null,
-    "pushedAt": "2026-10-18T08:07:07.388Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
     "title": "France in Shock After Protests Devolve Into Riots",
     "titleZh": "抗議活動演變成暴動，法國陷入震驚",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
     "image": null,
     "pushedAt": "2026-10-25T13:00:59.563Z"
+  },
+  {
+    "id": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1",
+    "title": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
+    "titleZh": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F050a8776-351f-415d-8c54-65a179415d8e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T14:39:28.565Z"
   }
 ]
