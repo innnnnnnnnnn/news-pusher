@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-    "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
-    "titleZh": "以伊莉莎白·霍姆斯為主題的電影上映，超過 2,000 場次全數售罄",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-    "image": null,
-    "pushedAt": "2026-10-22T15:23:24.407Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/us/maha-voters-republican-split.html",
     "title": "Some MAHA Voters in Arizona Question Their G.O.P. Ties",
     "titleZh": "亞利桑那州部分 MAHA 選民對其與共和黨的關聯提出質疑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
     "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-mediumSquareAt3X-v10.jpg",
     "pushedAt": "2026-10-25T22:41:57.657Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+    "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+    "titleZh": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25brazile-update-630-whlc/25brazile-update-630-whlc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T22:46:56.121Z"
   }
 ]
