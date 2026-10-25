@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207",
-    "title": "Not every billionaire is a policy failure",
-    "titleZh": "並非每位億萬富翁都是政策失敗的產物",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc7a03834-4b3d-4580-8387-96ba86f358bd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-18T11:05:28.791Z"
-  },
-  {
     "id": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1",
     "title": "St Petersburg endures biggest Ukrainian drone attack",
     "titleZh": "聖彼得堡遭遇烏克蘭史上最大規模的無人機襲擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31ba0b05-bf04-4eef-b91b-2c91c1fb6207.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T18:28:33.792Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html",
+    "title": "What’s at Stake in Brazil’s Elections?",
+    "titleZh": "What’s at Stake in Brazil’s Elections?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25brazil-election-stakes-topart-qpkf/25brazil-election-stakes-topart-qpkf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T18:51:33.517Z"
   }
 ]
