@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-    "title": "Weak Links Start to Show in A.I. Borrowing",
-    "titleZh": "人工智慧借貸領域的薄弱環節開始顯現",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-data-center-debt-kmwt/00biz-data-center-debt-kmwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T08:50:13.857Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/opinion/trump-photo-zacharia-harp-doug-mills.html",
     "title": "Trump’s Bubble Is About to Burst",
     "titleZh": "川普的泡沫即將破滅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4dd5a27f-765e-49d7-a331-52431dc41926.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T01:08:07.309Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600",
+    "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
+    "titleZh": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f90272e-5b04-4f81-92a7-0b4259d0a158.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T01:13:44.363Z"
   }
 ]
