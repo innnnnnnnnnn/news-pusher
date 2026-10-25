@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
-    "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
-    "titleZh": "川普向普丁提供經濟援助，希望俄羅斯能予以回報",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19DC-RUSSIA-SANX-qczf/17DC-RUSSIA-SANX-qczf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T11:56:33.305Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html",
     "title": "NYC Subway Shooting in Midtown Leaves Man Dead",
     "titleZh": "紐約市中城地鐵槍擊案造成一名男子死亡",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a505e99f-b49f-46a7-b158-f5c9322eb076?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9c134b96-a37d-43b4-a371-aea87ae63dd9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T05:26:52.276Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3dd30c88-235d-4272-b028-9646749cacf6",
+    "title": "‘Designer baby’ start-ups test limits of biotech taboo",
+    "titleZh": "‘Designer baby’ start-ups test limits of biotech taboo",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3dd30c88-235d-4272-b028-9646749cacf6",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb02c4ea9-5c1f-4345-98f0-76bad62b985d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-25T05:27:59.340Z"
   }
 ]
