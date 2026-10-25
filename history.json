@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
-    "title": "Would You Press This Button?",
-    "titleZh": "你會按下這個按鈕嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18klein-pbmf/18klein-pbmf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-18T13:27:25.002Z"
-  },
-  {
     "id": "https://www.ft.com/content/35cc5cc6-f9b6-49cc-8fc2-bd61e09c8c40",
     "title": "Microsoft pulls plug on Nscale data centre deal",
     "titleZh": "微軟終止與 Nscale 的資料中心交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8c45639-926f-44f5-a324-39895d504cc0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-25T21:12:21.710Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3",
+    "title": "Toyota takes on Tesla and China in humanoid robot race",
+    "titleZh": "Toyota takes on Tesla and China in humanoid robot race",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-25T21:14:24.191Z"
   }
 ]
