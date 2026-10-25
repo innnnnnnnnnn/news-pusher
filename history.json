@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
-    "title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
-    "titleZh": "奧克拉荷馬州的家庭面臨有史以來最炎熱的夏天，以及一場電力危機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/00oklahoma-electricity-01-jmfh/00oklahoma-electricity-01-jmfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T13:30:09.375Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html",
     "title": "United’s C.E.O. Says It Should Cost More Not to Sit in the Middle Seat",
     "titleZh": "美聯航執行長表示，不坐中間座位應該要多付費",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/met-30-topper-01-pwzt/met-30-topper-01-pwzt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T16:03:52.089Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html",
+    "title": "María Corina Machado Returns to Venezuela",
+    "titleZh": "María Corina Machado Returns to Venezuela",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html",
+    "image": null,
+    "pushedAt": "2026-10-25T16:10:58.296Z"
   }
 ]
