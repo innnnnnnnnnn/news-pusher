@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-    "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-    "titleZh": "在韓國電視節目中唱歌、跳舞，還被人工智慧甩了",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-    "image": null,
-    "pushedAt": "2026-10-18T04:02:49.761Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-    "title": "America’s $10tn AI infrastructure boom is starting to fray",
-    "titleZh": "美國價值10兆美元的人工智慧基礎設施熱潮正開始顯現裂痕",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bd165b9-9b2e-4e8c-83f1-70e5b0dc9426.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-18T04:14:58.308Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a",
-    "title": "Global economy set for AI-driven surge, FT survey suggests",
-    "titleZh": "《金融時報》調查顯示，全球經濟將迎來由人工智慧驅動的強勁增長",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ce38078-6e17-4800-9c00-307ea8b5cfda.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-18T04:15:01.875Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
-    "title": "Anthropic turns to lawyers to help AI agents strike deals",
-    "titleZh": "Anthropic 尋求律師協助，以幫助 AI 代理達成交易",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0c5836a-e180-41a3-926e-d97eee0d614a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-18T04:15:05.613Z"
-  },
-  {
     "id": "https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93",
     "title": "The world’s fastest-growing cities are not where you think",
     "titleZh": "全球成長最快的城市，並非你所想的那樣",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-NEWPRESS-czkv/22BIZ-NEWPRESS-czkv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T09:33:47.224Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+    "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
+    "titleZh": "Introducing a New Way to Understand the Election: Times Voter Trends",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/us-estimates-2024-promo/us-estimates-2024-promo-mediumSquareAt3X.png",
+    "pushedAt": "2026-10-25T09:57:09.792Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
+    "title": "Latinos Are Now America’s Most Important Swing Voters",
+    "titleZh": "Latinos Are Now America’s Most Important Swing Voters",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-poll-latinos-kqzb/23pol-poll-latinos-kqzb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T09:57:22.089Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+    "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+    "titleZh": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/2026-10-16-national-poll-pa/2026-10-16-national-poll-pa-mediumSquareAt3X-v11.png",
+    "pushedAt": "2026-10-25T09:57:34.408Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
+    "title": "He Helped Deport 200 People. Now He Has Misgivings.",
+    "titleZh": "He Helped Deport 200 People. Now He Has Misgivings.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
+    "image": null,
+    "pushedAt": "2026-10-25T09:57:46.703Z"
   }
 ]
