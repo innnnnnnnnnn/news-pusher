@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
-    "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
-    "titleZh": "葉門戰火持續肆虐，胡塞武裝與沙烏地阿拉伯衝突造成的平民傷亡持續加劇",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-houthi-saudi-clashes-qvhk/17int-houthi-saudi-clashes-qvhk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T15:05:21.282Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
-    "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
-    "titleZh": "印度Z世代抗議領袖遭逮捕後獲准保釋",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-cockroach-twhc/17int-india-cockroach-twhc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T15:51:40.646Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
     "title": "Violent Protests Resurface in Albania: What to Know",
     "titleZh": "關於阿爾巴尼亞暴力抗議活動的相關資訊",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-25T04:06:56.918Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/africa/far-far-away.html",
+    "title": "Far, Far Away",
+    "titleZh": "Far, Far Away",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/africa/far-far-away.html",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-island-tristan-promo-1-chvq/00int-island-tristan-promo-1-chvq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T04:08:03.071Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+    "title": "What to Know as Serbia Votes for a New Parliament",
+    "titleZh": "What to Know as Serbia Votes for a New Parliament",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/world/europe/23vid-serbia-election-primer/23vid-serbia-election-primer-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T04:08:14.965Z"
   }
 ]
