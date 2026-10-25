@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
-    "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
-    "titleZh": "賓夕法尼亞州如何解析影響中期選舉的各項因素",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-pennsylvania-scrolly-01-kzhg/17pol-pennsylvania-scrolly-01-kzhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-17T15:05:18.163Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
     "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
     "titleZh": "葉門戰火持續肆虐，胡塞武裝與沙烏地阿拉伯衝突造成的平民傷亡持續加劇",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T03:14:18.028Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6",
+    "title": "Billionaire benevolence is booming, but it comes with strings",
+    "titleZh": "Billionaire benevolence is booming, but it comes with strings",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-25T04:06:56.918Z"
   }
 ]
