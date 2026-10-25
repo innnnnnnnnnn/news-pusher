@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23",
-    "title": "Saudi helicopter crash kills two troops near Yemen border",
-    "titleZh": "沙烏地阿拉伯一架直升機在也門邊境附近墜毀，造成兩名士兵喪生",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-18T11:40:15.070Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
     "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
     "titleZh": "胡塞武裝發動襲擊後，埃及國防高層承諾支持沙烏地阿拉伯",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-brazil-supreme-court-pwhl/00int-brazil-supreme-court-pwhl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T19:46:29.800Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html",
+    "title": "Modi’s Plan to Stop India’s Protests",
+    "titleZh": "Modi’s Plan to Stop India’s Protests",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-theworld-india-01-jlwz-promo/26int-theworld-india-01-jlwz-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T20:46:51.311Z"
   }
 ]
