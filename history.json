@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/17/opinion/ukraine-russian-culture.html",
-    "title": "Why I Canceled Russian Culture for Myself",
-    "titleZh": "我為何為自己「取消」了俄羅斯文化",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/17/opinion/ukraine-russian-culture.html",
-    "image": null,
-    "pushedAt": "2026-10-17T15:03:11.485Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
     "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
     "titleZh": "賓夕法尼亞州如何解析影響中期選舉的各項因素",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T01:17:20.790Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+    "title": "Italy’s Young Protesters Return to the Streets",
+    "titleZh": "Italy’s Young Protesters Return to the Streets",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T01:27:30.108Z"
   }
 ]
