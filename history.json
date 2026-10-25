@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
-    "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
-    "titleZh": "在以色列選情膠著之際，川普稱內塔尼亞胡為美國的最佳夥伴",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18dc-israel-elex-trump-gwkh/18dc-israel-elex-trump-gwkh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-18T15:28:04.025Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
     "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
     "titleZh": "以伊莉莎白·霍姆斯為主題的電影上映，超過 2,000 場次全數售罄",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/nyregion/tompkins-square-park-pull-up-bars-renovation.html",
     "image": "https://static01.nyt.com/images/2026/10/25/nyregion/25met-Tompkins-Bars/25met-Tompkins-Bars-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T22:34:39.517Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
+    "title": "The future of the Amazon rainforest could depend on who wins.",
+    "titleZh": "The future of the Amazon rainforest could depend on who wins.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
+    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-mediumSquareAt3X-v10.jpg",
+    "pushedAt": "2026-10-25T22:41:57.657Z"
   }
 ]
