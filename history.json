@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/article/france-student-protests-why.html",
-    "title": "Why Are There Protests in France?",
-    "titleZh": "為什麼法國會爆發抗議活動？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/article/france-student-protests-why.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T21:47:38.317Z"
-  },
-  {
     "id": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44",
     "title": "Trump’s bid to make America cheap again has failed",
     "titleZh": "川普讓美國重拾低成本的企圖已告失敗",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/obituaries/uriel-simon-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/21/obituaries/21obit-simon_top/21obit-simon_top-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-25T22:04:16.597Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent",
+    "title": "Lula has accused Meta of helping his opponent.",
+    "titleZh": "Lula has accused Meta of helping his opponent.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-brazil-elections-meta01-photo-jlgw/00int-brazil-elections-meta01-photo-jlgw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T22:16:56.514Z"
   }
 ]
