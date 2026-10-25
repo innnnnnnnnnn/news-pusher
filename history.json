@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/35cc5cc6-f9b6-49cc-8fc2-bd61e09c8c40",
-    "title": "Microsoft pulls plug on Nscale data centre deal",
-    "titleZh": "微軟終止與 Nscale 的資料中心交易",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/35cc5cc6-f9b6-49cc-8fc2-bd61e09c8c40?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-18T13:39:14.277Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/10/18/indians-rights-have-been-chipped-away-for-decades",
     "title": "Indians’ rights have been chipped away for decades",
     "titleZh": "數十年來，印第安人的權利不斷遭到侵蝕",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-25T21:14:24.191Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
+    "title": "A.I. videos flooded the internet in the run-up to the election.",
+    "titleZh": "A.I. videos flooded the internet in the run-up to the election.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
+    "image": null,
+    "pushedAt": "2026-10-25T21:26:36.767Z"
   }
 ]
