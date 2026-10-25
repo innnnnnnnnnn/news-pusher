@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761",
-    "title": "Egypt’s Sisi sets out plan for military to train his successors",
-    "titleZh": "埃及總統塞西提出軍方培訓其繼任者的計畫",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-18T14:15:59.417Z"
-  },
-  {
     "id": "https://www.nytimes.com/article/france-student-protests-why.html",
     "title": "Why Are There Protests in France?",
     "titleZh": "為什麼法國會爆發抗議活動？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-25T21:56:23.476Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/obituaries/uriel-simon-dead.html",
+    "title": "Uriel Simon, Biblical Scholar and ‘Noted Religious Dove,’ Dies at 97",
+    "titleZh": "Uriel Simon, Biblical Scholar and ‘Noted Religious Dove,’ Dies at 97",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/obituaries/uriel-simon-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/obituaries/21obit-simon_top/21obit-simon_top-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-25T22:04:16.597Z"
   }
 ]
