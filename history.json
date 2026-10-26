@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
-    "title": "Bartleby newsletter: Boomers, babies and bots",
-    "titleZh": "《巴特比》電子報：嬰兒潮世代、新生兒與機器人",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
-    "image": null,
-    "pushedAt": "2026-10-26T12:50:56.996Z"
-  },
-  {
     "id": "https://www.ft.com/content/8848d06c-c0fa-49ff-af08-880ef4f3ff21",
     "title": "India’s democracy once went looking for voters. Not any more",
     "titleZh": "印度的民主制度曾經主動爭取選民。如今已不再如此",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-un-ukraine-russia-1-jbfk/26int-un-ukraine-russia-1-jbfk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T20:19:47.139Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
+    "title": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
+    "titleZh": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26nat-lastditch-bwmg/26nat-lastditch-bwmg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T20:22:22.432Z"
   }
 ]
