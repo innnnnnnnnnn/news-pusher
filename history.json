@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/ft-seasonal-appeal",
-    "title": "FT Financial Literacy and Inclusion Campaign",
-    "titleZh": "《金融時報》金融素養與普惠金融運動",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/ft-seasonal-appeal?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T02:28:43.003Z"
-  },
-  {
     "id": "https://www.ft.com/content/e9f48a3f-f6d8-4b81-aca3-1b839119484e",
     "title": "Burnham always wants to look like he’s listening, especially when he isn’t",
     "titleZh": "伯納姆總是想讓別人覺得他在專心聆聽，尤其是當他其實根本沒在聽的時候",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-brazil-election-wtk-promo-jvmh/25int-brazil-election-wtk-promo-jvmh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T06:25:27.218Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cec7ecab-27fa-41ce-93f8-e6a6061599d1",
+    "title": "The rise and fall of the £150bn ‘diversified growth fund’ phenomenon",
+    "titleZh": "The rise and fall of the £150bn ‘diversified growth fund’ phenomenon",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cec7ecab-27fa-41ce-93f8-e6a6061599d1",
+    "image": null,
+    "pushedAt": "2026-10-26T06:35:48.119Z"
   }
 ]
