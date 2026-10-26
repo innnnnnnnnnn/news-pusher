@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
-    "title": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
-    "titleZh": "在「最後希望」健康診所，絕望、善意與對未來的擔憂交織",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
-    "image": "https://static01.nyt.com/images/2026/10/05/multimedia/00dc-IdahoHealth-lfbw/00dc-IdahoHealth-lfbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T09:56:51.235Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/19/nyregion/in-its-forever-war-on-rats-new-york-enlists-a-killing-machine.html",
-    "title": "New York City Has a Rat Killing Machine",
-    "titleZh": "紐約市擁有一台殺鼠機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/nyregion/in-its-forever-war-on-rats-new-york-enlists-a-killing-machine.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19met-rat-killing-machine--03-pjvf/19met-rat-killing-machine--03-pjvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T09:56:54.118Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html",
     "title": "Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico",
     "titleZh": "墨西哥外海一艘翻覆船隻，海岸警衛隊已中止搜救工作",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26xp-norwaytrump-2-htwm/26xp-norwaytrump-2-htwm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T14:18:53.251Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+    "title": "Meet Anthropic’s Seven Founders",
+    "titleZh": "Meet Anthropic’s Seven Founders",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+    "image": null,
+    "pushedAt": "2026-10-26T14:25:30.691Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/elections/democrats-senate-republicans-midterms.html",
+    "title": "In Fight for the Senate, Democrats Face a Once-in-a-Generation Test",
+    "titleZh": "In Fight for the Senate, Democrats Face a Once-in-a-Generation Test",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/elections/democrats-senate-republicans-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-senate-map-wzkp/00dc-senate-map-wzkp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T14:25:42.946Z"
   }
 ]
