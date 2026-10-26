@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ef0f6d42-4759-4ce8-8e40-acd83f0c64f1",
-    "title": "The best exhibitions to see in London this weekend",
-    "titleZh": "本週末在倫敦必看的最佳展覽",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ef0f6d42-4759-4ce8-8e40-acd83f0c64f1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T00:50:35.678Z"
-  },
-  {
     "id": "https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9",
     "title": "Violent protests multiply across Europe",
     "titleZh": "暴力抗議活動從法國蔓延至義大利和比利時",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
     "image": null,
     "pushedAt": "2026-10-26T18:26:45.499Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+    "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+    "titleZh": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-egypt-3-jwpm/26int-egypt-3-jwpm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T18:29:22.914Z"
   }
 ]
