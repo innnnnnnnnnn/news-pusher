@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-    "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
-    "titleZh": "法國極右翼趁機發難，騷亂令全國震驚",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-right-assess-jclh/19int-france-right-assess-jclh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T09:20:29.447Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
     "title": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
     "titleZh": "烏克蘭動用 F-16 戰機擊落俄羅斯的噴射動力無人機",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T13:25:54.360Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/business/brazil-markets-election-lula.html",
+    "title": "Brazilian Markets Convulse After Unlikely Election Result",
+    "titleZh": "Brazilian Markets Convulse After Unlikely Election Result",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/business/brazil-markets-election-lula.html",
+    "image": null,
+    "pushedAt": "2026-10-26T13:54:05.588Z"
   }
 ]
