@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c",
-    "title": "European telecoms groups join forces to challenge Musk’s Starlink",
-    "titleZh": "歐洲電信集團聯手挑戰馬斯克的「星鏈」",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T12:17:51.296Z"
-  },
-  {
     "id": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5",
     "title": "CME plans tungsten futures as demand for weapons rises",
     "titleZh": "隨著武器需求上升，芝加哥商品交易所（CME）計劃推出鎢期貨",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/083251a0-d5ab-48be-8295-41c9860963fd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T17:33:13.091Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
+    "title": "Russia has seized a Japanese journalist",
+    "titleZh": "Russia has seized a Japanese journalist",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
+    "image": null,
+    "pushedAt": "2026-10-26T17:38:49.703Z"
   }
 ]
