@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017",
-    "title": "US prosecutors allege Saudi royal links in OpenAI bugging case",
-    "titleZh": "美國檢方指控 OpenAI 竊聽案與沙烏地王室有關聯",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T16:16:14.975Z"
-  },
-  {
     "id": "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7",
     "title": "France’s riots expose the impotence of its political class",
     "titleZh": "法國的騷亂暴露了該國政治階層的無能",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T22:57:09.212Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+    "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+    "titleZh": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-venezuela-machado-fzkh/26int-venezuela-machado-fzkh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T23:14:17.532Z"
   }
 ]
