@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e09b009c-7ba1-4bf6-a329-937d38110ab4",
-    "title": "The sushi restaurant Tokyoites travel three hours to for lunch",
-    "titleZh": "這家壽司餐廳，讓東京人特地花三小時車程前來享用午餐",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e09b009c-7ba1-4bf6-a329-937d38110ab4",
-    "image": null,
-    "pushedAt": "2026-10-19T04:08:08.221Z"
-  },
-  {
     "id": "https://www.ft.com/content/441501cc-e88b-45aa-81d2-864d76971dec",
     "title": "A mother’s quest to find out how her daughter was poisoned by lead",
     "titleZh": "一位母親為查明女兒如何因鉛中毒而患病的歷程",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
     "image": null,
     "pushedAt": "2026-10-26T06:36:48.415Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606",
+    "title": "Singapore to store Saudi oil in rock caverns",
+    "titleZh": "Singapore to store Saudi oil in rock caverns",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T07:22:10.418Z"
   }
 ]
