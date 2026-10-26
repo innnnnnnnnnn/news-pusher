@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2f5e68e3-240d-4b77-87fe-2875932c0788",
-    "title": "Which is worse for the planet, your kitchen extension or your 4x4?",
-    "titleZh": "對地球來說，是你的廚房擴建工程還是你的四輪驅動車，哪個對環境的危害更大？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2f5e68e3-240d-4b77-87fe-2875932c0788",
-    "image": null,
-    "pushedAt": "2026-10-19T04:29:12.383Z"
-  },
-  {
-    "id": "https://www.ft.com/content/997a975e-dd70-4935-b2b8-2ba5bafa62d5",
-    "title": "Rise of crypto vaults channels billions of dollars into risky lending",
-    "titleZh": "加密貨幣保管庫的興起，將數十億美元導向高風險借貸",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/997a975e-dd70-4935-b2b8-2ba5bafa62d5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:29:14.470Z"
-  },
-  {
-    "id": "https://www.ft.com/content/76117a3b-2cd6-481b-b485-4b743627589d",
-    "title": "FirstFT: Macron rejects interior minister’s resignation",
-    "titleZh": "FirstFT：英格蘭銀行對巴克萊銀行展開審查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/76117a3b-2cd6-481b-b485-4b743627589d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T04:26:04.058Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/opinion/international-world/israel-us-liberals-zionism.html",
     "title": "There Is a Zionism That Needs the Support of Progressives",
     "titleZh": "有一種錫安主義需要進步派的支持",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
     "image": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T10:03:53.850Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
+    "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
+    "titleZh": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
+    "image": null,
+    "pushedAt": "2026-10-26T10:05:30.931Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+    "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+    "titleZh": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-drone-apaches-01-gpjt/25int-drone-apaches-01-gpjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T10:05:42.870Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
+    "title": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
+    "titleZh": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
+    "image": null,
+    "pushedAt": "2026-10-26T10:05:54.798Z"
   }
 ]
