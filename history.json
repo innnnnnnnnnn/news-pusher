@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b460256-2f85-485f-ba99-45f270fe3cad",
-    "title": "Indonesia’s market is dysfunctional, not uninvestable",
-    "titleZh": "印尼市場雖運作失靈，但並非無法投資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b460256-2f85-485f-ba99-45f270fe3cad?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T13:07:10.835Z"
-  },
-  {
     "id": "https://www.ft.com/content/22290706-ab59-4766-b604-ddff94a71bcf",
     "title": "Uber defeats High Court lawsuit brought by London’s black-cab drivers",
     "titleZh": "優步在高等法院擊敗了倫敦黑出租車司機提起的訴訟",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T18:07:53.981Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+    "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+    "titleZh": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/2026-10-26-anthropic-ipo-letter-index/2026-10-26-anthropic-ipo-letter-index-mediumSquareAt3X-v6.png",
+    "pushedAt": "2026-10-26T18:16:54.255Z"
   }
 ]
