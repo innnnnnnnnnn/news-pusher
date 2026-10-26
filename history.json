@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8",
-    "title": "Americans are unhappy. How will they vote in the midterms?",
-    "titleZh": "美國民眾感到不滿。他們將在中期選舉中如何投票？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:08:16.792Z"
-  },
-  {
     "id": "https://www.ft.com/content/85545be4-6f36-4ac6-9185-e715ccd5fab3",
     "title": "Degree apprenticeships plateau as employers confront increased hiring costs",
     "titleZh": "隨著雇主面臨日益增加的招聘成本，學位學徒制發展趨於停滯",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
     "image": null,
     "pushedAt": "2026-10-26T09:07:53.396Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+    "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+    "titleZh": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-jordan-attack-1-kcfq/26int-jordan-attack-1-kcfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T09:31:23.646Z"
   }
 ]
