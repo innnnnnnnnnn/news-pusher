@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/business/michigan-primary-disinformation-campaign.html",
-    "title": "U.S. Political Money Funnels to Indian Bots to Lure Voters",
-    "titleZh": "美國政治資金流向印度「機器人帳號」，用以誘使選民",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/business/michigan-primary-disinformation-campaign.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/business/19biz-india-disinfo-promo/19biz-india-disinfo-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T08:44:32.174Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
     "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
     "titleZh": "瑪麗亞·科里娜·馬查多談委內瑞拉的未來及其與川普政府的关系",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/cul-chris-brown-sentencing-cfvb/cul-chris-brown-sentencing-cfvb-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-10-26T12:43:34.989Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+    "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+    "titleZh": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-iran-diplomacy-vflg/26int-iran-diplomacy-vflg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T12:53:29.053Z"
   }
 ]
