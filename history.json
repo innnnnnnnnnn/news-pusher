@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1",
-    "title": "Crunch time for Brazilian politics",
-    "titleZh": "巴西政壇面臨關鍵時刻",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-21T17:37:33.300Z"
-  },
-  {
-    "id": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
-    "title": "Trump endorses Netanyahu ahead of Israeli elections",
-    "titleZh": "以色列大選前夕，川普表態支持內塔尼亞胡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
-    "image": null,
-    "pushedAt": "2026-10-18T17:15:25.469Z"
-  },
-  {
-    "id": "https://www.ft.com/content/873e7ef2-d3d6-4c30-b8f8-ee3e69d60138",
-    "title": "City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole",
-    "titleZh": "倫敦市議會正考慮調高稅率及削減服務，以填補 7,000 萬英鎊的預算缺口",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/873e7ef2-d3d6-4c30-b8f8-ee3e69d60138",
-    "image": null,
-    "pushedAt": "2026-10-18T18:11:35.216Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html",
     "title": "Albania’s Leader, Edi Rama, Denounces Violent Protests",
     "titleZh": "阿爾巴尼亞領導人埃迪·拉馬譴責暴力抗議活動",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html",
     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-michigan-wpqz/25dc-trump-michigan-wpqz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T02:55:17.693Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+    "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+    "titleZh": "Israeli Jews Across the Spectrum Face an Election of Fears",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-collapse-01-wgbz/26int-israel-collapse-01-wgbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T04:03:02.587Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
+    "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+    "titleZh": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-china-xi-purges-01-jlbc/26int-china-xi-purges-01-jlbc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T04:03:14.750Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html",
+    "title": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
+    "titleZh": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-Venice-soccer-01-bhwl/00int-Venice-soccer-01-bhwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T04:03:27.528Z"
   }
 ]
