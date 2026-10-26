@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/441501cc-e88b-45aa-81d2-864d76971dec",
-    "title": "A mother’s quest to find out how her daughter was poisoned by lead",
-    "titleZh": "一位母親為查明女兒如何因鉛中毒而患病的歷程",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/441501cc-e88b-45aa-81d2-864d76971dec?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:08:10.302Z"
-  },
-  {
     "id": "https://www.ft.com/content/3dae6c98-afeb-4b4c-9996-4279d4e2e3b2",
     "title": "Luxury ‘dupe’ retailer Quince enters UK market",
     "titleZh": "奢侈品「平價替代品」零售商 Quince 進軍英國市場",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38a695fb-1055-4a30-a368-28ae29af8289.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-26T09:04:58.597Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/business/why-some-people-are-paying-to-make-friends.html",
+    "title": "Why Some People Are Paying to Make Friends",
+    "titleZh": "Why Some People Are Paying to Make Friends",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/business/why-some-people-are-paying-to-make-friends.html",
+    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/FRIENDSHIP-APPS-01-whbz/FRIENDSHIP-APPS-01-whbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T09:05:35.276Z"
   }
 ]
