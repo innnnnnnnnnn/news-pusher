@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1faf0ed7-53ce-46a4-99c8-216e8e28b9ea",
-    "title": "Former chair of Monte dei Paschi accused of role in executive’s death",
-    "titleZh": "蒙特德帕斯基銀行前主席被指控涉入高管死亡案",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1faf0ed7-53ce-46a4-99c8-216e8e28b9ea?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T15:55:21.270Z"
-  },
-  {
     "id": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462",
     "title": "Could Anthropic’s IPO be a turning point for AI? You asked, we answered",
     "titleZh": "提出問題：Anthropic 的首次公開募股（IPO）會是人工智慧的轉捩點嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-france-students-1-bvfj/26int-france-students-1-bvfj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T22:24:50.996Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+    "title": "Don’t expect supersize profits from Anthropic any time soon",
+    "titleZh": "Don’t expect supersize profits from Anthropic any time soon",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+    "image": null,
+    "pushedAt": "2026-10-26T22:25:56.356Z"
   }
 ]
