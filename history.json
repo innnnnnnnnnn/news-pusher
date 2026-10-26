@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/business/electric-vw-bus-kindred-idbuzz.html",
-    "title": "The VW Bus, Now Electrified, Keeps on Truckin’",
-    "titleZh": "福斯露營車，如今已實現電動化，依然持續奔馳",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/business/electric-vw-bus-kindred-idbuzz.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/business/19wheels-microbus1/19wheels-microbus1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T06:52:26.631Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
     "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
     "titleZh": "一個價值一兆美元的產業如何洗錢非法黃金",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fc2e08b6-6adf-48b4-91a2-08d8183804d0?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T11:58:23.148Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f6296774-5bf9-4756-addf-f14cd829b093",
+    "title": "Riots brought Art Basel Paris to a close — is it a sign of things to come?",
+    "titleZh": "Riots brought Art Basel Paris to a close — is it a sign of things to come?",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f6296774-5bf9-4756-addf-f14cd829b093",
+    "image": null,
+    "pushedAt": "2026-10-26T12:04:24.181Z"
   }
 ]
