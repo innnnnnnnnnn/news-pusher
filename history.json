@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0",
-    "title": "FTSE 100 newcomer Ithaca warns of halt to investment if Rosebank blocked",
-    "titleZh": "剛入選富時100指數的伊薩卡公司警告，若羅斯班克項目遭阻撓，將暫停投資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T13:38:17.425Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-    "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
-    "titleZh": "最新氣候報告警告：加州的生活方式將面臨重大變動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T13:42:09.088Z"
-  },
-  {
     "id": "https://www.ft.com/content/ef0f6d42-4759-4ce8-8e40-acd83f0c64f1",
     "title": "The best exhibitions to see in London this weekend",
     "titleZh": "本週末在倫敦必看的最佳展覽",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
     "image": null,
     "pushedAt": "2026-10-26T18:23:01.411Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
+    "title": "Opinion newsletter: Why Indonesia is stuck at a roundabout",
+    "titleZh": "Opinion newsletter: Why Indonesia is stuck at a roundabout",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
+    "image": null,
+    "pushedAt": "2026-10-26T18:26:33.712Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
+    "title": "Russia has seized a Japanese journalist, freezing an icy relationship",
+    "titleZh": "Russia has seized a Japanese journalist, freezing an icy relationship",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
+    "image": null,
+    "pushedAt": "2026-10-26T18:26:45.499Z"
   }
 ]
