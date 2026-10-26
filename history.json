@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-    "title": "Trump Says Work on Disputed Golf Course Will Begin Immediately",
-    "titleZh": "川普表示，有爭議的高爾夫球場工程將立即展開",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-golf-lpbk/19dc-golf-lpbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T14:34:25.380Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/style/victorias-secret-fantasy-bra-sexy.html",
     "title": "At Victoria’s Secret’s 2026 Fashion Show, an Old Stereotype of Sexy",
     "titleZh": "維多利亞的秘密重推「夢幻文胸」——同時也重現了那種陳舊的「性感」刻板印象",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-numbers-vztf/26biz-anthropic-numbers-vztf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T19:22:29.709Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
+    "title": "How Scuffles at Trump Rallies Echo His Past Events",
+    "titleZh": "How Scuffles at Trump Rallies Echo His Past Events",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
+    "image": null,
+    "pushedAt": "2026-10-26T19:52:02.248Z"
   }
 ]
