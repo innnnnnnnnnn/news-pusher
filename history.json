@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8848d06c-c0fa-49ff-af08-880ef4f3ff21",
-    "title": "India’s democracy once went looking for voters. Not any more",
-    "titleZh": "印度的民主制度曾經主動爭取選民。如今已不再如此",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8848d06c-c0fa-49ff-af08-880ef4f3ff21",
-    "image": null,
-    "pushedAt": "2026-10-19T14:56:23.277Z"
-  },
-  {
     "id": "https://www.ft.com/content/15a049f3-b62e-40ed-b304-8a2452713338",
     "title": "Data centres need protection from drone warfare",
     "titleZh": "資料中心需要防範無人機攻擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26nat-lastditch-bwmg/26nat-lastditch-bwmg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T20:22:22.432Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+    "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+    "titleZh": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-un-israel-gaza-01-jbhv/26int-un-israel-gaza-01-jbhv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T20:34:43.738Z"
   }
 ]
