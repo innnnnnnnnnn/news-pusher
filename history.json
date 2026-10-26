@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72",
-    "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
-    "titleZh": "英格蘭銀行針對巴克萊銀行交易員被指不實陳述私人信貸風險敞口一事展開調查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a8b55af-e0de-418e-abea-3a5498c2c874.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-19T04:15:15.824Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903",
-    "title": "Hollywood recasts tech tycoons as bad billionaires",
-    "titleZh": "好萊塢將科技大亨重新塑造成反派億萬富翁",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc06e123b-0904-495d-bbdb-600d17f99c13.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-19T04:15:18.643Z"
-  },
-  {
-    "id": "https://www.ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7",
-    "title": "Japan leads mission to make first return trip to Mars",
-    "titleZh": "日本領銜執行任務，將實現人類首次往返火星之旅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:29:05.864Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f7b5695c-d326-427c-91a5-18b5a9e4567f",
-    "title": "Private equity group Charlesbank closes one of the biggest law firm deals",
-    "titleZh": "私募股權集團查爾斯班克（Charlesbank）完成一宗規模最大的律師事務所併購交易之一",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f7b5695c-d326-427c-91a5-18b5a9e4567f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:29:08.116Z"
-  },
-  {
-    "id": "https://www.ft.com/content/ffb638bf-6b1d-4b16-bdd2-ddfb89103d1b",
-    "title": "How to downsize your kitchen",
-    "titleZh": "如何縮小廚房規模",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ffb638bf-6b1d-4b16-bdd2-ddfb89103d1b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:29:10.228Z"
-  },
-  {
     "id": "https://www.ft.com/content/2f5e68e3-240d-4b77-87fe-2875932c0788",
     "title": "Which is worse for the planet, your kitchen extension or your 4x4?",
     "titleZh": "對地球來說，是你的廚房擴建工程還是你的四輪驅動車，哪個對環境的危害更大？",
@@ -8998,5 +8953,50 @@
     "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00int-ukraine-pow-care-promo/00int-ukraine-pow-care-top-wmlz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T10:01:58.990Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html",
+    "title": "The 11 Midterm Races That Could Shape the Progressive Movement’s Future",
+    "titleZh": "The 11 Midterm Races That Could Shape the Progressive Movement’s Future",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html",
+    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/2026-10-15-progressive-scenario-index/2026-10-15-progressive-scenario-index-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T10:03:06.053Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html",
+    "title": "Who’s Winning the Race for Congress?",
+    "titleZh": "Who’s Winning the Race for Congress?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html",
+    "image": null,
+    "pushedAt": "2026-10-26T10:03:18.004Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html",
+    "title": "Makes Rules for?",
+    "titleZh": "Makes Rules for?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html",
+    "image": null,
+    "pushedAt": "2026-10-26T10:03:29.958Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/magazine/how-silicon-valley-stole-the-future.html",
+    "title": "How Silicon Valley Stole the Future",
+    "titleZh": "How Silicon Valley Stole the Future",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/magazine/how-silicon-valley-stole-the-future.html",
+    "image": null,
+    "pushedAt": "2026-10-26T10:03:41.894Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+    "title": "What Happened to the Neanderthals?",
+    "titleZh": "What Happened to the Neanderthals?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T10:03:53.850Z"
   }
 ]
