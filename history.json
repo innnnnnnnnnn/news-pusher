@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
-    "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
-    "titleZh": "隨著亞伯達省就獨立問題舉行公投，省長丹妮爾·史密斯已同時得罪了雙方",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-canada-alberta-01-wkcp/19int-canada-alberta-01-wkcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T09:04:31.177Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
     "title": "Can This International Force Stop Haiti’s Gangs?",
     "titleZh": "這支國際部隊能遏止海地的幫派活動嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/dfc50238-3672-4a3d-af3a-dd674aea4710",
     "image": null,
     "pushedAt": "2026-10-26T12:22:46.802Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
+    "title": "Bartleby newsletter: In praise of praise",
+    "titleZh": "Bartleby newsletter: In praise of praise",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
+    "image": null,
+    "pushedAt": "2026-10-26T12:32:42.221Z"
   }
 ]
