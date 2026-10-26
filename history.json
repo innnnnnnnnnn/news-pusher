@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-    "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-    "titleZh": "官員表示，胡塞武裝襲擊導致葉門沙漠軍事營地數十人喪生",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/world/Yemen-strike/Yemen-strike-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-21T22:25:31.626Z"
-  },
-  {
     "id": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db",
     "title": "EU drops push for global ban on Arctic drilling",
     "titleZh": "歐盟放棄推動全球禁止北極鑽探的倡議",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7741d7ac-0e57-4736-9228-2572c8256a6d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-26T21:53:33.686Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348",
+    "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
+    "titleZh": "Trump offers $1mn reward for tips leading to election fraud conviction",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F09a9c0af-2144-4198-b6c2-cb75a071baf3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-26T21:59:00.088Z"
   }
 ]
