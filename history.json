@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/briefing/utility-bills.html",
-    "title": "A Bad Combination",
-    "titleZh": "糟糕的組合",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/briefing/utility-bills.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/19themorning-nl-OKC2/19themorning-nl-OKC2-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T10:44:55.216Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/asia/amelia-earhart-plane-search-explained.html",
     "title": "What to Know About the Search for Amelia Earhart’s Plane",
     "titleZh": "關於尋找艾米莉亞·埃爾哈特飛機的相關資訊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/306b6168-e8be-4781-82e3-d5dea8bc4de2?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T14:54:41.367Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/politics/maine-midterms-platner-jackson-collins.html",
+    "title": "In Maine, an ‘Oyster Thug’s’ Struggle to Get Over Graham Platner",
+    "titleZh": "In Maine, an ‘Oyster Thug’s’ Struggle to Get Over Graham Platner",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/politics/maine-midterms-platner-jackson-collins.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-lee-promo-2-lcmz/26dc-lee-promo-2-lcmz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T15:55:38.784Z"
   }
 ]
