@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3dae6c98-afeb-4b4c-9996-4279d4e2e3b2",
-    "title": "Luxury ‘dupe’ retailer Quince enters UK market",
-    "titleZh": "奢侈品「平價替代品」零售商 Quince 進軍英國市場",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3dae6c98-afeb-4b4c-9996-4279d4e2e3b2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:08:12.515Z"
-  },
-  {
-    "id": "https://www.ft.com/content/af6f84d7-b134-4181-84f3-7811c369f306",
-    "title": "Five things business wants from the Budget",
-    "titleZh": "企業對預算案的五項期待",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/af6f84d7-b134-4181-84f3-7811c369f306?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:08:14.616Z"
-  },
-  {
     "id": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8",
     "title": "Americans are unhappy. How will they vote in the midterms?",
     "titleZh": "美國民眾感到不滿。他們將在中期選舉中如何投票？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/26/business/why-some-people-are-paying-to-make-friends.html",
     "image": "https://static01.nyt.com/images/2026/10/16/multimedia/FRIENDSHIP-APPS-01-whbz/FRIENDSHIP-APPS-01-whbz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T09:05:35.276Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+    "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+    "titleZh": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+    "image": null,
+    "pushedAt": "2026-10-26T09:07:41.403Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
+    "title": "5 Hotels That Celebrate Music",
+    "titleZh": "5 Hotels That Celebrate Music",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
+    "image": null,
+    "pushedAt": "2026-10-26T09:07:53.396Z"
   }
 ]
