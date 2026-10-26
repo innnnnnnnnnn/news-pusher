@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/magazine/penelope-cruz-acting-career.html",
-    "title": "How Penélope Cruz Masterminded One of the Most Versatile Careers in Hollywood",
-    "titleZh": "佩內洛普·克魯茲如何策劃出好萊塢最多元化的演藝生涯之一",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/magazine/penelope-cruz-acting-career.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-cruz-02/01mag-cruz-02-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T16:09:56.016Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/19/climate/tree-pandemics-northeast-forests.html",
-    "title": "The Overlapping Plagues Quietly Devastating American Forests",
-    "titleZh": "接踵而至的災難正悄無聲息地摧毀美國的森林",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/climate/tree-pandemics-northeast-forests.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/19CLI-TREE-PLAGUES-stillpromo/19CLI-TREE-PLAGUES-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T16:09:59.126Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
-    "title": "Supreme Court to Hear New Case on Race and School Admissions",
-    "titleZh": "最高法院將審理一宗關於種族與大學入學的新案件",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-scotus-tvpk/19dc-scotus-tvpk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T16:10:01.493Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-    "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
-    "titleZh": "肯亞法院裁定某教派領袖犯有集體謀殺罪",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-kenya-cult-ruling-02-wfgl/19int-kenya-cult-ruling-02-wfgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T02:58:01.381Z"
-  },
-  {
     "id": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017",
     "title": "US prosecutors allege Saudi royal links in OpenAI bugging case",
     "titleZh": "美國檢方指控 OpenAI 竊聽案與沙烏地王室有關聯",
@@ -8998,5 +8962,41 @@
     "url": "https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4935a04-46b0-4903-8259-0337a120d716.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-26T22:35:27.271Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889",
+    "title": "England captain Harry Kane wins Ballon d’Or",
+    "titleZh": "England captain Harry Kane wins Ballon d’Or",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T22:56:33.256Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d",
+    "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+    "titleZh": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T22:56:45.183Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154",
+    "title": "UK needs more powers to intervene when telecoms providers fail, minister says",
+    "titleZh": "UK needs more powers to intervene when telecoms providers fail, minister says",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154",
+    "image": null,
+    "pushedAt": "2026-10-26T22:56:57.120Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc",
+    "title": "FirstFT: Anthropic unveils long-awaited IPO prospectus",
+    "titleZh": "FirstFT: Anthropic unveils long-awaited IPO prospectus",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T22:57:09.212Z"
   }
 ]
