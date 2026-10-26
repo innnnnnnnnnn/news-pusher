@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/opinion/kemper-ephron-nyt-175.html",
-    "title": "Ellie Kemper: Nora Ephron Wrote to Amuse Herself",
-    "titleZh": "艾莉·肯珀：諾拉·艾芙倫寫作只是為了取樂自己",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/opinion/kemper-ephron-nyt-175.html",
-    "image": null,
-    "pushedAt": "2026-10-19T09:14:02.372Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
     "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
     "titleZh": "法國極右翼趁機發難，騷亂令全國震驚",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-meta-spacex-ai-zhlv/26Biz-meta-spacex-ai-zhlv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T13:23:49.260Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+    "title": "Anthropic Reveals 14-Fold Increase in Growth as It Prepares for Blockbuster I.P.O.",
+    "titleZh": "Anthropic Reveals 14-Fold Increase in Growth as It Prepares for Blockbuster I.P.O.",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00biz-anthropic-finances-hfo-2-mjwl/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T13:25:54.360Z"
   }
 ]
