@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f4e863f3-e23f-4f0f-a693-f4c3f5d9cda2",
-    "title": "French government in crisis mode after a weekend of riots",
-    "titleZh": "經歷了週末的騷亂後，法國政府進入危機應變模式",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f4e863f3-e23f-4f0f-a693-f4c3f5d9cda2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-19T04:08:23.406Z"
-  },
-  {
     "id": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72",
     "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
     "titleZh": "英格蘭銀行針對巴克萊銀行交易員被指不實陳述私人信貸風險敞口一事展開調查",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/dac9072f-1d8b-45d7-895c-2e33562cd486?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T09:55:02.390Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
+    "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+    "titleZh": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
+    "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00int-ukraine-pow-care-promo/00int-ukraine-pow-care-top-wmlz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T10:01:58.990Z"
   }
 ]
