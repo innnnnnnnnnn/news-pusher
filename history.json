@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
-    "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
-    "titleZh": "澤連斯基表示，川普正施壓烏克蘭向俄羅斯投降",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-zelensky-trump-01-kwtp/19int-zelensky-trump-01-kwtp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-21T19:18:42.074Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/us/politics/midterms-elections-senate-house-congress.html",
     "title": "Midterm Elections: Who Is Winning the Race for Congress?",
     "titleZh": "期中選舉：誰在國會席位爭奪戰中佔上風？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
     "image": "https://static01.nyt.com/images/2026/10/26/obituaries/26obit-koenig/26obit-koenig-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T17:42:05.465Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+    "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+    "titleZh": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26serbia-analysis--01-mvtl/26serbia-analysis--01-mvtl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T17:44:10.340Z"
   }
 ]
