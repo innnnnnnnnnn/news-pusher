@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
-    "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
-    "titleZh": "澳洲總理表示，國會議員海倫·海恩斯遭襲受傷",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-oz-lawmaker-gktw/19int-oz-lawmaker-gktw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T09:45:34.185Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html",
     "title": "Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About it.",
     "titleZh": "俄亥俄州的共和黨人對投票率感到擔憂。以下是他們為此採取的措施。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/world/europe/venice-soccer-venezia-fc-italy.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-Venice-soccer-01-bhwl/00int-Venice-soccer-01-bhwl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T14:03:40.969Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d5021cdf-816e-4cb9-bbf9-e4ba816a004f",
+    "title": "Plan for AI-run companies challenged by US lawmakers",
+    "titleZh": "Plan for AI-run companies challenged by US lawmakers",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d5021cdf-816e-4cb9-bbf9-e4ba816a004f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T14:06:46.211Z"
   }
 ]
