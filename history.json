@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e9f48a3f-f6d8-4b81-aca3-1b839119484e",
-    "title": "Burnham always wants to look like he’s listening, especially when he isn’t",
-    "titleZh": "伯納姆總是想讓別人覺得他在專心聆聽，尤其是當他其實根本沒在聽的時候",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e9f48a3f-f6d8-4b81-aca3-1b839119484e",
-    "image": null,
-    "pushedAt": "2026-10-19T03:05:58.529Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
-    "title": "Larry David Mocks the D.S.A. Some Are Not Amused.",
-    "titleZh": "拉里·大衛嘲諷「民主社會主義者聯盟」（D.S.A.），但有些人並不覺得好笑。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18pol-david-dsa-vlwm/18pol-david-dsa-vlwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T03:21:13.104Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/18/us/oj-simpson-white-bronco-police-chase.html",
-    "title": "June 17, 1994: Millions Watched Police Chase O.J. Simpson in a Bronco",
-    "titleZh": "1994年6月17日：數百萬人目睹警方駕駛布朗科追捕O.J.辛普森",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-white-bronco-police-chase.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18nat-oj-bronco-jgfc/18nat-oj-bronco-jgfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T04:03:18.231Z"
-  },
-  {
     "id": "https://www.ft.com/content/e09b009c-7ba1-4bf6-a329-937d38110ab4",
     "title": "The sushi restaurant Tokyoites travel three hours to for lunch",
     "titleZh": "這家壽司餐廳，讓東京人特地花三小時車程前來享用午餐",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/cec7ecab-27fa-41ce-93f8-e6a6061599d1",
     "image": null,
     "pushedAt": "2026-10-26T06:35:48.119Z"
+  },
+  {
+    "id": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0",
+    "title": "Oil price falls on Qatari mediation push",
+    "titleZh": "Oil price falls on Qatari mediation push",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T06:36:24.571Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5476d1af-0208-485e-9564-58d82dfdaa4c",
+    "title": "Vučić’s defeat opens door for Serbia to reheat frigid EU ties",
+    "titleZh": "Vučić’s defeat opens door for Serbia to reheat frigid EU ties",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5476d1af-0208-485e-9564-58d82dfdaa4c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-26T06:36:36.492Z"
+  },
+  {
+    "id": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+    "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+    "titleZh": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+    "image": null,
+    "pushedAt": "2026-10-26T06:36:48.415Z"
   }
 ]
