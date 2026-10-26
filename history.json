@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-    "title": "France Officials Acknowledge ‘Failure’ Around Riots",
-    "titleZh": "法國官員承認在騷亂事件中「失職」",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-protests-01-tgvc/19int-france-protests-01-tgvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T11:53:57.201Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
     "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
     "titleZh": "以色列警方因約旦河西岸發生定居者暴力襲擊事件，拘留10人",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4fb0c89f-a620-4d5f-bee5-9ff9164ca679",
     "image": null,
     "pushedAt": "2026-10-26T16:25:46.672Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
+    "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
+    "titleZh": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26POL-paxton-lifestyle-pqbh/26POL-paxton-lifestyle-pqbh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T16:46:54.320Z"
   }
 ]
