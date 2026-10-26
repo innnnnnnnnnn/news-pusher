@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
-    "title": "How Did Life Arise? Three Turning Points in Early Evolution",
-    "titleZh": "生命是如何誕生的？早期演化中的三個轉捩點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19SCI-UNKNOWNS-ORIGINS-top-gbkw/19SCI-UNKNOWNS-ORIGINS-top-gbkw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-19T09:04:38.243Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/business/michigan-primary-disinformation-campaign.html",
     "title": "U.S. Political Money Funnels to Indian Bots to Lure Voters",
     "titleZh": "美國政治資金流向印度「機器人帳號」，用以誘使選民",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/cf0ec693-fd48-483d-b309-e8b7b48e8f05?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T12:35:15.078Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
+    "title": "Chris Brown Gets Suspended Sentence Over London Nightclub Assault",
+    "titleZh": "Chris Brown Gets Suspended Sentence Over London Nightclub Assault",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/cul-chris-brown-sentencing-cfvb/cul-chris-brown-sentencing-cfvb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-10-26T12:43:34.989Z"
   }
 ]
