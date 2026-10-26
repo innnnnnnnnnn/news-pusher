@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html",
-    "title": "Albania’s Leader, Edi Rama, Denounces Violent Protests",
-    "titleZh": "阿爾巴尼亞領導人埃迪·拉馬譴責暴力抗議活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-albania-unrest-bwtk/18int-albania-unrest-bwtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-18T18:15:18.915Z"
-  },
-  {
     "id": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4",
     "title": "US army chief in Asia calls for show of enhanced military muscle",
     "titleZh": "美軍駐亞太地區指揮官呼籲展現更強大的軍事實力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-Venice-soccer-01-bhwl/00int-Venice-soccer-01-bhwl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T04:03:27.528Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html",
+    "title": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
+    "titleZh": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html",
+    "image": null,
+    "pushedAt": "2026-10-26T04:18:17.316Z"
   }
 ]
