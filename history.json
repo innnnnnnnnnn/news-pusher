@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d",
-    "title": "Saudi Arabia to postpone in-person ‘Davos in the desert’ event after Houthi attacks",
-    "titleZh": "沙烏地阿拉伯因胡塞武裝襲擊，將推遲舉辦實體版「沙漠達沃斯」活動",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08750cf7-7298-4dbe-af53-1ac4ed7922c3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-19T14:31:18.437Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
     "title": "Trump Says Work on Disputed Golf Course Will Begin Immediately",
     "titleZh": "川普表示，有爭議的高爾夫球場工程將立即展開",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8868926c-3ee2-45e8-9705-0cb195fcc493?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-26T19:10:03.705Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+    "title": "7 Numbers That Explain Anthropic’s Business",
+    "titleZh": "7 Numbers That Explain Anthropic’s Business",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-numbers-vztf/26biz-anthropic-numbers-vztf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T19:22:29.709Z"
   }
 ]
