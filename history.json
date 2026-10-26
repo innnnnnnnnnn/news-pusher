@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/us/politics/whos-winning-the-race-for-congress.html",
-    "title": "Who’s Winning the Race for Congress?",
-    "titleZh": "國會選戰中誰佔上風？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/us/politics/whos-winning-the-race-for-congress.html",
-    "image": "https://static01.nyt.com/images/2026/10/18/us/sotr-18oct-promo/sotr-18oct-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T09:56:48.730Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
     "title": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
     "titleZh": "在「最後希望」健康診所，絕望、善意與對未來的擔憂交織",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feab171e9-c10d-4b6e-a84a-6ba5649fa4e9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-26T14:16:48.279Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+    "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+    "titleZh": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26xp-norwaytrump-2-htwm/26xp-norwaytrump-2-htwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T14:18:53.251Z"
   }
 ]
