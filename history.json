@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
-    "title": "Does China really prize AI speed over safety?",
-    "titleZh": "中國真的更重視人工智慧的發展速度，而非安全性嗎？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
-    "image": null,
-    "pushedAt": "2026-10-26T14:43:14.486Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
     "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
     "titleZh": "沙烏地阿拉伯因胡塞武裝襲擊而推遲外國機構投資者（FII）投資活動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T21:59:35.675Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+    "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+    "titleZh": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-comey-2-vczw/26dc-comey-2-vczw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-26T22:07:30.349Z"
   }
 ]
