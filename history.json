@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html",
-    "title": "Anthropic’s I.P.O. Charity",
-    "titleZh": "Anthropic 的首次公開募股（IPO）慈善活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19db-anthropic-bjft/19db-anthropic-bjft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T08:46:05.396Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
     "title": "France Officials Acknowledge ‘Failure’ Around Riots",
     "titleZh": "法國官員承認在騷亂事件中「失職」",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/nyregion/maurene-comey-firing-doj-trump-epstein.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26met-comey-qfkz/26met-comey-qfkz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-26T16:20:44.411Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4fb0c89f-a620-4d5f-bee5-9ff9164ca679",
+    "title": "Tens of thousands of Israelis fly home for pivotal election",
+    "titleZh": "Tens of thousands of Israelis fly home for pivotal election",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4fb0c89f-a620-4d5f-bee5-9ff9164ca679",
+    "image": null,
+    "pushedAt": "2026-10-26T16:25:46.672Z"
   }
 ]
