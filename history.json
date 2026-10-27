@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-    "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
-    "titleZh": "檢方表示，沙烏地阿拉伯曾協助一名被指控在 OpenAI 安裝竊聽裝置的工程師的家人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T18:37:26.626Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
     "title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
     "titleZh": "克里斯蒂安·阿曼普表示，在為 CNN 服務 43 年後，她將離開該台",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b4feb29-aa70-4c92-acdb-f953da0da412.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-27T01:01:34.691Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a",
+    "title": "Channel 4 strikes streaming deal with Disney",
+    "titleZh": "Channel 4 strikes streaming deal with Disney",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-27T01:23:30.782Z"
   }
 ]
