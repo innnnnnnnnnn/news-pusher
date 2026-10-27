@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
-    "title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
-    "titleZh": "克里斯蒂安·阿曼普表示，在為 CNN 服務 43 年後，她將離開該台",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-amanpour-btmz/19biz-amanpour-btmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T13:00:14.526Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html",
     "title": "It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.",
     "titleZh": "這只是麵包上的切片起司。卻讓哥本哈根為之瘋狂。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-27T01:23:30.782Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
+    "title": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
+    "titleZh": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-golf-mjgw/00dc-golf-mjgw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-27T01:37:41.819Z"
   }
 ]
