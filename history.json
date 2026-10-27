@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/opinion/beef-prices-cattle-farmers.html",
-    "title": "Why There’s No Relief From High Beef Prices",
-    "titleZh": "為何牛肉價格居高不下，仍無緩解跡象",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/opinion/beef-prices-cattle-farmers.html",
-    "image": null,
-    "pushedAt": "2026-10-19T21:02:39.590Z"
-  },
-  {
     "id": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866",
     "title": "New York pensions chief says private equity firm sought to expense jet use",
     "titleZh": "紐約退休金管理局局長表示，某私募股權公司曾試圖將私人噴射機的使用費用列為支出",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
     "image": null,
     "pushedAt": "2026-10-27T05:05:08.274Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/opinion/houthis-yemen-saudi-arabia.html",
+    "title": "What It Will Take to Defeat the Houthis",
+    "titleZh": "What It Will Take to Defeat the Houthis",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/27/opinion/houthis-yemen-saudi-arabia.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/opinion/27alsaud/27alsaud-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-27T05:06:16.438Z"
   }
 ]
