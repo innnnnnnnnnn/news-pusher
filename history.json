@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html",
-    "title": "U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says",
-    "titleZh": "據其家屬表示，一名美國公民在遭移民及海關執法局（ICE）拘留後被送醫治療",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ice-citizen-sub-khpq/19nat-ice-citizen-sub-khpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T20:47:31.943Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html",
     "title": "Deaths at Danjiri Float Festival Prompt Questions in Japan",
     "titleZh": "「丹吉里花車祭」釀成死亡事件，引發日本社會質疑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fd23db26-a45b-4a98-b771-4234a30b7937?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5277a75a-2ac6-4686-a123-3193d43d7caf.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-27T04:34:13.957Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d3a3ee17-7f3f-48b8-af0b-c69a92361a84",
+    "title": "Anthropic details ‘existential risks to humanity’ in IPO filing",
+    "titleZh": "Anthropic details ‘existential risks to humanity’ in IPO filing",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d3a3ee17-7f3f-48b8-af0b-c69a92361a84?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-27T04:47:34.780Z"
   }
 ]
