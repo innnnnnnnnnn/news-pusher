@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html",
-    "title": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
-    "titleZh": "華盛頓局勢動盪加劇之際，川普為共和黨人助選",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html",
-    "image": null,
-    "pushedAt": "2026-10-19T20:42:35.957Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html",
-    "title": "The Failures of Emmanuel Macron",
-    "titleZh": "艾曼紐·馬克宏的失敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html",
-    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-theworld-france-macron-01-zwgt-promo/20int-theworld-france-macron-01-zwgt-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T06:09:35.870Z"
-  },
-  {
     "id": "https://www.ft.com/content/617fb017-e08e-4e37-abac-a38731b2de3c",
     "title": "South Africa’s president eyes trade with China and India as US ties sour",
     "titleZh": "隨著美南非關係惡化，南非總統將目光投向與中國及印度的貿易往來",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-king-charles-abroad-01-chbj/27int-uk-king-charles-abroad-01-chbj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-27T04:03:59.583Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
+    "title": "Gaze at the Cosmic Dawn in Dizzying Detail",
+    "titleZh": "Gaze at the Cosmic Dawn in Dizzying Detail",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
+    "image": null,
+    "pushedAt": "2026-10-27T04:05:36.364Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441",
+    "title": "Global markets rise as AI trade regains steam",
+    "titleZh": "Global markets rise as AI trade regains steam",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5738c6e0-3991-4141-9d2d-ef91ddfbf843.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-27T04:05:49.152Z"
   }
 ]
