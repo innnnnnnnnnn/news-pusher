@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4f466ef0-04ea-4bbb-89f7-927f2a4b2f54",
-    "title": "UK Treasury expected to reignite ‘Project Fear’ row with EU study",
-    "titleZh": "英國財政部預計將憑藉一份歐盟研究報告，重新點燃「恐懼計畫」爭議",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4f466ef0-04ea-4bbb-89f7-927f2a4b2f54?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-20T04:03:53.095Z"
-  },
-  {
     "id": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16",
     "title": "Can Africa outgrow China?",
     "titleZh": "非洲的經濟成長能否超越中國？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a39295a1-b91d-4b35-9d0f-056bfc320483",
     "image": null,
     "pushedAt": "2026-10-27T06:09:26.206Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/oleshky-cease-fire.html",
+    "title": "What to Know About the Cease-Fire for a Besieged Ukrainian City",
+    "titleZh": "What to Know About the Cease-Fire for a Besieged Ukrainian City",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/oleshky-cease-fire.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27uktaine-Oleshky-1-mjpq/27uktaine-Oleshky-1-mjpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-27T06:38:26.015Z"
   }
 ]
