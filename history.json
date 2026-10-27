@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html",
-    "title": "It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.",
-    "titleZh": "這只是麵包上的切片起司。卻讓哥本哈根為之瘋狂。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16FD-COPENHAGEN-BREAD-01-zqmw/16FD-COPENHAGEN-BREAD-01-zqmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-19T20:22:24.540Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html",
     "title": "Mahmoud Khalil Appeals to Supreme Court to Halt Deportation",
     "titleZh": "馬哈茂德·哈利勒向最高法院提出上訴，要求停止驅逐出境",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-golf-mjgw/00dc-golf-mjgw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-27T01:37:41.819Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2eed6610-6ab0-4682-b754-3e673bc4d779",
+    "title": "India moves to tweak jobs data",
+    "titleZh": "India moves to tweak jobs data",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2eed6610-6ab0-4682-b754-3e673bc4d779?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-27T03:01:15.105Z"
   }
 ]
