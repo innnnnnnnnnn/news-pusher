@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5",
-    "title": "AI debt worries spark surge in default insurance trading",
-    "titleZh": "對人工智慧債務的擔憂引發違約保險交易量激增",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-20T04:03:57.501Z"
-  },
-  {
     "id": "https://www.ft.com/content/dec723c9-54d5-407c-a275-f302344feeac",
     "title": "Why the UK government is living on borrowed time",
     "titleZh": "為何英國政府已岌岌可危",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4f86dcfa-c225-4acf-a0ca-a4b90151f040?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-27T06:55:26.882Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+    "title": "Jordan Airstrikes On Syria Kill Seven Civilians, Syrian State Media Says",
+    "titleZh": "Jordan Airstrikes On Syria Kill Seven Civilians, Syrian State Media Says",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-jordan-strikes-wkql/27int-jordan-strikes-wkql-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-27T08:05:27.859Z"
   }
 ]
