@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d8e3ca1c-ef96-4148-9ca2-49d48f1604b8",
-    "title": "London credit hedge fund Arini’s losses mount",
-    "titleZh": "倫敦信用對沖基金 Arini 的虧損持續擴大",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d8e3ca1c-ef96-4148-9ca2-49d48f1604b8?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F571a17a8-bd83-4c79-8156-b81eb2d4e939.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T21:34:59.608Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89",
-    "title": "Fixing Britain’s welfare state and the limits of AI policymaking",
-    "titleZh": "修復英國的福利國家體系與人工智慧政策制定的局限",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T16:47:06.380Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/10/22/china-wants-to-revive-the-spirit-of-the-long-march",
     "title": "China wants to revive the spirit of the Long March",
     "titleZh": "中國希望重振長征精神",
@@ -6099,7 +6081,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
     "image": null,
-    "pushedAt": "2026-10-29T19:13:52.678Z"
+    "pushedAt": "2026-10-29T21:35:37.142Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-29T21:34:41.249Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
+    "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
+    "titleZh": "一名水手從美國航空母艦上跳下林肯.海軍懲罰了他。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/dc-sailor-promo-fqgm/dc-sailor-promo-fqgm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:36:07.045Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
+    "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
+    "titleZh": "赫格斯解雇了陸軍高級將領，他指責他向媒體洩露訊息",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-general-fired-bzpw/29dc-general-fired-bzpw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:36:12.604Z"
   }
 ]
