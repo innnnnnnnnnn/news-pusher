@@ -43,17 +43,22 @@ export default function Home() {
       })
       .catch(err => console.warn('Failed to load sites:', err));
 
-    // Load Subscriptions
-    fetch('/api/subscriptions')
-      .then(r => r.json())
-      .then(data => {
-        if (data.subscriptions && data.subscriptions.length > 0) {
-          const subsSet = new Set(data.subscriptions);
-          setSubscriptions(subsSet);
-          localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
-        }
-      })
-      .catch(err => console.warn('Failed to load subscriptions:', err));
+    // Load Subscriptions (only fallback to API if user has no local customization)
+    try {
+      const hasLocalSubs = localStorage.getItem('np_subscriptions');
+      if (!hasLocalSubs) {
+        fetch('/api/subscriptions')
+          .then(r => r.json())
+          .then(data => {
+            if (data.subscriptions && data.subscriptions.length > 0) {
+              const subsSet = new Set(data.subscriptions);
+              setSubscriptions(subsSet);
+              localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
+            }
+          })
+          .catch(err => console.warn('Failed to load subscriptions:', err));
+      }
+    } catch {}
 
     // Load Config
     fetch('/api/config')
