@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
-    "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
-    "titleZh": "儘管面臨輿論反彈，范斯仍為拉馬斯瓦米那則以阿克頓母親為主角的廣告辯護",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-ramaswamy-ad-topart-vqzg/21nat-ramaswamy-ad-topart-vqzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T09:54:34.796Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
-    "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
-    "titleZh": "澳洲動物園為巨型鳥類牽線，而那些巨大的綠色蛋便是明證",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21xp-egg-04/21xp-egg-04-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T09:11:14.982Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
     "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
     "titleZh": "馬克·祖克柏如何推動 Meta 協助他規避加州擬議的財富稅",
@@ -7107,7 +7089,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
     "image": null,
-    "pushedAt": "2026-10-29T18:47:01.898Z"
+    "pushedAt": "2026-10-29T20:09:40.701Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
@@ -7116,7 +7098,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-russia-tower-01-mwcj/29int-russia-tower-01-mwcj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:47:07.065Z"
+    "pushedAt": "2026-10-29T20:10:07.413Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
@@ -7125,7 +7107,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
     "image": "https://static01.nyt.com/images/2026/10/28/travel/28trav101-races-illo/28trav101-races-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:47:11.091Z"
+    "pushedAt": "2026-10-29T20:10:35.016Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
     "image": null,
     "pushedAt": "2026-10-29T20:09:11.501Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb",
+    "title": "Intel stock falls 17% as it forecasts weaker chip sales",
+    "titleZh": "英特爾預期晶片銷售疲軟，股價下跌 17%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T20:11:04.005Z"
+  },
+  {
+    "id": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66",
+    "title": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+    "titleZh": "埃克森美孚老闆因安全疑慮退出海灣能源會議",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T20:11:08.663Z"
   }
 ]
