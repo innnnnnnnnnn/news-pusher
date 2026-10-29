@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11",
-    "title": "Europe’s underrated digital trailblazing",
-    "titleZh": "歐洲被低估的數位開創成就",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T23:09:06.298Z"
-  },
-  {
-    "id": "https://www.economist.com/leaders/2026/10/22/the-agony-of-liberal-europe",
-    "title": "The agony of liberal Europe",
-    "titleZh": "自由派歐洲的苦痛",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/10/22/the-agony-of-liberal-europe",
-    "image": null,
-    "pushedAt": "2026-10-27T07:23:23.864Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
     "title": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
     "titleZh": "更高、更快、更刺激：雲霄飛車是否變得過於極限了？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-29T23:40:12.079Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "title": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+    "titleZh": "通膨令升息押注堅定，金價穩定在 4,000 美元附近",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "image": null,
+    "pushedAt": "2026-10-29T23:40:43.485Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
+    "title": "JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens",
+    "titleZh": "摩根大通資產預計隨著全球推動的深入，人民幣將上漲 10%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
+    "image": null,
+    "pushedAt": "2026-10-29T23:40:46.912Z"
   }
 ]
