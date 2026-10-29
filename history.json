@@ -1,302 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-    "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-    "titleZh": "通用汽車（G.M.）希望利用人工智慧（A.I.），在最短兩年內完成新車款的設計。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T07:51:33.920Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
-    "title": "Everything Feels So Expensive. Here’s What’s Really Going On.",
-    "titleZh": "一切都感覺好貴。這背後究竟是怎麼一回事？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html",
-    "image": null,
-    "pushedAt": "2026-10-22T04:51:24.249Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
-    "title": "How the 2010s remade business",
-    "titleZh": "2010年代如何重塑商界",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
-    "image": null,
-    "pushedAt": "2026-10-27T06:35:17.498Z"
-  },
-  {
-    "id": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
-    "title": "What Putin Gains From Releasing an American Prisoner",
-    "titleZh": "普丁釋放一名美國囚犯能獲得什麼好處",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
-    "image": null,
-    "pushedAt": "2026-10-22T09:39:17.086Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
-    "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-    "titleZh": "馬克宏表示，川普不喜歡法國，並歪曲了法國面臨的困境",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-france-trump-bcfq/21int-france-trump-bcfq-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-24T02:29:58.770Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
-    "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family Ties",
-    "titleZh": "阿卜杜勒·埃爾-賽義德直面針對其信仰與家庭紐帶的攻擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-el-sayed-01-zhwg/21pol-el-sayed-01-zhwg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-21T21:40:03.438Z"
-  },
-  {
-    "id": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853",
-    "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
-    "titleZh": "美國國家安全局（NSA）針對利用人工智慧偵測到的「關鍵」網路漏洞發出警告",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T08:29:49.062Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886",
-    "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
-    "titleZh": "貝森特在閉門投資者會議上對「系統性」人工智慧風險不以為意",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F846424b9-f3c6-4249-a73c-97d83499abcb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T18:35:02.443Z"
-  },
-  {
-    "id": "https://www.ft.com/content/47777033-6a91-42c3-bc9e-249d4bf7a961",
-    "title": "EU set to delay push for cheaper UK university fees for bloc’s students",
-    "titleZh": "歐盟預計將推遲推動降低英國大學學費的措施，以惠及歐盟學生",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/47777033-6a91-42c3-bc9e-249d4bf7a961?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T17:07:07.343Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
-    "title": "Is Netflix losing the plot?",
-    "titleZh": "Netflix 是否已經偏離正軌了？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
-    "image": null,
-    "pushedAt": "2026-10-27T07:32:01.369Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
-    "title": "Cornell Case Highlights Shifting Federal Title IX Enforcement",
-    "titleZh": "康乃爾大學案例凸顯聯邦《第九條》執法態勢的轉變",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-title-nine-01-wcmg/21dc-title-nine-01-wcmg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T09:12:24.466Z"
-  },
-  {
-    "id": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
-    "title": "Either AI or public debt could crash markets. But probably not both",
-    "titleZh": "無論是人工智慧還是公共債務，都可能導致市場崩盤。但兩者同時引發崩盤的可能性不大",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
-    "image": null,
-    "pushedAt": "2026-10-27T06:32:15.698Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
-    "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
-    "titleZh": "學生抗議活動在歐洲如雨後春筍般湧現，揭露了人們對未來的黯淡展望",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-europe-protests-bjlw/21int-europe-protests-bjlw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T08:06:17.391Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31",
-    "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
-    "titleZh": "Meta 將設立新的無表決權股份類別",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T03:20:48.578Z"
-  },
-  {
-    "id": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f",
-    "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
-    "titleZh": "特斯拉因車款銷量下滑，獲利減少",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F66d99a4b-b6d7-4ceb-a499-7830ac51f21d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T09:59:29.656Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-    "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
-    "titleZh": "特斯拉財報顯示獲利下滑，同時正與 SpaceX 商討合併事宜",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-tesla-earnings-jgch/21biz-tesla-earnings-jgch-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T08:24:11.913Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1",
-    "title": "GM aims to leapfrog rivals with new generation of autonomous cars",
-    "titleZh": "通用汽車（GM）旨在透過新一代自動駕駛汽車超越競爭對手",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T06:54:51.537Z"
-  },
-  {
-    "id": "https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c",
-    "title": "Republicans head into midterms with huge spending advantage",
-    "titleZh": "共和黨以巨大的支出優勢迎戰中期選舉",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F44e4ef47-2e1f-45b6-b8c9-49642948890f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T04:05:18.541Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html",
-    "title": "A Debt-Fueled “Doom Loop”",
-    "titleZh": "由債務驅動的「死亡循環」",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-theworld-top2-bmzl/22int-theworld-top2-bmzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T08:26:58.604Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
-    "title": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
-    "titleZh": "泰爾森·奧雷利安的魁北克出版商因人工智慧指控而終止合作關係",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-canada-ai-author-lhqz/21int-canada-ai-author-lhqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T08:42:52.541Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
-    "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
-    "titleZh": "儘管現金流壓力日益增大，Meta 仍提高其人工智慧支出",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-meta-earnings-hfo-1-jzvc/21biz-meta-earnings-hfo-1-jzvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T09:18:03.067Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f",
-    "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
-    "titleZh": "胡塞武裝發動襲擊後，美國下令部分人員撤離沙烏地阿拉伯",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T14:10:56.652Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc",
-    "title": "FirstFT: Global equities hit by rise in oil prices",
-    "titleZh": "FirstFT：斯科特·貝森特在與投資者的私人活動中對「系統性」人工智慧風險不以為意",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T04:49:05.192Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
-    "title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
-    "titleZh": "川普政府請求最高法院准許興建邊境圍牆",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T10:02:33.449Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
-    "title": "Trump Envoy Calls Putin a ‘Humanitarian’",
-    "titleZh": "川普特使稱普丁為「人道主義者」",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/briefing/trump-russia-prisoner-release.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21evening-nl-top-fphv/21evening-nl-top-fphv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T04:15:26.076Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
-    "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
-    "titleZh": "醫生表示，教宗的肺癌無需進一步治療",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T08:16:22.058Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
-    "title": "Supreme Court Blocks Trump From Denying Gender-Affirming Care to Trans Prisoners",
-    "titleZh": "最高法院阻止川普剝奪跨性別囚犯接受性別肯定治療的權利",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
-    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00dc-scotus-transprisoners-tmgl/00dc-scotus-transprisoners-tmgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T09:19:47.135Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
-    "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
-    "titleZh": "4名士兵遭綁架後，薩爾瓦多總統對海地幫派發出嚴厲警告",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/int21-Haiti-bukele-hjbm/int21-Haiti-bukele-hjbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T09:21:50.275Z"
-  },
-  {
-    "id": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b",
-    "title": "LSEG nears $3.5bn deal to buy credit data specialist Octus",
-    "titleZh": "倫敦證交所（LSEG）即將以 35 億美元收購信用數據專家 Octus",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T06:31:47.202Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5833c24e-3a4b-4242-a8c2-8f9918c4670c",
-    "title": "Buyout firm EQT acquires German diagnostics group in €10.8bn deal",
-    "titleZh": "私募股權公司 EQT 以 108 億歐元收購德國診斷集團",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5833c24e-3a4b-4242-a8c2-8f9918c4670c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T06:40:04.809Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d3ad59b9-b3fe-4948-8979-4236f2b38c90",
-    "title": "China’s drugmakers move into the big league",
-    "titleZh": "中國製藥企業躋身頂級行列",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d3ad59b9-b3fe-4948-8979-4236f2b38c90?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T23:59:32.143Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-    "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-    "titleZh": "美國與以色列擬定計畫，準備在伊朗大選後再次對其發動空襲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T15:06:00.813Z"
-  },
-  {
-    "id": "https://www.ft.com/content/cb3a573c-8a41-497a-bc59-59268a65ed37",
-    "title": "Is corporate India’s exuberance merited?",
-    "titleZh": "印度企業界的這股熱潮是否名副其實？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cb3a573c-8a41-497a-bc59-59268a65ed37?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T03:43:53.151Z"
-  },
-  {
     "id": "https://www.ft.com/content/5fcd5f35-3557-4a5c-8fce-5eaecf286870",
     "title": "Poor-quality degrees ‘tarnish’ reputation of English universities, regulator warns",
     "titleZh": "監管機構警告：低品質學位「損害」英國大學的聲譽",
@@ -8998,5 +8701,302 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/india-finance-ministry-says-liquidity-key-to-curbing-inflation",
     "image": null,
     "pushedAt": "2026-10-29T19:56:45.886Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8fca2e06-d9c3-4fa6-a432-f32fa9f9e263",
+    "title": "Burnham’s Budget balancing act",
+    "titleZh": "伯納姆的預算平衡法案",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8fca2e06-d9c3-4fa6-a432-f32fa9f9e263?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T19:57:20.423Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
+    "title": "Venezuela opposition leader hails Trump on return from exile",
+    "titleZh": "委內瑞拉反對派領導人歡迎川普流亡回國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
+    "image": null,
+    "pushedAt": "2026-10-29T19:57:26.346Z"
+  },
+  {
+    "id": "https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0",
+    "title": "DoorDash buys Instacart just as AI rewrites the menu",
+    "titleZh": "DoorDash 收購 Instacart，人工智慧重寫菜單",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T19:57:31.382Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fa67c9ad-882a-4713-a0be-de909c8f3f0a",
+    "title": "Brazil politicians back away from Bolsonaro election fraud claims",
+    "titleZh": "巴西政界人士不再承認博索納羅選舉舞弊的指控",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fa67c9ad-882a-4713-a0be-de909c8f3f0a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T19:57:36.263Z"
+  },
+  {
+    "id": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07",
+    "title": "The legacy of Christine Lagarde",
+    "titleZh": "克里斯蒂娜·拉加德的遺產",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T19:57:40.083Z"
+  },
+  {
+    "id": "https://flipso.com/p/xonoeaeb2",
+    "title": "Southern Africa's first known stenciled rock art found hidden in plain sight",
+    "titleZh": "南部非洲第一個已知的模印岩石藝術被發現隱藏在眾目睽睽之下",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/xonoeaeb2?ref=rss",
+    "image": "https://cdn.flipso.com/p/xonoeaeb2_square.jpg",
+    "pushedAt": "2026-10-29T19:57:42.054Z"
+  },
+  {
+    "id": "https://flipso.com/p/is7duajvv",
+    "title": "Read the FBI letter sent to Martin Luther King Jr.",
+    "titleZh": "閱讀聯邦調查局寫給馬丁路德金的信。",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/is7duajvv?ref=rss",
+    "image": "https://cdn.flipso.com/p/is7duajvv_square.jpg",
+    "pushedAt": "2026-10-29T19:57:44.006Z"
+  },
+  {
+    "id": "https://flipso.com/p/zb27yfdl0",
+    "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+    "titleZh": "我用人工智慧偽造了一篇科學論文。這是發生的事情",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/zb27yfdl0?ref=rss",
+    "image": "https://cdn.flipso.com/p/zb27yfdl0_square.jpg",
+    "pushedAt": "2026-10-29T19:57:46.062Z"
+  },
+  {
+    "id": "https://flipso.com/p/0gdiazxc3",
+    "title": "Why Birds Can Fly Over Mount Everest - Nautilus",
+    "titleZh": "為什麼鳥類可以飛越珠穆朗瑪峰 - Nautilus",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/0gdiazxc3?ref=rss",
+    "image": "https://cdn.flipso.com/p/0gdiazxc3_square.jpg",
+    "pushedAt": "2026-10-29T19:57:48.050Z"
+  },
+  {
+    "id": "https://flipso.com/p/lri4id1zk",
+    "title": "How Spiders Spin Silk Dope Into Nature’s Toughest Material",
+    "titleZh": "蜘蛛如何將絲紡成大自然最堅硬的材料",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/lri4id1zk?ref=rss",
+    "image": "https://cdn.flipso.com/p/lri4id1zk_square.jpg",
+    "pushedAt": "2026-10-29T19:57:50.005Z"
+  },
+  {
+    "id": "https://flipso.com/p/jheodvfvh",
+    "title": "Rising colorectal cancer rates now affect nearly all age groups",
+    "titleZh": "大腸直腸癌發生率上升現在幾乎影響所有年齡段",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/jheodvfvh?ref=rss",
+    "image": "https://cdn.flipso.com/p/jheodvfvh_square.jpg",
+    "pushedAt": "2026-10-29T19:57:51.983Z"
+  },
+  {
+    "id": "https://flipso.com/p/zu7kxwyse",
+    "title": "How the Wedgewood fake polls story spread",
+    "titleZh": "韋奇伍德假民調的故事是如何傳播的",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/zu7kxwyse?ref=rss",
+    "image": "https://cdn.flipso.com/p/zu7kxwyse_square.jpg",
+    "pushedAt": "2026-10-29T19:57:53.957Z"
+  },
+  {
+    "id": "https://flipso.com/p/r0tmullq9",
+    "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
+    "titleZh": "封閉海域：古代地中海封鎖的教訓",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/r0tmullq9?ref=rss",
+    "image": "https://cdn.flipso.com/p/r0tmullq9_square.jpg",
+    "pushedAt": "2026-10-29T19:57:55.896Z"
+  },
+  {
+    "id": "https://flipso.com/p/r90qgl6uo",
+    "title": "Ole Bielfeldt wins Nikon Small World with ink droplets in motion",
+    "titleZh": "奧勒比爾費爾特 (Ole Bielfeldt) 以運動墨滴贏得尼康小世界冠軍",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/r90qgl6uo?ref=rss",
+    "image": "https://cdn.flipso.com/p/r90qgl6uo_square.jpg",
+    "pushedAt": "2026-10-29T19:57:57.843Z"
+  },
+  {
+    "id": "https://flipso.com/p/mai1bi6fc",
+    "title": "Extinguished or overlooked? An examination of lost firefly species of the US and Canada",
+    "titleZh": "被消滅還是被忽略？美國和加拿大消失的螢火蟲物種的檢查",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/mai1bi6fc?ref=rss",
+    "image": "https://cdn.flipso.com/p/mai1bi6fc_square.jpg",
+    "pushedAt": "2026-10-29T19:58:01.246Z"
+  },
+  {
+    "id": "https://flipso.com/p/13kcg3sxb",
+    "title": "Tiny Tracking Tags for Big Monarch Journeys",
+    "titleZh": "大君主之旅的小追蹤標籤",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/13kcg3sxb?ref=rss",
+    "image": null,
+    "pushedAt": "2026-10-29T19:58:03.211Z"
+  },
+  {
+    "id": "https://flipso.com/p/a66rpt979",
+    "title": "How to be a (Roman) man",
+    "titleZh": "如何成為一個（羅馬）男人",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/a66rpt979?ref=rss",
+    "image": "https://cdn.flipso.com/p/a66rpt979_square.jpg",
+    "pushedAt": "2026-10-29T19:58:06.208Z"
+  },
+  {
+    "id": "https://flipso.com/p/cx7yh5jdf",
+    "title": "Did an Alternative-Medicine Guru Accidentally Kill Patients?",
+    "titleZh": "替代醫學大師是否意外殺死了病人？",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/cx7yh5jdf?ref=rss",
+    "image": "https://cdn.flipso.com/p/cx7yh5jdf_square.jpg",
+    "pushedAt": "2026-10-29T19:58:08.149Z"
+  },
+  {
+    "id": "https://flipso.com/p/uc614z07g",
+    "title": "How solar became bigger than nuclear",
+    "titleZh": "太陽能如何變得比核能更大",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/uc614z07g?ref=rss",
+    "image": "https://cdn.flipso.com/p/uc614z07g_square.jpg",
+    "pushedAt": "2026-10-29T19:58:10.098Z"
+  },
+  {
+    "id": "https://flipso.com/p/4bl48o250",
+    "title": "Just Imagining a Workout Can Make You Stronger",
+    "titleZh": "只要想像一次運動就能讓你變得更強壯",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/4bl48o250?ref=rss",
+    "image": "https://cdn.flipso.com/p/4bl48o250_square.jpg",
+    "pushedAt": "2026-10-29T19:58:12.042Z"
+  },
+  {
+    "id": "https://flipso.com/p/2b62bseak",
+    "title": "The mystery of the nameless girl found dead in a Spanish border town",
+    "titleZh": "西班牙邊境小鎮無名女孩屍體被發現之謎",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/2b62bseak?ref=rss",
+    "image": "https://cdn.flipso.com/p/2b62bseak_square.jpg",
+    "pushedAt": "2026-10-29T19:58:13.994Z"
+  },
+  {
+    "id": "https://flipso.com/p/incogpy5q",
+    "title": "The End of the Internet",
+    "titleZh": "網路的終結",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/incogpy5q?ref=rss",
+    "image": "https://cdn.flipso.com/p/incogpy5q_square.jpg",
+    "pushedAt": "2026-10-29T19:58:17.096Z"
+  },
+  {
+    "id": "https://flipso.com/p/mmpttos11",
+    "title": "Amazon’s toddler tablets raise screen-time concerns",
+    "titleZh": "亞馬遜的幼兒平板電腦引發了對螢幕時間的擔憂",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/mmpttos11?ref=rss",
+    "image": "https://cdn.flipso.com/p/mmpttos11_square.jpg",
+    "pushedAt": "2026-10-29T19:58:19.045Z"
+  },
+  {
+    "id": "https://flipso.com/p/snr8s37v5",
+    "title": "One of the Greatest Inventions in the History of Human Transport",
+    "titleZh": "人類交通史上最偉大的發明之一",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/snr8s37v5?ref=rss",
+    "image": "https://cdn.flipso.com/p/snr8s37v5_square.jpg",
+    "pushedAt": "2026-10-29T19:58:20.992Z"
+  },
+  {
+    "id": "https://flipso.com/p/9fsm2zzjw",
+    "title": "How Europe's emptying countryside is fuelling a new wildfire crisis",
+    "titleZh": "歐洲空蕩蕩的鄉村如何助長新的野火危機",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/9fsm2zzjw?ref=rss",
+    "image": "https://cdn.flipso.com/p/9fsm2zzjw_square.jpg",
+    "pushedAt": "2026-10-29T19:58:22.939Z"
+  },
+  {
+    "id": "https://flipso.com/p/w1wwuo9ge",
+    "title": "Birdwatching rewires the brain and slows cognitive decline",
+    "titleZh": "觀鳥可以重塑大腦並減緩認知能力下降",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/w1wwuo9ge?ref=rss",
+    "image": "https://cdn.flipso.com/p/w1wwuo9ge_square.jpg",
+    "pushedAt": "2026-10-29T19:58:24.889Z"
+  },
+  {
+    "id": "https://flipso.com/p/5jtiyxfdb",
+    "title": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
+    "titleZh": "一名德州警察簽約幫助 ICE 驅逐他的鄰居。它撕裂了小鎮。",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/5jtiyxfdb?ref=rss",
+    "image": "https://cdn.flipso.com/p/5jtiyxfdb_square.jpg",
+    "pushedAt": "2026-10-29T19:58:28.761Z"
+  },
+  {
+    "id": "https://flipso.com/p/ajfghj6pj",
+    "title": "Huge Iron Age salt-mining complex found beneath Hallstatt, Austria",
+    "titleZh": "奧地利哈爾施塔特地下發現巨大的鐵器時代鹽礦綜合體",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/ajfghj6pj?ref=rss",
+    "image": "https://cdn.flipso.com/p/ajfghj6pj_square.jpg",
+    "pushedAt": "2026-10-29T19:58:30.720Z"
+  },
+  {
+    "id": "https://flipso.com/p/rawhwpr9b",
+    "title": "Making the Buddha Head from Merv Whole Again",
+    "titleZh": "將 Merv 的佛頭重新製作完整",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/rawhwpr9b?ref=rss",
+    "image": "https://cdn.flipso.com/p/rawhwpr9b_square.jpg",
+    "pushedAt": "2026-10-29T19:58:32.681Z"
+  },
+  {
+    "id": "https://flipso.com/p/sdmnuspqx",
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "titleZh": "俄勒岡州警方因一名警察的記錄向當地新聞媒體收取 250 萬美元的費用",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/sdmnuspqx?ref=rss",
+    "image": "https://cdn.flipso.com/p/sdmnuspqx_square.jpg",
+    "pushedAt": "2026-10-29T19:58:34.630Z"
+  },
+  {
+    "id": "https://flipso.com/p/f27bx76yr",
+    "title": "How Japanese Dried Bonito Is Made",
+    "titleZh": "日本鰹魚乾的製作方法",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/f27bx76yr?ref=rss",
+    "image": "https://cdn.flipso.com/p/f27bx76yr_square.jpg",
+    "pushedAt": "2026-10-29T19:58:36.570Z"
+  },
+  {
+    "id": "https://flipso.com/p/syxh6jl9d",
+    "title": "AI and the Fall of the Creative Class",
+    "titleZh": "人工智慧與創意階層的沒落",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/syxh6jl9d?ref=rss",
+    "image": "https://cdn.flipso.com/p/syxh6jl9d_square.jpg",
+    "pushedAt": "2026-10-29T19:58:38.513Z"
+  },
+  {
+    "id": "https://flipso.com/p/3fuzd3kpd",
+    "title": "The Importance of Limitations for Creativity and Learning",
+    "titleZh": "限制對創造力和學習的重要性",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/3fuzd3kpd?ref=rss",
+    "image": null,
+    "pushedAt": "2026-10-29T19:58:40.475Z"
   }
 ]
