@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-    "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
-    "titleZh": "馬克·祖克柏如何推動 Meta 協助他規避加州擬議的財富稅",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T15:49:50.980Z"
-  },
-  {
     "id": "https://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd",
     "title": "Australian iron ore miner warns of production slowdown without China deal",
     "titleZh": "澳洲鐵礦石開採商警告，若無法與中國達成協議，生產將放緩",
@@ -7116,7 +7107,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-10-29T18:47:13.002Z"
+    "pushedAt": "2026-10-29T20:11:37.503Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
@@ -7125,7 +7116,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-PresidentHerzog-mwqh/28israel-PresidentHerzog-mwqh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:47:17.358Z"
+    "pushedAt": "2026-10-29T20:12:04.537Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
@@ -7134,7 +7125,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-china-01-bckv/28int-spain-china-01-bckv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:47:21.548Z"
+    "pushedAt": "2026-10-29T20:12:31.870Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-29T20:11:08.663Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations",
+    "title": "Rio Tinto’s Oyu Tolgoi Copper Mine Halts Underground Operations",
+    "titleZh": "力拓旗下奧尤陶勒蓋銅礦停止地下作業",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations",
+    "image": null,
+    "pushedAt": "2026-10-29T20:12:59.788Z"
   }
 ]
