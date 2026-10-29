@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0fd3ac93-7cf2-4978-a1db-2a7afa607cbc",
-    "title": "Turkey markets $10,000 drone defence",
-    "titleZh": "土耳其在出口熱潮中推廣廉價的無人機防禦系統",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0fd3ac93-7cf2-4978-a1db-2a7afa607cbc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T12:05:21.588Z"
-  },
-  {
-    "id": "https://www.ft.com/content/ec674923-256a-4adf-9fa3-d32e242e0cbb",
-    "title": "The Ritz has gone boutique, and is all the better for it",
-    "titleZh": "麗思酒店已轉型為精品酒店，此舉更顯其魅力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ec674923-256a-4adf-9fa3-d32e242e0cbb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T05:55:07.876Z"
-  },
-  {
     "id": "https://www.ft.com/content/da42f030-81f8-4137-85b6-0b0276448199",
     "title": "Walter Hood is reshaping the American cityscape",
     "titleZh": "沃爾特·胡德正在重塑美國的城市風貌",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/starbucks-foot-traffic-outpaces-others-says-hottovy-video",
     "image": null,
     "pushedAt": "2026-10-29T21:02:42.868Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/asia/court-to-rule-on-australian-womans-appeal-in-mushroom-murders-case.html",
+    "title": "Court to Rule on Australian Woman’s Appeal in Mushroom Murders Case",
+    "titleZh": "法院將對澳洲婦女在蘑菇謀殺案中的上訴做出裁決",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/world/asia/court-to-rule-on-australian-womans-appeal-in-mushroom-murders-case.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/world/30int-oz-mushroom-appeal-aohgq/30int-oz-mushroom-appeal-aohgq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:03:15.095Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers",
+    "title": "Stryker Cuts Outlook as Cyberattack Impact on Supply Lingers",
+    "titleZh": "由於網路攻擊對供應的影響持續存在，史賽克下調了展望",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers",
+    "image": null,
+    "pushedAt": "2026-10-29T21:03:19.994Z"
   }
 ]
