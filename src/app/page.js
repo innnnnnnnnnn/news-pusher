@@ -1,13 +1,28 @@
 'use client';
 import { useState, useEffect, useMemo } from 'react';
 
+// Standardize site names between legacy configs and sites.json
+function normalizeSiteName(name) {
+  if (name === 'Financial Times') return 'Financial Times (not cn subdomain)';
+  return name;
+}
+
+function cleanSubscriptionList(list) {
+  const set = new Set();
+  for (const item of list) {
+    if (!item) continue;
+    set.add(normalizeSiteName(item));
+  }
+  return set;
+}
+
 export default function Home() {
   const [activeTab, setActiveTab] = useState('history'); // 'history' | 'sources' | 'settings'
 
   // Sites & Subscriptions
   const [sites, setSites] = useState([]);
   const [siteDetails, setSiteDetails] = useState([]);
-  const [subscriptions, setSubscriptions] = useState(new Set(['The Economist', 'The New York Times', 'Financial Times']));
+  const [subscriptions, setSubscriptions] = useState(new Set(['The Economist', 'The New York Times', 'Financial Times (not cn subdomain)']));
   const [siteSearch, setSiteSearch] = useState('');
   const [siteFilter, setSiteFilter] = useState('all'); // 'all' | 'recommended' | 'rss' | 'subscribed'
 
@@ -33,7 +48,12 @@ export default function Home() {
       if (cachedConfig) setConfig(JSON.parse(cachedConfig));
 
       const cachedSubs = localStorage.getItem('np_subscriptions');
-      if (cachedSubs) setSubscriptions(new Set(JSON.parse(cachedSubs)));
+      if (cachedSubs) {
+        const parsed = JSON.parse(cachedSubs);
+        const cleaned = cleanSubscriptionList(Array.isArray(parsed) ? parsed : []);
+        setSubscriptions(cleaned);
+        localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(cleaned)));
+      }
 
       const cachedGhToken = localStorage.getItem('np_gh_token');
       if (cachedGhToken) setGhToken(cachedGhToken);
@@ -204,7 +224,7 @@ export default function Home() {
   const subscribeRecommended = async () => {
     const topMedia = [
       'The Economist',
-      'Financial Times',
+      'Financial Times (not cn subdomain)',
       'The New York Times',
       'The Wall Street Journal',
       'Bloomberg',
@@ -237,12 +257,12 @@ export default function Home() {
       const res = await fetch('/api/subscriptions', { cache: 'no-store' });
       const data = await res.json();
       if (data.subscriptions && data.subscriptions.length > 0) {
-        const subsSet = new Set(data.subscriptions);
-        setSubscriptions(subsSet);
+        const cleaned = cleanSubscriptionList(data.subscriptions);
+        setSubscriptions(cleaned);
         try {
-          localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
+          localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(cleaned)));
         } catch {}
-        showToast(`✅ 已從 GitHub 載入最新 ${data.subscriptions.length} 個訂閱來源！`);
+        showToast(`✅ 已從 GitHub 載入最新 ${cleaned.size} 個訂閱來源！`);
       }
     } catch (e) {
       showToast(`❌ 載入失敗: ${e.message}`);

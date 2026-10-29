@@ -1,12 +1,11 @@
 {
-  "updatedAt": "2026-10-29T19:56:20.702Z",
+  "updatedAt": "2026-10-30T04:01:00.000Z",
   "subscriptions": [
     "The Economist",
-    "Financial Times",
+    "Financial Times (not cn subdomain)",
     "The New York Times",
     "The Wall Street Journal",
     "Bloomberg",
-    "Reuters",
-    "Financial Times (not cn subdomain)"
+    "Reuters"
   ]
 }
