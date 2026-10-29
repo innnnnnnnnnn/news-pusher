@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4577cc43-d98b-43fc-8183-72777286ab80",
-    "title": "India mounts costly defence of rupee",
-    "titleZh": "印度耗資鉅大捍衛盧比匯率",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4577cc43-d98b-43fc-8183-72777286ab80?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T12:00:28.842Z"
-  },
-  {
     "id": "https://www.ft.com/content/531d1ff7-c0b5-427a-87d1-9372c3cf87d3",
     "title": "Big private equity backers call for greater scrutiny of sweetheart deals",
     "titleZh": "大型私募股權投資方呼籲對「特殊優惠交易」進行更嚴格的審查",
@@ -7386,7 +7377,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3569d467-0699-4399-a0b0-ee3146132f63.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-29T18:50:42.578Z"
+    "pushedAt": "2026-10-29T20:41:44.138Z"
   },
   {
     "id": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f",
@@ -7395,7 +7386,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb528efdb-9e87-48cd-a0db-9b2d12dc3b49.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-29T18:50:46.297Z"
+    "pushedAt": "2026-10-29T20:42:10.842Z"
   },
   {
     "id": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video",
     "image": null,
     "pushedAt": "2026-10-29T20:41:13.749Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
+    "title": "Moving Down in High-Grade Quality: Goldman's Lynam",
+    "titleZh": "高級品質下降：高盛的 Lynam",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
+    "image": null,
+    "pushedAt": "2026-10-29T20:42:39.041Z"
   }
 ]
