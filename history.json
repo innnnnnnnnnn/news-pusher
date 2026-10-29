@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f",
-    "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
-    "titleZh": "亞洲股市走低，中國股市進入熊市",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1c02b79d-8de7-43d0-83f9-39ec329067ce.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-23T03:33:57.036Z"
-  },
-  {
-    "id": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36",
-    "title": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
-    "titleZh": "巴克萊的獲利因固定收益交易表現疲弱而受挫",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14865c0f-4db8-4b3b-b1d7-7e44c1ea438d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T20:14:16.213Z"
-  },
-  {
     "id": "https://www.ft.com/content/cbf8759b-ec19-4728-ab65-5706bc3343af",
     "title": "Liquidators of Chinese property giant pursue Harvard to recoup donation",
     "titleZh": "中國房地產巨頭的清算人向哈佛大學追討捐款",
@@ -6081,7 +6063,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
     "image": null,
-    "pushedAt": "2026-10-29T19:10:58.297Z"
+    "pushedAt": "2026-10-29T21:30:45.515Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like",
@@ -6090,7 +6072,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like",
     "image": null,
-    "pushedAt": "2026-10-29T19:11:21.806Z"
+    "pushedAt": "2026-10-29T21:31:10.941Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/29/the-midterms-could-reshape-american-politics-far-beyond-congress",
@@ -6099,7 +6081,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/29/the-midterms-could-reshape-american-politics-far-beyond-congress",
     "image": null,
-    "pushedAt": "2026-10-29T19:11:47.688Z"
+    "pushedAt": "2026-10-29T21:31:36.098Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/29/americas-decisive-voters-are-its-most-recent-arrivals",
@@ -6108,7 +6090,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/29/americas-decisive-voters-are-its-most-recent-arrivals",
     "image": null,
-    "pushedAt": "2026-10-29T19:12:13.889Z"
+    "pushedAt": "2026-10-29T21:32:01.599Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
@@ -6117,7 +6099,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
     "image": null,
-    "pushedAt": "2026-10-29T19:12:38.539Z"
+    "pushedAt": "2026-10-29T21:32:27.399Z"
   },
   {
     "id": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop",
@@ -6126,7 +6108,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop",
     "image": null,
-    "pushedAt": "2026-10-29T19:13:03.943Z"
+    "pushedAt": "2026-10-29T21:32:52.960Z"
   },
   {
     "id": "https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31abb9ea-1134-40c3-ae7c-48106dc105c9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-29T21:30:16.274Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/tradeweb-ceo-this-is-a-seminal-moment-in-the-market-video",
+    "title": "Tradeweb CEO: This Is a Seminal Moment in the Market",
+    "titleZh": "Tradeweb首席執行官：這是市場的開創性時刻",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/tradeweb-ceo-this-is-a-seminal-moment-in-the-market-video",
+    "image": null,
+    "pushedAt": "2026-10-29T21:33:23.698Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
+    "title": "Binance Founder CZ Says Crypto Exchange ‘May Have Been Hacked’",
+    "titleZh": "Binance創始人CZ表示，加密貨幣交易所“可能已被駭客入侵”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
+    "image": null,
+    "pushedAt": "2026-10-29T21:33:29.697Z"
   }
 ]
