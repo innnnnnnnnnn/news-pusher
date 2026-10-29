@@ -78,6 +78,10 @@ jobs:
             echo "  🔄 Cycle #${CYCLE} | Elapsed: ${ELAPSED}s | Remaining: ~${REMAINING}s"
             echo "════════════════════════════════════════"
 
+            # Pull latest subscriptions.json if updated remotely (e.g. via GitHub Pages dashboard)
+            git fetch origin main --quiet 2>/dev/null || true
+            git checkout origin/main -- subscriptions.json 2>/dev/null || true
+
             # Run push job (handles new articles + continuous carousel replay)
             # Local history.json persists across cycles in this runner instance
             node scripts/github-push.mjs || echo "  ⚠️ Push script encountered an error, will retry next cycle"

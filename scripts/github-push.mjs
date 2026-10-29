@@ -333,8 +333,32 @@ async function sendArticleToTelegram(bot, chatId, article, sourceLabel, cachedTi
 async function pushArticles() {
   const telegramToken = process.env.TELEGRAM_TOKEN;
   const chatId = process.env.CHAT_ID;
-  const subscriptionsString = process.env.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times';
-  const sites = subscriptionsString.split(',').map(s => s.trim());
+
+  // 1. Prioritize reading subscriptions from subscriptions.json (managed via GitHub Pages)
+  let sites = [];
+  const SUBS_FILE = './subscriptions.json';
+  if (fs.existsSync(SUBS_FILE)) {
+    try {
+      const parsed = JSON.parse(fs.readFileSync(SUBS_FILE, 'utf8'));
+      if (Array.isArray(parsed)) {
+        sites = parsed.filter(Boolean);
+      } else if (Array.isArray(parsed.subscriptions)) {
+        sites = parsed.subscriptions.filter(Boolean);
+      }
+      if (sites.length > 0) {
+        console.log(`📋 從 subscriptions.json 載入訂閱來源 (${sites.length} 個): ${sites.join(', ')}`);
+      }
+    } catch (e) {
+      console.warn(`⚠️ 解析 subscriptions.json 失敗: ${e.message}`);
+    }
+  }
+
+  // 2. Fallback to process.env.SUBSCRIPTIONS if file is not found or empty
+  if (sites.length === 0) {
+    const subscriptionsString = process.env.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times';
+    sites = subscriptionsString.split(',').map(s => s.trim());
+    console.log(`📋 使用預設/環境變數訂閱來源: ${sites.join(', ')}`);
+  }
 
   if (!telegramToken || !chatId) {
     console.error('Missing TELEGRAM_TOKEN or CHAT_ID environment variables.');

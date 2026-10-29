@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Pusher | 最新深度時事看板</title>
+    <title>News Pusher | 最新深度時事看板與管理</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg: #0b0f19;
@@ -14,8 +14,10 @@
             --card-border: rgba(255, 255, 255, 0.08);
             --card-hover: rgba(30, 41, 59, 0.9);
             --primary: #6366f1;
+            --primary-glow: rgba(99, 102, 241, 0.25);
             --accent: #06b6d4;
             --success: #10b981;
+            --warning: #f59e0b;
             --text-main: #f8fafc;
             --text-dim: #94a3b8;
             --glow: rgba(99, 102, 241, 0.15);
@@ -33,7 +35,7 @@
             font-family: 'Outfit', 'Noto Sans TC', sans-serif;
             line-height: 1.6;
             min-height: 100vh;
-            padding: 40px 20px 80px;
+            padding: 30px 20px 80px;
         }
 
         .container {
@@ -43,7 +45,7 @@
 
         header {
             text-align: center;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
         }
 
         .badge-live {
@@ -57,7 +59,7 @@
             border-radius: 9999px;
             font-size: 0.85rem;
             font-weight: 600;
-            margin-bottom: 16px;
+            margin-bottom: 14px;
         }
 
         .pulse-dot {
@@ -83,30 +85,31 @@
             -webkit-background-clip: text;
             background-clip: text;
             -webkit-text-fill-color: transparent;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
         }
 
         .subtitle {
             color: var(--text-dim);
-            font-size: 1.1rem;
-            max-width: 600px;
+            font-size: 1.05rem;
+            max-width: 620px;
             margin: 0 auto;
         }
 
         .nav-links {
-            margin-top: 18px;
+            margin-top: 16px;
             display: flex;
             justify-content: center;
             gap: 12px;
+            flex-wrap: wrap;
         }
 
         .nav-btn {
             display: inline-flex;
             align-items: center;
             gap: 6px;
-            padding: 8px 18px;
+            padding: 7px 16px;
             border-radius: 10px;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             font-weight: 600;
             text-decoration: none;
             transition: all 0.2s;
@@ -121,16 +124,75 @@
             transform: translateY(-1px);
         }
 
-        /* Filter & Search Bar */
+        /* Main Navigation Tabs */
+        .main-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin: 28px 0 24px;
+        }
+
+        .main-tab-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 24px;
+            border-radius: 14px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            border: 1px solid var(--card-border);
+            background: rgba(17, 24, 39, 0.7);
+            color: var(--text-dim);
+            transition: all 0.25s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .main-tab-btn:hover {
+            color: #fff;
+            border-color: rgba(99, 102, 241, 0.4);
+            background: rgba(30, 41, 59, 0.8);
+        }
+
+        .main-tab-btn.active {
+            color: #fff;
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.3), rgba(6, 182, 212, 0.25));
+            border-color: var(--primary);
+            box-shadow: 0 4px 20px var(--primary-glow);
+        }
+
+        .tab-badge {
+            font-size: 0.75rem;
+            padding: 2px 8px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .main-tab-btn.active .tab-badge {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        /* View Panels */
+        .view-panel {
+            display: none;
+            animation: fadeIn 0.3s ease forwards;
+        }
+
+        .view-panel.active {
+            display: block;
+        }
+
+        /* Toolbar */
         .toolbar {
             display: flex;
             justify-content: space-between;
             align-items: center;
             gap: 16px;
-            margin-bottom: 30px;
+            margin-bottom: 26px;
             flex-wrap: wrap;
             background: var(--card-bg);
-            padding: 16px 20px;
+            padding: 14px 20px;
             border-radius: 16px;
             border: 1px solid var(--card-border);
             backdrop-filter: blur(12px);
@@ -197,7 +259,7 @@
         #news-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 24px;
+            gap: 22px;
         }
 
         .news-card {
@@ -213,7 +275,7 @@
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(15px); }
+            from { opacity: 0; transform: translateY(12px); }
             to { opacity: 1; transform: translateY(0); }
         }
 
@@ -303,16 +365,314 @@
         }
 
         .btn-read {
+            font-size: 0.85rem;
             color: var(--accent);
             text-decoration: none;
             font-weight: 600;
-            font-size: 0.88rem;
             transition: color 0.2s;
         }
 
         .btn-read:hover {
             color: #67e8f9;
             text-decoration: underline;
+        }
+
+        /* ── Sources Management Tab Styles ── */
+        .glass-box {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 28px;
+            backdrop-filter: blur(16px);
+            margin-bottom: 24px;
+        }
+
+        .box-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .box-title {
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .box-desc {
+            color: var(--text-dim);
+            font-size: 0.95rem;
+            margin-top: 6px;
+            line-height: 1.5;
+        }
+
+        /* GitHub Token Config Card */
+        .auth-card {
+            background: rgba(0, 0, 0, 0.35);
+            border: 1px solid rgba(99, 102, 241, 0.25);
+            border-radius: 14px;
+            padding: 18px 20px;
+            margin-bottom: 26px;
+        }
+
+        .auth-row {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            margin-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .auth-input {
+            flex: 1;
+            min-width: 260px;
+            background: rgba(15, 23, 42, 0.8);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            padding: 10px 14px;
+            color: #fff;
+            font-size: 0.9rem;
+            outline: none;
+        }
+
+        .auth-input:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 2px var(--primary-glow);
+        }
+
+        .btn-auth {
+            padding: 9px 18px;
+            border-radius: 10px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            cursor: pointer;
+            border: 1px solid var(--card-border);
+            background: rgba(255, 255, 255, 0.08);
+            color: #fff;
+            transition: all 0.2s;
+        }
+
+        .btn-auth:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .auth-status-pill {
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 3px 10px;
+            border-radius: 999px;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .auth-status-pill.ready {
+            background: rgba(16, 185, 129, 0.15);
+            color: #6ee7b7;
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+
+        .auth-status-pill.missing {
+            background: rgba(245, 158, 11, 0.15);
+            color: #fde68a;
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+
+        /* Sources Grid */
+        .sources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 18px;
+            margin-bottom: 28px;
+        }
+
+        .source-item {
+            background: rgba(0, 0, 0, 0.28);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            transition: all 0.2s ease;
+        }
+
+        .source-item:hover {
+            border-color: rgba(99, 102, 241, 0.35);
+            background: rgba(0, 0, 0, 0.4);
+        }
+
+        .source-item.active {
+            border-color: rgba(99, 102, 241, 0.5);
+            box-shadow: 0 4px 16px rgba(99, 102, 241, 0.1);
+        }
+
+        .source-top-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .source-info-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .source-info-desc {
+            font-size: 0.85rem;
+            color: var(--text-dim);
+            margin-top: 4px;
+        }
+
+        .channels-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 6px;
+        }
+
+        .channel-chip {
+            font-size: 0.74rem;
+            padding: 3px 8px;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.05);
+            color: #cbd5e1;
+            border: 1px solid rgba(255, 255, 255, 0.07);
+        }
+
+        /* iOS Style Switch */
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 52px;
+            height: 28px;
+            flex-shrink: 0;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: rgba(255, 255, 255, 0.15);
+            transition: .25s ease;
+            border-radius: 34px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 22px;
+            width: 22px;
+            left: 3px;
+            bottom: 2px;
+            background-color: #ffffff;
+            transition: .25s ease;
+            border-radius: 50%;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        }
+
+        input:checked + .slider {
+            background: linear-gradient(135deg, #6366f1, #06b6d4);
+            border-color: #6366f1;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(23px);
+        }
+
+        /* Action Buttons Area */
+        .actions-bar {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 12px;
+            flex-wrap: wrap;
+            padding-top: 16px;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .btn-save-sync {
+            background: linear-gradient(135deg, #6366f1, #06b6d4);
+            color: #fff;
+            padding: 12px 26px;
+            border-radius: 12px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            border: none;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 18px rgba(99, 102, 241, 0.35);
+            transition: all 0.25s ease;
+        }
+
+        .btn-save-sync:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 24px rgba(99, 102, 241, 0.5);
+        }
+
+        .btn-save-sync:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.08);
+            color: #fff;
+            padding: 11px 20px;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            border: 1px solid var(--card-border);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        /* Toast notifications */
+        #toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #1e293b;
+            color: #fff;
+            padding: 14px 22px;
+            border-radius: 14px;
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            font-size: 0.92rem;
+            font-weight: 600;
+            z-index: 9999;
+            display: none;
+            animation: toastIn 0.3s ease forwards;
+            max-width: 420px;
+        }
+
+        @keyframes toastIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         .loading-box {
@@ -324,9 +684,12 @@
 
         @media (max-width: 640px) {
             h1 { font-size: 2.1rem; }
-            #news-grid { grid-template-columns: 1fr; }
+            #news-grid, .sources-grid { grid-template-columns: 1fr; }
             .toolbar { flex-direction: column; align-items: stretch; }
             .search-box { max-width: 100%; }
+            .actions-bar { justify-content: stretch; }
+            .btn-save-sync, .btn-secondary { width: 100%; justify-content: center; }
+            #toast { left: 20px; right: 20px; bottom: 20px; }
         }
     </style>
 </head>
@@ -338,42 +701,342 @@
                 <span>24/7 自動巡邏推播進行中</span>
             </div>
             <h1>News Pusher 看板</h1>
-            <p class="subtitle">AI 自動翻譯與繞過付費牆的深度國際時事快訊</p>
+            <p class="subtitle">AI 自動翻譯與深度國際時事快訊 • 前端即時訂閱管理</p>
             <div class="nav-links">
                 <a href="https://news-pusher.vercel.app" target="_blank" class="nav-btn">⚙️ Vercel 控制台</a>
                 <a href="https://github.com/innnnnnnnnnn/news-pusher" target="_blank" class="nav-btn">📂 GitHub 倉庫</a>
                 <a href="https://github.com/innnnnnnnnnn/news-pusher/actions" target="_blank" class="nav-btn">⚡ Actions 排程</a>
             </div>
+
+            <!-- Main Tabs -->
+            <div class="main-tabs">
+                <button class="main-tab-btn active" id="tab-btn-history" onclick="switchMainTab('history')">
+                    📰 即時時事看板 <span class="tab-badge" id="count-history-badge">0</span>
+                </button>
+                <button class="main-tab-btn" id="tab-btn-sources" onclick="switchMainTab('sources')">
+                    ⚙️ 訂閱來源管理 <span class="tab-badge" id="count-sources-badge">3</span>
+                </button>
+            </div>
         </header>
 
-        <!-- Toolbar -->
-        <div class="toolbar">
-            <div class="filter-group">
-                <button class="filter-btn active" onclick="setFilter('all')">全部來源 (<span id="count-all">0</span>)</button>
-                <button class="filter-btn" onclick="setFilter('economist')">經濟學人</button>
-                <button class="filter-btn" onclick="setFilter('ft')">金融時報</button>
-                <button class="filter-btn" onclick="setFilter('nyt')">紐約時報</button>
+        <!-- VIEW 1: 即時時事看板 (History) -->
+        <div id="view-history" class="view-panel active">
+            <!-- Toolbar -->
+            <div class="toolbar">
+                <div class="filter-group">
+                    <button class="filter-btn active" onclick="setFilter('all')">全部來源 (<span id="count-all">0</span>)</button>
+                    <button class="filter-btn" onclick="setFilter('economist')">經濟學人</button>
+                    <button class="filter-btn" onclick="setFilter('ft')">金融時報</button>
+                    <button class="filter-btn" onclick="setFilter('nyt')">紐約時報</button>
+                </div>
+
+                <div class="search-box">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="search-input" class="search-input" placeholder="搜尋標題關鍵字..." oninput="handleSearch()">
+                </div>
             </div>
 
-            <div class="search-box">
-                <span class="search-icon">🔍</span>
-                <input type="text" id="search-input" class="search-input" placeholder="搜尋標題關鍵字..." oninput="handleSearch()">
+            <div id="news-grid">
+                <div class="loading-box">
+                    <div class="pulse-dot" style="margin: 0 auto 12px;"></div>
+                    <p>正在載入最新推播紀錄...</p>
+                </div>
             </div>
         </div>
 
-        <div id="news-grid">
-            <div class="loading-box">
-                <div class="pulse-dot" style="margin: 0 auto 12px;"></div>
-                <p>正在載入最新推播紀錄...</p>
+        <!-- VIEW 2: 訂閱來源管理 (Sources Management) -->
+        <div id="view-sources" class="view-panel">
+            <div class="glass-box">
+                <div class="box-header">
+                    <div>
+                        <h2 class="box-title">🌐 訂閱來源與頻道管理</h2>
+                        <p class="box-desc">勾選需要推送的新聞來源。點選儲存後將直接透過 GitHub REST API 更新儲存庫中的 <code>subscriptions.json</code>，推播引擎將在下個循環（20 秒內）依新設定自動生效！</p>
+                    </div>
+                </div>
+
+                <!-- GitHub Token Configuration Card -->
+                <div class="auth-card">
+                    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                        <span style="font-size:0.92rem; font-weight:700; color:#fff;">🔑 GitHub 連線認證（PAT Token）</span>
+                        <span id="pat-status-pill" class="auth-status-pill missing">● 尚未設定 Token</span>
+                    </div>
+                    <p style="font-size:0.82rem; color:var(--text-dim); margin-top:4px;">
+                        Token 只會安全儲存在本機瀏覽器 LocalStorage，用於將訂閱變更送交 GitHub 儲存庫。
+                        <a href="https://github.com/settings/tokens/new?scopes=repo&description=NewsPusher-Dashboard" target="_blank" style="color:var(--accent); text-decoration:none; margin-left:4px;">👉 點此前往 GitHub 快速產生 Token</a>（需勾選 <code>repo</code> 權限）。
+                    </p>
+                    <div class="auth-row">
+                        <input type="password" id="gh-token-input" class="auth-input" placeholder="請貼上你的 Personal Access Token (ghp_... 或 github_pat_...)">
+                        <button class="btn-auth" onclick="saveGithubToken()">💾 儲存 Token</button>
+                        <button class="btn-auth" onclick="clearGithubToken()" style="color:#fca5a5;">清除</button>
+                    </div>
+                </div>
+
+                <!-- Sources Toggle Cards Grid -->
+                <div class="sources-grid" id="sources-grid">
+                    <!-- Cards will be populated by renderSources() -->
+                </div>
+
+                <!-- Bottom Actions Bar -->
+                <div class="actions-bar">
+                    <button class="btn-secondary" onclick="loadSubscriptions(true)">🔄 重新載入設定</button>
+                    <button class="btn-secondary" onclick="copySubscriptionsList()">📋 複製訂閱名單</button>
+                    <button class="btn-save-sync" id="btn-save-sync" onclick="saveSubscriptionsToGithub()">
+                        <span>💾 儲存並即時同步至 GitHub</span>
+                    </button>
+                </div>
             </div>
         </div>
     </div>
 
+    <!-- Toast Notification -->
+    <div id="toast"></div>
+
     <script>
+        const REPO_OWNER = 'innnnnnnnnnn';
+        const REPO_NAME = 'news-pusher';
+        const SUBS_FILE_PATH = 'subscriptions.json';
+
+        // Supported Sources Catalog
+        const AVAILABLE_SOURCES = [
+            {
+                id: 'The Economist',
+                name: 'The Economist（經濟學人）',
+                icon: '🗞️',
+                desc: '全球政經分析、社論觀點、商業與亞洲專題',
+                channels: ['Leaders', 'Finance & Economics', 'Business', 'United States', 'China', 'Asia', 'International'],
+                theme: 'economist'
+            },
+            {
+                id: 'Financial Times',
+                name: 'Financial Times（金融時報）',
+                icon: '📰',
+                desc: '全球宏觀經濟、國際市場動向、大宗商品與世界要聞',
+                channels: ['Home Global', 'Home UK', 'Global Economy', 'World News', 'Companies'],
+                theme: 'ft'
+            },
+            {
+                id: 'The New York Times',
+                name: 'The New York Times（紐約時報）',
+                icon: '📄',
+                desc: '首頁每日頭條、國際時事報導與財經深度調查',
+                channels: ['Home Page', 'World', 'Business'],
+                theme: 'nyt'
+            }
+        ];
+
         let allArticles = [];
         let currentFilter = 'all';
         let searchQuery = '';
+        let activeSubscriptions = new Set(['The Economist', 'Financial Times', 'The New York Times']);
+        let currentSubsSha = null;
 
+        // Toast Helper
+        function showToast(msg, duration = 3500) {
+            const toast = document.getElementById('toast');
+            toast.textContent = msg;
+            toast.style.display = 'block';
+            setTimeout(() => {
+                toast.style.display = 'none';
+            }, duration);
+        }
+
+        // Main Tab Switcher
+        function switchMainTab(tabName) {
+            document.querySelectorAll('.main-tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.view-panel').forEach(p => p.classList.remove('active'));
+
+            if (tabName === 'history') {
+                document.getElementById('tab-btn-history').classList.add('active');
+                document.getElementById('view-history').classList.add('active');
+            } else if (tabName === 'sources') {
+                document.getElementById('tab-btn-sources').classList.add('active');
+                document.getElementById('view-sources').classList.add('active');
+                renderSources();
+            }
+        }
+
+        // ── GitHub Token Management ───────────────────────────────────────────
+        function checkTokenStatus() {
+            const token = localStorage.getItem('np_gh_pat');
+            const pill = document.getElementById('pat-status-pill');
+            const input = document.getElementById('gh-token-input');
+            if (token && token.trim()) {
+                pill.textContent = '🟢 已就緒（已儲存於瀏覽器）';
+                pill.className = 'auth-status-pill ready';
+                if (input) input.value = token;
+            } else {
+                pill.textContent = '● 尚未設定 Token';
+                pill.className = 'auth-status-pill missing';
+                if (input) input.value = '';
+            }
+        }
+
+        function saveGithubToken() {
+            const val = document.getElementById('gh-token-input').value.trim();
+            if (!val) {
+                showToast('⚠️ 請先輸入 GitHub Personal Access Token');
+                return;
+            }
+            localStorage.setItem('np_gh_pat', val);
+            checkTokenStatus();
+            showToast('✅ GitHub Token 已安全儲存於本機瀏覽器！');
+        }
+
+        function clearGithubToken() {
+            localStorage.removeItem('np_gh_pat');
+            checkTokenStatus();
+            showToast('🗑️ GitHub Token 已自本機清除');
+        }
+
+        // ── Subscriptions Loading & Rendering ─────────────────────────────────
+        async function loadSubscriptions(notify = false) {
+            try {
+                // Try fetching subscriptions.json locally or from raw github
+                let data = null;
+                try {
+                    const res = await fetch('./subscriptions.json?t=' + Date.now());
+                    if (res.ok) data = await res.json();
+                } catch {}
+
+                if (!data) {
+                    const rawRes = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${SUBS_FILE_PATH}?t=` + Date.now());
+                    if (rawRes.ok) data = await rawRes.json();
+                }
+
+                if (data) {
+                    const list = Array.isArray(data) ? data : (data.subscriptions || []);
+                    if (list.length > 0) {
+                        activeSubscriptions = new Set(list);
+                    }
+                }
+            } catch (e) {
+                console.warn('Failed to load subscriptions.json:', e);
+            }
+
+            document.getElementById('count-sources-badge').textContent = activeSubscriptions.size;
+            renderSources();
+            if (notify) showToast('🔄 訂閱設定已重新載入');
+        }
+
+        function renderSources() {
+            const container = document.getElementById('sources-grid');
+            if (!container) return;
+
+            container.innerHTML = AVAILABLE_SOURCES.map(source => {
+                const isChecked = activeSubscriptions.has(source.id);
+                return `
+                    <div class="source-item ${isChecked ? 'active' : ''}" id="card-${source.id.replace(/\s+/g, '-')}">
+                        <div class="source-top-row">
+                            <div>
+                                <div class="source-info-title">
+                                    <span>${source.icon}</span>
+                                    <span>${source.name}</span>
+                                </div>
+                                <div class="source-info-desc">${source.desc}</div>
+                            </div>
+                            <label class="switch">
+                                <input type="checkbox" ${isChecked ? 'checked' : ''} onchange="toggleSource('${source.id}')">
+                                <span class="slider"></span>
+                            </label>
+                        </div>
+                        <div class="channels-list">
+                            ${source.channels.map(ch => `<span class="channel-chip">${ch}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function toggleSource(sourceId) {
+            if (activeSubscriptions.has(sourceId)) {
+                activeSubscriptions.delete(sourceId);
+            } else {
+                activeSubscriptions.add(sourceId);
+            }
+            document.getElementById('count-sources-badge').textContent = activeSubscriptions.size;
+            renderSources();
+        }
+
+        function copySubscriptionsList() {
+            const list = Array.from(activeSubscriptions).join(', ');
+            navigator.clipboard.writeText(list).then(() => {
+                showToast(`📋 已複製訂閱列表 (${activeSubscriptions.size} 個來源) 至剪貼簿！`);
+            }).catch(() => {
+                showToast(`訂閱來源: ${list}`);
+            });
+        }
+
+        // ── Direct GitHub REST API Sync ───────────────────────────────────────
+        async function saveSubscriptionsToGithub() {
+            const token = localStorage.getItem('np_gh_pat');
+            if (!token || !token.trim()) {
+                showToast('⚠️ 請先在上方「GitHub 連線認證」填入 PAT Token，才能直接更新遠端！', 4500);
+                document.getElementById('gh-token-input').focus();
+                return;
+            }
+
+            const btn = document.getElementById('btn-save-sync');
+            btn.disabled = true;
+            btn.innerHTML = '<span>⏳ 正在同步至 GitHub...</span>';
+
+            const activeList = Array.from(activeSubscriptions);
+            const contentObj = {
+                updatedAt: new Date().toISOString(),
+                subscriptions: activeList
+            };
+            const jsonString = JSON.stringify(contentObj, null, 2);
+            // Safe UTF-8 to Base64
+            const base64Content = btoa(unescape(encodeURIComponent(jsonString)));
+
+            try {
+                // 1. Get current file SHA
+                const getUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SUBS_FILE_PATH}`;
+                const getRes = await fetch(getUrl, {
+                    headers: {
+                        'Authorization': `Bearer ${token.trim()}`,
+                        'Accept': 'application/vnd.github+json'
+                    }
+                });
+
+                let sha = null;
+                if (getRes.ok) {
+                    const fileData = await getRes.json();
+                    sha = fileData.sha;
+                }
+
+                // 2. Put updated file
+                const putBody = {
+                    message: `update: sync subscriptions via GitHub Pages dashboard [skip ci]`,
+                    content: base64Content,
+                    branch: 'main'
+                };
+                if (sha) putBody.sha = sha;
+
+                const putRes = await fetch(getUrl, {
+                    method: 'PUT',
+                    headers: {
+                        'Authorization': `Bearer ${token.trim()}`,
+                        'Accept': 'application/vnd.github+json',
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(putBody)
+                });
+
+                if (putRes.ok) {
+                    showToast('🎉 成功更新至 GitHub！推播引擎將在下個循環（20 秒內）依新設定推送！', 5000);
+                } else {
+                    const err = await putRes.json();
+                    showToast(`❌ 同步失敗: ${err.message || putRes.statusText}`, 5000);
+                }
+            } catch (err) {
+                showToast(`❌ 連線錯誤: ${err.message}`, 4500);
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = '<span>💾 儲存並即時同步至 GitHub</span>';
+            }
+        }
+
+        // ── History Articles View ─────────────────────────────────────────────
         function slugToTitle(slug) {
             if (!slug) return '';
             return slug
@@ -395,7 +1058,6 @@
                 };
             }
 
-            // String URL format fallback
             const url = String(item);
             let source = '新聞來源';
             let title = '';
@@ -462,15 +1124,14 @@
 
         async function loadNews() {
             try {
-                // Fetch history.json directly from local or GitHub raw
                 let rawData = [];
                 try {
-                    const res = await fetch('./history.json');
+                    const res = await fetch('./history.json?t=' + Date.now());
                     if (res.ok) rawData = await res.json();
                 } catch {}
 
                 if (!rawData || rawData.length === 0) {
-                    const fallbackRes = await fetch('https://raw.githubusercontent.com/innnnnnnnnnn/news-pusher/main/history.json');
+                    const fallbackRes = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/history.json?t=` + Date.now());
                     if (fallbackRes.ok) rawData = await fallbackRes.json();
                 }
 
@@ -481,6 +1142,7 @@
 
                 allArticles = rawData.map(parseItem).reverse();
                 document.getElementById('count-all').textContent = allArticles.length;
+                document.getElementById('count-history-badge').textContent = allArticles.length;
                 renderArticles();
             } catch (err) {
                 document.getElementById('news-grid').innerHTML = `<div class="loading-box">載入失敗: ${err.message}</div>`;
@@ -503,12 +1165,10 @@
         function renderArticles() {
             const grid = document.getElementById('news-grid');
             const filtered = allArticles.filter(item => {
-                // Filter by source
                 if (currentFilter === 'economist' && !item.source.toLowerCase().includes('economist')) return false;
                 if (currentFilter === 'ft' && !item.source.toLowerCase().includes('financial') && !item.source.toLowerCase().includes('ft')) return false;
                 if (currentFilter === 'nyt' && !item.source.toLowerCase().includes('york times') && !item.source.toLowerCase().includes('nyt')) return false;
 
-                // Search query
                 if (searchQuery) {
                     const matchTitle = item.title && item.title.toLowerCase().includes(searchQuery);
                     const matchZh = item.titleZh && item.titleZh.toLowerCase().includes(searchQuery);
@@ -541,7 +1201,10 @@
             `).join('');
         }
 
+        // Initialize on page load
+        checkTokenStatus();
         loadNews();
+        loadSubscriptions();
     </script>
 </body>
 </html>
