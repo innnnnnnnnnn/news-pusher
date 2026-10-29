@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-    "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
-    "titleZh": "印尼爆發抗議活動，要求採取行動遏止雨林大火",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-indonesia-haze-tmfp/22int-indonesia-haze-tmfp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T15:48:53.924Z"
-  },
-  {
     "id": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3",
     "title": "Websites taken offline in race to patch PHP security flaw",
     "titleZh": "網站紛紛下線，爭相修補 PHP 安全漏洞",
@@ -7692,7 +7683,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3c44bd99-dd58-47b8-9fa2-7aad2827b73a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:54:23.956Z"
+    "pushedAt": "2026-10-29T21:09:00.476Z"
   },
   {
     "id": "https://www.ft.com/content/1cc2516d-b718-4e2c-a3b2-1f8bd8acce01",
@@ -7701,7 +7692,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1cc2516d-b718-4e2c-a3b2-1f8bd8acce01?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:54:29.084Z"
+    "pushedAt": "2026-10-29T21:09:29.027Z"
   },
   {
     "id": "https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2",
@@ -7710,7 +7701,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:54:31.046Z"
+    "pushedAt": "2026-10-29T21:09:54.610Z"
   },
   {
     "id": "https://www.ft.com/content/1407fb94-ceee-4c7f-bd1d-268f4aa61b20",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-23-ai-text-index/2026-10-23-ai-text-index-mediumSquareAt3X.png",
     "pushedAt": "2026-10-29T21:08:29.859Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+    "title": "Court to Rule on Australian Woman’s Appeal in Mushroom Murders Case",
+    "titleZh": "法院將對澳洲婦女在蘑菇謀殺案中的上訴做出裁決",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/world/30int-oz-mushroom-appeal-aohgq/30int-oz-mushroom-appeal-aohgq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:10:20.167Z"
   }
 ]
