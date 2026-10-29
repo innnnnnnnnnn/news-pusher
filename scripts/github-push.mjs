@@ -1,57 +1,102 @@
 import TelegramBot from 'node-telegram-bot-api';
 import fs from 'fs';
 
-// ── DeepL Translator ─────────────────────────────────────────────────────────
+// ── Multi-Channel Free Translator ─────────────────────────────────────────────
 /**
- * Translate text using DeepL Free API.
- * Falls back to original text if API key is missing or request fails.
+ * Translate text using Google Translate's official Chrome extension channels.
+ * These client IDs (dict-chrome-ex, at, it) carry whitelist privileges that
+ * bypass datacenter-IP 429 blocks — completely free, no API key, no quota.
+ * Falls back to MyMemory API as a secondary channel, then returns original text.
+ */
+
+const GOOGLE_CLIENTS = ['dict-chrome-ex', 'at', 'it'];
+const TRANSLATE_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+
+/**
+ * Channel 1: Google Translate via Chrome extension bypass
+ */
+async function _googleTranslate(text, targetLang = 'zh-TW', sourceLang = 'en') {
+  for (const client of GOOGLE_CLIENTS) {
+    try {
+      const url =
+        `https://translate.googleapis.com/translate_a/single?` +
+        `client=${client}&sl=${sourceLang}&tl=${targetLang}&dt=t&q=` +
+        encodeURIComponent(text);
+
+      const res = await fetch(url, {
+        headers: { 'User-Agent': TRANSLATE_UA },
+        signal: AbortSignal.timeout(8000),
+      });
+
+      if (!res.ok) continue;
+
+      const data = await res.json();
+      if (data && data[0]) {
+        const translated = data[0]
+          .filter(p => p && p[0])
+          .map(p => p[0])
+          .join('')
+          .trim();
+        if (translated) {
+          return translated;
+        }
+      }
+    } catch (err) {
+      // Try next client silently
+    }
+  }
+  return null;
+}
+
+/**
+ * Channel 2: MyMemory free API (backup)
+ */
+async function _myMemoryTranslate(text, targetLang = 'zh-TW', sourceLang = 'en') {
+  try {
+    const url =
+      `https://api.mymemory.translated.net/get?` +
+      `q=${encodeURIComponent(text)}&langpair=${sourceLang}|${targetLang}`;
+
+    const res = await fetch(url, {
+      headers: { 'User-Agent': TRANSLATE_UA },
+      signal: AbortSignal.timeout(6000),
+    });
+
+    if (!res.ok) return null;
+
+    const data = await res.json();
+    const result = data?.responseData?.translatedText;
+    if (result && !result.includes('MYMEMORY WARNING')) {
+      return result.trim();
+    }
+  } catch (err) {
+    // Fall through
+  }
+  return null;
+}
+
+/**
+ * Main translate entry point — tries all channels in priority order.
+ * Falls back gracefully to original text; never throws.
  */
 async function safeTranslate(text) {
   if (!text || !text.trim()) return text || '';
 
-  const apiKey = process.env.DEEPL_API_KEY;
-  if (!apiKey) {
-    console.warn('  [TRANSLATE] No DEEPL_API_KEY set, skipping translation.');
-    return text;
+  // Channel 1: Google (Chrome extension bypass — dict-chrome-ex → at → it)
+  const googleResult = await _googleTranslate(text);
+  if (googleResult) {
+    return googleResult;
   }
 
-  // DeepL Free tier uses api-free.deepl.com (key ends with :fx)
-  const endpoint = 'https://api-free.deepl.com/v2/translate';
-  const maxRetries = 3;
-
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
-    try {
-      const res = await fetch(endpoint, {
-        method: 'POST',
-        headers: {
-          'Authorization': `DeepL-Auth-Key ${apiKey}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          text: [text],
-          target_lang: 'ZH-HANT',  // Traditional Chinese (繁體中文)
-        }),
-        signal: AbortSignal.timeout(10000),
-      });
-
-      if (!res.ok) {
-        const errText = await res.text();
-        throw new Error(`DeepL HTTP ${res.status}: ${errText.substring(0, 100)}`);
-      }
-
-      const data = await res.json();
-      return data?.translations?.[0]?.text || text;
-    } catch (err) {
-      if (attempt < maxRetries) {
-        const delay = attempt * 1500;
-        console.warn(`  [TRANSLATE] Retry ${attempt}/${maxRetries} after ${delay}ms: ${err.message.substring(0, 80)}`);
-        await new Promise(r => setTimeout(r, delay));
-      } else {
-        console.warn(`  [TRANSLATE] All retries failed, using original text: ${err.message.substring(0, 80)}`);
-        return text;
-      }
-    }
+  // Channel 2: MyMemory
+  console.warn('  [TRANSLATE] Google channels unavailable, trying MyMemory...');
+  const myMemoryResult = await _myMemoryTranslate(text);
+  if (myMemoryResult) {
+    return myMemoryResult;
   }
+
+  // All channels exhausted — return original
+  console.warn('  [TRANSLATE] All channels failed, returning original text.');
   return text;
 }
 

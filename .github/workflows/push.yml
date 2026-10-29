@@ -49,7 +49,6 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           SUBSCRIPTIONS: ${{ vars.SUBSCRIPTIONS || 'The Economist, The New York Times, Financial Times' }}
           INTERVAL_SECONDS: '20'   # Push interval: 20 seconds (10~30s continuous news stream)
         run: |
