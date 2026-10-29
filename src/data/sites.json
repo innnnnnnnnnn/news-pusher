@@ -9,13 +9,13 @@
     "name": "BBC USA",
     "domain": "bbc.com",
     "isRecommended": true,
-    "hasRss": false
+    "hasRss": true
   },
   {
     "name": "Bloomberg",
     "domain": "bloomberg.com",
     "isRecommended": true,
-    "hasRss": false
+    "hasRss": true
   },
   {
     "name": "Bloomberg Adria",
@@ -45,7 +45,7 @@
     "name": "Reuters",
     "domain": "reuters.com",
     "isRecommended": true,
-    "hasRss": false
+    "hasRss": true
   },
   {
     "name": "South China Morning Post",
@@ -75,7 +75,7 @@
     "name": "The Wall Street Journal",
     "domain": "wsj.com",
     "isRecommended": true,
-    "hasRss": false
+    "hasRss": true
   },
   {
     "name": "The Washington Post",
@@ -537,7 +537,7 @@
     "name": "CNBC (news only)",
     "domain": "cnbc.com",
     "isRecommended": false,
-    "hasRss": false
+    "hasRss": true
   },
   {
     "name": "CNHI Group (opt-in to custom sites)",

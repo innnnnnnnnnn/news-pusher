@@ -821,13 +821,62 @@
                 desc: '首頁每日頭條、國際時事報導與財經深度調查',
                 channels: ['Home Page', 'World', 'Business'],
                 theme: 'nyt'
+            },
+            {
+                id: 'The Wall Street Journal',
+                name: 'The Wall Street Journal（華爾街日報）',
+                icon: '📈',
+                desc: '全球商業、金融市場與總經即時動態',
+                channels: ['World News', 'US Business', 'Markets Main'],
+                theme: 'wsj'
+            },
+            {
+                id: 'Bloomberg',
+                name: 'Bloomberg（彭博社）',
+                icon: '⚡',
+                desc: '全球金融市場、總體經濟與科技要聞',
+                channels: ['Markets', 'Technology', 'Economics'],
+                theme: 'bloomberg'
+            },
+            {
+                id: 'Reuters',
+                name: 'Reuters（路透社）',
+                icon: '🌐',
+                desc: '全球頭條快訊、商業時事與科技新訊',
+                channels: ['Top News', 'Business News', 'Technology News'],
+                theme: 'reuters'
+            },
+            {
+                id: 'BBC USA',
+                name: 'BBC News（英國廣播公司）',
+                icon: '🌍',
+                desc: '國際頭條要聞、商業與全球科技',
+                channels: ['World', 'Business', 'Technology'],
+                theme: 'bbc'
+            },
+            {
+                id: 'CNBC (news only)',
+                name: 'CNBC（消費者新聞與商業頻道）',
+                icon: '📊',
+                desc: '美股即時動態、全球金融與商業新聞',
+                channels: ['World News', 'Finance', 'Technology'],
+                theme: 'cnbc'
             }
         ];
 
         let allArticles = [];
         let currentFilter = 'all';
         let searchQuery = '';
-        let activeSubscriptions = new Set(['The Economist', 'Financial Times', 'The New York Times']);
+        let activeSubscriptions = new Set([
+            'The Economist',
+            'Financial Times',
+            'The New York Times',
+            'The Wall Street Journal',
+            'Bloomberg',
+            'Reuters',
+            'BBC USA',
+            'CNBC (news only)'
+        ]);
         let currentSubsSha = null;
 
         // Toast Helper

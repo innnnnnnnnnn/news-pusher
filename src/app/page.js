@@ -19,7 +19,9 @@ export default function Home() {
 
   // Telegram Config
   const [config, setConfig] = useState({ telegramToken: '', chatId: '' });
+  const [ghToken, setGhToken] = useState('');
   const [saving, setSaving] = useState(false);
+  const [syncingGh, setSyncingGh] = useState(false);
   const [triggering, setTriggering] = useState(false);
   const [toast, setToast] = useState('');
 
@@ -32,6 +34,9 @@ export default function Home() {
 
       const cachedSubs = localStorage.getItem('np_subscriptions');
       if (cachedSubs) setSubscriptions(new Set(JSON.parse(cachedSubs)));
+
+      const cachedGhToken = localStorage.getItem('np_gh_token');
+      if (cachedGhToken) setGhToken(cachedGhToken);
     } catch {}
 
     // Load Sites
@@ -43,22 +48,19 @@ export default function Home() {
       })
       .catch(err => console.warn('Failed to load sites:', err));
 
-    // Load Subscriptions (only fallback to API if user has no local customization)
-    try {
-      const hasLocalSubs = localStorage.getItem('np_subscriptions');
-      if (!hasLocalSubs) {
-        fetch('/api/subscriptions')
-          .then(r => r.json())
-          .then(data => {
-            if (data.subscriptions && data.subscriptions.length > 0) {
-              const subsSet = new Set(data.subscriptions);
-              setSubscriptions(subsSet);
-              localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
-            }
-          })
-          .catch(err => console.warn('Failed to load subscriptions:', err));
-      }
-    } catch {}
+    // Load canonical subscriptions from server/GitHub raw
+    fetch('/api/subscriptions')
+      .then(r => r.json())
+      .then(data => {
+        if (data.subscriptions && data.subscriptions.length > 0) {
+          const subsSet = new Set(data.subscriptions);
+          setSubscriptions(subsSet);
+          try {
+            localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
+          } catch {}
+        }
+      })
+      .catch(err => console.warn('Failed to load subscriptions:', err));
 
     // Load Config
     fetch('/api/config')
@@ -95,6 +97,87 @@ export default function Home() {
     setTimeout(() => setToast(''), 3500);
   };
 
+  // Sync subscriptions list to GitHub repository
+  const syncSubscriptionsToGitHub = async (subsArray, explicitToken) => {
+    const token = explicitToken || ghToken || (typeof window !== 'undefined' ? localStorage.getItem('np_gh_token') : '');
+    setSyncingGh(true);
+
+    try {
+      // 1. Call internal API first (which will update local/GitHub if it has backend token)
+      const apiRes = await fetch('/api/subscriptions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ subscriptions: subsArray, token: token || undefined })
+      });
+      const apiData = await apiRes.json().catch(() => ({}));
+
+      // 2. Direct client-side GitHub REST API sync if token is present in browser
+      if (token) {
+        const REPO_OWNER = 'innnnnnnnnnn';
+        const REPO_NAME = 'news-pusher';
+        const FILE_PATH = 'subscriptions.json';
+        const getUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
+
+        const getRes = await fetch(getUrl, {
+          headers: {
+            'Authorization': `Bearer ${token.trim()}`,
+            'Accept': 'application/vnd.github+json'
+          }
+        });
+
+        let sha = null;
+        if (getRes.ok) {
+          const fileData = await getRes.json();
+          sha = fileData.sha;
+        }
+
+        const jsonString = JSON.stringify({
+          updatedAt: new Date().toISOString(),
+          subscriptions: subsArray
+        }, null, 2);
+
+        const base64Content = btoa(unescape(encodeURIComponent(jsonString)));
+
+        const putBody = {
+          message: `update: sync subscriptions via Vercel dashboard [skip ci]`,
+          content: base64Content,
+          branch: 'main'
+        };
+        if (sha) putBody.sha = sha;
+
+        const putRes = await fetch(getUrl, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `Bearer ${token.trim()}`,
+            'Accept': 'application/vnd.github+json',
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(putBody)
+        });
+
+        if (putRes.ok) {
+          showToast('🎉 已成功同步至 GitHub subscriptions.json！推播引擎 20 秒內生效');
+          return;
+        } else {
+          const err = await putRes.json().catch(() => ({}));
+          showToast(`⚠️ GitHub 同步失敗: ${err.message || putRes.statusText}`);
+          return;
+        }
+      }
+
+      if (apiData.syncedToGitHub) {
+        showToast('🎉 已成功同步至 GitHub 儲存庫！推播引擎 20 秒內生效');
+      } else {
+        showToast('💾 已更新本地快取。若需即時同步至 GitHub，請在上方設定 GitHub Token');
+      }
+    } catch (e) {
+      console.warn('Sync failed:', e);
+      showToast(`⚠️ 同步連線發生問題: ${e.message}`);
+    } finally {
+      setSyncingGh(false);
+    }
+  };
+
   // Toggle single site subscription
   const toggleSubscription = async (siteName) => {
     const isSubscribed = subscriptions.has(siteName);
@@ -105,19 +188,13 @@ export default function Home() {
     else newSubs.delete(siteName);
 
     setSubscriptions(newSubs);
+    const subsArray = Array.from(newSubs);
     try {
-      localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(newSubs)));
+      localStorage.setItem('np_subscriptions', JSON.stringify(subsArray));
     } catch {}
 
-    showToast(newStatus ? `✅ 已訂閱 ${siteName}` : `⚪ 已取消訂閱 ${siteName}`);
-
-    try {
-      await fetch('/api/subscriptions', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ site_name: siteName, enabled: newStatus })
-      });
-    } catch {}
+    showToast(newStatus ? `✅ 已選取 ${siteName}` : `⚪ 已取消選取 ${siteName}`);
+    syncSubscriptionsToGitHub(subsArray);
   };
 
   // Quick subscribe to recommended media
@@ -129,21 +206,27 @@ export default function Home() {
       'The Wall Street Journal',
       'Bloomberg',
       'Reuters',
-      'The Washington Post'
+      'BBC USA',
+      'CNBC (news only)'
     ];
     const newSubs = new Set(subscriptions);
     topMedia.forEach(m => newSubs.add(m));
     setSubscriptions(newSubs);
-    localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(newSubs)));
-    showToast(`🎉 已一鍵啟用 ${topMedia.length} 個頂級主流媒體`);
+    const subsArray = Array.from(newSubs);
+    try {
+      localStorage.setItem('np_subscriptions', JSON.stringify(subsArray));
+    } catch {}
 
-    for (const site of topMedia) {
-      fetch('/api/subscriptions', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ site_name: site, enabled: true })
-      }).catch(() => {});
-    }
+    showToast(`🎉 已一鍵選取 ${topMedia.length} 個頂級主流媒體`);
+    syncSubscriptionsToGitHub(subsArray);
+  };
+
+  const handleSaveGhToken = (token) => {
+    setGhToken(token);
+    try {
+      localStorage.setItem('np_gh_token', token);
+      showToast('🔑 已儲存 GitHub Token！後續變更將直接同步至儲存庫');
+    } catch {}
   };
 
   // Copy active subscriptions for GitHub Actions
@@ -431,12 +514,64 @@ export default function Home() {
             </div>
 
             <div className="controls-row">
+              <button
+                className="btn btn-primary btn-sm"
+                onClick={() => syncSubscriptionsToGitHub(Array.from(subscriptions))}
+                disabled={syncingGh}
+              >
+                {syncingGh ? '⏳ 同步中...' : '💾 立即同步至 GitHub'}
+              </button>
               <button className="btn btn-secondary btn-sm" onClick={subscribeRecommended}>
                 ⭐ 一鍵選取頂級主流媒體
               </button>
               <button className="btn btn-secondary btn-sm" onClick={copySubscriptions}>
                 📋 複製訂閱列表
               </button>
+            </div>
+          </div>
+
+          {/* GitHub Sync Bar */}
+          <div style={{
+            background: 'rgba(99, 102, 241, 0.08)',
+            border: '1px solid rgba(99, 102, 241, 0.25)',
+            borderRadius: '12px',
+            padding: '12px 16px',
+            marginBottom: '20px',
+            display: 'flex',
+            flexWrap: 'wrap',
+            gap: '12px',
+            alignItems: 'center',
+            justifyContent: 'space-between'
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flex: '1 1 320px' }}>
+              <span style={{ fontSize: '1.1rem' }}>🔑</span>
+              <input
+                type="password"
+                placeholder="貼入 GitHub PAT (以 gho_ 或 ghp_ 開頭，需 repo 權限)"
+                value={ghToken}
+                onChange={e => handleSaveGhToken(e.target.value)}
+                style={{
+                  background: 'rgba(0, 0, 0, 0.25)',
+                  border: '1px solid rgba(255, 255, 255, 0.15)',
+                  borderRadius: '8px',
+                  padding: '7px 12px',
+                  color: '#fff',
+                  fontSize: '0.85rem',
+                  flex: 1,
+                  outline: 'none'
+                }}
+              />
+            </div>
+            <div style={{ fontSize: '0.8rem', color: 'var(--muted)', flex: '1 1 280px' }}>
+              {ghToken ? (
+                <span style={{ color: '#10b981', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                  ● 已綁定 Token：點擊開關將<strong>即時同步寫入 GitHub</strong>，下個循環（20 秒內）生效！
+                </span>
+              ) : (
+                <span>
+                  💡 填入 Token 可直連寫入 <code>subscriptions.json</code>。若無填寫，將嘗試透過後端同步或保存於本地快取。
+                </span>
+              )}
             </div>
           </div>
 

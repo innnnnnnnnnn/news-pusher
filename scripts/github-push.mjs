@@ -147,6 +147,46 @@ const OFFICIAL_RSS_SOURCES = {
       'https://rss.nytimes.com/services/xml/rss/nyt/Business.xml',
     ],
   },
+  'reuters': {
+    label: '路透社 Reuters',
+    feeds: [
+      'https://feeds.feedburner.com/reuters/topNews',
+      'https://feeds.feedburner.com/reuters/businessNews',
+      'https://feeds.feedburner.com/reuters/technologyNews',
+    ],
+  },
+  'bloomberg': {
+    label: '彭博社 Bloomberg',
+    feeds: [
+      'https://feeds.bloomberg.com/markets/news.rss',
+      'https://feeds.bloomberg.com/technology/news.rss',
+      'https://feeds.bloomberg.com/economics/news.rss',
+    ],
+  },
+  'the wall street journal': {
+    label: '華爾街日報 The Wall Street Journal',
+    feeds: [
+      'https://feeds.a.dj.com/rss/RSSWorldNews.xml',
+      'https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml',
+      'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
+    ],
+  },
+  'bbc usa': {
+    label: 'BBC News',
+    feeds: [
+      'https://feeds.bbci.co.uk/news/world/rss.xml',
+      'https://feeds.bbci.co.uk/news/business/rss.xml',
+      'https://feeds.bbci.co.uk/news/technology/rss.xml',
+    ],
+  },
+  'cnbc (news only)': {
+    label: 'CNBC',
+    feeds: [
+      'https://www.cnbc.com/id/100003114/device/rss/rss.html',
+      'https://www.cnbc.com/id/10000664/device/rss/rss.html',
+      'https://www.cnbc.com/id/10001147/device/rss/rss.html',
+    ],
+  },
 };
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -374,9 +414,15 @@ async function pushArticles() {
   const allArticles = [];
 
   for (const siteName of sites) {
-    const sourceKey = Object.keys(OFFICIAL_RSS_SOURCES).find(k =>
-      siteName.toLowerCase().includes(k)
-    );
+    const sName = siteName.toLowerCase().trim();
+    const sourceKey = Object.keys(OFFICIAL_RSS_SOURCES).find(k => {
+      // Direct match or partial match
+      if (sName.includes(k) || k.includes(sName)) return true;
+      if (k === 'the wall street journal' && (sName.includes('wsj') || sName.includes('wall street'))) return true;
+      if (k === 'bbc usa' && sName.startsWith('bbc')) return true;
+      if (k === 'cnbc (news only)' && sName.startsWith('cnbc')) return true;
+      return false;
+    });
 
     if (!sourceKey) {
       console.log(`[SKIP] No RSS config for: ${siteName}`);
