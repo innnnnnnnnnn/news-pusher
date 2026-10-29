@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
-    "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
-    "titleZh": "美以針對伊朗的新攻擊計畫，以及川普的吹哨人獎勵計畫",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-iran-03-vwtg/22themorning-iran-03-vwtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T14:58:24.836Z"
-  },
-  {
     "id": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6",
     "title": "Europe’s bracing reality on US bond yields",
     "titleZh": "歐洲面對美國公債殖利率的嚴峻現實",
@@ -7341,7 +7332,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1ff658df-963e-4b92-9e12-f0cf5517b2ec?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T21:07:25.476Z"
+    "pushedAt": "2026-10-29T23:31:15.550Z"
   },
   {
     "id": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/mj37porhp?ref=rss",
     "image": "https://cdn.flipso.com/p/mj37porhp_square.jpg",
     "pushedAt": "2026-10-29T23:30:47.311Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots",
+    "title": "29-Year-Old Female Founder Breaths Life Into Next Generation Home-Help Robots",
+    "titleZh": "29 歲女性創辦人為下一代家庭幫助機器人注入活力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots",
+    "image": null,
+    "pushedAt": "2026-10-29T23:31:44.298Z"
   }
 ]
