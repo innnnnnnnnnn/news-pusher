@@ -1,20 +1,19 @@
 # 📰 News Pusher
 
-> 自動從 The Economist、Financial Times、New York Times 抓取最新文章，透過多通道官方擴充繞過技術翻譯成繁體中文後，24/7 持續推送至 Telegram。
+> 自動從 The Economist、Financial Times、New York Times、The Wall Street Journal、Bloomberg、Reuters、BBC News、CNBC 抓取最新文章，透過多通道官方擴充繞過技術翻譯成繁體中文後，24/7 持續推送至 Telegram。
 >
-> Automatically fetches latest articles from The Economist, Financial Times, and New York Times, translates them to Traditional Chinese via multi-channel Chrome extension bypass, and streams them 24/7 to Telegram.
+> Automatically fetches latest articles from global top media (Economist, FT, NYT, WSJ, Bloomberg, Reuters, BBC, CNBC), translates them to Traditional Chinese via multi-channel Chrome extension bypass, and streams them 24/7 to Telegram.
 
 [![News Pusher Continuous](https://github.com/innnnnnnnnnn/news-pusher/actions/workflows/push.yml/badge.svg)](https://github.com/innnnnnnnnnn/news-pusher/actions/workflows/push.yml)
-[![Version: 2.0.0](https://img.shields.io/badge/version-2.0.0-blue.svg)](package.json)
+[![Version: 2.1.0](https://img.shields.io/badge/version-2.1.0-blue.svg)](package.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
-## 📺 Dashboard 看板
+## 📺 Dashboard 控制台與管理看板
 
-**[https://news-pusher.vercel.app](https://news-pusher.vercel.app)**
-
-即時查看最近推送的文章紀錄與新聞看板。/ View the live push history dashboard.
+- **[News Pusher 控制台 (Vercel)](https://news-pusher.vercel.app)**：完整的全球 580+ 媒體資料庫管理、訂閱勾選、即時同步至 GitHub、Telegram 連線設定。
+- **[News Pusher 即時看板 (GitHub Pages)](https://innnnnnnnnnn.github.io/news-pusher/)**：輕量靜態即時時事看板與主要媒體訂閱管理。
 
 ---
 
@@ -22,7 +21,8 @@
 
 | 功能 | Feature | 說明 |
 |------|---------|------|
-| 📡 **官方 RSS 抓取** | Official RSS feeds | 輕量高頻抓取，徹底解決 Cloudflare 反爬蟲阻擋 |
+| 📡 **官方 RSS 抓取** | Official RSS feeds | 輕量高頻抓取，徹底解決 Cloudflare 反爬蟲阻擋，支援 8 大國際頂尖媒體 |
+| ⚙️ **即時訂閱熱重載** | Live Subscriptions Hot-Reload | 透過控制台直接同步 `subscriptions.json`，GitHub Actions 引擎於 20 秒內自動依最新勾選生效 |
 | ⚡ **多通道免額度翻譯** | Multi-channel Free Translation | Google Chrome 擴充白名單通道（`dict-chrome-ex`、`at`、`it`）+ MyMemory 備援，無需 API Key、無額度限制、繞過機房 429 封鎖 |
 | 📬 **Telegram Bot 即時推播** | Telegram Bot push stream | 包含頭條封面、中英雙語對照標題、重點摘要與原文閱讀連結 |
 | 🔄 **24/7 不間斷接力架構** | 24/7 Continuous Relay | 單次 Runner 運算 5 小時，結束前自動接力觸發下一輪，達成真正無縫常駐串流 |
@@ -39,6 +39,11 @@
 | 🗞️ **The Economist（經濟學人）** | Leaders, Finance & Economics, Business, US, China, Asia, International |
 | 📰 **Financial Times（金融時報）** | Home Global, Home UK, Global Economy, World News, Companies |
 | 📄 **New York Times（紐約時報）** | Home Page, World, Business |
+| 📈 **The Wall Street Journal（華爾街日報）** | World News, US Business, Markets Main |
+| ⚡ **Bloomberg（彭博社）** | Markets, Technology, Economics |
+| 🌐 **Reuters（路透社）** | Top News, Business News, Technology News |
+| 🌍 **BBC News（英國廣播公司）** | World, Business, Technology |
+| 📊 **CNBC（消費者新聞與商業頻道）** | World News, Finance, Technology |
 
 ---
 
