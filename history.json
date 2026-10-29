@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/32f461e9-b949-4b58-9704-1392074a6fb6",
-    "title": "The peculiar charms of douzhi, Beijing’s fermented bean juice",
-    "titleZh": "豆漿——北京特有的發酵豆漿所蘊含的獨特魅力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/32f461e9-b949-4b58-9704-1392074a6fb6",
-    "image": null,
-    "pushedAt": "2026-10-22T12:01:21.240Z"
-  },
-  {
     "id": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98",
     "title": "The battle for Israel’s future",
     "titleZh": "為以色列的未來而戰",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-29T20:43:11.285Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video",
+    "title": "No One Wanted These Amazon Earnings, Thill Says",
+    "titleZh": "蒂爾表示，沒有人想要亞馬遜的這些收益",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video",
+    "image": null,
+    "pushedAt": "2026-10-29T20:43:43.618Z"
   }
 ]
