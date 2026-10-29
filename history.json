@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/531d1ff7-c0b5-427a-87d1-9372c3cf87d3",
-    "title": "Big private equity backers call for greater scrutiny of sweetheart deals",
-    "titleZh": "大型私募股權投資方呼籲對「特殊優惠交易」進行更嚴格的審查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/531d1ff7-c0b5-427a-87d1-9372c3cf87d3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T13:32:54.329Z"
-  },
-  {
     "id": "https://www.ft.com/content/32f461e9-b949-4b58-9704-1392074a6fb6",
     "title": "The peculiar charms of douzhi, Beijing’s fermented bean juice",
     "titleZh": "豆漿——北京特有的發酵豆漿所蘊含的獨特魅力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
     "image": null,
     "pushedAt": "2026-10-29T20:42:39.041Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
+    "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
+    "titleZh": "古巴外長：我們會比川普活得更久",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T20:43:11.285Z"
   }
 ]
