@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
-    "title": "Why Many Voters Are Unhappy With the Economy",
-    "titleZh": "為何許多選民對經濟狀況感到不滿",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
-    "image": null,
-    "pushedAt": "2026-10-26T14:22:56.053Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
     "title": "For Clues About How A.I. Will Change Work, Look to the Past",
     "titleZh": "若想了解人工智慧將如何改變工作，不妨從過去尋找線索",
@@ -6459,7 +6450,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T19:32:41.644Z"
+    "pushedAt": "2026-10-29T21:55:28.902Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-29T21:55:00.458Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/ge-healthcare-ceo-on-3q-earnings-beat-impact-of-ai-video",
+    "title": "GE Healthcare CEO on 3Q Earnings Beat, Impact of AI",
+    "titleZh": "GE醫療執行長談第三季獲利成長以及人工智慧的影響",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/ge-healthcare-ceo-on-3q-earnings-beat-impact-of-ai-video",
+    "image": null,
+    "pushedAt": "2026-10-29T21:55:59.422Z"
   }
 ]
