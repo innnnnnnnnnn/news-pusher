@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/da42f030-81f8-4137-85b6-0b0276448199",
-    "title": "Walter Hood is reshaping the American cityscape",
-    "titleZh": "沃爾特·胡德正在重塑美國的城市風貌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/da42f030-81f8-4137-85b6-0b0276448199",
-    "image": null,
-    "pushedAt": "2026-10-22T04:21:11.163Z"
-  },
-  {
     "id": "https://www.ft.com/content/aa873f0f-464d-4fc5-a630-1f1a968796bb",
     "title": "Are we sleepwalking into a third world war?",
     "titleZh": "我們是否正在渾然不覺地走向第三次世界大戰？",
@@ -7602,7 +7593,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:53:24.519Z"
+    "pushedAt": "2026-10-29T21:03:49.425Z"
   },
   {
     "id": "https://www.ft.com/content/c2919954-f593-4a4d-867a-1110a9dfaacc",
@@ -7611,7 +7602,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c2919954-f593-4a4d-867a-1110a9dfaacc?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:53:28.777Z"
+    "pushedAt": "2026-10-29T21:04:15.111Z"
   },
   {
     "id": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers",
     "image": null,
     "pushedAt": "2026-10-29T21:03:19.994Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
+    "title": "Big Take: From ‘Vibecession’ to ‘Shrugflation’",
+    "titleZh": "大觀點：從“Vibecession”到“Shrugflation”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
+    "image": null,
+    "pushedAt": "2026-10-29T21:04:42.658Z"
   }
 ]
