@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
-    "title": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
-    "titleZh": "更高、更快、更刺激：雲霄飛車是否變得過於極限了？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-coaster-reckoning-top-lfwp/21nat-coaster-reckoning-top-lfwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T15:36:19.840Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/10/22/india-is-pouring-money-and-concrete-into-its-border-with-china",
     "title": "India is pouring money and concrete into its border with China",
     "titleZh": "印度正將大量資金與混凝土投入其與中國的邊境地區",
@@ -4857,7 +4848,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
     "image": null,
-    "pushedAt": "2026-10-29T21:16:54.877Z"
+    "pushedAt": "2026-10-29T23:41:43.139Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
@@ -8646,7 +8637,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
     "image": null,
-    "pushedAt": "2026-10-29T21:16:24.679Z"
+    "pushedAt": "2026-10-29T23:41:17.948Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/supply-snags-a-big-swing-factor-for-intel-seaport-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
     "image": null,
     "pushedAt": "2026-10-29T23:40:46.912Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+    "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
+    "titleZh": "谷歌 5000 億美元的血洗反映了它面臨的人工智慧危險",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+    "image": null,
+    "pushedAt": "2026-10-29T23:42:13.221Z"
   }
 ]
