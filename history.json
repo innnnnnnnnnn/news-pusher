@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
-    "title": "Why a Pillar of Christian Journalism is in Turmoil",
-    "titleZh": "為何基督教新聞界的支柱正陷入動盪",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21nat-christianity-today--01-gqtb/21nat-christianity-today--01-gqtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T09:14:08.427Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
     "title": "Oregon Teacher Disputes Account of Her Heroism During School Shooting",
     "titleZh": "俄勒岡州一名教師對關於她在校園槍擊案中英勇事蹟的描述提出異議",
@@ -7035,7 +7026,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/dutch-zookeeper-dead-leopard-netherlands.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-zookeeper-qkmp/28xp-zookeeper-qkmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:46:15.000Z"
+    "pushedAt": "2026-10-29T20:04:12.282Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
@@ -7044,7 +7035,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-eisenkot-choices-topart-01-ztml/28israel-eisenkot-choices-topart-01-ztml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:46:19.886Z"
+    "pushedAt": "2026-10-29T20:04:37.091Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
@@ -7053,7 +7044,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/XX-int-UK-TOMMY-ROBINSON-HFO-mktl/XX-int-UK-TOMMY-ROBINSON-HFO-mktl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:46:23.323Z"
+    "pushedAt": "2026-10-29T20:05:02.920Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/pentagon-probing-freezer-failures-at-multiple-military-outposts",
     "image": null,
     "pushedAt": "2026-10-29T20:03:43.791Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
+    "title": "Intel Outlook Hurt by Weak Market for Personal Computer Chips",
+    "titleZh": "個人電腦晶片市場疲軟損害了英特爾的前景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
+    "image": null,
+    "pushedAt": "2026-10-29T20:05:32.165Z"
   }
 ]
