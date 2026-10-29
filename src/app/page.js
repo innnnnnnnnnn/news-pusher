@@ -48,19 +48,22 @@ export default function Home() {
       })
       .catch(err => console.warn('Failed to load sites:', err));
 
-    // Load canonical subscriptions from server/GitHub raw
-    fetch('/api/subscriptions')
-      .then(r => r.json())
-      .then(data => {
-        if (data.subscriptions && data.subscriptions.length > 0) {
-          const subsSet = new Set(data.subscriptions);
-          setSubscriptions(subsSet);
-          try {
-            localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
-          } catch {}
-        }
-      })
-      .catch(err => console.warn('Failed to load subscriptions:', err));
+    // Load canonical subscriptions: ONLY if user has no local subscriptions yet
+    try {
+      const hasLocalSubs = localStorage.getItem('np_subscriptions');
+      if (!hasLocalSubs) {
+        fetch('/api/subscriptions', { cache: 'no-store' })
+          .then(r => r.json())
+          .then(data => {
+            if (data.subscriptions && data.subscriptions.length > 0) {
+              const subsSet = new Set(data.subscriptions);
+              setSubscriptions(subsSet);
+              localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
+            }
+          })
+          .catch(err => console.warn('Failed to load subscriptions:', err));
+      }
+    } catch {}
 
     // Load Config
     fetch('/api/config')
@@ -224,9 +227,26 @@ export default function Home() {
   const handleSaveGhToken = (token) => {
     setGhToken(token);
     try {
-      localStorage.setItem('np_gh_token', token);
-      showToast('🔑 已儲存 GitHub Token！後續變更將直接同步至儲存庫');
+      localStorage.setItem('np_gh_token', token.trim());
     } catch {}
+  };
+
+  const refreshSubscriptionsFromRemote = async () => {
+    showToast('🔄 正在從 GitHub 載入最新訂閱設定...');
+    try {
+      const res = await fetch('/api/subscriptions', { cache: 'no-store' });
+      const data = await res.json();
+      if (data.subscriptions && data.subscriptions.length > 0) {
+        const subsSet = new Set(data.subscriptions);
+        setSubscriptions(subsSet);
+        try {
+          localStorage.setItem('np_subscriptions', JSON.stringify(Array.from(subsSet)));
+        } catch {}
+        showToast(`✅ 已從 GitHub 載入最新 ${data.subscriptions.length} 個訂閱來源！`);
+      }
+    } catch (e) {
+      showToast(`❌ 載入失敗: ${e.message}`);
+    }
   };
 
   // Copy active subscriptions for GitHub Actions
@@ -519,13 +539,19 @@ export default function Home() {
                 onClick={() => syncSubscriptionsToGitHub(Array.from(subscriptions))}
                 disabled={syncingGh}
               >
-                {syncingGh ? '⏳ 同步中...' : '💾 立即同步至 GitHub'}
+                {syncingGh ? '⏳ 同步中...' : '💾 儲存並同步至 GitHub'}
+              </button>
+              <button
+                className="btn btn-secondary btn-sm"
+                onClick={refreshSubscriptionsFromRemote}
+              >
+                🔄 從 GitHub 重載
               </button>
               <button className="btn btn-secondary btn-sm" onClick={subscribeRecommended}>
                 ⭐ 一鍵選取頂級主流媒體
               </button>
               <button className="btn btn-secondary btn-sm" onClick={copySubscriptions}>
-                📋 複製訂閱列表
+                📋 複製列表
               </button>
             </div>
           </div>

@@ -2,24 +2,37 @@ import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 const REPO_OWNER = 'innnnnnnnnnn';
 const REPO_NAME = 'news-pusher';
 const FILE_PATH = 'subscriptions.json';
 
 export async function GET() {
   let list = [];
+  let source = 'fallback';
 
-  // 1. Fetch directly from GitHub raw (latest source of truth)
+  // 1. Fetch directly from GitHub Contents API (always fresh, zero CDN cache)
   try {
-    const res = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${FILE_PATH}?t=${Date.now()}`, {
+    const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`, {
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'User-Agent': 'NewsPusher-Vercel'
+      },
       cache: 'no-store'
     });
     if (res.ok) {
-      const parsed = await res.json();
-      list = Array.isArray(parsed) ? parsed : (parsed.subscriptions || []);
+      const data = await res.json();
+      if (data.content) {
+        const decoded = Buffer.from(data.content, 'base64').toString('utf8');
+        const parsed = JSON.parse(decoded);
+        list = Array.isArray(parsed) ? parsed : (parsed.subscriptions || []);
+        source = 'github-api';
+      }
     }
   } catch (err) {
-    console.warn('Failed to fetch from GitHub raw:', err.message);
+    console.warn('Failed to fetch from GitHub API:', err.message);
   }
 
   // 2. Fallback to local subscriptions.json
@@ -29,6 +42,7 @@ export async function GET() {
       if (fs.existsSync(localPath)) {
         const parsed = JSON.parse(fs.readFileSync(localPath, 'utf8'));
         list = Array.isArray(parsed) ? parsed : (parsed.subscriptions || []);
+        source = 'local-file';
       }
     } catch {}
   }
@@ -40,19 +54,17 @@ export async function GET() {
       'Financial Times',
       'The New York Times',
       'The Wall Street Journal',
-      'Bloomberg',
-      'Reuters',
-      'BBC USA',
-      'CNBC (news only)'
+      'Bloomberg'
     ];
   }
 
   return NextResponse.json({
     success: true,
+    source,
     subscriptions: list
   }, {
     headers: {
-      'Cache-Control': 'no-store, max-age=0'
+      'Cache-Control': 'no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0'
     }
   });
 }
