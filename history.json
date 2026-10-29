@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9cabd687-ea06-41f4-93ac-f5e16a54ccb6",
-    "title": "Armies of lawyers prepare to stop interference in US midterms",
-    "titleZh": "大批律師正準備阻止對美國中期選舉的干預",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9cabd687-ea06-41f4-93ac-f5e16a54ccb6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T11:55:40.977Z"
-  },
-  {
     "id": "https://www.ft.com/content/7092a3c3-e62d-47d8-bb2d-757e38fd2346",
     "title": "‘Eat. Sleep. Securitize. Repeat.’",
     "titleZh": "「吃。睡。證券化。重複。」",
@@ -7314,7 +7305,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/business/senate-races-kansas-texas-bots.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27midterms-disinfo-report-bvmq/27midterms-disinfo-report-bvmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:49:40.623Z"
+    "pushedAt": "2026-10-29T20:33:04.806Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video",
     "image": null,
     "pushedAt": "2026-10-29T20:32:32.572Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/what-intel-s-ceo-had-to-say-about-forecast-demand-video",
+    "title": "What Intel's CEO Had to Say About Forecast, Demand",
+    "titleZh": "英特爾首席執行官對預測、需求的看法",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/what-intel-s-ceo-had-to-say-about-forecast-demand-video",
+    "image": null,
+    "pushedAt": "2026-10-29T20:33:37.015Z"
   }
 ]
