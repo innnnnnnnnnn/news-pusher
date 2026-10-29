@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-    "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-    "titleZh": "人工智慧製作的選舉影片正席捲巴西。這些影片會影響選民投票意向嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-    "image": null,
-    "pushedAt": "2026-10-23T15:33:09.600Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
-    "title": "Senator Asks 4 Accounting Giants to Describe Malta Tax Advice",
-    "titleZh": "參議員要求四家會計巨頭說明其針對馬耳他的稅務建議",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
-    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-malta-letters-vfbc/20biz-malta-letters-vfbc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T07:21:29.913Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
     "title": "A Battle for Control of India’s Biggest Business Empire",
     "titleZh": "一場爭奪印度最大商業帝國控制權的戰役",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-29T18:54:59.118Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
+    "title": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
+    "titleZh": "塔倫‧西蒙 (Taryn Simon) 在古根漢的《父國我愛你》中充滿了證據",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
+    "image": null,
+    "pushedAt": "2026-10-29T18:55:28.498Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
+    "title": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
+    "titleZh": "美國聯合國激烈攤牌後驅逐古巴外交官",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-diplo-cuba-kbwc/29dc-diplo-cuba-kbwc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T18:55:32.780Z"
   }
 ]
