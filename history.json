@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
-    "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
-    "titleZh": "法官限制國土安全部旨在查出選民舞弊的實地行動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
-    "image": "https://static01.nyt.com/images/2025/11/04/multimedia/21dc-voting/04election-day-us-carousel-CAL-bwfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T13:26:04.847Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
     "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
     "titleZh": "「MAGA賓果」與忠誠問題：密西根州參議院辯論的 5 大重點",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-stewart-moments/00xp-stewart-moments-mediumSquareAt3X-v2.png",
     "pushedAt": "2026-10-29T20:14:51.910Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/safe-haven-demand-will-persist-larosiliere-video",
+    "title": "Safe Haven Demand Will Persist: Larosiliere",
+    "titleZh": "Larosiliere：避險需求將持續存在",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/safe-haven-demand-will-persist-larosiliere-video",
+    "image": null,
+    "pushedAt": "2026-10-29T20:15:27.697Z"
   }
 ]
