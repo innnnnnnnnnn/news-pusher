@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
-    "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
-    "titleZh": "騷亂後，法國商店遭搶劫的商品出現在轉售網站上",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-france-resale-01-hqlz/21biz-france-resale-01-hqlz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T12:00:51.909Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
     "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
     "titleZh": "阿富汗與巴基斯坦之間的「公開戰爭」增添了不穩定因素",
@@ -7125,7 +7116,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/biz-volkswagen-china-hbvl/biz-volkswagen-china-hbvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:47:35.568Z"
+    "pushedAt": "2026-10-29T20:17:03.087Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-quits-ecb-early-french-debt-global-return-video",
     "image": null,
     "pushedAt": "2026-10-29T20:16:33.129Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+    "title": "Amazon Spending Soars on Effort to Meet Demand for AI Services",
+    "titleZh": "亞馬遜支出激增以滿足人工智慧服務需求",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+    "image": null,
+    "pushedAt": "2026-10-29T20:17:33.285Z"
   }
 ]
