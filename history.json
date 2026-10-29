@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bfb6ca00-5deb-4c39-87f0-9dcf055e0ff4",
-    "title": "UK students who graduated in 2024 more likely to be unemployed",
-    "titleZh": "2024年畢業的英國學生失業的可能性較高",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bfb6ca00-5deb-4c39-87f0-9dcf055e0ff4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T03:44:45.312Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
     "title": "Why a Pillar of Christian Journalism is in Turmoil",
     "titleZh": "為何基督教新聞界的支柱正陷入動盪",
@@ -6999,7 +6990,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-voices-topart-01-fqbp/28israel-voices-topart-01-fqbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:45:52.677Z"
+    "pushedAt": "2026-10-29T20:01:34.730Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
@@ -7008,7 +6999,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-passenger-lqtk/28spain-crash-passenger-lqtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:45:57.335Z"
+    "pushedAt": "2026-10-29T20:01:59.750Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
@@ -7017,7 +7008,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:46:02.413Z"
+    "pushedAt": "2026-10-29T20:02:25.389Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
@@ -7026,7 +7017,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-netanyahu-topart-01-vfkb/28israel-netanyahu-topart-01-vfkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:46:07.049Z"
+    "pushedAt": "2026-10-29T20:02:50.310Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html",
@@ -7035,7 +7026,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-puente-kbtw/28spain-crash-puente-kbtw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:46:10.605Z"
+    "pushedAt": "2026-10-29T20:03:15.031Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/dutch-zookeeper-dead-leopard-netherlands.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/ares-ceo-says-it-s-avoiding-backing-ai-chips-citing-complexity",
     "image": null,
     "pushedAt": "2026-10-29T20:01:05.945Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/pentagon-probing-freezer-failures-at-multiple-military-outposts",
+    "title": "Pentagon Probing Freezer Failures at Multiple Military Outposts",
+    "titleZh": "五角大廈調查多個軍事前哨的冰箱故障",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/pentagon-probing-freezer-failures-at-multiple-military-outposts",
+    "image": null,
+    "pushedAt": "2026-10-29T20:03:43.791Z"
   }
 ]
