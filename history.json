@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/reports/wealth",
-    "title": "FT Wealth: October",
-    "titleZh": "《金融時報》財富專欄：10月",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/reports/wealth?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T17:27:42.963Z"
-  },
-  {
-    "id": "https://www.ft.com/content/cc456111-4c0b-4eaa-8910-53d8933271a3",
-    "title": "Nestlé removes Russian business from accounts after Kremlin takeover",
-    "titleZh": "克里姆林宮接管後，雀巢將俄羅斯業務從財務報表中移除",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cc456111-4c0b-4eaa-8910-53d8933271a3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T20:54:24.190Z"
-  },
-  {
     "id": "https://www.ft.com/content/d8e3ca1c-ef96-4148-9ca2-49d48f1604b8",
     "title": "London credit hedge fund Arini’s losses mount",
     "titleZh": "倫敦信用對沖基金 Arini 的虧損持續擴大",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-29T21:34:03.961Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817",
+    "title": "FirstFT: Intel stock drops 16% as it forecasts weaker chip sales",
+    "titleZh": "FirstFT：英特爾預期晶片銷售疲軟，股價下跌 16%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T21:34:35.703Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35",
+    "title": "Why the slowdown in Wall Street deals?",
+    "titleZh": "為什麼華爾街交易放緩？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T21:34:41.249Z"
   }
 ]
