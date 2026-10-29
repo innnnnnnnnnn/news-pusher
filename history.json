@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d",
-    "title": "Ukraine to buy military supplies via Nato agency",
-    "titleZh": "烏克蘭將透過北約機構採購軍用物資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T18:31:51.181Z"
-  },
-  {
     "id": "https://www.ft.com/content/7df9d057-b1b5-4a11-91c7-6504879f4ed6",
     "title": "Chocoholics and meat lovers feel brunt of rising UK food prices",
     "titleZh": "巧克力愛好者與肉類愛好者首當其衝，深受英國食品價格上漲之苦",
@@ -7305,7 +7296,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27biz-china-stocks-02-cfmq/27biz-china-stocks-02-cfmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:49:49.302Z"
+    "pushedAt": "2026-10-29T20:35:48.338Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
@@ -7314,7 +7305,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27db-anthropic-fwjk/27db-anthropic-fwjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:49:55.298Z"
+    "pushedAt": "2026-10-29T20:36:15.713Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/13d0c9c9-77c9-4526-90e1-ef95a2024224?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-29T20:35:13.703Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
+    "title": "Coinbase Returns to Profitability While Posting Another Revenue Drop",
+    "titleZh": "Coinbase 恢復獲利，同時收入再次下降",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
+    "image": null,
+    "pushedAt": "2026-10-29T20:36:43.462Z"
   }
 ]
