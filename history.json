@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cbf8759b-ec19-4728-ab65-5706bc3343af",
-    "title": "Liquidators of Chinese property giant pursue Harvard to recoup donation",
-    "titleZh": "中國房地產巨頭的清算人向哈佛大學追討捐款",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cbf8759b-ec19-4728-ab65-5706bc3343af?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T15:47:09.576Z"
-  },
-  {
     "id": "https://www.ft.com/reports/wealth",
     "title": "FT Wealth: October",
     "titleZh": "《金融時報》財富專欄：10月",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
     "image": null,
     "pushedAt": "2026-10-29T21:33:29.697Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+    "titleZh": "A.I. 英特爾股價暴跌 20%阻礙了其部分業務",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:34:03.961Z"
   }
 ]
