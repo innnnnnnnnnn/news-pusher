@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4",
-    "title": "No wars and no inflation: Has Trump delivered on his big promises?",
-    "titleZh": "沒有戰爭，也沒有通貨膨脹：川普是否兌現了他的重大承諾？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-25T11:21:53.144Z"
-  },
-  {
     "id": "https://www.ft.com/content/7e3f94f6-d3d7-41b7-8d74-b98b5385516f",
     "title": "Schwarzenegger urges nuclear power for California to ‘terminate pollution’",
     "titleZh": "施瓦辛格呼籲加州發展核能以「終結污染」",
@@ -7610,8 +7601,8 @@
     "titleZh": "谷歌正在吞噬自己——但它仍然可能吞噬其他所有人",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-29T18:53:10.093Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff793cf46-9595-483a-a5f0-952793257c0b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-29T21:00:51.576Z"
   },
   {
     "id": "https://www.ft.com/content/9f5a08ce-1997-4e6c-bf05-b2f61c63edd4",
@@ -7620,7 +7611,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9f5a08ce-1997-4e6c-bf05-b2f61c63edd4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:53:15.073Z"
+    "pushedAt": "2026-10-29T21:01:17.394Z"
   },
   {
     "id": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c",
@@ -7629,7 +7620,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:53:20.127Z"
+    "pushedAt": "2026-10-29T21:01:42.871Z"
   },
   {
     "id": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
     "image": "https://static01.nyt.com/images/2026/10/29/science/29sci-dna-bundy-01/29sci-dna-bundy-01-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-29T21:00:21.623Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/why-the-us-economy-looks-strong-but-feels-bad-to-americans",
+    "title": "Why the US Economy Looks Strong but Feels Bad to Americans",
+    "titleZh": "為什麼美國經濟看起來很強勁，但美國人卻感覺很糟糕",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/why-the-us-economy-looks-strong-but-feels-bad-to-americans",
+    "image": null,
+    "pushedAt": "2026-10-29T21:02:11.209Z"
   }
 ]
