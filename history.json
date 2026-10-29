@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98",
-    "title": "The battle for Israel’s future",
-    "titleZh": "為以色列的未來而戰",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffef0e28c-641b-4f7a-b163-f4533cda4acc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T13:33:46.678Z"
-  },
-  {
     "id": "https://www.ft.com/content/587f1f89-3bff-4aae-9130-41f142f1cc5f",
     "title": "China steps up ‘grey zone’ tactics to isolate Taiwan",
     "titleZh": "中國加強「灰色地帶」策略，以孤立台灣",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video",
     "image": null,
     "pushedAt": "2026-10-29T20:43:43.618Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+    "titleZh": "大型科技公司的資料中心閃電戰正在燒錢並嚇壞華爾街",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T20:44:15.455Z"
   }
 ]
