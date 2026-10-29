@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
-    "title": "For Clues About How A.I. Will Change Work, Look to the Past",
-    "titleZh": "若想了解人工智慧將如何改變工作，不妨從過去尋找線索",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/business/27biz-sun-AI-History-illo/27biz-sun-AI-History-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T12:33:13.245Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html",
-    "title": "When Do Rules on Historic Preservation Go Too Far?",
-    "titleZh": "歷史保存的規範何時會走得太遠？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/00biz-sqft-historical-preservation-wfzt/00biz-sqft-historical-preservation-wfzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T12:35:45.686Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
     "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
     "titleZh": "在「傷亡風險日益增加」之際，數日內兩度發現太空垃圾",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/ge-healthcare-ceo-on-3q-earnings-beat-impact-of-ai-video",
     "image": null,
     "pushedAt": "2026-10-29T21:55:59.422Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html",
+    "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States",
+    "titleZh": "法官命令川普官員概述發送給各州的選舉要求",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-votesuit-mvtk/29dc-votesuit-mvtk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:56:31.200Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html",
+    "title": "Americans Keep Spending",
+    "titleZh": "美國人繼續消費",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/29evening-nl-oct-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v3.png",
+    "pushedAt": "2026-10-29T21:56:37.335Z"
   }
 ]
