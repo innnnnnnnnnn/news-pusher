@@ -1,6 +1,13 @@
 name: News Pusher Continuous
 
 on:
+  schedule:
+    - cron: '*/30 * * * *' # Watchdog: auto-restart loop if runner ever terminates
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/push.yml'
   workflow_dispatch: # Manual trigger / self-trigger from previous run
 
 concurrency:
@@ -14,7 +21,7 @@ permissions:
 jobs:
   push-loop:
     runs-on: ubuntu-latest
-    timeout-minutes: 350  # ~5h 50min — leave buffer before GitHub's 6h hard limit
+    timeout-minutes: 350  # ~5h 50min buffer before GitHub's 6h hard limit
 
     steps:
       - name: Checkout
@@ -36,8 +43,8 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Run continuous push loop (up to ~5h 45min)
-        timeout-minutes: 345  # inner step limit, slightly less than job limit
+      - name: Run continuous push loop (~5h)
+        timeout-minutes: 320  # Safe margin before job timeout
         continue-on-error: true
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
@@ -47,21 +54,21 @@ jobs:
           INTERVAL_SECONDS: '20'   # Push interval: 20 seconds (10~30s continuous news stream)
         run: |
           START_TIME=$(date +%s)
-          # 5h 45min = 20700s  (leaves 5min for re-trigger + cleanup)
-          MAX_DURATION=20700
+          # 5h = 18000s (leaves 20+ min for final sync, re-trigger relay, and buffer before step limit)
+          MAX_DURATION=18000
           INTERVAL=${INTERVAL_SECONDS:-20}
           CYCLE=0
 
           echo "🚀 Starting continuous push loop"
-          echo "   Interval: ${INTERVAL}s | Max duration: ${MAX_DURATION}s (~5h 45min)"
+          echo "   Interval: ${INTERVAL}s | Max duration: ${MAX_DURATION}s (5h)"
 
           while true; do
             NOW=$(date +%s)
             ELAPSED=$(( NOW - START_TIME ))
 
-            # Exit loop when we're close to the time limit
+            # Exit loop when we've reached the planned 5h duration
             if [ $ELAPSED -ge $MAX_DURATION ]; then
-              echo "⏰ Approaching 6h limit (elapsed: ${ELAPSED}s). Stopping loop to relay to next run."
+              echo "⏰ Planned 5-hour duration reached (elapsed: ${ELAPSED}s). Exiting loop to relay cleanly to next run."
               break
             fi
 
@@ -72,28 +79,34 @@ jobs:
             echo "  🔄 Cycle #${CYCLE} | Elapsed: ${ELAPSED}s | Remaining: ~${REMAINING}s"
             echo "════════════════════════════════════════"
 
-            # Pull latest history from remote to keep rotation in sync
-            git fetch origin main --quiet 2>/dev/null || true
-            git checkout origin/main -- history.json 2>/dev/null || true
-
             # Run push job (handles new articles + continuous carousel replay)
+            # Local history.json persists across cycles in this runner instance
             node scripts/github-push.mjs || echo "  ⚠️ Push script encountered an error, will retry next cycle"
 
-            # Always commit & push history.json after every send to prevent carousel repeats.
-            # If history is only saved locally and remote is pulled next cycle, the pushedAt
-            # timestamp won't be updated and the same article gets picked again.
+            # Check if brand new article was pushed
+            NEW_SENT=0
+            if [ -f .last_push_status.json ]; then
+              NEW_SENT=$(jq -r '.newSent // 0' .last_push_status.json 2>/dev/null || echo 0)
+            fi
+
+            # Sync history.json to GitHub:
+            # 1. Immediately if new breaking news was pushed (so public dashboard reflects it)
+            # 2. Or periodically every 30 cycles (~10 min) for carousel rotation updates
+            # This prevents overwhelming GitHub with 700+ pushes/Pages builds while preserving state.
             git add history.json
             if [ -n "$(git status --porcelain history.json)" ]; then
-              git commit -m "update: sync push history [skip ci]" || true
+              if [ "$NEW_SENT" -gt 0 ] || [ $(( CYCLE % 30 )) -eq 0 ]; then
+                git commit -m "update: sync push history [skip ci]" || true
 
-              # Rebase in case remote advanced
-              git fetch origin main --quiet 2>/dev/null || true
-              git rebase origin/main --quiet 2>/dev/null || {
-                git rebase --abort 2>/dev/null || true
+                # Rebase in case remote advanced
                 git fetch origin main --quiet 2>/dev/null || true
-                git reset --hard origin/main --quiet 2>/dev/null || true
-              }
-              git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push failed (conflict resolved next cycle)"
+                git rebase origin/main --quiet 2>/dev/null || {
+                  git rebase --abort 2>/dev/null || true
+                  git fetch origin main --quiet 2>/dev/null || true
+                  git reset --hard origin/main --quiet 2>/dev/null || true
+                }
+                git push origin main --quiet && echo "  ☁️ History synced to GitHub" || echo "  ⚠️ Push skipped (will retry next interval)"
+              fi
             fi
 
             # Sleep until next cycle (20 seconds)
@@ -105,14 +118,20 @@ jobs:
           git add history.json
           if [ -n "$(git status --porcelain history.json)" ]; then
             git commit -m "update: sync push history before relay [skip ci]" || true
+            git fetch origin main --quiet 2>/dev/null || true
+            git rebase origin/main --quiet 2>/dev/null || {
+              git rebase --abort 2>/dev/null || true
+              git fetch origin main --quiet 2>/dev/null || true
+              git reset --hard origin/main --quiet 2>/dev/null || true
+            }
             git push origin main --quiet || true
           fi
 
           echo ""
-          echo "✅ 6-hour relay loop completed after $CYCLE cycles."
+          echo "✅ 5-hour continuous run completed after $CYCLE cycles."
 
       - name: Auto re-trigger next run (seamless relay)
-        if: success()
+        if: always()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -132,4 +151,3 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/${{ github.repository }}/actions/workflows/push.yml/dispatches" \
             -d '{"ref":"main"}' && echo "✅ Next run triggered successfully." || echo "⚠️ Failed to trigger next run."
-
