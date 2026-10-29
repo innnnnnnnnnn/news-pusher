@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/480f2d4a-a3a4-423e-8be1-a039a6b16fc6",
-    "title": "EU scrambles for seat at the table in Ukraine talks",
-    "titleZh": "歐盟爭相在烏克蘭談判中爭取一席之地",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/480f2d4a-a3a4-423e-8be1-a039a6b16fc6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T14:26:44.514Z"
-  },
-  {
     "id": "https://www.ft.com/content/9b1d9f37-bab2-448a-8a1a-e41c12bf9952",
     "title": "Hyperscalers and how to rate them",
     "titleZh": "超大規模雲端服務供應商及其評級方法",
@@ -5208,7 +5199,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
     "image": null,
-    "pushedAt": "2026-10-29T18:59:24.992Z"
+    "pushedAt": "2026-10-29T21:16:54.877Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
     "image": null,
     "pushedAt": "2026-10-29T21:16:24.679Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-29/supply-snags-a-big-swing-factor-for-intel-seaport-video",
+    "title": "Supply Constraints a Swing Factor for Intel, Seaport's Goldberg Says",
+    "titleZh": "Seaport 的戈德伯格表示，供應限制是英特爾的一個搖擺因素",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/supply-snags-a-big-swing-factor-for-intel-seaport-video",
+    "image": null,
+    "pushedAt": "2026-10-29T21:17:24.088Z"
   }
 ]
