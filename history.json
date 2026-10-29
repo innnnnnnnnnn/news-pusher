@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-    "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-    "titleZh": "普丁即將達成一項重大成就：在未作任何讓步的情況下，恢復與美國的關係",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-10-24T20:03:37.524Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/us/james-talarico-texas-republicans-legislative-record.html",
     "title": "James Talarico’s Texas House Record: Partisan Fights, Bipartisan Laws",
     "titleZh": "詹姆斯·塔拉里科在德州眾議院的履歷：黨派之爭，跨黨派法案",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/colombia-unveils-fiscal-plan-with-sweeping-spending-cuts",
     "image": null,
     "pushedAt": "2026-10-29T22:39:19.826Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f67fafcb-9ac8-436c-a5e6-b3fbc04ab6e6",
+    "title": "Swedish academic claims he has been barred from UK over pro-Palestinian views",
+    "titleZh": "瑞典學者聲稱他因支持巴勒斯坦觀點而被禁止進入英國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f67fafcb-9ac8-436c-a5e6-b3fbc04ab6e6?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-29T22:39:53.094Z"
   }
 ]
