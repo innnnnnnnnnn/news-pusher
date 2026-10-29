@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aa873f0f-464d-4fc5-a630-1f1a968796bb",
-    "title": "Are we sleepwalking into a third world war?",
-    "titleZh": "我們是否正在渾然不覺地走向第三次世界大戰？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aa873f0f-464d-4fc5-a630-1f1a968796bb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-22T04:21:13.753Z"
-  },
-  {
-    "id": "https://www.ft.com/content/490cfe91-f63c-430f-9f1f-418cb09dea4d",
-    "title": "Accountants fear £1.2bn hit from UK plan to exempt midsized groups from audits",
-    "titleZh": "會計師擔心，英國計劃豁免中型集團接受審計，將造成 12 億英鎊的損失",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/490cfe91-f63c-430f-9f1f-418cb09dea4d?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F849047e1-1e39-4c14-bfd3-26125257c8ed.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-22T22:22:48.251Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
     "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
     "titleZh": "印尼爆發抗議活動，要求採取行動遏止雨林大火",
@@ -7701,7 +7683,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T18:54:18.508Z"
+    "pushedAt": "2026-10-29T21:07:53.617Z"
   },
   {
     "id": "https://www.ft.com/content/3c44bd99-dd58-47b8-9fa2-7aad2827b73a",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
     "image": null,
     "pushedAt": "2026-10-29T21:04:42.658Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+    "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
+    "titleZh": "川普政府向加州施壓，要求擴大選民詐欺調查",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-california-vpcf/29dc-california-vpcf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-29T21:08:22.374Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
+    "title": "Websites For Midterm Candidates Are Filled With A.I.-Written Text, Analysis Shows",
+    "titleZh": "期中應徵者的網站充滿了人工智能撰寫的文字，分析顯示",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-23-ai-text-index/2026-10-23-ai-text-index-mediumSquareAt3X.png",
+    "pushedAt": "2026-10-29T21:08:29.859Z"
   }
 ]
