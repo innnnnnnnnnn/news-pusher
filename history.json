@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
-    "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
-    "titleZh": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23france-shooting-zltc/23france-shooting-zltc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T06:09:21.838Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
-    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-    "titleZh": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T08:21:38.921Z"
-  },
-  {
     "id": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
     "title": "A half-time scorecard for Trump-world",
     "titleZh": "A half-time scorecard for Trump-world",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/softbank-backed-opay-prices-at-4-billion-value-for-new-york-ipo",
     "image": null,
     "pushedAt": "2026-10-30T10:27:19.256Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-exceeds-forecasts-on-oil-prices-swollen-fuel-making-returns",
+    "title": "Chevron Exceeds Forecasts on Oil Prices, Swollen Fuel-Making Returns",
+    "titleZh": "雪佛龍的油價超乎預期，燃料生產回報增加",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-exceeds-forecasts-on-oil-prices-swollen-fuel-making-returns",
+    "image": null,
+    "pushedAt": "2026-10-30T10:28:41.857Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-panetta-says-more-rate-hikes-may-be-needed-to-tame-prices",
+    "title": "ECB’s Panetta Says More Rate Hikes May Be Needed to Tame Prices",
+    "titleZh": "歐洲央行帕內塔稱可能需要進一步升息以抑制物價上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-panetta-says-more-rate-hikes-may-be-needed-to-tame-prices",
+    "image": null,
+    "pushedAt": "2026-10-30T10:28:46.264Z"
   }
 ]
