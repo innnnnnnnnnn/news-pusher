@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-    "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-    "titleZh": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T04:40:04.618Z"
-  },
-  {
-    "id": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
-    "title": "The Expat Voters Hoping to Swing Israel’s Election",
-    "titleZh": "The Expat Voters Hoping to Swing Israel’s Election",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/world/middleeast/25vid-Israel-election-V5/25vid-Israel-election-V5-mediumSquareAt3X-v2.png",
-    "pushedAt": "2026-10-27T06:47:25.462Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
     "title": "Israel’s High-Stakes Election: What to Know",
     "titleZh": "Israel’s High-Stakes Election: What to Know",
@@ -2436,7 +2418,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
     "image": null,
-    "pushedAt": "2026-10-30T16:34:12.488Z"
+    "pushedAt": "2026-10-30T19:01:06.694Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
@@ -2445,7 +2427,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
     "image": null,
-    "pushedAt": "2026-10-30T16:34:37.559Z"
+    "pushedAt": "2026-10-30T19:01:32.081Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
@@ -2454,7 +2436,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
     "image": null,
-    "pushedAt": "2026-10-30T16:35:03.694Z"
+    "pushedAt": "2026-10-30T19:01:57.167Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
@@ -2463,7 +2445,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
     "image": null,
-    "pushedAt": "2026-10-30T16:35:28.975Z"
+    "pushedAt": "2026-10-30T19:02:23.792Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/don-t-assume-social-security-will-be-there-treyz-video",
     "image": null,
     "pushedAt": "2026-10-30T19:00:37.864Z"
+  },
+  {
+    "id": "https://www.ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7",
+    "title": "Healey buys time with ‘pray and delay’ Budget as tough decisions lie ahead",
+    "titleZh": "希利透過「祈禱和推遲」預算贏得了時間，因為面臨著艱難的決定",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-30T19:02:53.870Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/nasdaq-100-ndx-ndq-qqq-hits-third-correction-of-2026-on-unwinding-tech-bets",
+    "title": "Nasdaq 100 (NDX, NDQ, QQQ) Hits Third Correction of 2026 on Unwinding Tech Bets",
+    "titleZh": "納斯達克 100 指數（NDX、NDQ、QQQ）因科技押注平倉而遭遇 2026 年第三次修正",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/nasdaq-100-ndx-ndq-qqq-hits-third-correction-of-2026-on-unwinding-tech-bets",
+    "image": null,
+    "pushedAt": "2026-10-30T19:02:58.078Z"
   }
 ]
