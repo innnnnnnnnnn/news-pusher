@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
-    "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
-    "titleZh": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-trump-venezuela-mlhb/23dc-trump-venezuela-mlhb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-26T15:17:49.170Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
     "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
     "titleZh": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
@@ -7557,7 +7548,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0a1112e9-7585-452f-84f2-22c9652840be?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T09:53:17.002Z"
+    "pushedAt": "2026-10-30T12:14:06.235Z"
   },
   {
     "id": "https://www.ft.com/content/ce8ffb3e-f99c-4ab4-ae44-35379cdbef9f",
@@ -7566,7 +7557,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ce8ffb3e-f99c-4ab4-ae44-35379cdbef9f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T09:53:42.016Z"
+    "pushedAt": "2026-10-30T12:14:32.520Z"
   },
   {
     "id": "https://www.ft.com/content/a2f3c16b-0433-4b4d-910a-3e05d3cabbbf",
@@ -8520,7 +8511,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-michigan-2028-qmzl/30pol-michigan-2028-qmzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T09:54:10.558Z"
+    "pushedAt": "2026-10-30T12:14:58.558Z"
   },
   {
     "id": "https://www.nytimes.com/video/us/elections/100000011230123/trump-young-men-voters-michigan.html",
@@ -8529,7 +8520,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/us/elections/100000011230123/trump-young-men-voters-michigan.html",
     "image": "https://static01.nyt.com/images/2026/11/18/video/181515_vid-genz-male-voters_1/181515_vid-genz-male-voters_1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T09:54:15.939Z"
+    "pushedAt": "2026-10-30T12:15:23.813Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/us/darline-graham-annie-andrews-south-carolina-senate.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/us-natural-gas-drillers-scale-up-as-demand-grows",
     "image": null,
     "pushedAt": "2026-10-30T12:13:07.939Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/binance-says-6-3-billion-hacked-in-largest-crypto-heist-video",
+    "title": "Binance Says $6.3 Billion Hacked in Largest Crypto Heist (Video)",
+    "titleZh": "幣安稱最大規模的加密貨幣竊盜案中 63 億美元被駭客入侵（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-says-6-3-billion-hacked-in-largest-crypto-heist-video",
+    "image": null,
+    "pushedAt": "2026-10-30T12:15:50.300Z"
   }
 ]
