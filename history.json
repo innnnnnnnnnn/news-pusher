@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
-    "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
-    "titleZh": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-japan-invest-vmpl/23dc-japan-invest-vmpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:25:25.462Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
     "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
     "titleZh": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
@@ -5082,7 +5073,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c7c8c7b4-eab7-4ffc-a6bf-f4f79358aa00",
     "image": null,
-    "pushedAt": "2026-10-30T08:37:51.341Z"
+    "pushedAt": "2026-10-30T11:04:03.307Z"
   },
   {
     "id": "https://www.ft.com/content/86a413ed-7303-40b3-a7c1-a01c92b1f738",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart",
     "image": null,
     "pushedAt": "2026-10-30T11:03:34.618Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/euro-set-for-worst-month-versus-pound-since-2022-on-french-woes",
+    "title": "Euro Set For Worst Month Versus Pound Since 2022 on French Woes",
+    "titleZh": "受法國危機影響，歐元兌英鎊將迎來2022年以來最糟糕的一個月",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/euro-set-for-worst-month-versus-pound-since-2022-on-french-woes",
+    "image": null,
+    "pushedAt": "2026-10-30T11:04:29.642Z"
   }
 ]
