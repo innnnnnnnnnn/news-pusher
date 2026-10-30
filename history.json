@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561",
-    "title": "Milei’s AI hype outpaces reality",
-    "titleZh": "米萊對人工智慧的炒作超前於現實",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T10:48:23.740Z"
-  },
-  {
     "id": "https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b",
     "title": "Argentina’s resources boom gathers pace",
     "titleZh": "阿根廷的資源熱潮正加速發展",
@@ -5037,7 +5028,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-foreignaid-contraception2-cmgj/29dc-foreignaid-contraception2-cmgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T04:52:08.495Z"
+    "pushedAt": "2026-10-30T07:12:22.178Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
@@ -5046,7 +5037,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T04:52:31.577Z"
+    "pushedAt": "2026-10-30T07:12:47.542Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
@@ -5055,7 +5046,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00biz-india-media-fhqb/00biz-india-media-fhqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T04:52:54.837Z"
+    "pushedAt": "2026-10-30T07:13:12.360Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/glp-1-demand-boosts-dis-chem-s-south-africa-pharmacy-revenue",
     "image": null,
     "pushedAt": "2026-10-30T07:08:29.475Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/tech-selloff-deepens-as-intel-and-amazon-shares-fall-video",
+    "title": "Tech Selloff Deepens as Intel and Amazon Shares Fall (Video)",
+    "titleZh": "隨著英特爾和亞馬遜股價下跌，科技股拋售加劇（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/tech-selloff-deepens-as-intel-and-amazon-shares-fall-video",
+    "image": null,
+    "pushedAt": "2026-10-30T07:13:37.743Z"
   }
 ]
