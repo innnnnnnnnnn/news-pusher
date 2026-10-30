@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f",
-    "title": "Black Sea is now the world’s deadliest shipping route",
-    "titleZh": "The Black Sea is now the world’s deadliest shipping route",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T04:31:05.160Z"
-  },
-  {
     "id": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c",
     "title": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
     "titleZh": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9ecae3cf-e434-447d-b177-ecf368a2c3cb",
     "image": null,
     "pushedAt": "2026-10-30T18:20:08.718Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+    "title": "Binance was Hacked. What Protections Exist for Crypto Customers?",
+    "titleZh": "幣安被駭客攻擊。加密貨幣客戶有哪些保護措施？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T18:20:38.207Z"
   }
 ]
