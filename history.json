@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-    "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-    "titleZh": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T22:48:25.920Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
-    "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
-    "titleZh": "The Other Bolsonaro Who Could Become Brazil’s Next President",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-brazil-bolsonaro-profile-cwqg/24int-brazil-bolsonaro-profile-cwqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T22:48:55.904Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
     "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
     "titleZh": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
@@ -3984,7 +3966,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T13:03:29.445Z"
+    "pushedAt": "2026-10-30T15:23:00.965Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
@@ -3993,7 +3975,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-hinojosa-influencers-01-tglb/00biz-hinojosa-influencers-01-tglb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T13:03:54.292Z"
+    "pushedAt": "2026-10-30T15:23:26.083Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/dollar-general-prices-ftc-lawsuit.html",
@@ -4002,7 +3984,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/dollar-general-prices-ftc-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-price-distrust-jtbl/28biz-price-distrust-jtbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T13:04:19.564Z"
+    "pushedAt": "2026-10-30T15:23:50.961Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/iceland-s-top-tourist-attraction-blue-lagoon-spa-plans-ipo",
     "image": null,
     "pushedAt": "2026-10-30T15:22:32.316Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/rare-speedboat-attack-in-hormuz-ignites-tanker-s-engine-room",
+    "title": "Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room",
+    "titleZh": "霍爾木茲罕見快艇攻擊點燃油輪機艙",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/rare-speedboat-attack-in-hormuz-ignites-tanker-s-engine-room",
+    "image": null,
+    "pushedAt": "2026-10-30T15:24:19.265Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/who-could-replace-christine-lagarde-as-ecb-president-video",
+    "title": "Who Could Replace Christine Lagarde as ECB President?",
+    "titleZh": "誰可以取代克里斯蒂娜·拉加德擔任歐洲央行總裁？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/who-could-replace-christine-lagarde-as-ecb-president-video",
+    "image": null,
+    "pushedAt": "2026-10-30T15:24:24.603Z"
   }
 ]
