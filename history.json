@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8",
-    "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
-    "titleZh": "France’s Le Pen vows national ‘renewal’ in campaign launch",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10963870-ae8a-4ff4-94de-0a62f9bd91e7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-26T04:34:34.622Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "Here’s the latest.",
@@ -2562,7 +2553,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
     "image": null,
-    "pushedAt": "2026-10-30T19:36:05.534Z"
+    "pushedAt": "2026-10-30T22:05:44.585Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
@@ -8376,7 +8367,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T19:36:57.633Z"
+    "pushedAt": "2026-10-30T22:06:11.361Z"
   },
   {
     "id": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
@@ -8384,8 +8375,8 @@
     "titleZh": "中期「藍色浪潮」的影響將持續數年",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ebaa8e4-8965-47a2-9226-f6f152072e9e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T19:37:24.865Z"
+    "image": null,
+    "pushedAt": "2026-10-30T22:06:36.393Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
     "image": null,
     "pushedAt": "2026-10-30T22:05:16.185Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+    "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
+    "titleZh": "PacSun執行長：品牌對當今的年輕人意義重大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+    "image": null,
+    "pushedAt": "2026-10-30T22:07:04.261Z"
   }
 ]
