@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1ca7e612-9a1a-4f26-a31a-651675ee67bb",
-    "title": "The tentative return of the old politics",
-    "titleZh": "舊式政治的暫時回歸",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1ca7e612-9a1a-4f26-a31a-651675ee67bb?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76b17272-855a-4223-bf66-963593814a08.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-23T03:05:59.414Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
     "title": "Google Eyes Large ‘Virtual Power Plant’ for Data Centers",
     "titleZh": "Google 瞄準為資料中心打造大型「虛擬發電廠」",
@@ -5883,7 +5874,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-27-tilt-wave-newsletter-index/2026-10-27-tilt-wave-newsletter-index-mediumSquareAt3X-v4.png",
-    "pushedAt": "2026-10-29T21:42:27.062Z"
+    "pushedAt": "2026-10-30T00:10:56.633Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
@@ -5892,7 +5883,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T21:42:52.881Z"
+    "pushedAt": "2026-10-30T00:11:22.852Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
@@ -5901,7 +5892,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T21:43:19.506Z"
+    "pushedAt": "2026-10-30T00:11:48.290Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
     "image": null,
     "pushedAt": "2026-10-30T00:10:28.269Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/lagarde-exits-ecb-after-big-wins-some-errors-and-a-long-goodbye",
+    "title": "Lagarde Exits ECB After Big Wins, Some Errors and a Long Goodbye",
+    "titleZh": "拉加德在取得重大勝利、一些錯誤和漫長的告別後退出歐洲央行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/lagarde-exits-ecb-after-big-wins-some-errors-and-a-long-goodbye",
+    "image": null,
+    "pushedAt": "2026-10-30T00:12:17.612Z"
   }
 ]
