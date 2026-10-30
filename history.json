@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9",
-    "title": "Why students in a midterm battleground fear AI will ruin their future",
-    "titleZh": "Students worry AI is about to kill their future",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T05:09:04.851Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
     "title": "One Agent’s Doubts",
     "titleZh": "One Agent’s Doubts",
@@ -3228,7 +3219,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
     "image": "https://static01.nyt.com/images/2026/10/28/business/28biz-life-magazine-handout/28biz-life-magazine-handout-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:04:53.488Z"
+    "pushedAt": "2026-10-30T20:33:18.340Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
@@ -3237,7 +3228,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28db-msft-tjqv/28db-msft-tjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:05:18.650Z"
+    "pushedAt": "2026-10-30T20:33:43.677Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
@@ -3246,7 +3237,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-jio-ipo-zcbj/28biz-jio-ipo-zcbj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-30T18:05:45.095Z"
+    "pushedAt": "2026-10-30T20:34:09.092Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
     "image": null,
     "pushedAt": "2026-10-30T20:32:48.764Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
+    "title": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
+    "titleZh": "人工智慧下跌買家因拋售痙攣而遭受第三週損失",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
+    "image": null,
+    "pushedAt": "2026-10-30T20:34:39.562Z"
   }
 ]
