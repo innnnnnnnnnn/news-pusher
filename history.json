@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8f0b71c3-b097-4126-b0ff-ad7b66676107",
-    "title": "100 days of Burnham",
-    "titleZh": "100 days of Burnham",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8f0b71c3-b097-4126-b0ff-ad7b66676107?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T20:03:34.250Z"
-  },
-  {
     "id": "https://www.ft.com/content/2fae96bf-4328-4aa6-b68f-af416a9cb4bf",
     "title": "National Crime Agency wins freezing order over £15mn London flat",
     "titleZh": "National Crime Agency wins freezing order over £15mn London flat",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms",
     "image": null,
     "pushedAt": "2026-10-30T10:04:40.861Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/boe-agents-see-little-sign-of-energy-shock-feeding-into-pay",
+    "title": "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
+    "titleZh": "京東方代理商幾乎沒有看到能源衝擊影響薪資的跡象",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/boe-agents-see-little-sign-of-energy-shock-feeding-into-pay",
+    "image": null,
+    "pushedAt": "2026-10-30T10:05:11.782Z"
   }
 ]
