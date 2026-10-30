@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5",
-    "title": "Britain secures gas supply from Belgium before winter crunch",
-    "titleZh": "英國在冬季供氣危機來臨前，確保了來自比利時的天然氣供應",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T03:14:15.803Z"
-  },
-  {
     "id": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9",
     "title": "Trump’s tourism push fails to lure visitors",
     "titleZh": "川普推動觀光的舉措未能吸引遊客",
@@ -8061,7 +8052,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T01:32:05.519Z"
+    "pushedAt": "2026-10-30T03:49:08.814Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
     "image": null,
     "pushedAt": "2026-10-30T03:48:43.016Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/envision-to-complete-massive-inner-mongolia-data-center-by-2028",
+    "title": "Envision to Complete Massive Inner Mongolia Data Center by 2028",
+    "titleZh": "願景到2028年建成大型內蒙古資料中心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/envision-to-complete-massive-inner-mongolia-data-center-by-2028",
+    "image": null,
+    "pushedAt": "2026-10-30T03:49:36.816Z"
   }
 ]
