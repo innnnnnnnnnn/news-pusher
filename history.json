@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
-    "title": "Italy’s Young Protesters Return to the Streets",
-    "titleZh": "Italy’s Young Protesters Return to the Streets",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T08:21:08.538Z"
-  },
-  {
     "id": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6",
     "title": "Billionaire benevolence is booming, but it comes with strings",
     "titleZh": "Billionaire benevolence is booming, but it comes with strings",
@@ -5010,7 +5001,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/jheodvfvh?ref=rss",
     "image": "https://cdn.flipso.com/p/jheodvfvh_square.jpg",
-    "pushedAt": "2026-10-30T14:47:43.152Z"
+    "pushedAt": "2026-10-30T17:28:30.020Z"
   },
   {
     "id": "https://flipso.com/p/zu7kxwyse",
@@ -5019,7 +5010,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/zu7kxwyse?ref=rss",
     "image": "https://cdn.flipso.com/p/zu7kxwyse_square.jpg",
-    "pushedAt": "2026-10-30T14:48:08.358Z"
+    "pushedAt": "2026-10-30T17:28:55.201Z"
   },
   {
     "id": "https://flipso.com/p/r0tmullq9",
@@ -5028,7 +5019,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/r0tmullq9?ref=rss",
     "image": "https://cdn.flipso.com/p/r0tmullq9_square.jpg",
-    "pushedAt": "2026-10-30T14:49:40.460Z"
+    "pushedAt": "2026-10-30T17:30:13.926Z"
   },
   {
     "id": "https://flipso.com/p/r90qgl6uo",
@@ -8479,12 +8470,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
-    "title": "AI Debt Drives Wedge Between Corporate Bonds and Credit Hedges",
+    "title": "Credit Market’s Most Trusted Hedges Are Breaking in AI Era",
     "titleZh": "人工智慧債務加劇了公司債和信用對沖之間的分歧",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
     "image": null,
-    "pushedAt": "2026-10-30T14:48:42.083Z"
+    "pushedAt": "2026-10-30T17:29:21.519Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
@@ -8493,7 +8484,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-greece-explosion-1-hbjk/30int-greece-explosion-1-hbjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:49:13.051Z"
+    "pushedAt": "2026-10-30T17:29:47.929Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/us-aluminum-group-urges-north-america-to-align-on-tariffs",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video",
     "image": null,
     "pushedAt": "2026-10-30T17:28:00.504Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/south-africa-s-godongwana-says-gdp-lift-creates-fiscal-headroom",
+    "title": "South Africa’s Godongwana Says GDP Lift Creates Fiscal Headroom",
+    "titleZh": "南非戈東瓦納表示 GDP 成長創造了財政空間",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/south-africa-s-godongwana-says-gdp-lift-creates-fiscal-headroom",
+    "image": null,
+    "pushedAt": "2026-10-30T17:30:43.380Z"
   }
 ]
