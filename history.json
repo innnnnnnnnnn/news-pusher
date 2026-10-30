@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
-    "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
-    "titleZh": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/obituaries/27obit-adams/24obit-adams-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:00:33.785Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/opinion/midterm-elections-republicans.html",
     "title": "Republicans Are Crude, Craven, Cruel. It’s Not Working Anymore.",
     "titleZh": "The Sorry State of the G.O.P. Candidate",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
     "image": null,
     "pushedAt": "2026-10-30T16:40:57.940Z"
+  },
+  {
+    "id": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9",
+    "title": "CD&R pursues buyout of $40bn payment processor Global Payments",
+    "titleZh": "CD&R 尋求以 400 億美元收購支付處理商 Global Payments",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd97f9232-3443-46bd-97cf-abfee9c52ca3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-30T16:41:32.604Z"
   }
 ]
