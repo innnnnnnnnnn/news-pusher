@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
-    "title": "A Fight Over Felon Voting Prompts a Free Speech Debate",
-    "titleZh": "A Fight Over Felon Voting Fuels a Free Speech Debate",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26BIZ-MINNESOTA-DISINFO-1-zhtl/19BIZ-MINNESOTA-DISINFO-1-zhtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T08:00:15.538Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
     "title": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
     "titleZh": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/colombia-faces-close-rate-call-as-economy-slows-decision-guide",
     "image": null,
     "pushedAt": "2026-10-30T10:48:14.091Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
+    "title": "Exxon Increases Stake in Mozambique Gas Project Via Eni Swap",
+    "titleZh": "埃克森美孚透過埃尼互換增持莫三比克天然氣計畫股份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
+    "image": null,
+    "pushedAt": "2026-10-30T10:48:44.338Z"
   }
 ]
