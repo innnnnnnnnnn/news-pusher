@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html",
-    "title": "A Cancer Revolution",
-    "titleZh": "一場癌症革命",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-theworld-cancer-01-thlm-promo/23int-theworld-cancer-01-thlm-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T15:34:43.016Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html",
     "title": "Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
     "titleZh": "川普仍在追尋他的「雅爾塔」。以下是他未能理解之處。",
@@ -7278,7 +7269,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T02:57:38.288Z"
+    "pushedAt": "2026-10-30T05:07:45.496Z"
   },
   {
     "id": "https://www.ft.com/content/fa67c9ad-882a-4713-a0be-de909c8f3f0a",
@@ -7296,7 +7287,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F65b21aec-5e57-4273-aaf1-c8bc7217fee6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T02:58:51.520Z"
+    "pushedAt": "2026-10-30T05:08:08.916Z"
   },
   {
     "id": "https://flipso.com/p/xonoeaeb2",
@@ -7305,7 +7296,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/xonoeaeb2?ref=rss",
     "image": "https://cdn.flipso.com/p/xonoeaeb2_square.jpg",
-    "pushedAt": "2026-10-30T02:59:15.002Z"
+    "pushedAt": "2026-10-30T05:08:32.342Z"
   },
   {
     "id": "https://flipso.com/p/is7duajvv",
@@ -7314,7 +7305,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/is7duajvv?ref=rss",
     "image": "https://cdn.flipso.com/p/is7duajvv_square.jpg",
-    "pushedAt": "2026-10-30T02:59:39.648Z"
+    "pushedAt": "2026-10-30T05:08:55.548Z"
   },
   {
     "id": "https://flipso.com/p/zb27yfdl0",
@@ -7323,7 +7314,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/zb27yfdl0?ref=rss",
     "image": "https://cdn.flipso.com/p/zb27yfdl0_square.jpg",
-    "pushedAt": "2026-10-30T03:00:03.566Z"
+    "pushedAt": "2026-10-30T05:09:19.191Z"
   },
   {
     "id": "https://flipso.com/p/0gdiazxc3",
@@ -7332,7 +7323,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/0gdiazxc3?ref=rss",
     "image": "https://cdn.flipso.com/p/0gdiazxc3_square.jpg",
-    "pushedAt": "2026-10-30T03:00:27.436Z"
+    "pushedAt": "2026-10-30T05:09:42.735Z"
   },
   {
     "id": "https://flipso.com/p/lri4id1zk",
@@ -8106,7 +8097,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
     "image": null,
-    "pushedAt": "2026-10-30T03:00:50.724Z"
+    "pushedAt": "2026-10-30T05:10:06.113Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/fed-is-facing-same-issues-greenspan-did-in-2001-kelton-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/opinion/trump-america-capitalism-rich-politics.html",
     "image": null,
     "pushedAt": "2026-10-30T05:07:19.248Z"
+  },
+  {
+    "id": "https://www.ft.com/content/abeda9a2-c1af-4701-84eb-cc4c3b936ec8",
+    "title": "The right way to tax the rich. With Owen Zidar",
+    "titleZh": "對富人徵稅的正確方法。與歐文齊達爾",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/abeda9a2-c1af-4701-84eb-cc4c3b936ec8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-30T05:10:32.774Z"
   }
 ]
