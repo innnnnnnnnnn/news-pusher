@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/world/africa/far-far-away.html",
-    "title": "Far, Far Away",
-    "titleZh": "Far, Far Away",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/world/africa/far-far-away.html",
-    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-island-tristan-promo-1-chvq/00int-island-tristan-promo-1-chvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T04:08:03.071Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
     "title": "What to Know as Serbia Votes for a New Parliament",
     "titleZh": "What to Know as Serbia Votes for a New Parliament",
@@ -8043,7 +8034,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/canada-economy-tracks-1-3-third-quarter-annualized-growth",
     "image": null,
-    "pushedAt": "2026-10-30T15:02:15.605Z"
+    "pushedAt": "2026-10-30T17:42:23.947Z"
   },
   {
     "id": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf",
     "image": null,
     "pushedAt": "2026-10-30T17:41:53.701Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual",
+    "title": "Fed’s Logan Sees Two More Hikes, But Says Pace Can Be Gradual",
+    "titleZh": "聯準會洛根預計還會升息兩次，但表示升息步伐可以是漸進的",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual",
+    "image": null,
+    "pushedAt": "2026-10-30T17:42:53.972Z"
   }
 ]
