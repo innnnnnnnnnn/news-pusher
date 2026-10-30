@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/167f7707-c677-4aa3-96f8-d36c9d5eb0ba",
-    "title": "German billionaire says €250mn Bayern Munich deal about more than money",
-    "titleZh": "German billionaire says €250mn Bayern Munich deal about more than money",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/167f7707-c677-4aa3-96f8-d36c9d5eb0ba?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T05:06:02.666Z"
-  },
-  {
     "id": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9",
     "title": "Why students in a midterm battleground fear AI will ruin their future",
     "titleZh": "Students worry AI is about to kill their future",
@@ -3210,7 +3201,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:03:35.061Z"
+    "pushedAt": "2026-10-30T20:31:30.135Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
@@ -3219,7 +3210,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28Biz-SS-Senate-wlkb/28Biz-SS-Senate-wlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:04:01.875Z"
+    "pushedAt": "2026-10-30T20:31:55.560Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
@@ -3228,7 +3219,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:04:27.737Z"
+    "pushedAt": "2026-10-30T20:32:20.483Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
@@ -8326,12 +8317,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
-    "title": "Dermatology Biotech Bambusa Slides 7% After $168.9 Million IPO",
+    "title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
     "titleZh": "皮膚科生物技術 Bambusa 在 1.689 億美元 IPO 後下跌 7%",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
     "image": null,
-    "pushedAt": "2026-10-30T16:12:36.647Z"
+    "pushedAt": "2026-10-30T20:31:05.160Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-10-30/come-see-lina-khan-at-odd-lots-live-on-12-9-in-nyc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/tsx-has-worst-day-since-june-joining-north-american-retreat",
     "image": null,
     "pushedAt": "2026-10-30T20:30:34.440Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
+    "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+    "titleZh": "蘋果超越英偉達成為全球最有價值公司",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
+    "image": null,
+    "pushedAt": "2026-10-30T20:32:48.764Z"
   }
 ]
