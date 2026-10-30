@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess",
-    "title": "MAGA foreign policy is a mess",
-    "titleZh": "「讓美國再次偉大」（MAGA）的外交政策一團糟",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess",
-    "image": null,
-    "pushedAt": "2026-10-24T10:08:13.729Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
     "title": "Stocks See Steepest Decline in Months Amid A.I. Worries",
     "titleZh": "隨著投資者因風險日益加劇而撤離市場，股市下跌、油價上漲",
@@ -6063,7 +6054,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T21:51:04.272Z"
+    "pushedAt": "2026-10-30T00:21:06.843Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
@@ -6072,7 +6063,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00biz-india-media-fhqb/00biz-india-media-fhqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T21:51:31.885Z"
+    "pushedAt": "2026-10-30T00:21:33.697Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
@@ -6081,7 +6072,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
     "image": null,
-    "pushedAt": "2026-10-29T21:51:57.701Z"
+    "pushedAt": "2026-10-30T00:21:58.985Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
@@ -6090,7 +6081,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
     "image": "https://static01.nyt.com/images/2026/10/29/obituaries/29cardenas/29cardenas-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T21:52:23.447Z"
+    "pushedAt": "2026-10-30T00:22:24.405Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ceo-ai-to-drive-consumer-update-cycle-video",
     "image": null,
     "pushedAt": "2026-10-30T00:20:38.001Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/china-elevates-key-actor-with-rare-politburo-pick-video",
+    "title": "China Elevates Key Actor With Rare Politburo Pick",
+    "titleZh": "中國以罕見的政治局人選拔關鍵人物",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/china-elevates-key-actor-with-rare-politburo-pick-video",
+    "image": null,
+    "pushedAt": "2026-10-30T00:22:51.697Z"
   }
 ]
