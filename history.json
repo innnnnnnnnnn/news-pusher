@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/reports/investing-argentina",
-    "title": "Investing in Argentina",
-    "titleZh": "在阿根廷投資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/reports/investing-argentina?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T03:29:05.444Z"
-  },
-  {
     "id": "https://www.ft.com/content/51df7b68-927a-49a5-b596-3b867695b102",
     "title": "The dispute that blew up a $34bn deal",
     "titleZh": "那場導致一筆 340 億美元交易告吹的爭端",
@@ -5874,7 +5865,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/27dc-fed-zqhm/27dc-fed-zqhm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:43:16.382Z"
+    "pushedAt": "2026-10-30T06:03:30.789Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
@@ -5883,7 +5874,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28FD-halloween-candy4-lzvj/28FD-halloween-candy4-lzvj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-30T03:43:39.796Z"
+    "pushedAt": "2026-10-30T06:03:55.374Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
@@ -5892,7 +5883,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/trav-inflation-holidays-01-gmfh/trav-inflation-holidays-01-gmfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:44:03.319Z"
+    "pushedAt": "2026-10-30T06:04:20.332Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-moulin-sees-policy-as-measured-with-most-prices-stable",
     "image": null,
     "pushedAt": "2026-10-30T06:03:02.585Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/yields-too-high-to-ignore-lure-investors-back-to-long-dated-debt",
+    "title": "Yields Too High to Ignore Lure Investors Back to Long-Dated Debt",
+    "titleZh": "收益率太高而不容忽視，吸引投資者重回長期債務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/yields-too-high-to-ignore-lure-investors-back-to-long-dated-debt",
+    "image": null,
+    "pushedAt": "2026-10-30T06:04:47.753Z"
   }
 ]
