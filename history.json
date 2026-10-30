@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9",
-    "title": "Trump’s tourism push fails to lure visitors",
-    "titleZh": "川普推動觀光的舉措未能吸引遊客",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T03:14:42.384Z"
-  },
-  {
     "id": "https://www.ft.com/content/6517874d-25b5-446f-9c9a-9326ab30dfa9",
     "title": "Germany’s Merz warns of ‘intense’ Russian espionage after arrest",
     "titleZh": "德國的梅爾茨在有人被捕後，警告俄羅斯正進行「密集」的間諜活動",
@@ -8070,7 +8061,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T01:32:57.059Z"
+    "pushedAt": "2026-10-30T03:50:02.982Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/rodriguez-names-ex-opposition-aide-as-venezuela-foreign-minister",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/envision-to-complete-massive-inner-mongolia-data-center-by-2028",
     "image": null,
     "pushedAt": "2026-10-30T03:49:36.816Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa",
+    "title": "Chinese Junk Dollar Bonds Head for Worst Week in a Year on Huafa",
+    "titleZh": "華發中國垃圾美元債券將迎來一年來最糟糕的一周",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa",
+    "image": null,
+    "pushedAt": "2026-10-30T03:50:30.286Z"
   }
 ]
