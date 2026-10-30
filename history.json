@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
-    "title": "In Wake of Riots, French Authorities Ban Some Protests",
-    "titleZh": "騷亂過後，法國當局禁止部分抗議活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-france-protests-qzmc/22int-france-protests-qzmc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T14:52:36.375Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/10/22/indonesias-populist-president-is-losing-his-charm",
     "title": "Indonesia’s populist president is losing his charm",
     "titleZh": "印尼這位民粹主義總統正逐漸失去魅力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-oil-majors-get-more-firepower-for-energy-security-push",
     "image": null,
     "pushedAt": "2026-10-30T02:18:25.697Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/top-adviser-sees-india-at-1991-style-turning-point-report-says",
+    "title": "Top Adviser Sees India at 1991-Style Turning Point, Report Says",
+    "titleZh": "報告稱，高級顧問認為印度正處於 1991 年式的轉捩點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/top-adviser-sees-india-at-1991-style-turning-point-report-says",
+    "image": null,
+    "pushedAt": "2026-10-30T02:22:17.810Z"
   }
 ]
