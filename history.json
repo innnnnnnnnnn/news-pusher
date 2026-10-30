@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9bf81e98-08b7-450a-a804-51030934646e",
-    "title": "Macron says deadly shooting near Paris was racially motivated",
-    "titleZh": "Deadly shooting near Paris investigated as possible racist attack",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9bf81e98-08b7-450a-a804-51030934646e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff10dba13-9b60-4827-91a1-06d1ec7f0bed.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-24T05:19:28.373Z"
-  },
-  {
     "id": "https://www.ft.com/content/90afe6b1-0ca9-4795-9665-cab3e789df96",
     "title": "Submit a question: What does the Budget mean for your money?",
     "titleZh": "Submit a question: What does the Budget mean for your money?",
@@ -5019,7 +5010,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T08:35:15.896Z"
+    "pushedAt": "2026-10-30T11:00:24.972Z"
   },
   {
     "id": "https://www.ft.com/content/281690fe-ac0c-43f1-9a36-a3e6b5ee175d",
@@ -5028,7 +5019,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/281690fe-ac0c-43f1-9a36-a3e6b5ee175d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T08:35:40.811Z"
+    "pushedAt": "2026-10-30T11:00:49.898Z"
   },
   {
     "id": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0",
@@ -5082,7 +5073,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/24a59c81-1e3d-4ff1-8856-2812f27985c3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffa18d1d3-187e-422d-8d07-fc07f5b4bd1f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T08:36:05.851Z"
+    "pushedAt": "2026-10-30T11:01:15.932Z"
   },
   {
     "id": "https://www.ft.com/content/03b08dc3-f60e-4fa0-8baf-100a1521b532",
@@ -6648,7 +6639,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:34:51.113Z"
+    "pushedAt": "2026-10-30T10:59:59.496Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/rodriguez-names-ex-opposition-aide-as-venezuela-foreign-minister",
@@ -6675,7 +6666,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-venezuela-machado-ljth/29int-venezuela-machado-ljth-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:36:30.674Z"
+    "pushedAt": "2026-10-30T11:01:41.780Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
@@ -8439,7 +8430,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
     "image": null,
-    "pushedAt": "2026-10-30T08:36:58.606Z"
+    "pushedAt": "2026-10-30T11:02:06.999Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/kia-shares-plunge-as-cost-surge-linked-to-iran-war-hits-profit",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain",
     "image": null,
     "pushedAt": "2026-10-30T10:59:32.137Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/five-questions-for-youtube-star-mark-rober",
+    "title": "Five Questions for YouTube Star Mark Rober",
+    "titleZh": "向 YouTube 明星馬克羅伯提出的五個問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/five-questions-for-youtube-star-mark-rober",
+    "image": null,
+    "pushedAt": "2026-10-30T11:02:34.660Z"
   }
 ]
