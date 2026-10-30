@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-    "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-    "titleZh": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T03:49:29.055Z"
-  },
-  {
-    "id": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b",
-    "title": "US executives quit $25bn gas venture over claims of secret Russian control",
-    "titleZh": "US executives quit $25bn gas venture over claims of secret Russian control",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-27T08:20:38.164Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
-    "title": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
-    "titleZh": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html",
-    "image": "https://static01.nyt.com/images/2026/08/26/multimedia/23midterms-doj-california/26dc-mailballot-wmgz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T17:00:47.739Z"
-  },
-  {
     "id": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7",
     "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
     "titleZh": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
@@ -4704,7 +4677,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T11:07:34.733Z"
+    "pushedAt": "2026-10-30T13:26:16.837Z"
   },
   {
     "id": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-30T13:25:49.041Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/everybody-s-business-even-chicken-is-candy-flavored-now-video",
+    "title": "Everybody’s Business: Even Your Chicken Is Candy-Flavored Now",
+    "titleZh": "每個人的事：連你的雞現在都是糖果味的",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/everybody-s-business-even-chicken-is-candy-flavored-now-video",
+    "image": null,
+    "pushedAt": "2026-10-30T13:26:44.308Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/oil-is-a-tough-trade-for-now-says-sarah-hunt-video",
+    "title": "Oil Is a Tough Trade for Now, Says Sarah Hunt",
+    "titleZh": "莎拉亨特表示，目前石油交易很艱難",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/oil-is-a-tough-trade-for-now-says-sarah-hunt-video",
+    "image": null,
+    "pushedAt": "2026-10-30T13:26:48.288Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-plans-100-billion-in-capex-through-2030-ceo-tells-cnbc",
+    "title": "Exxon Plans $100 Billion in Capex Through 2030, CEO Tells CNBC",
+    "titleZh": "執行長告訴 CNBC，埃克森美孚計劃到 2030 年資本支出達到 1000 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-plans-100-billion-in-capex-through-2030-ceo-tells-cnbc",
+    "image": null,
+    "pushedAt": "2026-10-30T13:26:52.048Z"
   }
 ]
