@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215",
-    "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-    "titleZh": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-25T11:45:47.663Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
     "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
     "titleZh": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
@@ -3093,7 +3084,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-rwanda-1-qmkv/29int-rwanda-1-qmkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:20:16.776Z"
+    "pushedAt": "2026-10-30T17:00:47.464Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
@@ -3102,7 +3093,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-france-shooting-01-jqzf/29int-france-shooting-01-jqzf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:20:41.817Z"
+    "pushedAt": "2026-10-30T17:01:12.966Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
@@ -3111,7 +3102,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
     "image": "https://static01.nyt.com/images/2025/10/20/multimedia/29int-haiti-elect/20haiti-trials-wtk-wpzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:21:06.113Z"
+    "pushedAt": "2026-10-30T17:01:37.999Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
@@ -3120,7 +3111,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
     "image": null,
-    "pushedAt": "2026-10-30T14:21:30.895Z"
+    "pushedAt": "2026-10-30T17:02:04.391Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
@@ -3129,7 +3120,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-france-marseille-01-zcft/28int-france-marseille-01-zcft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:21:55.214Z"
+    "pushedAt": "2026-10-30T17:02:29.470Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
@@ -6819,7 +6810,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T12:40:23.537Z"
+    "pushedAt": "2026-10-30T17:00:20.495Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
     "image": null,
     "pushedAt": "2026-10-30T16:59:51.002Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
+    "title": "Fed’s Musalem Says More Rate Hikes Needed Soon to Tame Inflation",
+    "titleZh": "聯準會穆薩利姆表示，需要盡快升息以抑制通膨",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
+    "image": null,
+    "pushedAt": "2026-10-30T17:02:57.914Z"
   }
 ]
