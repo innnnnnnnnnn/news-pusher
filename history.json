@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d8758ccc-e6d7-40fb-bba9-50b01cc62623",
-    "title": "Mayfair club Maison Estelle set to reopen after alleged firearm incident",
-    "titleZh": "Mayfair club Maison Estelle set to reopen after alleged firearm incident",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d8758ccc-e6d7-40fb-bba9-50b01cc62623?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T05:23:54.883Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
     "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
     "titleZh": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
@@ -2913,7 +2904,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
     "image": null,
-    "pushedAt": "2026-10-30T14:03:16.921Z"
+    "pushedAt": "2026-10-30T16:39:37.838Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like",
@@ -2922,7 +2913,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like",
     "image": null,
-    "pushedAt": "2026-10-30T14:03:41.794Z"
+    "pushedAt": "2026-10-30T16:40:03.231Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/29/the-midterms-could-reshape-american-politics-far-beyond-congress",
@@ -2931,7 +2922,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/29/the-midterms-could-reshape-american-politics-far-beyond-congress",
     "image": null,
-    "pushedAt": "2026-10-30T14:04:06.729Z"
+    "pushedAt": "2026-10-30T16:40:29.409Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/29/americas-decisive-voters-are-its-most-recent-arrivals",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-30T16:39:08.878Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
+    "title": "Gilead-Backed Aspen Neuroscience Shares Decline 2% After US IPO",
+    "titleZh": "吉利德支持的 Aspen Neuroscience 股價在美國 IPO 後下跌 2%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
+    "image": null,
+    "pushedAt": "2026-10-30T16:40:57.940Z"
   }
 ]
