@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-    "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-    "titleZh": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-olive-harvest-vfpk/23int-olive-harvest-vfpk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T12:46:32.969Z"
-  },
-  {
     "id": "https://www.ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83",
     "title": "The ledger problem",
     "titleZh": "The ledger problem",
@@ -4110,7 +4101,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T09:40:45.640Z"
+    "pushedAt": "2026-10-30T12:02:04.483Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-stock-futures-today-amazon-intel-mondelez-reddit-stryker",
     "image": null,
     "pushedAt": "2026-10-30T12:01:35.034Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/inside-mexico-city-s-housing-theft-crisis",
+    "title": "Inside Mexico City’s Housing Theft Crisis",
+    "titleZh": "墨西哥城住房竊盜危機內部",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/inside-mexico-city-s-housing-theft-crisis",
+    "image": null,
+    "pushedAt": "2026-10-30T12:02:31.565Z"
   }
 ]
