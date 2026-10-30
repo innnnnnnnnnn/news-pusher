@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-    "title": "Powerful Earthquake in Tibet Kills at Least 16",
-    "titleZh": "西藏發生強烈地震，造成至少16人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-china-tibet-quake-pvlf/23int-china-tibet-quake-pvlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T18:47:34.722Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
     "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
     "titleZh": "牧師們如何在剛果對抗伊波拉疫情的行動中動員社區",
@@ -5757,7 +5748,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
     "image": "https://static01.nyt.com/images/2026/10/28/business/28biz-life-magazine-handout/28biz-life-magazine-handout-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:35:21.254Z"
+    "pushedAt": "2026-10-30T05:54:29.151Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
@@ -5766,7 +5757,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28db-msft-tjqv/28db-msft-tjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:35:46.302Z"
+    "pushedAt": "2026-10-30T05:54:54.030Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
@@ -5775,7 +5766,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-jio-ipo-zcbj/28biz-jio-ipo-zcbj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-30T03:36:09.444Z"
+    "pushedAt": "2026-10-30T05:55:19.398Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
@@ -5784,7 +5775,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28DB-DOJ-Startup-phtv/28DB-DOJ-Startup-phtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:36:56.559Z"
+    "pushedAt": "2026-10-30T05:56:10.754Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
@@ -7521,7 +7512,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02fba6f4-f5da-4308-87f6-b93571d2c25f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T03:36:33.179Z"
+    "pushedAt": "2026-10-30T05:55:45.379Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video",
     "image": null,
     "pushedAt": "2026-10-30T05:52:43.474Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales",
+    "title": "Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
+    "titleZh": "日本股市顯示出對日本央行 ETF 銷售加快的信心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales",
+    "image": null,
+    "pushedAt": "2026-10-30T05:56:38.991Z"
   }
 ]
