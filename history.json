@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html",
-    "title": "Thomas L. Friedman: We Just Set Off the Second Big Bang",
-    "titleZh": "Thomas L. Friedman: We Just Set Off the Second Big Bang",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html",
-    "image": null,
-    "pushedAt": "2026-10-26T04:57:44.017Z"
-  },
-  {
     "id": "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe",
     "title": "Airbus to hold talks with BAE over role in GCAP fighter jet programme",
     "titleZh": "Airbus to hold talks with BAE over role in GCAP fighter jet programme",
@@ -3219,7 +3210,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/dollar-general-prices-ftc-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-price-distrust-jtbl/28biz-price-distrust-jtbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:01:10.882Z"
+    "pushedAt": "2026-10-30T20:27:28.942Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
@@ -7395,7 +7386,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T18:02:02.635Z"
+    "pushedAt": "2026-10-30T20:28:19.237Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/strong-earnings-mask-growing-struggle-with-inflation-oil-prices",
@@ -8232,7 +8223,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/who-could-replace-christine-lagarde-as-ecb-president-video",
     "image": null,
-    "pushedAt": "2026-10-30T18:01:36.587Z"
+    "pushedAt": "2026-10-30T20:27:54.440Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/why-one-fed-policy-can-t-fix-a-two-speed-economy-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-canada-assess-fmtk/30int-canada-assess-fmtk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-30T20:27:00.196Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plunges-on-weak-outlook-closing-bell-video",
+    "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell",
+    "titleZh": "科技股拋售加劇，前景疲弱，英特爾股價重挫 29%結束鐘聲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plunges-on-weak-outlook-closing-bell-video",
+    "image": null,
+    "pushedAt": "2026-10-30T20:28:47.591Z"
   }
 ]
