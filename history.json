@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ee40daa9-48a7-4157-b6a1-d2ea3c90dbd0",
-    "title": "Government accused of ‘fudging’ consultancy spending to meet pledge",
-    "titleZh": "政府被指為兌現承諾而「瞞報」顧問費支出",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ee40daa9-48a7-4157-b6a1-d2ea3c90dbd0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T18:35:09.222Z"
-  },
-  {
     "id": "https://www.ft.com/content/26f97311-f72c-40a8-bc89-c46740f9cdc0",
     "title": "Students seek to oust Serbia’s strongman in Sunday vote",
     "titleZh": "學生們希望在週日的投票中將塞爾維亞的強人趕下台",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/central-asia-s-fastest-growing-economy-plans-yuan-bond-in-2027",
     "image": null,
     "pushedAt": "2026-10-30T06:42:52.217Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/tokyo-electron-s-outlook-beats-estimates-while-ai-spending-grows",
+    "title": "Tokyo Electron’s Outlook Beats Estimates While AI Spending Grows",
+    "titleZh": "東京電子的前景優於預期，人工智慧支出成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/tokyo-electron-s-outlook-beats-estimates-while-ai-spending-grows",
+    "image": null,
+    "pushedAt": "2026-10-30T06:46:22.835Z"
   }
 ]
