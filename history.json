@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec",
-    "title": "How iTunes came back from the dead",
-    "titleZh": "How iTunes came back from the dead",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec",
-    "image": null,
-    "pushedAt": "2026-10-25T14:26:30.575Z"
-  },
-  {
     "id": "https://www.ft.com/content/ec4f1473-dfcc-45bc-9705-8c7175f51737",
     "title": "London’s tennis players cry fault as bots snap up court bookings",
     "titleZh": "London’s tennis players cry fault as bots snap up court bookings",
@@ -7143,7 +7134,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2c7a09d1-6b8f-49f2-9226-730f798e679a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T12:21:05.788Z"
+    "pushedAt": "2026-10-30T14:39:33.366Z"
   },
   {
     "id": "https://www.ft.com/content/d35c065f-0aef-44fa-a0d8-be1e0e5281c8",
@@ -7161,7 +7152,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3fcee617-7696-4c4c-8440-64e1c88e77f6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T12:21:30.230Z"
+    "pushedAt": "2026-10-30T14:39:57.699Z"
   },
   {
     "id": "https://www.ft.com/content/e8476d2c-a676-4d69-9cfb-2ddeca88f99b",
@@ -7629,7 +7620,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/9r7b5isbh?ref=rss",
     "image": "https://cdn.flipso.com/p/9r7b5isbh_square.jpg",
-    "pushedAt": "2026-10-30T12:21:56.203Z"
+    "pushedAt": "2026-10-30T14:40:22.242Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/uk-house-prices-stagnant-as-mortgage-costs-bite-nationwide-says",
@@ -8079,7 +8070,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-ukraine-pipes-promo-afabuo/28int-ukraine-pipes-promo-afabuo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T12:17:10.912Z"
+    "pushedAt": "2026-10-30T14:38:19.461Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/us/politics/trump-supreme-court-judge-ho.html",
@@ -8097,7 +8088,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
     "image": null,
-    "pushedAt": "2026-10-30T12:17:36.922Z"
+    "pushedAt": "2026-10-30T14:38:44.135Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
@@ -8538,7 +8529,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30db-nyse-wlpm/30db-nyse-wlpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T12:19:21.295Z"
+    "pushedAt": "2026-10-30T14:39:08.648Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/containing-the-binance-hack-hinges-on-vow-to-make-traders-whole",
     "image": null,
     "pushedAt": "2026-10-30T14:34:50.793Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/meta-alphabet-intel-share-sales-leave-buyers-far-underwater",
+    "title": "Meta, Alphabet, Intel Share Sales Leave Buyers Far Underwater",
+    "titleZh": "Meta、Alphabet、英特爾的股價銷售讓買家陷入困境",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/meta-alphabet-intel-share-sales-leave-buyers-far-underwater",
+    "image": null,
+    "pushedAt": "2026-10-30T14:40:50.802Z"
   }
 ]
