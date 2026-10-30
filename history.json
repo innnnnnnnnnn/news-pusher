@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
-    "title": "The Eyes of Elizabeth Holmes",
-    "titleZh": "The Eyes of Elizabeth Holmes",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/opinion/24dowd-ycse/24dowd-ycse-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T03:17:46.814Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
     "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
     "titleZh": "Dare We Dream of a Blue Wave?",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years",
     "image": null,
     "pushedAt": "2026-10-30T16:26:56.242Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+    "title": "Checks and Balance newsletter: If American voters lived under one roof",
+    "titleZh": "制衡通訊：如果美國選民住在一個屋簷下",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+    "image": null,
+    "pushedAt": "2026-10-30T16:27:26.580Z"
   }
 ]
