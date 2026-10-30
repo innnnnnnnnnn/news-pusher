@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
-    "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
-    "titleZh": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-alaska-voting-sites/24hp-alaska-legal-promo-01-zqgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T09:13:26.481Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
     "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
     "titleZh": "4 Bodies Found in Haiti Believed to Be Those of Missing Salvadoran Soldiers",
@@ -3174,7 +3165,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:26:33.492Z"
+    "pushedAt": "2026-10-30T17:08:19.967Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
@@ -3183,7 +3174,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00biz-india-media-fhqb/00biz-india-media-fhqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:26:58.058Z"
+    "pushedAt": "2026-10-30T17:08:45.178Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
@@ -3192,7 +3183,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
     "image": null,
-    "pushedAt": "2026-10-30T14:27:47.087Z"
+    "pushedAt": "2026-10-30T17:09:37.951Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
@@ -6890,8 +6881,8 @@
     "titleZh": "小型核反應爐的麻煩",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T08:01:13.470Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99f16dcc-d1e5-46d1-87ee-20b8b7eebf0d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-30T17:10:05.571Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/jio-keeps-ambani-magic-alive-as-investors-await-earnings-video",
@@ -7557,7 +7548,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/45241950-5172-4cdc-b893-9e22278c15f6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T14:27:22.560Z"
+    "pushedAt": "2026-10-30T17:09:12.357Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-to-act-decisively-if-needed-to-tame-inflation-nagel-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/amazon-s-ai-spending-spooks-investors-video",
     "image": null,
     "pushedAt": "2026-10-30T17:07:51.522Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f",
+    "title": "Lula, Brazil’s 81-year-old comeback kid",
+    "titleZh": "盧拉，巴西81歲復出少年",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d47fb11-86ab-4c13-beb9-449c50852228.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-30T17:10:35.410Z"
   }
 ]
