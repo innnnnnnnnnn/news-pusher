@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b9a45b74-72f6-4577-870e-f54f83d8f5ad",
-    "title": "Singapore goes after companies over toxic haze",
-    "titleZh": "新加坡針對造成有毒煙霾的公司採取行動",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b9a45b74-72f6-4577-870e-f54f83d8f5ad?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T03:26:05.808Z"
-  },
-  {
     "id": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a",
     "title": "Moderna shares sink after leaked cancer data missed expectations",
     "titleZh": "Moderna 股價暴跌，因外洩的癌症數據未達預期",
@@ -7359,7 +7350,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/13kcg3sxb?ref=rss",
     "image": null,
-    "pushedAt": "2026-10-30T03:03:59.295Z"
+    "pushedAt": "2026-10-30T05:14:46.596Z"
   },
   {
     "id": "https://flipso.com/p/a66rpt979",
@@ -7368,7 +7359,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/a66rpt979?ref=rss",
     "image": "https://cdn.flipso.com/p/a66rpt979_square.jpg",
-    "pushedAt": "2026-10-30T03:04:51.340Z"
+    "pushedAt": "2026-10-30T05:15:33.762Z"
   },
   {
     "id": "https://flipso.com/p/cx7yh5jdf",
@@ -7377,7 +7368,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/cx7yh5jdf?ref=rss",
     "image": "https://cdn.flipso.com/p/cx7yh5jdf_square.jpg",
-    "pushedAt": "2026-10-30T03:05:15.114Z"
+    "pushedAt": "2026-10-30T05:15:57.075Z"
   },
   {
     "id": "https://flipso.com/p/uc614z07g",
@@ -7386,7 +7377,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/uc614z07g?ref=rss",
     "image": "https://cdn.flipso.com/p/uc614z07g_square.jpg",
-    "pushedAt": "2026-10-30T03:05:38.944Z"
+    "pushedAt": "2026-10-30T05:16:20.323Z"
   },
   {
     "id": "https://flipso.com/p/4bl48o250",
@@ -7395,7 +7386,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/4bl48o250?ref=rss",
     "image": "https://cdn.flipso.com/p/4bl48o250_square.jpg",
-    "pushedAt": "2026-10-30T03:06:02.602Z"
+    "pushedAt": "2026-10-30T05:16:43.469Z"
   },
   {
     "id": "https://flipso.com/p/2b62bseak",
@@ -7404,7 +7395,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2b62bseak?ref=rss",
     "image": "https://cdn.flipso.com/p/2b62bseak_square.jpg",
-    "pushedAt": "2026-10-30T03:06:26.593Z"
+    "pushedAt": "2026-10-30T05:17:06.854Z"
   },
   {
     "id": "https://flipso.com/p/incogpy5q",
@@ -7413,7 +7404,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/incogpy5q?ref=rss",
     "image": "https://cdn.flipso.com/p/incogpy5q_square.jpg",
-    "pushedAt": "2026-10-30T03:06:50.422Z"
+    "pushedAt": "2026-10-30T05:17:30.562Z"
   },
   {
     "id": "https://flipso.com/p/mmpttos11",
@@ -8574,7 +8565,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-exports-rise-at-fastest-in-five-years-on-weak-peso-ai-boom",
     "image": null,
-    "pushedAt": "2026-10-30T03:04:24.695Z"
+    "pushedAt": "2026-10-30T05:15:10.356Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/boj-holds-benchmark-rate-steady-as-expected-after-september-hike",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/boj-holds-rate-as-underlying-inflation-hits-target-video",
     "image": null,
     "pushedAt": "2026-10-30T05:14:20.281Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff",
+    "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
+    "titleZh": "Nscale 350 億美元 IPO 背後的成敗人工智慧大型項目",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fae05cda4-fd4f-481e-9993-2156e65d146f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-30T05:17:57.394Z"
   }
 ]
