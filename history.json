@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2",
-    "title": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
-    "titleZh": "殼牌與埃克森美孚旗下價值 80 億美元的英國化工部門正待售",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T03:49:40.944Z"
-  },
-  {
     "id": "https://www.ft.com/content/93852564-cae6-41f6-aa79-8db53e2b7774",
     "title": "ECB on course for another rate rise in 2026",
     "titleZh": "歐洲央行預計將於2026年再次升息",
@@ -7854,7 +7845,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/9fsm2zzjw?ref=rss",
     "image": "https://cdn.flipso.com/p/9fsm2zzjw_square.jpg",
-    "pushedAt": "2026-10-30T00:51:13.293Z"
+    "pushedAt": "2026-10-30T03:08:31.756Z"
   },
   {
     "id": "https://flipso.com/p/w1wwuo9ge",
@@ -7863,7 +7854,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/w1wwuo9ge?ref=rss",
     "image": "https://cdn.flipso.com/p/w1wwuo9ge_square.jpg",
-    "pushedAt": "2026-10-30T00:52:04.167Z"
+    "pushedAt": "2026-10-30T03:09:19.878Z"
   },
   {
     "id": "https://flipso.com/p/5jtiyxfdb",
@@ -8497,12 +8488,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "title": "Tech Stocks Sell Off on Earnings, Bitcoin Drops: Markets Wrap",
+    "title": "Stock Selloff Deepens on Tech Earnings, Bonds Rise: Markets Wrap",
     "titleZh": "亞洲股市承壓，避險買盤提振債券：市場總結",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-10-30T00:51:38.903Z"
+    "pushedAt": "2026-10-30T03:08:56.575Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/boj-holds-benchmark-rate-steady-as-expected-after-september-hike",
     "image": null,
     "pushedAt": "2026-10-30T03:08:05.720Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
+    "title": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses",
+    "titleZh": "幣安努力應對可能造成 63 億美元損失的“安全事件”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T03:09:46.418Z"
   }
 ]
