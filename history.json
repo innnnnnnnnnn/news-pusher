@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11",
-    "title": "Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK",
-    "titleZh": "勞斯萊斯即將與英國政府達成一項由納稅人資助的協議，以在英國開發新型引擎",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T01:46:02.736Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d66ab794-72e9-447b-b6f4-a633dd9fda91",
-    "title": "Does the UK overtax banks?",
-    "titleZh": "英國銀行是否應被課以更高稅率？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d66ab794-72e9-447b-b6f4-a633dd9fda91?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T00:00:41.171Z"
-  },
-  {
     "id": "https://www.ft.com/content/bf1814f5-d3bc-4df6-adbf-0fb980e22235",
     "title": "The living being on your bookshelf",
     "titleZh": "你書架上的那個生物",
@@ -3885,7 +3867,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
     "image": null,
-    "pushedAt": "2026-10-30T04:19:13.736Z"
+    "pushedAt": "2026-10-30T06:36:13.586Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
@@ -8007,7 +7989,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T04:17:33.139Z"
+    "pushedAt": "2026-10-30T06:34:55.451Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
@@ -8241,7 +8223,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/chip-suppliers-lead-765-million-month-end-listing-rush-in-hk",
     "image": null,
-    "pushedAt": "2026-10-30T04:18:50.051Z"
+    "pushedAt": "2026-10-30T06:35:48.389Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
@@ -8542,12 +8524,12 @@
   },
   {
     "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
-    "title": "Bank of Japan says 2% inflation target reached",
+    "title": "Bank of Japan says 2% inflation goal reached after decades of deflation",
     "titleZh": "日本央行表示已達2%通膨目標",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T04:18:23.894Z"
+    "pushedAt": "2026-10-30T06:35:21.803Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/insight-with-haslinda-amin-10-30-2026-video",
     "image": null,
     "pushedAt": "2026-10-30T06:34:27.591Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/french-economy-unexpectedly-shrinks-as-headwinds-gain-strength",
+    "title": "French Economy Unexpectedly Shrinks as Headwinds Gain Strength",
+    "titleZh": "逆風增強，法國經濟意外萎縮",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-economy-unexpectedly-shrinks-as-headwinds-gain-strength",
+    "image": null,
+    "pushedAt": "2026-10-30T06:36:41.271Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/snb-reports-nine-month-profit-on-foreign-currencies-and-gold",
+    "title": "SNB Reports Nine-Month Profit on Foreign Currencies and Gold",
+    "titleZh": "瑞士央行報告九個月外幣和黃金利潤",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/snb-reports-nine-month-profit-on-foreign-currencies-and-gold",
+    "image": null,
+    "pushedAt": "2026-10-30T06:36:45.820Z"
   }
 ]
