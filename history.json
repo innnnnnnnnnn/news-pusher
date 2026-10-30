@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-    "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-    "titleZh": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24Biz-UC-50-lede-lkcm/24Biz-UC-50-lede-lkcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T06:49:52.377Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/business/the-long-life-of-the-snacking-occasiong-glp1.html",
     "title": "The Long Life of the ‘Snacking Occasion’",
     "titleZh": "The Long Life of the ‘Snacking Occasion’",
@@ -2733,7 +2724,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
     "image": "https://static01.nyt.com/images/2026/07/03/multimedia/int-Estonia-plwv/int-Estonia-plwv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T16:57:18.006Z"
+    "pushedAt": "2026-10-30T19:23:27.501Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
@@ -7683,7 +7674,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/italy-s-inflation-jump-is-dramatic-result-of-war-giorgetti-says",
     "image": null,
-    "pushedAt": "2026-10-30T16:57:45.256Z"
+    "pushedAt": "2026-10-30T19:23:52.499Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-brief-10-30-2026-video",
@@ -8628,7 +8619,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ai-will-boost-consumer-electronics-video",
     "image": null,
-    "pushedAt": "2026-10-30T16:58:13.619Z"
+    "pushedAt": "2026-10-30T19:24:17.728Z"
   },
   {
     "id": "https://www.ft.com/content/a7d0b547-88e3-4a30-953c-9490f7be1aa5",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/vail-resorts-wins-large-shareholder-support-in-fight-with-oasis",
     "image": null,
     "pushedAt": "2026-10-30T19:22:58.972Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+    "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+    "titleZh": "薩爾瓦多的布克萊能成為海地的救世主嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T19:24:47.942Z"
   }
 ]
