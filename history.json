@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a",
-    "title": "The young are conformists in denial",
-    "titleZh": "The young are conformists in denial",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48d5f269-cc3b-4f79-a11b-a4da6de4d5ba.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-25T03:19:45.951Z"
-  },
-  {
     "id": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459",
     "title": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
     "titleZh": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?",
@@ -3273,7 +3264,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
     "image": null,
-    "pushedAt": "2026-10-30T11:34:54.030Z"
+    "pushedAt": "2026-10-30T13:53:31.352Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
@@ -8097,7 +8088,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-trump-econ-01-qwmg/30dc-trump-econ-01-qwmg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T11:34:27.953Z"
+    "pushedAt": "2026-10-30T13:53:06.871Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/opinion/billionaire-wealth-tax-california.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/lockheed-s-yearslong-f-35-deal-drives-new-morgan-stanley-bull",
     "image": null,
     "pushedAt": "2026-10-30T13:52:39.484Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-chairman-ai-demand-is-real-video",
+    "title": "Foxconn Chairman: AI Demand is Real",
+    "titleZh": "富士康董事長：人工智慧需求是真實的",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-chairman-ai-demand-is-real-video",
+    "image": null,
+    "pushedAt": "2026-10-30T13:53:58.588Z"
   }
 ]
