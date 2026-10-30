@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
-    "title": "Americans Are Struggling to Pay Rising Medical Costs",
-    "titleZh": "Americans Are Struggling to Pay Rising Medical Costs",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
-    "image": null,
-    "pushedAt": "2026-10-27T08:13:32.082Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
     "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
     "titleZh": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-warns-of-slow-srt-approvals-if-banks-don-t-keep-them-simple",
     "image": null,
     "pushedAt": "2026-10-30T10:26:49.535Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/softbank-backed-opay-prices-at-4-billion-value-for-new-york-ipo",
+    "title": "Softbank-Backed OPay Prices at $4 Billion Value for New York IPO",
+    "titleZh": "軟銀支持的 OPay 紐約 IPO 定價為 40 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/softbank-backed-opay-prices-at-4-billion-value-for-new-york-ipo",
+    "image": null,
+    "pushedAt": "2026-10-30T10:27:19.256Z"
   }
 ]
