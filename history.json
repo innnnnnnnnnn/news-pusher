@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-    "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-    "titleZh": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-alpha-wtkj/23nat-alpha-wtkj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T15:43:03.337Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/upshot/arch-trump-washington-history.html",
     "title": "Does Congress Need to Approve the Arch? Trump Says It Did 100 Years Ago.",
     "titleZh": "Does Congress Need to Approve the Arch? Trump Says It Did 100 Years Ago.",
@@ -4344,7 +4335,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
     "image": null,
-    "pushedAt": "2026-10-30T06:58:30.569Z"
+    "pushedAt": "2026-10-30T09:26:57.442Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
@@ -4353,7 +4344,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
     "image": null,
-    "pushedAt": "2026-10-30T06:59:30.216Z"
+    "pushedAt": "2026-10-30T09:28:12.739Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
@@ -4362,7 +4353,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
     "image": null,
-    "pushedAt": "2026-10-30T06:59:55.209Z"
+    "pushedAt": "2026-10-30T09:28:38.302Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
@@ -4371,7 +4362,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
     "image": null,
-    "pushedAt": "2026-10-30T07:00:20.422Z"
+    "pushedAt": "2026-10-30T09:29:02.983Z"
   },
   {
     "id": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
@@ -8565,7 +8556,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29midterms-rally-cancelled-qvhg/29midterms-rally-cancelled-qvhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T06:58:57.934Z"
+    "pushedAt": "2026-10-30T09:27:22.561Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/arts/television/seth-meyers-obama-trump-comedy.html",
@@ -8574,7 +8565,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/arts/television/seth-meyers-obama-trump-comedy.html",
     "image": null,
-    "pushedAt": "2026-10-30T06:59:01.988Z"
+    "pushedAt": "2026-10-30T09:27:47.529Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-10-30/ftse-100-live-updates-bp-natwest-astrazeneca-pound-bonds-gilts-euro-gdp-budget-news-what-s-moving-uk-markets-right-now-markets-today",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/genmab-s-stellar-cancer-drug-data-fuels-stock-s-10-billion-week",
     "image": null,
     "pushedAt": "2026-10-30T09:26:29.600Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video",
+    "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+    "titleZh": "Binance 在加密貨幣最大規模的駭客攻擊中遭受了 63 億美元的損失",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video",
+    "image": null,
+    "pushedAt": "2026-10-30T09:29:30.939Z"
   }
 ]
