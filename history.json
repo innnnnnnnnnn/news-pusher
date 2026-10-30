@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
-    "title": "Audi to Build Factory in Georgia, Trump Says",
-    "titleZh": "Audi to Build Factory in Georgia, Trump Says",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24biz-audi-factory-wmtq/24biz-audi-factory-wmtq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:17:45.139Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
     "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
     "titleZh": "Iranians Face Anxious Wait as Threat of Attack Looms",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
     "image": null,
     "pushedAt": "2026-10-30T17:11:08.711Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+    "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+    "titleZh": "幣安 63 億美元的駭客攻擊只是一個危險新時代的開始",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T17:11:41.403Z"
   }
 ]
