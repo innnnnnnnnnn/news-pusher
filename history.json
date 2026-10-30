@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
-    "title": "What the Israeli Election Won’t Change",
-    "titleZh": "What the Israeli Election Won’t Change",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/24zonszein-vgqz/24zonszein-vgqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T04:33:18.897Z"
-  },
-  {
     "id": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59",
     "title": "Why 17 is not the magic number in industrial policy",
     "titleZh": "Why 17 is not the magic number in industrial policy",
@@ -5001,7 +4992,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T14:43:24.372Z"
+    "pushedAt": "2026-10-30T17:23:05.838Z"
   },
   {
     "id": "https://flipso.com/p/xonoeaeb2",
@@ -5010,7 +5001,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/xonoeaeb2?ref=rss",
     "image": "https://cdn.flipso.com/p/xonoeaeb2_square.jpg",
-    "pushedAt": "2026-10-30T14:43:50.765Z"
+    "pushedAt": "2026-10-30T17:23:33.165Z"
   },
   {
     "id": "https://flipso.com/p/is7duajvv",
@@ -5019,7 +5010,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/is7duajvv?ref=rss",
     "image": "https://cdn.flipso.com/p/is7duajvv_square.jpg",
-    "pushedAt": "2026-10-30T14:44:15.449Z"
+    "pushedAt": "2026-10-30T17:23:59.835Z"
   },
   {
     "id": "https://flipso.com/p/zb27yfdl0",
@@ -6207,7 +6198,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
     "image": null,
-    "pushedAt": "2026-10-30T14:41:45.304Z"
+    "pushedAt": "2026-10-30T17:22:12.661Z"
   },
   {
     "id": "https://flipso.com/p/vc7thy5me",
@@ -6684,7 +6675,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/423419b6-a39e-4870-adf5-c59cf9cec8c8?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T14:41:18.159Z"
+    "pushedAt": "2026-10-30T17:21:44.638Z"
   },
   {
     "id": "https://www.ft.com/content/50b7ed72-30d0-4120-b271-f3003068db9a",
@@ -7125,7 +7116,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/9r7b5isbh?ref=rss",
     "image": "https://cdn.flipso.com/p/9r7b5isbh_square.jpg",
-    "pushedAt": "2026-10-30T14:40:22.242Z"
+    "pushedAt": "2026-10-30T17:21:19.615Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/uk-house-prices-stagnant-as-mortgage-costs-bite-nationwide-says",
@@ -7602,7 +7593,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:42:34.457Z"
+    "pushedAt": "2026-10-30T17:22:39.587Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/podcasts/the-headlines/trump-interventions-midterms-israeli-election.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
     "image": null,
     "pushedAt": "2026-10-30T17:20:51.132Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+    "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+    "titleZh": "Polymarket 和 Kalshi 面臨重大準確性測試：中期選舉",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T17:24:27.021Z"
   }
 ]
