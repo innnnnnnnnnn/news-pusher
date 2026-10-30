@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-    "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-    "titleZh": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T05:30:28.502Z"
-  },
-  {
     "id": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
     "title": "Ukraine military says Starlink service restrictions have been lifted",
     "titleZh": "Ukraine military says Starlink service restrictions have been removed",
@@ -2103,7 +2094,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
     "image": null,
-    "pushedAt": "2026-10-30T13:42:58.369Z"
+    "pushedAt": "2026-10-30T16:15:47.371Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
@@ -6243,7 +6234,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
     "image": null,
-    "pushedAt": "2026-10-30T13:42:33.960Z"
+    "pushedAt": "2026-10-30T16:15:20.775Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
@@ -8160,7 +8151,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bb522913-0035-49c4-8a86-b5b02144f397?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:43:22.845Z"
+    "pushedAt": "2026-10-30T16:16:13.947Z"
   },
   {
     "id": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a",
@@ -8168,8 +8159,8 @@
     "titleZh": "北韓如何成為駭客超級大國",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4f68b7ce-f6f0-4a0d-865e-a670900e3a80.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T13:43:47.763Z"
+    "image": null,
+    "pushedAt": "2026-10-30T16:16:40.699Z"
   },
   {
     "id": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
@@ -8178,7 +8169,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
     "image": null,
-    "pushedAt": "2026-10-30T13:44:12.307Z"
+    "pushedAt": "2026-10-30T16:17:07.600Z"
   },
   {
     "id": "https://www.ft.com/content/caf2d108-bb04-47ff-bcfa-53cca632c63d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/come-see-lina-khan-at-odd-lots-live-on-12-9-in-nyc",
     "image": null,
     "pushedAt": "2026-10-30T16:14:52.587Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/anthropic-s-s1-google-s-ai-problem-the-rundown-video",
+    "title": "Anthropic's S1 | Google's AI Problem | The Rundown",
+    "titleZh": "Anthropic的S1 |Google的人工智慧問題|綱要",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/anthropic-s-s1-google-s-ai-problem-the-rundown-video",
+    "image": null,
+    "pushedAt": "2026-10-30T16:17:36.348Z"
   }
 ]
