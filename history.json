@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4e3f67c8-70d0-44aa-950e-62190717c2db",
-    "title": "London Underground blames rising delays on repair backlog",
-    "titleZh": "London Underground blames rising delays on repair backlog",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4e3f67c8-70d0-44aa-950e-62190717c2db",
-    "image": null,
-    "pushedAt": "2026-10-25T02:24:54.615Z"
-  },
-  {
     "id": "https://www.ft.com/content/8f0b71c3-b097-4126-b0ff-ad7b66676107",
     "title": "100 days of Burnham",
     "titleZh": "100 days of Burnham",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/podcasts/the-headlines/trump-interventions-midterms-israeli-election.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30theheadlines-hgzb/30theheadlines-hgzb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-30T10:04:09.489Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms",
+    "title": "Kalshi, Polymarket Piled On Media Deals Ahead of the Midterms",
+    "titleZh": "Kalshi 和 Polymarket 在中期選舉前進行大量媒體交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms",
+    "image": null,
+    "pushedAt": "2026-10-30T10:04:40.861Z"
   }
 ]
