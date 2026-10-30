@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html",
-    "title": "María Corina Machado Returns to Venezuela",
-    "titleZh": "María Corina Machado Returns to Venezuela",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html",
-    "image": null,
-    "pushedAt": "2026-10-25T16:10:58.296Z"
-  },
-  {
     "id": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
     "title": "Marco Rubio still owes Europe answers about America’s intentions",
     "titleZh": "Marco Rubio still owes Europe answers about America’s intentions",
@@ -2481,7 +2472,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
     "image": "https://static01.nyt.com/images/2026/07/03/multimedia/int-Estonia-plwv/int-Estonia-plwv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T19:23:27.501Z"
+    "pushedAt": "2026-10-30T21:50:10.117Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
@@ -2490,7 +2481,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v6.png",
-    "pushedAt": "2026-10-30T19:25:16.676Z"
+    "pushedAt": "2026-10-30T21:51:50.002Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
@@ -7431,7 +7422,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/italy-s-inflation-jump-is-dramatic-result-of-war-giorgetti-says",
     "image": null,
-    "pushedAt": "2026-10-30T19:23:52.499Z"
+    "pushedAt": "2026-10-30T21:50:35.004Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-brief-10-30-2026-video",
@@ -8376,7 +8367,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ai-will-boost-consumer-electronics-video",
     "image": null,
-    "pushedAt": "2026-10-30T19:24:17.728Z"
+    "pushedAt": "2026-10-30T21:51:00.245Z"
   },
   {
     "id": "https://www.ft.com/content/a7d0b547-88e3-4a30-953c-9490f7be1aa5",
@@ -8754,7 +8745,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T19:24:47.942Z"
+    "pushedAt": "2026-10-30T21:51:24.934Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
@@ -8763,7 +8754,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
     "image": null,
-    "pushedAt": "2026-10-30T19:25:45.414Z"
+    "pushedAt": "2026-10-30T21:52:17.187Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/fuelcell-energy-ceo-ai-race-won-t-be-won-by-pausing-video",
     "image": null,
     "pushedAt": "2026-10-30T21:48:01.217Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+    "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
+    "titleZh": "財務諮詢的未來：里奇‧施泰因邁爾的商業碩士",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+    "image": null,
+    "pushedAt": "2026-10-30T21:52:44.505Z"
   }
 ]
