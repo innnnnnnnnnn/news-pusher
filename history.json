@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-    "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-    "titleZh": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:57:43.728Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
     "title": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
     "titleZh": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
@@ -3138,7 +3129,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:23:58.777Z"
+    "pushedAt": "2026-10-30T17:05:15.242Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
@@ -3147,7 +3138,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/int-hongkong-fire-bvcf/int-hongkong-fire-bvcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:24:48.606Z"
+    "pushedAt": "2026-10-30T17:06:05.875Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
@@ -3156,7 +3147,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-nigeria-ebola-questions-1-kbgp/28int-nigeria-ebola-questions-1-kbgp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:25:18.026Z"
+    "pushedAt": "2026-10-30T17:06:31.263Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
@@ -3165,7 +3156,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:25:43.759Z"
+    "pushedAt": "2026-10-30T17:06:56.695Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
@@ -3174,7 +3165,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-foreignaid-contraception2-cmgj/29dc-foreignaid-contraception2-cmgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:26:08.549Z"
+    "pushedAt": "2026-10-30T17:07:22.238Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
@@ -8034,7 +8025,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/inside-mexico-city-s-housing-theft-crisis",
     "image": null,
-    "pushedAt": "2026-10-30T14:24:23.877Z"
+    "pushedAt": "2026-10-30T17:05:41.190Z"
   },
   {
     "id": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html",
     "image": null,
     "pushedAt": "2026-10-30T17:04:46.704Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/amazon-s-ai-spending-spooks-investors-video",
+    "title": "Amazon’s AI Spending Spooks Investors",
+    "titleZh": "亞馬遜的人工智慧支出令投資人感到不安",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/amazon-s-ai-spending-spooks-investors-video",
+    "image": null,
+    "pushedAt": "2026-10-30T17:07:51.522Z"
   }
 ]
