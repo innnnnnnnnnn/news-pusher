@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
-    "title": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
-    "titleZh": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-finland-puppies-01-hkzf/23int-finland-puppies-01-hkzf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T09:24:53.795Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
     "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
     "titleZh": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
@@ -4812,7 +4803,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28Biz-SS-Senate-wlkb/28Biz-SS-Senate-wlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:20:53.307Z"
+    "pushedAt": "2026-10-30T10:49:11.921Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
@@ -4821,7 +4812,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:21:18.089Z"
+    "pushedAt": "2026-10-30T10:49:36.775Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
     "image": null,
     "pushedAt": "2026-10-30T10:48:44.338Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
+    "title": "Chinese Chip Leader CXMT’s Sales Rise Sevenfold Yet Growth Slows",
+    "titleZh": "中國晶片領導者長鑫儲存銷售額成長七倍但成長放緩",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
+    "image": null,
+    "pushedAt": "2026-10-30T10:50:03.179Z"
   }
 ]
