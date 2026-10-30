@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
-    "title": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
-    "titleZh": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-NEWPRESS-czkv/22BIZ-NEWPRESS-czkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:29:59.437Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
     "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
     "titleZh": "Introducing a New Way to Understand the Election: Times Voter Trends",
@@ -2796,7 +2787,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T17:05:15.242Z"
+    "pushedAt": "2026-10-30T19:32:09.588Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
@@ -2805,7 +2796,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/int-hongkong-fire-bvcf/int-hongkong-fire-bvcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T17:06:05.875Z"
+    "pushedAt": "2026-10-30T19:33:00.306Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
@@ -2823,7 +2814,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T17:06:56.695Z"
+    "pushedAt": "2026-10-30T19:33:25.480Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
@@ -7692,7 +7683,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/inside-mexico-city-s-housing-theft-crisis",
     "image": null,
-    "pushedAt": "2026-10-30T17:05:41.190Z"
+    "pushedAt": "2026-10-30T19:32:34.736Z"
   },
   {
     "id": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
@@ -8655,7 +8646,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/us/elections/100000011240630/the-justice-departments-unusual-election-year-activity.html",
     "image": null,
-    "pushedAt": "2026-10-30T17:04:46.704Z"
+    "pushedAt": "2026-10-30T19:31:44.366Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/amazon-s-ai-spending-spooks-investors-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
     "image": null,
     "pushedAt": "2026-10-30T19:25:45.414Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
+    "title": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom",
+    "titleZh": "大型科技公司為 AI 繁榮做出了 3 兆美元的支出承諾",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
+    "image": null,
+    "pushedAt": "2026-10-30T19:33:53.452Z"
   }
 ]
