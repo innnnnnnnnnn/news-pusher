@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
-    "title": "A Young Family in Niagara, N.Y., and a Backyard Full of Radioactive Waste",
-    "titleZh": "那棟後院有輻射的夢幻之家",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-niagara-radiation-TOP/22met-niagara-radiation-TOP-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T02:49:17.556Z"
-  },
-  {
     "id": "https://www.ft.com/content/c514f3c5-b174-4a92-ab45-aa19ddc63fc1",
     "title": "Steve Cohen takes Hertz for a defensive spin",
     "titleZh": "史蒂夫·科恩帶領赫茲走上一條防禦性路線",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-hack-not-end-of-world-says-crypto-pioneer-video",
     "image": null,
     "pushedAt": "2026-10-30T04:11:17.247Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/un-delays-bangladesh-nepal-exit-from-least-developed-status",
+    "title": "UN Delays Bangladesh, Nepal Exit From Least Developed Status",
+    "titleZh": "聯合國延後孟加拉、尼泊爾退出最不發達國家地位",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/un-delays-bangladesh-nepal-exit-from-least-developed-status",
+    "image": null,
+    "pushedAt": "2026-10-30T04:12:11.703Z"
   }
 ]
