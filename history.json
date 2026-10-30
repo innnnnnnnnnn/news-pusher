@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
-    "title": "A Shifting Standard",
-    "titleZh": "不斷變化的標準",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-nl-titleIX-lede-fchq/22themorning-nl-titleIX-lede-fchq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T19:13:53.423Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
     "title": "Late Night: Trump Can’t Stop Talking About Jon Husted’s Rear End",
     "titleZh": "《深夜秀》：川普對喬恩·赫斯泰德的臀部念念不忘",
@@ -8668,12 +8659,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
-    "title": "Binance Founder CZ Says Crypto Exchange ‘May Have Been Hacked’",
+    "title": "Suspected Billion-Dollar Binance Hack Sends Fear Through Crypto",
     "titleZh": "Binance創始人CZ表示，加密貨幣交易所“可能已被駭客入侵”",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
     "image": null,
-    "pushedAt": "2026-10-29T21:33:29.697Z"
+    "pushedAt": "2026-10-29T23:59:20.226Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
@@ -8682,16 +8673,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T21:34:03.961Z"
+    "pushedAt": "2026-10-29T23:59:46.564Z"
   },
   {
     "id": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817",
-    "title": "FirstFT: Intel stock drops 16% as it forecasts weaker chip sales",
+    "title": "FirstFT: Intel stock drops 20% as it forecasts weaker chip sales",
     "titleZh": "FirstFT：英特爾預期晶片銷售疲軟，股價下跌 16%",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T21:34:35.703Z"
+    "pushedAt": "2026-10-30T00:00:12.185Z"
   },
   {
     "id": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/tokyo-inflation-exceeds-boj-s-2-target-ahead-of-rate-decision",
     "image": null,
     "pushedAt": "2026-10-29T23:58:48.646Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
+    "title": "PAG Agrees to Buy China Evergrande Unit for $514 Million",
+    "titleZh": "PAG同意以5.14億$收購中國恆大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
+    "image": null,
+    "pushedAt": "2026-10-30T00:00:44.078Z"
   }
 ]
