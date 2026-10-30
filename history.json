@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ee6e1bfd-ed03-4f9a-a6fc-0db1c81b3905",
-    "title": "Life after USAID in Somalia",
-    "titleZh": "Life after USAID in Somalia",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ee6e1bfd-ed03-4f9a-a6fc-0db1c81b3905?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-25T22:06:44.316Z"
-  },
-  {
     "id": "https://www.ft.com/content/d5cc68cd-1c12-4617-8584-c731b4c8aa81",
     "title": "Many care services in England have never been inspected by regulator",
     "titleZh": "Many care homes in England have never been inspected by regulator",
@@ -2409,7 +2400,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
     "image": null,
-    "pushedAt": "2026-10-30T16:26:27.784Z"
+    "pushedAt": "2026-10-30T18:53:28.576Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
@@ -8574,7 +8565,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years",
     "image": null,
-    "pushedAt": "2026-10-30T16:26:56.242Z"
+    "pushedAt": "2026-10-30T18:53:53.573Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/own-don-t-earn-everywhere-millionaire-author-video",
     "image": null,
     "pushedAt": "2026-10-30T18:53:00.239Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
+    "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
+    "titleZh": "為什麼卡爾希想要廢除 1958 年有關洋蔥的法律",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-onionfutures-kzjg/30xp-onionfutures-kzjg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T18:54:22.481Z"
   }
 ]
