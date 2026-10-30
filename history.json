@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/575c54b3-b194-4338-930b-3f446da5044f",
-    "title": "Serbia’s Vučić faces tough election as fraud fears mount",
-    "titleZh": "塞爾維亞的武契奇面臨艱難選戰，選舉舞弊疑慮日益加劇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/575c54b3-b194-4338-930b-3f446da5044f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T15:03:50.554Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/insider/royal-canin-purina.html",
     "title": "‘Cats Love Gravy’: How a Reporter Ended Up at a Pet Food Research Center",
     "titleZh": "‘Cats Love Gravy’: How a Reporter Ended Up at a Pet Food Research Center",
@@ -5334,7 +5325,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T05:50:35.856Z"
+    "pushedAt": "2026-10-30T08:18:16.450Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/record-gasoline-prices-push-kenya-inflation-to-three-year-high",
     "image": null,
     "pushedAt": "2026-10-30T08:16:31.260Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe",
+    "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
+    "titleZh": "奧迪下調了對中國經濟衰退和歐洲競爭的展望",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe",
+    "image": null,
+    "pushedAt": "2026-10-30T08:18:44.684Z"
   }
 ]
