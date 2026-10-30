@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
-    "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
-    "titleZh": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-carousel-1130am-qzwl/24france-protests-carousel-1130am-qzwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T22:29:03.731Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
     "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
     "titleZh": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
@@ -6081,7 +6072,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
     "image": null,
-    "pushedAt": "2026-10-30T13:40:05.015Z"
+    "pushedAt": "2026-10-30T16:11:41.391Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/fed-is-facing-same-issues-greenspan-did-in-2001-kelton-video",
@@ -6234,7 +6225,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T13:39:38.771Z"
+    "pushedAt": "2026-10-30T16:11:14.338Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
@@ -6774,7 +6765,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:40:29.906Z"
+    "pushedAt": "2026-10-30T16:12:08.306Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
@@ -7593,7 +7584,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/edc789cb-71dc-4e42-9822-bca483819817?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb6f2ca0-88bd-4994-af28-6a7b59b90463.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T13:38:49.571Z"
+    "pushedAt": "2026-10-30T16:10:20.607Z"
   },
   {
     "id": "https://www.ft.com/content/3effe28d-9055-40c2-8899-e6e78bcab7c3",
@@ -7602,7 +7593,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3effe28d-9055-40c2-8899-e6e78bcab7c3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:39:14.359Z"
+    "pushedAt": "2026-10-30T16:10:47.335Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ded9d4ab-1d4f-4328-bd4c-03a3639d2347",
     "image": null,
     "pushedAt": "2026-10-30T16:08:31.071Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+    "title": "Dermatology Biotech Bambusa Slides 7% After $168.9 Million IPO",
+    "titleZh": "皮膚科生物技術 Bambusa 在 1.689 億美元 IPO 後下跌 7%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+    "image": null,
+    "pushedAt": "2026-10-30T16:12:36.647Z"
   }
 ]
