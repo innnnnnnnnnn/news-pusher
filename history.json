@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-    "title": "The Bukeleization of Latin America Has Arrived",
-    "titleZh": "The Bukeleization of Latin America Has Arrived",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T21:41:06.668Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/nyregion/horse-carriage-vote-drivers-city-council.html",
     "title": "Drivers Are Livid After Vote to Ban NYC’s Horse Carriages",
     "titleZh": "Drivers Are Livid After Vote to Ban NYC’s Horse Carriages",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/circular-ai-deals-spread-to-asia-widening-contagion-risk",
     "image": null,
     "pushedAt": "2026-10-30T10:29:43.742Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/world-s-second-worst-performing-currency-fans-ugandan-inflation",
+    "title": "World’s Second Worst Performing Currency Fans Ugandan Inflation",
+    "titleZh": "全球表現第二差的貨幣助推烏幹達通膨",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/world-s-second-worst-performing-currency-fans-ugandan-inflation",
+    "image": null,
+    "pushedAt": "2026-10-30T10:30:15.873Z"
   }
 ]
