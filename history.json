@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-    "title": "María Corina Machado Returns to Venezuela",
-    "titleZh": "María Corina Machado Returns to Venezuela",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-venezuela-machado-pwtq/25int-venezuela-machado-pwtq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:01:34.952Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
     "title": "The winners and losers of Trumponomics",
     "titleZh": "The winners and losers of Trumponomics",
@@ -2481,7 +2472,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-rwanda-1-qmkv/29int-rwanda-1-qmkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T19:27:55.538Z"
+    "pushedAt": "2026-10-30T21:55:28.954Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
@@ -2490,7 +2481,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-france-shooting-01-jqzf/29int-france-shooting-01-jqzf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T19:28:21.074Z"
+    "pushedAt": "2026-10-30T21:55:54.358Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
@@ -2499,7 +2490,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
     "image": "https://static01.nyt.com/images/2025/10/20/multimedia/29int-haiti-elect/20haiti-trials-wtk-wpzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T19:28:45.895Z"
+    "pushedAt": "2026-10-30T21:56:19.330Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
@@ -2508,7 +2499,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
     "image": null,
-    "pushedAt": "2026-10-30T19:29:11.305Z"
+    "pushedAt": "2026-10-30T21:56:44.773Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
@@ -2517,7 +2508,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-france-marseille-01-zcft/28int-france-marseille-01-zcft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T19:29:36.794Z"
+    "pushedAt": "2026-10-30T21:57:10.140Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
     "image": null,
     "pushedAt": "2026-10-30T21:55:00.523Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/opay-shares-fail-to-trade-after-raising-304-million-in-us-ipo",
+    "title": "Opay Shares Fail to Trade After Raising $304 Million in US IPO",
+    "titleZh": "Opay 在美國 IPO 籌集 3.04 億美元後股票未能交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/opay-shares-fail-to-trade-after-raising-304-million-in-us-ipo",
+    "image": null,
+    "pushedAt": "2026-10-30T21:57:39.293Z"
   }
 ]
