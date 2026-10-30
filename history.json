@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
-    "title": "Google Eyes Large ‘Virtual Power Plant’ for Data Centers",
-    "titleZh": "Google 瞄準為資料中心打造大型「虛擬發電廠」",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/climate/00cli-google-power/00cli-google-power-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-22T15:00:13.786Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
     "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
     "titleZh": "全球爭相修復 PHP 安全漏洞，導致部分網站無法上線",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/lagarde-exits-ecb-after-big-wins-some-errors-and-a-long-goodbye",
     "image": null,
     "pushedAt": "2026-10-30T00:12:17.612Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
+    "title": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
+    "titleZh": "隨著中國投資者退出，港股失去了主要支持者",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
+    "image": null,
+    "pushedAt": "2026-10-30T00:12:50.194Z"
   }
 ]
