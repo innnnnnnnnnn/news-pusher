@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600",
-    "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
-    "titleZh": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-25T12:11:04.723Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-    "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-    "titleZh": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-10-25T19:16:17.034Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
     "title": "Italy’s Young Protesters Return to the Streets",
     "titleZh": "Italy’s Young Protesters Return to the Streets",
@@ -5019,7 +5001,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/lri4id1zk?ref=rss",
     "image": "https://cdn.flipso.com/p/lri4id1zk_square.jpg",
-    "pushedAt": "2026-10-30T14:46:50.235Z"
+    "pushedAt": "2026-10-30T17:27:24.837Z"
   },
   {
     "id": "https://flipso.com/p/jheodvfvh",
@@ -7602,7 +7584,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/boe-agents-see-little-sign-of-energy-shock-feeding-into-pay",
     "image": null,
-    "pushedAt": "2026-10-30T14:46:25.802Z"
+    "pushedAt": "2026-10-30T17:26:59.144Z"
   },
   {
     "id": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/roblox-sees-ai-content-surge-as-daily-active-users-fall-video",
     "image": null,
     "pushedAt": "2026-10-30T17:26:30.541Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/why-anthropic-s-ai-edge-appeals-to-long-term-investors-video",
+    "title": "Why Anthropic’s AI Edge Appeals to Long-Term Investors",
+    "titleZh": "為什麼 Anthropic 的 AI 優勢吸引長期投資者",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/why-anthropic-s-ai-edge-appeals-to-long-term-investors-video",
+    "image": null,
+    "pushedAt": "2026-10-30T17:27:54.845Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video",
+    "title": "AI to Drive 40% Growth for AWS: CEO Garman",
+    "titleZh": "人工智慧將推動 AWS 40% 的成長：執行長 Garman",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video",
+    "image": null,
+    "pushedAt": "2026-10-30T17:28:00.504Z"
   }
 ]
