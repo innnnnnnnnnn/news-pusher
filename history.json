@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7355e663-9cff-43b4-889c-6f3613411386",
-    "title": "The cut-price route to buying your own yacht in the Med",
-    "titleZh": "The cut-price route to buying your own yacht in the Med",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7355e663-9cff-43b4-889c-6f3613411386",
-    "image": null,
-    "pushedAt": "2026-10-24T18:31:49.252Z"
-  },
-  {
     "id": "https://www.ft.com/content/a4d00561-9309-427d-a5b7-556c2b4a74e8",
     "title": "Cannabis drinks boom sparks rift in US alcohol industry",
     "titleZh": "Cannabis drinks boom sparks rift in US alcohol industry",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
     "image": null,
     "pushedAt": "2026-10-30T14:48:42.083Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+    "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+    "titleZh": "3 人因與雅典市中心致命爆炸有關而被捕",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-greece-explosion-1-hbjk/30int-greece-explosion-1-hbjk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T14:49:13.051Z"
   }
 ]
