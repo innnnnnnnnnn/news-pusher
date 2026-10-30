@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
-    "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
-    "titleZh": "紐約市議會即將頒布禁令",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22met-carriage-horses-mgvq/22met-carriage-horses-mgvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T13:07:59.104Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
-    "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
-    "titleZh": "在伊朗首都上空，一名模仿川普的人在牢房裡跳舞",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/world/middleeast/Trump_billb2/Trump_billb2-mediumSquareAt3X.png",
-    "pushedAt": "2026-10-25T18:13:21.353Z"
-  },
-  {
     "id": "https://www.ft.com/content/b9a45b74-72f6-4577-870e-f54f83d8f5ad",
     "title": "Singapore goes after companies over toxic haze",
     "titleZh": "新加坡針對造成有毒煙霾的公司採取行動",
@@ -7368,7 +7350,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/mai1bi6fc?ref=rss",
     "image": "https://cdn.flipso.com/p/mai1bi6fc_square.jpg",
-    "pushedAt": "2026-10-30T03:03:35.553Z"
+    "pushedAt": "2026-10-30T05:13:49.291Z"
   },
   {
     "id": "https://flipso.com/p/13kcg3sxb",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/murata-boosts-mlcc-output-investment-to-keep-pace-with-ai-demand",
     "image": null,
     "pushedAt": "2026-10-30T05:13:22.907Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/inside-shanghai-s-changing-nightlife-scene",
+    "title": "Inside Shanghai’s Changing Nightlife Scene",
+    "titleZh": "深入了解上海不斷變化的夜生活場景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/inside-shanghai-s-changing-nightlife-scene",
+    "image": null,
+    "pushedAt": "2026-10-30T05:14:15.028Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/boj-holds-rate-as-underlying-inflation-hits-target-video",
+    "title": "BOJ Holds Rate as Underlying Inflation Hits Target",
+    "titleZh": "由於基本通膨達到目標，日本央行維持利率不變",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/boj-holds-rate-as-underlying-inflation-hits-target-video",
+    "image": null,
+    "pushedAt": "2026-10-30T05:14:20.281Z"
   }
 ]
