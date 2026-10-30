@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-    "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
-    "titleZh": "Dare We Dream of a Blue Wave?",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/opinion/24opinions-roundtable-art/24opinions-roundtable-art-mediumSquareAt3X-v2.png",
-    "pushedAt": "2026-10-25T10:30:17.917Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
     "title": "Israel Cracks Down in West Bank City After Deadly Attack",
     "titleZh": "Israel Launches Crackdown in West Bank After Deadly Attack",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
     "image": null,
     "pushedAt": "2026-10-30T16:27:26.580Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video",
+    "title": "Binance’s $6.3 Billion Cyber Heist Shows Crypto Vulnerabilities",
+    "titleZh": "幣安 63 億美元的網路搶劫暴露了加密貨幣漏洞",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video",
+    "image": null,
+    "pushedAt": "2026-10-30T16:27:58.826Z"
   }
 ]
