@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
-    "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
-    "titleZh": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone’s Purpose",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TECHFIX-phone-2-bwcf/TECHFIX-phone-2-bwcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T08:47:41.119Z"
-  },
-  {
     "id": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f",
     "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
     "titleZh": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
@@ -4803,7 +4794,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
     "image": null,
-    "pushedAt": "2026-10-30T08:17:24.344Z"
+    "pushedAt": "2026-10-30T10:44:13.746Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/economy/trump-lisa-cook-warsh.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
     "image": null,
     "pushedAt": "2026-10-30T10:43:45.249Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
+    "title": "Exxon Reaps Record Oil-Refining Profits on War-Driven Gasoline, Diesel Spikes",
+    "titleZh": "埃克森美孚因戰爭驅動的汽油、柴油價格飆升而獲得創紀錄的煉油利潤",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
+    "image": null,
+    "pushedAt": "2026-10-30T10:44:40.035Z"
   }
 ]
