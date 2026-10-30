@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-    "titleZh": "房貸利率維持在 7% 以上，導致部分地區房價走低",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T06:33:46.385Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
     "title": "Sam Bankman-Fried says he has paid his debts",
     "titleZh": "山姆·班克曼-弗里德表示他已償還債務",
@@ -3012,7 +3003,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
     "image": null,
-    "pushedAt": "2026-10-30T01:58:34.222Z"
+    "pushedAt": "2026-10-30T04:15:04.914Z"
   },
   {
     "id": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1",
@@ -3075,7 +3066,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
     "image": null,
-    "pushedAt": "2026-10-30T01:59:24.374Z"
+    "pushedAt": "2026-10-30T04:15:52.208Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
@@ -4488,7 +4479,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
     "image": null,
-    "pushedAt": "2026-10-30T01:58:59.257Z"
+    "pushedAt": "2026-10-30T04:15:28.789Z"
   },
   {
     "id": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/african-export-import-bank-mulls-first-offshore-yuan-loan",
     "image": null,
     "pushedAt": "2026-10-30T04:14:38.696Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
+    "title": "Iron Ore Heads for Lowest Month-End Close Since October 2022",
+    "titleZh": "鐵礦石月末收盤價創 2022 年 10 月以來最低",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
+    "image": null,
+    "pushedAt": "2026-10-30T04:16:19.950Z"
   }
 ]
