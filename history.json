@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
-    "title": "The Factory in Phoenix That Could Save American Manufacturing",
-    "titleZh": "美國最重要的工廠",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/22wang-mountains-BRIGHT-qwfz/22wang-mountains-BRIGHT-qwfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T14:54:26.497Z"
-  },
-  {
     "id": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
     "title": "How nervous are bond markets about France?",
     "titleZh": "債券市場對法國的擔憂程度有多高？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/horizons-middle-east-africa-10-30-2026-video",
     "image": null,
     "pushedAt": "2026-10-30T08:08:28.751Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+    "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
+    "titleZh": "梅蘭妮亞·川普宣布罕見的疏散行動開始在烏克蘭奧列什基市進行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Ukraine-Oleshky-WTK-tkfg/30int-Ukraine-Oleshky-WTK-tkfg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T08:09:00.193Z"
   }
 ]
