@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/business/dealbook/zuckerbergs-big-deal.html",
-    "title": "Zuckerberg’s Big Deal to Stay in California",
-    "titleZh": "祖克柏為留在加州所做的大手筆交易",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/business/dealbook/zuckerbergs-big-deal.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22db-zuckerberg-hjpg/22db-zuckerberg-hjpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:39:32.934Z"
-  },
-  {
     "id": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
     "title": "A bond is like a party balloon",
     "titleZh": "債券就像一個派對氣球",
@@ -7521,7 +7512,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-halts-trading-after-reports-of-customers-losing-money",
     "image": null,
-    "pushedAt": "2026-10-29T22:00:08.790Z"
+    "pushedAt": "2026-10-30T00:28:34.945Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-cyberattack-surge-tests-its-push-to-strengthen-defenses",
@@ -7557,7 +7548,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
     "image": null,
-    "pushedAt": "2026-10-29T22:01:02.370Z"
+    "pushedAt": "2026-10-30T00:29:02.498Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-10-29/the-white-house-is-trying-to-keep-the-podcast-election-going",
@@ -7647,7 +7638,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows",
     "image": null,
-    "pushedAt": "2026-10-29T22:01:29.711Z"
+    "pushedAt": "2026-10-30T00:29:30.818Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-28/equinix-says-data-project-barriers-could-boost-its-pricing-power",
@@ -8700,7 +8691,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-10-29/t-rowe-price-s-wang-on-what-intel-results-means-for-tech-video",
     "image": null,
-    "pushedAt": "2026-10-29T22:01:58.729Z"
+    "pushedAt": "2026-10-30T00:29:58.276Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/us/voice-logan-airport-contest-boston-accent.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
     "image": null,
     "pushedAt": "2026-10-30T00:26:48.299Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2",
+    "title": "Has Australia’s push for lower house prices gone too far?",
+    "titleZh": "澳洲推動房價下跌是否太過分了？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F602b0f14-e810-41a7-9636-d90956d7cfc4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-30T00:30:29.073Z"
   }
 ]
