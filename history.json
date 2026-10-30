@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c999863a-ba2e-48ee-9f3f-85b486124736",
-    "title": "US prepared for protracted stalemate with Iran",
-    "titleZh": "美國已為與伊朗陷入長期僵局做好準備",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c999863a-ba2e-48ee-9f3f-85b486124736?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T09:28:36.308Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
     "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
     "titleZh": "隨著北韓因與俄羅斯的聯盟而氣焰愈發囂張，朝鮮半島的軍備競賽日益白熱化",
@@ -5154,7 +5145,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-takeaways-promo-1-gfmt/28int-israel-takeaways-promo-1-gfmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T05:32:52.028Z"
+    "pushedAt": "2026-10-30T08:01:39.384Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
@@ -5163,7 +5154,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-serbia-attack-wvcz/28int-serbia-attack-wvcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T05:33:15.069Z"
+    "pushedAt": "2026-10-30T08:02:17.344Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/the-crash-comes-months-after-a-fatal-accident-involving-the-same-train-operators",
@@ -8664,7 +8655,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T05:31:32.741Z"
+    "pushedAt": "2026-10-30T08:01:13.470Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/jio-keeps-ambani-magic-alive-as-investors-await-earnings-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/audio/2026-10-30/odd-lots-what-cybersecurity-means-in-the-age-of-ai-podcast",
     "image": null,
     "pushedAt": "2026-10-30T08:00:38.607Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/php2shell-won-t-be-the-last-big-ai-cybersecurity-risk",
+    "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+    "titleZh": "PHP2Shell 不會是最後一個重大人工智慧網路安全風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/php2shell-won-t-be-the-last-big-ai-cybersecurity-risk",
+    "image": null,
+    "pushedAt": "2026-10-30T08:02:44.997Z"
   }
 ]
