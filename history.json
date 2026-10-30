@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
-    "title": "Despicable Doesn’t Begin to Cover It",
-    "titleZh": "Despicable Doesn’t Begin to Cover It",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25french-mqvp/25french-mqvp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T04:00:22.185Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html",
     "title": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.",
     "titleZh": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/illumina-ceo-on-q3-results-and-business-outlook-video",
     "image": null,
     "pushedAt": "2026-10-30T21:40:10.674Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+    "title": "India has stabilised its currency. But at what cost?",
+    "titleZh": "印度已穩定其貨幣。但代價是什麼？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+    "image": null,
+    "pushedAt": "2026-10-30T21:40:40.370Z"
   }
 ]
