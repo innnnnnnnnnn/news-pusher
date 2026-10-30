@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
-    "title": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
-    "titleZh": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-ice-local-officers-01-flhb/00dc-ice-local-officers-01-flhb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T00:14:54.007Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
     "title": "What This Democrat’s Surge in Texas Says About the Midterms",
     "titleZh": "Gina Hinojosa Believes She’s the One Who Can Finally Flip Texas",
@@ -852,7 +843,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
     "image": null,
-    "pushedAt": "2026-10-30T13:37:09.956Z"
+    "pushedAt": "2026-10-30T16:07:29.532Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/brasilia-em-off-o-que-lula-entendeu-das-urnas-video",
     "image": null,
     "pushedAt": "2026-10-30T16:07:00.908Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/largest-us-grid-seeks-to-hold-data-center-power-auction-in-march",
+    "title": "Largest US Grid Seeks to Hold Data Center Power Auction in March",
+    "titleZh": "美國最大電網尋求在三月舉行資料中心電力拍賣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/largest-us-grid-seeks-to-hold-data-center-power-auction-in-march",
+    "image": null,
+    "pushedAt": "2026-10-30T16:07:57.789Z"
   }
 ]
