@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e",
-    "title": "‘Know Your Agent’ will be the new rule of the AI age",
-    "titleZh": "「了解你的代理」將成為人工智慧時代的新準則",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5806981e-5287-43b6-807a-a483b04b7fd6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-23T03:13:23.712Z"
-  },
-  {
     "id": "https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5",
     "title": "Britain secures gas supply from Belgium before winter crunch",
     "titleZh": "英國在冬季供氣危機來臨前，確保了來自比利時的天然氣供應",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/rbnz-likely-to-raise-key-rate-at-next-two-meetings-survey-shows",
     "image": null,
     "pushedAt": "2026-10-30T03:48:14.457Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
+    "title": "Taiwan Stocks Heads for Correction as Global AI Selloff Deepens",
+    "titleZh": "全球人工智慧拋售加劇，台灣股市走向修正",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
+    "image": null,
+    "pushedAt": "2026-10-30T03:48:43.016Z"
   }
 ]
