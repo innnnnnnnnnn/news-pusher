@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/opinion/africa-map-un-mercator.html",
-    "title": "The Map of Africa Is Being Redrawn. It’s a Trap.",
-    "titleZh": "非洲地圖正在被重新劃分。這是一個陷阱。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/opinion/africa-map-un-mercator.html",
-    "image": null,
-    "pushedAt": "2026-10-23T08:25:44.328Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
     "title": "The Factory in Phoenix That Could Save American Manufacturing",
     "titleZh": "美國最重要的工廠",
@@ -5271,7 +5262,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/biz-volkswagen-china-hbvl/biz-volkswagen-china-hbvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T05:37:32.823Z"
+    "pushedAt": "2026-10-30T08:07:12.268Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
@@ -8151,7 +8142,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
     "image": null,
-    "pushedAt": "2026-10-30T05:37:56.372Z"
+    "pushedAt": "2026-10-30T08:08:02.720Z"
   },
   {
     "id": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/credit-agricole-reports-higher-profit-sees-france-risk-video",
     "image": null,
     "pushedAt": "2026-10-30T08:06:43.327Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/horizons-middle-east-africa-10-30-2026-video",
+    "title": "Horizons Middle East & Africa 10/30/2026 (Video)",
+    "titleZh": "中東和非洲地平線 2026 年 10 月 30 日（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/horizons-middle-east-africa-10-30-2026-video",
+    "image": null,
+    "pushedAt": "2026-10-30T08:08:28.751Z"
   }
 ]
