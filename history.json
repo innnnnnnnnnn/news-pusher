@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
-    "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
-    "titleZh": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-russia-attitudes-01-hbkt/00int-russia-attitudes-01-hbkt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T02:29:24.974Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
     "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
     "titleZh": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
@@ -4191,7 +4182,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
     "image": null,
-    "pushedAt": "2026-10-30T06:42:24.891Z"
+    "pushedAt": "2026-10-30T09:09:15.107Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-italy-opera-01-ztbj/00int-italy-opera-01-ztbj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-30T09:08:47.036Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
+    "title": "China’s Mega Banks Report Profit Jumps as Margins Recover",
+    "titleZh": "中國大型銀行報告利潤率回升，利潤大幅成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
+    "image": null,
+    "pushedAt": "2026-10-30T09:09:41.511Z"
   }
 ]
