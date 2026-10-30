@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-    "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-    "titleZh": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-26T02:30:56.551Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/23/us/rogers-michigan-republican-senate.html",
-    "title": "The Michigan Senate Race Keeps Getting Nastier",
-    "titleZh": "The Michigan Senate Race Keeps Getting Nastier",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/us/rogers-michigan-republican-senate.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/us/23pol-rogers-michigan/23pol-rogers-michigan-mediumSquareAt3X.png",
-    "pushedAt": "2026-10-23T13:48:34.467Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/us/politics/election-integrity-trust-poll.html",
     "title": "Most Voters Believe the Midterm Elections Will Be Accurate, Poll Finds",
     "titleZh": "Most Voters Believe the Midterm Elections Will Be Accurate, Poll Finds",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
     "image": null,
     "pushedAt": "2026-10-30T09:09:41.511Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+    "title": "A.I. Stocks Wobble, but Broader Market Is Holding On",
+    "titleZh": "人工智慧.股市波動，但大盤仍在堅挺",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+    "image": null,
+    "pushedAt": "2026-10-30T09:10:11.079Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
+    "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
+    "titleZh": "中期選舉前夕，高物價困擾著川普和共和黨",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-trump-econ-01-qwmg/30dc-trump-econ-01-qwmg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T09:10:16.258Z"
   }
 ]
