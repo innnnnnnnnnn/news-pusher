@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
-    "title": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
-    "titleZh": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
-    "image": null,
-    "pushedAt": "2026-10-27T07:42:05.346Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
     "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
     "titleZh": "Elizabeth Holmes Gives a Batman Villain a Run for His Money",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
     "image": null,
     "pushedAt": "2026-10-30T22:00:45.760Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+    "title": "The winners and losers of Trumponomics",
+    "titleZh": "川普經濟學的贏家與輸家",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+    "image": null,
+    "pushedAt": "2026-10-30T22:01:14.211Z"
   }
 ]
