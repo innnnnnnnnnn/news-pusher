@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd",
-    "title": "Selling the devolution dream",
-    "titleZh": "Selling the devolution dream",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T16:29:32.755Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
     "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
     "titleZh": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
@@ -5667,7 +5658,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c7c8c7b4-eab7-4ffc-a6bf-f4f79358aa00",
     "image": null,
-    "pushedAt": "2026-10-30T06:12:56.817Z"
+    "pushedAt": "2026-10-30T08:37:51.341Z"
   },
   {
     "id": "https://www.ft.com/content/86a413ed-7303-40b3-a7c1-a01c92b1f738",
@@ -7242,7 +7233,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
     "image": null,
-    "pushedAt": "2026-10-30T06:12:06.452Z"
+    "pushedAt": "2026-10-30T08:37:26.471Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
@@ -7620,7 +7611,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T06:13:21.455Z"
+    "pushedAt": "2026-10-30T08:38:16.436Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
     "image": null,
     "pushedAt": "2026-10-30T08:36:58.606Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/kia-shares-plunge-as-cost-surge-linked-to-iran-war-hits-profit",
+    "title": "Kia Shares Plunge as Cost Surge Linked to Iran War Hits Profit",
+    "titleZh": "伊朗戰爭導致成本飆升影響起亞股價暴跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/kia-shares-plunge-as-cost-surge-linked-to-iran-war-hits-profit",
+    "image": null,
+    "pushedAt": "2026-10-30T08:38:43.902Z"
   }
 ]
