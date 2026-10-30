@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-    "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-    "titleZh": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-elections1-vcth/25dc-trump-elections1-vcth-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T09:12:53.810Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
     "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
     "titleZh": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
@@ -4443,7 +4434,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/a66rpt979?ref=rss",
     "image": "https://cdn.flipso.com/p/a66rpt979_square.jpg",
-    "pushedAt": "2026-10-30T19:56:18.375Z"
+    "pushedAt": "2026-10-30T22:27:39.705Z"
   },
   {
     "id": "https://flipso.com/p/cx7yh5jdf",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
     "image": null,
     "pushedAt": "2026-10-30T22:27:11.111Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+    "title": "Baseten Set for $30 Billion Valuation With New Funding",
+    "titleZh": "Baseten 新融資後估值達 300 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+    "image": null,
+    "pushedAt": "2026-10-30T22:28:07.714Z"
   }
 ]
