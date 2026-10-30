@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/business/how-to-straddle-the-maga-divide.html",
-    "title": "How to Straddle the MAGA Divide",
-    "titleZh": "How to Straddle the MAGA Divide",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/business/how-to-straddle-the-maga-divide.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/business/25wilkinson-illo/25wilkinson-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T06:42:25.987Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
     "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
     "titleZh": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
@@ -2436,7 +2427,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
     "image": null,
-    "pushedAt": "2026-10-30T16:33:15.795Z"
+    "pushedAt": "2026-10-30T18:59:42.279Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
@@ -8574,7 +8565,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-lane-says-ai-significant-contributor-to-euro-area-growth",
     "image": null,
-    "pushedAt": "2026-10-30T16:33:44.212Z"
+    "pushedAt": "2026-10-30T19:00:08.741Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/big-oil-scores-56b-windfall-on-spiking-fuel-prices-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F837e2bce-aec9-4d67-8c76-45f618d013a7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-30T18:59:13.889Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/don-t-assume-social-security-will-be-there-treyz-video",
+    "title": "Don't Assume Social Security Will Be There: Treyz",
+    "titleZh": "不要假設社會安全將會存在：Treyz",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/don-t-assume-social-security-will-be-there-treyz-video",
+    "image": null,
+    "pushedAt": "2026-10-30T19:00:37.864Z"
   }
 ]
