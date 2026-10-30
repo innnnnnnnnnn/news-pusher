@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
-    "title": "Appeals Court Backs Trump on Constitutionality of Detentions",
-    "titleZh": "Appeals Court Backs Trump on Constitutionality of Detentions",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-immig-jbmk/23dc-immig-jbmk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-24T09:29:33.681Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
     "title": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
     "titleZh": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/apple-iphone-duo-not-great-ai-experience-piecyk-says-video",
     "image": null,
     "pushedAt": "2026-10-30T13:17:52.817Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+    "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
+    "titleZh": "克里斯塔·派克描述了處決失敗後的痛苦和孤立",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30nat-pike-statement-01-jpcl/30nat-pike-statement-01-jpcl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T13:18:22.629Z"
   }
 ]
