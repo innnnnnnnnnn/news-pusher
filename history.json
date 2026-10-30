@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-    "title": "Netanyahu Won the Middle East and Lost the World",
-    "titleZh": "Netanyahu Won the Middle East and Lost the World",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/opinion/25klein/25klein-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-25T14:09:32.122Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
     "title": "None of This Is Normal",
     "titleZh": "None of This Is Normal",
@@ -3111,7 +3102,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29db-msft-tbqc/29db-msft-tbqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T17:50:43.678Z"
+    "pushedAt": "2026-10-30T20:14:56.833Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html",
@@ -5802,7 +5793,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
     "image": null,
-    "pushedAt": "2026-10-30T17:16:01.167Z"
+    "pushedAt": "2026-10-30T20:14:31.978Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
@@ -7386,7 +7377,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/features/2026-10-30/milei-splits-argentina-winners-out-west-losers-in-buenos-aires",
     "image": null,
-    "pushedAt": "2026-10-30T17:49:26.176Z"
+    "pushedAt": "2026-10-30T20:13:12.596Z"
   },
   {
     "id": "https://flipso.com/p/ukizu9v2s",
@@ -7395,7 +7386,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ukizu9v2s?ref=rss",
     "image": "https://cdn.flipso.com/p/ukizu9v2s_square.jpg",
-    "pushedAt": "2026-10-30T17:49:51.823Z"
+    "pushedAt": "2026-10-30T20:13:39.830Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
@@ -8223,7 +8214,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/magazine/political-deadlock-france-brazil.html",
     "image": null,
-    "pushedAt": "2026-10-30T17:50:18.253Z"
+    "pushedAt": "2026-10-30T20:14:06.621Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/starbucks-ceo-is-focused-on-growth-plan-fundamentals-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/dining/drinks/marvin-shanken-wine-dead.html",
     "image": null,
     "pushedAt": "2026-10-30T20:12:43.363Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+    "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+    "titleZh": "訴訟指控教育部透過 PSLF 計劃限制債務取消",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-pslfsuit-qkmt/30biz-pslfsuit-qkmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T20:15:23.309Z"
   }
 ]
