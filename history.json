@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/arts/television/late-night-trump-ocean.html",
-    "title": "Late Night Dunks on Trump for Planning to Rename an Ocean",
-    "titleZh": "Late Night Dunks on Trump for Planning to Rename an Ocean",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/arts/television/late-night-trump-ocean.html",
-    "image": null,
-    "pushedAt": "2026-10-23T14:48:24.258Z"
-  },
-  {
     "id": "https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668",
     "title": "Volvo Cars shares plunge as much as 30% after it swings to loss",
     "titleZh": "Volvo Cars shares fall 20% after it swings to loss and cuts 2,500 jobs",
@@ -5523,7 +5514,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/trav-inflation-holidays-01-gmfh/trav-inflation-holidays-01-gmfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T06:04:20.332Z"
+    "pushedAt": "2026-10-30T08:31:00.265Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
@@ -5532,7 +5523,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-Robots-Europe-still-hplk/26Biz-Robots-Europe-still-hplk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T06:05:16.114Z"
+    "pushedAt": "2026-10-30T08:31:25.366Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
@@ -8106,7 +8097,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1ccb1f17-c255-4e84-93a7-5c65278ab364?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T06:05:42.008Z"
+    "pushedAt": "2026-10-30T08:31:50.031Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/boj-inflation-target-signal-supports-yen-gains-strategists-say",
@@ -8115,7 +8106,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/boj-inflation-target-signal-supports-yen-gains-strategists-say",
     "image": null,
-    "pushedAt": "2026-10-30T06:06:08.564Z"
+    "pushedAt": "2026-10-30T08:32:15.124Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/copper-declines-as-tech-selloff-oil-rally-dent-risk-appetite",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-posts-longest-run-of-double-digit-gdp-growth-since-1987",
     "image": null,
     "pushedAt": "2026-10-30T08:22:36.681Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
+    "title": "Bleak Friday Looms for Stocks: Market Analysis",
+    "titleZh": "股市慘淡的周五即將到來：市場分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
+    "image": null,
+    "pushedAt": "2026-10-30T08:32:42.915Z"
   }
 ]
