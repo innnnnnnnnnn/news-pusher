@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222",
-    "title": "French government and corporate bond yields are converging",
-    "titleZh": "French government and corporate bond yields are converging",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T03:51:12.426Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
     "title": "Checks and Balance newsletter: If American voters lived under one roof",
     "titleZh": "Checks and Balance newsletter: If American voters lived under one roof",
@@ -7620,7 +7611,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
     "image": null,
-    "pushedAt": "2026-10-30T13:48:22.454Z"
+    "pushedAt": "2026-10-30T16:22:29.696Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
@@ -7629,7 +7620,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T13:48:47.198Z"
+    "pushedAt": "2026-10-30T16:22:56.135Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/power-on-podcast-crackgate-touchscreen-mac-video",
     "image": null,
     "pushedAt": "2026-10-30T16:22:00.584Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+    "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+    "titleZh": "儘管面臨迫害風險，美國仍將數十人送回阿富汗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T16:23:25.641Z"
   }
 ]
