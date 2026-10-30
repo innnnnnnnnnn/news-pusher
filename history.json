@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
-    "title": "Sam Bankman-Fried says he has paid his debts",
-    "titleZh": "山姆·班克曼-弗里德表示他已償還債務",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
-    "image": null,
-    "pushedAt": "2026-10-27T06:34:16.611Z"
-  },
-  {
     "id": "https://www.ft.com/content/b0e5199d-a229-4e56-b47c-b56b6fb219a0",
     "title": "Kering shares slide 10% after drop in sales at flagship brand Gucci",
     "titleZh": "開雲集團營收受旗艦品牌古馳（Gucci）銷量下滑影響",
@@ -3948,7 +3939,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
     "image": null,
-    "pushedAt": "2026-10-30T02:00:15.384Z"
+    "pushedAt": "2026-10-30T04:17:09.562Z"
   },
   {
     "id": "https://www.ft.com/content/cf0ec693-fd48-483d-b309-e8b7b48e8f05",
@@ -4173,7 +4164,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
     "image": null,
-    "pushedAt": "2026-10-30T01:59:49.946Z"
+    "pushedAt": "2026-10-30T04:16:45.982Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
@@ -8466,16 +8457,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T02:00:39.618Z"
+    "pushedAt": "2026-10-30T04:17:33.139Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-    "title": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+    "title": "Gold Drops to Near $4,000 on Hot Inflation, Tech-Stock Selloff",
     "titleZh": "通膨令升息押注堅定，金價穩定在 4,000 美元附近",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
     "image": null,
-    "pushedAt": "2026-10-30T02:01:05.369Z"
+    "pushedAt": "2026-10-30T04:17:57.260Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
     "image": null,
     "pushedAt": "2026-10-30T04:16:19.950Z"
+  },
+  {
+    "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
+    "title": "Bank of Japan says 2% inflation target reached",
+    "titleZh": "日本央行表示已達2%通膨目標",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-30T04:18:23.894Z"
   }
 ]
