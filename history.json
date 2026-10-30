@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
-    "title": "A bond is like a party balloon",
-    "titleZh": "債券就像一個派對氣球",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
-    "image": null,
-    "pushedAt": "2026-10-22T20:36:42.835Z"
-  },
-  {
     "id": "https://www.ft.com/content/5a5f8d2c-94d0-4e90-b9f4-27e398e4e108",
     "title": "Rapid UK pay growth adds to pressure on Healey over minimum wage",
     "titleZh": "英國薪資的快速增長，使希利在最低工資問題上面臨更大壓力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F602b0f14-e810-41a7-9636-d90956d7cfc4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-10-30T00:30:29.073Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
+    "title": "Dollar’s Rate-Fueled Rally Set to Ride Out US Midterm Gridlock",
+    "titleZh": "美元在利率推動下上漲將擺脫美國中期僵局",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
+    "image": null,
+    "pushedAt": "2026-10-30T00:40:57.031Z"
   }
 ]
