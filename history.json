@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
-    "title": "What to Know as Serbia Votes for a New Parliament",
-    "titleZh": "What to Know as Serbia Votes for a New Parliament",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/world/europe/23vid-serbia-election-primer/23vid-serbia-election-primer-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:29:28.946Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
     "title": "Far, Far Away",
     "titleZh": "Far, Far Away",
@@ -8052,7 +8043,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08b35d7a-0c43-44d5-897b-77d5328a8091.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T15:06:10.538Z"
+    "pushedAt": "2026-10-30T17:45:37.999Z"
   },
   {
     "id": "https://www.ft.com/content/2a01b14b-8b59-4a5b-af8c-69e8a3cd0550",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual",
     "image": null,
     "pushedAt": "2026-10-30T17:42:53.972Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-tech-10-30-2026-video",
+    "title": "Intel Tumbles on PC Outlook, AWS CEO on AI Spending and Growth",
+    "titleZh": "英特爾對 PC 前景的看法下跌，AWS 執行長對人工智慧支出和成長的看法",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-tech-10-30-2026-video",
+    "image": null,
+    "pushedAt": "2026-10-30T17:46:08.988Z"
   }
 ]
