@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "Here’s the latest.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-10-27T03:08:08.140Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
-    "title": "How a Small Student Protest Spread Across France",
-    "titleZh": "How a Small Student Protest Spread Across France",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
-    "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-timeline-qzbm/24france-protests-timeline-qzbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T03:13:08.253Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
     "title": "What to Know About Alaska’s Senate Race",
     "titleZh": "What to Know About Alaska’s Senate Race",
@@ -4362,7 +4344,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a62349a6-6d66-4191-9080-93ae631f402c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:29:25.337Z"
+    "pushedAt": "2026-10-30T15:58:47.695Z"
   },
   {
     "id": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29",
@@ -4371,7 +4353,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:29:50.677Z"
+    "pushedAt": "2026-10-30T15:59:14.609Z"
   },
   {
     "id": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
@@ -4380,7 +4362,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
     "image": null,
-    "pushedAt": "2026-10-30T13:30:15.563Z"
+    "pushedAt": "2026-10-30T15:59:39.626Z"
   },
   {
     "id": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075",
@@ -4389,7 +4371,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:30:40.403Z"
+    "pushedAt": "2026-10-30T16:00:07.074Z"
   },
   {
     "id": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da",
@@ -8646,7 +8628,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4a1e0399-99a0-4f04-862b-529f148dfa5d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T13:31:34.403Z"
+    "pushedAt": "2026-10-30T16:00:33.574Z"
   },
   {
     "id": "https://www.ft.com/content/1410493e-002e-4917-b261-7033e75544f0",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html",
     "image": null,
     "pushedAt": "2026-10-30T15:58:19.076Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
+    "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
+    "titleZh": "Meta 和解社群媒體成癮案，避免審判",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-meta-settlement-pwcm/30biz-meta-settlement-pwcm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T16:01:02.749Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-10-30/bergeron-says-ethan-allen-ceo-needs-to-go-video",
+    "title": "Activist Investor Bergeron Says Ethan Allen CEO Needs to Go",
+    "titleZh": "激進投資者伯傑龍表示執行長伊森艾倫需要下台",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-30/bergeron-says-ethan-allen-ceo-needs-to-go-video",
+    "image": null,
+    "pushedAt": "2026-10-30T16:01:07.780Z"
   }
 ]
