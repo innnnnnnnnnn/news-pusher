@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
-    "title": "Late Night: Trump Can’t Stop Talking About Jon Husted’s Rear End",
-    "titleZh": "《深夜秀》：川普對喬恩·赫斯泰德的臀部念念不忘",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
-    "image": null,
-    "pushedAt": "2026-10-22T14:18:47.873Z"
-  },
-  {
     "id": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e",
     "title": "Blackstone cuts property valuations as higher rates hit returns",
     "titleZh": "黑石下調房地產估值，因利率上升衝擊投資回報",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
     "image": null,
     "pushedAt": "2026-10-30T00:00:44.078Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
+    "title": "Nvidia in Talks to Offer Credit Support for Nscale Project",
+    "titleZh": "Nvidia洽談為Nscale項目提供信貸支持",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
+    "image": null,
+    "pushedAt": "2026-10-30T00:01:17.636Z"
   }
 ]
