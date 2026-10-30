@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/10/22/the-midterms-fundraising-figures-tell-a-surprising-story",
-    "title": "The midterms’ fundraising figures tell a surprising story",
-    "titleZh": "中期選舉的募款數據揭示了一個令人驚訝的事實",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/10/22/the-midterms-fundraising-figures-tell-a-surprising-story",
-    "image": null,
-    "pushedAt": "2026-10-27T06:51:53.640Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa",
-    "title": "Turkey cuts interest rates despite $18bn investment funds scandal",
-    "titleZh": "儘管爆發了涉及180億美元投資基金的醜聞，土耳其仍降息",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-23T03:23:01.883Z"
-  },
-  {
     "id": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34",
     "title": "Macron warns some protests will be banned",
     "titleZh": "馬克宏表示，法國將禁止非工會組織的抗議活動",
@@ -2571,7 +2553,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
     "image": null,
-    "pushedAt": "2026-10-29T23:44:58.182Z"
+    "pushedAt": "2026-10-30T02:05:55.358Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
@@ -4866,7 +4848,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-29T23:45:27.174Z"
+    "pushedAt": "2026-10-30T02:06:21.303Z"
   },
   {
     "id": "https://www.ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154",
@@ -5370,7 +5352,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
     "image": null,
-    "pushedAt": "2026-10-29T23:45:53.155Z"
+    "pushedAt": "2026-10-30T02:06:46.589Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
     "image": null,
     "pushedAt": "2026-10-30T02:05:26.774Z"
+  },
+  {
+    "id": "https://flipso.com/p/vc7thy5me",
+    "title": "The Great Buenos Aires Bank Heist",
+    "titleZh": "布宜諾斯艾利斯銀行大劫案",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/vc7thy5me?ref=rss",
+    "image": "https://cdn.flipso.com/p/vc7thy5me_square.jpg",
+    "pushedAt": "2026-10-30T02:07:15.691Z"
+  },
+  {
+    "id": "https://flipso.com/p/qkrooww38",
+    "title": "Historical Scientific Instruments",
+    "titleZh": "歷史科學儀器",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/qkrooww38?ref=rss",
+    "image": "https://cdn.flipso.com/p/qkrooww38_square.jpg",
+    "pushedAt": "2026-10-30T02:07:21.810Z"
   }
 ]
