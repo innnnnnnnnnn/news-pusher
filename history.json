@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc",
-    "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
-    "titleZh": "Trump administration moves to block certification of Alaska Senate election",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffa14f622-f903-4386-b70c-629d499d4d82.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-24T12:14:11.561Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
     "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
     "titleZh": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-employment-cost-growth-holds-steady-stays-below-inflation",
     "image": null,
     "pushedAt": "2026-10-30T12:38:58.529Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-has-requested-eu-leaders-start-search-for-lane-successor",
+    "title": "ECB Has Requested EU Leaders Start Search for Lane Successor",
+    "titleZh": "歐洲央行已要求歐盟領導人開始尋找車道繼任者",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-has-requested-eu-leaders-start-search-for-lane-successor",
+    "image": null,
+    "pushedAt": "2026-10-30T12:39:28.922Z"
   }
 ]
