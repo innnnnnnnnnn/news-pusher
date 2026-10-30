@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
-    "title": "Anthropic strikes deal to launch European consultancy",
-    "titleZh": "Anthropic strikes deal to launch European consultancy",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe521f68-64fa-49bc-afbd-c9c4ddbe2124.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-24T09:01:09.079Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f968f40c-ecc8-4981-ba60-a826f808505b",
-    "title": "September inflation keeps BoJ on tightening course",
-    "titleZh": "September inflation keeps BoJ on tightening course",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f968f40c-ecc8-4981-ba60-a826f808505b",
-    "image": null,
-    "pushedAt": "2026-10-27T08:03:50.640Z"
-  },
-  {
-    "id": "https://www.ft.com/content/34946f6f-ccd9-4de5-9f57-136e1a0e2064",
-    "title": "Why the UK should greenlight both Jackdaw and Rosebank",
-    "titleZh": "Why the UK should greenlight both Jackdaw and Rosebank",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/34946f6f-ccd9-4de5-9f57-136e1a0e2064?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-24T03:54:02.809Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
     "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
     "titleZh": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
@@ -4191,7 +4164,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi",
     "image": null,
-    "pushedAt": "2026-10-30T06:41:10.727Z"
+    "pushedAt": "2026-10-30T09:07:17.385Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/the-americans-changing-politics-for-the-better",
@@ -4200,7 +4173,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/the-americans-changing-politics-for-the-better",
     "image": null,
-    "pushedAt": "2026-10-30T06:41:35.447Z"
+    "pushedAt": "2026-10-30T09:07:42.732Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/andy-burnhams-government-talks-of-change-then-does-nothing",
@@ -4209,7 +4182,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/andy-burnhams-government-talks-of-change-then-does-nothing",
     "image": null,
-    "pushedAt": "2026-10-30T06:42:00.335Z"
+    "pushedAt": "2026-10-30T09:08:08.059Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-30T09:06:49.450Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+    "title": "Another Toll of the Violent Unrest in France: The Political Center",
+    "titleZh": "法國暴力騷亂的另一個代價：政治中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T09:08:36.805Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+    "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+    "titleZh": "以色列的選舉不太可能改變其政策和全球孤立",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-israel-global-01-tczp/30int-israel-global-01-tczp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T09:08:41.466Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
+    "title": "Taking the Saga of a Criminal Gang From Page to Screen to Opera Stage",
+    "titleZh": "將犯罪集團的傳奇從書本、銀幕到歌劇舞台",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-italy-opera-01-ztbj/00int-italy-opera-01-ztbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T09:08:47.036Z"
   }
 ]
