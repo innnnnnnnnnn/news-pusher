@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html",
-    "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
-    "titleZh": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23theheadlines-surveillance-pwgf/23theheadlines-surveillance-pwgf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T15:51:58.504Z"
-  },
-  {
     "id": "https://www.ft.com/content/bcc464cc-9d12-4b15-866d-64642de66ca8",
     "title": "Fall, fuel rod mishap and failed exams plague US nuclear revival effort",
     "titleZh": "US nuclear revival faces scrutiny after incidents at flagship plant",
@@ -4452,7 +4443,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T07:04:09.008Z"
+    "pushedAt": "2026-10-30T09:33:26.760Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
@@ -7557,7 +7548,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/lagarde-exits-ecb-after-big-wins-some-errors-and-a-long-goodbye",
     "image": null,
-    "pushedAt": "2026-10-30T07:05:00.562Z"
+    "pushedAt": "2026-10-30T09:33:51.681Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/features/2026-10-30/las-politicas-economicas-de-milei-dividen-a-argentina-en-dos-mvuruef7",
     "image": null,
     "pushedAt": "2026-10-30T09:32:55.206Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+    "title": "PBOC Reveals Overnight Rate at 1.25% Before Policy Anchor Shift",
+    "titleZh": "中國人民銀行公佈政策錨點轉變前隔夜利率為 1.25%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+    "image": null,
+    "pushedAt": "2026-10-30T09:34:19.885Z"
   }
 ]
