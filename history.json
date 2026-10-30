@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
-    "title": "The Bukeleization of Latin America Has Arrived",
-    "titleZh": "The Bukeleization of Latin America Has Arrived",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/multimedia/00ideas-latam-kghw/00ideas-latam-kghw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-23T12:45:53.545Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-    "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-    "titleZh": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-    "image": "https://static01.nyt.com/images/2026/10/11/multimedia/00int-Houthi-Messaging-qhgb/00int-Houthi-Messaging-qhgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T09:10:53.434Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
     "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
     "titleZh": "What Ramaswamy’s Vile Ad Reveals About the Future of Conservatism",
@@ -3129,7 +3111,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
     "image": null,
-    "pushedAt": "2026-10-30T06:34:01.044Z"
+    "pushedAt": "2026-10-30T08:57:45.422Z"
   },
   {
     "id": "https://www.ft.com/content/cf0ec693-fd48-483d-b309-e8b7b48e8f05",
@@ -8619,7 +8601,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9c46421e-d23c-4674-80ad-4cf63897d22e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T06:33:29.566Z"
+    "pushedAt": "2026-10-30T08:56:30.919Z"
   },
   {
     "id": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
@@ -8628,7 +8610,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
     "image": null,
-    "pushedAt": "2026-10-30T06:33:32.828Z"
+    "pushedAt": "2026-10-30T08:57:20.330Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/insight-with-haslinda-amin-10-30-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/japan-s-omron-targets-india-for-manufacturing-exports-push",
     "image": null,
     "pushedAt": "2026-10-30T08:53:31.529Z"
+  },
+  {
+    "id": "https://www.ft.com/content/edc789cb-71dc-4e42-9822-bca483819817",
+    "title": "UK house price growth slows to weakest since 2024",
+    "titleZh": "英國房價增速放緩至2024年以來最弱",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/edc789cb-71dc-4e42-9822-bca483819817?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-30T08:58:12.165Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3effe28d-9055-40c2-8899-e6e78bcab7c3",
+    "title": "Tesco agrees sale of Czech and Slovak units to Ahold Delhaize for £1.5bn",
+    "titleZh": "Tesco 同意以 15 億英鎊將捷克和斯洛伐克業務出售給 Ahold Delhaize",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3effe28d-9055-40c2-8899-e6e78bcab7c3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-10-30T08:58:15.424Z"
   }
 ]
