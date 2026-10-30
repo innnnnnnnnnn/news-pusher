@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
-    "title": "He Helped Deport 200 People. Now He Has Misgivings.",
-    "titleZh": "He Helped Deport 200 People. Now He Has Misgivings.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
-    "image": null,
-    "pushedAt": "2026-10-25T20:34:06.887Z"
-  },
-  {
     "id": "https://www.ft.com/content/44077dde-2c7d-43ca-b724-53451f1c0d22",
     "title": "The Bethlehem Project: Voters feel anxious and uncertain as US midterms near",
     "titleZh": "The Bethlehem Project: Voters feel anxious and uncertain as US midterms near",
@@ -7818,7 +7809,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c920d800-a22e-4f4e-a592-5fc361b0955e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T17:47:34.372Z"
+    "pushedAt": "2026-10-30T20:10:51.546Z"
   },
   {
     "id": "https://www.ft.com/content/a6629e05-5afc-403a-b305-67966854c7e3",
@@ -7827,7 +7818,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a6629e05-5afc-403a-b305-67966854c7e3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T17:48:05.875Z"
+    "pushedAt": "2026-10-30T20:11:17.924Z"
   },
   {
     "id": "https://www.ft.com/content/89dffe1c-d1bf-4f63-a281-0aecf69796bd",
@@ -7836,7 +7827,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/89dffe1c-d1bf-4f63-a281-0aecf69796bd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T17:48:32.924Z"
+    "pushedAt": "2026-10-30T20:11:45.011Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/business/education-dept-is-accused-in-lawsuit-of-throttling-student-debt-cancellation.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-pslfsuit-qkmt/30biz-pslfsuit-qkmt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-30T20:02:29.609Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/pslf-lawsuit.html",
+    "title": "Lawsuit Accuses Education Department of Throttling Student Debt Cancellation",
+    "titleZh": "訴訟指控教育部限制學生債務取消",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/pslf-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-pslfsuit-qkmt/30biz-pslfsuit-qkmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T20:12:10.752Z"
   }
 ]
