@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dcb57f30-bbfe-418d-9e52-5df3074d1764",
-    "title": "The Putin whisperers",
-    "titleZh": "The Putin whisperers",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dcb57f30-bbfe-418d-9e52-5df3074d1764?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-25T05:22:47.830Z"
-  },
-  {
     "id": "https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec",
     "title": "How iTunes came back from the dead",
     "titleZh": "How iTunes came back from the dead",
@@ -7071,7 +7062,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2ae8d419-e495-4aa9-9b00-361770a32242?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T12:12:30.810Z"
+    "pushedAt": "2026-10-30T14:34:22.604Z"
   },
   {
     "id": "https://www.ft.com/content/bbd077da-2328-4be5-97b6-a2a9ea516519",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/astrazeneca-cfo-on-ai-earnings-restructuring-plan-video",
     "image": null,
     "pushedAt": "2026-10-30T14:33:54.583Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/containing-the-binance-hack-hinges-on-vow-to-make-traders-whole",
+    "title": "Containing the Binance Hack Hinges on Vow to Make Traders Whole",
+    "titleZh": "遏制幣安駭客攻擊取決於讓交易者保持完整的誓言",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/containing-the-binance-hack-hinges-on-vow-to-make-traders-whole",
+    "image": null,
+    "pushedAt": "2026-10-30T14:34:50.793Z"
   }
 ]
