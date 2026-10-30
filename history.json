@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
-    "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-    "titleZh": "OpenAI 在提出更高估值後，將估值目標下調至 1.25 兆美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8bbf7787-7e05-4e92-b9ba-ba7c03f2bbe0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-23T21:49:37.123Z"
-  },
-  {
     "id": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0",
     "title": "FirstFT: AI doubts fuel tech sell-off",
     "titleZh": "FirstFT：Meta 再度引發對 AI 支出增長的擔憂",
@@ -8565,7 +8556,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:09:46.418Z"
+    "pushedAt": "2026-10-30T05:21:47.406Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/us-owned-startup-plans-600-million-malaysia-rare-earth-refinery",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says",
     "image": null,
     "pushedAt": "2026-10-30T05:21:21.019Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/japan-to-scale-back-fuel-subsidies-as-iran-war-costs-mount",
+    "title": "Japan to Scale Back Fuel Subsidies as Iran War Costs Mount",
+    "titleZh": "隨著伊朗戰爭成本上升，日本將削減燃料補貼",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/japan-to-scale-back-fuel-subsidies-as-iran-war-costs-mount",
+    "image": null,
+    "pushedAt": "2026-10-30T05:22:14.793Z"
   }
 ]
