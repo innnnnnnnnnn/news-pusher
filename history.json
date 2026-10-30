@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3f333a1c-18f8-4050-ab8e-042536006de5",
-    "title": "What my most embarrassing job interview taught me",
-    "titleZh": "What my most embarrassing job interview taught me",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3f333a1c-18f8-4050-ab8e-042536006de5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T03:26:49.173Z"
-  },
-  {
     "id": "https://www.ft.com/content/01119d92-0d23-4d91-8a66-44ebd94c2356",
     "title": "Martin Wolf on the US midterms: What’s at stake for the world?",
     "titleZh": "Martin Wolf on the US midterms: What’s at stake for the world?",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-30/people-don-t-know-their-retirement-number-conrath-video",
     "image": null,
     "pushedAt": "2026-10-30T18:46:46.796Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/ai-media-firm-needs-privacy-ombudsman-in-disney-deal-judge-says",
+    "title": "AI Media Firm Needs Privacy Ombudsman in Disney Deal, Judge Says",
+    "titleZh": "法官表示，人工智慧媒體公司在迪士尼交易中需要隱私監察員",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-media-firm-needs-privacy-ombudsman-in-disney-deal-judge-says",
+    "image": null,
+    "pushedAt": "2026-10-30T18:52:03.289Z"
   }
 ]
