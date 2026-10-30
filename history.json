@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-    "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-    "titleZh": "人工智慧及其潛在風險已深植於中期選舉之中",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22biz-midterm-ai-disinfo-fjtz/22biz-midterm-ai-disinfo-fjtz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T06:45:23.670Z"
-  },
-  {
     "id": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e",
     "title": "‘Know Your Agent’ will be the new rule of the AI age",
     "titleZh": "「了解你的代理」將成為人工智慧時代的新準則",
@@ -8502,7 +8493,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
     "image": null,
-    "pushedAt": "2026-10-30T01:31:41.383Z"
+    "pushedAt": "2026-10-30T03:47:49.497Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/copper-declines-as-tech-selloff-oil-rally-dent-risk-appetite",
     "image": null,
     "pushedAt": "2026-10-30T03:46:35.097Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/rbnz-likely-to-raise-key-rate-at-next-two-meetings-survey-shows",
+    "title": "RBNZ Likely to Raise Key Rate at Next Two Meetings, Survey Shows",
+    "titleZh": "調查顯示紐西蘭聯邦儲備銀行可能在接下來的兩次會議上提高關鍵利率",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/rbnz-likely-to-raise-key-rate-at-next-two-meetings-survey-shows",
+    "image": null,
+    "pushedAt": "2026-10-30T03:48:14.457Z"
   }
 ]
