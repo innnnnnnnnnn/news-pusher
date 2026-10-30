@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
-    "title": "One Agent’s Doubts",
-    "titleZh": "One Agent’s Doubts",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
-    "image": "https://static01.nyt.com/images/2026/10/13/magazine/25themorning-nl-ice/25themorning-nl-ice-mediumSquareAt3X-v6.jpg",
-    "pushedAt": "2026-10-25T17:17:47.950Z"
-  },
-  {
     "id": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516",
     "title": "Britain needs ‘chainsaw economics’",
     "titleZh": "Britain needs ‘chainsaw economics’",
@@ -3246,7 +3237,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28DB-DOJ-Startup-phtv/28DB-DOJ-Startup-phtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:06:12.076Z"
+    "pushedAt": "2026-10-30T20:35:07.496Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
@@ -3255,7 +3246,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-onemorejob1-pjcb/28xp-onemorejob1-pjcb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:08:00.905Z"
+    "pushedAt": "2026-10-30T20:36:23.945Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
@@ -5748,7 +5739,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dfebee73-142f-46d5-95a6-0e895c0ae551?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T18:07:06.662Z"
+    "pushedAt": "2026-10-30T20:35:57.685Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
@@ -7404,7 +7395,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-30T18:06:39.718Z"
+    "pushedAt": "2026-10-30T20:35:32.586Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
     "image": null,
     "pushedAt": "2026-10-30T20:34:39.562Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html",
+    "title": "Democrats and Republicans Share Dueling Health Care Messages in Final Midterms Push",
+    "titleZh": "民主黨和共和黨在中期選舉最後的推動中分享醫療保健信息",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-health-midterms-qmlz/29dc-health-midterms-qmlz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-30T20:36:50.990Z"
   }
 ]
