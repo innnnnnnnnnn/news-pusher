@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/083251a0-d5ab-48be-8295-41c9860963fd",
-    "title": "Nigeria evacuates Ebola patient to Switzerland",
-    "titleZh": "Nigeria evacuates Ebola patient to Switzerland",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/083251a0-d5ab-48be-8295-41c9860963fd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-27T05:03:36.725Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
     "title": "Russia has seized a Japanese journalist",
     "titleZh": "Russia has seized a Japanese journalist",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
     "image": null,
     "pushedAt": "2026-10-31T16:53:39.318Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+    "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+    "titleZh": "也門戰爭愈演愈烈，敘利亞考慮加入沙烏地阿拉伯共同防禦協定",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T16:54:11.190Z"
   }
 ]
