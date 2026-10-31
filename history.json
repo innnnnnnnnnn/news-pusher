@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29",
-    "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
-    "titleZh": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-27T05:29:58.013Z"
-  },
-  {
     "id": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f",
     "title": "Trump administration illegally fired Maurene Comey, judge rules",
     "titleZh": "Trump administration illegally fired Maurene Comey, judge rules",
@@ -5631,7 +5622,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-oct-biz-promos-stocks/2026-oct-biz-promos-stocks-mediumSquareAt3X-v9.png",
-    "pushedAt": "2026-10-31T15:24:18.120Z"
+    "pushedAt": "2026-10-31T17:43:01.033Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
@@ -5640,7 +5631,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-trump-econ-01-qwmg/30dc-trump-econ-01-qwmg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T15:24:43.547Z"
+    "pushedAt": "2026-10-31T17:43:26.912Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/opinion/billionaire-wealth-tax-california.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31BIZ-SF-DATING-1-04-mwjv/31BIZ-SF-DATING-1-04-mwjv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-31T17:29:17.764Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
+    "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
+    "titleZh": "COP17 生物多樣性會談在亞美尼亞埃里溫舉行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T17:43:56.462Z"
   }
 ]
