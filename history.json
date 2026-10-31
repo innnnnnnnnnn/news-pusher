@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
-    "title": "5 Hotels That Celebrate Music",
-    "titleZh": "5 Hotels That Celebrate Music",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
-    "image": null,
-    "pushedAt": "2026-10-27T07:53:41.704Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-    "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-    "titleZh": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-jordan-attack-1-kcfq/26int-jordan-attack-1-kcfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T08:11:30.905Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802",
-    "title": "Iran hosts regional powers for talks to prevent fresh escalation",
-    "titleZh": "Iran hosts regional powers for talks to prevent renewed escalation",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-27T04:51:35.476Z"
-  },
-  {
-    "id": "https://www.ft.com/content/dac9072f-1d8b-45d7-895c-2e33562cd486",
-    "title": "Five big challenges John Healey is likely to kick down the road",
-    "titleZh": "Five big challenges John Healey is likely to kick down the road",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dac9072f-1d8b-45d7-895c-2e33562cd486?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T17:20:33.170Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
     "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
     "titleZh": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
     "image": null,
     "pushedAt": "2026-10-31T09:09:56.769Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+    "title": "Train Disaster Is a Blow to Spain’s Leader, Already an Election Underdog",
+    "titleZh": "火車災難對已經是選舉失敗者的西班牙領導人來說是一個打擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-spain-crash-politics-1-fwzt/31int-spain-crash-politics-1-fwzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T09:10:26.182Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/europe/france-student-protests-halloween.html",
+    "title": "Plan for More Protests, This Time on Halloween, Causes Jitters in France",
+    "titleZh": "計劃在萬聖節舉行更多抗議活動在法國引起不安",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/europe/france-student-protests-halloween.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protest-vgzm/31int-france-protest-vgzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T09:10:31.078Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+    "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+    "titleZh": "無論美國和以色列選舉結果如何，伊朗都準備好迎接更多戰爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T09:10:35.680Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
+    "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
+    "titleZh": "當地人和店主如何試圖從暴徒手中拯救巴黎一條街道",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T09:10:41.666Z"
   }
 ]
