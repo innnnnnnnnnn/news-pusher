@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66",
-    "title": "Can Europe find a third way?",
-    "titleZh": "Can Europe find a third way?",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T22:49:25.845Z"
-  },
-  {
     "id": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb",
     "title": "Anthropic begins countdown to IPO with prospectus filing",
     "titleZh": "Anthropic publishes long-awaited IPO prospectus",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video",
     "image": null,
     "pushedAt": "2026-10-31T11:47:48.934Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
+    "title": "Plan for More Protests, This Time on Halloween, Causes Jitters in France",
+    "titleZh": "計劃在萬聖節舉行更多抗議活動在法國引起不安",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protest-vgzm/31int-france-protest-vgzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T12:01:58.998Z"
   }
 ]
