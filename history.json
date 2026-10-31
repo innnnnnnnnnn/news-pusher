@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/26/world/europe/venice-soccer-venezia-fc-italy.html",
-    "title": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
-    "titleZh": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/world/europe/venice-soccer-venezia-fc-italy.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-Venice-soccer-01-bhwl/00int-Venice-soccer-01-bhwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:26:57.033Z"
-  },
-  {
     "id": "https://www.ft.com/content/d5021cdf-816e-4cb9-bbf9-e4ba816a004f",
     "title": "Plan for AI ‘agents’ to run US companies challenged by lawmakers",
     "titleZh": "Plan for AI-run companies challenged by US lawmakers",
@@ -1059,7 +1050,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi",
     "image": null,
-    "pushedAt": "2026-10-31T10:33:03.941Z"
+    "pushedAt": "2026-10-31T12:58:19.464Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/the-americans-changing-politics-for-the-better",
@@ -1068,7 +1059,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/the-americans-changing-politics-for-the-better",
     "image": null,
-    "pushedAt": "2026-10-31T10:33:27.445Z"
+    "pushedAt": "2026-10-31T12:58:44.127Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/andy-burnhams-government-talks-of-change-then-does-nothing",
@@ -1077,7 +1068,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/andy-burnhams-government-talks-of-change-then-does-nothing",
     "image": null,
-    "pushedAt": "2026-10-31T10:33:50.678Z"
+    "pushedAt": "2026-10-31T12:59:09.474Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
@@ -5865,7 +5856,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T10:32:16.690Z"
+    "pushedAt": "2026-10-31T12:57:29.415Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
@@ -5874,7 +5865,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-31T10:34:13.873Z"
+    "pushedAt": "2026-10-31T12:59:34.868Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
@@ -7242,7 +7233,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T10:32:40.432Z"
+    "pushedAt": "2026-10-31T12:57:54.343Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
     "image": null,
     "pushedAt": "2026-10-31T12:57:01.065Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest",
+    "title": "French officials eye social media’s role in promoting unrest.",
+    "titleZh": "法國官員關注社群媒體在煽動騷亂方面的作用。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-social-media-zlhg/31france-protests-social-media-zlhg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-10-31T13:00:03.418Z"
   }
 ]
