@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/95401223-5dc2-4483-b438-c8bfc2e4d8a3",
-    "title": "Bid for lunch with a top FT journalist in our charity auction",
-    "titleZh": "Bid for lunch with a top FT journalist in our charity auction",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/95401223-5dc2-4483-b438-c8bfc2e4d8a3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-26T22:13:53.278Z"
-  },
-  {
     "id": "https://www.ft.com/content/f2bb58bc-41c1-46bd-bdfb-29b57a5142b6",
     "title": "A sustainable guide to sweater season",
     "titleZh": "A sustainable guide to sweater season",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e27fbf83-5223-4443-97dd-8cb70ae5e077?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-10-31T06:30:35.684Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+    "title": "OpenAI Altman Meets Samsung Executives as Memory Crunch Deepens",
+    "titleZh": "隨著記憶體危機的加劇，OpenAI Altman 會見三星高層",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+    "image": null,
+    "pushedAt": "2026-10-31T06:48:22.015Z"
   }
 ]
