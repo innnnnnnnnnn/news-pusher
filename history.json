@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/26/world/europe/serbias-election-shows-new-vulnerability-for-nationalist-populists.html",
-    "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
-    "titleZh": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/world/europe/serbias-election-shows-new-vulnerability-for-nationalist-populists.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26serbia-analysis--01-mvtl/26serbia-analysis--01-mvtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-26T17:39:27.047Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
     "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
     "titleZh": "Walter Koenig Has Died at 90. He Played Chekov on ‘Star Trek.’",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-carousel-zzzz-ghkv/31france-protests-carousel-zzzz-ghkv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-31T16:57:13.562Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
+    "title": "Russia has seized a Japanese journalist",
+    "titleZh": "俄羅斯扣留一名日本記者",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
+    "image": null,
+    "pushedAt": "2026-10-31T16:57:42.517Z"
   }
 ]
