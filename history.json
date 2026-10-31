@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/26/business/friendship-apps.html",
-    "title": "Why Some People Are Using Apps to Make Friends",
-    "titleZh": "Why Some People Are Using Apps to Make Friends",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/business/friendship-apps.html",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/FRIENDSHIP-APPS-01-whbz/FRIENDSHIP-APPS-01-whbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:31:00.926Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
     "title": "China’s most successful Astroturf operation: grassroots football",
     "titleZh": "China’s most successful Astroturf operation: grassroots football",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/10/30/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-31T14:30:40.409Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
+    "title": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
+    "titleZh": "歐盟委員卡拉斯表示，在 G20 峰會上接待普丁可能會使戰爭犯罪正常化",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
+    "image": null,
+    "pushedAt": "2026-10-31T14:37:04.898Z"
   }
 ]
