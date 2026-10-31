@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
-    "title": "Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?",
-    "titleZh": "Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
-    "image": "https://static01.nyt.com/images/2026/10/25/multimedia/ST-MARISSA-MAYER-lkjv/ST-MARISSA-MAYER-lkjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T03:46:04.204Z"
-  },
-  {
     "id": "https://www.ft.com/content/8cdadf5d-5859-422d-982a-fab0e9f2a619",
     "title": "Trump’s fresh campaign against wind power puts permitting deal in doubt",
     "titleZh": "Trump’s fresh campaign against wind power puts permitting deal in doubt",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
     "image": null,
     "pushedAt": "2026-10-31T15:14:39.152Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
+    "title": "China’s most successful Astroturf operation: grassroots football",
+    "titleZh": "中國最成功的Astroturf營運：草根足球",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
+    "image": null,
+    "pushedAt": "2026-10-31T15:15:08.444Z"
   }
 ]
