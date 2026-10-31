@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
-    "title": "The future of the Amazon rainforest could depend on who wins.",
-    "titleZh": "The future of the Amazon rainforest could depend on who wins.",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-mediumSquareAt3X-v10.jpg",
-    "pushedAt": "2026-10-27T08:11:00.222Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
     "title": "Lula Wins Re-election as Bolsonaro Rejects Result",
     "titleZh": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
     "image": null,
     "pushedAt": "2026-10-31T01:56:30.959Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services",
+    "title": "China Factory Activity Drops Back Into Decline as Growth Wobbles",
+    "titleZh": "隨著經濟成長的不穩定，中國工廠活動再次下滑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services",
+    "image": null,
+    "pushedAt": "2026-10-31T01:58:36.013Z"
   }
 ]
