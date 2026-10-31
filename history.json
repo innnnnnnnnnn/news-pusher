@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f2bb58bc-41c1-46bd-bdfb-29b57a5142b6",
-    "title": "A sustainable guide to sweater season",
-    "titleZh": "A sustainable guide to sweater season",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f2bb58bc-41c1-46bd-bdfb-29b57a5142b6",
-    "image": null,
-    "pushedAt": "2026-10-26T16:18:39.194Z"
-  },
-  {
     "id": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a",
     "title": "How Lula turned his election fortunes around in three weeks",
     "titleZh": "How Lula turned his election fortunes around in 3 weeks",
@@ -6009,7 +6000,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/9r7b5isbh?ref=rss",
     "image": "https://cdn.flipso.com/p/9r7b5isbh_square.jpg",
-    "pushedAt": "2026-10-31T05:05:48.623Z"
+    "pushedAt": "2026-10-31T07:12:02.885Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/uk-house-prices-stagnant-as-mortgage-costs-bite-nationwide-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
     "image": null,
     "pushedAt": "2026-10-31T06:48:22.015Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-31/india-496-million-escape-poverty-since-2011-world-bank",
+    "title": "India Saw 496 Million Escape Poverty Since 2011, World Bank Says",
+    "titleZh": "世界銀行稱，自 2011 年以來，印度有 4.96 億人擺脫了貧困",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/india-496-million-escape-poverty-since-2011-world-bank",
+    "image": null,
+    "pushedAt": "2026-10-31T07:12:29.839Z"
   }
 ]
