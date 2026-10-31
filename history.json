@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569",
-    "title": "Microsoft offers buyouts to 60,000 staff",
-    "titleZh": "Microsoft offers buyouts to 60,000 staff",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4aaf8dae-34ab-4da6-879b-d7ec277ed68d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-27T08:10:35.080Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
-    "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal",
-    "titleZh": "Mexico’s Top Election Official Resigns Amid Corruption Scandal",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26mexico-1-vphz/26mexico-1-vphz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:18:47.032Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
     "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
     "titleZh": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
@@ -2040,7 +2022,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/00308644-7de4-4a22-bd27-cbeb3ddd11ca",
     "image": null,
-    "pushedAt": "2026-10-31T19:30:34.241Z"
+    "pushedAt": "2026-10-31T21:45:07.417Z"
   },
   {
     "id": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af",
@@ -8196,7 +8178,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-10-31/the-betting-coup-that-rocked-london-s-bookmakers-goes-unsolved",
     "image": null,
-    "pushedAt": "2026-10-31T19:30:07.466Z"
+    "pushedAt": "2026-10-31T21:44:42.347Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/europe-learns-to-weather-shocks-in-world-more-prone-to-turmoil",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-10-31T21:43:59.039Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html",
+    "title": "Why Manipulate the Lines When You Can Just Move People Around?",
+    "titleZh": "當你只能移動人員時，為什麼還要操縱線路呢？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/opinion/31grinspan/31grinspan-mediumSquareAt3X.png",
+    "pushedAt": "2026-10-31T21:45:36.595Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/opinion/this-year-yet-again-im-dressing-as-grapes.html",
+    "title": "This Year, Yet Again, I’m Dressing as Grapes",
+    "titleZh": "今年，我再次打扮成葡萄",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/25/opinion/this-year-yet-again-im-dressing-as-grapes.html",
+    "image": null,
+    "pushedAt": "2026-10-31T21:45:42.909Z"
   }
 ]
