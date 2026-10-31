@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b824b26-68f9-473b-b2d8-f129c08b7d07",
-    "title": "The luxury Singapore apartments that nobody wants",
-    "titleZh": "The luxury Singapore apartments that nobody wants",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b824b26-68f9-473b-b2d8-f129c08b7d07?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-27T05:10:51.824Z"
-  },
-  {
     "id": "https://www.ft.com/content/fc2e08b6-6adf-48b4-91a2-08d8183804d0",
     "title": "NHS consultants in England to go on strike in November",
     "titleZh": "NHS consultants in England to go on strike in November",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-31/japan-is-the-giant-asian-market-where-trading-has-doubled-new-economy",
     "image": null,
     "pushedAt": "2026-10-31T10:46:49.678Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0",
+    "title": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+    "titleZh": "幣安被竊 63 億美元後，加密貨幣交易所急於加強安全措施",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F94003a00-b408-4a1c-9564-732bb42f4d19.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-10-31T10:47:19.455Z"
   }
 ]
