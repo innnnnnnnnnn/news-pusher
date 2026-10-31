@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
-    "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
-    "titleZh": "Walter Koenig Has Died at 90. He Played Chekov on ‘Star Trek.’",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/obituaries/26obit-koenig-print1/26obit-koenig-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T07:01:04.190Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
     "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
     "titleZh": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
@@ -2202,7 +2193,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/00308644-7de4-4a22-bd27-cbeb3ddd11ca",
     "image": null,
-    "pushedAt": "2026-10-31T14:58:07.040Z"
+    "pushedAt": "2026-10-31T17:17:14.334Z"
   },
   {
     "id": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af",
@@ -2211,7 +2202,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-10-31T14:58:32.537Z"
+    "pushedAt": "2026-10-31T17:17:39.480Z"
   },
   {
     "id": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
     "image": null,
     "pushedAt": "2026-10-31T16:57:42.517Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
+    "titleZh": "制衡通訊：民主黨令人作嘔的樂觀主義",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "image": null,
+    "pushedAt": "2026-10-31T17:18:07.219Z"
   }
 ]
