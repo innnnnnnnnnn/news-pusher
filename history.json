@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-10-29T20:11:37.503Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
     "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
     "titleZh": "以色列總統艾薩克·赫爾佐格面臨艱難的選擇",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T18:31:25.185Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
+    "title": "Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election",
+    "titleZh": "法官駁回川普官員挑戰阿拉斯加參議院選舉的舉動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
+    "image": null,
+    "pushedAt": "2026-11-01T18:38:37.447Z"
   }
 ]
