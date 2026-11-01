@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
-    "title": "A Punishing Housing Market Is Squeezing Renters",
-    "titleZh": "嚴酷的房地產市場正在擠壓租屋者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-rents-vbmw/28biz-rents-vbmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:09:20.611Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
     "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
     "titleZh": "人工智慧正在發現大量錯誤，矽谷正在急於修復它們",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/australian-far-right-party-regains-poll-lead-as-government-slips",
     "image": null,
     "pushedAt": "2026-11-01T23:14:35.640Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/colombia-is-at-risk-of-default-without-fiscal-fix-restrepo-says",
+    "title": "Colombia Is at Risk of Default Without Fiscal Fix, Restrepo Says",
+    "titleZh": "雷斯特雷波表示，如果不解決財政問題，哥倫比亞將面臨違約風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/colombia-is-at-risk-of-default-without-fiscal-fix-restrepo-says",
+    "image": null,
+    "pushedAt": "2026-11-01T23:16:41.420Z"
   }
 ]
