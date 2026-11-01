@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/opinion/houthis-yemen-saudi-arabia.html",
-    "title": "What It Will Take to Defeat the Houthis",
-    "titleZh": "What It Will Take to Defeat the Houthis",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/opinion/houthis-yemen-saudi-arabia.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/opinion/27alsaud/27alsaud-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-27T06:55:58.992Z"
-  },
-  {
     "id": "https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0",
     "title": "Anthropic’s big financial reveal",
     "titleZh": "Anthropic’s big financial reveal",
@@ -1239,7 +1230,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html",
     "image": "https://static01.nyt.com/images/2026/10/28/technology/personaltech/28BIZ-TECHTIP-TOP/28BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T03:27:52.851Z"
+    "pushedAt": "2026-11-01T05:24:36.745Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
@@ -1248,7 +1239,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T03:28:15.858Z"
+    "pushedAt": "2026-11-01T05:24:59.830Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
@@ -1257,7 +1248,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28fed-meeting-fewer-meetings-gzbj/28fed-meeting-fewer-meetings-gzbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T03:29:02.723Z"
+    "pushedAt": "2026-11-01T05:25:46.871Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
@@ -4965,7 +4956,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T03:29:26.003Z"
+    "pushedAt": "2026-11-01T05:26:10.210Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/blackrock-says-bonds-offer-compelling-income-opportunity-video",
@@ -7107,7 +7098,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-obamacare--mlbk/00biz-obamacare--mlbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T03:28:39.227Z"
+    "pushedAt": "2026-11-01T05:25:23.013Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3da634d6-59de-4474-b2fc-b6b1b580b1dc?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff310ec9c-1ecf-4ada-808f-caed8ba27cbb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-01T05:24:10.510Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+    "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+    "titleZh": "儘管黃金周有所增長，澳門博彩收入仍繼續下滑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+    "image": null,
+    "pushedAt": "2026-11-01T05:26:37.280Z"
   }
 ]
