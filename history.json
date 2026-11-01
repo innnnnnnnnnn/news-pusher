@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
-    "title": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
-    "titleZh": "伊爾汗·奧馬爾的調查涉及對長期有爭議的婚姻進行新的審查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00nat-omar-immigration-1-blgc/00nat-omar-immigration-1-blgc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T19:21:06.304Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
     "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
     "titleZh": "西班牙事故調查人員關注火車交通管制員的角色",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2cedca2-9a3f-4d86-80c3-a849978ccd4b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-01T11:42:49.757Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+    "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+    "titleZh": "川普和他的助手幫助博索納羅逃離巴西並進入美國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T11:43:17.739Z"
   }
 ]
