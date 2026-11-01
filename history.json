@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
-    "title": "How to Plan a Trip Around a Running Race",
-    "titleZh": "如何圍繞跑步比賽規劃旅行",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/travel/28trav101-races-illo/28trav101-races-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T15:10:52.827Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html",
     "image": null,
     "pushedAt": "2026-11-01T18:18:13.948Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+    "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
+    "titleZh": "幣安報告恢復正常交易後資金流出 36.4 億美元",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T18:31:25.185Z"
   }
 ]
