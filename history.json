@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
-    "title": "I Can Hear Everything",
-    "titleZh": "我什麼都能聽到",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00nat-half-deaf-gthb/00nat-half-deaf-gthb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T02:34:57.821Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
     "title": "Deport Immigrants? Oh Yes. But Not This Guy.",
     "titleZh": "驅逐移民？哦是的。但不是這個人。",
@@ -3021,7 +3012,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
     "image": null,
-    "pushedAt": "2026-11-01T09:58:34.952Z"
+    "pushedAt": "2026-11-01T12:09:25.905Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
@@ -3534,7 +3525,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-01T09:56:57.880Z"
+    "pushedAt": "2026-11-01T12:07:46.029Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
@@ -4380,7 +4371,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html",
     "image": null,
-    "pushedAt": "2026-11-01T09:58:10.841Z"
+    "pushedAt": "2026-11-01T12:09:00.815Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
@@ -6810,7 +6801,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/yuuyzifqs?ref=rss",
     "image": "https://cdn.flipso.com/p/yuuyzifqs_square.jpg",
-    "pushedAt": "2026-11-01T09:57:46.375Z"
+    "pushedAt": "2026-11-01T12:08:34.509Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
@@ -8060,8 +8051,8 @@
     "titleZh": "密西根州的不和威脅到民主黨在參議院關鍵競選中的團結",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85283dea-7aac-46cc-afdc-a2efb2b4f81c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-01T09:57:22.055Z"
+    "image": null,
+    "pushedAt": "2026-11-01T12:08:10.443Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2aa1758c-69ae-4e5c-8bc8-0fae6f980cfe.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-01T12:07:17.667Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a",
+    "title": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
+    "titleZh": "Weil Gotshal：陷入困境的華爾街律師事務所現在發生了什麼事？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd99b8c3-67f8-40ec-b7fc-a6f2775e92c3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-01T12:09:54.248Z"
   }
 ]
