@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-    "title": "Russian Strike on Ukrainian Train Station Kills 14",
-    "titleZh": "俄羅斯襲擊烏克蘭火車站 造成14人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T02:51:43.749Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
     "title": "India’s Media Giants Join Fight Against Upcoming Privacy Law",
     "titleZh": "印度媒體巨頭聯合反對即將出台的隱私法",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T14:31:03.776Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
+    "title": "State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs",
+    "titleZh": "美國國務院將轉移數百萬美元的避孕資金來支付能源成本",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-foreignaid-contraception2-cmgj/29dc-foreignaid-contraception2-cmgj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T14:31:32.850Z"
   }
 ]
