@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
-    "title": "From Senate Candidates, Surprising Stances on Fixing Social Security",
-    "titleZh": "參議院候選人對解決社會安全問題的令人驚訝的立場",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28Biz-SS-Senate-wlkb/28Biz-SS-Senate-wlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T12:27:49.977Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
     "title": "U.S. Restricts Trade With Chinese Genomics Company",
     "titleZh": "美國限制與中國基因組公司的貿易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01xp-plane-mkth/01xp-plane-mkth-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T21:39:00.967Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "title": "Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap",
+    "titleZh": "科技潰敗加劇人工智慧擔憂，亞洲股市下跌：市場結束",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "image": null,
+    "pushedAt": "2026-11-01T21:44:32.340Z"
   }
 ]
