@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-    "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
-    "titleZh": "曾經的法律巨頭 Weil Gotshal 計劃解散",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T14:47:40.388Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
     "title": "From Senate Candidates, Surprising Stances on Fixing Social Security",
     "titleZh": "參議院候選人對解決社會安全問題的令人驚訝的立場",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
     "image": null,
     "pushedAt": "2026-11-01T21:10:37.309Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+    "title": "9 Dead in Small Plane Crash in Palm Beach County, Fla., Officials Say",
+    "titleZh": "官員稱，佛羅裡達州棕櫚灘縣小型飛機失事造成 9 人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01xp-plane-mkth/01xp-plane-mkth-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T21:39:00.967Z"
   }
 ]
