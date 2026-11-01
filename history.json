@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
-    "title": "The Red States That Could Decide the Senate",
-    "titleZh": "可以決定參議院的紅州",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
-    "image": null,
-    "pushedAt": "2026-10-29T19:19:24.206Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
     "title": "Four Scenarios for How the Midterms Could Go",
     "titleZh": "中期選舉的四種情景",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v9.png",
     "pushedAt": "2026-11-01T11:13:43.787Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+    "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+    "titleZh": "在逐步採取行動的過程中，聯準會面臨必須追趕以抑制通膨的風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T11:14:11.415Z"
   }
 ]
