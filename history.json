@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-    "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
-    "titleZh": "沒有明確的贏家，以色列如何選出總理？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v6.png",
-    "pushedAt": "2026-10-31T15:53:13.755Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
     "title": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared ‘Ended’",
     "titleZh": "美國對盧安達實施新制裁，川普宣布衝突“結束”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01themorning-nl-LEAD-plfg/01themorning-nl-LEAD-plfg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T12:32:30.251Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
+    "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
+    "titleZh": "澳洲房價在預期升息前進一步下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
+    "image": null,
+    "pushedAt": "2026-11-01T13:06:57.764Z"
   }
 ]
