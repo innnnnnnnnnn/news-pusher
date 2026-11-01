@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-    "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-    "titleZh": "聯準會在對抗通膨方面面臨落後的風險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T10:44:45.256Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
-    "title": "Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year",
-    "titleZh": "雙方長期推動的第三方劇透今年可能會很重要",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29pol-third-party-spoilers-mhcq/29pol-third-party-spoilers-mhcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T00:09:59.688Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
     "title": "The Red States That Could Decide the Senate",
     "titleZh": "可以決定參議院的紅州",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
     "image": null,
     "pushedAt": "2026-11-01T11:13:11.542Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+    "title": "Inflation Accelerated in October, PCE Index Shows",
+    "titleZh": "PCE 指數顯示 10 月通膨加速",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T11:13:40.615Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+    "title": "U.S. GDP Increased 3.4% in Third Quarter",
+    "titleZh": "美國第三季GDP成長3.4%",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v9.png",
+    "pushedAt": "2026-11-01T11:13:43.787Z"
   }
 ]
