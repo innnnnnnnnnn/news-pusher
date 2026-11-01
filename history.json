@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-    "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-    "titleZh": "RFK Jr. 允許廣泛使用未經批准的勝肽注射液",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T16:01:49.699Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
     "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
     "titleZh": "起司蛋糕工廠的設計師對歐巴馬和川普對其裝飾的批評有何看法？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
     "image": null,
     "pushedAt": "2026-11-01T20:03:06.094Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/business/economy/heres-the-latest.html",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/28/business/economy/heres-the-latest.html",
+    "image": null,
+    "pushedAt": "2026-11-01T20:03:34.640Z"
   }
 ]
