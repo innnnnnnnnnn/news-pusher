@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
-    "title": "Life Magazine, Chronicler of 20th-Century America, Rises Again",
-    "titleZh": "20世紀美國的編年史《生活》雜誌再次崛起",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/business/28biz-life-magazine-handout/28biz-life-magazine-handout-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T07:56:21.486Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
     "title": "Investors Brace for Big Tech’s A.I. Spending Bill",
     "titleZh": "投資者為大型科技公司的人工智慧做好準備開支帳單",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
     "image": null,
     "pushedAt": "2026-11-01T21:45:27.060Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
+    "title": "Indonesia’s MSCI Crisis Driven By Wash Trades and 5,000% Rallies",
+    "titleZh": "清洗交易和 5,000% 的反彈推動了印尼的 MSCI 危機",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
+    "image": null,
+    "pushedAt": "2026-11-01T22:00:59.184Z"
   }
 ]
