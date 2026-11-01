@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/064d657d-1808-4287-a6ae-7f2d34c79ec3",
-    "title": "What does human inquiry even mean any more?",
-    "titleZh": "What does human inquiry even mean anymore?",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/064d657d-1808-4287-a6ae-7f2d34c79ec3",
-    "image": null,
-    "pushedAt": "2026-10-27T07:16:13.248Z"
-  },
-  {
     "id": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4",
     "title": "Indian outsourcers defy AI threat",
     "titleZh": "Indian IT services groups turn corner as AI revenue grows",
@@ -600,7 +591,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/int-hongkong-fire-bvcf/int-hongkong-fire-bvcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T08:50:50.605Z"
+    "pushedAt": "2026-11-01T10:50:02.776Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
@@ -7071,7 +7062,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
     "image": null,
-    "pushedAt": "2026-11-01T08:50:25.619Z"
+    "pushedAt": "2026-11-01T10:49:38.679Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/france-gets-budget-warning-as-fitch-turns-negative-on-rating",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
     "image": null,
     "pushedAt": "2026-11-01T10:28:38.119Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/serbia-s-banks-urged-to-scrutinize-money-flows-amid-power-shift",
+    "title": "Serbia’s Banks Urged to Scrutinize Money Flows Amid Power Shift",
+    "titleZh": "敦促塞爾維亞銀行在權力轉移期間審查資金流動",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/serbia-s-banks-urged-to-scrutinize-money-flows-amid-power-shift",
+    "image": null,
+    "pushedAt": "2026-11-01T10:50:29.185Z"
   }
 ]
