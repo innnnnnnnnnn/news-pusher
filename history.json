@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-    "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-    "titleZh": "環遊世界的「無盡」遊輪暫停，乘客滯留",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T15:46:44.210Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
     "title": "Israel’s opposition may not be able to form a government, but it still could control Parliament.",
     "titleZh": "以色列反對派或許無法組成政府，但仍可控制議會。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video",
     "image": null,
     "pushedAt": "2026-11-01T15:58:27.679Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
+    "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
+    "titleZh": "科技股暴跌後，華爾街準備迎接股市更加瘋狂的日子",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
+    "image": null,
+    "pushedAt": "2026-11-01T16:18:47.574Z"
   }
 ]
