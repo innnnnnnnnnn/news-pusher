@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "title": "U.S. GDP Increased 3.4% in Third Quarter",
-    "titleZh": "美國第三季GDP成長3.4%",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v9.png",
-    "pushedAt": "2026-11-01T10:43:08.232Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-    "title": "Inflation Accelerated in October, PCE Index Shows",
-    "titleZh": "PCE 指數顯示 10 月通膨加速",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T10:44:21.170Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
     "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
     "titleZh": "聯準會在對抗通膨方面面臨落後的風險",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01french-fpgt/01french-fpgt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T11:12:40.318Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
+    "title": "To understand African politics, just listen to the music",
+    "titleZh": "了解非洲政治，只要聽音樂",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
+    "image": null,
+    "pushedAt": "2026-11-01T11:13:08.553Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
+    "title": "Donald Trump may love the Middle East to death",
+    "titleZh": "唐納德·川普可能對中東愛得死去活來",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
+    "image": null,
+    "pushedAt": "2026-11-01T11:13:11.542Z"
   }
 ]
