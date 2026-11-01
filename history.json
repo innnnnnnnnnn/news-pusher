@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-    "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
-    "titleZh": "海洋「是巧克力的顏色」。墨西哥向海藻宣戰。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-    "image": null,
-    "pushedAt": "2026-10-29T22:36:14.919Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
     "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
     "titleZh": "莫斯科對拆除俄羅斯「艾菲爾鐵塔」計畫罕見地出現戰時異議",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01DC-Murphy-Stroke-wpkz/01DC-Murphy-Stroke-wpkz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T18:13:28.641Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9",
+    "title": "Trump faces the voters",
+    "titleZh": "川普面對選民",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-01T18:15:39.918Z"
   }
 ]
