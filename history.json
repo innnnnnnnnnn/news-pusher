@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-    "image": null,
-    "pushedAt": "2026-10-30T03:21:01.939Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
     "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
     "titleZh": "義大利抗議背後：物價上漲與希望破滅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6a3c6f12-cada-4368-8aad-4deb4db13fcb?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f36a9db-2524-4240-92bb-63caca3e8fa3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-01T18:09:08.391Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/new-zealand-assets-face-headwinds-as-election-race-tightens",
+    "title": "New Zealand Assets Face Headwinds as Election Race Tightens",
+    "titleZh": "隨著競選愈演愈烈，紐西蘭資產面臨阻力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/new-zealand-assets-face-headwinds-as-election-race-tightens",
+    "image": null,
+    "pushedAt": "2026-11-01T18:10:28.585Z"
   }
 ]
