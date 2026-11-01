@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-    "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
-    "titleZh": "西班牙事故調查人員關注火車交通管制員的角色",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T02:40:41.170Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
     "title": "I Can Hear Everything",
     "titleZh": "我什麼都能聽到",
@@ -3003,7 +2994,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T09:56:33.465Z"
+    "pushedAt": "2026-11-01T12:06:48.195Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
@@ -3975,7 +3966,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9c46421e-d23c-4674-80ad-4cf63897d22e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-01T09:56:07.968Z"
+    "pushedAt": "2026-11-01T12:06:23.707Z"
   },
   {
     "id": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T11:43:17.739Z"
+  },
+  {
+    "id": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3",
+    "title": "Britain’s welfare ratchet",
+    "titleZh": "英國的福利棘輪",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2aa1758c-69ae-4e5c-8bc8-0fae6f980cfe.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-01T12:07:17.667Z"
   }
 ]
