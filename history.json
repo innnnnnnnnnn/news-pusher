@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
-    "title": "Haiti Postpones Elections as Gang Violence Runs Rampant",
-    "titleZh": "海地因幫派暴力猖獗而延後選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
-    "image": "https://static01.nyt.com/images/2025/10/20/multimedia/29int-haiti-elect/20haiti-trials-wtk-wpzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T08:49:34.825Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
     "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
     "titleZh": "中國對粉絲製作的人工智慧並不滿意孫悟空和林黛玉的視頻",
@@ -8754,7 +8745,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/29/americas-decisive-voters-are-its-most-recent-arrivals",
     "image": null,
-    "pushedAt": "2026-11-01T11:10:29.355Z"
+    "pushedAt": "2026-11-01T13:19:13.385Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
@@ -8763,7 +8754,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
     "image": null,
-    "pushedAt": "2026-11-01T11:10:57.941Z"
+    "pushedAt": "2026-11-01T13:19:38.902Z"
   },
   {
     "id": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop",
@@ -8772,7 +8763,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/10/29/china-loves-to-rank-its-cities-the-government-wants-it-to-stop",
     "image": null,
-    "pushedAt": "2026-11-01T11:11:00.446Z"
+    "pushedAt": "2026-11-01T13:20:04.692Z"
   },
   {
     "id": "https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-01/imo-chief-says-strait-of-hormuz-remains-unsafe-video",
     "image": null,
     "pushedAt": "2026-11-01T13:18:44.263Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/opec-leaves-oil-output-targets-unchanged-for-december",
+    "title": "OPEC+ Leaves Oil Output Targets Unchanged for December",
+    "titleZh": "OPEC+ 維持 12 月石油產量目標不變",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/opec-leaves-oil-output-targets-unchanged-for-december",
+    "image": null,
+    "pushedAt": "2026-11-01T13:20:32.126Z"
   }
 ]
