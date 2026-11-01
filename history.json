@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
-    "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
-    "titleZh": "儘管通膨缺乏進展，Fed仍維持利率穩定",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T09:37:29.480Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
     "title": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
     "titleZh": "吉娜·伊諾霍薩 (Gina Hinojosa) 的德克薩斯州州長競選活動測試了數位政治廣告新規則的限制",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years",
     "image": null,
     "pushedAt": "2026-11-01T20:24:46.821Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+    "title": "A Lesson From Germany",
+    "titleZh": "德國的教訓",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-theworld-trump-ostpolitik-02-mltw-promo/02int-theworld-trump-ostpolitik-02-mltw-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T20:38:42.884Z"
   }
 ]
