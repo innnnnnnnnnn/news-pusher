@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-    "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs",
-    "titleZh": "在能源成本不斷上漲的時期，英國的預算具有“喘息空間”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-uk-budget-01-hwcp/28biz-uk-budget-01-hwcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:08:54.350Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
     "title": "A Punishing Housing Market Is Squeezing Renters",
     "titleZh": "嚴酷的房地產市場正在擠壓租屋者",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
     "image": null,
     "pushedAt": "2026-11-01T23:08:55.583Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/australian-far-right-party-regains-poll-lead-as-government-slips",
+    "title": "Australian Far-Right Party Regains Poll Lead as Government Slips",
+    "titleZh": "政府下滑，澳洲極右翼政黨重拾民調領先地位",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/australian-far-right-party-regains-poll-lead-as-government-slips",
+    "image": null,
+    "pushedAt": "2026-11-01T23:14:35.640Z"
   }
 ]
