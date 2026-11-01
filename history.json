@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/economy/heres-the-latest.html",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/economy/heres-the-latest.html",
-    "image": null,
-    "pushedAt": "2026-11-01T15:59:19.802Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
     "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
     "titleZh": "RFK Jr. 允許廣泛使用未經批准的勝肽注射液",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28fed-meeting-fewer-meetings-gzbj/28fed-meeting-fewer-meetings-gzbj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T20:02:37.529Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
+    "title": "Takeaways from Warsh’s news conference.",
+    "titleZh": "沃什新聞發布會的要點。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
+    "image": null,
+    "pushedAt": "2026-11-01T20:03:06.094Z"
   }
 ]
