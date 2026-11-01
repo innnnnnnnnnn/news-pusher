@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-    "title": "U.S. Restricts Trade With Chinese Genomics Company",
-    "titleZh": "美國限制與中國基因組公司的貿易",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T10:04:48.561Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
     "title": "Life Magazine, Chronicler of 20th-Century America, Rises Again",
     "titleZh": "20世紀美國的編年史《生活》雜誌再次崛起",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
     "image": null,
     "pushedAt": "2026-11-01T21:44:32.340Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+    "title": "Hackers are running riot with AI. Its makers want to cash in",
+    "titleZh": "駭客正在利用人工智慧進行騷亂。它的製造商想要賺錢",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+    "image": null,
+    "pushedAt": "2026-11-01T21:45:27.060Z"
   }
 ]
