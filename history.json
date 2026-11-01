@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
-    "title": "An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future",
-    "titleZh": "無結果的投票讓以色列人思考不確定的未來",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-voices-topart-01-fqbp/28israel-voices-topart-01-fqbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T12:45:15.505Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-    "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
-    "titleZh": "西班牙空難倖存者描述“扭曲的金屬纏結”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-passenger-lqtk/28spain-crash-passenger-lqtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T12:45:41.034Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
     "title": "What We Know About the Deadly Train Crash in Spain",
     "titleZh": "我們對西班牙致命火車事故的了解",
@@ -3678,7 +3660,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9c46421e-d23c-4674-80ad-4cf63897d22e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-01T14:18:06.959Z"
+    "pushedAt": "2026-11-01T16:19:43.291Z"
   },
   {
     "id": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
     "image": "https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T16:19:15.202Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3",
+    "title": "Inside the leaderless movement set to govern Serbia",
+    "titleZh": "治理塞爾維亞的無領導運動內部",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd09533c-b28b-455d-84a8-736cce3235a4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-01T16:20:11.805Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+    "title": "France and the UK require a new entente",
+    "titleZh": "法國和英國需要新的協約",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc89ea645-b49b-4a38-b4a7-46f7a791a0bc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-01T16:20:16.962Z"
   }
 ]
