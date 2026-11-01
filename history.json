@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/business/senate-races-kansas-texas-bots.html",
-    "title": "Bots Drive Online Chatter About Races in Kansas and Texas",
-    "titleZh": "機器人驅動線上聊天關於堪薩斯州和德克薩斯州的比賽",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/business/senate-races-kansas-texas-bots.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27midterms-disinfo-report-bvmq/27midterms-disinfo-report-bvmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T13:14:25.281Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
     "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
     "titleZh": "100 多年後，通用汽車將離開紐約證券交易所，前往納斯達克",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
     "image": null,
     "pushedAt": "2026-11-01T23:48:25.705Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
+    "title": "Learjet Plummets to Ground in Florida Neighborhood",
+    "titleZh": "裡爾噴射機在佛羅裡達州附近墜落",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
+    "image": null,
+    "pushedAt": "2026-11-01T23:52:32.022Z"
   }
 ]
