@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
-    "title": "4 Takeaways From Israel’s Election",
-    "titleZh": "以色列選舉的 4 個要點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-takeaways-promo-1-gfmt/28int-israel-takeaways-promo-1-gfmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:01:39.384Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
     "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
     "titleZh": "持刀攻擊者在以色列駐塞爾維亞大使館外被槍殺",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-01/bloomberg-this-weekend-11-1-2026-video",
     "image": null,
     "pushedAt": "2026-11-01T17:44:43.678Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "title": "AI is disrupting the art of campaigning",
+    "titleZh": "人工智慧正在顛覆競選藝術",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "image": null,
+    "pushedAt": "2026-11-01T18:00:52.288Z"
   }
 ]
