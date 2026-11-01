@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-    "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
-    "titleZh": "聯準會將於今天發布利率決定。這是看點。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-preview--01-gbkp/28dc-fed-preview--01-gbkp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T18:08:28.418Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
     "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs",
     "titleZh": "在能源成本不斷上漲的時期，英國的預算具有“喘息空間”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/nyregion/nyc-book-before-new-york-mannahatta.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01met-city-nature--02-cmgv/01met-city-nature--02-cmgv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T22:54:15.570Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
+    "title": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine",
+    "titleZh": "億萬富翁弗里德蘭將建造美國支持的大型稀土礦",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
+    "image": null,
+    "pushedAt": "2026-11-01T23:08:55.583Z"
   }
 ]
