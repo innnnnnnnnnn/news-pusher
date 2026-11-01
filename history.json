@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
-    "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
-    "titleZh": "以色列總統艾薩克·赫爾佐格面臨艱難的選擇",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-PresidentHerzog-mwqh/28israel-PresidentHerzog-mwqh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T20:12:04.537Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
     "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
     "titleZh": "中國港口可能是西班牙的生命線，但也是一個威脅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
     "image": null,
     "pushedAt": "2026-11-01T18:38:37.447Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/us/politics/john-sununu-new-hampshire-senate-race.html",
+    "title": "This Republican Wants Voters to Consider a Post-Trump World",
+    "titleZh": "這位共和黨人希望選民考慮川普時代後的世界",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/us/politics/john-sununu-new-hampshire-senate-race.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01pol-sununu-trump-fgqc/01pol-sununu-trump-fgqc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T19:08:22.896Z"
   }
 ]
