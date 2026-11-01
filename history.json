@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
-    "title": "Deport Immigrants? Oh Yes. But Not This Guy.",
-    "titleZh": "驅逐移民？哦是的。但不是這個人。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
-    "image": null,
-    "pushedAt": "2026-10-29T19:22:21.160Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
-    "title": "Why Are We Having Less Sex? Ask a Pornographer.",
-    "titleZh": "為什麼我們的性生活越來越少？問色情作家。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T10:10:14.693Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/28/nyregion/kathy-hochul-nyc-transit-support.html",
-    "title": "How Hochul Became a Surprise Champion of the Subway",
-    "titleZh": "Hochul 如何成為地鐵冠軍",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/nyregion/kathy-hochul-nyc-transit-support.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28met-hochul-mta-top-pcwj/28met-hochul-mta-top-pcwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-29T18:43:39.593Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
     "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
     "titleZh": "一個自稱為「癮君子」的人如何因合成毒品而被遺忘並聲名大噪",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd99b8c3-67f8-40ec-b7fc-a6f2775e92c3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-01T12:09:54.248Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c",
+    "title": "Will US jobs growth remain subdued?",
+    "titleZh": "美國就業成長會持續低迷嗎？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-01T12:31:26.934Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2f1b9cd5-4b6c-4e21-9e16-dcbfe7ecbd3e",
+    "title": "America needs a real Congress",
+    "titleZh": "美國需要一個真正的國會",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2f1b9cd5-4b6c-4e21-9e16-dcbfe7ecbd3e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-01T12:31:31.222Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce",
+    "title": "US critical minerals push delivers a gold rush — for Washington lobbyists",
+    "titleZh": "美國關鍵礦產的推動引發了華盛頓遊說者的淘金熱",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-01T12:31:35.251Z"
   }
 ]
