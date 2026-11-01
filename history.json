@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
-    "title": "In Marseille, Macron Confronts a Potent Mix of France’s Problems",
-    "titleZh": "在馬賽，馬克宏面臨法國的一系列潛在問題",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-france-marseille-01-zcft/28int-france-marseille-01-zcft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T13:40:52.618Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
     "title": "China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens",
     "titleZh": "隨著習近平清洗的深入，中國確認驅逐33名官員",
@@ -8114,8 +8105,8 @@
     "titleZh": "量化對沖基金將從 Tudor 分拆出來，發行規模創紀錄 90 億美元",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1879352f-714d-4e7a-ae6d-092002f72ec7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-01T11:23:32.429Z"
+    "image": null,
+    "pushedAt": "2026-11-01T13:35:57.449Z"
   },
   {
     "id": "https://www.ft.com/content/bcea249e-249e-4b75-bd7c-bbd51b5b4579",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-01/brooks-steps-up-global-push-as-running-boom-builds-video",
     "image": null,
     "pushedAt": "2026-11-01T13:28:45.541Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-01/tech-selloff-could-ease-pressure-on-the-fed-video",
+    "title": "Tech Selloff Could Ease Pressure on the Fed",
+    "titleZh": "科技股拋售可能緩解聯準會的壓力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-01/tech-selloff-could-ease-pressure-on-the-fed-video",
+    "image": null,
+    "pushedAt": "2026-11-01T13:36:25.974Z"
   }
 ]
