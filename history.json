@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
-    "title": "Jio’s Blockbuster I.P.O. Gives India’s Investors a Lift",
-    "titleZh": "Jio 的重磅 IPO為印度投資者帶來提振",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-jio-ipo-zcbj/28biz-jio-ipo-zcbj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-31T07:57:08.901Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
-    "title": "Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company",
-    "titleZh": "拜登的反壟斷執法者正在啟動人工智慧。法人公司",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28DB-DOJ-Startup-phtv/28DB-DOJ-Startup-phtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T07:57:33.155Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
     "title": "‘One Job Away’ Tries to Help Actors Keep Their Health Insurance",
     "titleZh": "《一份工作之外》試圖幫助演員保留健康保險",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-WEALTH-TAX-cwlm/31DC-WEALTH-TAX-cwlm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-01T22:04:01.814Z"
+  },
+  {
+    "id": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972",
+    "title": "What’s the risk of political violence? | Martin Wolf on the US midterms",
+    "titleZh": "政治暴力的風險是什麼？ |馬丁沃爾夫談美國中期選舉",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-01T22:37:49.725Z"
+  },
+  {
+    "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c",
+    "title": "FirstFT: Gulf braced for renewed war between US and Iran",
+    "titleZh": "FirstFT：海灣地區為美國和伊朗之間的新戰爭做好準備",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-01T22:37:54.531Z"
   }
 ]
