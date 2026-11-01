@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
-    "title": "To understand African politics, just listen to the music",
-    "titleZh": "了解非洲政治，只要聽音樂",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
-    "image": null,
-    "pushedAt": "2026-11-01T10:41:32.139Z"
-  },
-  {
-    "id": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
-    "title": "Donald Trump may love the Middle East to death",
-    "titleZh": "唐納德·川普可能對中東愛得死去活來",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
-    "image": null,
-    "pushedAt": "2026-11-01T10:42:19.778Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-    "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-    "titleZh": "英偉達執行長黃仁勳被視為中國間諜陰謀的目標",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00dc-chips-01-zhpm/00dc-chips-01-zhpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T00:06:59.496Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
     "title": "U.S. GDP Increased 3.4% in Third Quarter",
     "titleZh": "美國第三季GDP成長3.4%",
@@ -8998,5 +8971,32 @@
     "url": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
     "image": null,
     "pushedAt": "2026-11-01T11:12:03.537Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "title": "A tiny Pacific country rolls out universal basic income",
+    "titleZh": "太平洋小國推出全民基本收入",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "image": null,
+    "pushedAt": "2026-11-01T11:12:31.646Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
+    "title": "Wanted: a researcher/news assistant in Tokyo",
+    "titleZh": "誠聘：東京研究員/新聞助理",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
+    "image": null,
+    "pushedAt": "2026-11-01T11:12:34.789Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
+    "title": "Trump Has Found the Attorney General of His Dreams",
+    "titleZh": "川普找到了他夢想中的司法部長",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01french-fpgt/01french-fpgt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-01T11:12:40.318Z"
   }
 ]
