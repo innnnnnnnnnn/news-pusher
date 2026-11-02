@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/opinion/israel-elections-arab-parties.html",
-    "title": "‘We’ve Seen This Movie’: Four Writers on What’s Next for Israel",
-    "titleZh": "以色列的下一步是什麼？四位作家解讀選舉結果。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/opinion/israel-elections-arab-parties.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/opinion/29israel-roundtable/29israel-roundtable-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:19:38.004Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/strategy-shifts-to-daily-payments-to-jumpstart-funding-machine",
     "title": "Strategy Shifts to Daily Payments to Jumpstart Funding Machine",
     "titleZh": "策略轉向每日付款以啟動融資機制",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/ai-is-making-employees-work-longer-days-new-data-shows",
     "image": null,
     "pushedAt": "2026-11-02T11:30:15.119Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/boe-to-raise-rates-for-first-time-since-2023-survey-shows",
+    "title": "BOE to Raise Rates for First Time Since 2023, Survey Shows",
+    "titleZh": "調查顯示，英國央行將自 2023 年以來首次升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/boe-to-raise-rates-for-first-time-since-2023-survey-shows",
+    "image": null,
+    "pushedAt": "2026-11-02T11:34:40.324Z"
   }
 ]
