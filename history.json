@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff",
-    "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
-    "titleZh": "Nscale 350 億美元 IPO 背後的成敗人工智慧大型項目",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc7bcb5bb-bdc3-4076-b265-17e4e279f76c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T14:54:39.940Z"
-  },
-  {
-    "id": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
-    "title": "Spotify aims to launch AI music remix service early next year",
-    "titleZh": "Spotify 計劃明年初推出人工智慧音樂混音服務",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T06:44:29.431Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says",
     "title": "Bitcoin Stolen in Binance Hack Is Likely ‘Gone,’ Ballet Says",
     "titleZh": "Ballet 表示，幣安黑客攻擊中被盜的比特幣可能已經“消失”",
@@ -7359,7 +7341,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/apple-s-1-trillion-rally-leaves-no-room-for-error-on-earnings",
     "image": null,
-    "pushedAt": "2026-11-02T17:08:03.034Z"
+    "pushedAt": "2026-11-02T19:35:29.876Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack",
@@ -7368,7 +7350,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack",
     "image": null,
-    "pushedAt": "2026-11-02T17:08:55.425Z"
+    "pushedAt": "2026-11-02T19:36:24.809Z"
   },
   {
     "id": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b",
@@ -7854,7 +7836,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
     "image": null,
-    "pushedAt": "2026-11-02T17:08:30.565Z"
+    "pushedAt": "2026-11-02T19:35:57.527Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/marriott-beats-as-us-demand-helps-boost-outlook-shares-rise",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/carney-s-push-to-fast-track-oil-pipeline-faces-mounting-indigenous-lawsuits",
     "image": null,
     "pushedAt": "2026-11-02T19:21:12.968Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
+    "title": "'Bipartisan' ETF 'Makes Sense': Weiskopf",
+    "titleZh": "Weiskopf：“兩黨”ETF“有意義”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
+    "image": null,
+    "pushedAt": "2026-11-02T19:36:52.699Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-to-spend-895-billion-in-the-years-ahead-video",
+    "title": "Anthropic to Spend $895 Billion in the Years Ahead",
+    "titleZh": "Anthropic 未來幾年將花費 8,950 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-to-spend-895-billion-in-the-years-ahead-video",
+    "image": null,
+    "pushedAt": "2026-11-02T19:36:58.040Z"
   }
 ]
