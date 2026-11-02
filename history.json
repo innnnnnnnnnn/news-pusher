@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-    "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
-    "titleZh": "谷歌 5000 億美元的血洗反映了它面臨的人工智慧危險",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-    "image": null,
-    "pushedAt": "2026-11-02T14:47:31.379Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
     "title": "Patrick Stewart: A Life in Pictures",
     "titleZh": "派崔克史都華：畫中人生",
@@ -4830,7 +4821,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T12:50:55.082Z"
+    "pushedAt": "2026-11-02T15:13:22.471Z"
   },
   {
     "id": "https://flipso.com/p/3pyqf9j44",
@@ -5496,7 +5487,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
     "image": null,
-    "pushedAt": "2026-11-02T12:51:18.680Z"
+    "pushedAt": "2026-11-02T15:13:47.791Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
@@ -5505,7 +5496,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-netanyahu-coalition-chmj/31int-netanyahu-coalition-chmj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T12:52:14.162Z"
+    "pushedAt": "2026-11-02T15:14:38.969Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
@@ -8223,7 +8214,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/pakistan-inflation-cools-as-energy-risks-cloud-outlook",
     "image": null,
-    "pushedAt": "2026-11-02T12:50:31.288Z"
+    "pushedAt": "2026-11-02T15:12:58.034Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/indian-bonds-rally-as-oil-falls-higher-yields-attract-buyers",
@@ -8681,8 +8672,8 @@
     "titleZh": "普丁如何分裂西方",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T12:50:04.320Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e13c835-ce9c-4577-ae78-0476a8fefa4d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-02T15:12:32.942Z"
   },
   {
     "id": "https://flipso.com/p/1nzpi7z4e",
@@ -8691,7 +8682,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/1nzpi7z4e?ref=rss",
     "image": "https://cdn.flipso.com/p/1nzpi7z4e_square.jpg",
-    "pushedAt": "2026-11-02T12:51:47.832Z"
+    "pushedAt": "2026-11-02T15:14:13.955Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T15:11:37.727Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+    "title": "US Natural Gas Rises on Lower Appalachian Output, Cooler Weather",
+    "titleZh": "阿巴拉契亞產量下降和天氣轉涼，美國天然氣價格上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+    "image": null,
+    "pushedAt": "2026-11-02T15:15:05.976Z"
   }
 ]
