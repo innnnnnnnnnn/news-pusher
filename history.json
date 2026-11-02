@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
-    "title": "Patrick Stewart’s Many Roles, From ‘Star Trek’ to ‘Avengers: Doomsday’",
-    "titleZh": "7次令人難忘的Patrick Stewart表演",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-stewart-moments/00xp-stewart-moments-mediumSquareAt3X-v2.png",
-    "pushedAt": "2026-10-30T08:06:14.627Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/safe-haven-demand-will-persist-larosiliere-video",
-    "title": "Safe Haven Demand Will Persist: Larosiliere",
-    "titleZh": "Larosiliere：避險需求將持續存在",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/safe-haven-demand-will-persist-larosiliere-video",
-    "image": null,
-    "pushedAt": "2026-10-29T22:40:46.669Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/reddit-to-limit-access-for-logged-out-users-in-strategy-shift",
     "title": "Reddit Plunges 25% on Plan to Limit Access, Sales Outlook Miss",
     "titleZh": "Reddit 將在策略轉變中限制註銷用戶的訪問",
@@ -6396,7 +6378,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
     "image": null,
-    "pushedAt": "2026-11-02T08:34:42.315Z"
+    "pushedAt": "2026-11-02T11:05:10.702Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
@@ -6405,7 +6387,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
     "image": null,
-    "pushedAt": "2026-11-02T08:35:06.268Z"
+    "pushedAt": "2026-11-02T11:05:34.408Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
@@ -6414,7 +6396,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
     "image": null,
-    "pushedAt": "2026-11-02T08:35:29.637Z"
+    "pushedAt": "2026-11-02T11:05:58.370Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/chile-bond-investors-turn-to-inflation-linked-notes-as-oil-soars",
     "image": null,
     "pushedAt": "2026-11-02T11:04:44.475Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fe449163-4b1f-458c-a9be-9e53b9f332b7",
+    "title": "Top German bishop denounces far-right AfD as a ‘wolf in sheep’s clothing’",
+    "titleZh": "德國最高主教譴責極右翼德國選擇黨是“披著羊皮的狼”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fe449163-4b1f-458c-a9be-9e53b9f332b7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T11:06:24.978Z"
+  },
+  {
+    "id": "https://www.ft.com/content/782eb2df-b89b-4ab5-9d9e-930ae5f80989",
+    "title": "Canada backs a rival to Starlink but a $2bn debt battle threatens its plans",
+    "titleZh": "加拿大支持星鏈競爭對手，但 20 億美元的債務戰威脅到其計劃",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/782eb2df-b89b-4ab5-9d9e-930ae5f80989?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T11:06:29.442Z"
   }
 ]
