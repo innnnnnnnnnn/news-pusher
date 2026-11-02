@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
-    "title": "Venezuela opposition leader hails Trump on return from exile",
-    "titleZh": "委內瑞拉反對派領導人歡迎川普流亡回國",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
-    "image": null,
-    "pushedAt": "2026-10-30T05:05:19.708Z"
-  },
-  {
     "id": "https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0",
     "title": "DoorDash buys Instacart just as AI rewrites the menu",
     "titleZh": "DoorDash 收購 Instacart，人工智慧重寫菜單",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T09:50:02.346Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-gen-z-dons-spooky-stock-market-costumes-for-halloween",
+    "title": "China’s Gen Z Dons Spooky Stock Market Costumes for Halloween",
+    "titleZh": "中國Z世代在萬聖節穿上詭異的股市服裝",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-gen-z-dons-spooky-stock-market-costumes-for-halloween",
+    "image": null,
+    "pushedAt": "2026-11-02T09:50:30.620Z"
   }
 ]
