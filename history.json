@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a7de51d1-f4bc-4e52-af3b-3d52459126bf",
-    "title": "Should monetarism stage a comeback?",
-    "titleZh": "貨幣主義應該捲土重來嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a7de51d1-f4bc-4e52-af3b-3d52459126bf?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T04:04:29.975Z"
-  },
-  {
     "id": "https://www.ft.com/content/336f8f7c-1a39-403d-8c68-dfca5ff1a2bb",
     "title": "UK considers forcing data centres to invest locally to meet new AI ‘covenant’",
     "titleZh": "英國考慮迫使數據中心在當地投資以滿足新的人工智慧“契約”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb",
     "image": null,
     "pushedAt": "2026-11-02T04:12:26.324Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/copper-recovers-as-easing-tech-rout-lower-oil-calm-growth-fears",
+    "title": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears",
+    "titleZh": "隨著科技股的下跌、油價下跌平息成長擔憂，銅價回升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/copper-recovers-as-easing-tech-rout-lower-oil-calm-growth-fears",
+    "image": null,
+    "pushedAt": "2026-11-02T04:46:47.475Z"
   }
 ]
