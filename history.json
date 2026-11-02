@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
-    "title": "Amazon Shares Drop After Spending Soars, E-Commerce Slows",
-    "titleZh": "亞馬遜支出激增以滿足人工智慧服務需求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
-    "image": null,
-    "pushedAt": "2026-10-30T15:13:57.346Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/us-economy-grows-most-in-a-year-on-spending-investment-video",
     "title": "US Economy Grows Most in a Year on Strong Spending, Investment",
     "titleZh": "支出和投資強勁，美國經濟實現一年來最大成長",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/norway-government-allies-seek-data-center-halt-on-power-worries",
     "image": null,
     "pushedAt": "2026-11-02T11:24:17.052Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-news-now-video",
+    "title": "Bloomberg News Now",
+    "titleZh": "彭博新聞現在",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-news-now-video",
+    "image": null,
+    "pushedAt": "2026-11-02T11:24:47.246Z"
   }
 ]
