@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/the-fearsome-rise-of-the-haunted-attraction",
-    "title": "The Fearsome Rise of the Haunted Attraction",
-    "titleZh": "鬧鬼景點的可怕崛起",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/the-fearsome-rise-of-the-haunted-attraction",
-    "image": null,
-    "pushedAt": "2026-10-29T19:55:03.990Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled",
     "title": "Maybe Wall Street Has Never Been ‘AI-Pilled’",
     "titleZh": "也許華爾街從未被“人工智慧包圍”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/blackstone-leads-3-1-billion-deal-to-acquire-lng-canada-stake",
     "image": null,
     "pushedAt": "2026-11-02T05:44:43.730Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
+    "title": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
+    "titleZh": "紐森和哈里斯一起出現，幾乎沒有暗示接下來會發生什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
+    "image": "https://static01.nyt.com/images/2026/12/01/multimedia/01midterms-nat-newsom-harris-mflg/01midterms-nat-newsom-harris-mflg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T05:57:41.361Z"
   }
 ]
