@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-    "titleZh": "大型科技公司的資料中心閃電戰正在燒錢並嚇壞華爾街",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T10:02:00.752Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/rodriguez-names-ex-opposition-aide-as-venezuela-foreign-minister",
     "title": "Rodríguez Names Ex-Opposition Aide as Venezuela Foreign Minister",
     "titleZh": "羅德里格斯任命前反對派助理為委內瑞拉外交部長",
@@ -8079,7 +8070,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1dec293b-284f-4939-b6f0-6982092be0b1?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T09:50:59.199Z"
+    "pushedAt": "2026-11-02T12:01:54.307Z"
   },
   {
     "id": "https://www.ft.com/content/08f99037-1bd5-4eb5-9213-4097ebf3475c",
@@ -8088,7 +8079,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/08f99037-1bd5-4eb5-9213-4097ebf3475c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T09:51:23.996Z"
+    "pushedAt": "2026-11-02T12:02:17.651Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/how-poland-s-central-bank-is-caught-in-political-standoff-with-pm-donald-tusk",
@@ -8470,12 +8461,12 @@
   },
   {
     "id": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca",
-    "title": "European supermarkets hit by freezer hacking",
+    "title": "European supermarket freezers hit just weeks after French cyber attack",
     "titleZh": "歐洲超市遭遇冰櫃駭客攻擊",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T09:50:02.346Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02455eba-dcdb-49d0-be25-77b343a6986d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-02T12:01:30.654Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-gen-z-dons-spooky-stock-market-costumes-for-halloween",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-kazimir-says-markets-may-underestimate-what-s-needed",
     "image": null,
     "pushedAt": "2026-11-02T12:01:00.484Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/uk-s-bii-targets-2-25-billion-for-africa-s-riskiest-markets",
+    "title": "UK’s BII Targets £2.25 Billion for Africa’s Riskiest Markets",
+    "titleZh": "英國 BII 目標為非洲風險最高的市場提供 22.5 億英鎊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/uk-s-bii-targets-2-25-billion-for-africa-s-riskiest-markets",
+    "image": null,
+    "pushedAt": "2026-11-02T12:02:44.600Z"
   }
 ]
