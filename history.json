@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
-    "title": "Iron Ore Heads for Lowest Month-End Close Since October 2022",
-    "titleZh": "鐵礦石月末收盤價創 2022 年 10 月以來最低",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
-    "image": null,
-    "pushedAt": "2026-10-30T06:32:35.488Z"
-  },
-  {
-    "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
-    "title": "Bank of Japan says 2% inflation goal reached after decades of deflation",
-    "titleZh": "日本央行表示已達2%通膨目標",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T17:15:02.129Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
     "title": "Binance Freezes Assets After Suspected Hack",
     "titleZh": "幣安在涉嫌駭客攻擊後凍結資產",
@@ -2346,7 +2328,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T15:19:08.362Z"
+    "pushedAt": "2026-11-02T17:51:06.709Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
@@ -4893,7 +4875,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T15:19:33.561Z"
+    "pushedAt": "2026-11-02T17:51:33.680Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
@@ -5802,7 +5784,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
     "image": null,
-    "pushedAt": "2026-11-02T15:19:59.523Z"
+    "pushedAt": "2026-11-02T17:51:58.724Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
     "image": null,
     "pushedAt": "2026-11-02T17:50:38.889Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+    "title": "A new path to political power in China runs through state firms",
+    "titleZh": "中國通往政治權力的新途徑是透過國營企業",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+    "image": null,
+    "pushedAt": "2026-11-02T17:52:27.315Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+    "title": "The fight for the soul of the Australian right",
+    "titleZh": "為澳洲右翼的靈魂而戰",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+    "image": null,
+    "pushedAt": "2026-11-02T17:52:30.806Z"
   }
 ]
