@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/microsoft-turns-to-bond-market-as-ai-spending-grows-video",
-    "title": "Microsoft Turns to Bond Market as AI Spending Grows",
-    "titleZh": "隨著人工智慧支出的成長，微軟轉向債券市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/microsoft-turns-to-bond-market-as-ai-spending-grows-video",
-    "image": null,
-    "pushedAt": "2026-10-29T19:55:47.527Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/google-erases-a-record-500b-as-ai-eats-into-sales-video",
-    "title": "Google Erases a Record $500 Billion as AI Eats Into Sales",
-    "titleZh": "人工智慧侵蝕谷歌銷售額 5000 億美元創歷史新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/google-erases-a-record-500b-as-ai-eats-into-sales-video",
-    "image": null,
-    "pushedAt": "2026-10-29T19:55:49.478Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/caterpillar-s-earnings-beat-fails-to-soothe-ai-jitters-video",
-    "title": "Caterpillar Plunges As Earnings Beat Fails To Soothe AI Jitters",
-    "titleZh": "卡特彼勒股價暴跌，獲利改善未能緩解人工智慧市場的不安",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/caterpillar-s-earnings-beat-fails-to-soothe-ai-jitters-video",
-    "image": null,
-    "pushedAt": "2026-10-29T19:55:51.434Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value",
     "title": "Canada, Nvidia Back Cohere at Over $20 Billion Valuation",
     "titleZh": "加拿大、Nvidia 以超過 200 億美元的估值重新回歸 Cohere",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
     "image": null,
     "pushedAt": "2026-11-02T07:28:44.526Z"
+  },
+  {
+    "id": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362",
+    "title": "Alstom cuts profit and cash forecast as orders held up",
+    "titleZh": "由於訂單增加，阿爾斯通下調利潤和現金預測",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T07:30:49.238Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812",
+    "title": "China’s soaring chemical exports threaten new trade war front",
+    "titleZh": "中國化學品出口激增威脅新的貿易戰線",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T07:30:53.828Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17",
+    "title": "Unpicking Microsoft’s free cash flow",
+    "titleZh": "剖析微軟的自由現金流",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T07:30:57.829Z"
   }
 ]
