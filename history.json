@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/accidente-ferroviario-eleva-presion-electoral-en-espana-video",
-    "title": "Accidente ferroviario eleva la presión electoral en España",
-    "titleZh": "西班牙選舉發生鐵水事故",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/accidente-ferroviario-eleva-presion-electoral-en-espana-video",
-    "image": null,
-    "pushedAt": "2026-10-29T19:55:25.909Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
     "title": "Polymarket Investigates Suspicious Trades on Israel Election",
     "titleZh": "Polymarket 調查以色列選舉中的可疑交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/how-poland-s-central-bank-is-caught-in-political-standoff-with-pm-donald-tusk",
     "image": null,
     "pushedAt": "2026-11-02T06:30:42.870Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-s-hackers-supercharge-crypto-heists-with-ai-skills",
+    "title": "North Korea’s Hackers Supercharge Crypto Heists With AI Skills",
+    "titleZh": "北韓駭客利用人工智慧技術加強加密貨幣搶劫",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-s-hackers-supercharge-crypto-heists-with-ai-skills",
+    "image": null,
+    "pushedAt": "2026-11-02T06:31:58.963Z"
   }
 ]
