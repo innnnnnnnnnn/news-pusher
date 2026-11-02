@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
-    "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
-    "titleZh": "在人類首次公開募股中，高盛和摩根士丹利爭奪頂級銀行",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-banks-goldman-vgzb/26biz-anthropic-banks-goldman-vgzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:29:18.777Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
     "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
     "titleZh": "預計聯準會將維持利率穩定。沃什必須解釋原因。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
     "image": null,
     "pushedAt": "2026-11-02T00:12:37.574Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine",
+    "title": "Philippine Bonds Can Beat Asia If War Risks Ebb, Says Brandywine",
+    "titleZh": "布蘭迪萬表示，如果戰爭風險消退，菲律賓債券可以擊敗亞洲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine",
+    "image": null,
+    "pushedAt": "2026-11-02T00:16:44.063Z"
   }
 ]
