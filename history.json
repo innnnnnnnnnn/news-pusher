@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-    "titleZh": "亞洲股市承壓，避險買盤提振債券：市場總結",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "image": null,
-    "pushedAt": "2026-10-31T23:22:52.904Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
     "title": "Patrick Stewart Brought Elegance To ‘Star Trek’ as Jean-Luc Picard",
     "titleZh": "派崔克史都華 (Patrick Stewart) 飾演讓-呂克·皮卡德 (Jean-Luc Picard)，為《星際爭霸戰》帶來優雅氣質",
@@ -6796,12 +6787,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-    "title": "US Stock Futures Rise as Oil Slump Buoys Sentiment: Markets Wrap",
+    "title": "US Stock Futures Rise as Oil Drop Buoys Sentiment: Markets Wrap",
     "titleZh": "科技潰敗加劇人工智慧擔憂，亞洲股市下跌：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-02T11:36:40.836Z"
+    "pushedAt": "2026-11-02T13:51:05.897Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/uk-spent-record-561-million-to-balance-power-grid-in-october",
     "image": null,
     "pushedAt": "2026-11-02T13:50:37.137Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+    "titleZh": "伊朗表示將在兩天內重新開放霍爾木茲海峽，作為美國協議的一部分",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T13:51:32.071Z"
   }
 ]
