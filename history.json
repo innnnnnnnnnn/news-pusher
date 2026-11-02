@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
-    "title": "Odd Lots: What Wall Street Really Thinks About the AI Trade Now",
-    "titleZh": "奇怪的事情：華爾街現在對人工智慧產業的真實看法",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
-    "image": null,
-    "pushedAt": "2026-10-30T08:40:27.891Z"
-  },
-  {
     "id": "https://www.ft.com/content/dfebee73-142f-46d5-95a6-0e895c0ae551",
     "title": "Evonik rejects BASF’s sweetened €11bn takeover bid",
     "titleZh": "贏創將拒絕巴斯夫 110 億歐元的高額收購要約",
@@ -987,7 +978,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-skorea-game-clkj/30int-skorea-game-clkj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T13:32:53.743Z"
+    "pushedAt": "2026-11-02T16:05:40.239Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-10-30/bp-earnings-profits-jump-as-refining-margins-surge",
@@ -4758,7 +4749,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/yyljyn7d3?ref=rss",
     "image": "https://cdn.flipso.com/p/yyljyn7d3_square.jpg",
-    "pushedAt": "2026-11-02T13:33:17.446Z"
+    "pushedAt": "2026-11-02T16:06:06.869Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
@@ -5082,7 +5073,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/650ac00d-1bb0-439e-aaee-1d43061b27a0",
     "image": null,
-    "pushedAt": "2026-11-02T13:33:41.752Z"
+    "pushedAt": "2026-11-02T16:06:33.239Z"
   },
   {
     "id": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/lachlan-murdoch-blames-fox-news-ratings-dip-on-viewer-fatigue",
     "image": null,
     "pushedAt": "2026-11-02T16:02:58.767Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charged-midterms.html",
+    "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
+    "titleZh": "法官駁回對前聯邦調查局 (FBI) 的指控官員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charged-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/us/02dc-fbi/02dc-fbi-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T16:07:00.686Z"
   }
 ]
