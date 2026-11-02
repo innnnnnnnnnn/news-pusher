@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/audio/2026-10-30/odd-lots-what-cybersecurity-means-in-the-age-of-ai-podcast",
-    "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
-    "titleZh": "奇怪的事情：人工智慧時代的網路安全意味著什麼（播客）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/audio/2026-10-30/odd-lots-what-cybersecurity-means-in-the-age-of-ai-podcast",
-    "image": null,
-    "pushedAt": "2026-10-30T08:00:38.607Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/php2shell-won-t-be-the-last-big-ai-cybersecurity-risk",
     "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
     "titleZh": "PHP2Shell 不會是最後一個重大人工智慧網路安全風險",
@@ -222,7 +213,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-02T20:01:31.109Z"
+    "pushedAt": "2026-11-02T22:34:05.354Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
@@ -7475,8 +7466,8 @@
     "titleZh": "Marvell 斥資 1,150 億美元收購資料中心組件製造商 Lumentum",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4e70694-38b4-45f0-9448-b112c292e58c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-02T20:01:04.989Z"
+    "image": null,
+    "pushedAt": "2026-11-02T22:33:39.526Z"
   },
   {
     "id": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525",
@@ -8277,7 +8268,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T20:01:56.709Z"
+    "pushedAt": "2026-11-02T22:34:32.765Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trump-election-top-kczt/02dc-trump-election-top-kczt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T22:33:10.744Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "title": "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap",
+    "titleZh": "納斯達克下滑令亞洲開盤陰雲密布，伊朗油價下跌：市場休整",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "image": null,
+    "pushedAt": "2026-11-02T22:35:02.307Z"
   }
 ]
