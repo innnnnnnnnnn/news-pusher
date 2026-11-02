@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4",
-    "title": "Israel’s ‘Houdini’ and his latest escape",
-    "titleZh": "以色列的「胡迪尼」和他最近的越獄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a1a6122-d353-46c2-a212-d2c18c1ce85d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-29T23:33:06.915Z"
-  },
-  {
     "id": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d",
     "title": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
     "titleZh": "新澤西州州長威脅阻止俄羅斯柴油貨物的運輸",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/281690fe-ac0c-43f1-9a36-a3e6b5ee175d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T01:47:27.574Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth",
+    "title": "China Factory Activity Expands But Ends Streak of Faster Growth",
+    "titleZh": "中國工廠活動擴大但結束了快速成長勢頭",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth",
+    "image": null,
+    "pushedAt": "2026-11-02T02:00:48.290Z"
   }
 ]
