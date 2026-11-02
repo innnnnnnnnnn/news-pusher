@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround",
-    "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
-    "titleZh": "煉油利潤飆升 BP 利潤創 18 年新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround",
-    "image": null,
-    "pushedAt": "2026-10-30T18:07:33.382Z"
-  },
-  {
     "id": "https://flipso.com/p/9r7b5isbh",
     "title": "Should a medical diagnosis reshape the past?",
     "titleZh": "醫學診斷是否應該重塑過去？",
@@ -8290,12 +8281,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-    "title": "Accused of Voter Fraud, They Ended Up in Shackles",
+    "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
     "titleZh": "被指控選民欺詐，他們最終戴上了鐐銬",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-noncitizen-voters-qchj/01nat-noncitizen-voters-qchj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T19:48:18.602Z"
+    "pushedAt": "2026-11-02T22:17:19.619Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T22:03:17.872Z"
+  },
+  {
+    "id": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103",
+    "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
+    "titleZh": "FirstFT：英國《金融時報》民調顯示，絕大多數美國選民不贊成川普對通膨的處理方式",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T22:17:47.194Z"
   }
 ]
