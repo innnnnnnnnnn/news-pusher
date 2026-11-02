@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e464d3da-dad9-4fa3-b99f-1b89fdd1e2a4",
-    "title": "BoE to kick off short and precautionary tightening cycle in November",
-    "titleZh": "英國央行將於 11 月啟動短期預防性緊縮週期",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e464d3da-dad9-4fa3-b99f-1b89fdd1e2a4",
-    "image": null,
-    "pushedAt": "2026-10-30T04:04:06.239Z"
-  },
-  {
     "id": "https://www.ft.com/content/a7de51d1-f4bc-4e52-af3b-3d52459126bf",
     "title": "Should monetarism stage a comeback?",
     "titleZh": "貨幣主義應該捲土重來嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/citi-cuts-lithium-forecasts-on-worsening-battery-demand-outlook",
     "image": null,
     "pushedAt": "2026-11-02T04:08:46.546Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb",
+    "title": "Tokyo, Chubu Power Price Hit Multi-Year High as Fuel Costs Climb",
+    "titleZh": "隨著燃料成本攀升，東京和中部電價創下多年新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb",
+    "image": null,
+    "pushedAt": "2026-11-02T04:12:26.324Z"
   }
 ]
