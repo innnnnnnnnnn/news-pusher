@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d",
-    "title": "Alphabet shares tumble in $500bn rout",
-    "titleZh": "Alphabet 股價暴跌 5000 億美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T03:45:13.096Z"
-  },
-  {
-    "id": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e",
-    "title": "US tech stocks fall after earnings fuel AI spending concerns",
-    "titleZh": "財報引發人工智慧支出擔憂後，美國科技股下跌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T03:45:36.508Z"
-  },
-  {
     "id": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab",
     "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
     "titleZh": "美國第三季經濟成長超預期 3.4%",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2026-10-26-battleground-states-index/2026-10-26-battleground-states-index-mediumSquareAt3X-v7.png",
     "pushedAt": "2026-11-02T01:12:15.680Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
+    "title": "Japan’s Katayama Says Ready to Take Steps for Stable FX Market",
+    "titleZh": "日本片山表示準備採取措施穩定外匯市場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
+    "image": null,
+    "pushedAt": "2026-11-02T01:16:48.049Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+    "title": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+    "titleZh": "人工智慧潰敗，外國人從台股撤資創歷史新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+    "image": null,
+    "pushedAt": "2026-11-02T01:16:52.948Z"
   }
 ]
