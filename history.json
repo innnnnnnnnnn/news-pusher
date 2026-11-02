@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
-    "title": "JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens",
-    "titleZh": "摩根大通資產預計隨著全球推動的深入，人民幣將上漲 10%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
-    "image": null,
-    "pushedAt": "2026-10-30T02:02:00.422Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
     "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
     "titleZh": "谷歌 5000 億美元的血洗反映了它面臨的人工智慧危險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-factory-activity-picks-up-production-grows-most-since-2021",
     "image": null,
     "pushedAt": "2026-11-02T15:11:09.445Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
+    "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
+    "titleZh": "Polymarket 正在調查對以色列選舉的可疑押注",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T15:11:37.727Z"
   }
 ]
