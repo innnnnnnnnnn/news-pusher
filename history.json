@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9ae4ef59-dec4-4f2f-b4dd-bd5b55501e26",
-    "title": "Burnham demands answers over demise of Poundland",
-    "titleZh": "伯納姆要求對龐德蘭的消亡做出答复",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9ae4ef59-dec4-4f2f-b4dd-bd5b55501e26?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85535afe-4288-4b15-88a8-dff6d15834e5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T03:52:54.777Z"
-  },
-  {
     "id": "https://www.ft.com/content/c7c8c7b4-eab7-4ffc-a6bf-f4f79358aa00",
     "title": "ECB holds rates as Lagarde announces early departure",
     "titleZh": "拉加德宣布提前退出，歐洲央行維持利率",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers",
     "image": null,
     "pushedAt": "2026-11-02T02:26:12.044Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
+    "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+    "titleZh": "全球人工智慧拋售、小型股的痛苦推動投資人轉向印度大盤股",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
+    "image": null,
+    "pushedAt": "2026-11-02T02:32:43.437Z"
   }
 ]
