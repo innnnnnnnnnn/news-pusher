@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
-    "title": "Tokenization Gives Illiquid Funds a 24/7 Trading Twist",
-    "titleZh": "代幣化為非流動資金提供了 24/7 全天候交易模式",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
-    "image": null,
-    "pushedAt": "2026-10-29T21:57:33.177Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
-    "title": "Venezuela’s Rodríguez Vows to Hold Election; Machado Asks When",
-    "titleZh": "委內瑞拉羅德里格斯誓言舉行選舉；馬查多詢問何時",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
-    "image": null,
-    "pushedAt": "2026-10-29T19:54:47.380Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
     "title": "Oil Wavers on Conflicting Reports of US Military Moves in Iran",
     "titleZh": "交易員權衡伊朗試探性外交跡象，油價下跌",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T05:09:35.418Z"
+  },
+  {
+    "id": "https://ig.ft.com/ai-safety/",
+    "title": "The race to keep AI under control",
+    "titleZh": "控制人工智慧的競賽",
+    "source": "金融時報 Financial Times",
+    "url": "https://ig.ft.com/ai-safety/?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85941b6a-2ad0-459f-bb33-912d0e13e877.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-02T05:10:05.360Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3",
+    "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
+    "titleZh": "納斯達克遭遇一年多來最糟糕的一個月後，全球人工智慧拋售有所緩解",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F343cb2f0-bf6e-4894-bfbe-d1842b833b4d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-02T05:10:11.095Z"
   }
 ]
