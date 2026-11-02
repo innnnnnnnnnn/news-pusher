@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2",
-    "title": "Has Australia’s push for lower house prices gone too far?",
-    "titleZh": "澳洲推動房價下跌是否太過分了？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T07:18:19.457Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
     "title": "Dollar’s Rate-Fueled Gain Seen Surviving US Midterm Gridlock",
     "titleZh": "美元在利率推動下上漲將擺脫美國中期僵局",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T15:41:44.219Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video",
+    "title": "Marvell to Buy Lumentum in $115 Billion Deal",
+    "titleZh": "Marvell 以 1,150 億美元收購 Lumentum",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video",
+    "image": null,
+    "pushedAt": "2026-11-02T15:42:15.763Z"
   }
 ]
