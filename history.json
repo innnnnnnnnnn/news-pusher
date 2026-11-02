@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d",
-    "title": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
-    "titleZh": "新澤西州州長威脅阻止俄羅斯柴油貨物的運輸",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T03:52:07.500Z"
-  },
-  {
     "id": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb",
     "title": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
     "titleZh": "德魯肯米勒支持將高風險的永續期貨引入華爾街",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth",
     "image": null,
     "pushedAt": "2026-11-02T02:00:48.290Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
+    "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+    "titleZh": "密西根州阿卜杜勒賽義德海莉史蒂文斯崩潰的內部",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-michigan-tick-tock-kgtf/02pol-michigan-tick-tock-kgtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T02:07:19.496Z"
   }
 ]
