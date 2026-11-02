@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-10-30/india-s-small-investors-dump-stocks-chase-new-listings",
-    "title": "India’s Small Investors Dump Stocks, Chase New Listings",
-    "titleZh": "印度的小投資者拋售股票，追逐新上市股票",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/india-s-small-investors-dump-stocks-chase-new-listings",
-    "image": null,
-    "pushedAt": "2026-10-30T04:44:41.669Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk",
-    "title": "Chinese Conglomerate Huafa Faces Risk of Downgrade by Fitch",
-    "titleZh": "珠海華發再融資風險被惠譽評等負面觀察",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk",
-    "image": null,
-    "pushedAt": "2026-10-30T04:59:58.847Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/prabowo-s-own-brother-sounds-alarm-over-indonesian-stock-market",
-    "title": "Prabowo’s Brother Sounds Alarm Over Indonesian Stock Market",
-    "titleZh": "普拉博沃的兄弟對印尼股市發出警報",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/prabowo-s-own-brother-sounds-alarm-over-indonesian-stock-market",
-    "image": null,
-    "pushedAt": "2026-10-30T05:03:38.903Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-exports-rise-at-fastest-in-five-years-on-weak-peso-ai-boom",
     "title": "Philippine Exports Rise at Fastest in Five Years on Weak Peso, AI Boom",
     "titleZh": "菲律賓出口因比索疲軟和人工智慧繁榮而成長五年來最快",
@@ -4740,7 +4713,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31xp-drinks/31xp-drinks-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T14:27:24.297Z"
+    "pushedAt": "2026-11-02T16:56:29.580Z"
   },
   {
     "id": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T16:56:01.371Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
+    "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
+    "titleZh": "串流媒體時代為我們帶來了精彩的電視節目，但它是有代價的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
+    "image": null,
+    "pushedAt": "2026-11-02T16:56:56.344Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
+    "title": "How Much Do You Pay for TV Streaming Services? We Want to Know.",
+    "titleZh": "您為電視串流服務支付多少錢？我們想知道。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02cul-streaming-callout-kvlq/02cul-streaming-callout-kvlq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T16:57:01.706Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/nyregion/forager-robin-greenfield.html",
+    "title": "Robin Greenfield Wants to Be One With Nature. But He Can’t Quit Instagram.",
+    "titleZh": "羅賓·格林菲爾德想要與大自然融為一體。但他無法退出 Instagram。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/nyregion/forager-robin-greenfield.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-forager-nyc-top-01-vqkw/02met-forager-nyc-top-01-vqkw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T16:57:06.806Z"
   }
 ]
