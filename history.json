@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe",
-    "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
-    "titleZh": "奧迪下調了對中國經濟衰退和歐洲競爭的展望",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe",
-    "image": null,
-    "pushedAt": "2026-10-30T08:18:44.684Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-posts-longest-run-of-double-digit-gdp-growth-since-1987",
-    "title": "AI Darling Taiwan Extends Economic Growth Run Unseen Since 1987",
-    "titleZh": "AI寵兒台灣井噴成長延續1987年以來未曾見過的勢頭",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-posts-longest-run-of-double-digit-gdp-growth-since-1987",
-    "image": null,
-    "pushedAt": "2026-10-30T10:51:20.208Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
     "title": "Bleak Friday Looms for Stocks: Market Analysis",
     "titleZh": "股市慘淡的周五即將到來：市場分析",
@@ -1203,7 +1185,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T20:23:37.387Z"
+    "pushedAt": "2026-11-02T22:57:46.469Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
@@ -2031,7 +2013,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T20:24:29.236Z"
+    "pushedAt": "2026-11-02T22:58:38.606Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
@@ -3633,7 +3615,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00hfo-wsj-defamation-1-zklh/00hfo-wsj-defamation-1-zklh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T20:24:03.247Z"
+    "pushedAt": "2026-11-02T22:58:13.329Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T22:53:52.084Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f",
+    "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+    "titleZh": "「一大片泳池」：川普在中期選舉最後推動中談到藻類和草",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd5d82647-988d-40d6-8b0e-396918c8a746.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-02T22:59:07.647Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67",
+    "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+    "titleZh": "OpenAI 聘請前美國陸軍部長，軍方尋求擴大人工智慧的使用",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T22:59:13.406Z"
   }
 ]
