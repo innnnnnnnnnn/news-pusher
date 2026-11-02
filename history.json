@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075",
-    "title": "Airbus profits drop as plane deliveries slow",
-    "titleZh": "由於飛機交付放緩，空中巴士利潤下降",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T16:00:07.074Z"
-  },
-  {
-    "id": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da",
-    "title": "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
-    "titleZh": "聯準會決定：儘管美國通膨惡化，央行仍維持利率穩定",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T13:31:05.598Z"
-  },
-  {
     "id": "https://www.ft.com/content/2b5adffc-90e9-4355-bd07-037a2144a6a3",
     "title": "Budget calculator: how will Healey’s forecasts affect the tax you pay?",
     "titleZh": "預算計算器：希利的預測將如何影響您所繳納的稅金？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
     "image": null,
     "pushedAt": "2026-11-02T03:58:40.790Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
+    "title": "Emerging-Market FX Slips as Traders Await Iran Progress, US Data",
+    "titleZh": "由於交易者等待伊朗進展和美國數據，新興市場匯率下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
+    "image": null,
+    "pushedAt": "2026-11-02T04:00:21.610Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/coal-india-unit-south-eastern-coalfields-files-for-india-ipo-mvypw49t",
+    "title": "Coal India Unit South Eastern Coalfields Files for India IPO",
+    "titleZh": "印度煤炭公司東南煤田申請印度首次公開募股",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/coal-india-unit-south-eastern-coalfields-files-for-india-ipo-mvypw49t",
+    "image": null,
+    "pushedAt": "2026-11-02T04:00:24.693Z"
   }
 ]
