@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/rbnz-likely-to-raise-key-rate-at-next-two-meetings-survey-shows",
-    "title": "RBNZ Likely to Raise Key Rate at Next Two Meetings, Survey Shows",
-    "titleZh": "調查顯示紐西蘭聯邦儲備銀行可能在接下來的兩次會議上提高關鍵利率",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/rbnz-likely-to-raise-key-rate-at-next-two-meetings-survey-shows",
-    "image": null,
-    "pushedAt": "2026-10-30T08:33:35.652Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
-    "title": "Taiwan Stocks Near Correction as Global AI Selloff Deepens",
-    "titleZh": "全球人工智慧拋售加劇，台灣股市走向修正",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
-    "image": null,
-    "pushedAt": "2026-10-30T09:35:13.355Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/envision-to-complete-massive-inner-mongolia-data-center-by-2028",
     "title": "Envision to Complete Massive Inner Mongolia Data Center by 2028",
     "titleZh": "願景到2028年建成大型內蒙古資料中心",
@@ -978,7 +960,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/travel/via-transilvanica-romania-hike.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30trav-hiking-transylvania-khzb/30trav-hiking-transylvania-khzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T14:51:23.378Z"
+    "pushedAt": "2026-11-02T17:21:45.157Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T17:21:15.910Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
+    "title": "Accused of Voter Fraud, They Ended Up in Shackles",
+    "titleZh": "被指控選民欺詐，他們最終戴上了鐐銬",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-noncitizen-voters-qchj/01nat-noncitizen-voters-qchj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T17:22:12.310Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+    "title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+    "titleZh": "川普政府要求最高法院幹預加州選票案",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-scotus-california-pglk/02dc-scotus-california-pglk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T17:22:15.252Z"
   }
 ]
