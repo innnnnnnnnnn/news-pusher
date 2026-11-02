@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
-    "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
-    "titleZh": "Polymarket 正在調查對以色列選舉的可疑押注",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T14:44:28.641Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-    "title": "Gold Poised for Worst October Since 2008 as AI Stock Rout Grows",
-    "titleZh": "通膨令升息押注堅定，金價穩定在 4,000 美元附近",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-    "image": null,
-    "pushedAt": "2026-10-30T21:36:10.728Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
     "title": "JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens",
     "titleZh": "摩根大通資產預計隨著全球推動的深入，人民幣將上漲 10%",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T15:10:37.009Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+    "title": "Newly Freed American Describes His Years in Russian Prison",
+    "titleZh": "剛獲釋的美國人講述了他在俄羅斯監獄的歲月",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+    "image": "https://static01.nyt.com/images/2026/11/29/multimedia/29int-ukraine-hubbard-sub-pclb/29int-ukraine-hubbard-sub-pclb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T15:11:05.678Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/us-factory-activity-picks-up-production-grows-most-since-2021",
+    "title": "US Factory Activity Picks Up, Production Grows Most Since 2021",
+    "titleZh": "美國工廠活動回升，產量創 2021 年以來最大增幅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-factory-activity-picks-up-production-grows-most-since-2021",
+    "image": null,
+    "pushedAt": "2026-11-02T15:11:09.445Z"
   }
 ]
