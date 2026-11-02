@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
-    "title": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
-    "titleZh": "川普取消本週末在堪薩斯州和愛荷華州的集會",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29midterms-rally-cancelled-qvhg/29midterms-rally-cancelled-qvhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T09:27:22.561Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/arts/television/seth-meyers-obama-trump-comedy.html",
     "title": "Seth Meyers Cheers ‘Stand-Up Obama’ for Riling Republicans",
     "titleZh": "賽斯·邁耶斯為激怒共和黨人的“站起來的奧巴馬”歡呼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/isomorphic-labs-president-says-ai-will-design-all-drugs-one-day",
     "image": null,
     "pushedAt": "2026-11-02T21:44:44.418Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f",
+    "title": "French economy shrinks 0.1% in third quarter",
+    "titleZh": "法國經濟第三季萎縮0.1%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T21:45:14.402Z"
   }
 ]
