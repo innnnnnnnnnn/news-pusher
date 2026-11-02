@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-    "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
-    "titleZh": "為什麼邁阿密是拉丁美洲政治流亡者的目的地",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T16:53:12.709Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
     "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
     "titleZh": "《星際爭霸戰：下一代》中的皮卡德船長派崔克·史都華去世",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors",
     "image": null,
     "pushedAt": "2026-11-02T05:08:37.449Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
+    "title": "Taiwan Said to Ease Exporter FX Rule After Record Stocks Exodus",
+    "titleZh": "台灣據稱在創紀錄的股票外流後放寬出口商外匯規則",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
+    "image": null,
+    "pushedAt": "2026-11-02T05:09:06.930Z"
   }
 ]
