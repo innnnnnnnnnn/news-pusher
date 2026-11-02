@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d",
-    "title": "Polymarket’s Swiss Tony returns",
-    "titleZh": "Polymarket 的瑞士東尼回歸",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-29T18:54:59.118Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
     "title": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
     "titleZh": "塔倫‧西蒙 (Taryn Simon) 在古根漢的《父國我愛你》中充滿了證據",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/nse-shares-win-wall-street-backing-after-muted-trading-debut",
     "image": null,
     "pushedAt": "2026-11-02T05:06:40.592Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/the-bank-of-england-ponders-a-new-normal-for-interest-rates",
+    "title": "The Bank of England Ponders a New Normal for Interest Rates",
+    "titleZh": "英國央行思考利率新常態",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/the-bank-of-england-ponders-a-new-normal-for-interest-rates",
+    "image": null,
+    "pushedAt": "2026-11-02T05:07:09.835Z"
   }
 ]
