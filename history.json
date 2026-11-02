@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574",
-    "title": "Hello Kitty gets caught up in Japan-China spat",
-    "titleZh": "Hello Kitty 捲入日中爭端",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T05:48:04.383Z"
-  },
-  {
     "id": "https://www.ft.com/content/a3d8efb2-6553-46d6-af48-7886b1a14fa3",
     "title": "What has caused the bad economic vibes, and does it actually matter?",
     "titleZh": "是什麼造成了糟糕的經濟氛圍，這真的很重要嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
     "image": null,
     "pushedAt": "2026-11-02T03:18:12.549Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/weak-china-pmis-spark-fresh-stimulus-bets-video",
+    "title": "Weak China PMIs Spark Fresh Stimulus Bets",
+    "titleZh": "中國疲軟的採購經理人指數引發新的刺激押注",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/weak-china-pmis-spark-fresh-stimulus-bets-video",
+    "image": null,
+    "pushedAt": "2026-11-02T03:30:34.747Z"
   }
 ]
