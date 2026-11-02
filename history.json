@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51",
-    "title": "How Flávio Bolsonaro fled Brazil",
-    "titleZh": "Flávio Bolsonaro如何逃離巴西",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T03:47:01.132Z"
-  },
-  {
     "id": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f",
     "title": "Two fears will decide the fate of Anthropic’s giant IPO",
     "titleZh": "兩種擔憂將決定 Anthropic 大型 IPO 的命運",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01up-talarico2-jbpq/01up-talarico2-jbpq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T01:17:23.262Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html",
+    "title": "The New York City Marathon in Photos and Videos",
+    "titleZh": "照片和影片中的紐約市馬拉松",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01met-marathon-visuals-promo-gvtk/01met-marathon-visuals-promo-gvtk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T01:27:32.438Z"
   }
 ]
