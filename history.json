@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/britain-tests-the-limits-with-plan-to-tax-its-way-out-of-debt",
-    "title": "Britain’s Plan to Tax Its Way Out of Debt Tests the Limits",
-    "titleZh": "英國透過徵稅擺脫債務的計畫測試極限",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/britain-tests-the-limits-with-plan-to-tax-its-way-out-of-debt",
-    "image": null,
-    "pushedAt": "2026-10-30T09:51:10.678Z"
-  },
-  {
     "id": "https://www.ft.com/content/b9e465c5-acab-4165-a17a-310e748fd641",
     "title": "The last days of Weil",
     "titleZh": "韋爾的最後日子",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
     "image": null,
     "pushedAt": "2026-11-02T18:10:49.863Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+    "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
+    "titleZh": "路易斯安那州正在消失的克里奧爾語的最古老錄音出版",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T18:11:19.377Z"
   }
 ]
