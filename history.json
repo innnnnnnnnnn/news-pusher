@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
-    "title": "U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.",
-    "titleZh": "美國養老金正依賴人工智慧海浪。無論好壞。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
-    "image": "https://static01.nyt.com/images/2026/10/17/business/00ai-pensions/00ai-pensions-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T03:44:49.965Z"
-  },
-  {
     "id": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d",
     "title": "Alphabet shares tumble in $500bn rout",
     "titleZh": "Alphabet 股價暴跌 5000 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/dbgtlr357?ref=rss",
     "image": "https://cdn.flipso.com/p/dbgtlr357_square.jpg",
     "pushedAt": "2026-11-02T01:02:32.518Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+    "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+    "titleZh": "新民調顯示，民主黨在參議院競選的最後幾天顯示出實力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2026-10-26-battleground-states-index/2026-10-26-battleground-states-index-mediumSquareAt3X-v7.png",
+    "pushedAt": "2026-11-02T01:12:15.680Z"
   }
 ]
