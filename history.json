@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/sdmnuspqx",
-    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-    "titleZh": "俄勒岡州警方因一名警察的記錄向當地新聞媒體收取 250 萬美元的費用",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/sdmnuspqx?ref=rss",
-    "image": "https://cdn.flipso.com/p/sdmnuspqx_square.jpg",
-    "pushedAt": "2026-10-30T05:24:18.534Z"
-  },
-  {
-    "id": "https://flipso.com/p/f27bx76yr",
-    "title": "How Japanese Dried Bonito Is Made",
-    "titleZh": "日本鰹魚乾的製作方法",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/f27bx76yr?ref=rss",
-    "image": "https://cdn.flipso.com/p/f27bx76yr_square.jpg",
-    "pushedAt": "2026-10-30T00:54:14.808Z"
-  },
-  {
     "id": "https://flipso.com/p/syxh6jl9d",
     "title": "AI and the Fall of the Creative Class",
     "titleZh": "人工智慧與創意階層的沒落",
@@ -3237,7 +3219,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T08:16:46.900Z"
+    "pushedAt": "2026-11-02T10:44:59.092Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
@@ -3714,7 +3696,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
     "image": null,
-    "pushedAt": "2026-11-02T08:18:01.302Z"
+    "pushedAt": "2026-11-02T10:46:11.333Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
@@ -4065,7 +4047,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T08:17:36.662Z"
+    "pushedAt": "2026-11-02T10:45:46.472Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
@@ -5667,7 +5649,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00hfo-wsj-defamation-1-zklh/00hfo-wsj-defamation-1-zklh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T08:17:10.790Z"
+    "pushedAt": "2026-11-02T10:45:22.604Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/indian-bonds-rally-as-oil-falls-higher-yields-attract-buyers",
     "image": null,
     "pushedAt": "2026-11-02T10:40:26.190Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/currie-sees-permanent-regime-shift-in-oil-market-video",
+    "title": "Currie Sees Permanent 'Regime Shift' in Oil Market (Video)",
+    "titleZh": "柯里認為石油市場將發生永久性的「政權轉變」（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/currie-sees-permanent-regime-shift-in-oil-market-video",
+    "image": null,
+    "pushedAt": "2026-11-02T10:46:36.248Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
+    "title": "Niger Gets First Algerian Fuel Shipment, Escorted by Troops",
+    "titleZh": "尼日爾在軍隊護送下獲得第一批阿爾及利亞燃料",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
+    "image": null,
+    "pushedAt": "2026-11-02T10:46:41.335Z"
   }
 ]
