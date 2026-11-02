@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab",
-    "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-    "titleZh": "美國第三季經濟成長超預期 3.4%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T03:46:00.222Z"
-  },
-  {
     "id": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51",
     "title": "How Flávio Bolsonaro fled Brazil",
     "titleZh": "Flávio Bolsonaro如何逃離巴西",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
     "image": null,
     "pushedAt": "2026-11-02T01:16:52.948Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+    "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+    "titleZh": "最終民調顯示藍色激增。我們可以相信他們嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01up-talarico2-jbpq/01up-talarico2-jbpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T01:17:23.262Z"
   }
 ]
