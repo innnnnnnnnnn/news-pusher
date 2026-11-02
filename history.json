@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
-    "title": "Fed holds interest rates as expected and upgrades view on economy",
-    "titleZh": "聯準會如預期維持利率不變並升級對經濟的看法",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
-    "image": null,
-    "pushedAt": "2026-10-30T15:59:39.626Z"
-  },
-  {
     "id": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075",
     "title": "Airbus profits drop as plane deliveries slow",
     "titleZh": "由於飛機交付放緩，空中巴士利潤下降",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video",
     "image": null,
     "pushedAt": "2026-11-02T03:54:13.623Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
+    "title": "Indonesia Court Voids VP’s High-School Equivalency Certificate",
+    "titleZh": "印尼法院撤銷副總裁的高中同等學歷證書",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
+    "image": null,
+    "pushedAt": "2026-11-02T03:58:40.790Z"
   }
 ]
