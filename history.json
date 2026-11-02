@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45",
-    "title": "BP’s profits surge to record on high fuel prices",
-    "titleZh": "燃油價格高企，英國石油公司利潤飆漲創紀錄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T14:32:10.271Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround",
     "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
     "titleZh": "煉油利潤飆升 BP 利潤創 18 年新高",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/leaked-file-put-lenders-in-bind-before-acrisure-s-earnings-win",
     "image": null,
     "pushedAt": "2026-11-02T22:02:45.317Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
+    "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
+    "titleZh": "在中期選舉前夕，2020 年的遺產在司法部中顯得特別突出。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T22:03:17.872Z"
   }
 ]
