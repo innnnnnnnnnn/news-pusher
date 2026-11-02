@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/meta-pressed-by-democrats-to-address-concerns-over-ai-glasses",
-    "title": "Meta Pressed by Democrats to Address Concerns Over AI Glasses",
-    "titleZh": "民主黨人敦促 Meta 解決對人工智慧眼鏡的擔憂",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/meta-pressed-by-democrats-to-address-concerns-over-ai-glasses",
-    "image": null,
-    "pushedAt": "2026-10-29T19:55:41.644Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/bloomberg-tech-10-29-2026-video",
     "title": "Google Sales Miss Reignites AI Fears, Microsoft Eyes $25B Debt Offering",
     "titleZh": "Google銷售小姐重燃人工智慧恐懼，微軟考慮發行 250 億美元債券",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/uae-oil-boss-calls-for-more-stockpiles-refining-closer-to-users",
     "image": null,
     "pushedAt": "2026-11-02T07:08:32.278Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/traders-brace-for-treasury-sales-overhaul-video",
+    "title": "Traders Brace for Treasury Sales Overhaul (Video)",
+    "titleZh": "交易員為國債銷售改革做好準備（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/traders-brace-for-treasury-sales-overhaul-video",
+    "image": null,
+    "pushedAt": "2026-11-02T07:10:32.872Z"
   }
 ]
