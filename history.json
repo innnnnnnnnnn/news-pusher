@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/opinion/california-wealth-tax-billionaires.html",
-    "title": "California Is Voting on the Wrong Wealth Tax",
-    "titleZh": "加州對錯誤的財富稅進行了投票",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/opinion/california-wealth-tax-billionaires.html",
-    "image": null,
-    "pushedAt": "2026-10-29T22:51:52.471Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
     "title": "Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand",
     "titleZh": "蘋果 iPhone 製造商有信心滿足 Duo 需求激增的需求",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-earnings-on-deck-after-1-trillion-rally-preview-video",
     "image": null,
     "pushedAt": "2026-11-02T14:14:41.040Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/greek-stocks-to-suffer-outflows-on-msci-upgrade-jpmorgan-says",
+    "title": "Greek Stocks to Suffer Outflows on MSCI Upgrade, JPMorgan Says",
+    "titleZh": "摩根大通表示，摩根士丹利資本國際 (MSCI) 上調希臘股市將遭受資金外流",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/greek-stocks-to-suffer-outflows-on-msci-upgrade-jpmorgan-says",
+    "image": null,
+    "pushedAt": "2026-11-02T14:33:07.207Z"
   }
 ]
