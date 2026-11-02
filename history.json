@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
-    "title": "Polymarket Investigates Suspicious Trades on Israel Election",
-    "titleZh": "Polymarket 調查以色列選舉中的可疑交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
-    "image": null,
-    "pushedAt": "2026-10-29T21:59:42.537Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-halts-trading-after-reports-of-customers-losing-money",
-    "title": "Polymarket Trading Halted After Reports of Stolen Funds",
-    "titleZh": "資金被盜報告後 Polymarket 交易暫停",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-halts-trading-after-reports-of-customers-losing-money",
-    "image": null,
-    "pushedAt": "2026-10-30T00:28:34.945Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-cyberattack-surge-tests-its-push-to-strengthen-defenses",
     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
     "titleZh": "日本的網路攻擊激增考驗其加強防禦的努力",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-s-hackers-supercharge-crypto-heists-with-ai-skills",
     "image": null,
     "pushedAt": "2026-11-02T06:31:58.963Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo",
+    "title": "Anthropic Seeks Up to $3.5 Billion in Japan for Its Mega US IPO",
+    "titleZh": "Anthropic 在日本尋求高達 35 億美元的大型美國 IPO",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo",
+    "image": null,
+    "pushedAt": "2026-11-02T06:40:41.155Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/japan-extends-transition-bond-push-despite-fossil-fuel-reliance",
+    "title": "Japan Extends Transition Bond Push Despite Fossil-Fuel Reliance",
+    "titleZh": "儘管依賴化石燃料，日本仍繼續推動過渡債券",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/japan-extends-transition-bond-push-despite-fossil-fuel-reliance",
+    "image": null,
+    "pushedAt": "2026-11-02T06:40:45.639Z"
   }
 ]
