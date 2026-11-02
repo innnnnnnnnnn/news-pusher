@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-    "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
-    "titleZh": "《星際爭霸戰：下一代》中的皮卡德船長派崔克·史都華去世",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/28patrick-stewart-ctmp-copy-print1/28patrick-stewart-ctmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T09:48:28.563Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
     "title": "Tokenization Gives Illiquid Funds a 24/7 Trading Twist",
     "titleZh": "代幣化為非流動資金提供了 24/7 全天候交易模式",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
     "image": null,
     "pushedAt": "2026-11-02T05:09:06.930Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+    "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
+    "titleZh": "為什麼邁阿密是拉丁美洲政治流亡者的目的地",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T05:09:35.418Z"
   }
 ]
