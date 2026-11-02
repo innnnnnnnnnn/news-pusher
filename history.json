@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/topix-overhaul-kicks-off-three-things-investors-need-to-know",
-    "title": "Topix Overhaul Kicks Off: Three Things Investors Need to Know",
-    "titleZh": "東證指數改革啟動：投資人需要了解的三件事",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/topix-overhaul-kicks-off-three-things-investors-need-to-know",
-    "image": null,
-    "pushedAt": "2026-10-30T02:26:56.710Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
-    "title": "Philippine Bonds Most Exposed in Emerging Asia to Fed Hikes",
-    "titleZh": "亞洲新興市場中菲律賓債券最容易受到聯準會升息的影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
-    "image": null,
-    "pushedAt": "2026-10-30T06:07:00.052Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/lagarde-exits-ecb-after-big-wins-some-errors-and-a-long-goodbye",
     "title": "Lagarde Exits ECB After Big Wins, Some Errors and a Long Goodbye",
     "titleZh": "拉加德在取得重大勝利、一些錯誤和漫長的告別後退出歐洲央行",
@@ -8650,12 +8632,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-    "title": "Oracle Is Offering $10 Billion of High-Grade Dollar Bonds",
+    "title": "Oracle Kicks Off $20 Billion Capital Raise for AI Spending Plan",
     "titleZh": "甲骨文將發行 100 億美元的優先美元債券",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
     "image": null,
-    "pushedAt": "2026-11-02T12:52:40.515Z"
+    "pushedAt": "2026-11-02T15:16:17.950Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-02/wall-street-escalates-fintwit-crackdown-as-ai-copycat-fears-grow",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/3ee74496-7746-457c-860d-2d0b4975691b?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T15:15:48.404Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+    "title": "A 20-Year-Old Was a Pilot of the Jet That Plunged to Earth in Florida",
+    "titleZh": "一名 20 歲男子是在佛羅裡達州墜落地球的噴射機的飛行員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-crash-folo-zcfb/02nat-crash-folo-zcfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T15:16:47.370Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html",
+    "title": "What to Know About the Florida Plane Crash That Killed 9",
+    "titleZh": "關於造成 9 人死亡的佛羅裡達州飛機失事，您需要了解什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02vid-florida-jet-atc-cover-vgpq/02vid-florida-jet-atc-cover-vgpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T15:16:50.286Z"
   }
 ]
