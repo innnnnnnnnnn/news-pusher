@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29",
-    "title": "Fed holds fire on interest rates despite intensifying inflation",
-    "titleZh": "儘管通膨加劇，聯準會仍不升息",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T18:25:22.546Z"
-  },
-  {
     "id": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
     "title": "Fed holds interest rates as expected and upgrades view on economy",
     "titleZh": "聯準會如預期維持利率不變並升級對經濟的看法",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/ntt-s-matsubara-on-cyberattacks-in-japan-video",
     "image": null,
     "pushedAt": "2026-11-02T03:50:08.300Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video",
+    "title": "Howard Marks Says AI Stumbles Have Boosted Skepticism",
+    "titleZh": "霍華馬克斯表示人工智慧的失誤加劇了人們的懷疑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video",
+    "image": null,
+    "pushedAt": "2026-11-02T03:54:13.623Z"
   }
 ]
