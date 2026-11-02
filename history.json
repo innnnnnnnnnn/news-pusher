@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
-    "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
-    "titleZh": "一名水手從美國航空母艦上跳下林肯.海軍懲罰了他。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/dc-sailor-promo-fqgm/dc-sailor-promo-fqgm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T14:08:56.014Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
     "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
     "titleZh": "赫格斯解雇了陸軍高級將領，他指責他向媒體洩露訊息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
     "image": null,
     "pushedAt": "2026-11-02T13:14:46.226Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817",
+    "title": "FirstFT: Binance falls victim to record crypto heist",
+    "titleZh": "FirstFT：幣安成為加密貨幣竊盜紀錄的受害者",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T13:15:14.386Z"
   }
 ]
