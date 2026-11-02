@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48",
-    "title": "The ECB needs a smooth transmission and a smooth transition",
-    "titleZh": "歐洲央行需要平穩的傳導和平穩的過渡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T12:01:21.890Z"
-  },
-  {
     "id": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e",
     "title": "FirstFT: End of the road for Weil",
     "titleZh": "FirstFT：Weil 的路的盡頭",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-pushes-for-russia-to-resume-gas-sales-to-europe-wsj-reports",
     "image": null,
     "pushedAt": "2026-11-02T03:02:24.503Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
+    "title": "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
+    "titleZh": "高盛因「重大」供應風險上調油價預測",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
+    "image": null,
+    "pushedAt": "2026-11-02T03:08:27.197Z"
   }
 ]
