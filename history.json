@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
-    "title": "Who Stands to Gain From an Anthropic I.P.O.",
-    "titleZh": "誰能從人為 IPO 中獲益",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27db-anthropic-fwjk/27db-anthropic-fwjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:28:53.782Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
     "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
     "titleZh": "在人類首次公開募股中，高盛和摩根士丹利爭奪頂級銀行",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video",
     "image": null,
     "pushedAt": "2026-11-02T00:04:27.423Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+    "title": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
+    "titleZh": "隨著買家被捕下滑，金價從一年低點回升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+    "image": null,
+    "pushedAt": "2026-11-02T00:12:37.574Z"
   }
 ]
