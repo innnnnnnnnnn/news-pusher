@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
-    "title": "US tech stocks tumble as concerns over AI spending intensify",
-    "titleZh": "美國財報引發人工智慧支出擔憂後，全球科技股潰敗加劇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T05:21:55.806Z"
-  },
-  {
     "id": "https://www.ft.com/content/1ccb1f17-c255-4e84-93a7-5c65278ab364",
     "title": "China’s homegrown cosmetics contenders face battle to glow up",
     "titleZh": "中國本土化妝品競爭者面臨崛起之戰",
@@ -141,7 +132,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T14:46:12.511Z"
+    "pushedAt": "2026-11-02T17:15:02.129Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
@@ -573,7 +564,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9c46421e-d23c-4674-80ad-4cf63897d22e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T14:44:02.919Z"
+    "pushedAt": "2026-11-02T17:13:47.935Z"
   },
   {
     "id": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
@@ -987,7 +978,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html",
     "image": null,
-    "pushedAt": "2026-11-02T14:47:05.573Z"
+    "pushedAt": "2026-11-02T17:15:51.605Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
@@ -3417,7 +3408,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/yuuyzifqs?ref=rss",
     "image": "https://cdn.flipso.com/p/yuuyzifqs_square.jpg",
-    "pushedAt": "2026-11-02T14:46:38.783Z"
+    "pushedAt": "2026-11-02T17:15:26.895Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
@@ -3498,7 +3489,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T14:47:57.382Z"
+    "pushedAt": "2026-11-02T17:16:16.996Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
@@ -5604,7 +5595,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T14:44:54.780Z"
+    "pushedAt": "2026-11-02T17:14:12.831Z"
   },
   {
     "id": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a",
@@ -8250,7 +8241,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-makhlouf-says-france-needs-to-fix-public-finances",
     "image": null,
-    "pushedAt": "2026-11-02T14:45:45.616Z"
+    "pushedAt": "2026-11-02T17:14:37.318Z"
   },
   {
     "id": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-rwanda-lose-access-to-preferential-us-trade-pact",
     "image": null,
     "pushedAt": "2026-11-02T17:13:18.587Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/us-manufacturing-activity-picks-up-as-production-grows-video",
+    "title": "US Manufacturing Activity Picks Up as Production Grows",
+    "titleZh": "隨著產量的成長，美國製造業活動回升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/us-manufacturing-activity-picks-up-as-production-grows-video",
+    "image": null,
+    "pushedAt": "2026-11-02T17:16:44.309Z"
   }
 ]
