@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
-    "title": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
-    "titleZh": "美國聯合國激烈攤牌後驅逐古巴外交官",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-diplo-cuba-kbwc/29dc-diplo-cuba-kbwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:53:03.534Z"
-  },
-  {
-    "id": "https://www.ft.com/content/4cdfc27f-8780-475f-9eec-01086733c140",
-    "title": "John Healey’s Budget spending plans strain credibility, economists warn",
-    "titleZh": "經濟學家警告說，約翰希利的預算支出計畫會影響可信度",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4cdfc27f-8780-475f-9eec-01086733c140?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46a760ee-f094-4581-9c3f-e4676cc0ba1a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T04:30:29.742Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
     "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
     "titleZh": "為什麼邁阿密是拉丁美洲政治流亡者的目的地",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-canada-us-comedy-vtfm/02int-canada-us-comedy-vtfm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T05:07:39.600Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/ny-s-mta-could-save-2-5-billion-with-faster-buses-expense-cuts",
+    "title": "NY’s MTA Could Save $2.5 Billion With Faster Buses, Expense Cuts",
+    "titleZh": "紐約 MTA 可以透過更快的公車和削減開支節省 25 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/ny-s-mta-could-save-2-5-billion-with-faster-buses-expense-cuts",
+    "image": null,
+    "pushedAt": "2026-11-02T05:08:33.368Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors",
+    "title": "South Africa’s Low-Key Municipal Polls Pose Risks for Investors",
+    "titleZh": "南非低調的市政民調給投資者帶來風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors",
+    "image": null,
+    "pushedAt": "2026-11-02T05:08:37.449Z"
   }
 ]
