@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/53b633ac-e7ac-4d22-80bf-0fdeb1311562",
-    "title": "South Africa blocks anti-foreigner protests ahead of elections",
-    "titleZh": "南非在選舉前阻止反外國人抗議活動",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/53b633ac-e7ac-4d22-80bf-0fdeb1311562?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-29T18:54:05.354Z"
-  },
-  {
-    "id": "https://www.ft.com/content/a98b8eb6-4b54-4a9f-8e79-9dcfb5257a46",
-    "title": "US politicians are blasting airwaves with election ads. Voters are ‘over’ it",
-    "titleZh": "美國政界人士正在廣播中播放選舉廣告。選民已經「結束」了",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a98b8eb6-4b54-4a9f-8e79-9dcfb5257a46?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-29T18:54:10.281Z"
-  },
-  {
-    "id": "https://www.ft.com/content/1ff658df-963e-4b92-9e12-f0cf5517b2ec",
-    "title": "Investors double withdrawal requests at Partners’ flagship US private equity fund",
-    "titleZh": "投資者對 Partners 旗艦美國私募股權基金的提款請求加倍",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1ff658df-963e-4b92-9e12-f0cf5517b2ec?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T04:09:39.284Z"
-  },
-  {
     "id": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42",
     "title": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
     "titleZh": "喬許庫許納 (Josh Kushner) 和 OpenAI 支持的集團就美國家庭安全公司達成交易",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/507e885e-2f61-43ab-a263-4e19850520d4?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T05:02:47.227Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa",
+    "title": "Petrol prices set to hit record high under Trump on eve of US elections",
+    "titleZh": "在美國大選前夕，特朗普領導的汽油價格將創下歷史新高",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T05:03:20.198Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+    "title": "China’s Message to Its Rivals: You Need What We Make",
+    "titleZh": "中國向競爭對手傳達的訊息：你們需要我們製造的產品",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T05:03:26.038Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/the-icelandic-dna-behind-amgen-s-hunt-for-the-next-ozempic",
+    "title": "The Icelandic DNA Behind Amgen’s Hunt for the Next Ozempic",
+    "titleZh": "Amgen尋找下一個Ozempic背後的冰島DNA",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/the-icelandic-dna-behind-amgen-s-hunt-for-the-next-ozempic",
+    "image": null,
+    "pushedAt": "2026-11-02T05:03:31.221Z"
   }
 ]
