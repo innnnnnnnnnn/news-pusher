@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/2b62bseak",
-    "title": "The mystery of the nameless girl found dead in a Spanish border town",
-    "titleZh": "西班牙邊境小鎮無名女孩屍體被發現之謎",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/2b62bseak?ref=rss",
-    "image": "https://cdn.flipso.com/p/2b62bseak_square.jpg",
-    "pushedAt": "2026-10-31T18:55:39.512Z"
-  },
-  {
     "id": "https://flipso.com/p/incogpy5q",
     "title": "The End of the Internet",
     "titleZh": "網路的終結",
@@ -1077,7 +1068,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vc7thy5me?ref=rss",
     "image": "https://cdn.flipso.com/p/vc7thy5me_square.jpg",
-    "pushedAt": "2026-11-02T07:56:40.800Z"
+    "pushedAt": "2026-11-02T10:20:56.540Z"
   },
   {
     "id": "https://flipso.com/p/qkrooww38",
@@ -1086,7 +1077,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/qkrooww38?ref=rss",
     "image": "https://cdn.flipso.com/p/qkrooww38_square.jpg",
-    "pushedAt": "2026-11-02T07:57:04.241Z"
+    "pushedAt": "2026-11-02T10:21:19.741Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/codelco-dismisses-eight-staff-as-copper-output-scandal-widens",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/ubs-s-fowler-says-market-is-underpricing-the-length-of-ai-cycle",
     "image": null,
     "pushedAt": "2026-11-02T10:20:30.082Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html",
+    "title": "This Presidency Is All Flaws and No Majesty",
+    "titleZh": "這個總統充滿缺陷，沒有威嚴",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html",
+    "image": null,
+    "pushedAt": "2026-11-02T10:21:46.126Z"
   }
 ]
