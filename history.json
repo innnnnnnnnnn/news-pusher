@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-    "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-    "titleZh": "在中國，滅蚊戰爭已進入人工智慧時代時代",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T17:11:00.092Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
     "title": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
     "titleZh": "一個國家如何成為全球人工智慧的十字路口繁榮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-surveillance-11-2-2026-video",
     "image": null,
     "pushedAt": "2026-11-02T17:35:01.515Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+    "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
+    "titleZh": "以色列的一個阿拉伯小鎮慶祝選舉，但想知道會發生什麼變化",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-taibe-01-ckvb/29int-israel-taibe-01-ckvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T17:35:31.748Z"
   }
 ]
