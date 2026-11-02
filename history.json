@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/glp-1-demand-boosts-dis-chem-s-south-africa-pharmacy-revenue",
-    "title": "GLP-1 Demand Boosts Dis-Chem’s South Africa Pharmacy Revenue",
-    "titleZh": "GLP-1 需求增加了 Dis-Chem 的南非藥局收入",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/glp-1-demand-boosts-dis-chem-s-south-africa-pharmacy-revenue",
-    "image": null,
-    "pushedAt": "2026-10-30T09:38:40.721Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/tech-selloff-deepens-as-intel-and-amazon-shares-fall-video",
     "title": "Tech Selloff Deepens as Intel and Amazon Shares Fall",
     "titleZh": "隨著英特爾和亞馬遜股價下跌，科技股拋售加劇（影片）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
     "image": null,
     "pushedAt": "2026-11-02T22:00:48.707Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/graphics/2026-inflation-price-index/",
+    "title": "US Inflation: Millions of Data Points Show Some Price Pressures Easing",
+    "titleZh": "美國通膨：數百萬數據點顯示價格壓力緩解",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/graphics/2026-inflation-price-index/",
+    "image": null,
+    "pushedAt": "2026-11-02T22:01:47.961Z"
   }
 ]
