@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
-    "title": "Binance Freezes Assets After Suspected Hack",
-    "titleZh": "幣安在涉嫌駭客攻擊後凍結資產",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
-    "image": null,
-    "pushedAt": "2026-10-30T06:37:40.811Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/envision-s-zheng-on-china-s-ai-data-center-buildout-video",
     "title": "Envision's Zheng on China's AI Data Center Buildout",
     "titleZh": "遠景鄭志談中國人工智慧資料中心建設",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
     "image": null,
     "pushedAt": "2026-11-02T17:52:30.806Z"
+  },
+  {
+    "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
+    "title": "Bank of Japan says 2% inflation goal reached after decades of deflation",
+    "titleZh": "日本央行稱在數十年的通貨緊縮之後實現了 2% 的通膨目標",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T17:53:01.419Z"
   }
 ]
