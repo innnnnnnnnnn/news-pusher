@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
-    "title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
-    "titleZh": "中國出手救股市，但股市持續下跌",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27biz-china-stocks-02-cfmq/27biz-china-stocks-02-cfmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T10:58:14.889Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
     "title": "Who Stands to Gain From an Anthropic I.P.O.",
     "titleZh": "誰能從人為 IPO 中獲益",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/the-music-industry-s-20-billion-public-market-problem",
     "image": null,
     "pushedAt": "2026-11-02T00:01:56.507Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video",
+    "title": "Gulf States Fear Iran Retaliation If US Strikes Again",
+    "titleZh": "海灣國家擔心如果美國再次發動攻擊，伊朗將進行報復",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video",
+    "image": null,
+    "pushedAt": "2026-11-02T00:04:27.423Z"
   }
 ]
