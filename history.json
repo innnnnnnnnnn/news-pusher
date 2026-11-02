@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/120e7ad5-53e9-45ca-b953-6cbd264622fd",
-    "title": "NatWest posts weakest profit growth among big UK banks",
-    "titleZh": "NatWest 的利潤成長是英國大型銀行中最弱的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/120e7ad5-53e9-45ca-b953-6cbd264622fd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T17:49:01.142Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/audio/2026-10-30/odd-lots-what-cybersecurity-means-in-the-age-of-ai-podcast",
     "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
     "titleZh": "奇怪的事情：人工智慧時代的網路安全意味著什麼（播客）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-taps-macquarie-commsec-for-australia-ipo-retail-offer",
     "image": null,
     "pushedAt": "2026-11-02T22:32:38.295Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html",
+    "title": "Trump’s Election Fraud Reward Raises Fears of Vigilantism, Local Officials Say",
+    "titleZh": "當地官員稱，川普的選舉舞弊獎勵引發了對私刑主義的擔憂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trump-election-top-kczt/02dc-trump-election-top-kczt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T22:33:10.744Z"
   }
 ]
