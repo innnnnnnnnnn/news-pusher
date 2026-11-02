@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817",
-    "title": "FirstFT: Binance falls victim to record crypto heist",
-    "titleZh": "FirstFT：英特爾預期晶片銷售疲軟，股價下跌 16%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T12:57:03.137Z"
-  },
-  {
-    "id": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35",
-    "title": "Why the slowdown in Wall Street deals?",
-    "titleZh": "為什麼華爾街交易放緩？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T04:38:02.829Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
     "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
     "titleZh": "一名水手從美國航空母艦上跳下林肯.海軍懲罰了他。",
@@ -8574,7 +8556,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01midterms-live-caro-wqvc-copy/01midterms-live-caro-wqvc-copy-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-02T11:01:34.680Z"
+    "pushedAt": "2026-11-02T13:13:04.106Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
@@ -8591,8 +8573,8 @@
     "titleZh": "身份政治已進入新階段",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02MAG-IDEAS-IDENTITYPOLITICS-wvhq/02MAG-IDEAS-IDENTITYPOLITICS-wvhq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T11:01:44.989Z"
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02MAG-IDEAS-IDENTITYPOLITICS-wvhq/02MAG-IDEAS-IDENTITYPOLITICS-wvhq-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-02T13:13:28.524Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html",
@@ -8601,7 +8583,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00WELL-KRATOM-MARKETING1-qmcp/00WELL-KRATOM-MARKETING1-qmcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T11:01:49.386Z"
+    "pushedAt": "2026-11-02T13:13:51.946Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/us/trump-courts-judges-orders.html",
@@ -8610,7 +8592,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/us/trump-courts-judges-orders.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-trump-courts-TOP-bcjh/31dc-trump-courts-TOP-bcjh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T11:01:52.644Z"
+    "pushedAt": "2026-11-02T13:14:15.897Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/chile-bond-investors-turn-to-inflation-linked-notes-as-oil-soars",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/features/2026-11-02/wall-street-escalates-fintwit-crackdown-as-ai-copycat-fears-grow",
     "image": null,
     "pushedAt": "2026-11-02T13:00:39.255Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/intesa-plans-to-start-monte-paschi-bid-in-last-week-of-november",
+    "title": "Intesa Plans to Start Monte Paschi Bid in Last Week of November",
+    "titleZh": "Intesa 計劃於 11 月最後一周啟動 Monte Paschi 競標",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/intesa-plans-to-start-monte-paschi-bid-in-last-week-of-november",
+    "image": null,
+    "pushedAt": "2026-11-02T13:14:42.607Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+    "title": "US Stock Futures Rise as Oil Prices Drop Easing AI-Led Selloff",
+    "titleZh": "隨著油價下跌緩和人工智慧主導的拋售，美國股指期貨上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+    "image": null,
+    "pushedAt": "2026-11-02T13:14:46.226Z"
   }
 ]
