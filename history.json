@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
-    "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order",
-    "titleZh": "印度人工智慧公司為 Nvidia 晶片訂單尋求 30 億美元融資",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
-    "image": null,
-    "pushedAt": "2026-10-30T08:49:44.498Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suspends-withdrawals-after-suspected-hack-video",
     "title": "Binance Suspends Withdrawals After Suspected Hack",
     "titleZh": "幣安因涉嫌駭客攻擊而暫停提款",
@@ -2886,7 +2877,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf",
     "image": null,
-    "pushedAt": "2026-11-02T13:36:51.971Z"
+    "pushedAt": "2026-11-02T16:11:05.892Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual",
@@ -8178,7 +8169,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/norway-government-allies-seek-data-center-halt-on-power-worries",
     "image": null,
-    "pushedAt": "2026-11-02T13:37:16.089Z"
+    "pushedAt": "2026-11-02T16:11:31.682Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-news-now-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/gold-rebounds-as-investors-seek-cash-video",
     "image": null,
     "pushedAt": "2026-11-02T16:10:37.200Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
+    "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
+    "titleZh": "法官駁回對前聯邦調查局 (FBI) 的指控官員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/us/02dc-fbi/02dc-fbi-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T16:11:56.231Z"
   }
 ]
