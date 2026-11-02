@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f",
-    "title": "Two fears will decide the fate of Anthropic’s giant IPO",
-    "titleZh": "兩種擔憂將決定 Anthropic 大型 IPO 的命運",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb528efdb-9e87-48cd-a0db-9b2d12dc3b49.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-30T03:47:24.834Z"
-  },
-  {
     "id": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9",
     "title": "Christine Lagarde to step down as ECB president in February",
     "titleZh": "克里斯蒂娜·拉加德將於二月辭去歐洲央行行長一職",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01met-marathon-visuals-promo-gvtk/01met-marathon-visuals-promo-gvtk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T01:27:32.438Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+    "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
+    "titleZh": "科技股拋售後，投資人準備迎接更大的市場波動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-markets-bhqp/01biz-markets-bhqp-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-02T01:40:00.690Z"
   }
 ]
