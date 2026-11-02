@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/13kcg3sxb",
-    "title": "Tiny Tracking Tags for Big Monarch Journeys",
-    "titleZh": "大君主之旅的小追蹤標籤",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/13kcg3sxb?ref=rss",
-    "image": null,
-    "pushedAt": "2026-11-01T05:04:51.727Z"
-  },
-  {
-    "id": "https://flipso.com/p/a66rpt979",
-    "title": "How to be a (Roman) man",
-    "titleZh": "如何成為一個（羅馬）男人",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/a66rpt979?ref=rss",
-    "image": "https://cdn.flipso.com/p/a66rpt979_square.jpg",
-    "pushedAt": "2026-11-01T01:19:36.313Z"
-  },
-  {
     "id": "https://flipso.com/p/cx7yh5jdf",
     "title": "Did an Alternative-Medicine Guru Accidentally Kill Patients?",
     "titleZh": "替代醫學大師是否意外殺死了病人？",
@@ -5847,7 +5829,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T07:45:52.836Z"
+    "pushedAt": "2026-11-02T10:07:49.230Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html",
@@ -6018,7 +6000,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T07:45:28.884Z"
+    "pushedAt": "2026-11-02T10:07:25.720Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/china-s-upgraded-peru-trade-deal-takes-effect-widening-ties",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/is7duajvv?ref=rss",
     "image": "https://cdn.flipso.com/p/is7duajvv_square.jpg",
     "pushedAt": "2026-11-02T10:06:59.024Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/apple-s-1-trillion-rally-leaves-no-room-for-error-on-earnings",
+    "title": "Apple’s $1 Trillion Rally Leaves No Room for Error on Earnings",
+    "titleZh": "蘋果股價上漲 1 兆美元，獲利不容犯錯",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/apple-s-1-trillion-rally-leaves-no-room-for-error-on-earnings",
+    "image": null,
+    "pushedAt": "2026-11-02T10:08:16.661Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack",
+    "title": "Belgian, Swedish Supermarkets Report New Suspected Freezer Hack",
+    "titleZh": "比利時和瑞典超市報告新的疑似冰箱被駭客攻擊事件",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack",
+    "image": null,
+    "pushedAt": "2026-11-02T10:08:21.307Z"
   }
 ]
