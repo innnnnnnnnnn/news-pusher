@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
-    "title": "Holiday Travel Costs Are Soaring. Here’s How to Save.",
-    "titleZh": "假期旅行費用飆漲。以下是如何保存。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/trav-inflation-holidays-01-gmfh/trav-inflation-holidays-01-gmfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T08:31:00.265Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
     "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
     "titleZh": "在人工智慧中“Robogym”，機器經過訓練變得更像人類",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
     "image": null,
     "pushedAt": "2026-11-02T00:34:34.934Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8",
+    "title": "Nine killed as business jet crashes in Florida",
+    "titleZh": "佛羅裡達州公務機墜毀 九人罹難",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T00:47:32.483Z"
   }
 ]
