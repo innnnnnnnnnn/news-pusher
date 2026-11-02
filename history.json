@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
-    "title": "Why Is Halloween Candy So Expensive?",
-    "titleZh": "為什麼萬聖節糖果這麼貴？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28FD-halloween-candy4-lzvj/28FD-halloween-candy4-lzvj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-10-30T08:30:33.789Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
     "title": "Holiday Travel Costs Are Soaring. Here’s How to Save.",
     "titleZh": "假期旅行費用飆漲。以下是如何保存。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off",
     "image": null,
     "pushedAt": "2026-11-02T00:34:04.891Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+    "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+    "titleZh": "日本股市因科技股拋售和鎧俠的獲利前景而下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+    "image": null,
+    "pushedAt": "2026-11-02T00:34:34.934Z"
   }
 ]
