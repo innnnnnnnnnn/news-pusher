@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-    "title": "Three Stone Age Caves Reveal Continual Cannibalism",
-    "titleZh": "三個石器時代的洞穴揭示了持續的同類相食現象",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-    "image": null,
-    "pushedAt": "2026-10-30T08:08:02.720Z"
-  },
-  {
     "id": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
     "title": "US tech stocks tumble as concerns over AI spending intensify",
     "titleZh": "美國財報引發人工智慧支出擔憂後，全球科技股潰敗加劇",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/hedge-funds-back-sec-push-to-ease-us-access-to-eu-bond-futures",
     "image": null,
     "pushedAt": "2026-11-02T17:12:47.074Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-rwanda-lose-access-to-preferential-us-trade-pact",
+    "title": "South Africa, Rwanda Lose Access to Preferential US Trade Pact",
+    "titleZh": "南非、盧安達失去美國優惠貿易協定",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-rwanda-lose-access-to-preferential-us-trade-pact",
+    "image": null,
+    "pushedAt": "2026-11-02T17:13:18.587Z"
   }
 ]
