@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video",
-    "title": "Need to Position Against AI Concentration Risk, Said D.J. Tierney",
-    "titleZh": "需要定位AI集中風險， D.J. Tierney說",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video",
-    "image": null,
-    "pushedAt": "2026-10-29T23:06:25.489Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
-    "title": "Moving Down in High-Grade Quality: Goldman's Lynam",
-    "titleZh": "高級品質下降：高盛的 Lynam",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
-    "image": null,
-    "pushedAt": "2026-10-29T23:08:16.106Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
-    "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
-    "titleZh": "古巴外長：我們會比川普活得更久",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T10:01:36.949Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video",
-    "title": "No One Wanted These Amazon Earnings, Thill Says",
-    "titleZh": "蒂爾表示，沒有人想要亞馬遜的這些收益",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/no-one-wanted-these-amazon-earnings-thill-says-video",
-    "image": null,
-    "pushedAt": "2026-10-30T01:32:31.280Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
     "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
     "titleZh": "大型科技公司的資料中心閃電戰正在燒錢並嚇壞華爾街",
@@ -7989,7 +7953,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F343cb2f0-bf6e-4894-bfbe-d1842b833b4d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-02T09:47:33.020Z"
+    "pushedAt": "2026-11-02T11:59:08.072Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/where-do-you-hide-from-an-ai-bubble-video",
@@ -7998,7 +7962,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/where-do-you-hide-from-an-ai-bubble-video",
     "image": null,
-    "pushedAt": "2026-11-02T09:47:58.325Z"
+    "pushedAt": "2026-11-02T11:59:31.402Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/the-china-show-11-02-2026-video",
@@ -8016,7 +7980,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/hong-kong-chip-ipos-tap-intertwined-investors-boss-s-networks",
     "image": null,
-    "pushedAt": "2026-11-02T09:48:22.463Z"
+    "pushedAt": "2026-11-02T11:59:54.824Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-mbappe-blackout-continues-as-real-madrid-games-dropped",
@@ -8052,7 +8016,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
     "image": null,
-    "pushedAt": "2026-11-02T09:49:11.308Z"
+    "pushedAt": "2026-11-02T12:00:18.454Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/primavera-s-hu-discusses-china-markets-ai-bubble-video",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/11/02/briefing/our-final-polls.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02themorning-nl-midterm-trump-qwlt/02themorning-nl-midterm-trump-qwlt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T11:57:06.297Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
+    "title": "Romania Is Offering Eurobonds After New Government Takes Office",
+    "titleZh": "新政府上任後羅馬尼亞將發行歐洲債券",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
+    "image": null,
+    "pushedAt": "2026-11-02T12:00:44.603Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high",
+    "title": "Food, Housing Share of Americans’ Expenses Rise to 15-Year High",
+    "titleZh": "食品、住房在美國人開支中所佔比例升至 15 年來新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high",
+    "image": null,
+    "pushedAt": "2026-11-02T12:00:49.809Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/trump-s-economic-populism-and-the-midterm-elections",
+    "title": "Trump’s economic populism and the midterm elections",
+    "titleZh": "川普的經濟民粹主義與中期選舉",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/trump-s-economic-populism-and-the-midterm-elections",
+    "image": null,
+    "pushedAt": "2026-11-02T12:00:54.450Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-kazimir-says-markets-may-underestimate-what-s-needed",
+    "title": "ECB’s Kazimir Says Markets May Underestimate What’s Needed",
+    "titleZh": "歐洲央行行長卡濟米爾表示市場可能低估了需求",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-kazimir-says-markets-may-underestimate-what-s-needed",
+    "image": null,
+    "pushedAt": "2026-11-02T12:01:00.484Z"
   }
 ]
