@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c09fe386-ea9d-4ee6-8f57-b5b9b7744934",
-    "title": "Rosebank is needed for UK energy security",
-    "titleZh": "英國能源安全需要羅斯班克",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c09fe386-ea9d-4ee6-8f57-b5b9b7744934?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-29T18:54:49.368Z"
-  },
-  {
     "id": "https://www.ft.com/content/9ab04dab-9e44-44bc-a8d7-8e888a0cd474",
     "title": "Volkswagen warns mounting losses threaten its ability to compete",
     "titleZh": "大眾汽車警告稱，日益嚴重的虧損威脅其競爭能力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/338a8a04-88b5-442e-a895-1253c246c066?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T05:04:54.628Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+    "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
+    "titleZh": "國際足總悄悄為詹尼·因凡蒂諾繳納了數百萬美元的稅款",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T05:05:48.028Z"
   }
 ]
