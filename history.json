@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
-    "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
-    "titleZh": "赫格斯解雇了陸軍高級將領，他指責他向媒體洩露訊息",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-general-fired-bzpw/29dc-general-fired-bzpw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T02:25:38.015Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/blue-owl-fees-beat-estimates-though-redemptions-weigh-on-inflows",
-    "title": "Blue Owl Looks to Raise Insurance Capital for AI Deals",
-    "titleZh": "Blue Owl希望為AI交易籌集保險資本",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/blue-owl-fees-beat-estimates-though-redemptions-weigh-on-inflows",
-    "image": null,
-    "pushedAt": "2026-10-30T00:09:07.668Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video",
-    "title": "Raymond James CEO on 4Q Earnings and AI Strategy",
-    "titleZh": "Raymond James 執行長談第四季獲利和人工智慧戰略",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video",
-    "image": null,
-    "pushedAt": "2026-10-30T04:44:18.141Z"
-  },
-  {
     "id": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc",
     "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
     "titleZh": "星巴克恢復股票回購，但中國的轉變為成長前景蒙上陰影",
@@ -5946,7 +5919,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
     "image": null,
-    "pushedAt": "2026-11-02T11:02:19.822Z"
+    "pushedAt": "2026-11-02T13:15:41.200Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T13:15:14.386Z"
+  },
+  {
+    "id": "https://www.ft.com/content/01048d5b-9886-4247-b14a-8c738edba5e3",
+    "title": "Submit a question: How will the midterms change US politics?",
+    "titleZh": "提交問題：中期選舉將如何改變美國政治？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/01048d5b-9886-4247-b14a-8c738edba5e3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T13:16:07.062Z"
+  },
+  {
+    "id": "https://www.ft.com/content/13bce257-b287-4d03-bf43-e894c3ef421f",
+    "title": "Online betting companies wager big money on US state elections",
+    "titleZh": "線上博彩公司在美國州選舉上投入巨資",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/13bce257-b287-4d03-bf43-e894c3ef421f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T13:16:11.795Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728",
+    "title": "Donald Trump’s imperial presidency faces a popular uprising",
+    "titleZh": "唐納德·川普的帝國總統任期面臨民眾起義",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T13:16:15.680Z"
   }
 ]
