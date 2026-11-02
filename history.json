@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-    "title": "No Clear Winner in Israel Election, Final Results Show",
-    "titleZh": "最終結果顯示，以色列選舉沒有明確的獲勝者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg",
-    "pushedAt": "2026-11-02T12:13:56.460Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
     "title": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
     "titleZh": "特朗普在得知Alina Habba的5000萬$交易後爆發",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-ai-micro-midterms-cfzk/02biz-ai-micro-midterms-cfzk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-02T15:00:27.515Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+    "title": "What Israeli Election Results Reveal About the Electorate",
+    "titleZh": "以色列選舉結果揭示了選民的哪些情況",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T15:00:57.029Z"
   }
 ]
