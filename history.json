@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
-    "title": "Patrick Stewart: A Life in Pictures",
-    "titleZh": "派崔克史都華：畫中人生",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cul-stewart-pictures-01-flhc/29cul-stewart-pictures-01-flhc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T12:19:50.826Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/tokyo-inflation-exceeds-boj-s-2-target-ahead-of-rate-decision",
-    "title": "Tokyo Inflation Exceeds BOJ’s 2% Target Before Rate Decision",
-    "titleZh": "東京通膨率超過日本央行利率決定前 2% 的目標",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/tokyo-inflation-exceeds-boj-s-2-target-ahead-of-rate-decision",
-    "image": null,
-    "pushedAt": "2026-10-30T09:22:36.581Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
-    "title": "PAG Agrees to Buy China Evergrande Unit for $514 Million",
-    "titleZh": "PAG同意以5.14億$收購中國恆大",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
-    "image": null,
-    "pushedAt": "2026-10-30T02:23:10.256Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
-    "title": "Nvidia in Talks to Offer Credit Support for Nscale Project",
-    "titleZh": "Nvidia洽談為Nscale項目提供信貸支持",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
-    "image": null,
-    "pushedAt": "2026-10-30T09:24:43.973Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-29/topix-overhaul-kicks-off-three-things-investors-need-to-know",
     "title": "Topix Overhaul Kicks Off: Three Things Investors Need to Know",
     "titleZh": "東證指數改革啟動：投資人需要了解的三件事",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
     "image": null,
     "pushedAt": "2026-11-02T15:15:05.976Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+    "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
+    "titleZh": "谷歌 5000 億美元的血洗反映了它面臨的人工智慧危險",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+    "image": null,
+    "pushedAt": "2026-11-02T15:15:36.515Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7a6ab0a2-854a-4328-befa-360ab5a701b5",
+    "title": "Business has a crucial role in helping the Neets to work",
+    "titleZh": "企業在幫助新人就業方面發揮著至關重要的作用",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7a6ab0a2-854a-4328-befa-360ab5a701b5",
+    "image": null,
+    "pushedAt": "2026-11-02T15:15:40.180Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3",
+    "title": "Fox News suffers sharp drop in ratings as US elections approach",
+    "titleZh": "美國大選臨近福斯新聞收視率大幅下滑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T15:15:43.870Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3ee74496-7746-457c-860d-2d0b4975691b",
+    "title": "Spanish train crash puts Sánchez’s re-election hopes in jeopardy",
+    "titleZh": "西班牙火車相撞事故讓桑切斯連任希望岌岌可危",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3ee74496-7746-457c-860d-2d0b4975691b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-02T15:15:48.404Z"
   }
 ]
