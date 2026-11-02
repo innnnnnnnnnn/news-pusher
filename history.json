@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c",
-    "title": "Eli Lilly profits surge on demand for weight-loss drugs",
-    "titleZh": "禮來公司利潤因減肥藥需求而激增",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T04:06:09.002Z"
-  },
-  {
     "id": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b",
     "title": "NYSE owner’s tokenised stock plan hits hurdle as big companies object",
     "titleZh": "紐約證券交易所所有者的代幣化股票計劃因大公司反對而遇到障礙",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/binance-details-3-6-billion-in-net-outflows-video",
     "image": null,
     "pushedAt": "2026-11-02T04:54:30.918Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-02/us-gulf-allies-confront-escalation-fears-video",
+    "title": "US Gulf Allies Confront Escalation Fears",
+    "titleZh": "美國海灣盟友面臨升級的擔憂",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/us-gulf-allies-confront-escalation-fears-video",
+    "image": null,
+    "pushedAt": "2026-11-02T04:56:33.344Z"
   }
 ]
