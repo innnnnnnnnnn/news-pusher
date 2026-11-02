@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-29/rodriguez-names-ex-opposition-aide-as-venezuela-foreign-minister",
-    "title": "Rodríguez Names Ex-Opposition Aide as Venezuela Foreign Minister",
-    "titleZh": "羅德里格斯任命前反對派助理為委內瑞拉外交部長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-29/rodriguez-names-ex-opposition-aide-as-venezuela-foreign-minister",
-    "image": null,
-    "pushedAt": "2026-10-29T23:10:08.043Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-29/breaking-down-amazon-s-third-quarter-earnings-video",
     "title": "Breaking Down Amazon's Third-Quarter Earnings",
     "titleZh": "亞馬遜第三季獲利明細",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/uk-s-bii-targets-2-25-billion-for-africa-s-riskiest-markets",
     "image": null,
     "pushedAt": "2026-11-02T12:02:44.600Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+    "titleZh": "大型科技公司的資料中心閃電戰正在燒光現金並嚇壞華爾街",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T12:03:19.908Z"
   }
 ]
