@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a",
-    "title": "What moves hyperscaler stocks?",
-    "titleZh": "是什麼推動了超大規模股票的上漲？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T15:03:58.645Z"
-  },
-  {
-    "id": "https://www.ft.com/content/fe539e51-61d4-49e8-ab1f-65fd19a74b66",
-    "title": "The story of Anthropic in three numbers",
-    "titleZh": "三部曲《人擇》的故事",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fe539e51-61d4-49e8-ab1f-65fd19a74b66?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-30T15:05:19.991Z"
-  },
-  {
     "id": "https://www.ft.com/content/e990e689-04ac-4328-a5d3-191afc370cdc",
     "title": "Patients use AI-doctored photos to access weight-loss drugs, pharmacies warn",
     "titleZh": "藥劑師警告人工智慧處理的照片被用來獲取減肥藥",
@@ -600,7 +582,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
     "image": null,
-    "pushedAt": "2026-11-02T17:23:07.618Z"
+    "pushedAt": "2026-11-02T19:49:12.992Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
@@ -7368,7 +7350,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
     "image": null,
-    "pushedAt": "2026-11-02T17:23:32.739Z"
+    "pushedAt": "2026-11-02T19:49:40.492Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/us-gdp-dollar-very-exposed-to-ai-pullback-mufg-says-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/b17efe11-2963-45f1-a121-c8c0eec4131b?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T19:47:21.599Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+    "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+    "titleZh": "冰箱被駭客入侵了嗎？歐洲和美國軍方正在調查。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T19:50:08.411Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+    "title": "He Pioneered a Groundbreaking Idea. And Was Met with Corporate Wrath.",
+    "titleZh": "他開創了一個開創性的想法。並遭到了企業的憤怒。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02cli-nordhaus-01-pvch/02cli-nordhaus-01-pvch-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-02T19:50:13.547Z"
   }
 ]
