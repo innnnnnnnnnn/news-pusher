@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
-    "title": "Big Take: From ‘Vibecession’ to ‘Shrugflation’",
-    "titleZh": "大觀點：從“Vibecession”到“Shrugflation”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
-    "image": null,
-    "pushedAt": "2026-10-29T23:28:35.690Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
     "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
     "titleZh": "川普政府向加州施壓，要求擴大選民詐欺調查",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/968342d7-4642-4b7d-a64f-4a096b293acf?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-02T12:18:20.059Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/data-center-restrictions-make-the-ballot-in-dozens-of-us-cities",
+    "title": "Data Center Restrictions Make the Ballot in Dozens of US Cities",
+    "titleZh": "資料中心限制在美國數十個城市引發投票",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/data-center-restrictions-make-the-ballot-in-dozens-of-us-cities",
+    "image": null,
+    "pushedAt": "2026-11-02T12:18:50.265Z"
   }
 ]
