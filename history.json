@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e",
-    "title": "FirstFT: End of the road for Weil",
-    "titleZh": "FirstFT：Weil 的路的盡頭",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T12:01:47.005Z"
-  },
-  {
     "id": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574",
     "title": "Hello Kitty gets caught up in Japan-China spat",
     "titleZh": "Hello Kitty 捲入日中爭端",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
     "image": null,
     "pushedAt": "2026-11-02T03:08:27.197Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
+    "title": "Oaktree’s Howard Marks Says AI Stumbles Have Boosted Skepticism",
+    "titleZh": "橡樹資本 (Oaktree) 的霍華德馬克斯 (Howard Marks) 表示，人工智慧的失誤加劇了人們的懷疑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
+    "image": null,
+    "pushedAt": "2026-11-02T03:18:12.549Z"
   }
 ]
