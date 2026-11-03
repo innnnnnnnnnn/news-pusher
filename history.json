@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
-    "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
-    "titleZh": "在舊金山的 A.I.繁榮，第一次約會變成了採訪",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31BIZ-SF-DATING-1-04-mwjv/31BIZ-SF-DATING-1-04-mwjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T00:01:26.861Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
     "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
     "titleZh": "COP17 生物多樣性會談在亞美尼亞埃里溫舉行",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
     "image": null,
     "pushedAt": "2026-11-03T19:52:07.611Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/some-overexuberance-in-ai-sadek-wahba-video",
+    "title": "Some 'Overexuberance' In AI: Sadek Wahba",
+    "titleZh": "人工智慧中的一些「過度繁榮」：Sadek Wahba",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/some-overexuberance-in-ai-sadek-wahba-video",
+    "image": null,
+    "pushedAt": "2026-11-03T19:52:37.985Z"
   }
 ]
