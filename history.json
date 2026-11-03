@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/video/fbc0f62e-50ea-4509-9fa7-32f00c98c424",
-    "title": "Trump loses Latino support",
-    "titleZh": "川普失去拉丁裔支持",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/video/fbc0f62e-50ea-4509-9fa7-32f00c98c424?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F7c22d8c2-b4ce-4752-9064-9939b7ccb5f0?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-01T16:40:15.311Z"
-  },
-  {
     "id": "https://flipso.com/p/ksmkmzp8c",
     "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
     "titleZh": "1580 幅地圖顯示了為什麼資料視覺化從來都不是中立的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-03T22:35:55.525Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video",
+    "title": "AMD Forecast Exceeds Estimates as AI Chip Demand Soars",
+    "titleZh": "隨著 AI 晶片需求飆升，AMD 預測超出預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video",
+    "image": null,
+    "pushedAt": "2026-11-03T22:36:27.271Z"
   }
 ]
