@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e0484ec6-f370-476f-8763-309f3d746ba9",
-    "title": "Muji takes its China playbook global",
-    "titleZh": "無印良品將其中國劇本推向全球",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e0484ec6-f370-476f-8763-309f3d746ba9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T14:04:48.369Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/us/politics/children-asylum-fast-track-deport.html",
     "title": "Judge Blocks Expediting Migrant Children’s Asylum Cases, For Now",
     "titleZh": "法官暫時阻止加速移民兒童庇護案件",
@@ -2688,7 +2679,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/q0cqae589?ref=rss",
     "image": "https://cdn.flipso.com/p/q0cqae589_square.jpg",
-    "pushedAt": "2026-11-03T11:53:31.014Z"
+    "pushedAt": "2026-11-03T14:12:29.985Z"
   },
   {
     "id": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700",
@@ -2832,7 +2823,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-theworld-trump-ostpolitik-02-mltw-promo/02int-theworld-trump-ostpolitik-02-mltw-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T11:54:19.057Z"
+    "pushedAt": "2026-11-03T14:12:53.625Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video",
@@ -7116,7 +7107,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T11:54:43.094Z"
+    "pushedAt": "2026-11-03T14:13:17.514Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/coal-india-said-to-plan-1-billion-mcl-ipo-as-soon-as-this-month",
@@ -8497,12 +8488,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/tusk-lifts-block-on-polish-central-bank-board-nominees",
-    "title": "Tusk Lifts Block on Polish Central Bank Board Nominees",
+    "title": "Poland’s Tusk Ends Central Bank Standoff Over Board Nominees",
     "titleZh": "圖斯克解除了對波蘭央行董事會提名人的封鎖",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/tusk-lifts-block-on-polish-central-bank-board-nominees",
     "image": null,
-    "pushedAt": "2026-11-03T11:53:04.283Z"
+    "pushedAt": "2026-11-03T14:12:06.046Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/amd-needs-a-huge-outlook-to-avoid-intel-s-fate-as-ai-fears-rise",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/brainco-on-brain-computer-interfaces-video",
     "image": null,
     "pushedAt": "2026-11-03T14:04:47.830Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+    "titleZh": "谷歌將關閉對拒絕人工智慧的學校的搜索",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-google-schools-cfkb/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T14:13:44.230Z"
   }
 ]
