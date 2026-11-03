@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
-    "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
-    "titleZh": "司法部證實阿拉斯加調查，儘管其焦點仍不清楚",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-alaska-pkvb/30dc-alaska-pkvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T02:52:31.101Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/style/patrick-stewart-bald-hereditary-alopecia.html",
     "title": "Patrick Stewart Embraced His Baldness and Became an Icon",
     "titleZh": "派崔克史都華接受了自己的禿頭並成為了偶像",
@@ -8484,7 +8475,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/briefing/its-election-day.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03themorning-nl-LEAD-bmlh/03themorning-nl-LEAD-bmlh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T11:43:22.758Z"
+    "pushedAt": "2026-11-03T14:03:27.855Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
@@ -8493,7 +8484,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-onionfutures-kzjg/30xp-onionfutures-kzjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T11:43:25.727Z"
+    "pushedAt": "2026-11-03T14:03:51.604Z"
   },
   {
     "id": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/russia-raises-crude-shipments-even-as-refineries-ramp-up",
     "image": null,
     "pushedAt": "2026-11-03T14:02:59.755Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/isomorphic-labs-on-ai-drug-discovery-video",
+    "title": "How AI Is Changing Drug Discovery at Isomorphic Labs",
+    "titleZh": "人工智慧如何改變同構實驗室的藥物發現",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/isomorphic-labs-on-ai-drug-discovery-video",
+    "image": null,
+    "pushedAt": "2026-11-03T14:04:18.365Z"
   }
 ]
