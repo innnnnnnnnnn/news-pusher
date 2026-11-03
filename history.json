@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html",
-    "title": "Republicans Tried to Turn the Cheesecake Factory Against Democrats. It Flopped.",
-    "titleZh": "民主黨現在是民粹主義政黨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31goldberg-fwth/31goldberg-fwth-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T20:28:01.557Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
     "title": "Brace Yourself for an ‘Unusual Election’",
     "titleZh": "選舉之夜我們在看什麼",
@@ -8556,7 +8547,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/nj-governor-warns-ports-against-russian-diesel-allowed-by-trump",
     "image": null,
-    "pushedAt": "2026-11-03T15:04:42.997Z"
+    "pushedAt": "2026-11-03T17:43:22.597Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/ai-minister-says-the-uk-isn-t-ready-for-extremely-likely-cyber-attacks",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-limits-traders-bankers-from-using-some-ai-tools-video",
     "image": null,
     "pushedAt": "2026-11-03T17:42:14.297Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/well/mind/american-psychological-association-antisemitism-congress-house-report.html",
+    "title": "House Republicans Accuse Top Psychology Group of Antisemitism",
+    "titleZh": "眾議院共和黨人指責頂尖心理學組織反猶太主義",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/well/mind/american-psychological-association-antisemitism-congress-house-report.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/WELL-APA-ANTISEMITISM1-vbjl/WELL-APA-ANTISEMITISM1-vbjl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T17:43:54.279Z"
   }
 ]
