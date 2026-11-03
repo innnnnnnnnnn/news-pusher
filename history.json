@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
-    "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
-    "titleZh": "今年萬聖節，雨水可能會澆熄你的精神",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/pageoneplus/30wea-halloween/30wea-halloween-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T17:18:39.232Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
     "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
     "titleZh": "乌克兰人正在地下煤气管道内与俄罗斯人作战。我進去了。",
@@ -4443,7 +4434,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T22:49:13.849Z"
+    "pushedAt": "2026-11-03T01:17:44.333Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
     "image": null,
     "pushedAt": "2026-11-03T01:17:16.007Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
+    "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
+    "titleZh": "紐約州 30 年來首例兒童死於麻疹",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-03T01:18:12.841Z"
   }
 ]
