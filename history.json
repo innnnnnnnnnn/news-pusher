@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881",
-    "title": "Chart of the Week: Bond investors may cheer gridlock",
-    "titleZh": "本週圖表：債券投資者可能會為僵局歡呼",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T05:12:36.177Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
-    "title": "Bartleby newsletter: In praise of praise",
-    "titleZh": "巴特比通訊：讚美中的讚美",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
-    "image": null,
-    "pushedAt": "2026-11-02T11:21:00.177Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
     "title": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
     "titleZh": "挪威公司因摩科瑞波羅的海案獲得 1 億美元賠償",
@@ -1527,7 +1509,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T15:09:55.564Z"
+    "pushedAt": "2026-11-03T17:49:57.104Z"
   },
   {
     "id": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a",
@@ -4182,7 +4164,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T15:10:48.453Z"
+    "pushedAt": "2026-11-03T17:50:51.463Z"
   },
   {
     "id": "https://www.ft.com/content/c4fb0d1f-6c38-4446-af7a-9a7ccead0490",
@@ -8556,7 +8538,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
     "image": null,
-    "pushedAt": "2026-11-03T15:10:21.584Z"
+    "pushedAt": "2026-11-03T17:50:24.211Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/us-job-openings-jump-to-highest-level-since-may-layoffs-fall",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T17:49:20.679Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9381a90b-a65a-4e1e-9a35-4732d16891de",
+    "title": "Paraguay seizes digital bank with ties to President Peña",
+    "titleZh": "巴拉圭查封與總統佩尼亞有聯繫的數位銀行",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9381a90b-a65a-4e1e-9a35-4732d16891de?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-03T17:51:24.957Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ff3cf416-a839-4f9c-a46c-ea5c4147b8ae",
+    "title": "UK pensioners to be offered annual income as default, ministers say",
+    "titleZh": "部長們表示，英國退休金領取者將獲得預設年收入",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ff3cf416-a839-4f9c-a46c-ea5c4147b8ae?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-03T17:51:29.842Z"
   }
 ]
