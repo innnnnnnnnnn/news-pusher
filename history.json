@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html",
-    "title": "Trump’s Plane Flyover Is a Halloween Trick for Startled D.C. Residents",
-    "titleZh": "川普的飛機飛越是嚇壞華盛頓居民的萬聖節把戲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-flyover-lcbz/30dc-flyover-lcbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T08:31:01.663Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
     "title": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
     "titleZh": "盧比歐和巴西外交部長將在選舉緊張局勢後會面",
@@ -2868,7 +2859,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T11:55:54.436Z"
+    "pushedAt": "2026-11-03T14:16:34.283Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/nyregion/nyc-book-before-new-york-mannahatta.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/yuuyzifqs?ref=rss",
     "image": "https://cdn.flipso.com/p/yuuyzifqs_square.jpg",
     "pushedAt": "2026-11-03T14:16:07.336Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/cinven-set-to-back-theramex-acquisition-with-1-5-billion-debt",
+    "title": "Cinven Set to Back Theramex Acquisition With €1.5 Billion Debt",
+    "titleZh": "Cinven 將以 15 億歐元債務支持 Theramex 收購",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/cinven-set-to-back-theramex-acquisition-with-1-5-billion-debt",
+    "image": null,
+    "pushedAt": "2026-11-03T14:16:59.770Z"
   }
 ]
