@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
-    "title": "Conservation Efforts for Caucasian Leopards Show Promise",
-    "titleZh": "高加索豹的保育工作顯示出希望",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
-    "image": null,
-    "pushedAt": "2026-10-30T14:38:44.135Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
     "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
     "titleZh": "我報道了天安門廣場大屠殺。它仍然讓我感到沉重。",
@@ -447,7 +438,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30db-nyse-final-vclb/30db-nyse-final-vclb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T23:05:36.384Z"
+    "pushedAt": "2026-11-03T01:33:50.255Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print",
@@ -879,7 +870,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-crypto-markets-tqhz/30biz-crypto-markets-tqhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T23:04:21.237Z"
+    "pushedAt": "2026-11-03T01:33:25.041Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plummets-reddit-sinks-stock-movers-video",
@@ -1401,7 +1392,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T23:03:56.213Z"
+    "pushedAt": "2026-11-03T01:32:59.890Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
@@ -2652,7 +2643,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
     "image": "https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T23:03:31.210Z"
+    "pushedAt": "2026-11-03T01:32:34.199Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/charting-the-global-economy-central-banks-hold-rates-steady",
@@ -7494,7 +7485,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/77626f75-01e9-4123-8510-a095b2231861?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-02T23:06:01.839Z"
+    "pushedAt": "2026-11-03T01:34:15.909Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-ukraine-pipes-promo-afabuo/28int-ukraine-pipes-promo-afabuo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T01:27:20.368Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/franklin-templeton-ceo-on-investment-growth-outlook-video",
+    "title": "Franklin Templeton CEO on Investment, Growth Outlook",
+    "titleZh": "富蘭克林鄧普頓執行長談投資與成長前景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/franklin-templeton-ceo-on-investment-growth-outlook-video",
+    "image": null,
+    "pushedAt": "2026-11-03T01:34:44.369Z"
   }
 ]
