@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487",
-    "title": "Is this the first clear evidence of AI’s impact on the labour market?",
-    "titleZh": "這是人工智慧對勞動市場影響的第一個明確證據嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T17:36:49.319Z"
-  },
-  {
     "id": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0",
     "title": "The right to be apolitical",
     "titleZh": "不參與政治的權利",
@@ -5784,7 +5775,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
     "image": null,
-    "pushedAt": "2026-11-02T21:38:14.243Z"
+    "pushedAt": "2026-11-03T14:28:19.356Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/opinion-gta-vi-shows-why-gaming-needs-ai-video",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/it4j4uivw?ref=rss",
     "image": "https://cdn.flipso.com/p/it4j4uivw_square.jpg",
     "pushedAt": "2026-11-03T14:27:50.376Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
+    "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
+    "titleZh": "川普努力證明非公民投票猖獗，迄今幾乎沒有任何指控",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-noncitizen-voting-01-mhgb/03dc-noncitizen-voting-01-mhgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T14:28:46.445Z"
   }
 ]
