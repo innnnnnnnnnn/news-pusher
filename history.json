@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4",
-    "title": "The US midterms: the verdict on Donald Trump?",
-    "titleZh": "美國中期選舉：唐納德·川普的判決如何？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4",
-    "image": null,
-    "pushedAt": "2026-11-03T08:41:54.893Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ai-will-boost-consumer-electronics-video",
     "title": "Foxconn: AI Will Boost Consumer Electronics",
     "titleZh": "富士康：人工智慧將推動消費性電子產品發展",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html",
     "image": "https://static01.nyt.com/images/2026/11/03/opinion/03soltisanderson-image/03soltisanderson-image-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T10:09:21.412Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
+    "title": "His Business Was Tough. Diesel Prices Made It Impossible.",
+    "titleZh": "他的生意很難做。柴油價格使其不可能。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
+    "image": null,
+    "pushedAt": "2026-11-03T10:09:51.372Z"
   }
 ]
