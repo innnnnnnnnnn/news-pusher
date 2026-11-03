@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-    "title": "Why the Markets Don’t Care About the Midterms",
-    "titleZh": "為什麼市場不關心中期選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-    "image": null,
-    "pushedAt": "2026-11-02T22:18:40.432Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
     "title": "New York Bought an Electric Ferry. The City Can’t Charge It.",
     "titleZh": "紐約買了一艘電動渡輪。城市無法收費。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
     "image": null,
     "pushedAt": "2026-11-03T00:14:09.863Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
+    "title": "Colombia’s ‘Narcoterrorist’ Crackdown Raises Questions Over Killings",
+    "titleZh": "哥倫比亞的「毒品恐怖分子」鎮壓引發了對殺戮的質疑",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
+    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-colombia-killings-promo/00int-colombia-killings-tlfj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T00:14:38.952Z"
   }
 ]
