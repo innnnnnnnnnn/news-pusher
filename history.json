@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736",
-    "title": "Weil’s Ramona Nee in talks to join Kirkland & Ellis",
-    "titleZh": "Weil 的 Ramona Nee 正在洽談加入凱易律師事務所",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F430dc992-cdc8-4694-9c95-f2a3c291478b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-10-31T05:26:05.942Z"
-  },
-  {
     "id": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
     "title": "Did Anthropic value itself at $1.2tn in August?",
     "titleZh": "Anthropic 8 月的估值是否為 1.2 兆美元？",
@@ -5901,7 +5892,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Gulf-Economy-01-mbgt/02Biz-Gulf-Economy-01-mbgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T02:58:16.994Z"
+    "pushedAt": "2026-11-03T05:27:04.655Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
@@ -6648,7 +6639,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
     "image": null,
-    "pushedAt": "2026-11-03T02:58:43.264Z"
+    "pushedAt": "2026-11-03T05:27:30.232Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-must-reform-now-to-grow-faster-kganyago-says",
@@ -7998,7 +7989,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/dc-justice-promo-hfbt/dc-justice-promo-hfbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T02:59:33.483Z"
+    "pushedAt": "2026-11-03T05:27:55.665Z"
   },
   {
     "id": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-china-show-11-03-2026-video",
     "image": null,
     "pushedAt": "2026-11-03T05:26:37.191Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+    "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+    "titleZh": "全球安全漏洞後中國計畫建立廣泛的人工智慧護欄",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+    "image": null,
+    "pushedAt": "2026-11-03T05:28:23.510Z"
   }
 ]
