@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6302c529-cf49-4795-937f-dc47ec89c05c",
-    "title": "Kane, Mbappé and the cost of star power",
-    "titleZh": "凱恩、姆巴佩和明星力量的成本",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6302c529-cf49-4795-937f-dc47ec89c05c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T16:56:34.611Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
     "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
     "titleZh": "選擇另一種蛋白質？儘管價格昂貴，美國人仍然想要牛肉。",
@@ -330,7 +321,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DB-legal-engineers-puri-gzhc/31DB-legal-engineers-puri-gzhc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T14:07:40.925Z"
+    "pushedAt": "2026-11-03T16:41:56.143Z"
   },
   {
     "id": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d",
@@ -1194,7 +1185,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ksmkmzp8c?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-03T14:07:17.212Z"
+    "pushedAt": "2026-11-03T16:41:32.180Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html",
@@ -5469,7 +5460,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T14:08:04.804Z"
+    "pushedAt": "2026-11-03T16:42:20.399Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/opinion/justice-kagan-speak-truth.html",
@@ -5842,12 +5833,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates",
-    "title": "Match Falls After Quarterly Sales, Profit Outlook Miss Estimates",
+    "title": "Match Drops After Sales, Profit Outlook Miss Estimates",
     "titleZh": "季度銷售額、利潤前景低於預期後，匹配度下降",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates",
     "image": null,
-    "pushedAt": "2026-11-03T00:03:51.790Z"
+    "pushedAt": "2026-11-03T16:41:07.777Z"
   },
   {
     "id": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T16:40:39.274Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/treasuries-fall-amid-oil-price-swings-strong-job-openings-data",
+    "title": "Treasuries Fall Amid Oil Price Swings, Strong Job Openings Data",
+    "titleZh": "油價波動和強勁的職缺數據導致國債下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/treasuries-fall-amid-oil-price-swings-strong-job-openings-data",
+    "image": null,
+    "pushedAt": "2026-11-03T16:42:45.925Z"
   }
 ]
