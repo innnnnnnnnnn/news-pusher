@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-    "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-    "titleZh": "烏克蘭醫生嘗試像生物戰攻擊一樣治療感染",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T10:55:26.610Z"
-  },
-  {
-    "id": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
-    "title": "The Climate Issue newsletter: How slow can you go?",
-    "titleZh": "氣候議題時事通訊：你能走多慢？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
-    "image": null,
-    "pushedAt": "2026-11-02T15:29:07.113Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
     "title": "Final Countdown to Midterm Elections, Tech Stocks Tank",
     "titleZh": "中期選舉最後倒數計時，科技股暴跌",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/b2610699-0972-4acc-8417-5c9f92bc540e?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-03T19:27:39.925Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+    "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+    "titleZh": "FDA警告拖拉機車輪小吃店可能導致窒息危險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+    "image": null,
+    "pushedAt": "2026-11-03T19:28:30.750Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-companywide-video",
+    "title": "Disney Plans Thousands of Layoffs Companywide",
+    "titleZh": "迪士尼計劃在全公司範圍內裁員數千人",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-companywide-video",
+    "image": null,
+    "pushedAt": "2026-11-03T19:28:36.475Z"
   }
 ]
