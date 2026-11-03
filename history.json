@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
-    "title": "Nasdaq 100 Slides as Stocks Selloff to End the Week",
-    "titleZh": "納斯達克 100 指數下跌，股市本週結束遭遇拋售",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/nasdaq-100-slides-as-stocks-selloff-to-end-the-week-video",
-    "image": null,
-    "pushedAt": "2026-10-31T11:04:52.565Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
     "title": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom",
     "titleZh": "大型科技公司為 AI 繁榮做出了 3 兆美元的支出承諾",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/asia-exports-and-the-ai-boom",
     "image": null,
     "pushedAt": "2026-11-03T12:01:21.786Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+    "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+    "titleZh": "薩爾瓦多的布克萊能成為海地的救世主嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T12:01:48.949Z"
   }
 ]
