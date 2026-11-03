@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
-    "title": "Exxon Increases Stake in Mozambique Gas Project",
-    "titleZh": "埃克森美孚透過埃尼互換增持莫三比克天然氣計畫股份",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
-    "image": null,
-    "pushedAt": "2026-10-30T13:05:59.477Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
     "title": "Chinese Memory Leader CXMT’s Sales Surge Yet Growth Slows",
     "titleZh": "中國晶片領導者長鑫儲存銷售額成長七倍但成長放緩",
@@ -7314,7 +7305,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/lagarde-wants-to-kick-off-new-career-phase-ecb-s-moulin-says",
     "image": null,
-    "pushedAt": "2026-11-03T01:46:07.379Z"
+    "pushedAt": "2026-11-03T04:07:27.140Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/russia-allows-use-of-foreign-data-centers-in-wake-of-attacks",
@@ -7755,7 +7746,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-02/el-nino-could-raise-us-inflation-boost-jobs-in-2027-fed-study",
     "image": null,
-    "pushedAt": "2026-11-03T01:46:33.370Z"
+    "pushedAt": "2026-11-03T04:07:51.887Z"
   },
   {
     "id": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video",
     "image": null,
     "pushedAt": "2026-11-03T04:06:59.256Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+    "title": "U.S. Military Strikes Iran’s Qeshm Island In What U.S. Officials Call A Defensive Measure",
+    "titleZh": "美國軍事打擊伊朗格甚姆島，美國官員稱這是防禦措施",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+    "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T04:08:18.567Z"
   }
 ]
