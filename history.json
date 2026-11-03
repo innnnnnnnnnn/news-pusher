@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0",
-    "title": "The right to be apolitical",
-    "titleZh": "不參與政治的權利",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bca4a2e-bf59-4962-ba0b-105f8b898404.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-01T05:06:25.960Z"
-  },
-  {
     "id": "https://www.ft.com/content/2d7ef638-2efb-42ec-a433-bef55f61d2e1",
     "title": "Fiscal drifting: why the Budget won’t leave you better off",
     "titleZh": "財政漂移：為什麼預算不會讓你過得更好",
@@ -3453,7 +3444,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-03T12:04:53.019Z"
+    "pushedAt": "2026-11-03T14:30:02.956Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/nse-shares-win-wall-street-backing-after-muted-trading-debut",
@@ -7800,7 +7791,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
     "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:04:00.017Z"
+    "pushedAt": "2026-11-03T14:29:14.401Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-03/bloomberg-tech-london",
@@ -8403,7 +8394,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/abb-s-bangalore-factory-robots-open-the-door-for-women-in-charge",
     "image": null,
-    "pushedAt": "2026-11-03T12:04:26.192Z"
+    "pushedAt": "2026-11-03T14:29:38.366Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/major-hedge-funds-mostly-lose-in-nowhere-to-hide-october",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-noncitizen-voting-01-mhgb/03dc-noncitizen-voting-01-mhgb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T14:28:46.445Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/energy-transfer-approves-1-6-billion-gas-pipe-as-ai-use-soars",
+    "title": "Energy Transfer Approves $1.6 Billion Gas Pipe as AI Use Soars",
+    "titleZh": "隨著人工智慧應用的激增，Energy Transfer 批准了 16 億美元的天然氣管道建設",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/energy-transfer-approves-1-6-billion-gas-pipe-as-ai-use-soars",
+    "image": null,
+    "pushedAt": "2026-11-03T14:30:29.832Z"
   }
 ]
