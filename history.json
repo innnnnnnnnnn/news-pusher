@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/chile-copper-mines-deliver-worst-quarter-in-at-least-two-decades",
-    "title": "Chile Signals Slow Copper Recovery From Historic Output Slump",
-    "titleZh": "智利銅礦季度業績創至少二十年來最差",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/chile-copper-mines-deliver-worst-quarter-in-at-least-two-decades",
-    "image": null,
-    "pushedAt": "2026-10-30T18:48:36.200Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/munis-head-for-best-october-in-more-than-four-decades-after-rout",
     "title": "Munis Head for Best October in More Than Four Decades After Rout",
     "titleZh": "穆尼斯在潰敗後迎來了四十多年來最好的十月",
@@ -8556,7 +8547,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9349b88e-e290-4c64-a7cd-85ac83962a0c",
     "image": null,
-    "pushedAt": "2026-11-03T05:07:05.914Z"
+    "pushedAt": "2026-11-03T07:32:05.359Z"
   },
   {
     "id": "https://www.ft.com/content/e633f11e-ebc2-4482-94de-72c3a3b89841",
@@ -8565,7 +8556,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e633f11e-ebc2-4482-94de-72c3a3b89841?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T05:07:09.766Z"
+    "pushedAt": "2026-11-03T07:32:30.201Z"
   },
   {
     "id": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
@@ -8573,8 +8564,8 @@
     "titleZh": "英偉達要求資料中心客戶減少在中國的投資",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T05:07:14.363Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc77c574-2acf-4aa1-8a68-3966502b400a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-03T07:32:56.332Z"
   },
   {
     "id": "https://www.ft.com/content/7a3546e8-2785-463f-8708-6a5d913ca07d",
@@ -8583,7 +8574,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a3546e8-2785-463f-8708-6a5d913ca07d",
     "image": null,
-    "pushedAt": "2026-11-03T05:07:18.500Z"
+    "pushedAt": "2026-11-03T07:33:22.104Z"
   },
   {
     "id": "https://www.ft.com/content/2c886f7d-b382-4abe-b999-08493f214d05",
@@ -8592,7 +8583,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2c886f7d-b382-4abe-b999-08493f214d05",
     "image": null,
-    "pushedAt": "2026-11-03T05:07:21.756Z"
+    "pushedAt": "2026-11-03T07:33:47.927Z"
   },
   {
     "id": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00",
@@ -8600,8 +8591,8 @@
     "titleZh": "一場又一場的戰鬥：川普動盪的21個月",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T05:07:25.987Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61035ea8-6f07-4b02-a6ad-3cb43d9b597f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-03T07:34:14.372Z"
   },
   {
     "id": "https://www.ft.com/content/186bc594-eee9-4e36-9dc0-223942d4d3a6",
@@ -8610,7 +8601,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/186bc594-eee9-4e36-9dc0-223942d4d3a6",
     "image": null,
-    "pushedAt": "2026-11-03T05:07:30.406Z"
+    "pushedAt": "2026-11-03T07:34:38.803Z"
   },
   {
     "id": "https://www.ft.com/content/4e777c1f-d0fa-40ae-97b3-a131a4d0f632",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/brookfield-lunate-set-up-new-gulf-property-development-firm",
     "image": null,
     "pushedAt": "2026-11-03T07:29:25.949Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike",
+    "title": "BOE Interest-Rate Path Divides Traders and Economists Ahead of Expected Hike",
+    "titleZh": "在預期升息之前，英國央行的利率走勢使交易員和經濟學家產生分歧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike",
+    "image": null,
+    "pushedAt": "2026-11-03T07:35:05.948Z"
   }
 ]
