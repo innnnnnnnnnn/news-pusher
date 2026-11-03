@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
-    "title": "Fondos de Brasil sufren fuertes pérdidas tras victoria de Lula",
-    "titleZh": "巴西盧拉維多利亞基金會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
-    "image": null,
-    "pushedAt": "2026-10-30T18:18:33.452Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html",
-    "title": "I’m in ‘You Can See Everything.’ Here’s My Side of the Story.",
-    "titleZh": "我在《你可以看見一切》。這是我的故事。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html",
-    "image": null,
-    "pushedAt": "2026-10-30T20:54:23.557Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
     "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
     "titleZh": "Meta 和解社群媒體成癮案，避免審判",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
     "image": null,
     "pushedAt": "2026-11-03T08:55:17.013Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
+    "title": "An Election Day Special With Nate Silver",
+    "titleZh": "內特·西爾弗 (Nate Silver) 的選舉日特別節目",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
+    "image": null,
+    "pushedAt": "2026-11-03T09:00:45.724Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
+    "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
+    "titleZh": "奇怪的很多：內特·西爾弗的選舉日特別節目（播客）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
+    "image": null,
+    "pushedAt": "2026-11-03T09:00:51.458Z"
   }
 ]
