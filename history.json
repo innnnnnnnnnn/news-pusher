@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
-    "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
-    "titleZh": "香港電台稱 2026 年經濟成長可能是五年來最強勁",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
-    "image": null,
-    "pushedAt": "2026-11-01T03:19:14.744Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
     "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
     "titleZh": "英國《金融時報》稱，隨著人工智慧的衰退，OpenAI 的融資目標削減了 100 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-trump-israel-vjpz/03dc-trump-israel-vjpz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T15:58:40.632Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+    "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
+    "titleZh": "對烏克蘭人道主義中心的攻擊恐怕是戰爭中最致命的一次",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+    "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-ukraine-attack-01-wckg/02int-ukraine-attack-01-wckg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T15:59:10.269Z"
   }
 ]
