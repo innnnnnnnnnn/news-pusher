@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f",
-    "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-    "titleZh": "隨著科技憂慮加劇，OpenAI 將融資目標削減 100 億美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T12:42:19.536Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
     "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
     "titleZh": "司法部證實阿拉斯加調查，儘管其焦點仍不清楚",
@@ -897,7 +888,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T11:41:14.274Z"
+    "pushedAt": "2026-11-03T14:01:18.687Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
@@ -8439,7 +8430,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
     "image": null,
-    "pushedAt": "2026-11-03T11:41:41.202Z"
+    "pushedAt": "2026-11-03T14:01:43.025Z"
   },
   {
     "id": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55",
@@ -8447,8 +8438,8 @@
     "titleZh": "Apollo 借出創紀錄的 1,140 億美元資金，湧入人工智慧融資熱潮",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T11:41:46.367Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8991a220-a160-461e-8040-2175d03c0c80.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-03T14:02:08.775Z"
   },
   {
     "id": "https://www.ft.com/content/616837b7-9c0c-42ae-9b87-4407c454038a",
@@ -8457,7 +8448,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/616837b7-9c0c-42ae-9b87-4407c454038a",
     "image": null,
-    "pushedAt": "2026-11-03T11:41:49.836Z"
+    "pushedAt": "2026-11-03T14:02:32.542Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/eqt-buys-speedcast-s-ground-stations-unit-for-300-million",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/55190116-d0dd-499d-b295-df93bbf0ed37?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-03T14:00:51.455Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/russia-raises-crude-shipments-even-as-refineries-ramp-up",
+    "title": "Russia Raises Crude Shipments Even as Refineries Ramp Up",
+    "titleZh": "儘管煉油廠產量增加，俄羅斯仍增加原油出貨量",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/russia-raises-crude-shipments-even-as-refineries-ramp-up",
+    "image": null,
+    "pushedAt": "2026-11-03T14:02:59.755Z"
   }
 ]
