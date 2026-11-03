@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
-    "title": "Bessemer Trust CEO: Constructive on Markets",
-    "titleZh": "貝塞默信託執行長：對市場具有建設性",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
-    "image": null,
-    "pushedAt": "2026-10-30T19:45:04.479Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
     "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
     "titleZh": "Polymarket 和 Kalshi 面臨重大準確性測試：中期選舉",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
     "image": null,
     "pushedAt": "2026-11-03T10:47:00.018Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+    "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+    "titleZh": "幣安 63 億美元的駭客攻擊只是一個危險新時代的開始",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T10:47:26.601Z"
   }
 ]
