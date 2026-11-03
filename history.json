@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-    "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
-    "titleZh": "節慶開始至抗議日後，法國再次爆發衝突",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T17:48:25.648Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
     "titleZh": "FBI 將 60 億美元幣安加密貨幣駭客攻擊歸咎於朝鮮",
@@ -150,7 +141,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T17:46:21.363Z"
+    "pushedAt": "2026-11-03T21:05:05.370Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/china-s-upgraded-peru-trade-deal-takes-effect-widening-ties",
@@ -8465,8 +8456,8 @@
     "titleZh": "億萬富翁馬克沃爾特 (Mark Walter) 考慮出售價值 710 億美元的保險公司特拉華人壽 (Delaware Life)",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/570191b9-7910-4627-8779-6a382ef26613?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T17:46:53.269Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86c1e66a-7748-4afc-9950-9e4569161fea.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-03T21:05:31.058Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T21:04:35.064Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "title": "China’s AI stock-market struggles are a warning",
+    "titleZh": "中國人工智慧股市的困境是一個警告",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "image": null,
+    "pushedAt": "2026-11-03T21:06:26.162Z"
   }
 ]
