@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
-    "title": "Bloomberg Screentime: Streaming, AI & Creators",
-    "titleZh": "Bloomberg Screentime：串流媒體、人工智慧與創作者",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
-    "image": null,
-    "pushedAt": "2026-10-31T20:47:01.902Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html",
     "title": "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
     "titleZh": "休士頓大陪審團起訴 ICE 特工在追逐中撞人",
@@ -1761,7 +1752,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T11:01:52.002Z"
+    "pushedAt": "2026-11-03T13:23:27.707Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
@@ -2670,7 +2661,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
     "image": null,
-    "pushedAt": "2026-11-03T11:02:15.795Z"
+    "pushedAt": "2026-11-03T13:23:51.808Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
     "image": null,
     "pushedAt": "2026-11-03T13:23:00.725Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "title": "US midterms 2026: live results",
+    "titleZh": "2026 年美國中期選舉：即時結果",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "image": null,
+    "pushedAt": "2026-11-03T13:24:16.704Z"
   }
 ]
