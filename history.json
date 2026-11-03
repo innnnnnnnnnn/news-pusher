@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-    "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-    "titleZh": "FBI 將 60 億美元幣安加密貨幣駭客攻擊歸咎於朝鮮",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-    "image": null,
-    "pushedAt": "2026-11-01T16:29:07.156Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
     "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
     "titleZh": "市場對盧拉的意外勝利感到沮喪——這是有充分理由的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
     "image": null,
     "pushedAt": "2026-11-03T21:06:26.162Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+    "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+    "titleZh": "節慶開始至抗議日後，法國再次爆發衝突",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T21:07:01.383Z"
   }
 ]
