@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/btzaiw3nr",
-    "title": "The Mastermind Episode 1: An Arrogant Way of Killing",
-    "titleZh": "主謀第一集：囂張的殺戮方式",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/btzaiw3nr?ref=rss",
-    "image": "https://cdn.flipso.com/p/btzaiw3nr_square.jpg",
-    "pushedAt": "2026-11-03T11:38:38.269Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
     "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
     "titleZh": "標準普爾將 Meta 的信用評級展望下調至負面",
@@ -600,7 +591,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
     "image": "https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T11:13:57.947Z"
+    "pushedAt": "2026-11-03T13:34:27.985Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/charting-the-global-economy-central-banks-hold-rates-steady",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
     "image": null,
     "pushedAt": "2026-11-03T13:32:24.384Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances",
+    "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances",
+    "titleZh": "戰爭導致財政緊張，沙烏地阿拉伯預算赤字增加一倍多",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances",
+    "image": null,
+    "pushedAt": "2026-11-03T13:34:53.847Z"
   }
 ]
