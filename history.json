@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d",
-    "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
-    "titleZh": "圖斯克誓言繼續推進波蘭司法機構改革",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T15:32:36.333Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
     "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
     "titleZh": "北卡羅來納州，辣椒瑪格麗特酒中沾有除油劑，導致 5 人燒傷",
@@ -411,7 +402,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html",
     "image": "https://static01.nyt.com/images/2026/10/28/obituaries/280bit-lagu-topper/280bit-lagu-topper-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-03T17:59:37.405Z"
+    "pushedAt": "2026-11-03T21:18:09.463Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
@@ -420,7 +411,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
     "image": null,
-    "pushedAt": "2026-11-03T18:00:06.213Z"
+    "pushedAt": "2026-11-03T21:18:39.151Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html",
@@ -429,7 +420,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-corneroffice-ACLU-ztlj/01biz-corneroffice-ACLU-ztlj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T18:01:35.625Z"
+    "pushedAt": "2026-11-03T21:20:12.514Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
@@ -6949,12 +6940,12 @@
   },
   {
     "id": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5",
-    "title": "Wall Street braces as voters head to high-stakes polls",
+    "title": "Investors watch US state races for signs of backlash against AI boom",
     "titleZh": "華爾街為選民在高風險的美國中期選舉中投票做好準備",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31ccad00-094b-4434-92b2-50cc73bc2032.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T18:00:35.730Z"
+    "pushedAt": "2026-11-03T21:19:10.589Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
@@ -6963,7 +6954,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T18:01:06.534Z"
+    "pushedAt": "2026-11-03T21:19:42.097Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-ceo-says-he-d-love-to-ipo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/72pdqwkkg?ref=rss",
     "image": "https://cdn.flipso.com/p/72pdqwkkg_square.jpg",
     "pushedAt": "2026-11-03T21:17:19.509Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
+    "title": "AMD Sales Forecast Tops Estimates on Soaring AI Chip Demand",
+    "titleZh": "AMD 銷售預測因 AI 晶片需求飆升而超乎預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
+    "image": null,
+    "pushedAt": "2026-11-03T21:20:47.512Z"
   }
 ]
