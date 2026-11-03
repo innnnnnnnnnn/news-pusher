@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42",
-    "title": "Bank of England explores easing key limit on riskier mortgage lending",
-    "titleZh": "英格蘭銀行探索放寬對風險較高抵押貸款的關鍵限制",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T17:44:16.594Z"
-  },
-  {
     "id": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094",
     "title": "Lula’s surprise election victory sends agri-commodities tumbling",
     "titleZh": "盧拉出人意料的選舉勝利導致農產品暴跌",
@@ -4623,7 +4614,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T12:48:41.469Z"
+    "pushedAt": "2026-11-03T15:10:48.453Z"
   },
   {
     "id": "https://www.ft.com/content/c4fb0d1f-6c38-4446-af7a-9a7ccead0490",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
     "image": null,
     "pushedAt": "2026-11-03T15:10:21.584Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/us-job-openings-jump-to-highest-level-since-may-layoffs-fall",
+    "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
+    "titleZh": "美國職缺躍升至四個月高位，裁員人數下降",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/us-job-openings-jump-to-highest-level-since-may-layoffs-fall",
+    "image": null,
+    "pushedAt": "2026-11-03T15:11:16.911Z"
   }
 ]
