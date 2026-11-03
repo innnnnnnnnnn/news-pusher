@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2a01b14b-8b59-4a5b-af8c-69e8a3cd0550",
-    "title": "Offshore oil and gas workers turn to weight-loss drugs to meet 124kg limit",
-    "titleZh": "海上石油和天然氣工人轉向使用減肥藥來滿足124公斤的限制",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2a01b14b-8b59-4a5b-af8c-69e8a3cd0550?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-31T00:54:58.406Z"
-  },
-  {
     "id": "https://www.ft.com/content/e42fabdb-2fa1-47ef-a014-9873639c40ae",
     "title": "Partners plans to halve withdrawal limits on strained private equity fund",
     "titleZh": "合作夥伴計劃將緊張的私募股權基金的提款限額減半",
@@ -1734,7 +1725,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00int-vietnam-graves-mtjp/00int-vietnam-graves-mtjp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T03:07:44.068Z"
+    "pushedAt": "2026-11-03T05:36:56.816Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
@@ -1743,7 +1734,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Biz-ECB-Next-01-cqtz/30Biz-ECB-Next-01-cqtz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T03:08:09.190Z"
+    "pushedAt": "2026-11-03T05:37:21.279Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
@@ -6495,7 +6486,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T03:08:34.623Z"
+    "pushedAt": "2026-11-03T05:37:45.516Z"
   },
   {
     "id": "https://www.ft.com/content/c4fb0d1f-6c38-4446-af7a-9a7ccead0490",
@@ -7269,7 +7260,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T03:09:49.919Z"
+    "pushedAt": "2026-11-03T05:38:10.110Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
@@ -7656,7 +7647,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b17efe11-2963-45f1-a121-c8c0eec4131b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T03:10:15.249Z"
+    "pushedAt": "2026-11-03T05:38:36.990Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
@@ -7984,12 +7975,12 @@
   },
   {
     "id": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103",
-    "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
+    "title": "FirstFT: America votes",
     "titleZh": "FirstFT：英國《金融時報》民調顯示，絕大多數美國選民不贊成川普對通膨的處理方式",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T03:10:40.100Z"
+    "pushedAt": "2026-11-03T05:39:03.007Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/icahn-s-cvr-to-buy-marathon-refineries-for-4-billion-wsj-says",
     "image": null,
     "pushedAt": "2026-11-03T05:35:14.293Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/markets-and-economists-are-divided-beyond-a-boe-hike-this-week",
+    "title": "Markets and Economists Are Divided Beyond a BOE Hike This Week",
+    "titleZh": "除了英國央行本週升息之外，市場和經濟學家存在分歧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/markets-and-economists-are-divided-beyond-a-boe-hike-this-week",
+    "image": null,
+    "pushedAt": "2026-11-03T05:39:30.439Z"
   }
 ]
