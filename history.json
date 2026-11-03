@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-    "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-    "titleZh": "川普如何拆除美國的科學研究機器",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T09:55:44.034Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
     "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
     "titleZh": "在舊金山的 A.I.繁榮，第一次約會變成了採訪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/weil-gotshal-s-95-year-history-careens-to-a-close-video",
     "image": null,
     "pushedAt": "2026-11-03T19:51:15.790Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
+    "titleZh": "制衡通訊：民主黨令人作嘔的樂觀主義",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "image": null,
+    "pushedAt": "2026-11-03T19:52:07.611Z"
   }
 ]
