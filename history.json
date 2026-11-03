@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d",
-    "title": "Budget frees London to go on £10bn borrowing spree, says Sadiq Khan",
-    "titleZh": "薩迪克汗 (Sadiq Khan) 表示，預算案讓倫敦得以繼續大肆舉債 100 億英鎊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T11:47:47.934Z"
-  },
-  {
     "id": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8",
     "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
     "titleZh": "史蒂夫班農：中期選舉後共和黨將爆發“內戰”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
     "image": null,
     "pushedAt": "2026-11-03T17:57:05.862Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+    "title": "The New Hot Job in Law Doesn’t Require a J.D.",
+    "titleZh": "法律領域的新熱門工作不需要法學博士學位",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DB-legal-engineers-puri-gzhc/31DB-legal-engineers-puri-gzhc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T17:57:47.363Z"
   }
 ]
