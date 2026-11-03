@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-    "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-    "titleZh": "卡尼承諾加拿大成為歐盟首個“準成員”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-canada-assess-fmtk/30int-canada-assess-fmtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:19:10.196Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plunges-on-weak-outlook-closing-bell-video",
     "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell",
     "titleZh": "科技股拋售加劇，前景疲弱，英特爾股價重挫 29%結束鐘聲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/binance-loses-market-share-to-crypto-exchange-rivals-after-hack",
     "image": null,
     "pushedAt": "2026-11-03T12:28:17.378Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+    "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+    "titleZh": "歐巴馬醫改政策再次受到打擊，2027 年保費大幅上漲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-obamacare--mlbk/00biz-obamacare--mlbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T12:28:45.625Z"
   }
 ]
