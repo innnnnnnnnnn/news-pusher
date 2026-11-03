@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
-    "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-    "titleZh": "普丁在川普的大力協助下打破了孤立",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-russia-putin-week-cfkh/01int-russia-putin-week-cfkh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T21:27:15.565Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
     "title": "Where Do Israel’s Arab Parties Stand?",
     "titleZh": "以色列的阿拉伯政黨立場如何？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TEXAS-ADS-1-01-wlzk/TEXAS-ADS-1-01-wlzk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T23:17:33.318Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+    "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+    "titleZh": "幫助發明電視和 iPhone 平板顯示器的 Cyril Hilsum 去世，享年 101 歲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/obituaries/31obit-hilsum-family-03/31obit-hilsum-family-03-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T23:18:00.604Z"
   }
 ]
