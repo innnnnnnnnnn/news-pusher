@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/80da9ebf-4057-4ccb-896f-c34929889726",
-    "title": "Serbia comes back into the fold",
-    "titleZh": "塞爾維亞重返賽場",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/80da9ebf-4057-4ccb-896f-c34929889726?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T11:28:50.159Z"
-  },
-  {
     "id": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881",
     "title": "Chart of the Week: Bond investors may cheer gridlock",
     "titleZh": "本週圖表：債券投資者可能會為僵局歡呼",
@@ -357,7 +348,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
     "image": null,
-    "pushedAt": "2026-11-03T15:08:08.755Z"
+    "pushedAt": "2026-11-03T17:47:57.320Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
@@ -510,7 +501,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T15:07:43.642Z"
+    "pushedAt": "2026-11-03T17:47:29.480Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html",
@@ -537,7 +528,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T15:08:32.350Z"
+    "pushedAt": "2026-11-03T17:48:25.648Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
@@ -8556,7 +8547,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F990e1e16-deea-440a-87d0-71c69f83eea3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T15:09:26.089Z"
+    "pushedAt": "2026-11-03T17:48:51.463Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/570191b9-7910-4627-8779-6a382ef26613?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-03T17:46:53.269Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
+    "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+    "titleZh": "以色列聲稱擁有伊朗化學武器，美國官員意見分歧",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T17:49:20.679Z"
   }
 ]
