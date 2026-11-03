@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-surveillance-10-30-2026-video",
-    "title": "Stocks Fall After Amazon and Intel Deal Another Blow to AI Trade",
-    "titleZh": "亞馬遜和英特爾再次打擊人工智慧貿易後股市下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-surveillance-10-30-2026-video",
-    "image": null,
-    "pushedAt": "2026-10-30T16:48:44.913Z"
-  },
-  {
-    "id": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "titleZh": "Blackstone 表示，Anthropic 在 IPO 後可能無法獲得投資等級評級",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T06:35:33.222Z"
-  },
-  {
     "id": "https://www.ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4",
     "title": "The US midterms: the verdict on Donald Trump?",
     "titleZh": "美國中期選舉：唐納德·川普的判決如何？",
@@ -7215,7 +7197,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/graphics/2026-inflation-price-index/",
     "image": null,
-    "pushedAt": "2026-11-03T07:50:07.709Z"
+    "pushedAt": "2026-11-03T10:08:49.623Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/leaked-file-put-lenders-in-bind-before-acrisure-s-earnings-win",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/lsnq0qaet?ref=rss",
     "image": "https://cdn.flipso.com/p/lsnq0qaet_square.jpg",
     "pushedAt": "2026-11-03T10:08:22.368Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html",
+    "title": "Ken Burns: Why I’m Optimistic About the Midterms",
+    "titleZh": "肯伯恩斯：為什麼我對中期選舉持樂觀態度",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03burns-mkht/03burns-mkht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T10:09:17.214Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html",
+    "title": "Five Things I’m Watching for in Tuesday’s Midterms",
+    "titleZh": "我在周二的期中考中關注的五件事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/opinion/03soltisanderson-image/03soltisanderson-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T10:09:21.412Z"
   }
 ]
