@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/brasilia-em-off-o-que-lula-entendeu-das-urnas-video",
-    "title": "Brasília em Off: O que Lula entendeu das urnas",
-    "titleZh": "巴西利亞出發：O que Lula entendeu das urnas",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/brasilia-em-off-o-que-lula-entendeu-das-urnas-video",
-    "image": null,
-    "pushedAt": "2026-10-30T18:34:36.884Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/largest-us-grid-seeks-to-hold-data-center-power-auction-in-march",
     "title": "Largest US Grid Seeks to Hold Data Center Power Auction in March",
     "titleZh": "美國最大電網尋求在三月舉行資料中心電力拍賣",
@@ -4560,7 +4551,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T07:18:37.260Z"
+    "pushedAt": "2026-11-03T09:38:13.739Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
@@ -7314,7 +7305,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b448a1f-9641-4400-adbb-c7ce75c4591c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T07:19:34.695Z"
+    "pushedAt": "2026-11-03T09:38:38.435Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03-int-oz-socialmedia-jtgf/03-int-oz-socialmedia-jtgf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T09:26:41.579Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
+    "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+    "titleZh": "美國軍事打擊伊朗格甚姆島，美國官員稱這是防禦措施",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
+    "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T09:39:02.949Z"
   }
 ]
