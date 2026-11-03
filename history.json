@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
-    "title": "S. Korea Exports Extend Robust Growth as Chip Boom Continues",
-    "titleZh": "晶片繁榮持續，韓國出口延續強勁成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
-    "image": null,
-    "pushedAt": "2026-11-01T16:55:41.708Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html",
-    "title": "You Should Go to the Basement. Just Don’t Go Alone.",
-    "titleZh": "你應該去地下室。只是不要一個人去。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html",
-    "image": null,
-    "pushedAt": "2026-11-01T04:50:19.680Z"
-  },
-  {
     "id": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455",
     "title": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
     "titleZh": "豐田支持的卡車製造商押注售後服務以抵禦中國電動車競爭對手",
@@ -7485,7 +7467,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/brazilian-key-rate-forecasts-soar-after-lula-s-shock-reelection",
     "image": null,
-    "pushedAt": "2026-11-03T18:04:09.345Z"
+    "pushedAt": "2026-11-03T21:24:53.271Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/lovable-on-ai-built-software-video",
@@ -8461,12 +8443,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-    "title": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections",
+    "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
     "titleZh": "科技巨頭試圖遏制人工智慧產生的中期選舉的錯誤訊息",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T18:04:41.254Z"
+    "pushedAt": "2026-11-03T21:25:31.396Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/physical-oil-prices-tumbling-as-persian-gulf-crude-flows-recover",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31xp-drinks/31xp-drinks-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T21:24:06.100Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
+    "title": "Schneider Electric Coalition Spotlight",
+    "titleZh": "施耐德電機聯盟聚焦",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
+    "image": null,
+    "pushedAt": "2026-11-03T21:26:00.315Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/black-forest-lab-on-ai-s-next-phase-video",
+    "title": "Black Forest Lab on AI’s Next Phase",
+    "titleZh": "黑森林實驗室探討人工智慧的下一個階段",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/black-forest-lab-on-ai-s-next-phase-video",
+    "image": null,
+    "pushedAt": "2026-11-03T21:26:04.684Z"
   }
 ]
