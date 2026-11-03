@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/us-aluminum-group-urges-north-america-to-align-on-tariffs",
-    "title": "US Aluminum Group Urges North America to Align on Tariffs",
-    "titleZh": "美國鋁業集團敦促北美在關稅上保持一致",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-aluminum-group-urges-north-america-to-align-on-tariffs",
-    "image": null,
-    "pushedAt": "2026-10-30T15:00:33.924Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/blackstone-s-qts-vantage-vow-to-step-up-data-center-disclosures",
     "title": "Blackstone’s QTS, Vantage Vow to Step Up Data Center Disclosures",
     "titleZh": "Blackstone 的 QTS 和 Vantage 誓言加強資料中心披露",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
     "image": null,
     "pushedAt": "2026-11-03T08:17:17.698Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+    "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+    "titleZh": "3 人因與雅典市中心致命爆炸有關而被捕",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-greece-explosion-1-hbjk/30int-greece-explosion-1-hbjk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T08:17:46.750Z"
   }
 ]
