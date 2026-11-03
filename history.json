@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/arini-gets-bids-on-junk-debt-from-pimco-oaktree-as-losses-mount",
-    "title": "Arini Gets Bids on Junk Debt From Pimco, Oaktree as Losses Mount",
-    "titleZh": "隨著損失的增加，Arini 獲得了 Pimco 和 Oaktree 的垃圾債務投標",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/arini-gets-bids-on-junk-debt-from-pimco-oaktree-as-losses-mount",
-    "image": null,
-    "pushedAt": "2026-10-30T18:29:02.253Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/colombia-pauses-interest-rate-rises-as-economy-starts-to-weaken",
-    "title": "Colombia Suspends Interest Rate Increases as Economy Cools",
-    "titleZh": "由於經濟開始疲軟，哥倫比亞暫停升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/colombia-pauses-interest-rate-rises-as-economy-starts-to-weaken",
-    "image": null,
-    "pushedAt": "2026-10-31T16:46:59.292Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/people-don-t-know-their-retirement-number-conrath-video",
-    "title": "People Don't Know Their Retirement Number: Conrath",
-    "titleZh": "人們不知道自己的退休號碼：Conrath",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/people-don-t-know-their-retirement-number-conrath-video",
-    "image": null,
-    "pushedAt": "2026-10-30T18:46:46.796Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/ai-media-firm-needs-privacy-ombudsman-in-disney-deal-judge-says",
     "title": "AI Media Firm Needs Privacy Ombudsman in Disney Deal, Judge Says",
     "titleZh": "法官表示，人工智慧媒體公司在迪士尼交易中需要隱私監察員",
@@ -1464,7 +1437,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T09:17:45.622Z"
+    "pushedAt": "2026-11-03T11:41:14.274Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
@@ -6441,7 +6414,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-poland-russia01-photo-kjcl/02int-poland-russia01-photo-kjcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T09:17:20.937Z"
+    "pushedAt": "2026-11-03T11:40:50.144Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/palantir-executive-says-ukraine-support-is-controversial-in-us",
     "image": null,
     "pushedAt": "2026-11-03T11:40:22.562Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
+    "title": "Our current AI moment has darker historical echoes",
+    "titleZh": "我們目前的人工智慧時代有著更黑暗的歷史迴響",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
+    "image": null,
+    "pushedAt": "2026-11-03T11:41:41.202Z"
+  },
+  {
+    "id": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55",
+    "title": "Apollo lends record $114bn as it piles into AI financing boom",
+    "titleZh": "Apollo 借出創紀錄的 1,140 億美元資金，湧入人工智慧融資熱潮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-03T11:41:46.367Z"
+  },
+  {
+    "id": "https://www.ft.com/content/616837b7-9c0c-42ae-9b87-4407c454038a",
+    "title": "Grandma’s goulash – and other joys of the Polish kitchen",
+    "titleZh": "祖母的燉牛肉——以及波蘭廚房的其他樂趣",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/616837b7-9c0c-42ae-9b87-4407c454038a",
+    "image": null,
+    "pushedAt": "2026-11-03T11:41:49.836Z"
   }
 ]
