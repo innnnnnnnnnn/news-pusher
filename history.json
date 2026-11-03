@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/636fd85e-2f5f-4b98-91ff-75300df69908",
-    "title": "The bonkers business of tax breaks for entrepreneurs",
-    "titleZh": "為創業家提供稅收減免的瘋狂生意",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/636fd85e-2f5f-4b98-91ff-75300df69908",
-    "image": null,
-    "pushedAt": "2026-11-01T05:11:01.457Z"
-  },
-  {
     "id": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb",
     "title": "US midterms loom over jittery investors",
     "titleZh": "美國中期選舉籠罩著緊張不安的投資者",
@@ -4065,7 +4056,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/Biz-Wheels-WillowSprings-Video-still-bmjf/Biz-Wheels-WillowSprings-Video-still-bmjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:40:53.379Z"
+    "pushedAt": "2026-11-03T15:02:36.968Z"
   },
   {
     "id": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07",
@@ -4083,7 +4074,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2int-uk-king-voices-1-tvmw/2int-uk-king-voices-1-tvmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:41:16.828Z"
+    "pushedAt": "2026-11-03T15:03:00.893Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
@@ -4092,7 +4083,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:41:40.682Z"
+    "pushedAt": "2026-11-03T15:03:25.565Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
@@ -4101,7 +4092,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-deportees-Catherine-promo/00xp-deportees-Catherine-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:42:04.103Z"
+    "pushedAt": "2026-11-03T15:03:50.047Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
@@ -4110,7 +4101,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
     "image": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-03T12:43:22.048Z"
+    "pushedAt": "2026-11-03T15:04:14.213Z"
   },
   {
     "id": "https://flipso.com/p/xonoeaeb2",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/palantir-growth-slows-from-breakneck-pace-video",
     "image": null,
     "pushedAt": "2026-11-03T15:00:28.500Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/nj-governor-warns-ports-against-russian-diesel-allowed-by-trump",
+    "title": "NJ Governor Warns Ports Against Russian Diesel Allowed by Trump",
+    "titleZh": "新澤西州州長警告港口不要進口川普允許的俄羅斯柴油",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/nj-governor-warns-ports-against-russian-diesel-allowed-by-trump",
+    "image": null,
+    "pushedAt": "2026-11-03T15:04:42.997Z"
   }
 ]
