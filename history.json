@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a4978448-b5ab-4890-9ce5-596f4883816e",
-    "title": "The rightward march of Israel",
-    "titleZh": "以色列的右翼進軍",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a4978448-b5ab-4890-9ce5-596f4883816e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T05:08:41.746Z"
-  },
-  {
     "id": "https://www.ft.com/content/5719a0b6-80cb-415c-b349-c1e07dd46c36",
     "title": "French protests show BNP Paribas what’s in a name",
     "titleZh": "法國抗議活動向法國巴黎銀行展示了名字的意義",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/binance-loses-market-share-to-crypto-exchange-rivals-after-hack",
     "image": null,
-    "pushedAt": "2026-11-03T12:28:17.378Z"
+    "pushedAt": "2026-11-03T14:49:59.811Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/disney-targets-20-cost-savings-in-thousands-of-layoffs-video",
     "image": null,
     "pushedAt": "2026-11-03T14:41:02.964Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/binance-hackers-used-fake-job-interviews-in-6-3-billion-heist",
+    "title": "Binance Hackers Used Fake Job Interviews in $6.3 Billion Heist",
+    "titleZh": "幣安駭客利用虛假面試竊取 63 億美元資金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/binance-hackers-used-fake-job-interviews-in-6-3-billion-heist",
+    "image": null,
+    "pushedAt": "2026-11-03T14:50:28.102Z"
   }
 ]
