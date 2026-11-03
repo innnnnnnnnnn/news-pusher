@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9ecae3cf-e434-447d-b177-ecf368a2c3cb",
-    "title": "Stockpickers: London Stock Exchange, Ultimate Products, Revolution Beauty",
-    "titleZh": "選股者：倫敦證券交易所、Ultimate Products、Revolution Beauty",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9ecae3cf-e434-447d-b177-ecf368a2c3cb",
-    "image": null,
-    "pushedAt": "2026-11-01T05:45:44.067Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
     "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
     "titleZh": "幣安被駭客攻擊。加密貨幣客戶有哪些保護措施？",
@@ -2598,7 +2589,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
     "image": null,
-    "pushedAt": "2026-11-03T09:05:01.519Z"
+    "pushedAt": "2026-11-03T11:28:12.249Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
@@ -2607,7 +2598,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
     "image": null,
-    "pushedAt": "2026-11-03T09:05:26.486Z"
+    "pushedAt": "2026-11-03T11:28:37.491Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
@@ -2616,7 +2607,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
     "image": null,
-    "pushedAt": "2026-11-03T09:06:14.973Z"
+    "pushedAt": "2026-11-03T11:29:00.686Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
@@ -2625,7 +2616,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
     "image": null,
-    "pushedAt": "2026-11-03T09:06:39.935Z"
+    "pushedAt": "2026-11-03T11:29:25.308Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/27/american-bosses-are-desperately-trying-to-de-magafy",
@@ -6801,7 +6792,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T09:07:29.066Z"
+    "pushedAt": "2026-11-03T11:29:49.752Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/how-binance-s-6-billion-heist-unfolded-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F395f4513-45af-40bb-8752-074153f9bd33.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-03T11:21:57.781Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-03/marvell-lumentum-deal-puts-optical-networking-at-the-center-of-the-ai-boom",
+    "title": "Marvell-Lumentum Deal Puts Optical Networking at the Center of the AI Boom",
+    "titleZh": "Marvell 與 Lumentum 交易將光網路置於人工智慧熱潮的中心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/marvell-lumentum-deal-puts-optical-networking-at-the-center-of-the-ai-boom",
+    "image": null,
+    "pushedAt": "2026-11-03T11:30:15.934Z"
   }
 ]
