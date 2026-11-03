@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plummets-reddit-sinks-stock-movers-video",
-    "title": "Intel Plummets, Reddit Sinks | Stock Movers",
-    "titleZh": "英特爾暴跌，Reddit 下跌 |庫存搬運工",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plummets-reddit-sinks-stock-movers-video",
-    "image": null,
-    "pushedAt": "2026-10-30T14:29:11.666Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/astrazeneca-cfo-on-ai-earnings-restructuring-plan-video",
     "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan",
     "titleZh": "阿斯特捷利康財務長談人工智慧、獲利和重組計劃",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T07:47:32.359Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
+    "title": "Binance Hack Sends Crypto Stocks Tumbling",
+    "titleZh": "幣安駭客攻擊導致加密貨幣股票暴跌",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-crypto-markets-tqhz/30biz-crypto-markets-tqhz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T07:48:00.201Z"
   }
 ]
