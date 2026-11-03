@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/style/patrick-stewart-bald-hereditary-alopecia.html",
-    "title": "Patrick Stewart Embraced His Baldness and Became an Icon",
-    "titleZh": "派崔克史都華接受了自己的禿頭並成為了偶像",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/style/patrick-stewart-bald-hereditary-alopecia.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/ST-PATRICK-STEWART-BALD-1-vtgj/ST-PATRICK-STEWART-BALD-1-vtgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T09:46:08.340Z"
-  },
-  {
     "id": "https://www.ft.com/content/e0484ec6-f370-476f-8763-309f3d746ba9",
     "title": "Muji takes its China playbook global",
     "titleZh": "無印良品將其中國劇本推向全球",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/isomorphic-labs-on-ai-drug-discovery-video",
     "image": null,
     "pushedAt": "2026-11-03T14:04:18.365Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/brainco-on-brain-computer-interfaces-video",
+    "title": "Could the Human Brain Be the Next Computer Interface?",
+    "titleZh": "人腦會成為下一個電腦介面嗎？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/brainco-on-brain-computer-interfaces-video",
+    "image": null,
+    "pushedAt": "2026-11-03T14:04:47.830Z"
   }
 ]
