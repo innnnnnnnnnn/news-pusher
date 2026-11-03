@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
-    "title": "Susan Collins Is Always Keeping Score",
-    "titleZh": "蘇珊柯林斯總是記分",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T09:00:43.416Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
     "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
     "titleZh": "「我們來自地獄」：烏克蘭城市的撤離者講述生存故事",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
     "image": null,
     "pushedAt": "2026-11-03T20:20:53.417Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+    "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+    "titleZh": "法官駁回川普針對《華爾街日報》的 100 億美元訴訟",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+    "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00hfo-wsj-defamation-1-zklh/00hfo-wsj-defamation-1-zklh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T20:22:02.068Z"
   }
 ]
