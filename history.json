@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/3pyqf9j44",
-    "title": "Voyager 1: What Is a Light-Day",
-    "titleZh": "航海家 1 號：什麼是光日",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/3pyqf9j44?ref=rss",
-    "image": "https://cdn.flipso.com/p/3pyqf9j44_square.jpg",
-    "pushedAt": "2026-11-03T18:42:12.271Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/uk-s-healey-hints-at-delay-in-equalizing-minimum-wage-for-youths",
     "title": "UK’s Healey Says Benefits Bill Will Fall, Doesn’t Give Timeline",
     "titleZh": "英國希利暗示延後實現年輕人最低工資平等",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai",
     "image": null,
     "pushedAt": "2026-11-03T19:56:33.835Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
+    "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
+    "titleZh": "COP17 生物多樣性會談在亞美尼亞埃里溫舉行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T19:57:30.267Z"
   }
 ]
