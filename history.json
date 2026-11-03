@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-    "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
-    "titleZh": "我報道了天安門廣場大屠殺。它仍然讓我感到沉重。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T23:34:00.750Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/podcasts/the-headlines/trump-interventions-midterms-israeli-election.html",
     "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
     "titleZh": "川普政府加大中期幹預力度，以色列選舉尚無明確贏家",
@@ -3984,7 +3975,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T23:06:29.528Z"
+    "pushedAt": "2026-11-03T01:35:12.906Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
@@ -3993,7 +3984,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
     "image": null,
-    "pushedAt": "2026-11-02T23:06:57.909Z"
+    "pushedAt": "2026-11-03T01:35:38.172Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi",
@@ -4002,7 +3993,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi",
     "image": null,
-    "pushedAt": "2026-11-02T23:07:24.496Z"
+    "pushedAt": "2026-11-03T01:36:03.064Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/10/29/the-americans-changing-politics-for-the-better",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/franklin-templeton-ceo-on-investment-growth-outlook-video",
     "image": null,
     "pushedAt": "2026-11-03T01:34:44.369Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/l-g-am-ceo-on-apac-growth-outlook-video",
+    "title": "L&G AM CEO on APAC, Growth Outlook",
+    "titleZh": "L&G AM 亞太區首席執行官，成長前景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/l-g-am-ceo-on-apac-growth-outlook-video",
+    "image": null,
+    "pushedAt": "2026-11-03T01:36:30.279Z"
   }
 ]
