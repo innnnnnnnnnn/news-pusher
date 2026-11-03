@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/293a8f46-dd7d-4d63-a974-150ecafe7e4c",
-    "title": "Qatari negotiators return to Tehran in last-ditch mediation effort",
-    "titleZh": "卡達調解員返回德黑蘭，為促成臨時協議做最後努力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/293a8f46-dd7d-4d63-a974-150ecafe7e4c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-31T00:48:17.108Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/us-employment-cost-growth-holds-steady-stays-below-inflation",
-    "title": "US Employment Cost Growth Holds Steady, Stays Below Inflation",
-    "titleZh": "美國就業成本成長維持穩定，低於通膨率",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-employment-cost-growth-holds-steady-stays-below-inflation",
-    "image": null,
-    "pushedAt": "2026-10-30T12:38:58.529Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-has-requested-eu-leaders-start-search-for-lane-successor",
     "title": "ECB Has Requested EU Leaders Start Search for Lane Successor",
     "titleZh": "歐洲央行已要求歐盟領導人開始尋找車道繼任者",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-03T05:07:52.006Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
+    "title": "Better than expected Eurozone growth supports ECB’s tightening path",
+    "titleZh": "歐元區成長優於預期支持歐洲央行的緊縮政策",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
+    "image": null,
+    "pushedAt": "2026-11-03T05:08:21.172Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+    "title": "The Tech Tumult Rocks Wall Street",
+    "titleZh": "科技股的騷動震撼了華爾街",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30db-nyse-final-vclb/30db-nyse-final-vclb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T05:08:24.350Z"
   }
 ]
