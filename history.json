@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/37e4bc6b-ca6c-43f1-adc2-09cddc56a9ae",
-    "title": "Martin Wolf on the US midterms: What’s the risk of political violence?",
-    "titleZh": "馬丁沃爾夫談美國中期選舉：政治暴力的風險是什麼？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/37e4bc6b-ca6c-43f1-adc2-09cddc56a9ae?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-10-31T11:42:37.242Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
     "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
     "titleZh": "香港電台稱 2026 年經濟成長可能是五年來最強勁",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/security-firm-tied-to-openai-anthropic-ai-hacks-blames-error",
     "image": null,
     "pushedAt": "2026-11-03T15:58:10.676Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
+    "title": "Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal",
+    "titleZh": "川普稱美國將結束對以色列40億美元的援助以支持新政",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-trump-israel-vjpz/03dc-trump-israel-vjpz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T15:58:40.632Z"
   }
 ]
