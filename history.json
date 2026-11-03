@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
-    "title": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom",
-    "titleZh": "大型科技公司為 AI 繁榮做出了 3 兆美元的支出承諾",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
-    "image": null,
-    "pushedAt": "2026-10-31T18:20:47.571Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
     "title": "Can Scientists Make Football Safer?",
     "titleZh": "科學家能讓足球更安全嗎？",
@@ -3966,7 +3957,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T09:38:13.739Z"
+    "pushedAt": "2026-11-03T12:02:41.192Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
@@ -5559,7 +5550,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T09:37:23.578Z"
+    "pushedAt": "2026-11-03T12:02:16.493Z"
   },
   {
     "id": "https://www.ft.com/content/04772b49-0aec-4acc-b2cb-1fae192a5f60",
@@ -6719,8 +6710,8 @@
     "titleZh": "蘋果 iPhone 和 Mac 的強勁銷售抵消了中國市場疲軟的表現",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b448a1f-9641-4400-adbb-c7ce75c4591c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T09:38:38.435Z"
+    "image": null,
+    "pushedAt": "2026-11-03T12:03:05.994Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T12:01:48.949Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/midterm-elections-trump-democrats-republicans-key-themes.html",
+    "title": "6 Themes to Watch for in the Midterms Elections Results",
+    "titleZh": "中期選舉結果值得關注的 6 個主題",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/midterm-elections-trump-democrats-republicans-key-themes.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03pol-what-to-watch-bvkm/03pol-what-to-watch-bvkm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T12:03:31.662Z"
   }
 ]
