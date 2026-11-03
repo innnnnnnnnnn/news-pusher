@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-lane-says-ai-significant-contributor-to-euro-area-growth",
-    "title": "ECB’s Lane Says AI Significant Contributor to Euro-Area Growth",
-    "titleZh": "歐洲央行行長萊恩表示人工智慧對歐元區成長做出了重要貢獻",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-lane-says-ai-significant-contributor-to-euro-area-growth",
-    "image": null,
-    "pushedAt": "2026-10-30T21:26:17.842Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/big-oil-scores-56b-windfall-on-spiking-fuel-prices-video",
-    "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
-    "titleZh": "石油巨頭因燃油價格上漲而獲得 560 億美元的意外之財",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/big-oil-scores-56b-windfall-on-spiking-fuel-prices-video",
-    "image": null,
-    "pushedAt": "2026-10-30T19:04:17.143Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/miami-firms-buy-intercontinental-hotel-for-about-300-million",
     "title": "Miami Firms Buy InterContinental Hotel for About $300 Million",
     "titleZh": "邁阿密公司以約 3 億美元收購洲際酒店",
@@ -8655,7 +8637,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/jefferies-ceo-visits-india-as-us-firm-eyes-expansion-hiring",
     "image": null,
-    "pushedAt": "2026-11-03T07:47:04.288Z"
+    "pushedAt": "2026-11-03T10:03:42.737Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
@@ -8664,7 +8646,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T07:47:32.359Z"
+    "pushedAt": "2026-11-03T10:04:07.013Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
@@ -8673,7 +8655,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-crypto-markets-tqhz/30biz-crypto-markets-tqhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T07:48:00.201Z"
+    "pushedAt": "2026-11-03T10:04:31.284Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/hochstein-markets-should-be-cognizant-of-strike-risk-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T10:02:25.329Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/media/laura-belin-iowa-political-reporter.html",
+    "title": "For Iowa Journalist Laura Belin, Covering Politics Is a Constant Battle",
+    "titleZh": "對愛荷華州記者勞拉貝林來說，報道政治是一場持久戰",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/media/laura-belin-iowa-political-reporter.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/BIZ-IOWA-BELIN-02-wzfb/BIZ-IOWA-BELIN-02-wzfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T10:04:58.600Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+    "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+    "titleZh": "無視消費者法，保險公司拒絕支付緊急護理的醫療費用",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-insurer-nonpay-helo-hgwf/00dc-insurer-nonpay-helo-hgwf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T10:05:04.511Z"
   }
 ]
