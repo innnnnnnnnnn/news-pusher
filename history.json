@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
-    "title": "Cheap data is great for Indians but not for India’s reputation",
-    "titleZh": "廉價數據對印度人來說很好，但對印度的聲譽不利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
-    "image": null,
-    "pushedAt": "2026-11-03T21:48:47.166Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
     "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
     "titleZh": "內塔尼亞胡繼續掌權的努力將考驗他的政治悟性",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-russia-putin-week-cfkh/01int-russia-putin-week-cfkh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T23:18:30.031Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
+    "title": "Where Do Israel’s Arab Parties Stand?",
+    "titleZh": "以色列的阿拉伯政黨立場如何？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-israel-arab-parties-hfkw/01int-israel-arab-parties-hfkw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T23:18:58.452Z"
   }
 ]
