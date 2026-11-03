@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-    "title": "Hundreds of Thousands Join Another Round of Protests in France",
-    "titleZh": "即時更新：數十萬人參加法國的另一輪抗議活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T21:26:38.398Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
     "title": "Russia has seized a Japanese journalist",
     "titleZh": "俄羅斯扣留一名日本記者",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02afghan-deport-folo-vqgm/02afghan-deport-folo-vqgm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T19:34:32.865Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+    "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+    "titleZh": "也門戰爭愈演愈烈，敘利亞考慮加入沙烏地阿拉伯共同防禦協定",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T19:35:18.165Z"
   }
 ]
