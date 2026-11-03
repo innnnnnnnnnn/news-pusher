@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
-    "title": "Tech Stocks Tumble as AI Fears Collide With Earnings Misses",
-    "titleZh": "亞馬遜加劇人工智慧支出恐懼後，科技股可望下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
-    "image": null,
-    "pushedAt": "2026-10-31T19:12:55.167Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
     "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
     "titleZh": "埃克森美孚因戰爭驅動的汽油、柴油價格飆升而獲得創紀錄的煉油利潤",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/ukizu9v2s?ref=rss",
     "image": "https://cdn.flipso.com/p/ukizu9v2s_square.jpg",
     "pushedAt": "2026-11-03T03:23:19.890Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
+    "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
+    "titleZh": "美國石油業在伊朗戰爭期間賺了超過1300億美元的利潤",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/2026-10-26-oil-profits-index/2026-10-26-oil-profits-index-mediumSquareAt3X-v4.png",
+    "pushedAt": "2026-11-03T03:23:48.015Z"
   }
 ]
