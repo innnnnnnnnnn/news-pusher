@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-    "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-    "titleZh": "也門戰爭愈演愈烈，敘利亞考慮加入沙烏地阿拉伯共同防禦協定",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T17:20:41.268Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
     "title": "Hundreds of Thousands Join Another Round of Protests in France",
     "titleZh": "即時更新：數十萬人參加法國的另一輪抗議活動",
@@ -5941,12 +5932,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
-    "title": "Copper Slumps Below $14,000 as Tech Selloff Rattles LME Metals",
+    "title": "Copper Falls as Traders Assess AI Trade, US-Iran Diplomacy Hopes",
     "titleZh": "人工智慧股再度遭遇拋售，銅、錫隨基本金屬下跌",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
     "image": null,
-    "pushedAt": "2026-11-03T12:42:28.209Z"
+    "pushedAt": "2026-11-03T19:33:13.336Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/solomon-on-tech-supercycle-bumps-video",
@@ -7413,7 +7404,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
     "image": null,
-    "pushedAt": "2026-11-03T16:33:17.201Z"
+    "pushedAt": "2026-11-03T19:31:55.879Z"
   },
   {
     "id": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55",
@@ -7421,8 +7412,8 @@
     "titleZh": "Apollo 借出創紀錄的 1,140 億美元資金，湧入人工智慧融資熱潮",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8991a220-a160-461e-8040-2175d03c0c80.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T16:33:41.454Z"
+    "image": null,
+    "pushedAt": "2026-11-03T19:32:35.575Z"
   },
   {
     "id": "https://www.ft.com/content/616837b7-9c0c-42ae-9b87-4407c454038a",
@@ -7467,7 +7458,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/briefing/its-election-day.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03themorning-nl-LEAD-bmlh/03themorning-nl-LEAD-bmlh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T16:35:25.203Z"
+    "pushedAt": "2026-11-03T19:34:04.271Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
@@ -8385,7 +8376,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/trading-on-us-stock-perpetuals-contracts-is-approved-by-cftc",
     "image": null,
-    "pushedAt": "2026-11-03T16:32:48.817Z"
+    "pushedAt": "2026-11-03T19:31:19.120Z"
   },
   {
     "id": "https://www.ft.com/content/29e0bba8-8ff4-413d-b2fa-91bc198f1a20",
@@ -8394,7 +8385,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/29e0bba8-8ff4-413d-b2fa-91bc198f1a20?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T16:34:56.240Z"
+    "pushedAt": "2026-11-03T19:33:38.934Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/delivery-app-grab-sees-return-on-ai-says-cfo-video",
     "image": null,
     "pushedAt": "2026-11-03T19:30:12.884Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
+    "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
+    "titleZh": "數十名阿富汗婦女被驅逐到阿富汗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02afghan-deport-folo-vqgm/02afghan-deport-folo-vqgm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T19:34:32.865Z"
   }
 ]
