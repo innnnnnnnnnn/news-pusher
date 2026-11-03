@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-    "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
-    "titleZh": "DeepSeek 放棄增強型編碼代理，瞄準競爭對手 Anthropic",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-    "image": null,
-    "pushedAt": "2026-11-01T16:43:08.745Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low",
-    "title": "Australia Home Auction Clearance Rate Falls to Six-Year Low",
-    "titleZh": "澳洲房屋拍賣清盤率跌至六年低點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low",
-    "image": null,
-    "pushedAt": "2026-11-01T16:44:49.778Z"
-  },
-  {
     "id": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a",
     "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
     "titleZh": "量化對沖基金將從 Tudor 分拆出來，發行規模創紀錄 90 億美元",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/ai-industry-on-safety-and-control-video",
     "image": null,
     "pushedAt": "2026-11-03T21:50:44.712Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
+    "title": "Thailand’s Most Famous Snake Catcher",
+    "titleZh": "泰國最著名的捕蛇者",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/019nt-snakecatcher-profile-videocoverimage-pvjh/019nt-snakecatcher-profile-videocoverimage-pvjh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T21:51:21.169Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
+    "title": "Korean Language Picks Up in Japan",
+    "titleZh": "韓國語在日本興起",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-japan-korea-slang-01-vzqc/00int-japan-korea-slang-01-vzqc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T21:51:24.186Z"
   }
 ]
