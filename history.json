@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/pslf-lawsuit.html",
-    "title": "Lawsuit Accuses Education Department of Throttling Student Debt Cancellation",
-    "titleZh": "訴訟指控教育部限制學生債務取消",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/pslf-lawsuit.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-pslfsuit-qkmt/30biz-pslfsuit-qkmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-30T20:12:10.752Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/dining/drinks/marvin-shanken-wine-dead.html",
     "title": "Marvin Shanken, Publisher of Wine Spectator and Cigar Aficionado, Has Died",
     "titleZh": "《葡萄酒觀察家》和《雪茄愛好者》的出版人馬文‧尚肯去世",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-opening-trade-11-03-2026-video",
     "image": null,
     "pushedAt": "2026-11-03T12:14:50.151Z"
+  },
+  {
+    "id": "https://www.ft.com/content/050d5ed2-83e7-4ebb-a781-0daa3874797c",
+    "title": "In the shadow of war, Silicon Valley sprinkles stardust",
+    "titleZh": "戰爭陰影下的矽谷灑滿星塵",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/050d5ed2-83e7-4ebb-a781-0daa3874797c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-03T12:15:19.806Z"
   }
 ]
