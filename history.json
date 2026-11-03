@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
-    "title": "Rich Steinmeier on a Career in Management",
-    "titleZh": "里奇·施泰因邁爾的管理生涯",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
-    "image": null,
-    "pushedAt": "2026-10-31T13:06:33.875Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html",
     "title": "Prosecutors Suggest They May Seek Additional Comey Charges",
     "titleZh": "檢察官表示他們可能會尋求額外的科米指控",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03db-elections-bvhw/03db-elections-bvhw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T12:43:50.004Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
+    "title": "Can Europe Build AI Sovereignty at Scale?",
+    "titleZh": "歐洲能否大規模建立人工智慧主權？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
+    "image": null,
+    "pushedAt": "2026-11-03T12:44:19.186Z"
   }
 ]
