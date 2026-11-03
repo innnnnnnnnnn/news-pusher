@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
-    "title": "Binance Hack Sends Crypto Stocks Tumbling",
-    "titleZh": "幣安駭客攻擊導致加密貨幣股票暴跌",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-crypto-markets-tqhz/30biz-crypto-markets-tqhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T06:24:15.972Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plummets-reddit-sinks-stock-movers-video",
     "title": "Intel Plummets, Reddit Sinks | Stock Movers",
     "titleZh": "英特爾暴跌，Reddit 下跌 |庫存搬運工",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/jefferies-ceo-visits-india-as-us-firm-eyes-expansion-hiring",
     "image": null,
     "pushedAt": "2026-11-03T07:47:04.288Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+    "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+    "titleZh": "蔑視克里姆林宮的俄羅斯新聞媒體將關閉：“他們殺了我們”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T07:47:32.359Z"
   }
 ]
