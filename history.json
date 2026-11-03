@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
-    "title": "Curry Barker Narrates a Scene From ‘Obsession’",
-    "titleZh": "庫裡·巴克講述《痴迷》中的一個場景",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
-    "image": null,
-    "pushedAt": "2026-10-31T08:11:29.420Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
     "title": "Elon Musk’s Endgame",
     "titleZh": "伊隆馬斯克的動力是什麼？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/palantir-is-concerned-about-europe-s-slow-ai-adoption-video",
     "image": null,
     "pushedAt": "2026-11-03T11:36:07.714Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+    "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+    "titleZh": "幣安被駭客攻擊。加密货币客户有哪些保护措施？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T11:36:35.871Z"
   }
 ]
