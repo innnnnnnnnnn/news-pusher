@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb",
-    "title": "US midterms loom over jittery investors",
-    "titleZh": "美國中期選舉籠罩著緊張不安的投資者",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-01T05:11:25.002Z"
-  },
-  {
     "id": "https://www.ft.com/content/8a26c5ed-820b-4653-8bf0-d9ee4f20bdcd",
     "title": "Entrepreneurs question Budget rhetoric on relief and red tape",
     "titleZh": "創業家質疑預算案有關救濟和繁文縟節的言論",
@@ -7980,7 +7971,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:44:45.480Z"
+    "pushedAt": "2026-11-03T15:05:59.546Z"
   },
   {
     "id": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5",
@@ -8502,7 +8493,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03db-elections-bvhw/03db-elections-bvhw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:43:50.004Z"
+    "pushedAt": "2026-11-03T15:05:11.674Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
@@ -8511,7 +8502,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
     "image": null,
-    "pushedAt": "2026-11-03T12:44:19.186Z"
+    "pushedAt": "2026-11-03T15:05:35.486Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/senegal-lawmakers-reject-budget-in-setback-for-imf-program-talks",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/nj-governor-warns-ports-against-russian-diesel-allowed-by-trump",
     "image": null,
     "pushedAt": "2026-11-03T15:04:42.997Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/ai-minister-says-the-uk-isn-t-ready-for-extremely-likely-cyber-attacks",
+    "title": "AI Minister Says the UK Isn’t Ready for ‘Extremely Likely’ Cyber Attacks",
+    "titleZh": "人工智慧部長表示英國尚未準備好應對「極有可能」的網路攻擊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-minister-says-the-uk-isn-t-ready-for-extremely-likely-cyber-attacks",
+    "image": null,
+    "pushedAt": "2026-11-03T15:06:28.648Z"
   }
 ]
