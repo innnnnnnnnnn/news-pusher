@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
-    "title": "Credit Market’s Most Trusted Hedges Are Breaking in AI Era",
-    "titleZh": "人工智慧債務加劇了公司債和信用對沖之間的分歧",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
-    "image": null,
-    "pushedAt": "2026-10-30T17:29:21.519Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
     "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
     "titleZh": "3 人因與雅典市中心致命爆炸有關而被捕",
@@ -6387,7 +6378,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-ai-micro-midterms-cfzk/02biz-ai-micro-midterms-cfzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T05:49:30.385Z"
+    "pushedAt": "2026-11-03T08:13:56.086Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
@@ -8196,7 +8187,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f43d4e2a-7f11-4d28-a069-d4774bfbd229?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-03T05:49:05.969Z"
+    "pushedAt": "2026-11-03T08:13:31.497Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
@@ -8205,7 +8196,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
     "image": null,
-    "pushedAt": "2026-11-03T05:49:57.926Z"
+    "pushedAt": "2026-11-03T08:14:20.504Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-s-huang-gave-blessing-to-marvell-lumentum-megadeal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/amer-bgn-investing-in-ships-as-iran-war-disrupts-trade-video",
     "image": null,
     "pushedAt": "2026-11-03T08:13:04.412Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/marin-ypf-eyes-november-deal-with-xrg-and-eni-video",
+    "title": "Marin: YPF Eyes November Deal with XRG and Eni (Video)",
+    "titleZh": "馬林：YPF 計劃在 11 月與 XRG 和埃尼達成交易（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/marin-ypf-eyes-november-deal-with-xrg-and-eni-video",
+    "image": null,
+    "pushedAt": "2026-11-03T08:14:46.527Z"
   }
 ]
