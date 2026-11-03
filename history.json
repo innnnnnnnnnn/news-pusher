@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82",
-    "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
-    "titleZh": "美國負擔能力追蹤：可能決定 2026 年中期選舉的數據",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T09:22:19.244Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
     "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
     "titleZh": "隨著保費再次上漲，歐巴馬醫改再次受到打擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-wealth-fund-raises-3-billion-loan-backed-by-italy-s-sace",
     "image": null,
     "pushedAt": "2026-11-03T12:22:50.345Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+    "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+    "titleZh": "訴訟指控教育部透過 PSLF 計劃限制債務取消",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-pslfsuit-qkmt/30biz-pslfsuit-qkmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T12:23:19.152Z"
   }
 ]
