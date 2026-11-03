@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
-    "title": "New York Bought an Electric Ferry. The City Can’t Charge It.",
-    "titleZh": "紐約買了一艘電動渡輪。城市無法收費。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T22:20:29.533Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
     "title": "Another Toll of the Violent Unrest in France: The Political Center",
     "titleZh": "法國暴力騷亂的另一個代價：政治中心",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-colombia-killings-promo/00int-colombia-killings-tlfj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T00:14:38.952Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
+    "title": "Why the Markets Don’t Care About the Midterms",
+    "titleZh": "為什麼市場不關心中期選舉",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
+    "image": null,
+    "pushedAt": "2026-11-03T00:15:08.818Z"
   }
 ]
