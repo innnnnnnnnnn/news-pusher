@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
-    "title": "Checks and Balance newsletter: If American voters lived under one roof",
-    "titleZh": "制衡通訊：如果美國選民住在一個屋簷下",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
-    "image": null,
-    "pushedAt": "2026-10-31T10:37:28.557Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video",
-    "title": "Binance’s $6.3 Billion Cyber Heist Shows Crypto Vulnerabilities",
-    "titleZh": "幣安 63 億美元的網路搶劫暴露了加密貨幣漏洞",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video",
-    "image": null,
-    "pushedAt": "2026-10-30T21:21:04.247Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-lane-says-ai-significant-contributor-to-euro-area-growth",
     "title": "ECB’s Lane Says AI Significant Contributor to Euro-Area Growth",
     "titleZh": "歐洲央行行長萊恩表示人工智慧對歐元區成長做出了重要貢獻",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/d92053ff-a6fb-4672-93ff-4cb55cb87786?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-03T10:01:49.953Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
+    "title": "Wanted: a news researcher in Beijing",
+    "titleZh": "誠聘：北京新聞研究員",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
+    "image": null,
+    "pushedAt": "2026-11-03T10:02:22.202Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+    "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+    "titleZh": "儘管面臨迫害風險，美國仍將數十人送回阿富汗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T10:02:25.329Z"
   }
 ]
