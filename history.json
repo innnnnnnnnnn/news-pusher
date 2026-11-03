@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/on2c2st40",
-    "title": "The Commanding Heights",
-    "titleZh": "制高點",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/on2c2st40?ref=rss",
-    "image": "https://cdn.flipso.com/p/on2c2st40_square.jpg",
-    "pushedAt": "2026-11-03T16:27:05.021Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/bank-of-england-may-raise-high-risk-mortgage-threshold-ft-says",
     "title": "Bank of England May Raise High-Risk Mortgage Threshold, FT Says",
     "titleZh": "英國《金融時報》稱英格蘭銀行可能提高高風險抵押貸款門檻",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
     "image": "https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T16:47:56.279Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/can-apple-defend-its-premium-video",
+    "title": "Can Apple Defend Its Premium?",
+    "titleZh": "蘋果能否捍衛其溢價？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/can-apple-defend-its-premium-video",
+    "image": null,
+    "pushedAt": "2026-11-03T16:48:26.629Z"
   }
 ]
