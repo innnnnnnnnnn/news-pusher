@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-    "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
-    "titleZh": "以色列的選舉不太可能改變其政策和全球孤立",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-israel-global-01-tczp/30int-israel-global-01-tczp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T22:36:25.400Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
     "title": "Taking the Saga of a Criminal Gang From Page to Screen to Opera Stage",
     "titleZh": "將犯罪集團的傳奇從書本、銀幕到歌劇舞台",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T00:15:38.480Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+    "title": "Another Toll of the Violent Unrest in France: The Political Center",
+    "titleZh": "法國暴力騷亂的另一個代價：政治中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-03T00:16:07.717Z"
   }
 ]
