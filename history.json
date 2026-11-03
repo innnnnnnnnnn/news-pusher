@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
-    "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
-    "titleZh": "北卡羅來納州，辣椒瑪格麗特酒中沾有除油劑，導致 5 人燒傷",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31xp-drinks/31xp-drinks-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T20:41:15.672Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797",
-    "title": "Michigan Democrat endorses Republican as feud roils key Senate race",
-    "titleZh": "密西根州的不和威脅到民主黨在參議院關鍵競選中的團結",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T08:50:08.100Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
     "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
     "titleZh": "美國中期選舉前的亞洲股票交易者指南",
@@ -429,7 +411,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TEXAS-ADS-1-01-wlzk/TEXAS-ADS-1-01-wlzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T18:02:07.925Z"
+    "pushedAt": "2026-11-03T21:21:37.829Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
@@ -5109,7 +5091,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02obit-Nordhaus-vhzj/02obit-Nordhaus-vhzj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T18:03:10.193Z"
+    "pushedAt": "2026-11-03T21:22:38.469Z"
   },
   {
     "id": "https://flipso.com/p/9r7b5isbh",
@@ -5478,7 +5460,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
     "image": null,
-    "pushedAt": "2026-11-03T18:02:39.959Z"
+    "pushedAt": "2026-11-03T21:22:08.954Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/openai-says-former-army-secretary-dan-driscoll-to-join-company",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
     "image": null,
     "pushedAt": "2026-11-03T21:20:47.512Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
+    "title": "Jack Dorsey’s Block Modestly Beats Third-Quarter Expectations",
+    "titleZh": "傑克·多西 (Jack Dorsey) 的區塊略微超出了第三季度的預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
+    "image": null,
+    "pushedAt": "2026-11-03T21:23:10.756Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video",
+    "title": "Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell",
+    "titleZh": "人工智慧資料中心銷售前景強勁，超微股價上漲 |結束鐘聲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video",
+    "image": null,
+    "pushedAt": "2026-11-03T21:23:15.916Z"
   }
 ]
