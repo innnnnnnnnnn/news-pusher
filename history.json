@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
-    "title": "Why Did So Many People File Early for Social Security Last Year?",
-    "titleZh": "為什麼去年有這麼多人提前申請社會安全保障？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/well/31Well-NOA-Social-Security/31Well-NOA-Social-Security-mediumSquareAt3X-v4.jpg",
-    "pushedAt": "2026-11-03T15:56:24.918Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
     "title": "What Does Running the N.Y.C. Marathon Sound Like?",
     "titleZh": "運行紐約是什麼意思？馬拉松聽起來怎麼樣？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-alt-protein-01-hvcq/30biz-alt-protein-01-hvcq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-03T16:44:32.791Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
+    "title": "The U.S. Becomes a Global Hub for Horse Racing",
+    "titleZh": "美國成為全球賽馬中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00Biz-sheikhbreederscup-wpvt/00Biz-sheikhbreederscup-wpvt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T16:45:00.753Z"
   }
 ]
