@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
-    "title": "The U.S. Becomes a Global Hub for Horse Racing",
-    "titleZh": "美國成為全球賽馬中心",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00Biz-sheikhbreederscup-wpvt/00Biz-sheikhbreederscup-wpvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T15:55:35.061Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
     "title": "Why Did So Many People File Early for Social Security Last Year?",
     "titleZh": "為什麼去年有這麼多人提前申請社會安全保障？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/44e578ac-e2e5-43b4-946d-06ebb82d27e6",
     "image": null,
     "pushedAt": "2026-11-03T16:44:03.274Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
+    "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
+    "titleZh": "選擇另一種蛋白質？儘管價格昂貴，美國人仍然想要牛肉。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-alt-protein-01-hvcq/30biz-alt-protein-01-hvcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-03T16:44:32.791Z"
   }
 ]
