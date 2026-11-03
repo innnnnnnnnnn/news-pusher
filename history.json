@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
-    "title": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed",
-    "titleZh": "為什麼海莉史蒂文斯無法停止談論阿卜杜勒賽義德",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-haley-stevens-01-lqvt/31pol-haley-stevens-01-lqvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-10-31T21:28:17.620Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/31/us/politics/nebraska-senate-poll.html",
-    "title": "Pete Ricketts Leads Dan Osborn in Nebraska Senate Race, Poll Finds",
-    "titleZh": "民調顯示，皮特·里基茨 (Pete Ricketts) 在內布拉斯加州參議員競選中領先丹·奧斯本 (Dan Osborn)",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/us/politics/nebraska-senate-poll.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-10-23-fl-mn-sc-nebraska/2026-10-23-fl-mn-sc-nebraska-mediumSquareAt3X-v5.jpg",
-    "pushedAt": "2026-10-31T14:40:02.693Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
     "title": "Talarico Makes Final Election Pitch to Texans: ‘You Are My Slingshot’",
     "titleZh": "塔拉里科向德克薩斯人進行最後的競選宣傳：“你是我的彈弓”",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/apple-narrowing-margins-overshadow-holiday-forecast-video",
     "image": null,
     "pushedAt": "2026-11-03T16:56:28.055Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/chile-pension-funds-breath-sigh-of-relief-as-swap-losses-narrow",
+    "title": "Chile Pension Funds Breath Sigh of Relief as Swap Losses Narrow",
+    "titleZh": "互換損失收窄，智利退休基金鬆了一口氣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/chile-pension-funds-breath-sigh-of-relief-as-swap-losses-narrow",
+    "image": null,
+    "pushedAt": "2026-11-03T16:56:59.802Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
+    "title": "Morgan Stanley Offers $2.3 Billion Debt for Dell Family Deal",
+    "titleZh": "摩根士丹利為戴爾家族交易提供 23 億美元債務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
+    "image": null,
+    "pushedAt": "2026-11-03T16:57:04.545Z"
   }
 ]
