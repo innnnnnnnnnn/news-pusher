@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/euronext-joins-industry-push-to-integrate-nordic-capital-markets",
-    "title": "Euronext Joins Push for Integrated Nordic Capital Markets",
-    "titleZh": "泛歐交易所加入產業推動整合北歐資本市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/euronext-joins-industry-push-to-integrate-nordic-capital-markets",
-    "image": null,
-    "pushedAt": "2026-11-02T13:57:39.653Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/oaktree-s-marks-on-long-term-investing-video",
     "title": "Oaktree's Marks on Long-term Investing",
     "titleZh": "橡樹長期投資的標誌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/san-francisco-s-bart-gets-lifeline-as-voters-approve-new-tax",
     "image": null,
     "pushedAt": "2026-11-04T12:03:37.251Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/briefing/a-blue-wave.html",
+    "title": "A Blue Wave",
+    "titleZh": "藍色的波浪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/briefing/a-blue-wave.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04themorning-nl-dem-wave-qbwz/04themorning-nl-dem-wave-qbwz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T12:04:08.128Z"
   }
 ]
