@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals",
-    "title": "OpenAI’s Altman Signs Energy, Investment Deals in the UAE",
-    "titleZh": "OpenAI 的 Altman 前往阿聯酋簽署能源、投資協議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals",
-    "image": null,
-    "pushedAt": "2026-11-02T14:20:47.800Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-02/ftse-100-live-updates-pound-gilts-pmi-data-trump-iran-oil-prices-ryanair-what-s-moving-uk-markets-right-now-markets-today",
     "title": "FTSE 100 Live: UK Stocks Set to Lag Europe in Tech Rebound",
     "titleZh": "富時 100 即時指數：英國股市在科技股反彈方面將落後於歐洲",
@@ -3633,7 +3624,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1a81ea73-6dc8-4d94-8cbf-f88891872bb0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T10:02:06.113Z"
+    "pushedAt": "2026-11-04T12:34:02.521Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/the-asia-trade-11-3-2026-video",
@@ -6648,7 +6639,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
     "image": null,
-    "pushedAt": "2026-11-04T10:01:42.775Z"
+    "pushedAt": "2026-11-04T12:33:38.201Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/venezuela-moves-to-unwind-hate-speech-law-that-jailed-thousands",
@@ -8457,7 +8448,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T10:03:19.191Z"
+    "pushedAt": "2026-11-04T12:34:28.715Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/boehringer-sino-enter-cancer-drug-deal-worth-over-7-billion",
@@ -8474,8 +8465,8 @@
     "titleZh": "「一種深深的欺騙感」：年輕的共和黨人正視美國中期選舉的潰敗",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T10:03:51.000Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ebd76b4-f0f4-4e4d-8bac-87a6d0a61c0f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-04T12:34:54.398Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video",
     "image": null,
     "pushedAt": "2026-11-04T12:33:10.233Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/ukraine-bonds-jump-as-democrat-win-seen-helping-defense-efforts",
+    "title": "Ukraine Bonds Jump as Democrat Win Seen Helping Defense Efforts",
+    "titleZh": "民主黨獲勝有助於國防努力，烏克蘭公債大幅上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/ukraine-bonds-jump-as-democrat-win-seen-helping-defense-efforts",
+    "image": null,
+    "pushedAt": "2026-11-04T12:35:22.208Z"
   }
 ]
