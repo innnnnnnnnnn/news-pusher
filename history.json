@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-    "title": "What Israeli Election Results Reveal About the Electorate",
-    "titleZh": "以色列選舉結果揭示了選民的哪些情況",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T15:00:57.029Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/credit-boss-at-top-canada-pension-warns-of-bubble-like-ai-rush",
     "title": "Credit Boss at Top Canada Pension Warns of ‘Bubble-Like’ AI Rush",
     "titleZh": "加拿大頂級退休金信貸老闆警告「泡沫式」人工智慧熱潮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
     "image": null,
     "pushedAt": "2026-11-04T22:32:44.654Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+    "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+    "titleZh": "人工智慧如何讓微目標選民變得比以往更容易",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-ai-micro-midterms-cfzk/02biz-ai-micro-midterms-cfzk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T22:33:13.945Z"
   }
 ]
