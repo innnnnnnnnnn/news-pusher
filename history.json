@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/pakistan-inflation-cools-as-energy-risks-cloud-outlook",
-    "title": "Pakistan Inflation Stays Elevated as Risks Cloud Outlook",
-    "titleZh": "能源風險籠罩前景，巴基斯坦通膨降溫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/pakistan-inflation-cools-as-energy-risks-cloud-outlook",
-    "image": null,
-    "pushedAt": "2026-11-03T03:33:06.096Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/indian-bonds-rally-as-oil-falls-higher-yields-attract-buyers",
     "title": "Indian Bonds Rally as Oil Falls, Higher Yields Attract Buyers",
     "titleZh": "印度公債因油價下跌而上漲，殖利率上升吸引買家",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep",
     "image": null,
     "pushedAt": "2026-11-04T16:32:26.995Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+    "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+    "titleZh": "內塔尼亞胡和艾森科特尋求成為以色列總理",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-israel-wrangling-mgkf/02int-israel-wrangling-mgkf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T16:32:58.681Z"
   }
 ]
