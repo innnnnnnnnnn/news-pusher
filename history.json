@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
-    "title": "Volkswagen ‘Must Act Quickly’ After Largest Loss in Over a Decade",
-    "titleZh": "大眾汽車在遭遇十多年來最大虧損後“必須迅速採取行動”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/biz-volkswagen-china-hbvl/biz-volkswagen-china-hbvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T13:47:40.921Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-    "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-    "titleZh": "DoorDash 將以 170 億美元收購 Instacart，合併兩大快遞巨頭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/-00biz-doordash-hfo-2-gqtv/-00biz-doordash-hfo-2-gqtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T13:48:04.564Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
     "title": "Christine Lagarde to Step Down as President of European Central Bank",
     "titleZh": "克里斯蒂娜·拉加德將辭去歐洲央行行長職務",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/q0cqae589?ref=rss",
     "image": "https://cdn.flipso.com/p/q0cqae589_square.jpg",
     "pushedAt": "2026-11-04T05:24:04.030Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e",
+    "title": "Trump’s American slapdown for the ages",
+    "titleZh": "川普對美國的長期打擊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc1bda7c6-db22-4723-a67d-4e411e9cb1a6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-04T05:24:36.214Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+    "title": "Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto",
+    "titleZh": "民主黨的勝利讓川普從人工智慧股票轉向加密貨幣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+    "image": null,
+    "pushedAt": "2026-11-04T05:24:40.143Z"
   }
 ]
