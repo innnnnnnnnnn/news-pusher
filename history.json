@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/spotify-investor-creandum-raises-750m-fund-video",
-    "title": "Spotify Investor Creandum Raises $750M Fund",
-    "titleZh": "Spotify 投資者 Creandum 籌集 7.5 億美元資金",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/spotify-investor-creandum-raises-750m-fund-video",
-    "image": null,
-    "pushedAt": "2026-11-02T09:28:32.869Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/altman-says-ai-will-transform-the-economics-of-energy-video",
     "title": "Altman Says AI Will Transform the Economics of Energy",
     "titleZh": "奧特曼表示人工智慧將改變能源經濟學",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/y58gx9jid?ref=rss",
     "image": "https://cdn.flipso.com/p/y58gx9jid_square.jpg",
     "pushedAt": "2026-11-04T14:31:07.772Z"
+  },
+  {
+    "id": "https://flipso.com/p/hvld6efyj",
+    "title": "Bones may release proteins that slow aging and extend life span",
+    "titleZh": "骨骼可能會釋放減緩老化和延長壽命的蛋白質",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/hvld6efyj?ref=rss",
+    "image": "https://cdn.flipso.com/p/hvld6efyj_square.jpg",
+    "pushedAt": "2026-11-04T14:31:36.673Z"
   }
 ]
