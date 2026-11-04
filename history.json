@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/nse-shares-win-wall-street-backing-after-muted-trading-debut",
-    "title": "NSE Shares Win Wall Street Backing After Muted Trading Debut",
-    "titleZh": "NSE 股票在交易首次亮相後贏得了華爾街的支持",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/nse-shares-win-wall-street-backing-after-muted-trading-debut",
-    "image": null,
-    "pushedAt": "2026-11-02T05:06:40.592Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/the-bank-of-england-ponders-a-new-normal-for-interest-rates",
     "title": "The Bank of England Ponders a New Normal for Interest Rates",
     "titleZh": "英國央行思考利率新常態",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/stock-bulls-are-glad-this-election-is-finally-over",
     "image": null,
     "pushedAt": "2026-11-04T11:23:25.067Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+    "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
+    "titleZh": "國際足總悄悄為詹尼·因凡蒂諾繳納了數百萬美元的稅款",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-04T11:23:54.273Z"
   }
 ]
