@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "title": "U.S. GDP Increased 3.4% in Third Quarter",
-    "titleZh": "美國第三季GDP成長3.4%",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v9.png",
-    "pushedAt": "2026-11-02T18:32:01.463Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
     "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
     "titleZh": "在逐步採取行動的過程中，聯準會面臨必須追趕以抑制通膨的風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/opinion/jon-ossoff-georgia-senate.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03beinart-jon-ossoff-bw-tight-qbjv/03beinart-jon-ossoff-bw-tight-qbjv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T01:07:07.371Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+    "title": "Treasuries Advance as Traders Eye US Votes, Refinancing Plans",
+    "titleZh": "交易員關注美國投票和再融資計劃，國債上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+    "image": null,
+    "pushedAt": "2026-11-04T01:20:12.977Z"
   }
 ]
