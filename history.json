@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-    "title": "How The New York Times Is Covering the Midterm Elections",
-    "titleZh": "紐約時報如何報導中期選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03new-york-times-midterm-elections-hgtm/03new-york-times-midterm-elections-hgtm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T13:33:49.841Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html",
     "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
     "titleZh": "迪士尼樂園的 Autopia 遊樂設施將改用電動車",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a55bf156-1c61-4ff6-8c3c-5b8db837abd0?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T15:01:24.635Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/bank-of-england-s-new-inflation-gauge-provides-some-reassurance",
+    "title": "Bank of England’s New Inflation Gauge Provides Some Reassurance",
+    "titleZh": "英格蘭銀行的新通膨指標提供了一些保證",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/bank-of-england-s-new-inflation-gauge-provides-some-reassurance",
+    "image": null,
+    "pushedAt": "2026-11-04T15:01:56.195Z"
   }
 ]
