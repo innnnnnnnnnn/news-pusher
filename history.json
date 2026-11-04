@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525",
-    "title": "How Putin has split the west",
-    "titleZh": "普丁如何分裂西方",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e13c835-ce9c-4577-ae78-0476a8fefa4d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T10:52:09.749Z"
-  },
-  {
     "id": "https://flipso.com/p/1nzpi7z4e",
     "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
     "titleZh": "從查理曼大帝到廚房男孩：讀漢堡市政廳",
@@ -942,7 +933,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-poland-russia01-photo-kjcl/02int-poland-russia01-photo-kjcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T17:54:53.300Z"
+    "pushedAt": "2026-11-04T20:18:17.645Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
@@ -5046,7 +5037,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
     "image": null,
-    "pushedAt": "2026-11-04T17:55:18.018Z"
+    "pushedAt": "2026-11-04T20:18:41.675Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/apple-s-upbeat-outlook-overshadowed-by-margin-squeeze-video",
@@ -6900,7 +6891,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T17:53:38.414Z"
+    "pushedAt": "2026-11-04T20:17:52.962Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/opinion/talarico-hinojosa-texas-democrats.html",
@@ -7557,7 +7548,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-inflation-accelerates-to-double-the-ecb-s-target",
     "image": null,
-    "pushedAt": "2026-11-04T17:53:14.436Z"
+    "pushedAt": "2026-11-04T20:17:28.055Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/opinion/midterms-democrats-senate-house-results.html",
@@ -8664,7 +8655,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-companies-add-86-000-jobs-more-than-forecast-adp-data-show",
     "image": null,
-    "pushedAt": "2026-11-04T17:55:44.464Z"
+    "pushedAt": "2026-11-04T20:19:05.661Z"
   },
   {
     "id": "https://www.ft.com/content/7a7f5d4f-8e82-48c2-be31-024f8b5a32d7",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02db-nyse-kvhz/02db-nyse-kvhz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T20:17:01.005Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-10-30/us-treasury-borrows-record-839-billion-in-auctions-this-week",
+    "title": "US Treasury Borrows Record $839 Billion in Single Week",
+    "titleZh": "美國財政部單週借款創紀錄 8,390 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-treasury-borrows-record-839-billion-in-auctions-this-week",
+    "image": null,
+    "pushedAt": "2026-11-04T20:19:32.367Z"
   }
 ]
