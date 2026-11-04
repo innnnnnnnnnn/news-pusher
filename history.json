@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/millennium-s-raiskin-says-asia-markets-enjoying-regulatory-aid",
-    "title": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid",
-    "titleZh": "Millennium 的 Raiskin 表示亞洲市場正在享受監管援助",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/millennium-s-raiskin-says-asia-markets-enjoying-regulatory-aid",
-    "image": null,
-    "pushedAt": "2026-11-02T03:34:39.108Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/ntt-s-matsubara-on-cyberattacks-in-japan-video",
     "title": "NTT's Matsubara on Cyberattacks in Japan",
     "titleZh": "NTT 的松原談日本的網路攻擊",
@@ -1977,7 +1968,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
     "image": null,
-    "pushedAt": "2026-11-04T07:28:00.854Z"
+    "pushedAt": "2026-11-04T09:36:04.247Z"
   },
   {
     "id": "https://www.ft.com/content/7a6ab0a2-854a-4328-befa-360ab5a701b5",
@@ -5604,7 +5595,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "image": null,
-    "pushedAt": "2026-11-04T07:29:42.015Z"
+    "pushedAt": "2026-11-04T09:37:15.764Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
@@ -6027,7 +6018,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/da34f13c-e138-4f08-b9af-ddfcaad791bf?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T07:29:18.805Z"
+    "pushedAt": "2026-11-04T09:36:52.428Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/security-firm-tied-to-openai-anthropic-ai-hacks-blames-error",
@@ -7143,7 +7134,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-japan-korea-slang-01-vzqc/00int-japan-korea-slang-01-vzqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T07:26:51.235Z"
+    "pushedAt": "2026-11-04T09:35:40.884Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/amd-earnings-met-the-bar-wedbush-s-bryson-says-video",
@@ -8749,12 +8740,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/m-s-grocery-sales-bounce-back-after-last-year-s-cyberattack",
-    "title": "M&S Grocery Sales Bounce Back After Last Year’s Cyberattack",
+    "title": "M&S Sales Bounce Back After Last Year’s Cyberattack",
     "titleZh": "瑪莎百貨雜貨銷售額在去年的網路攻擊後反彈",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/m-s-grocery-sales-bounce-back-after-last-year-s-cyberattack",
     "image": null,
-    "pushedAt": "2026-11-04T07:28:28.969Z"
+    "pushedAt": "2026-11-04T09:36:29.122Z"
   },
   {
     "id": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/094b6bda-4d0e-4968-919e-62d25b2246dc?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T09:32:06.296Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-wage-growth-to-slow-sharply-next-year-in-boost-for-ecb",
+    "title": "Euro-Zone Wage Growth to Slow Sharply Next Year in Boost for ECB",
+    "titleZh": "明年歐元區薪資成長將大幅放緩，提振歐洲央行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-wage-growth-to-slow-sharply-next-year-in-boost-for-ecb",
+    "image": null,
+    "pushedAt": "2026-11-04T09:37:40.642Z"
   }
 ]
