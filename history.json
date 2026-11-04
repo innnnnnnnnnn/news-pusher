@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/acb93ad2-b2a2-493c-af85-d5c166ea43d6",
-    "title": "London’s 12 best pasta dishes, chosen by chef Jacob Kenedy",
-    "titleZh": "由主廚 Jacob Kenedy 選出的倫敦 12 道最佳麵食菜餚",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/acb93ad2-b2a2-493c-af85-d5c166ea43d6",
-    "image": null,
-    "pushedAt": "2026-11-02T11:54:35.542Z"
-  },
-  {
     "id": "https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971",
     "title": "Why rich Ireland still feels poor",
     "titleZh": "為什麼富裕的愛爾蘭仍然感覺貧窮",
@@ -1995,7 +1986,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
     "image": "https://static01.nyt.com/images/2026/10/30/climate/00cli-autopia-01/00cli-autopia-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T08:48:27.157Z"
+    "pushedAt": "2026-11-04T11:08:15.374Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing",
@@ -4506,7 +4497,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-sudan-drone-analysis-1-vqbl/03int-sudan-drone-analysis-1-vqbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T08:48:50.651Z"
+    "pushedAt": "2026-11-04T11:08:38.653Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
@@ -4515,7 +4506,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-mexico-dayofdead-dispatch01a-photo-hwmj/03int-mexico-dayofdead-dispatch01a-photo-hwmj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T08:49:37.348Z"
+    "pushedAt": "2026-11-04T11:09:02.067Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/podcasts/the-headlines/midterm-election-results.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04theheadlines-dems-hlzq/04theheadlines-dems-hlzq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T11:04:45.695Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/ecb-s-lagarde-says-hot-summer-should-be-a-warning-for-europe",
+    "title": "ECB’s Lagarde Says Hot Summer Should be a Warning for Europe",
+    "titleZh": "歐洲央行總裁拉加德表示炎熱的夏季應該給歐洲敲響警鐘",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/ecb-s-lagarde-says-hot-summer-should-be-a-warning-for-europe",
+    "image": null,
+    "pushedAt": "2026-11-04T11:09:27.416Z"
   }
 ]
