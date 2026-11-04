@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-    "title": "Newly Freed American Describes His Years in Russian Prison",
-    "titleZh": "剛獲釋的美國人講述了他在俄羅斯監獄的歲月",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-    "image": "https://static01.nyt.com/images/2026/11/29/multimedia/29int-ukraine-hubbard-sub-pclb/29int-ukraine-hubbard-sub-pclb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T17:41:13.293Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/us-factory-activity-picks-up-production-grows-most-since-2021",
-    "title": "US Manufacturing Activity Accelerates as Production Picks Up",
-    "titleZh": "美國工廠活動回升，產量創 2021 年以來最大增幅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-factory-activity-picks-up-production-grows-most-since-2021",
-    "image": null,
-    "pushedAt": "2026-11-03T10:55:04.201Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
     "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
     "titleZh": "Polymarket 正在調查對以色列選舉的可疑押注",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/04/nyregion/katie-suarez-stabbing-brooklyn-jogger-nyc.html",
     "image": "https://static01.nyt.com/images/2026/12/03/multimedia/03met-brooklyn-stabbing-promo/03met-brooklyn-stabbing-hzfp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T22:39:28.981Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+    "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
+    "titleZh": "Anthropic 公佈 IPO 後營收達 170 億美元方法",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T22:39:57.480Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/sony-needs-more-than-gta-and-spider-man-to-lift-stock-further",
+    "title": "Sony Needs More Than ‘GTA’ and Spider-Man to Lift Stock Further",
+    "titleZh": "索尼需要的不只是《俠盜獵車手》和《蜘蛛人》來進一步提振庫存",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/sony-needs-more-than-gta-and-spider-man-to-lift-stock-further",
+    "image": null,
+    "pushedAt": "2026-11-04T22:40:01.858Z"
   }
 ]
