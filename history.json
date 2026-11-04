@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
-    "title": "How Marathons Changed",
-    "titleZh": "馬拉松如何改變",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/briefing/how-marathons-changed.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01themorning-nl-LEAD-plfg/01themorning-nl-LEAD-plfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T16:47:18.690Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
     "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
     "titleZh": "澳洲房價在預期升息前進一步下跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/china-boosts-market-defense-with-national-team-buying-buybacks",
     "image": null,
     "pushedAt": "2026-11-04T03:09:18.121Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce",
+    "title": "US critical minerals push delivers a gold rush — for Washington lobbyists",
+    "titleZh": "美國關鍵礦產的推動引發了華盛頓遊說者的淘金熱",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T03:09:46.784Z"
   }
 ]
