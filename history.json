@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/us-pushes-for-russia-to-resume-gas-sales-to-europe-wsj-reports",
-    "title": "US Pushes for Russia to Resume Gas Sales to Europe, WSJ Reports",
-    "titleZh": "根據《華爾街日報》報道，美國敦促俄羅斯恢復向歐洲銷售天然氣",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-pushes-for-russia-to-resume-gas-sales-to-europe-wsj-reports",
-    "image": null,
-    "pushedAt": "2026-11-02T03:02:24.503Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
-    "title": "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
-    "titleZh": "高盛因「重大」供應風險上調油價預測",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
-    "image": null,
-    "pushedAt": "2026-11-02T03:08:27.197Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
     "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
     "titleZh": "橡樹資本 (Oaktree) 的霍華德馬克斯 (Howard Marks) 表示，人工智慧的失誤加劇了人們的懷疑",
@@ -1923,7 +1905,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-ai-micro-midterms-cfzk/02biz-ai-micro-midterms-cfzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T07:04:47.918Z"
+    "pushedAt": "2026-11-04T09:14:03.042Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
@@ -6045,7 +6027,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/job-openings-jump-as-factory-durable-orders-also-rise-video",
     "image": null,
-    "pushedAt": "2026-11-04T07:04:24.021Z"
+    "pushedAt": "2026-11-04T09:13:39.422Z"
   },
   {
     "id": "https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/crop-trader-olam-to-bet-400-million-more-on-africa-s-diet-shift",
     "image": null,
     "pushedAt": "2026-11-04T09:13:12.574Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion",
+    "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion",
+    "titleZh": "谷歌將斥資 150 億美元擴建馬來西亞資料中心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion",
+    "image": null,
+    "pushedAt": "2026-11-04T09:14:29.545Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/oaktree-data-center-firm-pure-secures-up-to-1-9-billion-in-debt",
+    "title": "Oaktree Data Center Firm Pure Secures Up to $1.9 Billion in Debt",
+    "titleZh": "橡樹資料中心公司 Pure 獲得高達 19 億美元的債務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/oaktree-data-center-firm-pure-secures-up-to-1-9-billion-in-debt",
+    "image": null,
+    "pushedAt": "2026-11-04T09:14:35.640Z"
   }
 ]
