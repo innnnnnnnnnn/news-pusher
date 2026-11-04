@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
-    "title": "Chilean, Mexican Pesos Lead EM Currencies Higher as Oil Sinks",
-    "titleZh": "由於交易者等待伊朗進展和美國數據，新興市場匯率下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
-    "image": null,
-    "pushedAt": "2026-11-03T02:49:51.246Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/coal-india-unit-south-eastern-coalfields-files-for-india-ipo-mvypw49t",
-    "title": "Coal India Unit South Eastern Coalfields Files for India IPO",
-    "titleZh": "印度煤炭公司東南煤田申請印度首次公開募股",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/coal-india-unit-south-eastern-coalfields-files-for-india-ipo-mvypw49t",
-    "image": null,
-    "pushedAt": "2026-11-02T04:00:24.693Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/thailand-eyes-expanding-its-largest-port-to-meet-trade-boom",
     "title": "Thailand Eyes Expanding its Largest Port to Meet Trade Boom",
     "titleZh": "泰國著眼於擴大其最大港口以滿足貿易繁榮",
@@ -8349,7 +8331,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T07:41:24.180Z"
+    "pushedAt": "2026-11-04T09:50:33.561Z"
   },
   {
     "id": "https://www.ft.com/content/f902e954-6d0c-43c4-9a19-9e10ac3ecfe2",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-assess-kgzh/04dc-trump-assess-kgzh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T09:49:51.249Z"
+  },
+  {
+    "id": "https://www.ft.com/content/656f10c4-26ec-430e-adfa-dcadf0dd61ff",
+    "title": "Copper and conflict trigger record profits for Japan’s commodity traders",
+    "titleZh": "銅和衝突為日本大宗商品交易商帶來創紀錄的利潤",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/656f10c4-26ec-430e-adfa-dcadf0dd61ff?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T09:50:59.283Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+    "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+    "titleZh": "以色列總統可以在打破選舉後僵局方面發揮關鍵作用",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T09:51:01.992Z"
   }
 ]
