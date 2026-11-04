@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-kazimir-says-markets-may-underestimate-what-s-needed",
-    "title": "ECB’s Kazimir Says Markets May Underestimate What’s Needed",
-    "titleZh": "歐洲央行行長卡濟米爾表示市場可能低估了需求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-kazimir-says-markets-may-underestimate-what-s-needed",
-    "image": null,
-    "pushedAt": "2026-11-03T05:08:51.875Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/uk-s-bii-targets-2-25-billion-for-africa-s-riskiest-markets",
-    "title": "UK’s BII Targets £2.25 Billion for Africa’s Riskiest Markets",
-    "titleZh": "英國 BII 目標為非洲風險最高的市場提供 22.5 億英鎊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/uk-s-bii-targets-2-25-billion-for-africa-s-riskiest-markets",
-    "image": null,
-    "pushedAt": "2026-11-04T04:19:09.005Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
     "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
     "titleZh": "大型科技公司的資料中心閃電戰正在燒光現金並嚇壞華爾街",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-04/bloomberg-surveillance-11-4-2026-video",
     "image": null,
     "pushedAt": "2026-11-04T19:21:45.505Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba",
+    "title": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
+    "titleZh": "由於美國燃料供應跌至20年來的最低點，川普與俄羅斯的柴油交易陷入困境",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T19:22:16.192Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85",
+    "title": "Gates says Trump inaction leaves world exposed to AI bioweapons",
+    "titleZh": "蓋茲表示，川普的不作為讓世界面臨人工智慧生物武器的威脅",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T19:22:19.970Z"
   }
 ]
