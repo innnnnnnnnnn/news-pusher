@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c",
-    "title": "FirstFT: Donald Trump makes his final pitch to voters",
-    "titleZh": "FirstFT：海灣地區為美國和伊朗之間的新戰爭做好準備",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T06:06:18.518Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/01/nyregion/nyc-book-before-new-york-mannahatta.html",
     "title": "The Ecologist Surveying What NYC Looked Like Before the Concrete",
     "titleZh": "生態學家調查紐約市在混凝土建成之前的樣子",
@@ -2607,7 +2598,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02right-concede-01-btjv/02right-concede-01-btjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T04:09:52.100Z"
+    "pushedAt": "2026-11-04T06:33:29.625Z"
   },
   {
     "id": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
     "image": null,
     "pushedAt": "2026-11-04T06:26:05.859Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99",
+    "title": "Democrats take Congress as Americans deliver stunning rebuke to Trump",
+    "titleZh": "美國人對川普令人震驚的譴責，但民主黨人卻在國會",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T06:33:56.035Z"
   }
 ]
