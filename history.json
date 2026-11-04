@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
-    "title": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
-    "titleZh": "紐森和哈里斯一起出現，幾乎沒有暗示接下來會發生什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
-    "image": "https://static01.nyt.com/images/2026/12/01/multimedia/01midterms-nat-newsom-harris-mflg/01midterms-nat-newsom-harris-mflg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T09:48:47.467Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
     "title": "The Big Change Coming in U.S.-China Relations in the Age of A.I.",
     "titleZh": "人工智慧時代的中美關係將不再一樣",
@@ -7233,7 +7224,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
     "image": null,
-    "pushedAt": "2026-11-04T09:32:32.332Z"
+    "pushedAt": "2026-11-04T11:59:12.128Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
@@ -8529,7 +8520,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/094b6bda-4d0e-4968-919e-62d25b2246dc?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T09:32:06.296Z"
+    "pushedAt": "2026-11-04T11:58:47.094Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-wage-growth-to-slow-sharply-next-year-in-boost-for-ecb",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T11:58:18.080Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-04/the-pulse-11-4-2026-video",
+    "title": "Democrats Sweep House and Senate in Midterm Rebuke of Trump",
+    "titleZh": "民主黨在中期選舉中橫掃參眾兩院，譴責川普",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-pulse-11-4-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-04T11:59:41.217Z"
   }
 ]
