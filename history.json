@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-01/australia-set-for-fifth-rate-hike-as-inflation-fight-intensifies",
-    "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies",
-    "titleZh": "隨著通膨鬥爭加劇，澳洲將第五次升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/australia-set-for-fifth-rate-hike-as-inflation-fight-intensifies",
-    "image": null,
-    "pushedAt": "2026-11-02T11:35:06.589Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
     "title": "Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
     "titleZh": "內特·西爾弗談民調的結果以及他的直覺告訴他的",
@@ -5595,7 +5586,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
     "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T03:16:48.665Z"
+    "pushedAt": "2026-11-04T05:39:48.462Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/palantir-executive-says-ukraine-support-is-controversial-in-us",
@@ -6567,7 +6558,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T03:15:56.464Z"
+    "pushedAt": "2026-11-04T05:38:56.649Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/quant-trader-s-criminal-trial-to-spotlight-secretive-industry",
@@ -7773,7 +7764,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-03/focus-hope-ceo-on-detroit-s-economic-development-video",
     "image": null,
-    "pushedAt": "2026-11-04T03:16:23.786Z"
+    "pushedAt": "2026-11-04T05:39:23.540Z"
   },
   {
     "id": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8",
@@ -7781,8 +7772,8 @@
     "titleZh": "CVS Health 擬拆除價值 1,170 億美元的醫療保健帝國",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96bf127a-64a0-4fb4-a3a1-f1653190aa41.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T03:17:15.174Z"
+    "image": null,
+    "pushedAt": "2026-11-04T05:40:13.830Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video",
@@ -8322,7 +8313,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-household-spending-exceeds-estimate-boosted-by-fuel",
     "image": null,
-    "pushedAt": "2026-11-04T03:15:30.978Z"
+    "pushedAt": "2026-11-04T05:38:31.516Z"
   },
   {
     "id": "https://www.ft.com/content/a03d241a-5e93-41ae-b019-50879c6d1ad9",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T05:38:02.879Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+    "title": "How the Stock Market Is Reacting to the Midterm Elections",
+    "titleZh": "股市對中期選舉的反應",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+    "image": null,
+    "pushedAt": "2026-11-04T05:40:40.998Z"
   }
 ]
