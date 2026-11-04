@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
-    "title": "Let China copy American AI",
-    "titleZh": "讓中國複製美國人工智慧",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
-    "image": null,
-    "pushedAt": "2026-11-03T22:13:25.516Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi",
     "title": "What to make of 25 years of Narendra Modi",
     "titleZh": "莫迪執政 25 週年有何意義？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
     "image": null,
     "pushedAt": "2026-11-04T00:11:32.448Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
+    "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
+    "titleZh": "從奧列什基撤離的烏克蘭人講述生存故事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
+    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T00:12:02.189Z"
   }
 ]
