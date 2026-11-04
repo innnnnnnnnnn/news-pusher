@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
-    "title": "Indonesia Court Voids VP’s High-School Equivalency Certificate",
-    "titleZh": "印尼法院撤銷副總裁的高中同等學歷證書",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
-    "image": null,
-    "pushedAt": "2026-11-02T03:58:40.790Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
     "title": "Chilean, Mexican Pesos Lead EM Currencies Higher as Oil Sinks",
     "titleZh": "由於交易者等待伊朗進展和美國數據，新興市場匯率下跌",
@@ -8322,7 +8313,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e1d21f92-ef86-4bec-bc6f-05a179c5e6d9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T07:39:47.553Z"
+    "pushedAt": "2026-11-04T09:48:16.682Z"
   },
   {
     "id": "https://www.ft.com/content/41f0e298-42f9-4bb5-8a48-090db4d493ef",
@@ -8331,7 +8322,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/41f0e298-42f9-4bb5-8a48-090db4d493ef",
     "image": null,
-    "pushedAt": "2026-11-04T07:40:11.697Z"
+    "pushedAt": "2026-11-04T09:48:39.803Z"
   },
   {
     "id": "https://www.ft.com/content/98c0f7eb-c1c5-4e98-8319-17dec5783367",
@@ -8340,16 +8331,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/98c0f7eb-c1c5-4e98-8319-17dec5783367?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T07:40:36.419Z"
+    "pushedAt": "2026-11-04T09:49:03.359Z"
   },
   {
     "id": "https://www.ft.com/content/bd3a7cd8-f82b-45da-ba5c-eccb408fa5fc",
-    "title": "From Ponzi to Fonzi: the $20bn fraud scandal rocking Turkey",
+    "title": "The $20bn scandal shaking Turkey",
     "titleZh": "從龐氏騙局到豐氏騙局：震撼土耳其 200 億美元的詐欺醜聞",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bd3a7cd8-f82b-45da-ba5c-eccb408fa5fc?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T07:41:00.249Z"
+    "pushedAt": "2026-11-04T09:49:27.410Z"
   },
   {
     "id": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/saudi-arabia-pushes-ahead-with-ipo-rule-changes-despite-banker-warnings",
     "image": null,
     "pushedAt": "2026-11-04T09:43:22.708Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
+    "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
+    "titleZh": "憤怒的選民迎來川普時代結束的開始",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-assess-kgzh/04dc-trump-assess-kgzh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T09:49:51.249Z"
   }
 ]
