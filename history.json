@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/30405694-3487-4c41-b720-613bde9d2de1",
-    "title": "BoE set to raise rates to 4% in fight against inflation",
-    "titleZh": "英國央行將升息至4%以對抗通膨",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/30405694-3487-4c41-b720-613bde9d2de1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T08:28:00.789Z"
-  },
-  {
     "id": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81",
     "title": "The meaning of the midterms",
     "titleZh": "中期選舉的意義",
@@ -7129,12 +7120,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-    "title": "Stocks, Dollar Drop on US Vote; Dip Buyers Emerge: Markets Wrap",
+    "title": "Stocks, Bonds Rally After US Vote as Dollar Falls: Markets Wrap",
     "titleZh": "美國公投結束，亞洲科技股將因人工智慧上漲而上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-04T07:54:49.480Z"
+    "pushedAt": "2026-11-04T10:10:26.393Z"
   },
   {
     "id": "https://flipso.com/p/hq1dnhr7n",
@@ -7143,7 +7134,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/hq1dnhr7n?ref=rss",
     "image": "https://cdn.flipso.com/p/hq1dnhr7n_square.jpg",
-    "pushedAt": "2026-11-04T07:55:38.167Z"
+    "pushedAt": "2026-11-04T10:11:38.757Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/focus-hope-ceo-on-detroit-s-economic-development-video",
@@ -7593,7 +7584,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms",
     "image": null,
-    "pushedAt": "2026-11-04T07:55:14.720Z"
+    "pushedAt": "2026-11-04T10:10:51.035Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-04/hkma-investment-summit-day-2",
@@ -7665,7 +7656,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T07:56:02.183Z"
+    "pushedAt": "2026-11-04T10:12:02.771Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
@@ -7674,7 +7665,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
     "image": null,
-    "pushedAt": "2026-11-04T07:56:25.770Z"
+    "pushedAt": "2026-11-04T10:12:26.234Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
@@ -7741,12 +7732,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/india-s-middle-class-spending-boom-comes-with-growing-debt-bill",
-    "title": "India’s Middle Class Spending Boom Comes With Growing Debt Bill",
+    "title": "India’s Consumer Spending Boom Comes With Growing Debt Bill",
     "titleZh": "印度中產階級消費熱潮伴隨著不斷增加的債務",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/india-s-middle-class-spending-boom-comes-with-growing-debt-bill",
     "image": null,
-    "pushedAt": "2026-11-04T03:53:51.833Z"
+    "pushedAt": "2026-11-04T10:11:15.705Z"
   },
   {
     "id": "https://www.ft.com/content/d7af38b4-4bed-47c1-8a27-a6a021a50980",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/video/opinion/100000011257707/the-beginning-of-the-end-of-trumpism.html",
     "image": null,
     "pushedAt": "2026-11-04T10:09:45.902Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c65eb5ae-0d16-4786-a8db-9db28d1791d7",
+    "title": "Ahold Delhaize cuts profit forecast after cyber attack",
+    "titleZh": "網路攻擊後，阿霍德·德爾海茲 (Ahold Delhaize) 下調利潤預期",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c65eb5ae-0d16-4786-a8db-9db28d1791d7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T10:12:50.904Z"
   }
 ]
