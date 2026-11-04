@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17",
-    "title": "Unpicking Microsoft’s free cash flow",
-    "titleZh": "剖析微軟的自由現金流",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T02:48:36.236Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/ryanair-slashes-costs-after-2-billion-fuel-charge-increase",
     "title": "Ryanair Slashes Costs After €2 Billion Fuel-Charge Increase",
     "titleZh": "瑞安航空在燃油費上漲 20 億歐元後大幅削減成本",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders",
     "image": null,
     "pushedAt": "2026-11-04T13:12:57.081Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812",
+    "title": "China’s soaring chemical exports threaten new trade war front",
+    "titleZh": "中國化學品出口激增威脅新的貿易戰線",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T13:13:27.017Z"
   }
 ]
