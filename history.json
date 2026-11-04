@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
-    "title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
-    "titleZh": "隨著政策錨點的轉變，中國人民銀行進行隔夜逆回購",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
-    "image": null,
-    "pushedAt": "2026-11-02T01:46:32.172Z"
-  },
-  {
     "id": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9",
     "title": "Christine Lagarde to step down as ECB president in February",
     "titleZh": "克里斯蒂娜·拉加德將於二月辭去歐洲央行行長一職",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-04/it-s-time-for-an-unloved-stock-rally-3-minutes-mliv-video",
     "image": null,
     "pushedAt": "2026-11-04T08:15:13.651Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+    "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
+    "titleZh": "科技股拋售後，投資人準備迎接更大的市場波動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-markets-bhqp/01biz-markets-bhqp-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-04T08:15:41.611Z"
   }
 ]
