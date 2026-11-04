@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
-    "title": "Romania Raises €4.5 Billion in New Government’s First Bond Sale",
-    "titleZh": "新政府上任後羅馬尼亞將發行歐洲債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
-    "image": null,
-    "pushedAt": "2026-11-03T02:28:09.330Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high",
-    "title": "Food, Housing Share of Americans’ Expenses Rise to 15-Year High",
-    "titleZh": "食品、住房在美國人開支中所佔比例升至 15 年來新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high",
-    "image": null,
-    "pushedAt": "2026-11-03T07:27:19.275Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/trump-s-economic-populism-and-the-midterm-elections",
     "title": "Trump’s economic populism and the midterm elections",
     "titleZh": "川普的經濟民粹主義與中期選舉",
@@ -6225,7 +6207,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank",
     "image": null,
-    "pushedAt": "2026-11-04T16:57:12.390Z"
+    "pushedAt": "2026-11-04T19:19:31.888Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
@@ -6846,7 +6828,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
     "image": null,
-    "pushedAt": "2026-11-04T16:56:47.005Z"
+    "pushedAt": "2026-11-04T19:19:04.111Z"
   },
   {
     "id": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ef149ea-5a85-4674-a1e5-44663d0a2e87.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-04T19:18:36.558Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+    "title": "A Democratic Sweep Gives Congress an Opening to Reassert Itself",
+    "titleZh": "民主黨大獲全勝為國會提供了重申自己立場的機會",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-cong-assess-zlwj/04dc-cong-assess-zlwj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T19:19:58.340Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html",
+    "title": "Five Things to Know About Hakeem Jeffries",
+    "titleZh": "關於哈基姆·傑弗里斯需要了解的五件事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-hfo-jeffries-fivethings-fpwb/00dc-hfo-jeffries-fivethings-fpwb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T19:20:02.969Z"
   }
 ]
