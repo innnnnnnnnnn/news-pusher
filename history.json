@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo",
-    "title": "Anthropic Seeks Up to $3.5 Billion in Japan for Its Mega US IPO",
-    "titleZh": "Anthropic 在日本尋求高達 35 億美元的大型美國 IPO",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo",
-    "image": null,
-    "pushedAt": "2026-11-02T06:40:41.155Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/japan-extends-transition-bond-push-despite-fossil-fuel-reliance",
     "title": "Japan Extends Transition Bond Push Despite Fossil-Fuel Reliance",
     "titleZh": "儘管依賴化石燃料，日本仍繼續推動過渡債券",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
     "image": null,
     "pushedAt": "2026-11-04T12:25:46.838Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
+    "title": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
+    "titleZh": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
+    "image": null,
+    "pushedAt": "2026-11-04T12:27:32.900Z"
   }
 ]
