@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3f2c660b-2693-4e39-a9b9-fb77189e7422",
-    "title": "Russia’s war in Ukraine creeps into everyday life in Poland",
-    "titleZh": "俄羅斯在烏克蘭的戰爭滲透到波蘭的日常生活",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3f2c660b-2693-4e39-a9b9-fb77189e7422?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T16:52:15.835Z"
-  },
-  {
     "id": "https://www.ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1",
     "title": "Netanyahu presses Trump for renewed strikes against Iran",
     "titleZh": "內塔尼亞胡敦促川普重新打擊伊朗",
@@ -969,7 +960,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
     "image": null,
-    "pushedAt": "2026-11-04T17:13:29.064Z"
+    "pushedAt": "2026-11-04T19:35:15.604Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
@@ -978,7 +969,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
     "image": null,
-    "pushedAt": "2026-11-04T17:13:53.301Z"
+    "pushedAt": "2026-11-04T19:35:40.095Z"
   },
   {
     "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
@@ -7260,16 +7251,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fabb90ef7-b440-444f-ab5c-a2d4a346ebba.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T17:14:20.031Z"
+    "pushedAt": "2026-11-04T19:36:04.355Z"
   },
   {
     "id": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea",
-    "title": "The great humbling of Donald Trump",
+    "title": "Analysis: The great humbling of Donald Trump",
     "titleZh": "唐納德·特朗普的巨大羞辱",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34c9ccf9-c6a4-4444-80e8-ec2033eea5d4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T17:14:44.392Z"
+    "pushedAt": "2026-11-04T19:36:28.810Z"
   },
   {
     "id": "https://www.ft.com/content/ae311844-83e5-4612-8fa3-4c86f4c53b0e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/podcasters-election-night-streams-highlight-fractured-media-landscape",
     "image": null,
     "pushedAt": "2026-11-04T19:34:47.494Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-04/data-center-buildout-could-help-energy-prices-video",
+    "title": "Data Center Buildout Could Help Energy Prices",
+    "titleZh": "資料中心建設可能有助於能源價格上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-04/data-center-buildout-could-help-energy-prices-video",
+    "image": null,
+    "pushedAt": "2026-11-04T19:36:56.156Z"
   }
 ]
