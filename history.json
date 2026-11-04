@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video",
-    "title": "Inside Indonesia’s Wash-Trade Scheme",
-    "titleZh": "印尼清洗貿易計畫內部",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video",
-    "image": null,
-    "pushedAt": "2026-11-02T09:22:21.827Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
-    "title": "Westpac Profit Misses Estimates, CEO Says Economy Uncertain",
-    "titleZh": "西太平洋銀行執行長表示經濟不確定，利潤未達預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
-    "image": null,
-    "pushedAt": "2026-11-01T21:10:37.309Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
     "title": "Desperate Mayday as Small Plane Crashes in Florida, Killing 9",
     "titleZh": "官員稱，佛羅裡達州棕櫚灘縣小型飛機失事造成 9 人死亡",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
     "image": null,
     "pushedAt": "2026-11-04T05:55:18.396Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7f02e7f9-bcdf-4788-81c2-264a1105e1fb",
+    "title": "The Democrats’ moment of truth",
+    "titleZh": "民主黨的關鍵時刻",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7f02e7f9-bcdf-4788-81c2-264a1105e1fb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T05:55:50.386Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+    "title": "A Lesson From Germany",
+    "titleZh": "德國的教訓",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-theworld-trump-ostpolitik-02-mltw-promo/02int-theworld-trump-ostpolitik-02-mltw-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T05:55:53.606Z"
   }
 ]
