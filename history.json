@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
-    "title": "Taiwan Eases Exporter US Dollar Sale Curbs as Currency Drops",
-    "titleZh": "台灣據稱在創紀錄的股票外流後放寬出口商外匯規則",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus",
-    "image": null,
-    "pushedAt": "2026-11-02T16:41:55.551Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
     "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
     "titleZh": "為什麼邁阿密是拉丁美洲政治流亡者的目的地",
@@ -1239,7 +1230,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02db-nyse-kvhz/02db-nyse-kvhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:12:46.178Z"
+    "pushedAt": "2026-11-04T11:37:29.185Z"
   },
   {
     "id": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
@@ -2400,7 +2391,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-ukraine-attack-photo-tqcl/02int-ukraine-attack-photo-tqcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:12:22.725Z"
+    "pushedAt": "2026-11-04T11:37:04.709Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-tech-11-02-2026-video",
@@ -6099,7 +6090,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:11:35.455Z"
+    "pushedAt": "2026-11-04T11:36:39.538Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/physical-oil-prices-tumbling-as-persian-gulf-crude-flows-recover",
@@ -6630,7 +6621,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
     "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31xp-drinks/31xp-drinks-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:10:23.681Z"
+    "pushedAt": "2026-11-04T11:35:50.802Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
@@ -7143,7 +7134,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-crash-1-vbfz/03nat-crash-1-vbfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:11:10.981Z"
+    "pushedAt": "2026-11-04T11:36:15.185Z"
   },
   {
     "id": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/india-approves-plan-to-absorb-more-short-term-military-recruits",
     "image": null,
     "pushedAt": "2026-11-04T11:35:23.532Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
+    "title": "October inflation in the Eurozone keeps ECB on course for another tightening",
+    "titleZh": "歐元區 10 月通膨使歐洲央行預計再次緊縮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
+    "image": null,
+    "pushedAt": "2026-11-04T11:37:54.941Z"
   }
 ]
