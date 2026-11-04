@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728",
-    "title": "Donald Trump’s imperial presidency faces a popular uprising",
-    "titleZh": "唐納德·川普的帝國總統任期面臨民眾起義",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T01:45:41.075Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
     "title": "Chinese Stock Selloff Resumes as Rescue Tools Face Skepticism",
     "titleZh": "中國將加大運用存量支援工具穩定市場",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal",
     "image": null,
     "pushedAt": "2026-11-04T21:14:33.684Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates",
+    "title": "Snap Declines After Daily User Growth Falls Short of Estimates",
+    "titleZh": "每日用戶成長低於預期後 Snap 下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates",
+    "image": null,
+    "pushedAt": "2026-11-04T21:26:28.626Z"
   }
 ]
