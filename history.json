@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972",
-    "title": "What’s the risk of political violence? | Martin Wolf on the US midterms",
-    "titleZh": "政治暴力的風險是什麼？ |馬丁沃爾夫談美國中期選舉",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T09:23:56.228Z"
-  },
-  {
     "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c",
     "title": "FirstFT: Donald Trump makes his final pitch to voters",
     "titleZh": "FirstFT：海灣地區為美國和伊朗之間的新戰爭做好準備",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/04/the-bottom-falls-out-for-donald-trump",
     "image": null,
     "pushedAt": "2026-11-04T06:25:36.677Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+    "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+    "titleZh": "MS NOW 上的糖果和微笑，以及福克斯新聞上的一些遺憾",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+    "image": null,
+    "pushedAt": "2026-11-04T06:26:05.859Z"
   }
 ]
