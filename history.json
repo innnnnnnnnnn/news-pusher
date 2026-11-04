@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458",
-    "title": "EU and Canada seek to be friends with association benefits",
-    "titleZh": "歐盟和加拿大尋求透過協會福利成為朋友",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T18:51:19.240Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c4fb0d1f-6c38-4446-af7a-9a7ccead0490",
-    "title": "Can El-Sayed win over Michigan’s Trump territory?",
-    "titleZh": "埃爾-賽義德能否贏得密西根州的川普領土？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c4fb0d1f-6c38-4446-af7a-9a7ccead0490",
-    "image": null,
-    "pushedAt": "2026-11-02T19:44:15.790Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/fed-may-need-total-of-4-or-5-rate-hikes-economist-dutta-video",
     "title": "Fed May Need 4 or 5 Rate Hikes in Total , Economist Dutta Says",
     "titleZh": "經濟學家杜塔稱聯準會可能總共需要升息4或5次",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/public-health-experts-cheer-revenge-of-the-nerds-midterm-rout",
     "image": null,
     "pushedAt": "2026-11-04T20:14:36.816Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
+    "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
+    "titleZh": "關於民主黨的議程：對川普及其家人的調查",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/us/04dc-trump-investigations-1/04dc-trump-investigations-1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T20:15:06.846Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
+    "title": "Trump Wanted Democrats to Win",
+    "titleZh": "川普希望民主黨獲勝",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/04cottle-cfbj-cover/04cottle-cfbj-cover-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-04T20:15:11.918Z"
   }
 ]
