@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07",
-    "title": "The legacy of Christine Lagarde",
-    "titleZh": "克里斯蒂娜·拉加德的遺產",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T12:17:06.084Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
     "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
     "titleZh": "查爾斯國王在加勒比海之旅中既高興又受到批評",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T15:06:20.093Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
+    "title": "The Nation’s Oldest Road Racetrack Starts a Big, Costly Face-Lift",
+    "titleZh": "美國最古老的公路賽道開始耗資巨大的整形工程",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/Biz-Wheels-WillowSprings-Video-still-bmjf/Biz-Wheels-WillowSprings-Video-still-bmjf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T15:06:47.862Z"
   }
 ]
