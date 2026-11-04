@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/what-are-structured-notes-and-why-the-market-for-them-is-booming",
-    "title": "What Are Structured Notes And Why the Market for Them Is Booming",
-    "titleZh": "什麼是結構性票據及其市場為何蓬勃發展",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/what-are-structured-notes-and-why-the-market-for-them-is-booming",
-    "image": null,
-    "pushedAt": "2026-11-02T09:00:33.718Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/audio/2026-11-02/odd-lots-the-structured-notes-market-is-booming-podcast",
     "title": "Odd Lots: The Structured Notes Market Is Booming (Podcast)",
     "titleZh": "零股：結構性票據市場正在蓬勃發展（播客）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
     "image": null,
     "pushedAt": "2026-11-04T14:07:55.528Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+    "title": "China’s Message to Its Rivals: You Need What We Make",
+    "titleZh": "中國向競爭對手傳達的訊息：你們需要我們製造的東西",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T14:08:24.838Z"
   }
 ]
