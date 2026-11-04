@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
-    "title": "The History Behind Trump’s Arch",
-    "titleZh": "川普拱門背後的歷史",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/arts/1campanella-arches-top-cover/1campanella-arches-top-cover-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T16:02:39.443Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/mike-wilson-says-buy-stock-dip-regardless-of-who-wins-midterms",
     "title": "Mike Wilson Says Buy Stock Dip Regardless of Who Wins Midterms",
     "titleZh": "麥克威爾森表示，無論誰贏得中期選舉，都應買進股價下跌的股票",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html",
     "image": null,
     "pushedAt": "2026-11-04T03:31:17.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/florida-passes-property-tax-cuts-in-challenge-for-local-funding",
+    "title": "Florida Passes Property Tax Cuts in Challenge for Local Funding",
+    "titleZh": "佛羅裡達州通過了財產稅削減，以應對當地資金的挑戰",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/florida-passes-property-tax-cuts-in-challenge-for-local-funding",
+    "image": null,
+    "pushedAt": "2026-11-04T03:31:47.698Z"
   }
 ]
