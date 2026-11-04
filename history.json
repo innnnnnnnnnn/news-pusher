@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/nyregion/nyc-book-before-new-york-mannahatta.html",
-    "title": "The Ecologist Surveying What NYC Looked Like Before the Concrete",
-    "titleZh": "生態學家調查紐約市在混凝土建成之前的樣子",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/nyregion/nyc-book-before-new-york-mannahatta.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01met-city-nature--02-cmgv/01met-city-nature--02-cmgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T22:54:15.570Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
     "title": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine",
     "titleZh": "億萬富翁弗里德蘭將建造美國支持的大型稀土礦",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T06:33:56.035Z"
+  },
+  {
+    "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c",
+    "title": "FirstFT: Donald Trump makes his final pitch to voters",
+    "titleZh": "FirstFT：唐納德·川普向選民做出最後的宣傳",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T06:34:23.610Z"
   }
 ]
