@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/us/take-back-the-night-protests-sexual-violence.html",
-    "title": "Campuses Join Take Back the Night Gathering to Protest Sexual Violence",
-    "titleZh": "校園加入「收回夜間集會」抗議性暴力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/us/take-back-the-night-protests-sexual-violence.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-take-back-night-tchb/01nat-take-back-night-tchb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T09:36:00.820Z"
-  },
-  {
     "id": "https://flipso.com/p/1bpoy60zn",
     "title": "The Secret Nuclear Bunker Built Beneath the Greenbrier Hotel",
     "titleZh": "建在綠薔薇酒店下面的秘密核子掩體",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
     "image": null,
     "pushedAt": "2026-11-04T10:06:17.968Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
+    "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
+    "titleZh": "騰訊宣布最新人工智慧模型躋身中國最佳​​人工智慧模型之列",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
+    "image": null,
+    "pushedAt": "2026-11-04T10:06:58.978Z"
   }
 ]
