@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/binance-outflows-hit-4-7-billion-after-record-north-korea-hack",
-    "title": "Binance Outflows Reach $4.7 Billion After North Korea Hack",
-    "titleZh": "北韓駭客攻擊創紀錄後，幣安資金流出額達 47 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/binance-outflows-hit-4-7-billion-after-record-north-korea-hack",
-    "image": null,
-    "pushedAt": "2026-11-02T20:36:24.804Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html",
     "title": "Parties End the Midterm Election With Their Closing Arguments",
     "titleZh": "各黨派以結案陳詞結束中期選舉",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T17:18:57.780Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
+    "title": "Big Tech Stocks Soar as Traders Bet Democrats Will Slow AI Spend",
+    "titleZh": "交易員押注民主黨將減緩人工智慧支出，大型科技股飆漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
+    "image": null,
+    "pushedAt": "2026-11-04T17:19:53.462Z"
   }
 ]
