@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/nordic-investment-bank-mulls-srts-after-adding-defense-focus",
-    "title": "Nordic Investment Bank Mulls SRTs After Adding Defense Focus",
-    "titleZh": "北歐投資銀行在增加國防重點後考慮 SRT",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/nordic-investment-bank-mulls-srts-after-adding-defense-focus",
-    "image": null,
-    "pushedAt": "2026-11-02T11:48:40.676Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/ubs-fowler-sees-appetite-for-buying-back-into-ai-trade-video",
     "title": "UBS' Fowler Sees Appetite for Buying Back Into AI Trade",
     "titleZh": "瑞銀 (UBS) 的福勒 (Fowler) 看到了回購人工智慧貿易的興趣",
@@ -1968,7 +1959,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-ukraine-attack-photo-tqcl/02int-ukraine-attack-photo-tqcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T11:37:04.709Z"
+    "pushedAt": "2026-11-04T14:01:07.738Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-tech-11-02-2026-video",
@@ -5667,7 +5658,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T11:36:39.538Z"
+    "pushedAt": "2026-11-04T14:00:42.368Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/physical-oil-prices-tumbling-as-persian-gulf-crude-flows-recover",
@@ -6711,7 +6702,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-crash-1-vbfz/03nat-crash-1-vbfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T11:36:15.185Z"
+    "pushedAt": "2026-11-04T14:00:17.272Z"
   },
   {
     "id": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/freeport-green-lights-4-5-billion-copper-expansion-in-arizona",
     "image": null,
     "pushedAt": "2026-11-04T13:59:49.153Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
+    "title": "Prosecutors Seek to Drop Charges Against Russian Scientist Accused of Smuggling Frog Embryos",
+    "titleZh": "檢察官尋求撤銷對被指控走私青蛙胚胎的俄羅斯科學家的指控",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T14:02:18.252Z"
   }
 ]
