@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
-    "title": "Cracks in the A.I. Borrowing Binge",
-    "titleZh": "人工智慧的裂縫借貸狂歡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02db-nyse-kvhz/02db-nyse-kvhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T19:01:45.658Z"
-  },
-  {
     "id": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
     "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
     "titleZh": "Marvell 斥資 1,150 億美元收購資料中心組件製造商 Lumentum",
@@ -4479,7 +4470,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T17:52:50.032Z"
+    "pushedAt": "2026-11-04T20:16:06.658Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/quant-trader-s-criminal-trial-to-spotlight-secretive-industry",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T20:15:39.613Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
+    "title": "How Democrats will wield their new power",
+    "titleZh": "民主黨將如何運用他們的新權力",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
+    "image": null,
+    "pushedAt": "2026-11-04T20:16:33.439Z"
   }
 ]
