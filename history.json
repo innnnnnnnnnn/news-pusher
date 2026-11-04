@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
-    "title": "Alphabet Pays Up to Entice Buyers to €6 Billion Bond Sale",
-    "titleZh": "Alphabet 開始發售今年第二筆歐元債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
-    "image": null,
-    "pushedAt": "2026-11-02T19:18:51.887Z"
-  },
-  {
     "id": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362",
     "title": "Alstom shares tumble 26% after train maker cuts profit forecast",
     "titleZh": "由於訂單增加，阿爾斯通下調利潤和現金預測",
@@ -5532,7 +5523,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
     "image": null,
-    "pushedAt": "2026-11-04T10:33:18.019Z"
+    "pushedAt": "2026-11-04T13:01:50.033Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/jpmorgan-bofa-prepare-2-4-billion-debt-sale-for-cvc-s-iff-deal",
     "image": null,
     "pushedAt": "2026-11-04T13:01:22.421Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-04/waymo-s-bet-on-a-driverless-future-video",
+    "title": "Waymo’s Bet on a Driverless Future",
+    "titleZh": "Waymo 押注於無人駕駛的未來",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-04/waymo-s-bet-on-a-driverless-future-video",
+    "image": null,
+    "pushedAt": "2026-11-04T13:02:17.282Z"
   }
 ]
