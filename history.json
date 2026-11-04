@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
-    "title": "Wanted: a researcher/news assistant in Tokyo",
-    "titleZh": "誠聘：東京研究員/新聞助理",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
-    "image": null,
-    "pushedAt": "2026-11-03T09:13:39.923Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
-    "title": "Trump Has Found the Attorney General of His Dreams",
-    "titleZh": "川普找到了他夢想中的司法部長",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01french-fpgt/01french-fpgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T17:03:16.246Z"
-  },
-  {
     "id": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
     "title": "To understand African politics, just listen to the music",
     "titleZh": "了解非洲政治，只要聽音樂",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
     "image": null,
     "pushedAt": "2026-11-04T00:53:15.807Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "title": "A tiny Pacific country rolls out universal basic income",
+    "titleZh": "太平洋小國推出全民基本收入",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "image": null,
+    "pushedAt": "2026-11-04T00:53:45.125Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-household-spending-exceeds-estimate-boosted-by-fuel",
+    "title": "Australia’s Household Spending Exceeds Estimate, Boosted by Fuel",
+    "titleZh": "受燃料推動，澳洲家庭支出超出預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-household-spending-exceeds-estimate-boosted-by-fuel",
+    "image": null,
+    "pushedAt": "2026-11-04T00:53:48.508Z"
   }
 ]
