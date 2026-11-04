@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7a6ab0a2-854a-4328-befa-360ab5a701b5",
-    "title": "Business has a crucial role in helping the Neets to work",
-    "titleZh": "企業在幫助新人就業方面發揮著至關重要的作用",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7a6ab0a2-854a-4328-befa-360ab5a701b5",
-    "image": null,
-    "pushedAt": "2026-11-02T22:45:09.856Z"
-  },
-  {
     "id": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3",
     "title": "Fox News suffers sharp drop in ratings as US elections approach",
     "titleZh": "美國大選臨近福斯新聞收視率大幅下滑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T22:59:17.728Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+    "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
+    "titleZh": "谷歌 5000 億美元的血洗反映了它面臨的人工智慧危險",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+    "image": null,
+    "pushedAt": "2026-11-04T22:59:46.644Z"
   }
 ]
