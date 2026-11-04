@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html",
-    "title": "Parties End the Midterm Election With Their Closing Arguments",
-    "titleZh": "各黨派以結案陳詞結束中期選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01midterms-live-caro-wqvc-copy/01midterms-live-caro-wqvc-copy-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-02T13:13:04.106Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
     "title": "Can You Trust the Midterm Polls? Three Times Journalists Talk It Out.",
     "titleZh": "你能相信中期民調嗎？記者三度暢所欲言。",
@@ -4821,7 +4812,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/q6mvy9ctn?ref=rss",
     "image": "https://cdn.flipso.com/p/q6mvy9ctn_square.jpg",
-    "pushedAt": "2026-11-04T14:43:41.267Z"
+    "pushedAt": "2026-11-04T17:20:46.467Z"
   },
   {
     "id": "https://www.ft.com/content/aa57000f-bb9a-46ec-9eed-fc6857e2c432",
@@ -7071,7 +7062,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/poland-constitutional-crisis-has-central-bank-chief-adam-glapinski",
     "image": null,
-    "pushedAt": "2026-11-04T14:42:44.976Z"
+    "pushedAt": "2026-11-04T17:20:21.798Z"
   },
   {
     "id": "https://www.ft.com/content/c93f67f1-d815-4bbc-9c3d-0ae5b88fbfa0",
@@ -7080,7 +7071,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c93f67f1-d815-4bbc-9c3d-0ae5b88fbfa0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T14:44:06.760Z"
+    "pushedAt": "2026-11-04T17:21:11.134Z"
   },
   {
     "id": "https://www.ft.com/content/f0256578-1a7b-41c3-8cca-f3384983b2f2",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
     "image": null,
     "pushedAt": "2026-11-04T17:19:53.462Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/hyperscalers-lead-credit-market-gains-amid-broad-risk-on-rally",
+    "title": "Credit Traders Make Big Post-Midterm Bet on Data-Center Slowdown",
+    "titleZh": "信貸交易員在中期選舉後大舉押注資料中心放緩",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/hyperscalers-lead-credit-market-gains-amid-broad-risk-on-rally",
+    "image": null,
+    "pushedAt": "2026-11-04T17:21:36.942Z"
   }
 ]
