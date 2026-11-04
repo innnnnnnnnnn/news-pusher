@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3",
-    "title": "Fox News suffers sharp drop in ratings as US elections approach",
-    "titleZh": "美國大選臨近福斯新聞收視率大幅下滑",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T08:31:42.360Z"
-  },
-  {
-    "id": "https://www.ft.com/content/3ee74496-7746-457c-860d-2d0b4975691b",
-    "title": "Spanish train crash puts Sánchez’s re-election hopes in jeopardy",
-    "titleZh": "西班牙火車相撞事故讓桑切斯連任希望岌岌可危",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3ee74496-7746-457c-860d-2d0b4975691b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T22:46:01.036Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
     "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
     "titleZh": "一名 20 歲男子是在佛羅裡達州墜落地球的噴射機的飛行員",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
     "image": null,
     "pushedAt": "2026-11-04T22:59:46.644Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+    "title": "Five Survivors Rescued on Remote Pacific Island After 3 Months Lost at Sea",
+    "titleZh": "五名倖存者在海上失蹤三個月後在太平洋偏遠島嶼獲救",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T23:00:18.300Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+    "title": "Bob Dylan Meets With Pope Leo",
+    "titleZh": "鮑伯迪倫會見教宗利奧",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T23:00:22.459Z"
   }
 ]
