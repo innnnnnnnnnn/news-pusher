@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3",
-    "title": "Britain’s welfare ratchet",
-    "titleZh": "英國的福利棘輪",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T02:05:41.061Z"
-  },
-  {
-    "id": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a",
-    "title": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
-    "titleZh": "Weil Gotshal：陷入困境的華爾街律師事務所現在發生了什麼事？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T12:31:00.111Z"
-  },
-  {
     "id": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c",
     "title": "Will US jobs growth remain subdued?",
     "titleZh": "美國就業成長會持續低迷嗎？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/tax-cut-hopes-help-fuel-nifty-s-rally-to-a-two-month-high",
     "image": null,
     "pushedAt": "2026-11-04T02:47:14.189Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html",
+    "title": "Democrats Flip North Carolina Senate Seat",
+    "titleZh": "民主黨翻轉北卡羅來納州參議院席位",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html",
+    "image": null,
+    "pushedAt": "2026-11-04T02:51:15.591Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks",
+    "title": "Copper Holds Losses Below $14,000 on US Midterm Risks to Stocks",
+    "titleZh": "由於美國中期股市風險，銅價跌幅維持在 14,000 美元以下",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks",
+    "image": null,
+    "pushedAt": "2026-11-04T02:51:20.113Z"
   }
 ]
