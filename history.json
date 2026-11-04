@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html",
-    "title": "On the Ballot in California: The Prospects for a National Wealth Tax",
-    "titleZh": "加州選票：國家財富稅的前景",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-WEALTH-TAX-cwlm/31DC-WEALTH-TAX-cwlm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T22:04:01.814Z"
-  },
-  {
     "id": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972",
     "title": "What’s the risk of political violence? | Martin Wolf on the US midterms",
     "titleZh": "政治暴力的風險是什麼？ |馬丁沃爾夫談美國中期選舉",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
     "image": null,
     "pushedAt": "2026-11-04T06:17:25.965Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/04/the-bottom-falls-out-for-donald-trump",
+    "title": "The bottom falls out for Donald Trump",
+    "titleZh": "唐納德·特朗普 (Donald Trump) 跌入谷底",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/04/the-bottom-falls-out-for-donald-trump",
+    "image": null,
+    "pushedAt": "2026-11-04T06:25:36.677Z"
   }
 ]
