@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-    "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
-    "titleZh": "Anthropic 尋找人工智慧的內幕運算能力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T20:40:07.304Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video",
     "title": "Marvell to Buy Lumentum in $115 Billion Deal",
     "titleZh": "Marvell 以 1,150 億美元收購 Lumentum",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake",
     "image": null,
     "pushedAt": "2026-11-04T23:22:57.810Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-heavy-october-rainfall-sparks-grain-quality-concerns",
+    "title": "Australia’s Heavy October Rainfall Sparks Grain Quality Concerns",
+    "titleZh": "澳洲十月強降雨引發糧食品質擔憂",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-heavy-october-rainfall-sparks-grain-quality-concerns",
+    "image": null,
+    "pushedAt": "2026-11-04T23:23:30.121Z"
   }
 ]
