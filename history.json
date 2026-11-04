@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/primavera-s-hu-discusses-china-markets-ai-bubble-video",
-    "title": "Primavera's Hu Discusses China Markets, AI Bubble",
-    "titleZh": "Primavera 的胡討論中國市場和人工智慧泡沫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/primavera-s-hu-discusses-china-markets-ai-bubble-video",
-    "image": null,
-    "pushedAt": "2026-11-02T06:12:42.189Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/chinaamc-hk-s-gan-on-tokenization-video",
     "title": "ChinaAMC (HK) 's Gan on Tokenization",
     "titleZh": "華夏基金（香港）的 Gan 談通證化",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/lagarde-s-early-exit-tests-ecb-s-eight-year-terms",
     "image": null,
     "pushedAt": "2026-11-04T12:01:49.605Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/bloomberg-tech-london-event-looking-ahead-to-balance-of-power-after-us-midterms",
+    "title": "Bloomberg Tech London Event: Looking Ahead to Balance of Power After US Midterms",
+    "titleZh": "彭博科技倫敦活動：展望美國中期選舉後的權力平衡",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/bloomberg-tech-london-event-looking-ahead-to-balance-of-power-after-us-midterms",
+    "image": null,
+    "pushedAt": "2026-11-04T12:02:19.332Z"
   }
 ]
