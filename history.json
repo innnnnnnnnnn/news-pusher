@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
-    "title": "Can You Trust the Midterm Polls? Three Times Journalists Talk It Out.",
-    "titleZh": "你能相信中期民調嗎？記者三度暢所欲言。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
-    "image": null,
-    "pushedAt": "2026-11-02T11:01:40.057Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/magazine/identity-politics-economy-class.html",
     "title": "Identity Politics Have Entered a New Phase",
     "titleZh": "身份政治已進入新階段",
@@ -7080,7 +7071,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f0256578-1a7b-41c3-8cca-f3384983b2f2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T14:44:31.852Z"
+    "pushedAt": "2026-11-04T17:22:04.454Z"
   },
   {
     "id": "https://www.ft.com/content/29c178c1-2960-4670-b510-f90b4b559903",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/hyperscalers-lead-credit-market-gains-amid-broad-risk-on-rally",
     "image": null,
     "pushedAt": "2026-11-04T17:21:36.942Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/musk-s-texas-gamble-becomes-liability-with-democrats-taking-over",
+    "title": "Musk’s Texas Gamble Becomes Liability With Democrats Taking Over",
+    "titleZh": "馬斯克在德克薩斯州的賭博因民主黨接管而成為責任",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/musk-s-texas-gamble-becomes-liability-with-democrats-taking-over",
+    "image": null,
+    "pushedAt": "2026-11-04T17:22:31.527Z"
   }
 ]
