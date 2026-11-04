@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/97c97295-a35a-45b6-9e6b-29ca836fa3c2",
-    "title": "Unions hit out after Healey signals delay to youth minimum wage pledge",
-    "titleZh": "希利表示延後青年最低工資承諾後，工會發動猛烈攻擊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/97c97295-a35a-45b6-9e6b-29ca836fa3c2?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2c0fbfc8-03f1-4f8b-8c1f-d6d376c49afe.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-01T17:01:09.825Z"
-  },
-  {
     "id": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443",
     "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
     "titleZh": "垃圾債潰敗引發信貸投資者“大屠殺”",
@@ -5595,7 +5586,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T01:47:45.547Z"
+    "pushedAt": "2026-11-04T04:11:41.365Z"
   },
   {
     "id": "https://www.ft.com/content/d0a25da5-1875-428e-9f47-8a6a203052cf",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/temasek-s-mapletree-is-said-to-pick-banks-for-singapore-ipo",
     "image": null,
     "pushedAt": "2026-11-04T04:11:12.222Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html",
+    "title": "Trump Says in Interview That He Will Accept Election Results",
+    "titleZh": "川普在採訪中表示他將接受選舉結果",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-trump-top-vhcm/03dc-trump-top-vhcm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T04:12:07.919Z"
   }
 ]
