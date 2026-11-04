@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video",
-    "title": "Bookmarked: News Stories On Our Reading List",
-    "titleZh": "已加書籤：我們的閱讀清單中的新聞報導",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video",
-    "image": null,
-    "pushedAt": "2026-11-01T15:58:27.679Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
     "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
     "titleZh": "科技股暴跌後，華爾街準備迎接股市更加瘋狂的日子",
@@ -3570,7 +3561,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02cli-nordhaus-01-pvch/02cli-nordhaus-01-pvch-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T02:11:49.665Z"
+    "pushedAt": "2026-11-04T04:37:38.088Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
@@ -5729,8 +5720,8 @@
     "titleZh": "華爾街為選民在高風險的美國中期選舉中投票做好準備",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31ccad00-094b-4434-92b2-50cc73bc2032.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T02:13:09.635Z"
+    "image": null,
+    "pushedAt": "2026-11-04T04:38:53.968Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
@@ -5739,7 +5730,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T02:13:35.611Z"
+    "pushedAt": "2026-11-04T04:39:18.900Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-ceo-says-he-d-love-to-ipo-video",
@@ -6792,7 +6783,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f1122a7d-f27b-437f-84ba-59ea87e2ba17?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T02:11:22.768Z"
+    "pushedAt": "2026-11-04T04:37:12.645Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/job-openings-jump-as-factory-durable-orders-also-rise-video",
@@ -7764,7 +7755,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand",
     "image": null,
-    "pushedAt": "2026-11-04T02:12:16.575Z"
+    "pushedAt": "2026-11-04T04:38:03.542Z"
   },
   {
     "id": "https://flipso.com/p/72pdqwkkg",
@@ -7773,7 +7764,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/72pdqwkkg?ref=rss",
     "image": "https://cdn.flipso.com/p/72pdqwkkg_square.jpg",
-    "pushedAt": "2026-11-04T02:12:42.840Z"
+    "pushedAt": "2026-11-04T04:38:28.569Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
     "image": null,
     "pushedAt": "2026-11-04T04:33:19.105Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-04/bain-capital-chair-expects-30b-of-exits-this-year-video",
+    "title": "Bain Capital Chair Expects $30 Billion of Exits This Year",
+    "titleZh": "貝恩資本主席預計今年退出金額將達 300 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-04/bain-capital-chair-expects-30b-of-exits-this-year-video",
+    "image": null,
+    "pushedAt": "2026-11-04T04:39:45.784Z"
   }
 ]
