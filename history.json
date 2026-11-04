@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/507e885e-2f61-43ab-a263-4e19850520d4",
-    "title": "How De Beers lost its sparkle",
-    "titleZh": "戴比爾斯如何失去光芒",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/507e885e-2f61-43ab-a263-4e19850520d4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T16:37:05.607Z"
-  },
-  {
     "id": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa",
     "title": "Petrol prices set to hit record high under Trump on eve of US elections",
     "titleZh": "在美國大選前夕，特朗普領導的汽油價格將創下歷史新高",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/29522c80-74f7-4f78-b699-39b761d1c081?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T10:29:19.942Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/ghana-inflation-hits-11-month-high-may-see-rate-pause-extended",
+    "title": "Ghana Inflation Hits 11-Month High, May See Rate Pause Extended",
+    "titleZh": "加納通膨創 11 個月新高，利率暫停可能延長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/ghana-inflation-hits-11-month-high-may-see-rate-pause-extended",
+    "image": null,
+    "pushedAt": "2026-11-04T10:30:08.266Z"
   }
 ]
