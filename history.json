@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/blackstone-leads-3-1-billion-deal-to-acquire-lng-canada-stake",
-    "title": "Blackstone Leads $3.1 Billion Deal to Acquire LNG Canada Stake",
-    "titleZh": "Blackstone 主導以 31 億美元收購 LNG Canada 股權",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/blackstone-leads-3-1-billion-deal-to-acquire-lng-canada-stake",
-    "image": null,
-    "pushedAt": "2026-11-02T05:44:43.730Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
     "title": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
     "titleZh": "紐森和哈里斯一起出現，幾乎沒有暗示接下來會發生什麼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
     "image": null,
     "pushedAt": "2026-11-04T11:57:48.476Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+    "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
+    "titleZh": "中期選舉結果導致 SpaceX 和特斯拉股價暴跌，馬斯克面臨挫折",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T11:58:18.080Z"
   }
 ]
