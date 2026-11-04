@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/opinion-a-fundamental-problem-with-the-economy-video",
-    "title": "A Fundamental Problem With the Economy",
-    "titleZh": "經濟的根本問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/opinion-a-fundamental-problem-with-the-economy-video",
-    "image": null,
-    "pushedAt": "2026-11-02T16:30:37.275Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones",
     "title": "Marvell’s AI Megadeal Hands Wall St Multiple M&A Milestones",
     "titleZh": "Marvell 的 AI 巨額交易為華爾街帶來了多個併購里程碑",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/w3qklhygl?ref=rss",
     "image": "https://cdn.flipso.com/p/w3qklhygl_square.jpg",
     "pushedAt": "2026-11-04T22:15:02.661Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+    "titleZh": "伊朗表示將在兩天內重新開放霍爾木茲海峽，作為美國協議的一部分",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T22:15:31.662Z"
   }
 ]
