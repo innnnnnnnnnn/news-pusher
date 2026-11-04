@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/1bpoy60zn",
-    "title": "The Secret Nuclear Bunker Built Beneath the Greenbrier Hotel",
-    "titleZh": "建在綠薔薇酒店下面的秘密核子掩體",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/1bpoy60zn?ref=rss",
-    "image": "https://cdn.flipso.com/p/1bpoy60zn_square.jpg",
-    "pushedAt": "2026-11-04T08:27:36.844Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/binance-details-3-6-billion-in-net-outflows-video",
     "title": "Binance Details $3.6 Billion in Net Outflows",
     "titleZh": "幣安詳述 36 億美元淨流出",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
     "image": null,
     "pushedAt": "2026-11-04T10:06:58.978Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/shock-lula-win-puts-brazil-s-central-bank-on-rocky-interest-rate-path",
+    "title": "Shock Lula Win Puts Brazil’s Central Bank on Rocky Interest Rate Path",
+    "titleZh": "盧拉獲勝的衝擊使巴西央行的利率道路變得崎嶇不平",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/shock-lula-win-puts-brazil-s-central-bank-on-rocky-interest-rate-path",
+    "image": null,
+    "pushedAt": "2026-11-04T10:07:58.058Z"
   }
 ]
