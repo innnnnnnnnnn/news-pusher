@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
-    "title": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
-    "titleZh": "烏克蘭和俄羅斯報告緊急警報應用程式遭受網路攻擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
-    "image": null,
-    "pushedAt": "2026-11-02T15:58:05.967Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
     "title": "China’s Message to Its Rivals: You Need What We Make",
     "titleZh": "中國向競爭對手傳達的訊息：你們需要我們製造的產品",
@@ -789,7 +780,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02db-nyse-kvhz/02db-nyse-kvhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T11:37:29.185Z"
+    "pushedAt": "2026-11-04T14:03:14.408Z"
   },
   {
     "id": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
@@ -8556,7 +8547,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
     "image": null,
-    "pushedAt": "2026-11-04T11:37:54.941Z"
+    "pushedAt": "2026-11-04T14:03:38.956Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-construction-boom-to-double-mining-peak-lift-prices",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trade-qthf/04dc-trade-qthf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-04T14:02:47.071Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
+    "title": "Poland’s Central Bank Holds Rates for Eighth Straight Month",
+    "titleZh": "波蘭央行連續第八個月維持利率不變",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
+    "image": null,
+    "pushedAt": "2026-11-04T14:04:06.299Z"
   }
 ]
