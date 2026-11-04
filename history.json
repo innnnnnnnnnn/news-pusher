@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700",
-    "title": "Bulgarians re-elect pro-Russian president",
-    "titleZh": "保加利亞人預計將再次選出親俄羅斯總統",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T13:46:29.345Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/01/us/politics/beverly-hills-school-board.html",
-    "title": "Culture War Tensions Roil Beverly Hills School Board Race",
-    "titleZh": "文化戰爭緊張局勢擾亂比佛利山學校董事會競選",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/us/politics/beverly-hills-school-board.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02nat-beverlyhills-feud-01-fjqv/02nat-beverlyhills-feud-01-fjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-01T19:58:42.699Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
-    "title": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
-    "titleZh": "微軟向上，谷歌向下。兩個超大規模企業的故事。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29db-msft-tbqc/29db-msft-tbqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T18:51:52.058Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html",
-    "title": "Its Investors Say Kalshi Is Worth $40 Billion. Is an I.P.O. Next?",
-    "titleZh": "其投資者稱 Kalshi 價值 400 億美元。是 IPO下一個？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29db-tarekmansour-fbmq/29db-tarekmansour-fbmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T16:22:14.062Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
     "title": "Volkswagen ‘Must Act Quickly’ After Largest Loss in Over a Decade",
     "titleZh": "大眾汽車在遭遇十多年來最大虧損後“必須迅速採取行動”",
@@ -8998,5 +8962,41 @@
     "url": "https://www.ft.com/content/97ce0d59-0d82-4f22-8ac1-d1b299c5b9d7",
     "image": null,
     "pushedAt": "2026-11-04T05:23:21.039Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "title": "AI is disrupting the art of campaigning",
+    "titleZh": "人工智慧正在顛覆競選藝術",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "image": null,
+    "pushedAt": "2026-11-04T05:23:50.591Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9",
+    "title": "Trump faces the voters",
+    "titleZh": "川普面對選民",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-04T05:23:55.430Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+    "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
+    "titleZh": "幣安報告恢復正常交易後資金流出 36.4 億美元",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-04T05:24:01.293Z"
+  },
+  {
+    "id": "https://flipso.com/p/q0cqae589",
+    "title": "Paper That You Bake",
+    "titleZh": "你烤的紙",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/q0cqae589?ref=rss",
+    "image": "https://cdn.flipso.com/p/q0cqae589_square.jpg",
+    "pushedAt": "2026-11-04T05:24:04.030Z"
   }
 ]
