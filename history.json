@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-    "titleZh": "大型科技公司的資料中心閃電戰正在燒光現金並嚇壞華爾街",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T21:44:16.591Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/midterm-election-results-unlikely-to-ease-tech-s-polarized-political-rhetoric",
     "title": "Midterm Election Results Unlikely to Ease Tech’s Polarized Political Rhetoric",
     "titleZh": "中期選舉結果不太可能緩解科技領域兩極化的政治言論",
@@ -7962,7 +7953,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96e8c9c1-8b1b-4d3d-8bd6-79ee6345b1e9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T16:58:51.257Z"
+    "pushedAt": "2026-11-04T19:22:47.927Z"
   },
   {
     "id": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-04T19:22:19.970Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
+    "title": "With an eye on America, China is beefing up its AI-controlled labs",
+    "titleZh": "著眼於美國，中國正在加強其人工智慧控制的實驗室",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
+    "image": null,
+    "pushedAt": "2026-11-04T19:23:18.040Z"
   }
 ]
