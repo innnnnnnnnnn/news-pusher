@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/vitol-ceo-sees-2026-oil-demand-dropping-3-million-barrels-a-day",
-    "title": "Vitol CEO Sees Oil Demand Dropping 3 Million Barrels a Day",
-    "titleZh": "維多執行長預計石油需求每天下降 300 萬桶",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/vitol-ceo-sees-2026-oil-demand-dropping-3-million-barrels-a-day",
-    "image": null,
-    "pushedAt": "2026-11-02T16:48:43.462Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
     "title": "Why Orban and Vucic Broke With Trump on Election Denial",
     "titleZh": "為什麼歐爾班和武契奇在否認選舉問題上與川普決裂",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9d1f6829-6385-491e-8561-2afd02489190?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T01:22:13.689Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+    "titleZh": "川普的關稅正在密西根州投票",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trade-midterms-01-lmfk/02dc-trade-midterms-01-lmfk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T01:22:42.643Z"
   }
 ]
