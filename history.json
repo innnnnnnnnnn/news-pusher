@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37",
-    "title": "US midterms results night as it happened: Democrats rout Republicans to win Senate and House",
-    "titleZh": "美國人開始在關鍵的中期選舉中投票",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T19:59:25.164Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-03/marvell-lumentum-deal-puts-optical-networking-at-the-center-of-the-ai-boom",
     "title": "Marvell-Lumentum Deal Puts Optical Networking at the Center of the AI Boom",
     "titleZh": "Marvell 與 Lumentum 交易將光網路置於人工智慧熱潮的中心",
@@ -5802,7 +5793,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-ai-micro-midterms-cfzk/02biz-ai-micro-midterms-cfzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T12:48:48.763Z"
+    "pushedAt": "2026-11-05T15:18:23.222Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/opinion/trump-midterms-republicans.html",
@@ -6351,7 +6342,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
     "image": null,
-    "pushedAt": "2026-11-05T12:48:22.927Z"
+    "pushedAt": "2026-11-05T15:17:58.881Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/hong-kong-jails-activist-joshua-wong-for-10-years-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fce3e1e9-576c-4415-ad31-29583cb377ed?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T15:16:19.354Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/qualcomm-shares-fall-most-in-six-months-video",
+    "title": "Qualcomm Shares Fall Most in Six Months After Weak Profit Forecast",
+    "titleZh": "獲利預測疲軟後，高通股價出現六個月來最大跌幅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/qualcomm-shares-fall-most-in-six-months-video",
+    "image": null,
+    "pushedAt": "2026-11-05T15:18:48.840Z"
   }
 ]
