@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
-    "title": "US midterms 2026: live results",
-    "titleZh": "2026 年美國中期選舉：即時結果",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
-    "image": null,
-    "pushedAt": "2026-11-05T16:47:33.213Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
     "title": "Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
     "titleZh": "Meta 啟動債務發行以推動人工智慧投資",
@@ -3507,7 +3498,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T15:07:33.420Z"
+    "pushedAt": "2026-11-05T17:38:42.558Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
@@ -4380,7 +4371,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03new-york-times-midterm-elections-hgtm/03new-york-times-midterm-elections-hgtm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T15:07:09.391Z"
+    "pushedAt": "2026-11-05T17:38:18.140Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-service-sector-grows-at-the-slowest-pace-in-three-months",
@@ -5253,7 +5244,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T15:07:57.164Z"
+    "pushedAt": "2026-11-05T17:39:07.226Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
@@ -7728,7 +7719,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T15:08:21.456Z"
+    "pushedAt": "2026-11-05T17:39:33.381Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a66657a8-c77a-4e67-b392-10d0904f31b6?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F19b626a9-ee3c-4656-b7df-6e3f218650b1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-05T17:37:49.912Z"
+  },
+  {
+    "id": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01",
+    "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
+    "titleZh": "由於擔心通膨根深蒂固，英國央行為進一步升息敞開大門",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T17:39:59.825Z"
   }
 ]
