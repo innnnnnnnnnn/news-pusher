@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
-    "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
-    "titleZh": "川普發表中期選舉結束語。主要是關於景觀美化。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trump-reflecting-pool-mtwl/02dc-trump-reflecting-pool-mtwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T09:00:16.718Z"
-  },
-  {
     "id": "https://www.ft.com/content/542e044e-23c6-42a6-a8a6-640ea04205ff",
     "title": "My tax rises made Britain’s economy stronger, says Reeves",
     "titleZh": "裡維斯說，我的增稅使英國經濟更加強大",
@@ -6171,7 +6162,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
     "image": null,
-    "pushedAt": "2026-11-05T05:05:55.135Z"
+    "pushedAt": "2026-11-05T07:22:25.397Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
@@ -6180,7 +6171,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T05:06:20.488Z"
+    "pushedAt": "2026-11-05T07:22:50.804Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/the-pulse-11-4-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-factory-orders-partially-rebound-on-automotive-pickup",
     "image": null,
     "pushedAt": "2026-11-05T07:21:56.514Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/bt-reports-higher-profit-after-cutting-costs-adding-fiber-users",
+    "title": "BT Reports Higher Profit After Cutting Costs, Adding Fiber Users",
+    "titleZh": "英國電信 (BT) 報告稱，削減成本、增加光纖用戶後利潤更高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bt-reports-higher-profit-after-cutting-costs-adding-fiber-users",
+    "image": null,
+    "pushedAt": "2026-11-05T07:23:19.309Z"
   }
 ]
