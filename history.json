@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-limits-traders-bankers-from-using-some-ai-tools-video",
-    "title": "Goldman Limits Traders and Bankers From Using Some AI Tools",
-    "titleZh": "高盛限制交易者、銀行家使用某些人工智慧工具（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-limits-traders-bankers-from-using-some-ai-tools-video",
-    "image": null,
-    "pushedAt": "2026-11-03T21:02:29.500Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/well/mind/american-psychological-association-antisemitism-congress-house-report.html",
     "title": "House Republicans Accuse Top Psychology Group of Antisemitism",
     "titleZh": "眾議院共和黨人指責頂尖心理學組織反猶太主義",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/germany-said-to-buy-50-of-knds-tankmaker-for-about-6-5-billion",
     "image": null,
     "pushedAt": "2026-11-05T21:45:58.114Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+    "title": "Poland Beefs Up Security at Border With Russia",
+    "titleZh": "波蘭加強與俄羅斯邊境的安全",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-POLAND-RUSSIA-01-cgwz/03int-POLAND-RUSSIA-01-cgwz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T21:46:27.970Z"
   }
 ]
