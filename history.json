@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
-    "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
-    "titleZh": "FDA警告拖拉機車輪小吃店可能導致窒息危險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
-    "image": null,
-    "pushedAt": "2026-11-05T10:37:31.587Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-companywide-video",
     "title": "Disney Plans Thousands of Layoffs Companywide",
     "titleZh": "迪士尼計劃在全公司範圍內裁員數千人",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/brazil-puts-rare-earths-copper-atop-critical-minerals-list",
     "image": null,
     "pushedAt": "2026-11-05T23:18:21.522Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
+    "title": "California’s billionaire tax is dividing Democrats",
+    "titleZh": "加州的億萬富翁稅正在分裂民主黨",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
+    "image": null,
+    "pushedAt": "2026-11-05T23:18:49.912Z"
   }
 ]
