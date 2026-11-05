@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5",
-    "title": "Investors watch US state races for signs of backlash against AI boom",
-    "titleZh": "華爾街為選民在高風險的美國中期選舉中投票做好準備",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T04:38:53.968Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-    "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-    "titleZh": "隨著川普中期最後期限的臨近，海灣國家為伊朗戰爭可能重啟做好準備",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T14:00:05.763Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-ceo-says-he-d-love-to-ipo-video",
     "title": "ElevenLabs CEO Says He'd 'Love to IPO'",
     "titleZh": "ElevenLabs 執行長表示他“願意首次公開募股”",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T14:35:46.062Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+    "title": "The War Room newsletter: The best warplanes in history",
+    "titleZh": "作戰室時事通訊：史上最棒的戰機",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+    "image": null,
+    "pushedAt": "2026-11-05T14:36:14.851Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+    "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
+    "titleZh": "廣播、有線電視和深夜節目計劃如何報導中期選舉",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:36:16.795Z"
   }
 ]
