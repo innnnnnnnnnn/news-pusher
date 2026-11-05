@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charged-midterms.html",
-    "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
-    "titleZh": "法官駁回對前聯邦調查局 (FBI) 的指控官員",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charged-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/us/02dc-fbi/02dc-fbi-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T16:07:00.686Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/gold-rebounds-as-investors-seek-cash-video",
     "title": "Gold Rebounds as Investors Seek Cash",
     "titleZh": "投資者尋求現金，黃金反彈",
@@ -3471,7 +3462,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "image": null,
-    "pushedAt": "2026-11-04T21:50:01.467Z"
+    "pushedAt": "2026-11-05T00:15:35.482Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
@@ -5064,7 +5055,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-insurer-nonpay-helo-hgwf/00dc-insurer-nonpay-helo-hgwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T21:50:52.343Z"
+    "pushedAt": "2026-11-05T00:16:00.557Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
@@ -6153,7 +6144,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T21:51:17.523Z"
+    "pushedAt": "2026-11-05T00:16:25.551Z"
   },
   {
     "id": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7",
@@ -7773,7 +7764,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/hvld6efyj?ref=rss",
     "image": "https://cdn.flipso.com/p/hvld6efyj_square.jpg",
-    "pushedAt": "2026-11-04T21:49:36.317Z"
+    "pushedAt": "2026-11-05T00:15:09.665Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
     "image": null,
     "pushedAt": "2026-11-05T00:09:37.275Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom",
+    "title": "South Korea’s Current Account Surplus Hits Record on Chip Boom",
+    "titleZh": "韓國經常帳盈餘因晶片繁榮而創歷史新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom",
+    "image": null,
+    "pushedAt": "2026-11-05T00:16:53.961Z"
   }
 ]
