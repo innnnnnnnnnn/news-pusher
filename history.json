@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f5b41577-2368-4480-a04e-7fdfa362603c",
-    "title": "Burnham to set out ‘new era’ and debt reset for struggling Commonwealth",
-    "titleZh": "伯納姆將為陷入困境的英聯邦制定“新時代”和債務重置",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f5b41577-2368-4480-a04e-7fdfa362603c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T04:10:07.904Z"
-  },
-  {
     "id": "https://www.ft.com/content/d629be83-a1d5-4a08-aa69-93910ce50aa7",
     "title": "‘Quiet quitting’ is real and may be hitting British productivity, analysis claims",
     "titleZh": "分析稱，「安靜退出」是真實存在的，可能會影響英國的生產力",
@@ -2301,7 +2292,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "image": null,
-    "pushedAt": "2026-11-05T05:09:17.777Z"
+    "pushedAt": "2026-11-05T07:26:21.977Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
@@ -3894,7 +3885,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-insurer-nonpay-helo-hgwf/00dc-insurer-nonpay-helo-hgwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T05:09:42.656Z"
+    "pushedAt": "2026-11-05T07:26:47.002Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
@@ -7836,7 +7827,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom",
     "image": null,
-    "pushedAt": "2026-11-05T05:10:07.854Z"
+    "pushedAt": "2026-11-05T07:27:12.762Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/sweden-s-slowing-inflation-weakens-riksbank-rate-hike-case",
     "image": null,
     "pushedAt": "2026-11-05T07:25:54.155Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline",
+    "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
+    "titleZh": "伊朗戰爭和高油價打擊杜拜航空公司，阿聯酋航空利潤下降 66%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline",
+    "image": null,
+    "pushedAt": "2026-11-05T07:27:40.823Z"
   }
 ]
