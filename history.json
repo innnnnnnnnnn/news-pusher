@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/quant-trader-s-criminal-trial-to-spotlight-secretive-industry",
-    "title": "Quant Trader’s Criminal Trial to Spotlight Secretive Industry",
-    "titleZh": "量化交易員刑事審判凸顯秘密產業",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/quant-trader-s-criminal-trial-to-spotlight-secretive-industry",
-    "image": null,
-    "pushedAt": "2026-11-03T16:32:16.852Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/trading-on-us-stock-perpetuals-contracts-is-approved-by-cftc",
     "title": "Trading on US Stock Perpetuals Contracts Is Approved by CFTC",
     "titleZh": "美國股票永續合約交易獲 CFTC 批准",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-funds-were-massive-sellers-of-ai-debt-rbc-s-skiba-says",
     "image": null,
     "pushedAt": "2026-11-05T20:35:00.387Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+    "title": "Bomb Threats Disrupt Several Flights Across Europe",
+    "titleZh": "炸彈威脅擾亂歐洲多班航班",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T20:35:29.717Z"
   }
 ]
