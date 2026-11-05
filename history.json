@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/ai-minister-says-the-uk-isn-t-ready-for-extremely-likely-cyber-attacks",
-    "title": "AI Minister Says the UK Isn’t Ready for ‘Extremely Likely’ Cyber Attacks",
-    "titleZh": "人工智慧部長表示英國尚未準備好應對「極有可能」的網路攻擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-minister-says-the-uk-isn-t-ready-for-extremely-likely-cyber-attacks",
-    "image": null,
-    "pushedAt": "2026-11-03T17:45:26.311Z"
-  },
-  {
-    "id": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434",
-    "title": "How common are national exit taxes?",
-    "titleZh": "國家出口稅有多普遍？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434",
-    "image": null,
-    "pushedAt": "2026-11-04T04:31:08.380Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
-    "title": "Goldman’s Molavi Says 60% of S&P 500 Is in Bear Market Territory",
-    "titleZh": "高盛莫拉維表示，標普 500 指數中有 60% 的股票處於熊市區域",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory",
-    "image": null,
-    "pushedAt": "2026-11-03T17:50:24.211Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/us-job-openings-jump-to-highest-level-since-may-layoffs-fall",
     "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
     "titleZh": "美國職缺躍升至四個月高位，裁員人數下降",
@@ -105,7 +78,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-ukraine-attack-01-wckg/02int-ukraine-attack-01-wckg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T17:20:07.723Z"
+    "pushedAt": "2026-11-05T19:57:17.326Z"
   },
   {
     "id": "https://flipso.com/p/q6mvy9ctn",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/ccc-s-stress-relatively-well-contained-gomez-bravo-video",
     "image": null,
     "pushedAt": "2026-11-05T19:45:45.833Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html",
+    "title": "The Machine, and the Messaging, That Won Texas for Democrats",
+    "titleZh": "機器和資訊為民主黨贏得了德克薩斯州",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/us/05nat-texas-dem-tick-tock-1/05nat-texas-dem-tick-tock-1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T19:57:45.967Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+    "title": "How Democrats Won Across the South",
+    "titleZh": "民主黨如何贏得整個南方",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/12/04/multimedia/04midterms-southern-democrats-lkbq/04midterms-southern-democrats-lkbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T19:57:48.930Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
+    "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
+    "titleZh": "科洛姆如何將密西西比州的一次遠射變成一場勢均力敵的比賽",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-colom1-tlkv/04pol-midterms-colom1-tlkv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T19:57:52.639Z"
   }
 ]
