@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
-    "title": "Better than expected Eurozone growth supports ECB’s tightening path",
-    "titleZh": "歐元區成長優於預期支持歐洲央行的緊縮政策",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
-    "image": null,
-    "pushedAt": "2026-11-03T05:08:21.172Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
     "title": "The Tech Tumult Rocks Wall Street",
     "titleZh": "科技股的騷動震撼了華爾街",
@@ -2931,7 +2922,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/72pdqwkkg?ref=rss",
     "image": "https://cdn.flipso.com/p/72pdqwkkg_square.jpg",
-    "pushedAt": "2026-11-05T09:16:56.670Z"
+    "pushedAt": "2026-11-05T11:37:27.267Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
@@ -4650,7 +4641,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vhmnxiqhz?ref=rss",
     "image": "https://cdn.flipso.com/p/vhmnxiqhz_square.jpg",
-    "pushedAt": "2026-11-05T09:15:20.901Z"
+    "pushedAt": "2026-11-05T11:36:14.902Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/frozen-turkish-funds-blue-chip-holdings-sold-off-market",
@@ -6135,7 +6126,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-israel-wrangling-mgkf/02int-israel-wrangling-mgkf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:15:45.203Z"
+    "pushedAt": "2026-11-05T11:36:38.329Z"
   },
   {
     "id": "https://www.ft.com/content/6ccf470f-176f-436f-baa7-e5ac6b4cf20f",
@@ -8124,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/rba-s-hauser-says-solid-public-trust-surprising-amid-rate-pain",
     "image": null,
-    "pushedAt": "2026-11-05T09:16:10.139Z"
+    "pushedAt": "2026-11-05T11:37:01.783Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/south-africa-debt-ratios-lowered-by-data-overhaul-treasury-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/south-african-stocks-rally-most-in-seven-months-as-miners-soar",
     "image": null,
     "pushedAt": "2026-11-05T11:35:48.550Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-plans-debut-yuan-bond-sales-in-canada-amid-warming-ties",
+    "title": "China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties",
+    "titleZh": "中美關係升溫之際，中國計劃在加拿大首次發行人民幣債券",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-plans-debut-yuan-bond-sales-in-canada-amid-warming-ties",
+    "image": null,
+    "pushedAt": "2026-11-05T11:37:51.974Z"
   }
 ]
