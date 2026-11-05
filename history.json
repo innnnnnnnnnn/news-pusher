@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
-    "title": "Celebrating Day of the Dead, High in Mexico’s Mountains",
-    "titleZh": "在墨西哥高山慶祝亡靈節",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-mexico-dayofdead-dispatch01a-photo-hwmj/03int-mexico-dayofdead-dispatch01a-photo-hwmj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T13:43:01.121Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-    "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-    "titleZh": "以色列民主的考驗：猶太人應該要求阿拉伯人加入政府嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-israel-assess01-photo-gqbw/03int-israel-assess01-photo-gqbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T13:43:25.239Z"
-  },
-  {
     "id": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941",
     "title": "What do we know about Europe’s freezer hacks?",
     "titleZh": "我們對歐洲的冰箱駭客了解多少？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/five-credit-portfolio-managers-leave-hedge-fund-brevan-howard",
     "image": null,
     "pushedAt": "2026-11-05T14:29:47.385Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+    "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
+    "titleZh": "拉塞爾·布蘭德被判強姦和性侵犯罪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/cul-russell-brown-verdict-hfo-qkpw/cul-russell-brown-verdict-hfo-qkpw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:30:18.377Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
+    "title": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
+    "titleZh": "無人機成為蘇丹戰爭中平民的頭號殺手",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-sudan-drone-analysis-1-vqbl/03int-sudan-drone-analysis-1-vqbl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:30:22.114Z"
   }
 ]
