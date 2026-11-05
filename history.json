@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/52c2f86b-46a8-4710-9c05-f186baf3827f",
-    "title": "Russia unleashes massive attack on Ukraine’s energy infrastructure",
-    "titleZh": "俄羅斯對烏克蘭能源基礎設施發動大規模攻擊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/52c2f86b-46a8-4710-9c05-f186baf3827f",
-    "image": null,
-    "pushedAt": "2026-11-04T03:55:32.825Z"
-  },
-  {
     "id": "https://flipso.com/p/c92i5tl97",
     "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
     "titleZh": "美妙的天氣：17 世紀英國的洪水和不祥的預感",
@@ -5451,7 +5442,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-ticktok-top-01-kcwp/04pol-midterms-ticktok-top-01-kcwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T16:17:41.916Z"
+    "pushedAt": "2026-11-05T18:51:47.758Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
@@ -8484,7 +8475,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
     "image": null,
-    "pushedAt": "2026-11-05T16:18:32.782Z"
+    "pushedAt": "2026-11-05T18:52:21.907Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
@@ -8493,7 +8484,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
     "image": null,
-    "pushedAt": "2026-11-05T16:19:03.970Z"
+    "pushedAt": "2026-11-05T18:52:47.432Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/i2fvx0md2?ref=rss",
     "image": "https://cdn.flipso.com/p/i2fvx0md2_square.jpg",
     "pushedAt": "2026-11-05T18:51:19.549Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/apple-taps-bond-market-for-7b-as-tech-sells-off-video",
+    "title": "Apple Taps Bond Market for $7B as Tech Sells Off",
+    "titleZh": "隨著科技股拋售，蘋果在債券市場獲利 7B 美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/apple-taps-bond-market-for-7b-as-tech-sells-off-video",
+    "image": null,
+    "pushedAt": "2026-11-05T18:53:16.789Z"
   }
 ]
