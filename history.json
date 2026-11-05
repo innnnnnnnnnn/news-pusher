@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/google-parent-plans-1-5-billion-prepaid-energy-deal-via-goldman",
-    "title": "Google Parent Plans $1.5 Billion Prepaid Energy Deal via Goldman",
-    "titleZh": "谷歌母公司計劃透過高盛達成 15 億美元預付能源交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/google-parent-plans-1-5-billion-prepaid-energy-deal-via-goldman",
-    "image": null,
-    "pushedAt": "2026-11-03T19:09:46.941Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
     "title": "Bomb Threats Disrupt Several Flights Across Europe",
     "titleZh": "炸彈威脅擾亂歐洲多班航班",
@@ -4780,12 +4771,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-    "title": "Nasdaq 100 Sinks 5% as Chipmaker Selloff Deepens: Markets Wrap",
+    "title": "S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap",
     "titleZh": "美國公投後油價下跌，亞洲股市上漲：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-05T17:44:47.518Z"
+    "pushedAt": "2026-11-05T20:21:56.344Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation",
@@ -4965,7 +4956,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
     "image": null,
-    "pushedAt": "2026-11-05T17:45:13.003Z"
+    "pushedAt": "2026-11-05T20:22:21.224Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake",
@@ -7260,7 +7251,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
     "image": null,
-    "pushedAt": "2026-11-05T17:44:21.277Z"
+    "pushedAt": "2026-11-05T20:21:30.564Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-05/milei-afloja-presion-fiscal-tras-golpe-a-pequenas-empresas-mw3jht9x",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/q6mvy9ctn?ref=rss",
     "image": "https://cdn.flipso.com/p/q6mvy9ctn_square.jpg",
     "pushedAt": "2026-11-05T20:21:02.299Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
+    "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
+    "titleZh": "由小羅伯特甘迺迪 (RFK Jr.) 任命的衛生工作小組成員包括四名獲準保留藥品庫存的人員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/WELL-USPSTF-CONFLICTS2-lckj/WELL-USPSTF-CONFLICTS2-lckj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T20:22:48.304Z"
   }
 ]
