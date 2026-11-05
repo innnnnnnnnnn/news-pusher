@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-    "title": "Latest Oil Market News and Analysis for Nov. 3",
-    "titleZh": "11 月 3 日最新石油市場新聞與分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-    "image": null,
-    "pushedAt": "2026-11-03T22:15:29.486Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/south-korea-inflation-holds-firm-bolstering-case-for-more-hikes",
-    "title": "Korea Inflation Holds Firm, Bolstering Case for More Hikes",
-    "titleZh": "韓國通膨堅挺，為進一步升息奠定了基礎",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/south-korea-inflation-holds-firm-bolstering-case-for-more-hikes",
-    "image": null,
-    "pushedAt": "2026-11-03T13:41:42.708Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist",
-    "title": "North Korea Denies Role in $6.3 Billion Binance Heist",
-    "titleZh": "北韓否認參與了價值 63 億美元的幣安加密貨幣搶劫案",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist",
-    "image": null,
-    "pushedAt": "2026-11-04T12:51:19.360Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
     "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
     "titleZh": "川普發表中期選舉結束語。主要是關於景觀美化。",
@@ -6189,7 +6162,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T05:05:28.769Z"
+    "pushedAt": "2026-11-05T07:21:19.842Z"
   },
   {
     "id": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T07:20:51.005Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-yields-attractive-at-5-nasdaq-to-outperform-video",
+    "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
+    "titleZh": "Yardeni：5% 的收益率頗具吸引力；納斯達克指數將跑贏大盤",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-yields-attractive-at-5-nasdaq-to-outperform-video",
+    "image": null,
+    "pushedAt": "2026-11-05T07:21:47.891Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video",
+    "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
+    "titleZh": "印尼在竊聽醜聞中部署軍隊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video",
+    "image": null,
+    "pushedAt": "2026-11-05T07:21:51.974Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/german-factory-orders-partially-rebound-on-automotive-pickup",
+    "title": "German Factory Orders Partially Rebound on Automotive Pickup",
+    "titleZh": "德國工廠訂單因汽車皮卡而部分反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-factory-orders-partially-rebound-on-automotive-pickup",
+    "image": null,
+    "pushedAt": "2026-11-05T07:21:56.514Z"
   }
 ]
