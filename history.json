@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-    "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
-    "titleZh": "科技股經歷六月以來最糟糕的一天，給更廣泛的市場帶來壓力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-oct-biz-promos-stocks/2026-oct-biz-promos-stocks-mediumSquareAt3X-v9.png",
-    "pushedAt": "2026-11-04T01:37:01.336Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
     "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
     "titleZh": "中期選舉前夕，高物價困擾著川普和共和黨",
@@ -4020,7 +4011,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
     "image": "https://static01.nyt.com/images/2026/10/31/obituaries/31obit-hilsum-family-03/31obit-hilsum-family-03-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T06:29:12.297Z"
+    "pushedAt": "2026-11-05T08:48:43.944Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
@@ -4047,7 +4038,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
     "image": null,
-    "pushedAt": "2026-11-05T06:30:02.245Z"
+    "pushedAt": "2026-11-05T08:49:31.837Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
@@ -6279,7 +6270,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04db-talarico-cqwp/04db-talarico-cqwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T06:29:37.232Z"
+    "pushedAt": "2026-11-05T08:49:08.503Z"
   },
   {
     "id": "https://www.ft.com/content/63514fd3-a68d-42e3-8f9a-b373d1a84dbf",
@@ -8628,7 +8619,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
     "image": null,
-    "pushedAt": "2026-11-05T06:28:44.253Z"
+    "pushedAt": "2026-11-05T08:48:20.279Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/boe-poised-for-first-rate-hike-in-three-years-decision-guide",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/spain-to-increase-minimum-wage-by-5-3-ahead-of-key-election",
     "image": null,
     "pushedAt": "2026-11-05T08:47:53.869Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market",
+    "title": "AI Skills Are Make or Break in UK’s Brutal Youth Jobs Market",
+    "titleZh": "人工智慧技能決定英國殘酷的青年就業市場的成敗",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market",
+    "image": null,
+    "pushedAt": "2026-11-05T08:49:56.680Z"
   }
 ]
