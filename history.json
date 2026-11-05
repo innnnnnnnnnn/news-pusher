@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6cf3452b-ab86-429e-a129-96546c126fc4",
-    "title": "Japan’s interest rates are rising. Will young people lose out?",
-    "titleZh": "日本的利率正在上升。年輕人會輸嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6cf3452b-ab86-429e-a129-96546c126fc4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T08:45:02.480Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet",
     "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet",
     "titleZh": "道富銀行執行長表示“很難將人工智慧視為泡沫”",
@@ -7197,7 +7188,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T08:05:50.647Z"
+    "pushedAt": "2026-11-05T10:21:19.768Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/pound-strength-gauge-hits-highest-since-2016-ahead-of-boe-hike",
     "image": null,
     "pushedAt": "2026-11-05T10:15:45.122Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/alphabet-s-search-dominance-is-at-risk-from-its-own-ai-success",
+    "title": "Alphabet’s Search Dominance Is at Risk From Its Own AI Success",
+    "titleZh": "Alphabet 的搜尋主導地位因其自身人工智慧的成功而面臨風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/alphabet-s-search-dominance-is-at-risk-from-its-own-ai-success",
+    "image": null,
+    "pushedAt": "2026-11-05T10:21:46.524Z"
   }
 ]
