@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5",
-    "title": "The FT’s guide to election night",
-    "titleZh": "美國中期選舉之夜指南",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T00:57:55.260Z"
-  },
-  {
     "id": "https://www.ft.com/content/55190116-d0dd-499d-b295-df93bbf0ed37",
     "title": "The Bridge — Alaa Shehada’s one-man show is rich with humour and sorrow",
     "titleZh": "《橋》—Alaa Shehada 的獨角戲充滿了幽默和悲傷",
@@ -114,7 +105,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/i2fvx0md2?ref=rss",
     "image": "https://cdn.flipso.com/p/i2fvx0md2_square.jpg",
-    "pushedAt": "2026-11-05T15:48:25.573Z"
+    "pushedAt": "2026-11-05T18:20:41.314Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/series-of-bomb-threats-force-flight-diversions-across-europe",
@@ -1140,7 +1131,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/891tlqu7u?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-05T15:46:15.664Z"
+    "pushedAt": "2026-11-05T18:18:35.753Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/anthropic-commits-to-895b-in-spending-as-mega-ipo-nears-video",
@@ -2436,7 +2427,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6u5ixrior?ref=rss",
     "image": "https://cdn.flipso.com/p/6u5ixrior_square.jpg",
-    "pushedAt": "2026-11-05T15:47:59.627Z"
+    "pushedAt": "2026-11-05T18:20:16.662Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/asian-stocks-fall-as-democratic-gains-in-us-add-to-ai-worries",
@@ -7080,16 +7071,16 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/world-bank-says-corruption-cost-kenya-900-million-on-railway",
     "image": null,
-    "pushedAt": "2026-11-05T15:46:39.836Z"
+    "pushedAt": "2026-11-05T18:19:00.214Z"
   },
   {
     "id": "https://www.ft.com/content/c5706c21-47a7-4ef9-bc6d-fcbee741acda",
     "title": "BT shares rally as investors sense ‘show me the money’ moment",
     "titleZh": "隨著投資人感覺到「給我錢」時刻，英國電信股價上漲",
     "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c5706c21-47a7-4ef9-bc6d-fcbee741acda",
+    "url": "https://www.ft.com/content/c5706c21-47a7-4ef9-bc6d-fcbee741acda?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T15:47:35.791Z"
+    "pushedAt": "2026-11-05T18:19:51.971Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
@@ -8475,7 +8466,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Ukraine-Oleshky-01-mgbz/05Ukraine-Oleshky-01-mgbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T15:47:08.754Z"
+    "pushedAt": "2026-11-05T18:19:26.136Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T18:18:08.073Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/ai-selloff-has-room-to-go-on-mechanical-selling-tchir-video",
+    "title": "AI Selloff Has Room to Go on Mechanical Selling, Says Academy’s Tchir",
+    "titleZh": "學院的 Tchir 表示，人工智慧銷售還有機械銷售的空間",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/ai-selloff-has-room-to-go-on-mechanical-selling-tchir-video",
+    "image": null,
+    "pushedAt": "2026-11-05T18:21:08.481Z"
   }
 ]
