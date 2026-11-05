@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
-    "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
-    "titleZh": "摩根大通的米歇爾敦促財政部削減「孤兒」20年期債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
-    "image": null,
-    "pushedAt": "2026-11-03T17:35:00.950Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html",
-    "title": "75 Years On, the National Ballet of Canada ‘Remains the Icon’",
-    "titleZh": "75 年後，加拿大國家芭蕾舞團“依然是標誌”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html",
-    "image": null,
-    "pushedAt": "2026-11-03T20:55:27.881Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain",
-    "title": "Ship Strikes In Hormuz Leave Both Sides With Economic Pain",
-    "titleZh": "霍爾木茲船舶襲擊事件給雙方帶來經濟痛苦",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain",
-    "image": null,
-    "pushedAt": "2026-11-03T23:35:30.646Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
     "title": "Poland Beefs Up Security at Border With Russia",
     "titleZh": "波蘭加強與俄羅斯邊境的安全",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
     "image": null,
     "pushedAt": "2026-11-05T21:43:57.640Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
+    "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
+    "titleZh": "川普試圖破壞國家選舉。它不起作用。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-election-integrity-01-phqv/05pol-election-integrity-01-phqv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T21:44:28.243Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
+    "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
+    "titleZh": "美國發現外國對中期選舉的干預活動受到抑制",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-meddling-vptc/05dc-meddling-vptc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T21:44:32.527Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
+    "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+    "titleZh": "為什麼最高法院在選舉前夕的無情譴責很重要",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05thedocket-nl-kctm/05thedocket-nl-kctm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T21:44:37.430Z"
   }
 ]
