@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing",
-    "title": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing",
-    "titleZh": "紐約市審計長在首次公開發行申請後加強對 Anthropic 的批評力度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing",
-    "image": null,
-    "pushedAt": "2026-11-02T19:33:15.831Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet",
     "title": "Citi FX Traders Back Carry But Warn Against ‘Set and Forget’",
     "titleZh": "花旗外匯交易員喜歡套息，但表示這不是「一勞永逸」的賭注",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/des-bishop-on-china-s-comedy-boom-and-censorship-video",
     "image": null,
     "pushedAt": "2026-11-05T01:57:46.128Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
+    "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
+    "titleZh": "迪士尼樂園的 Autopia 遊樂設施將改用電動車",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/climate/00cli-autopia-01/00cli-autopia-01-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T01:58:14.874Z"
   }
 ]
