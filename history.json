@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2",
-    "title": "Big Food faces a multibillion-dollar health check",
-    "titleZh": "大食品面臨數十億美元的健康檢查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T09:37:48.008Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
-    "titleZh": "川普的關稅正在密西根州投票",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trade-midterms-01-lmfk/02dc-trade-midterms-01-lmfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T23:08:33.799Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/vitol-ceo-sees-2026-oil-demand-dropping-3-million-barrels-a-day",
     "title": "Vitol CEO Sees Oil Demand Dropping 3 Million Barrels a Day",
     "titleZh": "維多執行長預計石油需求每天下降 300 萬桶",
@@ -1635,7 +1617,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-04T22:58:51.369Z"
+    "pushedAt": "2026-11-05T01:20:23.457Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/coal-india-said-to-plan-1-billion-mcl-ipo-as-soon-as-this-month",
@@ -8762,8 +8744,8 @@
     "titleZh": "白宮延後聯準會理事聽證會",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T22:59:17.728Z"
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-05T01:20:49.484Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
@@ -8772,16 +8754,16 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
     "image": null,
-    "pushedAt": "2026-11-04T22:59:46.644Z"
+    "pushedAt": "2026-11-05T01:21:14.656Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
-    "title": "Five Survivors Rescued on Remote Pacific Island After 3 Months Lost at Sea",
+    "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
     "titleZh": "五名倖存者在海上失蹤三個月後在太平洋偏遠島嶼獲救",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T23:00:18.300Z"
+    "pushedAt": "2026-11-05T01:21:41.663Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/04/us/golden-state-valkyries-san-francisco-parade.html",
     "image": "https://static01.nyt.com/images/2026/11/04/us/04nat-valkyries-sf/04nat-valkyries-sf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T01:19:55.174Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491",
+    "title": "Copper is booming but not everyone is striking gold",
+    "titleZh": "銅礦正在蓬勃發展，但並非所有人都在尋找黃金",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T01:22:09.709Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9d1f6829-6385-491e-8561-2afd02489190",
+    "title": "China’s critical minerals dominance leaves UK ‘dangerously exposed’, MPs warn",
+    "titleZh": "議員警告說，中國在關鍵礦產方面的主導地位使英國“面臨危險”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9d1f6829-6385-491e-8561-2afd02489190?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T01:22:13.689Z"
   }
 ]
