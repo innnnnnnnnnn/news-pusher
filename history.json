@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30",
-    "title": "Live US midterm elections results — in charts and maps",
-    "titleZh": "美國中期選舉即時結果－以圖表和地圖形式呈現",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T10:36:48.517Z"
-  },
-  {
     "id": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530",
     "title": "China halts listings in bid to bolster struggling markets",
     "titleZh": "中國暫停上市以提振陷入困境的市場",
@@ -5307,7 +5298,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:07:44.044Z"
+    "pushedAt": "2026-11-05T12:25:06.261Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
@@ -8349,7 +8340,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:08:10.068Z"
+    "pushedAt": "2026-11-05T12:25:29.962Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1a81ea73-6dc8-4d94-8cbf-f88891872bb0?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T12:22:17.508Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/boe-united-in-delivering-first-rate-hike-in-three-years",
+    "title": "BOE United in Delivering First Rate Hike in Three Years",
+    "titleZh": "京東方聯合實現三年來首次升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/boe-united-in-delivering-first-rate-hike-in-three-years",
+    "image": null,
+    "pushedAt": "2026-11-05T12:25:56.039Z"
   }
 ]
