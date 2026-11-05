@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/swiss-inflation-accelerates-to-highest-in-almost-three-years",
-    "title": "Swiss Inflation Accelerates to Highest in Almost Three Years",
-    "titleZh": "瑞士通膨加速至近三年來最高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/swiss-inflation-accelerates-to-highest-in-almost-three-years",
-    "image": null,
-    "pushedAt": "2026-11-03T23:22:34.415Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/congo-to-probe-illegal-mining-after-seizing-copper-and-cobalt",
     "title": "Congo to Probe Illegal Mining After Seizing Copper, Cobalt",
     "titleZh": "剛果在查獲銅和鈷後調查非法採礦行為",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-launches-new-9-99-a-month-lyft-go-subscription-with-dashpass",
     "image": null,
     "pushedAt": "2026-11-05T13:00:59.141Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+    "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+    "titleZh": "儘管管線和煉油廠遭受破壞性攻擊，沙烏地阿美公司獲利仍大幅成長",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-saudi-aramco-gjzm/03biz-saudi-aramco-gjzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T13:01:27.819Z"
   }
 ]
