@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks",
-    "title": "Wall Street CEOs, Big Money Managers Divided Over AI Risks",
-    "titleZh": "華爾街執行長和全球大型基金經理人討論人工智慧風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks",
-    "image": null,
-    "pushedAt": "2026-11-03T09:41:14.481Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/china-soybean-oil-stocks-hit-record-as-crushing-outpaces-demand",
     "title": "China Soybean Oil Stocks Hit Record as Crushing Outpaces Demand",
     "titleZh": "由於壓榨超過需求，中國豆油庫存創歷史新高",
@@ -150,7 +141,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dcc01116-e63c-44b0-ad3d-311f5e2f7367?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T08:51:33.728Z"
+    "pushedAt": "2026-11-05T11:08:34.822Z"
   },
   {
     "id": "https://www.ft.com/content/9a5f9454-2aa5-4106-b690-933d0ac3868d",
@@ -3021,7 +3012,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
     "image": null,
-    "pushedAt": "2026-11-05T08:52:21.443Z"
+    "pushedAt": "2026-11-05T11:09:21.700Z"
   },
   {
     "id": "https://flipso.com/p/yyljyn7d3",
@@ -3615,7 +3606,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
     "image": null,
-    "pushedAt": "2026-11-05T08:51:09.492Z"
+    "pushedAt": "2026-11-05T11:08:10.920Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
@@ -5019,7 +5010,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T08:51:57.735Z"
+    "pushedAt": "2026-11-05T11:08:57.950Z"
   },
   {
     "id": "https://www.ft.com/content/6dbbb7d2-54d2-4bad-adf8-3db5b757488b",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/ethiopia-becomes-top-five-african-economy-after-data-overhaul",
     "image": null,
     "pushedAt": "2026-11-05T11:07:44.798Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/podcasts/the-headlines/democrats-midterm-elections-jd-vance-kpop.html",
+    "title": "What Democrats Plan to Do Next, and What JD Vance Says Went Wrong",
+    "titleZh": "民主黨下一步計畫做什麼，以及 JD 萬斯所說的錯誤",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/podcasts/the-headlines/democrats-midterm-elections-jd-vance-kpop.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05theheadlines-dems-cbhm/05theheadlines-dems-cbhm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T11:09:47.180Z"
   }
 ]
