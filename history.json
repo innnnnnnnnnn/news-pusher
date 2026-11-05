@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-video",
-    "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
-    "titleZh": "迪士尼計畫裁員數千人，目標節省 20% 成本",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-video",
-    "image": null,
-    "pushedAt": "2026-11-03T21:41:54.078Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
     "title": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay",
     "titleZh": "川普敦促委內瑞拉達成協議，允許美軍留下",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T22:42:32.054Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+    "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+    "titleZh": "以色列聲稱擁有伊朗化學武器，美國官員意見分歧",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T22:43:01.207Z"
   }
 ]
