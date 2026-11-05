@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/some-overexuberance-in-ai-sadek-wahba-video",
-    "title": "Some 'Overexuberance' In AI: Sadek Wahba",
-    "titleZh": "人工智慧中的一些「過度繁榮」：Sadek Wahba",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/some-overexuberance-in-ai-sadek-wahba-video",
-    "image": null,
-    "pushedAt": "2026-11-03T22:55:06.986Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai",
     "title": "OpenAI Hires Uber’s Hazelbaker as Corporate Affairs Chief",
     "titleZh": "Uber 總裁兼長期主管 Hazelbaker 離職前往 OpenAI",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years",
     "image": null,
     "pushedAt": "2026-11-05T23:43:55.768Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
+    "titleZh": "制衡通訊：民主黨令人作嘔的樂觀主義",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "image": null,
+    "pushedAt": "2026-11-05T23:44:25.179Z"
   }
 ]
