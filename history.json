@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-on-voice-ai-video",
-    "title": "ElevenLabs on What Comes Next for Voice AI",
-    "titleZh": "ElevenLabs 探討語音 AI 的下一步發展",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-on-voice-ai-video",
-    "image": null,
-    "pushedAt": "2026-11-03T14:55:08.777Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/bbva-openai-on-ai-in-banking-video",
     "title": "How BBVA and OpenAI Are Bringing AI Into Banking",
     "titleZh": "BBVA 和 OpenAI 如何將人工智慧引入銀行業",
@@ -2895,7 +2886,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-palestine-action-wtk-bqvh/04xp-palestine-action-wtk-bqvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T14:10:12.366Z"
+    "pushedAt": "2026-11-05T16:38:30.685Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T16:38:04.085Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/oracle-data-center-developer-waives-key-air-permit-deadline",
+    "title": "Oracle Data Center Developer Waives Key Air Permit Deadline",
+    "titleZh": "Oracle 資料中心開發商放棄關鍵空中授權截止日期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/oracle-data-center-developer-waives-key-air-permit-deadline",
+    "image": null,
+    "pushedAt": "2026-11-05T16:38:57.831Z"
   }
 ]
