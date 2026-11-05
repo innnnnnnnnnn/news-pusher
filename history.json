@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00",
-    "title": "The head-spinning turbulence of Trump’s second term",
-    "titleZh": "一場又一場的戰鬥：川普動盪的21個月",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61035ea8-6f07-4b02-a6ad-3cb43d9b597f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T04:05:36.581Z"
-  },
-  {
     "id": "https://www.ft.com/content/186bc594-eee9-4e36-9dc0-223942d4d3a6",
     "title": "Cold War City — how West Berlin shaped its own identity",
     "titleZh": "冷戰之城—西柏林如何塑造自己的身份",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
     "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T11:28:09.165Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
+    "title": "Big Tech Stocks Surge as Democrats Threaten to Slow AI Spending",
+    "titleZh": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
+    "image": null,
+    "pushedAt": "2026-11-05T11:28:36.702Z"
   }
 ]
