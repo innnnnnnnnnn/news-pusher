@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d86c9440-0c50-4879-ae46-81c9649934c0",
-    "title": "Unilever to cut €1bn in costs after food spin-off",
-    "titleZh": "聯合利華分拆食品業務後將削減 10 億歐元成本",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d86c9440-0c50-4879-ae46-81c9649934c0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T04:17:49.648Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
     "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
     "titleZh": "摩根大通的米歇爾敦促財政部削減「孤兒」20年期債券",
@@ -195,7 +186,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T19:08:05.440Z"
+    "pushedAt": "2026-11-05T21:42:14.456Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-video",
@@ -213,7 +204,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-venezuela-military-bvkz/03dc-venezuela-military-bvkz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T19:08:30.346Z"
+    "pushedAt": "2026-11-05T21:42:39.559Z"
   },
   {
     "id": "https://flipso.com/p/v695vin8m",
@@ -735,7 +726,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/9zwa7areg?ref=rss",
     "image": "https://cdn.flipso.com/p/9zwa7areg_square.jpg",
-    "pushedAt": "2026-11-05T19:06:49.217Z"
+    "pushedAt": "2026-11-05T21:41:22.134Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/runway-on-generative-ai-worlds-video",
@@ -753,7 +744,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/irjjf2fav?ref=rss",
     "image": "https://cdn.flipso.com/p/irjjf2fav_square.jpg",
-    "pushedAt": "2026-11-05T19:07:14.285Z"
+    "pushedAt": "2026-11-05T21:41:47.834Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
@@ -4083,7 +4074,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/04/obituaries/04xp-frieda-topper/04xp-frieda-topper-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-05T19:09:19.999Z"
+    "pushedAt": "2026-11-05T21:43:04.083Z"
   },
   {
     "id": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9",
@@ -6738,7 +6729,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e44a00ff-e5f2-4d1b-af44-90f8a72898ce?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4f9f893-517d-47c5-997a-72303df30bb6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-05T19:09:45.925Z"
+    "pushedAt": "2026-11-05T21:43:29.058Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/the-pulse-11-5-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T21:40:01.324Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
+    "title": "Lyft Posts Surprise Loss on Settlement, Gives In-Line Outlook",
+    "titleZh": "Lyft 意外遭遇和解損失，展望符合預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
+    "image": null,
+    "pushedAt": "2026-11-05T21:43:57.640Z"
   }
 ]
