@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
-    "title": "A new path to political power in China runs through state firms",
-    "titleZh": "中國通往政治權力的新途徑是透過國營企業",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
-    "image": null,
-    "pushedAt": "2026-11-05T02:47:18.756Z"
-  },
-  {
-    "id": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-    "title": "The fight for the soul of the Australian right",
-    "titleZh": "為澳洲右翼的靈魂而戰",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-    "image": null,
-    "pushedAt": "2026-11-05T02:47:45.377Z"
-  },
-  {
     "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
     "title": "Bank of Japan says 2% inflation goal reached after decades of deflation",
     "titleZh": "日本央行稱在數十年的通貨緊縮之後實現了 2% 的通膨目標",
@@ -5406,7 +5388,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
     "image": null,
-    "pushedAt": "2026-11-05T01:09:13.813Z"
+    "pushedAt": "2026-11-05T03:41:00.581Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/opinion/jon-ossoff-georgia-senate.html",
@@ -6090,7 +6072,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-theworld-midterms-virginia-qvcf/04int-theworld-midterms-virginia-qvcf-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-05T01:09:38.914Z"
+    "pushedAt": "2026-11-05T03:41:25.270Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
@@ -7417,12 +7399,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
-    "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+    "title": "Nigeria-Focused OPay Said to Halt US IPO After China Inquiry",
     "titleZh": "據稱，在中國調查後，專注於非洲的 OPay 將停止美國 IPO",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
     "image": null,
-    "pushedAt": "2026-11-04T19:29:25.829Z"
+    "pushedAt": "2026-11-05T03:40:34.848Z"
   },
   {
     "id": "https://flipso.com/p/y58gx9jid",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-sees-no-free-fall-in-ai-capital-spending-video",
     "image": null,
     "pushedAt": "2026-11-05T03:40:06.008Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+    "title": "Hong Kong Stocks Roar Back as Investors Rotate Away From AI",
+    "titleZh": "隨著投資人遠離人工智慧，香港股市回升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+    "image": null,
+    "pushedAt": "2026-11-05T03:41:53.038Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout",
+    "title": "Indonesia Kicks Off First Dollar Bond Sale Since MSCI Fallout",
+    "titleZh": "自摩根士丹利資本國際 (MSCI) 影響以來，印尼啟動首次美元債券發售",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout",
+    "image": null,
+    "pushedAt": "2026-11-05T03:41:58.523Z"
   }
 ]
