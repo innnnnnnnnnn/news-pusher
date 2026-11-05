@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/investors-split-on-earnings-season-job-cuts-tied-to-ai-and-costs",
-    "title": "Investors Split on Earnings Season Job Cuts Tied to AI and Costs",
-    "titleZh": "投資者對財報季與人工智慧和成本相關的裁員意見不一",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/investors-split-on-earnings-season-job-cuts-tied-to-ai-and-costs",
-    "image": null,
-    "pushedAt": "2026-11-03T12:13:28.314Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/private-backers-step-back-from-turkey-s-flagship-ev-project-at-800-million-valuation",
     "title": "Private Backers Step Back From Turkey’s Flagship EV Project at €800 Million Valuation",
     "titleZh": "私人支持者退出土耳其估值 8 億歐元的旗艦電動車項目",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/cd5db03d-0b56-4064-b009-3fb163a0cb30?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T14:17:26.513Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
+    "title": "Australian Court Hears Challenge to Social Media Ban",
+    "titleZh": "澳洲法院審理對社群媒體禁令的挑戰",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03-int-oz-socialmedia-jtgf/03-int-oz-socialmedia-jtgf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:17:53.908Z"
   }
 ]
