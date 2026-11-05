@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa",
-    "title": "Bank of Japan says 2% inflation goal reached after decades of deflation",
-    "titleZh": "日本央行稱在數十年的通貨緊縮之後實現了 2% 的通膨目標",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/874acd68-948c-44e6-be8d-a509d6d133fa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T03:45:57.563Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/supermarkets-across-europe-report-suspected-freezer-hack-video",
-    "title": "Supermarkets Across Europe Report Suspected Freezer Hack",
-    "titleZh": "歐洲各地超市報告疑似冰櫃被駭客入侵（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/supermarkets-across-europe-report-suspected-freezer-hack-video",
-    "image": null,
-    "pushedAt": "2026-11-02T20:30:20.940Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
     "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
     "titleZh": "隨著人工智慧爭論的激烈，人類為首次公開募股前的選舉影響做好準備",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout",
     "image": null,
     "pushedAt": "2026-11-05T03:41:58.523Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+    "title": "A new path to political power in China runs through state firms",
+    "titleZh": "中國通往政治權力的新途徑是透過國營企業",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+    "image": null,
+    "pushedAt": "2026-11-05T03:42:28.273Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+    "title": "The fight for the soul of the Australian right",
+    "titleZh": "為澳洲右翼的靈魂而戰",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+    "image": null,
+    "pushedAt": "2026-11-05T03:42:33.787Z"
   }
 ]
