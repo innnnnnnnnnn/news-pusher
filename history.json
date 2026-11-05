@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/us/politics/vance-campaign-trail-personas.html",
-    "title": "A ‘Pugnacious’ Vance Leans Into Personal Attacks on the Campaign Trail",
-    "titleZh": "「好鬥的」萬斯在競選過程中傾向於人身攻擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/vance-campaign-trail-personas.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-vance-ftmj/02dc-vance-ftmj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T22:53:22.241Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-    "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-    "titleZh": "加密貨幣駭客竊取 63 億美元後幣安暫停提款",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T08:38:42.457Z"
-  },
-  {
     "id": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f",
     "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
     "titleZh": "「一大片泳池」：川普在中期選舉最後推動中談到藻類和草",
@@ -8394,7 +8376,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05france-protests-01-fbmk/05france-protests-01-fbmk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T05:02:56.190Z"
+    "pushedAt": "2026-11-05T07:17:12.867Z"
   },
   {
     "id": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85",
@@ -8403,7 +8385,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T05:03:25.359Z"
+    "pushedAt": "2026-11-05T07:17:37.619Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/malaysia-holds-rates-vows-vigilance-as-inflation-pressures-grow",
     "image": null,
     "pushedAt": "2026-11-05T07:14:11.398Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/orsted-completes-offshore-wind-farm-that-trump-tried-to-stop",
+    "title": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop",
+    "titleZh": "奧斯特德完成了川普試圖阻止的離岸風電場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/orsted-completes-offshore-wind-farm-that-trump-tried-to-stop",
+    "image": null,
+    "pushedAt": "2026-11-05T07:18:04.685Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/canada-s-avenir-global-acquires-marker-collective-adding-nvidia-meta-clients",
+    "title": "Canada’s Avenir Global Acquires Marker Collective, Adding Nvidia, Meta Clients",
+    "titleZh": "加拿大 Avenir Global 收購 Marker Collective，新增 Nvidia 與 Meta 客戶",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/canada-s-avenir-global-acquires-marker-collective-adding-nvidia-meta-clients",
+    "image": null,
+    "pushedAt": "2026-11-05T07:18:08.516Z"
   }
 ]
