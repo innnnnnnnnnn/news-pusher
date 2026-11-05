@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/lula-victory-adds-to-brazil-farm-angst-as-defaults-hit-record",
-    "title": "Lula Victory Adds to Brazil Farm Angst as Defaults Hit Record",
-    "titleZh": "違約率創歷史新高，盧拉勝利加劇巴西農場焦慮",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/lula-victory-adds-to-brazil-farm-angst-as-defaults-hit-record",
-    "image": null,
-    "pushedAt": "2026-11-03T12:36:35.189Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/ai-priority-shift-drives-market-reset-morgan-stanley-video",
     "title": "AI Priority Shift Drives Market Reset: Morgan Stanley",
     "titleZh": "人工智慧優先轉變推動市場重置：摩根士丹利（影片）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
     "image": null,
     "pushedAt": "2026-11-05T14:34:07.097Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
+    "title": "The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies",
+    "titleZh": "柴油成本飆升正在使小型卡車運輸公司破產",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
+    "image": null,
+    "pushedAt": "2026-11-05T14:34:33.983Z"
   }
 ]
