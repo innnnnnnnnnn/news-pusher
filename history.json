@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
-    "title": "California’s billionaire tax is dividing Democrats",
-    "titleZh": "加州的億萬富翁稅正在分裂民主黨",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
-    "image": null,
-    "pushedAt": "2026-11-05T23:09:38.896Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/apple-s-upbeat-outlook-overshadowed-by-margin-squeeze-video",
-    "title": "Apple's Upbeat Outlook Overshadowed by Margin Squeeze",
-    "titleZh": "蘋果樂觀的前景因利潤率擠壓而黯然失色",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/apple-s-upbeat-outlook-overshadowed-by-margin-squeeze-video",
-    "image": null,
-    "pushedAt": "2026-11-03T19:26:34.257Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b2610699-0972-4acc-8417-5c9f92bc540e",
-    "title": "Northern Ireland’s biggest pro-UK party damaged by Drumcree parade fallout",
-    "titleZh": "北愛爾蘭最大的親英政黨因德拉姆克里遊行餘波而受損",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b2610699-0972-4acc-8417-5c9f92bc540e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T05:43:41.816Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
     "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
     "titleZh": "FDA警告拖拉機車輪小吃店可能導致窒息危險",
@@ -7962,7 +7935,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ec6394d5-b4fb-4bf4-b231-300da1cd9bfb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T20:37:41.654Z"
+    "pushedAt": "2026-11-05T23:17:44.299Z"
   },
   {
     "id": "https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/t-mobile-customers-swap-roaming-hotspots-for-streaming-benefits",
     "image": null,
     "pushedAt": "2026-11-05T23:17:16.998Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/e-l-f-ceo-all-of-our-brands-are-growing-video",
+    "title": "e.l.f. CEO: All of Our Brands Are Growing",
+    "titleZh": "e.l.f.執行長：我們所有的品牌都在成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/e-l-f-ceo-all-of-our-brands-are-growing-video",
+    "image": null,
+    "pushedAt": "2026-11-05T23:18:12.854Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
+    "title": "Latest Oil Market News and Analysis for Nov. 6",
+    "titleZh": "11 月 6 日最新石油市場新聞與分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
+    "image": null,
+    "pushedAt": "2026-11-05T23:18:17.141Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/brazil-puts-rare-earths-copper-atop-critical-minerals-list",
+    "title": "Brazil Puts Rare Earths, Copper Atop Critical Minerals List",
+    "titleZh": "巴西將稀土、銅列為重要礦產清單",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/brazil-puts-rare-earths-copper-atop-critical-minerals-list",
+    "image": null,
+    "pushedAt": "2026-11-05T23:18:21.522Z"
   }
 ]
