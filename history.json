@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1a40a3af-933b-4c12-aa9b-2cf89f2ed139",
-    "title": "The hidden power of electricity",
-    "titleZh": "電力的隱藏力量",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1a40a3af-933b-4c12-aa9b-2cf89f2ed139?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T04:17:23.616Z"
-  },
-  {
     "id": "https://www.ft.com/content/d86c9440-0c50-4879-ae46-81c9649934c0",
     "title": "Unilever to cut €1bn in costs after food spin-off",
     "titleZh": "聯合利華分拆食品業務後將削減 10 億歐元成本",
@@ -3507,7 +3498,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
     "image": null,
-    "pushedAt": "2026-11-05T19:05:35.451Z"
+    "pushedAt": "2026-11-05T21:39:32.594Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/nvidia-plunges-as-ai-sells-off-closing-bell-video",
     "image": null,
     "pushedAt": "2026-11-05T21:39:04.716Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+    "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+    "titleZh": "巴拉圭總統聖地亞哥佩納因上野銀行醜聞辭職",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T21:40:01.324Z"
   }
 ]
