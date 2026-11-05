@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
-    "title": "Can Europe Build AI Sovereignty at Scale?",
-    "titleZh": "歐洲能否大規模建立人工智慧主權？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
-    "image": null,
-    "pushedAt": "2026-11-03T15:05:35.486Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/senegal-lawmakers-reject-budget-in-setback-for-imf-program-talks",
     "title": "Senegal Lawmakers Reject Budget in Setback for IMF Talks",
     "titleZh": "塞內加爾立法者否決預算，導致國際貨幣基金組織計劃談判受挫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3066017e-996c-4689-9bd8-021eb70b99ac?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T16:50:37.991Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
+    "title": "Gaming Out the Prospect of a Blue Wave",
+    "titleZh": "展望藍色浪潮的前景",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03db-elections-bvhw/03db-elections-bvhw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T16:51:06.144Z"
   }
 ]
