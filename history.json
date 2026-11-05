@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9f71bc39-fef2-4af1-a2e4-b2ff17aa5641",
-    "title": "Chinese retail giant JD.com cleared to buy Germany’s Ceconomy",
-    "titleZh": "中國零售巨頭京東獲準收購德國 Ceconomy",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9f71bc39-fef2-4af1-a2e4-b2ff17aa5641?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T03:45:08.035Z"
-  },
-  {
     "id": "https://flipso.com/p/yuuyzifqs",
     "title": "6,000-year-old Stone Age arrows emerge from melting ice in Norway",
     "titleZh": "6000年前石器時代的箭從挪威融化的冰中出現",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T18:44:25.326Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+    "title": "Passengers Tell of Fear After Bomb Threats Hit European Flights",
+    "titleZh": "歐洲航班遭遇炸彈威脅後，乘客表達了恐懼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bomb-threats-scene01-photo-bqtk/05int-bomb-threats-scene01-photo-bqtk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T18:44:55.990Z"
   }
 ]
