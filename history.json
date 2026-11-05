@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-ceo-says-he-d-love-to-ipo-video",
-    "title": "ElevenLabs CEO Says He'd 'Love to IPO'",
-    "titleZh": "ElevenLabs 執行長表示他“願意首次公開募股”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-ceo-says-he-d-love-to-ipo-video",
-    "image": null,
-    "pushedAt": "2026-11-03T13:03:04.657Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
     "title": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
     "titleZh": "據說艾瑪爾正在研究收購 140 億美元的建築部門",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T14:36:16.795Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+    "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+    "titleZh": "隨著川普中期最後期限的臨近，海灣國家為伊朗戰爭可能重啟做好準備",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:36:45.583Z"
   }
 ]
