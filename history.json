@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/us-manufacturing-activity-picks-up-as-production-grows-video",
-    "title": "US Manufacturing Activity Picks Up as Production Grows",
-    "titleZh": "隨著產量的成長，美國製造業活動回升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/us-manufacturing-activity-picks-up-as-production-grows-video",
-    "image": null,
-    "pushedAt": "2026-11-02T17:16:44.309Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode",
     "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
     "titleZh": "DeepSeek 透過新的創建者模式提升 AI 代理產品",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/rba-s-aggressive-hiking-campaign-all-but-over-as-tensions-emerge",
     "image": null,
     "pushedAt": "2026-11-05T02:04:10.383Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings",
+    "title": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
+    "titleZh": "Nifty 的外資流入和盈利反彈，擊敗整個亞洲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings",
+    "image": null,
+    "pushedAt": "2026-11-05T02:32:12.328Z"
   }
 ]
