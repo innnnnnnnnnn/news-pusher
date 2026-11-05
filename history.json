@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/da34f13c-e138-4f08-b9af-ddfcaad791bf",
-    "title": "Six European nations threaten to boycott Russia in ice hockey world championships",
-    "titleZh": "挪威和芬蘭將抵制俄羅斯參加冰上曲棍球賽",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/da34f13c-e138-4f08-b9af-ddfcaad791bf?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T09:36:52.428Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/security-firm-tied-to-openai-anthropic-ai-hacks-blames-error",
     "title": "Firm Tied to Some OpenAI, Anthropic AI Hacks Blames ‘Error’",
     "titleZh": "與 OpenAI 相關的安全公司，人性化 AI 駭客將其歸咎於“錯誤”",
@@ -6594,7 +6585,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
     "image": null,
-    "pushedAt": "2026-11-05T17:23:45.393Z"
+    "pushedAt": "2026-11-05T20:03:18.674Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
@@ -6603,7 +6594,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-05T17:24:10.087Z"
+    "pushedAt": "2026-11-05T20:03:43.642Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/ai-companies-brace-for-new-unknowns-after-democrats-win",
     "image": null,
     "pushedAt": "2026-11-05T20:02:50.744Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113",
+    "title": "Wall Street mega-donors clobbered by Democratic sweep",
+    "titleZh": "民主黨大獲全勝，華爾街巨額捐款者慘遭重創",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ca5ae79-921f-4828-bb9f-1d06ab4d0c5f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-05T20:04:11.982Z"
   }
 ]
