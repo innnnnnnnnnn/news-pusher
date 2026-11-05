@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation",
-    "title": "AI Inference Startup Fal Raises Capital at $16 Billion Valuation",
-    "titleZh": "AI 推理新創公司 Fal 籌集資金，估值達 160 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation",
-    "image": null,
-    "pushedAt": "2026-11-04T21:19:53.720Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
     "title": "Here is the latest.",
     "titleZh": "這是最新的。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-bird-flu-cfvb/05dc-bird-flu-cfvb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T22:17:33.886Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/why-would-anyone-leave-new-zealand",
+    "title": "Why Would Anyone Leave New Zealand?",
+    "titleZh": "為什麼有人要離開紐西蘭？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/why-would-anyone-leave-new-zealand",
+    "image": null,
+    "pushedAt": "2026-11-05T22:18:04.470Z"
   }
 ]
