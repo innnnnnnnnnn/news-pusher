@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aa57000f-bb9a-46ec-9eed-fc6857e2c432",
-    "title": "MPs summon Poundland’s owner to select committee grilling",
-    "titleZh": "國會議員指責龐德蘭的美國老闆“掠奪性資本主義”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aa57000f-bb9a-46ec-9eed-fc6857e2c432?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T03:07:33.163Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/shopify-revenue-miss-yum-brands-up-on-taco-bell-sales-video",
-    "title": "Shopify Revenue Miss; Yum Brands Jumps on Taco Bell Sales | Stock Movers",
-    "titleZh": "Shopify 收入小姐；百勝餐飲集團 (Yum Brands) 的塔可鐘 (Taco Bell) 銷售額大幅增長庫存搬運工",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/shopify-revenue-miss-yum-brands-up-on-taco-bell-sales-video",
-    "image": null,
-    "pushedAt": "2026-11-03T19:08:40.389Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/google-parent-plans-1-5-billion-prepaid-energy-deal-via-goldman",
     "title": "Google Parent Plans $1.5 Billion Prepaid Energy Deal via Goldman",
     "titleZh": "谷歌母公司計劃透過高盛達成 15 億美元預付能源交易",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/wq2a0tglp?ref=rss",
     "image": null,
     "pushedAt": "2026-11-05T20:20:30.898Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+    "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
+    "titleZh": "對烏克蘭人道主義中心的攻擊恐怕是戰爭中最致命的一次",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+    "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-ukraine-attack-01-wckg/02int-ukraine-attack-01-wckg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T20:20:59.704Z"
+  },
+  {
+    "id": "https://flipso.com/p/q6mvy9ctn",
+    "title": "Writing seen in PHerc. 306B for the first time in 2,000 years",
+    "titleZh": "PHerc 中看到的文字。 2000年來首次306B",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/q6mvy9ctn?ref=rss",
+    "image": "https://cdn.flipso.com/p/q6mvy9ctn_square.jpg",
+    "pushedAt": "2026-11-05T20:21:02.299Z"
   }
 ]
