@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
-    "title": "New York Bought an Electric Ferry. The City Can’t Charge It.",
-    "titleZh": "紐約買了一艘電動渡輪。城市無法收費。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:07:20.985Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
     "title": "Another Toll of the Violent Unrest in France: The Political Center",
     "titleZh": "法國暴力騷亂的另一個代價：政治中心",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/arts/television/latenight-midterms-blue-wave.html",
     "image": null,
     "pushedAt": "2026-11-05T08:04:35.637Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-partner-hon-hai-s-sales-rise-46-thanks-to-ai-demand",
+    "title": "Nvidia Partner Hon Hai’s Sales Rise 46% Thanks to AI Demand",
+    "titleZh": "由於人工智慧需求，英偉達合作夥伴鴻海銷售額成長 46%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-partner-hon-hai-s-sales-rise-46-thanks-to-ai-demand",
+    "image": null,
+    "pushedAt": "2026-11-05T08:06:41.782Z"
   }
 ]
