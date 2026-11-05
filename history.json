@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f",
-    "title": "Democrats close ranks after shock Michigan split",
-    "titleZh": "密西根州令人震驚的叛逃後，民主黨人團結一致",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F421227d8-4ba0-4fd3-91f8-10b7679be87c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T04:50:52.879Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates",
     "title": "Match Drops After Sales, Profit Outlook Miss Estimates",
     "titleZh": "季度銷售額、利潤前景低於預期後，匹配度下降",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/marriott-bets-on-asia-as-hotel-and-travel-demand-grows-video",
     "image": null,
     "pushedAt": "2026-11-05T06:02:18.510Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
+    "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
+    "titleZh": "擱淺柬埔寨的奧德賽「無盡遊輪」可能會被拍賣",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
+    "image": null,
+    "pushedAt": "2026-11-05T06:02:47.477Z"
   }
 ]
