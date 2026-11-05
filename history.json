@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/how-binance-s-6-billion-heist-unfolded-video",
-    "title": "How Binance’s $6 Billion Heist Unfolded",
-    "titleZh": "幣安 60 億美元搶劫案是如何展開的",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/how-binance-s-6-billion-heist-unfolded-video",
-    "image": null,
-    "pushedAt": "2026-11-02T23:25:34.619Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says",
     "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
     "titleZh": "美國國家運輸安全委員會稱，裡爾噴射機可能在佛羅裡達州致命墜機事件之前就已經解體",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/the-race-to-dominate-space-video",
     "image": null,
     "pushedAt": "2026-11-05T05:15:57.679Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+    "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+    "titleZh": "川普政府據說計劃取消與懷孕相關的工作保護",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T05:16:27.923Z"
   }
 ]
