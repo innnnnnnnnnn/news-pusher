@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/salesforce-sponsor-spotlight-video",
-    "title": "Salesforce Sponsor Spotlight",
-    "titleZh": "Salesforce 贊助商聚焦",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/salesforce-sponsor-spotlight-video",
-    "image": null,
-    "pushedAt": "2026-11-03T16:13:36.091Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/south-africa-s-kruger-park-faces-flood-repair-funding-gap",
     "title": "South Africa’s Kruger Park Faces Flood-Repair Funding Gap",
     "titleZh": "南非克魯格公園面臨洪水修復資金缺口",
@@ -7089,7 +7080,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/ecb-s-zigman-sees-rather-big-chance-of-december-rate-hike",
     "image": null,
-    "pushedAt": "2026-11-05T15:40:38.264Z"
+    "pushedAt": "2026-11-05T18:11:17.337Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/world-bank-says-corruption-cost-kenya-900-million-on-railway",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/anthropic-plaid-collaborate-on-ai-consumer-finance-guidance",
     "image": null,
     "pushedAt": "2026-11-05T18:10:48.489Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/codelco-chair-plans-restructuring-after-copper-reporting-scandal",
+    "title": "Codelco Chair Eyes Overhaul After Production Scandal",
+    "titleZh": "Codelco 主席在生產醜聞後進行大修",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/codelco-chair-plans-restructuring-after-copper-reporting-scandal",
+    "image": null,
+    "pushedAt": "2026-11-05T18:11:44.944Z"
   }
 ]
