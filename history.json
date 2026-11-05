@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/the-opening-trade-11-03-2026-video",
-    "title": "US Election Day Kicks Off: Stocks Slip, Oil Rebounds",
-    "titleZh": "美國選舉日開跑：股市下滑，油價反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-opening-trade-11-03-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-03T12:14:50.151Z"
-  },
-  {
     "id": "https://www.ft.com/content/050d5ed2-83e7-4ebb-a781-0daa3874797c",
     "title": "In the shadow of war, Silicon Valley sprinkles stardust",
     "titleZh": "戰爭陰影下的矽谷灑滿星塵",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
     "image": null,
     "pushedAt": "2026-11-05T16:18:32.782Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
+    "title": "State-Driven Data Center Backlash Reshaping the AI Trade",
+    "titleZh": "國家驅動的資料中心強烈反對重塑人工智慧產業",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
+    "image": null,
+    "pushedAt": "2026-11-05T16:19:03.970Z"
   }
 ]
