@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-02/detroit-future-city-ceo-unemployment-is-down-in-detroit-video",
-    "title": "Detroit Future City CEO: Unemployment Is Down in Detroit",
-    "titleZh": "底特律未來城執行長：底特律失業率下降",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-02/detroit-future-city-ceo-unemployment-is-down-in-detroit-video",
-    "image": null,
-    "pushedAt": "2026-11-03T03:17:30.983Z"
-  },
-  {
-    "id": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
-    "title": "As voters head to the polls, Democrats bet that discontent will power their victory",
-    "titleZh": "隨著選民前往投票站，民主黨人押注不滿情緒將推動他們的勝利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
-    "image": null,
-    "pushedAt": "2026-11-05T04:44:11.960Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-taps-macquarie-commsec-for-australia-ipo-retail-offer",
     "title": "Anthropic Taps Macquarie, CommSec for Australia IPO Retail Offer",
     "titleZh": "Anthropic 利用麥格理和 CommSec 進行澳洲 IPO 零售報價",
@@ -3813,7 +3795,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T04:32:30.687Z"
+    "pushedAt": "2026-11-05T06:51:37.561Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
@@ -3822,7 +3804,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
     "image": null,
-    "pushedAt": "2026-11-05T04:32:55.473Z"
+    "pushedAt": "2026-11-05T06:52:02.373Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts",
     "image": null,
     "pushedAt": "2026-11-05T06:51:07.814Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4c51eb96-50ce-4eed-b1c8-b2c46e4a4f37",
+    "title": "FTAV’s further reading",
+    "titleZh": "FTAV 的進一步閱讀",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4c51eb96-50ce-4eed-b1c8-b2c46e4a4f37",
+    "image": null,
+    "pushedAt": "2026-11-05T06:52:30.560Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4c40362a-8994-43e1-8000-68cd92cf7d51",
+    "title": "Toyota returns to profit growth on strong US demand for hybrids",
+    "titleZh": "豐田因美國對混合動力車的強勁需求而恢復利潤成長",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4c40362a-8994-43e1-8000-68cd92cf7d51?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T06:52:34.570Z"
   }
 ]
