@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/briefing/its-election-day.html",
-    "title": "It’s Election Day",
-    "titleZh": "今天是選舉日",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/briefing/its-election-day.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03themorning-nl-LEAD-bmlh/03themorning-nl-LEAD-bmlh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T19:34:04.271Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
     "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
     "titleZh": "為什麼卡爾希想要廢除 1958 年有關洋蔥的法律",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-identity-politics.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-identitypolitics/05pol-identitypolitics-mediumSquareAt3X.png",
     "pushedAt": "2026-11-05T15:55:09.731Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/spacex-default-risk-hits-fresh-peak-as-tech-led-selloff-builds",
+    "title": "SpaceX Default Risk Hits Fresh Peak as Tech-Led Selloff Builds",
+    "titleZh": "隨著科技主導的拋售加劇，SpaceX 違約風險達到新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/spacex-default-risk-hits-fresh-peak-as-tech-led-selloff-builds",
+    "image": null,
+    "pushedAt": "2026-11-05T15:55:41.421Z"
   }
 ]
