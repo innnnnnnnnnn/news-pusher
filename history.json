@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-    "title": "How Binance’s $6.3 Billion Hack Went Down",
-    "titleZh": "幣安 63 億美元的駭客攻擊是如何發生的",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:04:22.422Z"
-  },
-  {
-    "id": "https://www.ft.com/content/a7879ca3-f925-416b-826e-2a2a538e42f7",
-    "title": "Italy’s half-baked exit tax is the worst of both worlds",
-    "titleZh": "義大利半生不熟的退出稅是兩全其美的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a7879ca3-f925-416b-826e-2a2a538e42f7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T05:31:28.415Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/bank-of-canada-says-fiscal-and-monetary-policy-aren-t-at-odds",
     "title": "Bank of Canada Says Fiscal and Monetary Policy Aren’t at Odds",
     "titleZh": "加拿大央行表示財政和貨幣政策並不矛盾",
@@ -8475,7 +8457,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T20:35:29.717Z"
+    "pushedAt": "2026-11-05T23:13:32.963Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/former-turkish-minister-kaya-arrested-in-funds-probe-aa-says",
     "image": null,
     "pushedAt": "2026-11-05T23:12:15.374Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
+    "title": "The Evening: The Blue Wave Swells",
+    "titleZh": "傍晚：碧波蕩漾",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05evening-nl-midterms-colom-zbwl/05evening-nl-midterms-colom-zbwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T23:14:02.090Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
+    "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
+    "titleZh": "國民警衛隊將使用軍車和船隻擴大在華盛頓的巡邏",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-guard-jbwm/05dc-guard-jbwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T23:14:06.724Z"
   }
 ]
