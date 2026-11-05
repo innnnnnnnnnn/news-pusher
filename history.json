@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
-    "title": "The War Room newsletter: The best warplanes in history",
-    "titleZh": "作戰室時事通訊：史上最棒的戰機",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
-    "image": null,
-    "pushedAt": "2026-11-05T13:46:50.700Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
-    "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
-    "titleZh": "期中之夜，電視節目表充滿了選擇",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T13:51:46.284Z"
-  },
-  {
     "id": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5",
     "title": "Investors watch US state races for signs of backlash against AI boom",
     "titleZh": "華爾街為選民在高風險的美國中期選舉中投票做好準備",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/article/russell-brand-trial-verdict.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cul-russell-brand-wtk-whfk/12cul-russell-brand-wtk-whfk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T14:35:13.328Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
+    "title": "China and Taiwan are fighting over Sun Yat-sen",
+    "titleZh": "中國和台灣正在爭奪孫中山",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
+    "image": null,
+    "pushedAt": "2026-11-05T14:35:43.307Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94",
+    "title": "Brussels sets tight deadline for ECB president nominations",
+    "titleZh": "布魯塞爾為歐洲央行行長提名設定了緊迫的最後期限",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T14:35:46.062Z"
   }
 ]
