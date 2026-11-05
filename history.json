@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
-    "title": "Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
-    "titleZh": "Meta 啟動債務發行以推動人工智慧投資",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
-    "image": null,
-    "pushedAt": "2026-11-04T05:20:44.834Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances",
     "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees",
     "titleZh": "戰爭導致財政緊張，沙烏地阿拉伯預算赤字增加一倍多",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T17:39:59.825Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "title": "US midterms 2026: live results",
+    "titleZh": "2026 年美國中期選舉：即時結果",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "image": null,
+    "pushedAt": "2026-11-05T17:40:29.770Z"
   }
 ]
