@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626",
-    "title": "US voters prepare to deliver verdict on Trump",
-    "titleZh": "美國選民準備對川普做出裁決",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5315c7e-27fb-4249-bd9e-10d5612526b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T17:22:20.512Z"
-  },
-  {
-    "id": "https://www.ft.com/content/79867d48-6d4a-4e5e-ba62-105f7181f6b1",
-    "title": "Menopause specialist sold in €2.6bn private equity deal",
-    "titleZh": "Cinven 以 26 億歐元收購更年期專家 Theramex",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/79867d48-6d4a-4e5e-ba62-105f7181f6b1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T04:10:17.664Z"
-  },
-  {
-    "id": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0",
-    "title": "German car parts giant Schaeffler axes 3,500 jobs",
-    "titleZh": "德國汽車零件巨頭舍弗勒裁員3,500人",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T13:36:55.306Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d0a25da5-1875-428e-9f47-8a6a203052cf",
-    "title": "Burnham takes immigration politics beyond fear of Farage",
-    "titleZh": "伯納姆讓移民政治擺脫對法拉奇的恐懼",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d0a25da5-1875-428e-9f47-8a6a203052cf?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T14:45:56.682Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d92053ff-a6fb-4672-93ff-4cb55cb87786",
-    "title": "Asian Cup football tournament in Saudi Arabia postponed",
-    "titleZh": "沙烏地阿拉伯亞洲盃足球賽延後",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d92053ff-a6fb-4672-93ff-4cb55cb87786?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T14:46:20.978Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
     "title": "Wanted: a news researcher in Beijing",
     "titleZh": "誠聘：北京新聞研究員",
@@ -8394,7 +8349,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bdf4430c-5514-433a-ba04-67b0f9cf0de9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T12:00:55.102Z"
+    "pushedAt": "2026-11-05T14:20:04.394Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us",
@@ -8998,5 +8953,50 @@
     "url": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T14:19:36.981Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
+    "title": "America’s copper giant has big dreams—but cautious plans",
+    "titleZh": "美國銅業巨頭有著遠大的夢想，但計畫十分謹慎",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
+    "image": null,
+    "pushedAt": "2026-11-05T14:20:31.251Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
+    "title": "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?",
+    "titleZh": "DoorDash-Instacart 融合能否對抗亞馬遜和沃爾瑪？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
+    "image": null,
+    "pushedAt": "2026-11-05T14:20:37.065Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
+    "title": "The break-up of CVS marks a turning point in American health care",
+    "titleZh": "CVS 的解散標誌著美國醫療保健的轉折點",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
+    "image": null,
+    "pushedAt": "2026-11-05T14:20:41.163Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
+    "title": "Is curiosity all it’s cooked up to be?",
+    "titleZh": "好奇心就是一切嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
+    "image": null,
+    "pushedAt": "2026-11-05T14:20:45.746Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
+    "title": "Firms are racing to protect themselves from AI cyber threats",
+    "titleZh": "各公司競相保護自己免受人工智慧網路威脅",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
+    "image": null,
+    "pushedAt": "2026-11-05T14:20:51.564Z"
   }
 ]
