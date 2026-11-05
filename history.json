@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-    "title": "America’s renters are in serious trouble",
-    "titleZh": "美國的租屋者陷入嚴重麻煩",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-    "image": null,
-    "pushedAt": "2026-11-05T23:20:34.195Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/weil-gotshal-s-95-year-history-careens-to-a-close-video",
     "title": "Weil Gotshal’s 95-Year History Careens To A Close",
     "titleZh": "Weil Gotshal 95 年份的歷史即將結束",
@@ -735,7 +726,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
     "image": null,
-    "pushedAt": "2026-11-05T21:05:55.365Z"
+    "pushedAt": "2026-11-05T23:40:24.509Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
@@ -6099,7 +6090,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T21:04:33.858Z"
+    "pushedAt": "2026-11-05T23:39:34.502Z"
   },
   {
     "id": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e",
@@ -6760,12 +6751,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree",
-    "title": "Apple Set to Raise $7.5 Billion From High-Grade Debt Offering",
+    "title": "Apple Raises $7.5 Billion From Investment-Grade Debt Offering",
     "titleZh": "蘋果啟動高等級債券發售，加入發行熱潮",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree",
     "image": null,
-    "pushedAt": "2026-11-05T21:07:11.645Z"
+    "pushedAt": "2026-11-05T23:41:15.018Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
@@ -6774,7 +6765,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-uk-ebola-patient-htbc/05int-uk-ebola-patient-htbc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T21:06:20.397Z"
+    "pushedAt": "2026-11-05T23:40:49.015Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/boe-sees-case-for-another-hike-if-iran-war-doesn-t-end-video",
@@ -7989,7 +7980,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-midterms-came-too-late-to-save-bank-of-england-from-rate-hike",
     "image": null,
-    "pushedAt": "2026-11-05T21:07:36.638Z"
+    "pushedAt": "2026-11-05T23:41:39.703Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
@@ -8430,7 +8421,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/expedia-ceo-on-full-year-forecast-travel-demand-and-ai-video",
     "image": null,
-    "pushedAt": "2026-11-05T21:05:01.163Z"
+    "pushedAt": "2026-11-05T23:39:58.576Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
     "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-afghan-deport-folo01-photo-pqcf/02int-afghan-deport-folo01-photo-pqcf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T23:32:29.174Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/monster-tops-estimates-on-growing-global-energy-drink-demand",
+    "title": "Monster Tops Estimates on Growing Global Energy Drink Demand",
+    "titleZh": "全球能量飲料需求不斷增長，Monster 超出預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/monster-tops-estimates-on-growing-global-energy-drink-demand",
+    "image": null,
+    "pushedAt": "2026-11-05T23:42:06.939Z"
   }
 ]
