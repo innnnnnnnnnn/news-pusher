@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-    "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-    "titleZh": "使用人工智慧的強大滅蚊雷射消滅有翅害蟲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-    "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T08:22:31.314Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
     "title": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
     "titleZh": "一個國家如何成為全球人工智慧的十字路口繁榮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
     "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-hongkong-joshua-hlwt/00int-hongkong-joshua-hlwt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T03:23:22.327Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply",
+    "title": "Treasuries Gain as US Vote Fuels Hopes for Curbing Bond Supply",
+    "titleZh": "美國公投引發限制債券供應的希望，國債上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply",
+    "image": null,
+    "pushedAt": "2026-11-05T03:23:53.517Z"
   }
 ]
