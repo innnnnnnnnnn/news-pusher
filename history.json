@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/apple-forecast-tops-estimates-disappoints-investors-video",
-    "title": "Apple Forecast Tops Estimates, Disappoints Investors",
-    "titleZh": "蘋果預測超出預期，令投資人失望",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/apple-forecast-tops-estimates-disappoints-investors-video",
-    "image": null,
-    "pushedAt": "2026-11-03T07:10:32.450Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/dbs-ceo-on-how-southeast-asia-s-biggest-bank-deploys-ai-video",
     "title": "DBS CEO on How Southeast Asia's Biggest Bank Deploys AI",
     "titleZh": "星展銀行執行長談東南亞最大銀行如何部署人工智慧",
@@ -4821,7 +4812,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T07:54:38.255Z"
+    "pushedAt": "2026-11-05T10:09:09.435Z"
   },
   {
     "id": "https://flipso.com/p/q0cqae589",
@@ -7773,7 +7764,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T07:55:03.659Z"
+    "pushedAt": "2026-11-05T10:09:32.758Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-lgfv-seeks-to-reassure-creditors-after-huafa-selloff",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
     "pushedAt": "2026-11-05T10:08:18.911Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
+    "title": "$400 Million Lost. SpaceX Stock Tanking. Elon Musk Had a Tough Election Night.",
+    "titleZh": "損失 4 億美元。 SpaceX 股票暴跌。伊隆馬斯克度過了一個艱難的選舉之夜。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T10:09:59.527Z"
   }
 ]
