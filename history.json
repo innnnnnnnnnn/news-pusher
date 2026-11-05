@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-03/abb-s-bangalore-factory-robots-open-the-door-for-women-in-charge",
-    "title": "ABB’s Bangalore Factory Robots Open the Door for Women in Charge",
-    "titleZh": "ABB 班加羅爾工廠機器人為女性負責人打開了大門",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/abb-s-bangalore-factory-robots-open-the-door-for-women-in-charge",
-    "image": null,
-    "pushedAt": "2026-11-03T14:29:38.366Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/major-hedge-funds-mostly-lose-in-nowhere-to-hide-october",
     "title": "Major Hedge Funds Mostly Lose in ‘Nowhere to Hide’ October",
     "titleZh": "主要對沖基金十月「無處藏身」大多虧損",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/zillow-drops-on-results-dutch-bros-reduces-guidance-video",
     "image": null,
     "pushedAt": "2026-11-05T16:14:40.531Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
+    "title": "How Trump Is Reacting to the Midterm Results",
+    "titleZh": "川普對中期結果有何反應",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
+    "image": null,
+    "pushedAt": "2026-11-05T16:15:10.664Z"
   }
 ]
