@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/186bc594-eee9-4e36-9dc0-223942d4d3a6",
-    "title": "Cold War City — how West Berlin shaped its own identity",
-    "titleZh": "冷戰之城—西柏林如何塑造自己的身份",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/186bc594-eee9-4e36-9dc0-223942d4d3a6",
-    "image": null,
-    "pushedAt": "2026-11-03T09:51:03.511Z"
-  },
-  {
     "id": "https://www.ft.com/content/4e777c1f-d0fa-40ae-97b3-a131a4d0f632",
     "title": "Digital ‘Lula’s army’ inspires leftists in France, Argentina and Spain",
     "titleZh": "盧拉在巴西大選中的數位勝利為左翼提供了全球典範",
@@ -2940,7 +2931,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:11:07.955Z"
+    "pushedAt": "2026-11-05T11:30:13.460Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
@@ -5784,7 +5775,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/whc4ci2yf?ref=rss",
     "image": "https://cdn.flipso.com/p/whc4ci2yf_square.jpg",
-    "pushedAt": "2026-11-05T09:09:29.879Z"
+    "pushedAt": "2026-11-05T11:29:03.214Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/us-revamps-debt-sale-guidance-holds-auctions-steady-video",
@@ -6171,7 +6162,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vvr0dekod?ref=rss",
     "image": "https://cdn.flipso.com/p/vvr0dekod_square.jpg",
-    "pushedAt": "2026-11-05T09:10:20.570Z"
+    "pushedAt": "2026-11-05T11:29:26.905Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep",
@@ -8124,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts",
     "image": null,
-    "pushedAt": "2026-11-05T09:10:44.534Z"
+    "pushedAt": "2026-11-05T11:29:50.162Z"
   },
   {
     "id": "https://www.ft.com/content/4c51eb96-50ce-4eed-b1c8-b2c46e4a4f37",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
     "image": null,
     "pushedAt": "2026-11-05T11:28:36.702Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/ai-agents-how-meta-s-muse-openai-s-dots-work-what-they-can-do-safety-worries",
+    "title": "AI Agents: How Meta’s Muse, OpenAI’s Dots Work, What They Can Do, Safety Worries",
+    "titleZh": "AI 代理：Meta 的 Muse、OpenAI 的 Dots 如何運作、它們能做什麼、安全擔憂",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-agents-how-meta-s-muse-openai-s-dots-work-what-they-can-do-safety-worries",
+    "image": null,
+    "pushedAt": "2026-11-05T11:30:39.699Z"
   }
 ]
