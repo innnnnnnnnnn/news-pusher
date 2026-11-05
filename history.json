@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/the-real-signal-from-last-week",
-    "title": "The Real Signal From Last Week",
-    "titleZh": "上週的真實訊號",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/the-real-signal-from-last-week",
-    "image": null,
-    "pushedAt": "2026-11-02T19:56:33.954Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/gulf-arab-oil-giants-are-exporting-crude-at-pre-war-rates-again",
     "title": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again",
     "titleZh": "海灣阿拉伯石油大廠再次以戰前價格出口原油",
@@ -5946,7 +5937,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/29c178c1-2960-4670-b510-f90b4b559903?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T00:30:18.809Z"
+    "pushedAt": "2026-11-05T03:00:04.023Z"
   },
   {
     "id": "https://www.ft.com/content/e1d21f92-ef86-4bec-bc6f-05a179c5e6d9",
@@ -6036,7 +6027,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
     "image": null,
-    "pushedAt": "2026-11-05T00:32:50.918Z"
+    "pushedAt": "2026-11-05T03:01:44.600Z"
   },
   {
     "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9",
@@ -6054,7 +6045,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T00:33:15.962Z"
+    "pushedAt": "2026-11-05T03:02:09.693Z"
   },
   {
     "id": "https://flipso.com/p/q0cqae589",
@@ -6648,7 +6639,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/656f10c4-26ec-430e-adfa-dcadf0dd61ff?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T00:31:34.960Z"
+    "pushedAt": "2026-11-05T03:00:29.004Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
@@ -6657,7 +6648,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-05T00:32:00.324Z"
+    "pushedAt": "2026-11-05T03:00:54.499Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
@@ -7170,7 +7161,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T00:32:25.838Z"
+    "pushedAt": "2026-11-05T03:01:19.297Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
@@ -8142,7 +8133,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
     "image": null,
-    "pushedAt": "2026-11-05T00:33:40.943Z"
+    "pushedAt": "2026-11-05T03:02:34.787Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep",
     "image": null,
     "pushedAt": "2026-11-05T02:59:35.228Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4",
+    "title": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division",
+    "titleZh": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T03:03:02.611Z"
   }
 ]
