@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2c886f7d-b382-4abe-b999-08493f214d05",
-    "title": "How to rave it",
-    "titleZh": "如何狂歡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2c886f7d-b382-4abe-b999-08493f214d05",
-    "image": null,
-    "pushedAt": "2026-11-03T09:50:13.063Z"
-  },
-  {
     "id": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00",
     "title": "The head-spinning turbulence of Trump’s second term",
     "titleZh": "一場又一場的戰鬥：川普動盪的21個月",
@@ -951,7 +942,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:08:40.284Z"
+    "pushedAt": "2026-11-05T11:27:18.184Z"
   },
   {
     "id": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5",
@@ -7323,7 +7314,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
     "image": "https://static01.nyt.com/images/2026/10/30/climate/00cli-autopia-01/00cli-autopia-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:08:16.780Z"
+    "pushedAt": "2026-11-05T11:26:52.421Z"
   },
   {
     "id": "https://www.ft.com/content/271a287d-2585-42aa-9dc8-4760b979c825",
@@ -7332,7 +7323,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/271a287d-2585-42aa-9dc8-4760b979c825?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T09:09:05.310Z"
+    "pushedAt": "2026-11-05T11:27:42.176Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T11:26:25.654Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
+    "title": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
+    "titleZh": "中國阻止軟銀以 54 億美元收購機器人業務，阻礙外國交易",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T11:28:09.165Z"
   }
 ]
