@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/shopify-plunges-as-revenue-misses-for-first-time-since-2022",
-    "title": "Shopify Plunges as Revenue Misses for First Time Since 2022",
-    "titleZh": "Shopify 收入暴跌，自 2022 年以來首次低於預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/shopify-plunges-as-revenue-misses-for-first-time-since-2022",
-    "image": null,
-    "pushedAt": "2026-11-03T18:03:40.104Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/ubs-traders-see-combustible-setup-for-s-p-500-rally-after-vote",
     "title": "UBS Traders See ‘Combustible Setup’ for S&P 500 Rally After Vote",
     "titleZh": "瑞銀交易員認為標普 500 指數投票後反彈“易燃”",
@@ -8367,7 +8358,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/englands-new-ban-on-kinky-porn-will-misfire",
     "image": null,
-    "pushedAt": "2026-11-05T14:33:50.647Z"
+    "pushedAt": "2026-11-05T17:02:14.844Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
@@ -8376,7 +8367,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
     "image": null,
-    "pushedAt": "2026-11-05T14:33:58.062Z"
+    "pushedAt": "2026-11-05T17:02:39.435Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
@@ -8385,7 +8376,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
     "image": null,
-    "pushedAt": "2026-11-05T14:34:02.357Z"
+    "pushedAt": "2026-11-05T17:03:04.066Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
@@ -8394,7 +8385,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
     "image": null,
-    "pushedAt": "2026-11-05T14:34:07.097Z"
+    "pushedAt": "2026-11-05T17:03:28.903Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/qatar-in-talks-to-buy-more-us-lng-diversify-supply-outside-persian-gulf",
     "image": null,
     "pushedAt": "2026-11-05T17:01:47.470Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+    "titleZh": "父母因人工智慧起訴谷歌學校 Chromebook 的安全風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T17:03:55.541Z"
   }
 ]
