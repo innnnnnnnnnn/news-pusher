@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-    "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-    "titleZh": "卡尼承諾加拿大成為歐盟第一個“準成員”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-canada-assess-fmtk/30int-canada-assess-fmtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T17:28:14.155Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-on-voice-ai-video",
     "title": "ElevenLabs on What Comes Next for Voice AI",
     "titleZh": "ElevenLabs 探討語音 AI 的下一步發展",
@@ -7170,7 +7161,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d72fad65-f3dd-4a32-a9fb-4792d9a99bb6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T14:09:48.427Z"
+    "pushedAt": "2026-11-05T16:37:35.576Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T16:37:08.799Z"
+  },
+  {
+    "id": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd",
+    "title": "Blue Origin delays launches until 2027",
+    "titleZh": "藍色起源將發射推遲到 2027 年",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T16:38:04.085Z"
   }
 ]
