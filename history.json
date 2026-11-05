@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/physical-oil-prices-tumbling-as-persian-gulf-crude-flows-recover",
-    "title": "Physical Oil Prices Tumble as Persian Gulf Crude Flows Recover",
-    "titleZh": "隨著波斯灣原油流量恢復，實體石油價格暴跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/physical-oil-prices-tumbling-as-persian-gulf-crude-flows-recover",
-    "image": null,
-    "pushedAt": "2026-11-03T18:09:04.348Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/ecb-will-probably-have-to-raise-rates-in-december-nagel-says",
     "title": "ECB Will Probably Have to Hike in December, Nagel Says",
     "titleZh": "內格爾表示歐洲央行可能得在 12 月升息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain",
     "image": null,
     "pushedAt": "2026-11-05T22:32:00.911Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+    "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+    "titleZh": "OpenAI 和 Anthropic 設立「作戰室」來打擊有關中期選舉的虛假訊息",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T22:32:29.405Z"
   }
 ]
