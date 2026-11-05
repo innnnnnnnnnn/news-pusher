@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
-    "title": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
-    "titleZh": "最高法院將聽取天主教學校對科羅拉多州援助規則的挑戰",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-scotus-preschool-top-kqcv/03dc-scotus-preschool-top-kqcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T21:53:44.894Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/us/ukraine-immigrant-trucker-cdl-weigh-stations-ice.html",
     "title": "Trump’s Immigration Dragnet Sweeps Up Ukrainian Truckers Who Fled War",
     "titleZh": "川普的移民拉網席捲了逃離戰爭的烏克蘭卡車司機",
@@ -4515,7 +4506,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-nyt-hwvf/04biz-nyt-hwvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T12:17:45.550Z"
+    "pushedAt": "2026-11-05T14:47:16.295Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
@@ -4524,7 +4515,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T12:19:25.481Z"
+    "pushedAt": "2026-11-05T14:48:59.208Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/wayfair-growth-hits-post-pandemic-high-on-us-market-share-gains",
@@ -5100,7 +5091,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle",
     "image": null,
-    "pushedAt": "2026-11-05T12:19:01.521Z"
+    "pushedAt": "2026-11-05T14:48:33.280Z"
   },
   {
     "id": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b",
@@ -7548,7 +7539,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
     "image": null,
-    "pushedAt": "2026-11-05T12:18:37.672Z"
+    "pushedAt": "2026-11-05T14:48:08.475Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/craft-beer-makers-strain-on-both-sides-of-us-canada-trade-clash",
@@ -7557,7 +7548,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/craft-beer-makers-strain-on-both-sides-of-us-canada-trade-clash",
     "image": null,
-    "pushedAt": "2026-11-05T12:19:49.048Z"
+    "pushedAt": "2026-11-05T14:49:23.295Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
@@ -8213,8 +8204,8 @@
     "titleZh": "英國央行三年來首次升息",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Biz-BOE-Rates-hjwp/05Biz-BOE-Rates-hjwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T12:18:10.886Z"
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:47:42.130Z"
   },
   {
     "id": "https://www.ft.com/content/b9da150e-5086-4078-88e7-eebe0c6ad0dc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/haoyang-is-said-to-secure-590-million-loan-for-thai-data-campus",
     "image": null,
     "pushedAt": "2026-11-05T14:46:47.190Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/banco-do-brasil-enfrenta-alta-da-inadimplencia-no-agro-video",
+    "title": "Banco do Brasil enfrenta aumento da inadimplência no agro",
+    "titleZh": "Banco do Brasil enfrenta aumento da inadimplência no agro",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/banco-do-brasil-enfrenta-alta-da-inadimplencia-no-agro-video",
+    "image": null,
+    "pushedAt": "2026-11-05T14:49:49.673Z"
   }
 ]
