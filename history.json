@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
-    "title": "An Election Day Special With Nate Silver",
-    "titleZh": "內特·西爾弗 (Nate Silver) 的選舉日特別節目",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
-    "image": null,
-    "pushedAt": "2026-11-03T11:23:36.177Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
     "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
     "titleZh": "奇怪的很多：內特·西爾弗的選舉日特別節目（播客）",
@@ -312,7 +303,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T11:38:19.692Z"
+    "pushedAt": "2026-11-05T14:00:05.763Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-ceo-says-he-d-love-to-ipo-video",
@@ -1851,7 +1842,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T11:39:29.971Z"
+    "pushedAt": "2026-11-05T14:00:30.255Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/physical-oil-prices-tumbling-as-persian-gulf-crude-flows-recover",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/another-drop-in-rhine-water-levels-risks-even-higher-barge-rates",
     "image": null,
     "pushedAt": "2026-11-05T13:53:56.278Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-05/apple-macbook-pro-with-touch-screen-oled-review-display-is-an-added-bonus",
+    "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
+    "titleZh": "蘋果MacBook Pro配備觸控螢幕、OLED評測：顯示器是額外加分",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-05/apple-macbook-pro-with-touch-screen-oled-review-display-is-an-added-bonus",
+    "image": null,
+    "pushedAt": "2026-11-05T14:00:58.117Z"
   }
 ]
