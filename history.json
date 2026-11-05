@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/weil-gotshal-s-95-year-history-careens-to-a-close-video",
-    "title": "Weil Gotshal’s 95-Year History Careens To A Close",
-    "titleZh": "Weil Gotshal 95 年份的歷史即將結束",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/weil-gotshal-s-95-year-history-careens-to-a-close-video",
-    "image": null,
-    "pushedAt": "2026-11-03T19:51:15.790Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
     "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
     "titleZh": "制衡通訊：民主黨令人作嘔的樂觀主義",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/monster-tops-estimates-on-growing-global-energy-drink-demand",
     "image": null,
     "pushedAt": "2026-11-05T23:42:06.939Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "title": "America’s renters are in serious trouble",
+    "titleZh": "美國的租屋者陷入嚴重麻煩",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "image": null,
+    "pushedAt": "2026-11-05T23:42:35.843Z"
   }
 ]
