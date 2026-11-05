@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
-    "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
-    "titleZh": "迪士尼樂園的 Autopia 遊樂設施將改用電動車",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/climate/00cli-autopia-01/00cli-autopia-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T01:48:36.107Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing",
     "title": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing",
     "titleZh": "紐約市審計長在首次公開發行申請後加強對 Anthropic 的批評力度",
@@ -3165,7 +3156,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03db-elections-bvhw/03db-elections-bvhw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T23:35:17.929Z"
+    "pushedAt": "2026-11-05T01:56:27.684Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video",
@@ -5631,7 +5622,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-trump-fox-topart-01-khbw/03biz-trump-fox-topart-01-khbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T23:35:43.128Z"
+    "pushedAt": "2026-11-05T01:56:53.038Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-stocks-set-for-correction-as-bank-profit-outlook-sours",
@@ -7062,7 +7053,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-04T23:36:08.798Z"
+    "pushedAt": "2026-11-05T01:57:18.223Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/india-coffee-output-to-miss-forecast-after-below-normal-rains",
@@ -8056,12 +8047,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote",
-    "title": "Kiwi Slide Haunts New Zealand’s Main Parties Ahead of Tight Vote",
+    "title": "Kiwi Slide Haunts New Zealand Parties Ahead of Tight Vote",
     "titleZh": "紐西蘭主要政黨在緊張投票前夕遭遇“紐西蘭滑梯”",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote",
     "image": null,
-    "pushedAt": "2026-11-04T20:37:35.144Z"
+    "pushedAt": "2026-11-05T01:55:37.513Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
@@ -8808,7 +8799,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/briefing/midterm-election-results-congress-power.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04evening-nl-blame-game-wczp/04evening-nl-blame-game-wczp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T23:34:49.375Z"
+    "pushedAt": "2026-11-05T01:56:02.565Z"
   },
   {
     "id": "https://flipso.com/p/032r7g16t",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-scene-top-jgfk/04dc-scene-top-jgfk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T01:55:08.788Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/des-bishop-on-china-s-comedy-boom-and-censorship-video",
+    "title": "Des Bishop on China's Comedy Boom and Censorship",
+    "titleZh": "德斯畢肖普談中國的喜劇繁榮與審查制度",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/des-bishop-on-china-s-comedy-boom-and-censorship-video",
+    "image": null,
+    "pushedAt": "2026-11-05T01:57:46.128Z"
   }
 ]
