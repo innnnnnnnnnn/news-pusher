@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
-    "title": "Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks",
-    "titleZh": "Anthropic IPO 解釋：S-1 備案、納斯達克上市和主要風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
-    "image": null,
-    "pushedAt": "2026-11-02T21:03:56.586Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/vista-elliott-s-cloud-software-to-refinance-2-billion-of-debt",
     "title": "Vista, Elliott’s Cloud Software to Refinance $2 Billion of Debt",
     "titleZh": "Vista、Elliott 的雲端軟體將為 20 億美元債務再融資",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/wheat-climbs-as-weak-russian-export-outlook-fans-supply-concerns",
     "image": null,
     "pushedAt": "2026-11-05T04:49:48.656Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+    "title": "Russia Senses Opportunity in Polish Political Turmoil",
+    "titleZh": "俄羅斯在波蘭政治動盪中嗅到機遇",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-poland-russia01-photo-kjcl/02int-poland-russia01-photo-kjcl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T04:50:18.929Z"
   }
 ]
