@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3b0c35d2-78c9-4f8a-9789-fdd76532bd7d",
-    "title": "Asda appoints ex-Morrisons boss as new CEO",
-    "titleZh": "阿斯達任命前莫里森老闆大衛波茨為新首席執行官",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3b0c35d2-78c9-4f8a-9789-fdd76532bd7d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T05:17:44.315Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/sbi-s-strong-loan-growth-drives-second-quarter-profit-beat",
     "title": "SBI’s Strong Loan Growth Drives Second-Quarter Profit Beat",
     "titleZh": "SBI 強勁的貸款成長推動第二季獲利成長",
@@ -204,7 +195,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-sudan-drone-analysis-1-vqbl/03int-sudan-drone-analysis-1-vqbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T11:17:28.767Z"
+    "pushedAt": "2026-11-05T13:42:36.545Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
@@ -213,7 +204,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-mexico-dayofdead-dispatch01a-photo-hwmj/03int-mexico-dayofdead-dispatch01a-photo-hwmj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T11:17:52.322Z"
+    "pushedAt": "2026-11-05T13:43:01.121Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
@@ -222,7 +213,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-israel-assess01-photo-gqbw/03int-israel-assess01-photo-gqbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T11:18:15.614Z"
+    "pushedAt": "2026-11-05T13:43:25.239Z"
   },
   {
     "id": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/czechs-hike-rates-for-second-time-this-year-to-tame-price-risks",
     "image": null,
     "pushedAt": "2026-11-05T13:42:08.610Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/us-labor-productivity-increases-at-fastest-pace-in-a-year",
+    "title": "US Labor Productivity Increases at Fastest Pace in a Year",
+    "titleZh": "美國勞動生產力以一年來最快速度成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-labor-productivity-increases-at-fastest-pace-in-a-year",
+    "image": null,
+    "pushedAt": "2026-11-05T13:43:51.627Z"
   }
 ]
