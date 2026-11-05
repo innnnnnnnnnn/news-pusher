@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e",
-    "title": "Australia raises rates to highest level since 2008 financial crisis",
-    "titleZh": "澳洲將利率提高至2008年金融危機以來的最高水平",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T10:48:44.591Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/coal-india-said-to-plan-1-billion-mcl-ipo-as-soon-as-this-month",
     "title": "Coal India Said to Plan $1 Billion MCL IPO as Soon as This Month",
     "titleZh": "印度煤炭公司據稱最快本月計劃進行 10 億美元的 MCL IPO",
@@ -123,7 +114,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T08:50:22.897Z"
+    "pushedAt": "2026-11-05T11:06:02.333Z"
   },
   {
     "id": "https://www.ft.com/content/7a3546e8-2785-463f-8708-6a5d913ca07d",
@@ -3624,7 +3615,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
     "image": null,
-    "pushedAt": "2026-11-05T08:49:31.837Z"
+    "pushedAt": "2026-11-05T11:05:15.261Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
@@ -8583,7 +8574,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market",
     "image": null,
-    "pushedAt": "2026-11-05T08:49:56.680Z"
+    "pushedAt": "2026-11-05T11:05:39.003Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
     "image": "https://static01.nyt.com/images/2026/11/04/science/04SCI-CHIHUAHUA-DNA-01/04SCI-CHIHUAHUA-DNA-01-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T11:04:49.228Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+    "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+    "titleZh": "內塔尼亞胡指控與阿拉伯投票率有關的選舉舞弊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T11:06:27.695Z"
   }
 ]
