@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-    "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
-    "titleZh": "幣安被駭客攻擊。加密货币客户有哪些保护措施？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T12:49:04.208Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/palantir-executive-says-ukraine-support-is-controversial-in-us",
-    "title": "Palantir Executive Says Ukraine Support Is Controversial in US",
-    "titleZh": "Palantir 高層表示對烏克蘭的支持在美國存在爭議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/palantir-executive-says-ukraine-support-is-controversial-in-us",
-    "image": null,
-    "pushedAt": "2026-11-03T13:59:56.275Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
-    "title": "Our current AI moment has darker historical echoes",
-    "titleZh": "我們目前的人工智慧時代有著更黑暗的歷史迴響",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
-    "image": null,
-    "pushedAt": "2026-11-05T15:31:34.055Z"
-  },
-  {
     "id": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55",
     "title": "Apollo lends record $114bn as it piles into AI financing boom",
     "titleZh": "Apollo 借出創紀錄的 1,140 億美元資金，湧入人工智慧融資熱潮",
@@ -5883,7 +5856,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T13:13:33.759Z"
+    "pushedAt": "2026-11-05T15:42:40.873Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/chips-selloff-worsens-as-fears-about-ai-trade-grip-stock-market",
     "image": null,
     "pushedAt": "2026-11-05T15:38:57.891Z"
+  },
+  {
+    "id": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24",
+    "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
+    "titleZh": "科技領袖表示，人工智慧的強烈反對威脅到數兆美元的資料中心繁榮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T15:43:07.750Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/zipline-hits-20b-valuation-as-walmart-deal-expands-video",
+    "title": "Zipline Hits $20 Billion Valuation as Walmart Deal Expands",
+    "titleZh": "隨著沃爾瑪交易的擴大，Zipline 估值達到 200 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/zipline-hits-20b-valuation-as-walmart-deal-expands-video",
+    "image": null,
+    "pushedAt": "2026-11-05T15:43:13.035Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-declined-to-expand-texas-data-center-offer-with-nscale-before-ipo",
+    "title": "Microsoft Declined to Expand Texas Data Center Offer With Nscale Before IPO",
+    "titleZh": "微軟拒絕在 IPO 前擴大與 Nscale 的德州資料中心報價",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-declined-to-expand-texas-data-center-offer-with-nscale-before-ipo",
+    "image": null,
+    "pushedAt": "2026-11-05T15:43:16.011Z"
   }
 ]
