@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
-    "title": "How Ukrainian Soldiers Are Moving Underground",
-    "titleZh": "烏克蘭士兵如何轉入地下",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
-    "image": null,
-    "pushedAt": "2026-11-03T07:22:04.119Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
-    "title": "Colombia’s ‘Narcoterrorist’ Crackdown Raises Questions Over Killings",
-    "titleZh": "哥倫比亞的「毒品恐怖分子」鎮壓引發了對殺戮的質疑",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
-    "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-colombia-killings-promo/00int-colombia-killings-tlfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T07:23:26.941Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
     "title": "Why the Markets Don’t Care About the Midterms",
     "titleZh": "為什麼市場不關心中期選舉",
@@ -5082,7 +5064,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
     "image": null,
-    "pushedAt": "2026-11-05T05:26:15.467Z"
+    "pushedAt": "2026-11-05T07:54:14.656Z"
   },
   {
     "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9",
@@ -5100,7 +5082,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
     "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T05:26:40.305Z"
+    "pushedAt": "2026-11-05T07:54:38.255Z"
   },
   {
     "id": "https://flipso.com/p/q0cqae589",
@@ -8052,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T05:27:06.364Z"
+    "pushedAt": "2026-11-05T07:55:03.659Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-lgfv-seeks-to-reassure-creditors-after-huafa-selloff",
@@ -8574,7 +8556,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget",
     "image": null,
-    "pushedAt": "2026-11-05T05:28:00.006Z"
+    "pushedAt": "2026-11-05T07:55:27.883Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/czechs-set-for-second-rate-hike-this-year-as-price-risks-persist",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/boe-decision-day-with-a-hike-baked-in-traders-look-to-december",
     "image": null,
     "pushedAt": "2026-11-05T07:45:42.062Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/boe-set-to-hike-rates-for-first-time-three-years-video",
+    "title": "BOE Set to Hike Rates for First Time Three Years",
+    "titleZh": "京東方將三年來首次升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/boe-set-to-hike-rates-for-first-time-three-years-video",
+    "image": null,
+    "pushedAt": "2026-11-05T07:55:55.270Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video",
+    "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
+    "titleZh": "藍色浪潮席捲韓國重量級人物，中國股市飆升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-05T07:56:01.104Z"
   }
 ]
