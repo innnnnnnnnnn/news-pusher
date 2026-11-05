@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/treasuries-fall-amid-oil-price-swings-strong-job-openings-data",
-    "title": "Treasuries Fall Amid Oil Price Swings, Strong Job Openings Data",
-    "titleZh": "油價波動和強勁的職缺數據導致國債下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/treasuries-fall-amid-oil-price-swings-strong-job-openings-data",
-    "image": null,
-    "pushedAt": "2026-11-03T16:42:45.925Z"
-  },
-  {
     "id": "https://www.ft.com/content/44e578ac-e2e5-43b4-946d-06ebb82d27e6",
     "title": "Heat returns to US labour market in latest official turnover figures",
     "titleZh": "最新官方營業額數據顯示，美國勞動市場再度升溫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04nat-black-south-01-kmth/04nat-black-south-01-kmth-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T20:50:45.216Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+    "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
+    "titleZh": "一個 80 美分的塑膠袋使數千名婦女免於難產",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T20:51:14.156Z"
   }
 ]
