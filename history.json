@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
-    "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
-    "titleZh": "英國首相表示他願意就奴隸制正式道歉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
-    "image": "https://static01.nyt.com/images/2026/11/30/multimedia/30int-uk-slavery-apology-mhgb/30int-uk-slavery-apology-mhgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T17:06:49.224Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
     "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
     "titleZh": "挖掘越戰死難者會治癒舊傷還是重新揭開傷痕？",
@@ -3948,7 +3939,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/whc4ci2yf?ref=rss",
     "image": "https://cdn.flipso.com/p/whc4ci2yf_square.jpg",
-    "pushedAt": "2026-11-05T16:22:23.221Z"
+    "pushedAt": "2026-11-05T18:56:47.205Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/us-revamps-debt-sale-guidance-holds-auctions-steady-video",
@@ -5469,7 +5460,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
     "image": "https://static01.nyt.com/images/2026/10/30/climate/00cli-autopia-01/00cli-autopia-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T16:21:34.352Z"
+    "pushedAt": "2026-11-05T18:55:57.322Z"
   },
   {
     "id": "https://www.ft.com/content/271a287d-2585-42aa-9dc8-4760b979c825",
@@ -7152,7 +7143,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
     "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T16:21:58.915Z"
+    "pushedAt": "2026-11-05T18:56:21.859Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/agility-robotics-makes-public-debut-as-humanoids-scale-video",
     "image": null,
     "pushedAt": "2026-11-05T18:55:29.578Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/defense-tech-boom-fuels-shield-ai-s-expansion-video",
+    "title": "Defense Tech Boom Fuels Shield AI’s Expansion",
+    "titleZh": "國防技術的繁榮推動了 Shield AI 的擴張",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/defense-tech-boom-fuels-shield-ai-s-expansion-video",
+    "image": null,
+    "pushedAt": "2026-11-05T18:57:14.342Z"
   }
 ]
