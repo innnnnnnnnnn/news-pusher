@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/82jphwns0",
-    "title": "Jules Verne’s Paris in the Twentieth Century",
-    "titleZh": "凡爾納筆下的二十世紀巴黎",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/82jphwns0?ref=rss",
-    "image": "https://cdn.flipso.com/p/82jphwns0_square.jpg",
-    "pushedAt": "2026-11-04T16:13:15.773Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/foodtastic-offers-750-million-for-restaurant-franchisor-mty",
     "title": "Foodtastic Offers $750 Million for Restaurant Franchisor MTY",
     "titleZh": "Foodtastic 出價 7.5 億美元收購餐廳特許經營商 MTY",
@@ -177,7 +168,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "image": null,
-    "pushedAt": "2026-11-05T14:19:09.834Z"
+    "pushedAt": "2026-11-05T16:47:33.213Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
     "image": null,
     "pushedAt": "2026-11-05T16:47:06.479Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/duke-energy-s-data-center-bet-video",
+    "title": "Duke Energy's Data Center Bet",
+    "titleZh": "杜克能源公司的資料中心賭注",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/duke-energy-s-data-center-bet-video",
+    "image": null,
+    "pushedAt": "2026-11-05T16:48:00.844Z"
   }
 ]
