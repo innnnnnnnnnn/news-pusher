@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
-    "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
-    "titleZh": "中期選舉前夕，高物價困擾著川普和共和黨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-trump-econ-01-qwmg/30dc-trump-econ-01-qwmg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T23:15:10.146Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20",
-    "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
-    "titleZh": "迪士尼擬裁員數千人，經理被要求裁員 20%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20",
-    "image": null,
-    "pushedAt": "2026-11-03T05:05:50.395Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount",
     "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
     "titleZh": "甲骨文以 11% 的折扣出售近 100 億美元的股票",
@@ -537,7 +519,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T06:30:27.870Z"
+    "pushedAt": "2026-11-05T08:50:22.897Z"
   },
   {
     "id": "https://www.ft.com/content/7a3546e8-2785-463f-8708-6a5d913ca07d",
@@ -591,7 +573,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dcc01116-e63c-44b0-ad3d-311f5e2f7367?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T06:32:22.032Z"
+    "pushedAt": "2026-11-05T08:51:33.728Z"
   },
   {
     "id": "https://www.ft.com/content/9a5f9454-2aa5-4106-b690-933d0ac3868d",
@@ -3462,7 +3444,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
     "image": null,
-    "pushedAt": "2026-11-05T06:33:12.076Z"
+    "pushedAt": "2026-11-05T08:52:21.443Z"
   },
   {
     "id": "https://flipso.com/p/yyljyn7d3",
@@ -4056,7 +4038,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
     "image": null,
-    "pushedAt": "2026-11-05T06:31:26.055Z"
+    "pushedAt": "2026-11-05T08:51:09.492Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
@@ -5460,7 +5442,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T06:32:46.942Z"
+    "pushedAt": "2026-11-05T08:51:57.735Z"
   },
   {
     "id": "https://www.ft.com/content/6dbbb7d2-54d2-4bad-adf8-3db5b757488b",
@@ -8628,7 +8610,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/boe-poised-for-first-rate-hike-in-three-years-decision-guide",
     "image": null,
-    "pushedAt": "2026-11-05T06:30:56.225Z"
+    "pushedAt": "2026-11-05T08:50:46.054Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/ascendas-firstspace-said-to-consider-500-million-india-ipo",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market",
     "image": null,
     "pushedAt": "2026-11-05T08:49:56.680Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
+    "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
+    "titleZh": "以下是與以色列總統會面並推薦總理的人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T08:52:48.061Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market",
+    "title": "Claude Lowers ChatGPT’s Lead in $1.4 Billion UK Consumer AI Market",
+    "titleZh": "Claude 降低了 ChatGPT 在價值 14 億美元的英國消費者人工智慧市場中的領先地位",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market",
+    "image": null,
+    "pushedAt": "2026-11-05T08:52:51.851Z"
   }
 ]
