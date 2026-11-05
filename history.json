@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/opinion/justice-kagan-speak-truth.html",
-    "title": "Justice Kagan Sounds an Alarm About the Court",
-    "titleZh": "卡根法官面對破碎的法庭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/opinion/justice-kagan-speak-truth.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/opinion/02wegman-image/02wegman-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T21:15:59.815Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc",
-    "title": "Why Trump’s tech dreams are quietly crumbling",
-    "titleZh": "為什麼川普的科技夢想正在悄悄破滅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-02T18:47:36.244Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-    "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-    "titleZh": "隨著人工智慧交易成為「展示我」的故事，中期反彈可能會很棘手",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-    "image": null,
-    "pushedAt": "2026-11-02T23:53:40.858Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-leads-17-firm-high-grade-bond-push-before-us-midterm-vote",
     "title": "Oracle Leads 17-Firm High-Grade Bond Push Before US Midterm Vote",
     "titleZh": "甲骨文在美國中期投票前主導 17 家公司的高等級債券發行",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05france-protests-01-fbmk/05france-protests-01-fbmk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T05:02:56.190Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85",
+    "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+    "titleZh": "英國《金融時報》民調顯示，絕大多數美國選民不贊成川普對通膨的處理方式",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T05:03:25.359Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+    "title": "The New Zealand Election That Could ‘Flip the Table’",
+    "titleZh": "紐西蘭大選可能“翻轉局面”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/00int-nz-election-top-jzwb/00int-nz-election-top-jzwb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T05:03:32.797Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
+    "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
+    "titleZh": "選民紛紛投票削弱獨裁者的規模",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-election-turnout-analysis-zwkq/05int-election-turnout-analysis-zwkq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T05:03:38.446Z"
   }
 ]
