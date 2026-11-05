@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-    "title": "Apple Releases iOS 27.3 Beta With Watch AI Listening Tools, Health App, China AI",
-    "titleZh": "蘋果發表iOS 27.3 Beta版 附帶Watch AI聽力工具、健康應用程式、China AI",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-    "image": null,
-    "pushedAt": "2026-11-03T21:49:14.884Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439",
-    "title": "Former Weil partners lawyer up over firm’s wind-down",
-    "titleZh": "Weil 前合夥人就公司破產聘請顧問",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T07:27:14.314Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/amlo-s-son-denies-crime-allegations-ahead-of-mexico-congress-run",
     "title": "AMLO’s Son Denies Graft Charges Ahead of Mexico Congress Run",
     "titleZh": "奧夫拉多爾之子在墨西哥國會競選前否認犯罪指控",
@@ -2526,7 +2508,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T20:14:22.205Z"
+    "pushedAt": "2026-11-05T22:52:39.411Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
@@ -3399,7 +3381,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03new-york-times-midterm-elections-hgtm/03new-york-times-midterm-elections-hgtm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T20:13:57.293Z"
+    "pushedAt": "2026-11-05T22:52:15.157Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-service-sector-grows-at-the-slowest-pace-in-three-months",
@@ -4272,7 +4254,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T20:14:47.165Z"
+    "pushedAt": "2026-11-05T22:53:03.754Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
@@ -6747,7 +6729,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T20:15:12.263Z"
+    "pushedAt": "2026-11-05T22:53:28.185Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/equity-volatility-jumps-most-since-april-2025-tariff-turmoil",
     "image": null,
     "pushedAt": "2026-11-05T22:51:47.726Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/tapestry-ceo-on-earnings-beat-consumer-outlook-video",
+    "title": "Tapestry CEO on Earnings Beat, Consumer Outlook",
+    "titleZh": "Tapestry 執行長談獲利成長與消費者前景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/tapestry-ceo-on-earnings-beat-consumer-outlook-video",
+    "image": null,
+    "pushedAt": "2026-11-05T22:53:54.630Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/carney-bank-of-canada-renew-framework-to-focus-on-2-inflation-target",
+    "title": "Carney, Bank of Canada Renew Framework to Focus on 2% Inflation Target",
+    "titleZh": "卡尼與加拿大央行更新框架，重點關注 2% 通膨目標",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/carney-bank-of-canada-renew-framework-to-focus-on-2-inflation-target",
+    "image": null,
+    "pushedAt": "2026-11-05T22:53:58.933Z"
   }
 ]
