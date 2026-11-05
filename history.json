@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/us/midterm-elections-trump-democrats-republicans-key-themes.html",
-    "title": "6 Themes to Watch for in the Midterms Elections Results",
-    "titleZh": "中期選舉結果值得關注的 6 個主題",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/us/midterm-elections-trump-democrats-republicans-key-themes.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03pol-what-to-watch-bvkm/03pol-what-to-watch-bvkm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T12:03:31.662Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-03/abb-s-bangalore-factory-robots-open-the-door-for-women-in-charge",
     "title": "ABB’s Bangalore Factory Robots Open the Door for Women in Charge",
     "titleZh": "ABB 班加羅爾工廠機器人為女性負責人打開了大門",
@@ -5442,7 +5433,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal",
     "image": null,
-    "pushedAt": "2026-11-05T13:44:44.396Z"
+    "pushedAt": "2026-11-05T16:14:13.272Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates",
@@ -6837,7 +6828,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02obit-Nordhaus-vhzj/02obit-Nordhaus-vhzj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T13:41:07.720Z"
+    "pushedAt": "2026-11-05T16:12:35.656Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts",
@@ -8299,12 +8290,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/election-raises-hurdle-for-data-center-ipos-after-peers-tumble",
-    "title": "Election Raises Hurdle for Data Center IPOs After Peers Tumble",
+    "title": "Election Raises Hurdle for Data Center IPOs After Peers Drop",
     "titleZh": "同行暴跌後，選舉為資料中心首次公開募股設置了障礙",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/election-raises-hurdle-for-data-center-ipos-after-peers-tumble",
     "image": null,
-    "pushedAt": "2026-11-05T13:41:35.392Z"
+    "pushedAt": "2026-11-05T16:12:59.358Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/soaring-gas-costs-squeeze-out-europe-s-negative-power-prices",
@@ -8317,12 +8308,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/czechs-hike-rates-for-second-time-this-year-to-tame-price-risks",
-    "title": "Czechs Hike Rates for Second Time This Year to Tame Price Risks",
+    "title": "Czechs Raise Rates as ‘Fine-Tuning’ Move After Rare Tight Vote",
     "titleZh": "捷克今年第二次升息以應對價格風險",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/czechs-hike-rates-for-second-time-this-year-to-tame-price-risks",
     "image": null,
-    "pushedAt": "2026-11-05T13:42:08.610Z"
+    "pushedAt": "2026-11-05T16:13:24.357Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/us-labor-productivity-increases-at-fastest-pace-in-a-year",
@@ -8331,7 +8322,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-labor-productivity-increases-at-fastest-pace-in-a-year",
     "image": null,
-    "pushedAt": "2026-11-05T13:43:51.627Z"
+    "pushedAt": "2026-11-05T16:13:49.385Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-fund-adviser-lb-macro-sees-us-midterms-boosting-the-dollar",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T16:12:07.805Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/zillow-drops-on-results-dutch-bros-reduces-guidance-video",
+    "title": "Zillow Moves on Weak Results; Dutch Bros Reduces Guidance | Stock Movers",
+    "titleZh": "Zillow 因業績不佳而移動；荷蘭兄弟減少指導|庫存搬運工",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/zillow-drops-on-results-dutch-bros-reduces-guidance-video",
+    "image": null,
+    "pushedAt": "2026-11-05T16:14:40.531Z"
   }
 ]
