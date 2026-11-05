@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/foodtastic-offers-750-million-for-restaurant-franchisor-mty",
-    "title": "Foodtastic Offers $750 Million for Restaurant Franchisor MTY",
-    "titleZh": "Foodtastic 出價 7.5 億美元收購餐廳特許經營商 MTY",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/foodtastic-offers-750-million-for-restaurant-franchisor-mty",
-    "image": null,
-    "pushedAt": "2026-11-03T12:42:55.770Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
     "title": "Gaming Out the Prospect of a Blue Wave",
     "titleZh": "展望藍色浪潮的前景",
@@ -7674,7 +7665,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bdf4430c-5514-433a-ba04-67b0f9cf0de9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T14:20:04.394Z"
+    "pushedAt": "2026-11-05T16:48:53.201Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us",
@@ -8276,8 +8267,8 @@
     "titleZh": "英國央行將利率上調至4%以抑制通膨",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T14:19:36.981Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2de6d4e-79ba-4364-b2f7-55db0f40480c.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-05T16:48:29.115Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
@@ -8286,7 +8277,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
     "image": null,
-    "pushedAt": "2026-11-05T14:20:31.251Z"
+    "pushedAt": "2026-11-05T16:49:17.088Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
@@ -8295,7 +8286,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
     "image": null,
-    "pushedAt": "2026-11-05T14:20:37.065Z"
+    "pushedAt": "2026-11-05T16:49:40.812Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/duke-energy-s-data-center-bet-video",
     "image": null,
     "pushedAt": "2026-11-05T16:48:00.844Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html",
+    "title": "Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find",
+    "titleZh": "研究發現，父母拒絕注射維生素 K 導致嬰兒出血激增",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/well/05WELL-VITAMINK-swap/05WELL-VITAMINK-swap-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T16:50:07.743Z"
   }
 ]
