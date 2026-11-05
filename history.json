@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-    "title": "Google Will Turn Off Search for Schools That Reject A.I.",
-    "titleZh": "谷歌將關閉對拒絕人工智慧的學校的搜索",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-nat-google-schools-print/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T22:56:45.369Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/deutsche-finance-offices-raided-by-munich-prosecutors",
     "title": "Deutsche Finance Offices Raided by Munich Prosecutors",
     "titleZh": "慕尼黑檢察官突襲搜查德意志金融辦公室",
@@ -7777,12 +7768,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree",
-    "title": "Apple Seeks About $7 Billion From First Bond Sale in Over a Year",
+    "title": "Apple Draws $31 Billion of Orders for High-Grade Bond Sale",
     "titleZh": "蘋果啟動高等級債券發售，加入發行熱潮",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree",
     "image": null,
-    "pushedAt": "2026-11-05T15:59:31.392Z"
+    "pushedAt": "2026-11-05T18:35:37.671Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/duke-sees-data-center-growth-even-amid-backlash-across-the-us",
     "image": null,
     "pushedAt": "2026-11-05T18:35:08.187Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/us-midterms-came-too-late-to-save-bank-of-england-from-rate-hike",
+    "title": "US Midterms Came Too Late to Prevent Bank of England Rate Hike",
+    "titleZh": "美國中期選舉來得太晚，無法阻止英國央行升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-midterms-came-too-late-to-save-bank-of-england-from-rate-hike",
+    "image": null,
+    "pushedAt": "2026-11-05T18:36:03.967Z"
   }
 ]
