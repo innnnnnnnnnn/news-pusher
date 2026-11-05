@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941",
-    "title": "What do we know about Europe’s freezer hacks?",
-    "titleZh": "我們對歐洲的冰箱駭客了解多少？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef4d34fd-e7cf-49e5-ab7d-0888de23a527.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-03T12:31:45.630Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-    "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
-    "titleZh": "官員稱交通管制失誤導致西班牙致命火車事故",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T14:56:21.630Z"
-  },
-  {
     "id": "https://flipso.com/p/lsnq0qaet",
     "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It.",
     "titleZh": "Medicare 將為您的心臟病發作支付 5 萬美元。它應該支付 100 美元來預防它。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-sudan-drone-analysis-1-vqbl/03int-sudan-drone-analysis-1-vqbl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T14:30:22.114Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
+    "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
+    "titleZh": "以色列民主的考驗：猶太人應該要求阿拉伯人加入政府嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-israel-assess01-photo-gqbw/03int-israel-assess01-photo-gqbw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:30:50.592Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
+    "title": "Celebrating Day of the Dead, High in Mexico’s Mountains",
+    "titleZh": "在墨西哥高山慶祝亡靈節",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-mexico-dayofdead-dispatch01a-photo-hwmj/03int-mexico-dayofdead-dispatch01a-photo-hwmj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T14:30:53.647Z"
   }
 ]
