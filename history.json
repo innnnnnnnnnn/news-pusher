@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/opinion/trump-midterms-history.html",
-    "title": "Don’t Be a Haley Stevens",
-    "titleZh": "當川普說他在選票上時，相信他",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/opinion/trump-midterms-history.html",
-    "image": null,
-    "pushedAt": "2026-11-03T10:05:31.763Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
     "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
     "titleZh": "蘋果銷售放緩，中國收入未達預期",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/cicc-s-diao-on-wealth-management-business-video",
     "image": null,
     "pushedAt": "2026-11-05T06:28:15.462Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+    "title": "The quest for immortality has become serious business",
+    "titleZh": "追求永生已成為嚴肅的事情",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+    "image": null,
+    "pushedAt": "2026-11-05T06:28:44.253Z"
   }
 ]
