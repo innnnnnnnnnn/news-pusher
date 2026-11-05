@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
-    "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
-    "titleZh": "紐約州 30 年來首例兒童死於麻疹",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-03T08:34:08.529Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/china-s-he-lifeng-on-hong-kong-s-financial-edge-video",
     "title": "China's He Lifeng on Hong Kong's Financial Edge",
     "titleZh": "中國何立峰談香港金融優勢",
@@ -4119,7 +4110,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank",
     "image": null,
-    "pushedAt": "2026-11-05T07:15:05.542Z"
+    "pushedAt": "2026-11-05T09:32:29.400Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d72fad65-f3dd-4a32-a9fb-4792d9a99bb6?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T09:29:34.589Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "title": "Donald Trump’s humiliation offers America an opportunity",
+    "titleZh": "唐納德·特朗普的羞辱為美國提供了機會",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "image": null,
+    "pushedAt": "2026-11-05T09:32:56.543Z"
   }
 ]
