@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
-    "title": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
-    "titleZh": "一個國家如何成為全球人工智慧的十字路口繁榮",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/Biz-Malaysia-Video-Still-bvqt/Biz-Malaysia-Video-Still-bvqt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T08:22:57.377Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-02/apple-s-valuation-premium-confronts-ai-jitters-video",
     "title": "Apple’s Valuation Premium Confronts AI Jitters",
     "titleZh": "蘋果的估價溢價面臨人工智慧的不安",
@@ -7602,7 +7593,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T00:52:52.174Z"
+    "pushedAt": "2026-11-05T03:24:24.011Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
@@ -7611,7 +7602,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-deportees-Catherine-promo/00xp-deportees-Catherine-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T00:53:18.636Z"
+    "pushedAt": "2026-11-05T03:24:50.592Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
@@ -7620,7 +7611,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
     "image": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-05T00:53:46.588Z"
+    "pushedAt": "2026-11-05T03:25:16.310Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/shein-invests-500-million-in-europe-as-customs-rules-tighten",
@@ -8439,7 +8430,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation",
     "image": null,
-    "pushedAt": "2026-11-05T00:54:12.018Z"
+    "pushedAt": "2026-11-05T03:25:41.713Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
     "image": null,
-    "pushedAt": "2026-11-05T00:54:37.350Z"
+    "pushedAt": "2026-11-05T03:26:08.522Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply",
     "image": null,
     "pushedAt": "2026-11-05T03:23:53.517Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
+    "title": "China Blocks SoftBank Acquisition of ABB Robot Unit, FT Says",
+    "titleZh": "英國《金融時報》稱中國阻止軟銀收購 ABB 機器人部門",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
+    "image": null,
+    "pushedAt": "2026-11-05T03:26:36.658Z"
   }
 ]
