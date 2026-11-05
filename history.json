@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/eurogroup-calls-for-ecb-presidency-nominations-by-nov-6",
-    "title": "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
-    "titleZh": "歐元集團呼籲在 11 月 6 日之前提名歐洲央行行長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/eurogroup-calls-for-ecb-presidency-nominations-by-nov-6",
-    "image": null,
-    "pushedAt": "2026-11-04T02:41:34.237Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss",
     "title": "Neuralink’s China Rival Targets Obesity With ‘Electronic’ GLP-1",
     "titleZh": "Neuralink 的中國競爭對手透過「電子」GLP-1 瞄準肥胖問題",
@@ -8339,8 +8330,8 @@
     "titleZh": "華爾街押注民主黨大獲全勝將賦予華盛頓溫和派權力",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T11:10:21.172Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd00962d3-e976-4003-a6b0-e2be758e1e37.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-05T13:34:46.853Z"
   },
   {
     "id": "https://www.ft.com/content/4a34005c-79e3-4a35-b916-4ce67a094475",
@@ -8349,7 +8340,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4a34005c-79e3-4a35-b916-4ce67a094475",
     "image": null,
-    "pushedAt": "2026-11-05T11:10:25.065Z"
+    "pushedAt": "2026-11-05T13:35:11.534Z"
   },
   {
     "id": "https://www.ft.com/content/9c4be0fe-e556-443f-b173-6e49c4b8fd92",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-05T13:33:54.770Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/bofa-s-cabana-premature-to-call-end-of-fed-hiking-cycle-video",
+    "title": "BofA’s Cabana Says It’s Premature to Call End to Fed’s Hiking Cycle",
+    "titleZh": "美國銀行卡巴納表示，現在結束聯準會升息週期還為時過早",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/bofa-s-cabana-premature-to-call-end-of-fed-hiking-cycle-video",
+    "image": null,
+    "pushedAt": "2026-11-05T13:35:38.004Z"
   }
 ]
