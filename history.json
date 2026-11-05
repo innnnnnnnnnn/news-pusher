@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
-    "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
-    "titleZh": "制衡通訊：民主黨令人作嘔的樂觀主義",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
-    "image": null,
-    "pushedAt": "2026-11-05T23:23:03.764Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/some-overexuberance-in-ai-sadek-wahba-video",
     "title": "Some 'Overexuberance' In AI: Sadek Wahba",
     "titleZh": "人工智慧中的一些「過度繁榮」：Sadek Wahba",
@@ -2121,7 +2112,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T21:08:26.261Z"
+    "pushedAt": "2026-11-05T23:43:03.435Z"
   },
   {
     "id": "https://www.ft.com/content/6dbbb7d2-54d2-4bad-adf8-3db5b757488b",
@@ -8421,7 +8412,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode",
     "image": null,
-    "pushedAt": "2026-11-05T21:08:53.012Z"
+    "pushedAt": "2026-11-05T23:43:27.875Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/wall-street-banks-to-lead-3-billion-debt-deal-for-cd-r-purchase",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
     "image": null,
     "pushedAt": "2026-11-05T23:42:35.843Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years",
+    "title": "Japan’s Nominal Wages Rise at Fastest Pace In Almost 30 Years",
+    "titleZh": "日本名目薪資成長近30年來最快",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years",
+    "image": null,
+    "pushedAt": "2026-11-05T23:43:55.768Z"
   }
 ]
