@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
-    "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
-    "titleZh": "以色列聲稱擁有伊朗化學武器，美國官員意見分歧",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T17:49:20.679Z"
-  },
-  {
     "id": "https://www.ft.com/content/9381a90b-a65a-4e1e-9a35-4732d16891de",
     "title": "Paraguay seizes digital bank with ties to President Peña",
     "titleZh": "巴拉圭查封與總統佩尼亞有聯繫的數位銀行",
@@ -3489,7 +3480,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/y58gx9jid?ref=rss",
     "image": "https://cdn.flipso.com/p/y58gx9jid_square.jpg",
-    "pushedAt": "2026-11-05T19:19:26.196Z"
+    "pushedAt": "2026-11-05T21:54:38.776Z"
   },
   {
     "id": "https://flipso.com/p/hvld6efyj",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
     "image": null,
     "pushedAt": "2026-11-05T21:51:38.949Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/market-reassessing-pace-of-ai-boom-t-rowe-price-s-wang-video",
+    "title": "Markets Reassessing Pace of AI Boom, T. Rowe Price's Wang Says",
+    "titleZh": "T. Rowe Price 的 Wang 表示，市場正在重新評估人工智慧繁榮的步伐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/market-reassessing-pace-of-ai-boom-t-rowe-price-s-wang-video",
+    "image": null,
+    "pushedAt": "2026-11-05T21:55:05.615Z"
   }
 ]
