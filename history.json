@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-    "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
-    "titleZh": "Anthropic 在 IPO 前透露 9,000 億美元的人工智慧支出承諾",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T09:58:32.148Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
     "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
     "titleZh": "串流媒體時代為我們帶來了精彩的電視節目，但它是有代價的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f17344e-5547-40fb-a0e7-35ad6a65ed22.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-05T01:45:56.493Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+    "title": "Why Orban and Vucic Broke With Trump on Election Denial",
+    "titleZh": "為什麼歐爾班和武契奇在否認選舉問題上與川普決裂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02right-concede-01-btjv/02right-concede-01-btjv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T01:46:25.727Z"
   }
 ]
