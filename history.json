@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
-    "title": "Morgan Stanley Offers $2.3 Billion Debt for Dell Family Deal",
-    "titleZh": "摩根士丹利為戴爾家族交易提供 23 億美元債務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
-    "image": null,
-    "pushedAt": "2026-11-03T16:57:04.545Z"
-  },
-  {
-    "id": "https://www.ft.com/content/299cb0ad-cd03-4f2f-b989-392925c3f198",
-    "title": "Requiem for Gaza — a haunting, essential portrait in words and pictures",
-    "titleZh": "加薩安魂曲－用文字和圖片描繪出令人難忘的基本肖像",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/299cb0ad-cd03-4f2f-b989-392925c3f198",
-    "image": null,
-    "pushedAt": "2026-11-04T03:49:49.159Z"
-  },
-  {
     "id": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791",
     "title": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
     "titleZh": "幣安駭客利用虛假採訪和社群媒體資料竊取 63 億美元資金",
@@ -3885,7 +3867,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vvr0dekod?ref=rss",
     "image": "https://cdn.flipso.com/p/vvr0dekod_square.jpg",
-    "pushedAt": "2026-11-05T18:57:41.933Z"
+    "pushedAt": "2026-11-05T21:31:33.116Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/oil-s-sudden-price-drop-surprises-citi-s-chronert-video",
     "image": null,
     "pushedAt": "2026-11-05T21:31:04.891Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/what-anthropic-s-ipo-means-for-the-etf-market",
+    "title": "What Anthropic’s IPO Means for the ETF Market",
+    "titleZh": "Anthropic 的 IPO 對 ETF 市場意味著什麼",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/what-anthropic-s-ipo-means-for-the-etf-market",
+    "image": null,
+    "pushedAt": "2026-11-05T21:32:01.335Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/grindr-lifts-outlook-expects-to-meet-2027-targets-ahead-of-plan",
+    "title": "Grindr Lifts Outlook, Expects to Meet 2027 Targets Ahead of Plan",
+    "titleZh": "Grindr 上調展望，預計提前實現 2027 年目標",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/grindr-lifts-outlook-expects-to-meet-2027-targets-ahead-of-plan",
+    "image": null,
+    "pushedAt": "2026-11-05T21:32:06.388Z"
   }
 ]
