@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
-    "title": "NSE Profit Rises in First Earnings Since September Listing",
-    "titleZh": "NSE 自 9 月上市以來首次公佈獲利成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
-    "image": null,
-    "pushedAt": "2026-11-03T14:57:35.576Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/dan-ives-sees-anthropic-ipo-facing-valuation-pressure-video",
-    "title": "Dan Ives Sees Anthropic IPO Facing Valuation Pressure",
-    "titleZh": "Dan Ives 認為 Anthropic IPO 面臨估值壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/dan-ives-sees-anthropic-ipo-facing-valuation-pressure-video",
-    "image": null,
-    "pushedAt": "2026-11-03T14:59:35.349Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/palantir-on-ai-in-europe-video",
-    "title": "Palantir on AI and Technology in Europe",
-    "titleZh": "Palantir 談歐洲的人工智慧和技術",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/palantir-on-ai-in-europe-video",
-    "image": null,
-    "pushedAt": "2026-11-03T14:59:59.496Z"
-  },
-  {
     "id": "https://flipso.com/p/82jphwns0",
     "title": "Jules Verne’s Paris in the Twentieth Century",
     "titleZh": "凡爾納筆下的二十世紀巴黎",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/rio-tinto-backs-major-copper-project-video",
     "image": null,
     "pushedAt": "2026-11-05T16:44:49.539Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+    "titleZh": "拉娜·努塞貝 (Lana Nusseibeh) 的聯合國申辦與阿聯酋在蘇丹的角色相衝突",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T16:46:57.873Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/colony-ai-investment-will-continue-despite-tech-selloff-video",
+    "title": "Colony: AI Investment Will Continue Despite Tech Selloff",
+    "titleZh": "Colony：儘管科技股遭遇拋售，人工智慧投資仍將繼續",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/colony-ai-investment-will-continue-despite-tech-selloff-video",
+    "image": null,
+    "pushedAt": "2026-11-05T16:47:00.763Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
+    "title": "AI Bets Meet Higher Capital Costs",
+    "titleZh": "人工智慧押注面臨更高的資本成本",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
+    "image": null,
+    "pushedAt": "2026-11-05T16:47:06.479Z"
   }
 ]
