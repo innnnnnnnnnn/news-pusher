@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e633f11e-ebc2-4482-94de-72c3a3b89841",
-    "title": "Todd Boehly insurer amasses billions in lending tied to his Beverly Hills project",
-    "titleZh": "托德·博利保險公司為其比佛利山莊項目籌集了數十億美元的貸款",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e633f11e-ebc2-4482-94de-72c3a3b89841?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T17:14:39.831Z"
-  },
-  {
     "id": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
     "title": "Nvidia orders data centre clients to reduce China exposure",
     "titleZh": "英偉達要求資料中心客戶減少在中國的投資",
@@ -951,7 +942,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T09:02:11.869Z"
+    "pushedAt": "2026-11-05T11:20:19.694Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/europe-s-junk-market-sees-another-loan-pulled-as-iqony-axes-deal",
@@ -3552,7 +3543,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-saildrone-jtqg/03dc-saildrone-jtqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:02:59.028Z"
+    "pushedAt": "2026-11-05T11:21:06.781Z"
   },
   {
     "id": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f",
@@ -7602,7 +7593,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T09:02:35.955Z"
+    "pushedAt": "2026-11-05T11:20:43.017Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-s-gdp-grows-5-47-beating-estimates-in-third-quarter",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/the-case-for-a-year-end-us-stocks-rally",
     "image": null,
     "pushedAt": "2026-11-05T11:19:52.833Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
+    "title": "Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related Earnings",
+    "titleZh": "凱雷因交易退出緩解與費用相關的收益下滑而表現出色",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
+    "image": null,
+    "pushedAt": "2026-11-05T11:21:32.254Z"
   }
 ]
