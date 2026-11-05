@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/21cb314f-47d3-4d83-ba8a-e70c018eb80c",
-    "title": "A new threat to the New York-based stock exchanges",
-    "titleZh": "紐約證券交易所的新威脅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/21cb314f-47d3-4d83-ba8a-e70c018eb80c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-03T16:05:41.527Z"
-  },
-  {
     "id": "https://www.ft.com/content/1a81ea73-6dc8-4d94-8cbf-f88891872bb0",
     "title": "Argentina pitches the EU on food, energy and minerals ‘solutions’",
     "titleZh": "阿根廷向歐盟提出食品、能源和礦產“解決方案”",
@@ -5307,7 +5298,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-nyt-hwvf/04biz-nyt-hwvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:00:11.596Z"
+    "pushedAt": "2026-11-05T12:17:45.550Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
@@ -6540,7 +6531,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02ST-MARTHA-wbvg/02ST-MARTHA-wbvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:59:47.696Z"
+    "pushedAt": "2026-11-05T12:17:21.988Z"
   },
   {
     "id": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/peloton-forecast-tops-estimates-in-sign-of-comeback-progress",
     "image": null,
     "pushedAt": "2026-11-05T12:16:55.686Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+    "title": "Bank of England Raises Rates for First Time in Three Years",
+    "titleZh": "英國央行三年來首次升息",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Biz-BOE-Rates-hjwp/05Biz-BOE-Rates-hjwp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-05T12:18:10.886Z"
   }
 ]
