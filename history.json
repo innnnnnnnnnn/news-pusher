@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/markets-and-economists-are-divided-beyond-a-boe-hike-this-week",
-    "title": "Markets and Economists Are Divided Beyond a BOE Hike This Week",
-    "titleZh": "除了英國央行本週升息之外，市場和經濟學家存在分歧",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/markets-and-economists-are-divided-beyond-a-boe-hike-this-week",
-    "image": null,
-    "pushedAt": "2026-11-03T15:12:31.742Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/ubs-ceo-ermotti-says-cyber-risks-rival-traditional-bank-threats",
-    "title": "UBS CEO Ermotti Says Cyber Risks Rival Traditional Bank Threats",
-    "titleZh": "瑞銀執行長埃爾莫蒂表示，網路風險可與傳統銀行威脅相媲美",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/ubs-ceo-ermotti-says-cyber-risks-rival-traditional-bank-threats",
-    "image": null,
-    "pushedAt": "2026-11-03T10:31:12.743Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says",
-    "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
-    "titleZh": "英國《金融時報》稱，英偉達要求資料中心客戶削減中國業務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says",
-    "image": null,
-    "pushedAt": "2026-11-03T10:34:58.787Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/korea-s-krafton-bets-on-bangalore-for-next-global-gaming-hit",
     "title": "Korea’s Krafton Bets on Bangalore for Next Global Gaming Hit",
     "titleZh": "韓國克拉夫頓 (Krafton) 將賭注押在班加羅爾，打造下一個全球熱門遊戲",
@@ -1500,7 +1473,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "image": null,
-    "pushedAt": "2026-11-05T09:43:57.387Z"
+    "pushedAt": "2026-11-05T12:00:29.867Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
@@ -8196,7 +8169,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/sweden-s-slowing-inflation-weakens-riksbank-rate-hike-case",
     "image": null,
-    "pushedAt": "2026-11-05T09:43:33.816Z"
+    "pushedAt": "2026-11-05T12:00:06.142Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-05T11:56:51.094Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bdf4430c-5514-433a-ba04-67b0f9cf0de9",
+    "title": "Democratic landslide raises big questions for US energy policy",
+    "titleZh": "民主黨的壓倒性勝利給美國能源政策提出了重大問題",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bdf4430c-5514-433a-ba04-67b0f9cf0de9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T12:00:55.102Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us",
+    "title": "Nvidia-Backed Humanoid Maker Agility Goes Public in First for the US",
+    "titleZh": "Nvidia 支持的 Humanoid Maker Agility 首次在美國上市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us",
+    "image": null,
+    "pushedAt": "2026-11-05T12:00:58.851Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+    "title": "Privacy Concerns Over Ad Tech Giving Police Greater Power to Track Phones",
+    "titleZh": "對廣告技術的隱私擔憂賦予警方更大的權力來追蹤手機",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+    "image": null,
+    "pushedAt": "2026-11-05T12:01:02.278Z"
   }
 ]
