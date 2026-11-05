@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-    "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
-    "titleZh": "被指控選民欺詐，他們最終戴上了鐐銬",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01nat-noncitizen-voters-qchj/01nat-noncitizen-voters-qchj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-02T22:17:19.619Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
-    "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
-    "titleZh": "川普政府要求最高法院幹預加州選票案",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-scotus-california-pglk/02dc-scotus-california-pglk-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-03T10:30:47.428Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-02/the-real-signal-from-last-week",
     "title": "The Real Signal From Last Week",
     "titleZh": "上週的真實訊號",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/australia-s-surplus-heads-for-decade-low-on-chip-energy-imports",
     "image": null,
     "pushedAt": "2026-11-05T02:59:01.577Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a",
+    "title": "The inconvenient truths of Nixon’s legacy",
+    "titleZh": "尼克森遺產中難以忽視的真相",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-05T02:59:30.592Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep",
+    "title": "Chinese Renewables Stocks Extend Surge After Democratic Sweep",
+    "titleZh": "民主黨大獲全勝後中國再生能源股持續飆升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep",
+    "image": null,
+    "pushedAt": "2026-11-05T02:59:35.228Z"
   }
 ]
