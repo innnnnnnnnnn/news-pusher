@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
-    "title": "The New Hot Job in Law Doesn’t Require a J.D.",
-    "titleZh": "法律領域的新熱門工作不需要法學博士學位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DB-legal-engineers-puri-gzhc/31DB-legal-engineers-puri-gzhc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T09:16:33.503Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
     "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
     "titleZh": "科技巨頭試圖遏制人工智慧產生的中期選舉的錯誤訊息",
@@ -8061,7 +8052,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf7a9080-09d4-4502-ab6a-15133991e710.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-05T19:50:56.803Z"
+    "pushedAt": "2026-11-05T22:23:39.762Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/metlife-seeing-volume-growth-across-the-board-ceo-says-video",
     "image": null,
     "pushedAt": "2026-11-05T22:23:11.792Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
+    "title": "Worst US Stock Rout Since 2020 Leaves Virtually Nowhere to Hide",
+    "titleZh": "自2020年以來最嚴重的美國股市暴跌幾乎無處可藏",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
+    "image": null,
+    "pushedAt": "2026-11-05T22:24:07.301Z"
   }
 ]
