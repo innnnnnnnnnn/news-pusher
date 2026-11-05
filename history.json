@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-    "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
-    "titleZh": "當地人和店主如何試圖從暴徒手中拯救巴黎一條街道",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/business/31int-france-street-top-fdcd/31int-france-street-top-fdcd-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-03T19:45:09.186Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/can-apple-defend-its-premium-video",
     "title": "Can Apple Defend Its Premium?",
     "titleZh": "蘋果能否捍衛其溢價？",
@@ -4155,7 +4146,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-midterms01a-photo-jqck/04int-israel-midterms01a-photo-jqck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T18:41:46.632Z"
+    "pushedAt": "2026-11-05T21:15:08.029Z"
   },
   {
     "id": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725",
@@ -8524,12 +8515,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-    "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+    "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
     "titleZh": "司法部加大對最高法院墮胎外洩事件的刑事調查",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T18:42:14.881Z"
+    "pushedAt": "2026-11-05T21:15:32.734Z"
   },
   {
     "id": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/canada-to-reform-bank-ownership-rules-in-bid-to-stoke-competition",
     "image": null,
     "pushedAt": "2026-11-05T21:14:14.558Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity",
+    "title": "BofA Rejigs Global Credit Trading Businesses To Boost Liquidity",
+    "titleZh": "美國銀行調整全球信貸交易業務以增加流動性",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity",
+    "image": null,
+    "pushedAt": "2026-11-05T21:15:59.960Z"
   }
 ]
