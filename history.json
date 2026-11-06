@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
-    "title": "How Democrats will wield their new power",
-    "titleZh": "民主黨將如何運用他們的新權力",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
-    "image": null,
-    "pushedAt": "2026-11-05T10:34:33.696Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
     "title": "Cracks in the A.I. Borrowing Binge",
     "titleZh": "人工智慧的裂縫借貸狂歡",
@@ -2364,7 +2355,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
     "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T17:07:27.595Z"
+    "pushedAt": "2026-11-06T19:37:26.700Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/onsemi-scraps-plan-for-2-billion-expansion-in-czech-republic",
     "image": null,
     "pushedAt": "2026-11-06T19:36:59.155Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video",
+    "title": "AI Trade Rebounds After Historic Rout for Tech Stocks",
+    "titleZh": "科技股歷史性暴跌後，人工智慧交易反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-06T19:37:55.529Z"
   }
 ]
