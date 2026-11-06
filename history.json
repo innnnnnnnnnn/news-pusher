@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-midterm-wins-threaten-to-slow-the-ai-data-center-boom",
-    "title": "Democrats’ Midterm Wins Threaten to Slow the AI Data Center Boom",
-    "titleZh": "民主黨的中期選舉勝利可能會減緩人工智慧資料中心的繁榮",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-midterm-wins-threaten-to-slow-the-ai-data-center-boom",
-    "image": null,
-    "pushedAt": "2026-11-04T18:51:43.384Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
     "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
     "titleZh": "加拿大小品秀《這一小時有 22 分鐘》比美國深夜秀更精彩",
@@ -204,7 +195,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:55:09.900Z"
+    "pushedAt": "2026-11-06T13:17:27.134Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/strategist-who-warned-before-rout-sees-anthropic-as-bigger-risk",
     "image": null,
     "pushedAt": "2026-11-06T13:16:59.610Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "title": "Anthropic IPO Valuation Expectations Pressured After AI Rout",
+    "titleZh": "人工智慧潰敗後，人為 IPO 估值預期承壓",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "image": null,
+    "pushedAt": "2026-11-06T13:17:54.980Z"
   }
 ]
