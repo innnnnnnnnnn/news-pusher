@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-    "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
-    "titleZh": "谷歌 5000 億美元的血洗反映了它面臨的人工智慧危險",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-    "image": null,
-    "pushedAt": "2026-11-05T23:24:23.338Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
     "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
     "titleZh": "五名倖存者在海上失蹤三個月後在太平洋偏遠島嶼獲救",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T21:42:15.358Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
+    "title": "White House Delays Hearing on Fed Governor",
+    "titleZh": "白宮延後聯準會理事聽證會",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-06T21:42:41.694Z"
   }
 ]
