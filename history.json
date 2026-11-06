@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5",
-    "title": "Democratic governors elected on promises to stop data centre building",
-    "titleZh": "民主黨州長當選，承諾停止資料中心建設",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T04:33:21.430Z"
-  },
-  {
-    "id": "https://www.ft.com/content/ddc15117-2e67-429c-8c47-233121ee1587",
-    "title": "Seriously, stop worrying about market concentration",
-    "titleZh": "說真的，別再擔心市場集中度了",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ddc15117-2e67-429c-8c47-233121ee1587?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T04:34:15.121Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/ex-temasek-holdings-executive-to-lead-motilal-oswal-s-alternates-business",
     "title": "Ex-Temasek Holdings Executive to Lead Motilal Oswal’s Alternates Business",
     "titleZh": "前淡馬錫控股高管將領導 Motilal Oswal 的替代業務",
@@ -7413,7 +7395,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-hegseth-fcbw/05dc-hegseth-fcbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:17:16.762Z"
+    "pushedAt": "2026-11-06T10:47:05.325Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
@@ -7422,7 +7404,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-rubio-mfpc/05dc-rubio-mfpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:17:40.832Z"
+    "pushedAt": "2026-11-06T10:47:29.585Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T10:46:38.040Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-hjct/06biz-jobs-report-hjct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:47:54.851Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
+    "title": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
+    "titleZh": "穩定的勞動力市場將使聯準會逐步升息",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-fed-pbtv/06biz-jobs-report-fed-pbtv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:47:59.558Z"
   }
 ]
