@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bd3a7cd8-f82b-45da-ba5c-eccb408fa5fc",
-    "title": "The $20bn scandal shaking Turkey",
-    "titleZh": "從龐氏騙局到豐氏騙局：震撼土耳其 200 億美元的詐欺醜聞",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bd3a7cd8-f82b-45da-ba5c-eccb408fa5fc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T17:24:36.730Z"
-  },
-  {
     "id": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
     "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
     "titleZh": "甲骨文迫於川普壓力取消騰訊 70 億美元人工智慧交易",
@@ -1464,7 +1455,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
     "image": null,
-    "pushedAt": "2026-11-06T07:20:57.827Z"
+    "pushedAt": "2026-11-06T09:45:14.833Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
@@ -2733,7 +2724,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/032r7g16t?ref=rss",
     "image": "https://cdn.flipso.com/p/032r7g16t_square.jpg",
-    "pushedAt": "2026-11-06T07:20:33.325Z"
+    "pushedAt": "2026-11-06T09:44:50.663Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
@@ -6963,7 +6954,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T07:21:21.841Z"
+    "pushedAt": "2026-11-06T09:45:39.366Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T09:44:23.610Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/us-jobs-data-faces-market-uncertainty-video",
+    "title": "US Jobs Data Faces Market Uncertainty",
+    "titleZh": "美國就業數據面臨市場不確定性",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/us-jobs-data-faces-market-uncertainty-video",
+    "image": null,
+    "pushedAt": "2026-11-06T09:46:06.943Z"
   }
 ]
