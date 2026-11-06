@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-    "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
-    "titleZh": "節慶開始至抗議日後，法國再次爆發衝突",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:02:28.907Z"
-  },
-  {
-    "id": "https://www.ft.com/content/df602ad9-2399-4b10-970c-c1ae231fbf2e",
-    "title": "Tories turn to former PM David Cameron to boost party fundraising",
-    "titleZh": "保守黨求助於前首相戴維·卡梅倫以增加黨派籌款",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/df602ad9-2399-4b10-970c-c1ae231fbf2e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd99256a4-817c-439a-a09f-e792802d4d8e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T06:53:19.969Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand",
     "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
     "titleZh": "Super Micro 給的伺服器需求展望超出預期",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
     "image": null,
     "pushedAt": "2026-11-06T00:20:18.691Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "title": "China’s AI stock-market struggles are a warning",
+    "titleZh": "中國人工智慧股市的困境是一個警告",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "image": null,
+    "pushedAt": "2026-11-06T00:20:48.108Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
+    "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
+    "titleZh": "西岸房地產銷售策略在加拿大面臨挑戰",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T00:20:50.564Z"
   }
 ]
