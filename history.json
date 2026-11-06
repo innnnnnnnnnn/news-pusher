@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9",
-    "title": "Trump faces the voters",
-    "titleZh": "川普面對選民",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T09:53:47.430Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
     "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
     "titleZh": "幣安報告恢復正常交易後資金流出 36.4 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29trav-elnino-skiing-vptl/29trav-elnino-skiing-vptl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T10:02:03.985Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "title": "AI is disrupting the art of campaigning",
+    "titleZh": "人工智慧正在顛覆競選藝術",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "image": null,
+    "pushedAt": "2026-11-06T10:02:32.228Z"
   }
 ]
