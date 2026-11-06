@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/98c0f7eb-c1c5-4e98-8319-17dec5783367",
-    "title": "Is the ‘Brooklyn of Seoul’ in danger of becoming a victim of its own success?",
-    "titleZh": "「首爾布魯克林」是否有成為自身成功犧牲品的危險？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/98c0f7eb-c1c5-4e98-8319-17dec5783367?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T19:46:57.215Z"
-  },
-  {
     "id": "https://www.ft.com/content/bd3a7cd8-f82b-45da-ba5c-eccb408fa5fc",
     "title": "The $20bn scandal shaking Turkey",
     "titleZh": "從龐氏騙局到豐氏騙局：震撼土耳其 200 億美元的詐欺醜聞",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/sell-off-turns-to-uncertainty-video",
     "image": null,
     "pushedAt": "2026-11-06T09:43:53.492Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
+    "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
+    "titleZh": "歐洲仍然認為川普很強大，尤其是在外交政策方面",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T09:44:23.610Z"
   }
 ]
