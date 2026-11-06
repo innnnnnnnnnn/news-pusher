@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
-    "title": "Canadian Oil at Widest Discount to US Prices Since 2018",
-    "titleZh": "加拿大石油價格較美國石油價格自 2018 年以來最大折扣",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
-    "image": null,
-    "pushedAt": "2026-11-03T23:08:28.188Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
-    "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
-    "titleZh": "法官駁回川普針對《華爾街日報》的 100 億美元訴訟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
-    "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00hfo-wsj-defamation-1-zklh/00hfo-wsj-defamation-1-zklh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:57:41.483Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/google-lets-schools-turn-off-gemini-but-not-the-ai-in-search",
     "title": "Google Lets Schools Turn Off Gemini, But Not the AI in Search",
     "titleZh": "Google允許學校關閉 Gemini，但不關閉搜尋中的人工智慧",
@@ -123,7 +105,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/72pdqwkkg?ref=rss",
     "image": "https://cdn.flipso.com/p/72pdqwkkg_square.jpg",
-    "pushedAt": "2026-11-05T21:37:20.566Z"
+    "pushedAt": "2026-11-06T00:07:29.793Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
@@ -1842,7 +1824,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vhmnxiqhz?ref=rss",
     "image": "https://cdn.flipso.com/p/vhmnxiqhz_square.jpg",
-    "pushedAt": "2026-11-05T21:36:55.836Z"
+    "pushedAt": "2026-11-06T00:07:03.682Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/frozen-turkish-funds-blue-chip-holdings-sold-off-market",
@@ -5640,7 +5622,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/7yzk0gcs2?ref=rss",
     "image": "https://cdn.flipso.com/p/7yzk0gcs2_square.jpg",
-    "pushedAt": "2026-11-05T21:35:41.045Z"
+    "pushedAt": "2026-11-06T00:05:48.542Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/james-bosworth-on-what-comes-after-lula-s-stunning-win-video",
@@ -6152,8 +6134,8 @@
     "titleZh": "民主黨橫掃歐洲股市逼近歷史新高",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d4ef0ea-3460-4936-9757-982f2b4ed17a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-05T21:36:31.261Z"
+    "image": null,
+    "pushedAt": "2026-11-06T00:06:38.839Z"
   },
   {
     "id": "https://www.ft.com/content/290cf85b-6d95-4c79-af9b-e2a3d79072f6",
@@ -7997,8 +7979,8 @@
     "titleZh": "高盛將創紀錄數量的工程師提升為令人垂涎的合作夥伴行列",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2f7eadc8-e01e-45df-8fcc-275e3e100558?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T21:36:06.382Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b92cbe6-df3f-4de1-a3bb-a525a6160d2d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T00:06:13.551Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/05/opinion/midterm-election-trump-bouie-cottle-french.html",
     "image": "https://static01.nyt.com/images/2026/11/05/opinion/05opinions-bpl-live/05opinions-bpl-live-mediumSquareAt3X.png",
     "pushedAt": "2026-11-06T00:04:54.186Z"
+  },
+  {
+    "id": "https://www.ft.com/content/97215edc-736f-45f3-84ee-c1ae0c89493a",
+    "title": "Blackstone doubles lock-up periods for some Asian investors",
+    "titleZh": "黑石集團將一些亞洲投資者的禁售期延長了一倍",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/97215edc-736f-45f3-84ee-c1ae0c89493a?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b7e9314-45db-40fb-a714-bf5bbf875d8d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T00:07:57.802Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/live-blog/2026-11-05/asian-stocks-brace-for-tech-broad-selloff-after-worst-us-market-rout-since-2020",
+    "title": "Live Updates: Asian Stocks Brace for AI Selloff After Worst US Market Rout",
+    "titleZh": "即時更新：在美國市場最嚴重的暴跌之後，亞洲股市準備迎接人工智慧拋售",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-05/asian-stocks-brace-for-tech-broad-selloff-after-worst-us-market-rout-since-2020",
+    "image": null,
+    "pushedAt": "2026-11-06T00:08:00.882Z"
   }
 ]
