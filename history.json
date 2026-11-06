@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle",
-    "title": "Crypto Firms Scrap Crime-Fighting Alliance as Hackers Circle",
-    "titleZh": "加密貨幣巨頭因駭客圈而解散打擊犯罪聯盟",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle",
-    "image": null,
-    "pushedAt": "2026-11-05T14:48:33.280Z"
-  },
-  {
     "id": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b",
     "title": "Democrats debate how far to take their fight against Trump",
     "titleZh": "民主黨準備好川普的調查和負擔能力措施",
@@ -7611,7 +7602,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/us/texas-conservative-education-reform-hinojosa.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-texas-education-01-mvpf/06nat-texas-education-01-mvpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T13:19:15.484Z"
+    "pushedAt": "2026-11-06T17:16:16.653Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
@@ -8061,7 +8052,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d7c518e-caa0-43d6-b62a-7c9b469f5842.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T14:41:51.920Z"
+    "pushedAt": "2026-11-06T17:16:42.283Z"
   },
   {
     "id": "https://www.ft.com/content/db1c70c2-d17e-41ac-aff3-1d824e7dc9e8",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-TXhoustonICE-1-hwqt/06nat-TXhoustonICE-1-hwqt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T17:15:47.460Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+    "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+    "titleZh": "特斯拉將結束其 Cyber​​truck 的生產並重新專注於 Cyber​​cab",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-tesla-cybertruck-1-ltfz/06biz-tesla-cybertruck-1-ltfz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T17:17:11.467Z"
   }
 ]
