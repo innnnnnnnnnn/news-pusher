@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
-    "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
-    "titleZh": "關於民主黨的議程：對川普及其家人的調查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/us/04dc-trump-investigations-1/04dc-trump-investigations-1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T01:03:40.896Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
     "title": "Trump Wanted Democrats to Win",
     "titleZh": "川普希望民主黨獲勝",
@@ -7458,7 +7449,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
     "image": null,
-    "pushedAt": "2026-11-06T17:01:28.557Z"
+    "pushedAt": "2026-11-06T19:31:43.082Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-staffer-pleads-not-guilty-to-office-bugging-charge",
     "image": null,
     "pushedAt": "2026-11-06T19:31:14.991Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
+    "title": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
+    "titleZh": "隨著肯亞上市數量的增加，Quick Mart IPO 吸引了強勁需求",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
+    "image": null,
+    "pushedAt": "2026-11-06T19:32:10.633Z"
   }
 ]
