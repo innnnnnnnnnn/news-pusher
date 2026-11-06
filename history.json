@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-    "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
-    "titleZh": "川普的能源政策如何引發中期選舉潰敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T18:18:56.446Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
     "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
     "titleZh": "蘋果削減內部人工智慧使用預算以減少支出",
@@ -2184,7 +2175,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-06T16:16:17.426Z"
+    "pushedAt": "2026-11-06T18:53:34.754Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/how-fast-money-systematic-funds-stoked-2-3t-tech-rout-video",
     "image": null,
     "pushedAt": "2026-11-06T18:53:07.895Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
+    "title": "Canadian Dollar Set for Worst Week Since September on Weak Jobs",
+    "titleZh": "由於就業疲軟，加元將迎來九月以來最糟糕的一周",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
+    "image": null,
+    "pushedAt": "2026-11-06T18:54:01.312Z"
   }
 ]
