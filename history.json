@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/india-approves-plan-to-absorb-more-short-term-military-recruits",
-    "title": "India Plans to Retain More Short-Term Military Recruits",
-    "titleZh": "印度批准吸收更多短期新兵的計劃",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/india-approves-plan-to-absorb-more-short-term-military-recruits",
-    "image": null,
-    "pushedAt": "2026-11-04T13:58:57.701Z"
-  },
-  {
     "id": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
     "title": "October inflation in the Eurozone keeps ECB on course for another tightening",
     "titleZh": "歐元區 10 月通膨使歐洲央行預計再次緊縮",
@@ -1473,7 +1464,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T11:07:30.582Z"
+    "pushedAt": "2026-11-06T13:32:12.483Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
@@ -5226,7 +5217,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T11:07:54.958Z"
+    "pushedAt": "2026-11-06T13:32:37.231Z"
   },
   {
     "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
@@ -5235,7 +5226,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "image": null,
-    "pushedAt": "2026-11-06T11:08:19.253Z"
+    "pushedAt": "2026-11-06T13:33:01.946Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term",
@@ -7804,12 +7795,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-    "title": "Oil Drops as Qatar Emir Discusses War De-Escalation With Trump",
+    "title": "Oil Swings as Traders Assess Iran War De-Escalation Prospects",
     "titleZh": "海灣戰爭有緩和跡象，油價下跌",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
     "image": null,
-    "pushedAt": "2026-11-06T11:09:58.251Z"
+    "pushedAt": "2026-11-06T13:33:28.052Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/angola-s-central-bank-expects-single-digit-inflation-to-last",
@@ -8475,16 +8466,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/podcasts/the-headlines/data-center-backlash-midterms-melania-trump-diplomatic-role-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06thehealdines-data-01-pbzc/06thehealdines-data-01-pbzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T11:05:43.783Z"
+    "pushedAt": "2026-11-06T13:31:22.827Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
-    "title": "Taiwan Imposes Short-Selling Limit After Stock Market Rout",
+    "title": "Taiwan Steps In to Calm Investor Nerves After Bruising AI Rout",
     "titleZh": "股市暴跌後台灣實施賣空限制",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
     "image": null,
-    "pushedAt": "2026-11-06T11:06:14.083Z"
+    "pushedAt": "2026-11-06T13:31:48.086Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-new-fomc-schedule-turns-back-the-clock-for-strategy-sessions",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/the-pulse-11-6-2026-video",
     "image": null,
     "pushedAt": "2026-11-06T13:24:16.982Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c",
+    "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+    "titleZh": "美國經濟10月新增就業16.5萬個，超出預期",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T13:33:54.346Z"
   }
 ]
