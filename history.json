@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
-    "title": "Trump Is Watching Fox News, and He Is Not Thrilled",
-    "titleZh": "川普正在看福克斯新聞，但他並不興奮",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-trump-fox-topart-01-khbw/03biz-trump-fox-topart-01-khbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:51:23.809Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-stocks-set-for-correction-as-bank-profit-outlook-sours",
     "title": "Singapore Stocks Claw Back Losses as Regional Mood Improves",
     "titleZh": "銀行獲利前景惡化，新加坡股市將出現調整",
@@ -627,7 +618,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:10:05.449Z"
+    "pushedAt": "2026-11-06T06:31:29.971Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/opinion/talarico-hinojosa-texas-democrats.html",
@@ -4812,7 +4803,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
     "image": null,
-    "pushedAt": "2026-11-06T04:09:16.344Z"
+    "pushedAt": "2026-11-06T06:30:41.480Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/nordic-alliance-seeks-one-public-market-to-stem-listings-to-us",
@@ -6711,7 +6702,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term",
     "image": null,
-    "pushedAt": "2026-11-06T04:09:41.094Z"
+    "pushedAt": "2026-11-06T06:31:05.660Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
@@ -8277,7 +8268,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
     "image": null,
-    "pushedAt": "2026-11-06T04:08:51.944Z"
+    "pushedAt": "2026-11-06T06:30:17.430Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-takaichi-eyes-boj-s-etf-sales-to-fund-economic-security",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/fonterra-s-allen-targets-value-led-growth-in-china-video",
     "image": null,
     "pushedAt": "2026-11-06T06:29:50.626Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-trade-faces-repricing-amid-data-center-risks-video",
+    "title": "Niles: AI Trade Faces Repricing Amid Data Center Risks",
+    "titleZh": "Niles：人工智慧貿易面臨資料中心風險重新定價",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-trade-faces-repricing-amid-data-center-risks-video",
+    "image": null,
+    "pushedAt": "2026-11-06T06:31:57.449Z"
   }
 ]
