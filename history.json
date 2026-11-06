@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
-    "title": "Prosecutors Seek to Drop Charges Against Russian Scientist Accused of Smuggling Frog Embryos",
-    "titleZh": "檢察官尋求撤銷對被指控走私青蛙胚胎的俄羅斯科學家的指控",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T18:59:05.054Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-    "title": "America’s Trade Deficit Remained Elevated in September",
-    "titleZh": "美國9月貿易逆差持續偏高",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-    "image": null,
-    "pushedAt": "2026-11-06T14:46:02.668Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
     "title": "Poland Holds Rates Again as Inflation Outlook Gets Riskier",
     "titleZh": "波蘭央行連續第八個月維持利率不變",
@@ -8052,7 +8034,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-new-fomc-schedule-turns-back-the-clock-for-strategy-sessions",
     "image": null,
-    "pushedAt": "2026-11-06T13:35:23.654Z"
+    "pushedAt": "2026-11-06T16:06:32.968Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
@@ -8061,7 +8043,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
     "image": null,
-    "pushedAt": "2026-11-06T13:35:50.020Z"
+    "pushedAt": "2026-11-06T16:06:58.412Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/eu-escalates-tiktok-probe-over-algorithmic-rabbit-holes",
@@ -8583,7 +8565,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
     "image": null,
-    "pushedAt": "2026-11-06T13:34:55.525Z"
+    "pushedAt": "2026-11-06T16:06:06.127Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/home-renovation-expense-keeps-rising-as-companies-pass-on-costs",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-ai-kfjv/06biz-jobs-report-ai-kfjv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T16:05:37.837Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/rieder-surprised-by-recent-market-action-advises-balanced-strategy",
+    "title": "Rieder Surprised by Recent Market Action, Advises Balanced Strategy",
+    "titleZh": "Rieder 對近期市場走勢感到驚訝，建議採取平衡策略",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/rieder-surprised-by-recent-market-action-advises-balanced-strategy",
+    "image": null,
+    "pushedAt": "2026-11-06T16:07:26.568Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil",
+    "title": "TikTok Owner ByteDance Weighs Data Center Expansion in Brazil",
+    "titleZh": "TikTok 所有者位元組跳動考慮擴建巴西資料中心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil",
+    "image": null,
+    "pushedAt": "2026-11-06T16:07:30.967Z"
   }
 ]
