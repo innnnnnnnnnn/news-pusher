@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e",
-    "title": "Renewable groups will have to invest in UK communities where they build projects",
-    "titleZh": "再生能源集團將必須投資於他們建設項目的英國社區",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T11:43:34.542Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/opinion/politics/election-midterms-senate-house.html",
-    "title": "‘The Choice to Elevate Darline Graham Was Just a Huge, Needless Error’: Opinion Writers Break Down the Midterms",
-    "titleZh": "「川普讓共和黨處於高度危險的境地」：評論家評估中期選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/opinion/politics/election-midterms-senate-house.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/opinion/03election-night-roundtable/03election-night-roundtable-mediumSquareAt3X-v7.png",
-    "pushedAt": "2026-11-04T04:51:01.479Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
-    "title": "US Stocks Surge as Election Drives Oil Down, Fuels Tech Optimism",
-    "titleZh": "投資人等待中期業績，美國股指期貨小幅走高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
-    "image": null,
-    "pushedAt": "2026-11-04T23:59:43.916Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
-    "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
-    "titleZh": "從奧列什基撤離的烏克蘭人講述生存故事",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
-    "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:24:56.289Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
     "title": "Let China copy American AI",
     "titleZh": "讓中國複製美國人工智慧",
@@ -7818,7 +7782,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-election-integrity-01-phqv/05pol-election-integrity-01-phqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T02:33:52.641Z"
+    "pushedAt": "2026-11-06T05:03:20.226Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
@@ -8998,5 +8962,41 @@
     "url": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
     "image": null,
     "pushedAt": "2026-11-06T04:59:35.809Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+    "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+    "titleZh": "川普和普丁在中國舉行峰會？這對習近平來說可能有點尷尬。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T05:03:47.436Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+    "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+    "titleZh": "12 天內搭乘 12 架飛機：手術幾週後，教宗開始拉丁美洲主要之旅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T05:03:51.392Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+    "title": "Pope Leo’s Trip to Latin America: What to Know",
+    "titleZh": "教宗利奧的拉丁美洲之旅：需要了解什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T05:03:56.291Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+    "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
+    "titleZh": "法國城市遭受恐怖攻擊，居民指責極右派言論",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T05:04:00.726Z"
   }
 ]
