@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html",
-    "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
-    "titleZh": "憤怒的選民迎來川普時代結束的開始",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-assess-kgzh/04dc-trump-assess-kgzh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T18:42:24.394Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/swiss-pharmaceutical-industry-loses-ground-in-global-innovation-race",
     "title": "Swiss Pharmaceutical Industry Loses Ground in Global Innovation Race",
     "titleZh": "瑞士製藥業在全球創新競賽中失利",
@@ -231,7 +222,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-nyt-hwvf/04biz-nyt-hwvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:40:16.652Z"
+    "pushedAt": "2026-11-06T13:03:18.209Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
@@ -7080,7 +7071,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
     "image": null,
-    "pushedAt": "2026-11-06T10:38:57.684Z"
+    "pushedAt": "2026-11-06T13:02:53.173Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee",
@@ -7467,7 +7458,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff",
     "image": null,
-    "pushedAt": "2026-11-06T10:41:31.149Z"
+    "pushedAt": "2026-11-06T13:04:31.767Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/india-hpcl-booking-tankers-strait-hormuz-cargoes-shipping-vessels-complicated",
@@ -7818,7 +7809,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
     "image": null,
-    "pushedAt": "2026-11-06T10:40:40.815Z"
+    "pushedAt": "2026-11-06T13:03:42.612Z"
   },
   {
     "id": "https://flipso.com/p/6u5ixrior",
@@ -7827,7 +7818,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6u5ixrior?ref=rss",
     "image": "https://cdn.flipso.com/p/6u5ixrior_square.jpg",
-    "pushedAt": "2026-11-06T10:41:05.226Z"
+    "pushedAt": "2026-11-06T13:04:07.268Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/india-should-scrap-equity-tax-on-foreigners-says-edelweiss-head",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise",
     "image": null,
     "pushedAt": "2026-11-06T13:02:25.801Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
+    "title": "AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
+    "titleZh": "隨著投資人權衡拋售是否結束，人工智慧股票反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
+    "image": null,
+    "pushedAt": "2026-11-06T13:04:59.546Z"
   }
 ]
