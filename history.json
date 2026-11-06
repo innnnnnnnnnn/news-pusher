@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-construction-boom-to-double-mining-peak-lift-prices",
-    "title": "Australia’s Building Boom to Double Mining Peak, Lift Prices",
-    "titleZh": "澳洲的建築熱潮使採礦高峰翻倍，推高了價格",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-construction-boom-to-double-mining-peak-lift-prices",
-    "image": null,
-    "pushedAt": "2026-11-05T09:21:06.424Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism",
     "title": "Defense Stocks in US, Europe Drop After Democrats Sweep Midterms",
     "titleZh": "民主黨大獲全勝削弱樂觀情緒，歐洲國防股下滑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls",
     "image": null,
     "pushedAt": "2026-11-06T13:34:25.198Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
+    "title": "October inflation in the Eurozone keeps ECB on course for another tightening",
+    "titleZh": "歐元區 10 月通膨使歐洲央行預計再次緊縮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
+    "image": null,
+    "pushedAt": "2026-11-06T13:34:55.525Z"
   }
 ]
