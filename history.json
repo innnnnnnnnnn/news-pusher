@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
-    "title": "Senji Kuroi Has Died. He Interpreted ‘the Salaried Soul.’",
-    "titleZh": "黑井千治死了。他解釋了「受薪靈魂」。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/obituaries/00kuroi-top/00kuroi-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T16:40:10.600Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/trump-tariffs-midterm-losses-leave-canada-s-carney-with-tough-deal-choice",
-    "title": "Trump Tariffs, Midterm Losses Leave Canada’s Carney With Tough Deal Choice",
-    "titleZh": "川普關稅和中期選舉損失讓加拿大卡尼面臨艱難的交易選擇",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/trump-tariffs-midterm-losses-leave-canada-s-carney-with-tough-deal-choice",
-    "image": null,
-    "pushedAt": "2026-11-05T08:53:43.062Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-    "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
-    "titleZh": "對以色列人來說，美國中期選舉顯示他們在美國的地位已經下降了多遠",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-midterms01a-photo-jqck/04int-israel-midterms01a-photo-jqck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T16:53:48.714Z"
-  },
-  {
     "id": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725",
     "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
     "titleZh": "加拿大人歡迎民主黨在美國中期選舉中大獲全勝",
@@ -1455,7 +1428,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
     "image": null,
-    "pushedAt": "2026-11-06T15:31:55.127Z"
+    "pushedAt": "2026-11-06T18:09:58.931Z"
   },
   {
     "id": "https://www.ft.com/content/23fa78e3-7be3-46e1-9ae2-8e0656e1f3d5",
@@ -3534,7 +3507,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
     "image": null,
-    "pushedAt": "2026-11-06T15:30:10.752Z"
+    "pushedAt": "2026-11-06T18:08:38.382Z"
   },
   {
     "id": "https://www.ft.com/content/58e795a0-af3e-4d49-85b8-d075bde1e358",
@@ -3570,7 +3543,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
-    "pushedAt": "2026-11-06T15:30:36.534Z"
+    "pushedAt": "2026-11-06T18:09:05.709Z"
   },
   {
     "id": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94",
@@ -3597,7 +3570,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T15:31:29.879Z"
+    "pushedAt": "2026-11-06T18:09:32.888Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/6c9d92ac-eba0-47c0-b4db-d9d5226e9891",
     "image": null,
     "pushedAt": "2026-11-06T18:08:08.747Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dfd9316e-7a19-445a-a781-80197a05d3f3",
+    "title": "Stockpickers: Focusrite, RS Group, Associated British Foods",
+    "titleZh": "選股者：Focusrite、RS Group、Associated British Foods",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dfd9316e-7a19-445a-a781-80197a05d3f3",
+    "image": null,
+    "pushedAt": "2026-11-06T18:10:25.835Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dc6474f0-0b12-439d-9c90-818731bfcc63",
+    "title": "Directors’ Deals: Rathbones chair adds to stake amid FCA scrutiny",
+    "titleZh": "董事交易：Rathbones 董事長在 FCA 審查中增持股份",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dc6474f0-0b12-439d-9c90-818731bfcc63",
+    "image": null,
+    "pushedAt": "2026-11-06T18:10:30.294Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/bessent-greer-raise-concerns-on-china-trade-deal-actions",
+    "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
+    "titleZh": "貝森特和格里爾對中國貿易協議行動表示擔憂",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/bessent-greer-raise-concerns-on-china-trade-deal-actions",
+    "image": null,
+    "pushedAt": "2026-11-06T18:10:35.465Z"
   }
 ]
