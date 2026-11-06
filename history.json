@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-    "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-    "titleZh": "他是頂級捕蛇者，生意興隆。只有一個問題。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T18:06:43.841Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
     "title": "Recap: How Democrats took the House and Senate",
     "titleZh": "美國中期選舉：會是藍色浪潮嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/nasdaq-suffers-worst-rout-since-march-2020",
     "image": null,
     "pushedAt": "2026-11-06T03:11:56.702Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+    "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+    "titleZh": "更多伊朗人在與美國交戰後呼籲擁有核武器",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T03:12:25.197Z"
   }
 ]
