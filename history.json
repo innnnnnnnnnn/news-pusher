@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6dbbb7d2-54d2-4bad-adf8-3db5b757488b",
-    "title": "Novo sales boosted by Wegovy weight-loss pill",
-    "titleZh": "Wegovy 減肥藥推動 Novo 銷售成長",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6dbbb7d2-54d2-4bad-adf8-3db5b757488b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T04:13:11.288Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
     "title": "Norwegian Firm Has $100 Million Riding on Baltic Case",
     "titleZh": "挪威公司因波羅的海案獲得 1 億美元賠償",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/eu-escalates-tiktok-probe-over-algorithmic-rabbit-holes",
     "image": null,
     "pushedAt": "2026-11-06T11:13:03.393Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+    "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+    "titleZh": "川普的中期失敗對伊朗和油價意味著什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T11:13:31.073Z"
   }
 ]
