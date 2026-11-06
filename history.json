@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders",
-    "title": "Waymo Co-CEO Says Uber App Deal Was ‘Crapshoot’ for Riders",
-    "titleZh": "Waymo 聯合執行長表示 Uber 應用程式交易對乘客來說是“冒險”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders",
-    "image": null,
-    "pushedAt": "2026-11-04T20:35:35.021Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812",
-    "title": "China’s soaring chemical exports threaten new trade war front",
-    "titleZh": "中國化學品出口激增威脅新的貿易戰線",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T13:13:27.017Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
     "title": "The Business Fallout From a Blue Wave",
     "titleZh": "藍色浪潮對商業的影響",
@@ -537,7 +519,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-mcrib-cwpj/04xp-mcrib-cwpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T12:33:17.850Z"
+    "pushedAt": "2026-11-06T15:05:35.632Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/paraguay-names-new-central-banker-after-lender-is-taken-over",
@@ -3426,7 +3408,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T12:34:38.802Z"
+    "pushedAt": "2026-11-06T15:06:01.003Z"
   },
   {
     "id": "https://www.ft.com/content/bdf4430c-5514-433a-ba04-67b0f9cf0de9",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
     "image": null,
     "pushedAt": "2026-11-06T15:05:00.722Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/california-homes-face-shutoffs-as-santa-anas-raise-fire-risks",
+    "title": "California Homes Face Shutoffs as Santa Anas Raise Fire Risks",
+    "titleZh": "聖安娜提高火災風險，加州房屋面臨斷電",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/california-homes-face-shutoffs-as-santa-anas-raise-fire-risks",
+    "image": null,
+    "pushedAt": "2026-11-06T15:06:28.460Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-sentiment-unexpectedly-rises-fueled-by-independents",
+    "title": "US Consumer Sentiment Unexpectedly Rises, Fueled by Independents",
+    "titleZh": "在獨立人士的推動下，美國消費者信心意外上升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-sentiment-unexpectedly-rises-fueled-by-independents",
+    "image": null,
+    "pushedAt": "2026-11-06T15:06:32.523Z"
   }
 ]
