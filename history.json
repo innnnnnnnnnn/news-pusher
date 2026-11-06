@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
-    "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
-    "titleZh": "西岸房地產銷售策略在加拿大面臨挑戰",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T00:02:08.186Z"
-  },
-  {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-    "title": "China’s AI stock-market struggles are a warning",
-    "titleZh": "中國人工智慧股市的困境是一個警告",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-    "image": null,
-    "pushedAt": "2026-11-06T00:02:32.761Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
     "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
     "titleZh": "節慶開始至抗議日後，法國再次爆發衝突",
@@ -1347,7 +1329,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
     "image": null,
-    "pushedAt": "2026-11-05T21:49:01.051Z"
+    "pushedAt": "2026-11-06T00:19:47.595Z"
   },
   {
     "id": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d",
@@ -5235,7 +5217,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth",
     "image": null,
-    "pushedAt": "2026-11-05T11:33:53.542Z"
+    "pushedAt": "2026-11-06T00:19:22.017Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/rba-s-hauser-says-solid-public-trust-surprising-amid-rate-pain",
@@ -7962,7 +7944,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/dc-dhillon-gbkh/dc-dhillon-gbkh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T21:48:36.029Z"
+    "pushedAt": "2026-11-06T00:18:56.124Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/malaysian-bonds-lure-buyers-as-oil-squeezes-peers-analysts-say",
     "image": null,
     "pushedAt": "2026-11-06T00:18:02.013Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/tech-selloff-hits-asia-after-us-market-rout-video",
+    "title": "Tech Selloff Hits Asia After US Market Rout",
+    "titleZh": "美國市場暴跌後，亞洲科技股遭遇拋售",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/tech-selloff-hits-asia-after-us-market-rout-video",
+    "image": null,
+    "pushedAt": "2026-11-06T00:20:15.600Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+    "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
+    "titleZh": "美國中期選舉後金價將創八月以來最大單週漲幅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+    "image": null,
+    "pushedAt": "2026-11-06T00:20:18.691Z"
   }
 ]
