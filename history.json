@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
-    "title": "Bob Dylan Meets With Pope Leo",
-    "titleZh": "鮑伯迪倫會見教宗利奧",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T21:33:16.015Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
     "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
     "titleZh": "Isomorphic Labs 正在洽談約 50 億美元的融資",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
     "image": null,
     "pushedAt": "2026-11-06T21:45:12.247Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+    "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+    "titleZh": "海上失蹤三個月後，五名倖存者在偏遠島嶼獲救",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T21:45:39.568Z"
   }
 ]
