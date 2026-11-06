@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-    "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
-    "titleZh": "MS NOW 上的糖果和微笑，以及福克斯新聞上的一些遺憾",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-    "image": null,
-    "pushedAt": "2026-11-06T09:18:51.804Z"
-  },
-  {
     "id": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99",
     "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
     "titleZh": "美國人對川普令人震驚的譴責，但民主黨人卻在國會",
@@ -906,7 +897,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-nyt-hwvf/04biz-nyt-hwvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:11:19.055Z"
+    "pushedAt": "2026-11-06T10:40:16.652Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
@@ -8137,12 +8128,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff",
-    "title": "Asia Hedge Funds, Rich Investors Face Steep Losses in AI Selloff",
+    "title": "Asia Hedge Funds, Rich Investors Face Big Losses in AI Rout",
     "titleZh": "亞洲對沖基金和富有投資者在人工智慧拋售中面臨巨額損失",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff",
     "image": null,
-    "pushedAt": "2026-11-06T08:13:08.492Z"
+    "pushedAt": "2026-11-06T10:41:31.149Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/india-hpcl-booking-tankers-strait-hormuz-cargoes-shipping-vessels-complicated",
@@ -8493,7 +8484,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
     "image": null,
-    "pushedAt": "2026-11-06T08:12:11.331Z"
+    "pushedAt": "2026-11-06T10:40:40.815Z"
   },
   {
     "id": "https://flipso.com/p/6u5ixrior",
@@ -8502,7 +8493,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6u5ixrior?ref=rss",
     "image": "https://cdn.flipso.com/p/6u5ixrior_square.jpg",
-    "pushedAt": "2026-11-06T08:12:40.882Z"
+    "pushedAt": "2026-11-06T10:41:05.226Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/india-should-scrap-equity-tax-on-foreigners-says-edelweiss-head",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/fast-money-systematic-funds-stoked-2-3-trillion-tech-stock-rout",
     "image": null,
     "pushedAt": "2026-11-06T10:39:49.637Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+    "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+    "titleZh": "12 天內搭乘 12 架飛機：手術幾週後，教宗開始拉丁美洲主要之旅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:41:55.556Z"
   }
 ]
