@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794",
-    "title": "Accenture accused of publishing AI paper littered with AI hallucinations",
-    "titleZh": "埃森哲被指控發表充滿人工智慧幻覺的人工智慧論文",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T21:53:06.574Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/poland-constitutional-crisis-has-central-bank-chief-adam-glapinski",
     "title": "Polish Constitutional Crisis Has Central Bank Chief on Ropes",
     "titleZh": "波蘭憲法危機讓央行總裁陷入困境",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-pm-takaichi-announces-emergency-cybersecurity-package",
     "image": null,
     "pushedAt": "2026-11-06T09:15:02.001Z"
+  },
+  {
+    "id": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7",
+    "title": "Qatar set to become world’s biggest buyer of US LNG",
+    "titleZh": "卡達將成為美國液化天然氣的全球最大買家",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T09:15:34.010Z"
   }
 ]
