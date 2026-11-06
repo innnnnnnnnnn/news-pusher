@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99",
-    "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
-    "titleZh": "美國人對川普令人震驚的譴責，但民主黨人卻在國會",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F796dd86e-5eab-4c59-8595-aa40137a4df8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T16:00:59.435Z"
-  },
-  {
     "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c",
     "title": "FirstFT: Donald Trump makes his final pitch to voters",
     "titleZh": "FirstFT：唐納德·川普向選民做出最後的宣傳",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T10:41:55.556Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+    "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+    "titleZh": "MS NOW 上的糖果和微笑，以及福克斯新聞上的一些遺憾",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+    "image": null,
+    "pushedAt": "2026-11-06T10:42:23.979Z"
   }
 ]
