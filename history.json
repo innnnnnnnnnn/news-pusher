@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef",
-    "title": "The midterms and the world",
-    "titleZh": "中期選舉和世界",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T03:14:18.392Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
     "title": "Trump Media’s Shares Fall to Record Low After Midterms",
     "titleZh": "中期選舉後川普媒體股價跌至歷史新低",
@@ -7962,7 +7953,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/hassett-says-no-economic-policy-shift-even-after-election-rout",
     "image": null,
-    "pushedAt": "2026-11-06T18:30:45.021Z"
+    "pushedAt": "2026-11-06T20:56:44.591Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-job-gains-may-be-spreading-from-ai-buildout-to-implementation",
     "image": null,
     "pushedAt": "2026-11-06T20:56:18.089Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
+    "title": "Cornell Faculty Passes Vote of No Confidence in Administration",
+    "titleZh": "康乃爾大學教師透過對行政不信任投票",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/met-cornell-senate1-mplw/met-cornell-senate1-mplw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T20:57:10.559Z"
   }
 ]
