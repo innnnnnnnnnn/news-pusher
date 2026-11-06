@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-    "title": "How The New York Times Is Covering the Midterm Elections",
-    "titleZh": "紐約時報如何報導中期選舉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03new-york-times-midterm-elections-hgtm/03new-york-times-midterm-elections-hgtm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:39:34.848Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-service-sector-grows-at-the-slowest-pace-in-three-months",
     "title": "US Service Sector Grows at the Slowest Pace in Three Months",
     "titleZh": "美國服務業成長為三個月來最慢",
@@ -2076,7 +2067,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
     "image": null,
-    "pushedAt": "2026-11-06T14:11:17.879Z"
+    "pushedAt": "2026-11-06T16:41:16.161Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/boe-poised-for-first-rate-hike-in-three-years-decision-guide",
@@ -6540,7 +6531,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-saildrone-jtqg/03dc-saildrone-jtqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T14:12:09.995Z"
+    "pushedAt": "2026-11-06T16:41:41.379Z"
   },
   {
     "id": "https://flipso.com/p/4f79auseo",
@@ -8007,7 +7998,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/chile-annual-inflation-speeds-up-to-highest-level-in-over-a-year",
     "image": null,
-    "pushedAt": "2026-11-06T14:12:35.557Z"
+    "pushedAt": "2026-11-06T16:42:06.413Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/two-polish-policymakers-say-december-rate-rise-is-an-option",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle/06xp-markle-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T16:40:47.560Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/chip-stocks-roar-back-as-strong-data-sink-bonds-video",
+    "title": "Chip Stocks Roar Back as Strong Data Sink Bonds",
+    "titleZh": "晶片股因強勁的數據接收債券而回升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/chip-stocks-roar-back-as-strong-data-sink-bonds-video",
+    "image": null,
+    "pushedAt": "2026-11-06T16:42:33.737Z"
   }
 ]
