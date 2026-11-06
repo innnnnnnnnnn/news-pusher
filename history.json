@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe",
-    "title": "Thai Spyware Alerts on Opposition Leaders’ Phones Prompt Demands for Probe",
-    "titleZh": "泰國反對派領導人電話上的間諜軟體警報提示要求進行調查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe",
-    "image": null,
-    "pushedAt": "2026-11-04T17:54:28.004Z"
-  },
-  {
     "id": "https://www.ft.com/content/29522c80-74f7-4f78-b699-39b761d1c081",
     "title": "Gibson Dunn in talks to hire 120 lawyers from Weil as firm dissolves",
     "titleZh": "隨著公司解散，Gibson Dunn 正在洽談聘請 Weil 的 120 名律師",
@@ -7350,7 +7341,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T09:50:28.749Z"
+    "pushedAt": "2026-11-06T12:16:13.375Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
@@ -7359,7 +7350,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T09:50:52.818Z"
+    "pushedAt": "2026-11-06T12:16:37.408Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
@@ -8196,7 +8187,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/85421f98-eecf-4998-b388-b4b1fd88de3f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T09:49:33.996Z"
+    "pushedAt": "2026-11-06T12:15:23.521Z"
   },
   {
     "id": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98",
@@ -8204,8 +8195,8 @@
     "titleZh": "隨著馬斯克將重點轉向機器人和人工智慧，特斯拉將削減賽博卡車",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T09:49:37.417Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F334c6b46-4176-432b-8132-4c676eabfe58.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T12:15:49.108Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/another-russian-tycoon-gets-kazakh-passport-amid-push-for-talent",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/71295123-1211-4088-a77d-8140a8175788",
     "image": null,
     "pushedAt": "2026-11-06T12:10:44.976Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
+    "title": "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
+    "titleZh": "隨著投資者探索謹慎復甦，比特幣拋售有所緩解",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
+    "image": null,
+    "pushedAt": "2026-11-06T12:17:04.541Z"
   }
 ]
