@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
-    "title": "John Chambers Makes the Case for AI, Calling It a Win for Society",
-    "titleZh": "約翰錢伯斯 (John Chambers) 闡述人工智慧，稱其為社會的勝利",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
-    "image": null,
-    "pushedAt": "2026-11-05T05:47:53.585Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
     "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
     "titleZh": "人工智慧如何讓微目標選民變得比以往更容易",
@@ -3174,7 +3165,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bear-tjwc/05xp-bear-tjwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T18:34:01.621Z"
+    "pushedAt": "2026-11-06T21:01:39.758Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/the-boe-decides-special-coverage-11-5-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/brookfield-ceo-says-infrastructure-is-growing-fastest-video",
     "image": null,
     "pushedAt": "2026-11-06T21:01:12.827Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
+    "title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
+    "titleZh": "華爾街預計美國 2 月債務上限將達到 41.1 兆美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
+    "image": null,
+    "pushedAt": "2026-11-06T21:02:06.255Z"
   }
 ]
