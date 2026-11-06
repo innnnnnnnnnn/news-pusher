@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-    "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
-    "titleZh": "Anthropic 公佈 IPO 後營收達 170 億美元方法",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T11:17:05.229Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/sony-needs-more-than-gta-and-spider-man-to-lift-stock-further",
     "title": "Sony Needs More Than ‘GTA’ and Spider-Man to Lift Stock Further",
     "titleZh": "索尼需要的不只是《俠盜獵車手》和《蜘蛛人》來進一步提振庫存",
@@ -2400,7 +2391,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05db-hinojosa-jvpm/05db-hinojosa-jvpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T18:47:35.732Z"
+    "pushedAt": "2026-11-06T21:13:28.808Z"
   },
   {
     "id": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
@@ -7908,7 +7899,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
     "image": null,
-    "pushedAt": "2026-11-06T18:47:11.676Z"
+    "pushedAt": "2026-11-06T21:13:04.972Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/nubank-halts-some-crypto-transactions-citing-snag-with-provider",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/epz4j3zzh?ref=rss",
     "image": "https://cdn.flipso.com/p/epz4j3zzh_square.jpg",
     "pushedAt": "2026-11-06T21:07:46.135Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
+    "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
+    "titleZh": "在經歷 2025 年以來最嚴重的暴跌後，零售交易商謹慎買入股票",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
+    "image": null,
+    "pushedAt": "2026-11-06T21:13:55.051Z"
   }
 ]
