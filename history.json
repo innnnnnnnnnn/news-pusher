@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05",
-    "title": "How demographics can distort economic narratives — redux",
-    "titleZh": "人口統計數據如何扭曲經濟敘事—redux",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T09:12:57.680Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
     "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
     "titleZh": "隨著市場震動的擔憂加劇，中國機器人融資放緩至 16 億美元",
@@ -2157,7 +2148,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
     "image": null,
-    "pushedAt": "2026-11-06T07:56:51.903Z"
+    "pushedAt": "2026-11-06T10:25:39.288Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video",
@@ -7755,7 +7746,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ksmkmzp8c?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-06T07:56:27.683Z"
+    "pushedAt": "2026-11-06T10:25:15.055Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/nasdaq-suffers-worst-rout-since-march-2020",
@@ -8159,8 +8150,8 @@
     "titleZh": "新加坡航空推出空中最大雙人床 回擊高端航空",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/50dd4644-2e89-4011-af15-9bd2a2bd388b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T07:57:16.392Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc054050f-b129-4002-bda9-43cbe71087cd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T10:26:05.447Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-deadline-will-show-if-lagarde-succession-is-a-two-horse-race",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T10:24:47.479Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/jio-ipo-lifts-angel-one-past-zerodha-as-india-s-no-2-broker",
+    "title": "Jio IPO Lifts Angel One Past Zerodha as India’s No. 2 Broker",
+    "titleZh": "Jio IPO 使 Angel One 超越 Zerodha 成為印度第二大經紀商",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/jio-ipo-lifts-angel-one-past-zerodha-as-india-s-no-2-broker",
+    "image": null,
+    "pushedAt": "2026-11-06T10:26:31.717Z"
   }
 ]
