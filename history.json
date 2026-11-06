@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-    "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-    "titleZh": "與教宗一起在雲端，它仍然是商業性的",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-    "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:45:10.943Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
     "title": "Seeking Fast Cars and Fat Wallets: A California Racetrack Looks to Grow",
     "titleZh": "美國最古老的公路賽道開始耗資巨大的整形工程",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
     "image": null,
     "pushedAt": "2026-11-06T16:46:32.323Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c8d86ced-554a-4a41-8fe2-89fe1151324d",
+    "title": "Can Labour unpick the immigration knot?",
+    "titleZh": "工黨能否解開移民之結？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c8d86ced-554a-4a41-8fe2-89fe1151324d?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00ece800-cd8a-48d3-bebb-d6ca04f828ff.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T16:47:03.239Z"
   }
 ]
