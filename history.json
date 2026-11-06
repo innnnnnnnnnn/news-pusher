@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f",
-    "title": "‘A deep sense of deceit’: Young Republicans reckon with US midterms rout",
-    "titleZh": "「一種深深的欺騙感」：年輕的共和黨人正視美國中期選舉的潰敗",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ebd76b4-f0f4-4e4d-8bac-87a6d0a61c0f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T22:19:50.147Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-    "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-    "titleZh": "海倫·齊勒正在競選約翰內斯堡市長並刺痛非國大",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-safrica-elections-pwfq/04int-safrica-elections-pwfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T11:06:41.338Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
     "title": "Why Doctors in Thailand Fear KFC",
     "titleZh": "為什麼泰國的醫生會害怕肯德基",
@@ -699,7 +681,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/whc4ci2yf?ref=rss",
     "image": "https://cdn.flipso.com/p/whc4ci2yf_square.jpg",
-    "pushedAt": "2026-11-06T09:38:18.046Z"
+    "pushedAt": "2026-11-06T12:01:56.584Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/us-revamps-debt-sale-guidance-holds-auctions-steady-video",
@@ -8250,7 +8232,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c2db4349-51c0-4fd9-9fb4-8a2a0b5a25b3",
     "image": null,
-    "pushedAt": "2026-11-06T09:38:44.677Z"
+    "pushedAt": "2026-11-06T12:02:20.700Z"
   },
   {
     "id": "https://www.ft.com/content/e53a184c-c3c2-4cf0-8ac6-3ae934f89690",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-06T12:00:11.665Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-06/investors-flee-chipmakers-fearing-end-of-ai-boom",
+    "title": "Investors Flee Chipmakers, Fearing End of AI Boom",
+    "titleZh": "投資者逃離晶片製造商，擔心人工智慧繁榮結束",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/investors-flee-chipmakers-fearing-end-of-ai-boom",
+    "image": null,
+    "pushedAt": "2026-11-06T12:02:47.116Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble",
+    "title": "Data-Center Pullback May Shield Real Economy From AI Bubble",
+    "titleZh": "資料中心的撤退可能會保護實體經濟免受人工智慧泡沫的影響",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble",
+    "image": null,
+    "pushedAt": "2026-11-06T12:02:52.114Z"
   }
 ]
