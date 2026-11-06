@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
-    "title": "A political revolution in Texas",
-    "titleZh": "德克薩斯州的政治革命",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
-    "image": null,
-    "pushedAt": "2026-11-06T22:59:19.794Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
-    "title": "China’s $3 Trillion Rout Leaves Retail Traders Feeling Duped",
-    "titleZh": "中國科技熱潮變成零售貿易商沮喪的一年",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
-    "image": null,
-    "pushedAt": "2026-11-05T02:52:30.385Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/circle-s-revenue-increases-more-than-estimated-shares-climb",
     "title": "Circle Lays Off 5% of Workforce as Revenue, Profit Surprises",
     "titleZh": "Circle 因收入和利潤意外裁員 5%",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
     "image": null,
     "pushedAt": "2026-11-06T23:34:04.205Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
+    "title": "The Evening: Trump Replaces Chief of Staff",
+    "titleZh": "晚間：川普更換幕僚長",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06evening-nl-trump-miller/06evening-nl-trump-miller-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T23:42:36.201Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
+    "title": "Sunset Park Blaze Adds to a Deadly Year of N.Y.C. Fires",
+    "titleZh": "日落公園大火為紐約市增添了致命的一年火災",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00met-sunsetfire-tbd-promo-fqvc/00met-sunsetfire-tbd-promo-fqvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T23:42:38.201Z"
   }
 ]
