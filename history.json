@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
-    "title": "Poland Holds Rates Again as Inflation Outlook Gets Riskier",
-    "titleZh": "波蘭央行連續第八個月維持利率不變",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month",
-    "image": null,
-    "pushedAt": "2026-11-05T07:01:06.284Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
     "title": "US Tweaks Debt-Sale Guidance, Signals Auction Changes Ahead",
     "titleZh": "美國調整債務銷售指導，開啟拍賣轉變之路",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil",
     "image": null,
     "pushedAt": "2026-11-06T16:07:30.967Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
+    "title": "America’s Trade Deficit Remained Elevated in September",
+    "titleZh": "美國9月貿易逆差持續偏高",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
+    "image": null,
+    "pushedAt": "2026-11-06T16:07:59.761Z"
   }
 ]
