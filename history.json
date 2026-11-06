@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af",
-    "title": "Uber picks up pace in robotaxi race",
-    "titleZh": "Uber 在機器人計程車競賽中加快步伐",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T07:21:19.842Z"
-  },
-  {
     "id": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
     "title": "Anthropic is an opportunity to rethink IPO rules",
     "titleZh": "人擇是重新思考 IPO 規則的機會",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06rockefeller_jay-nyt-top/06rockefeller_jay-nyt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T13:55:43.392Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
+    "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+    "titleZh": "肯亞邪教領袖因大規模謀殺被判 200 年監禁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-kenya-cult-sentence-1-qbvt/06int-kenya-cult-sentence-1-qbvt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T13:56:14.268Z"
   }
 ]
