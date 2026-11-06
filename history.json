@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7",
-    "title": "Oil tumbles below $100 on post-election peace hopes",
-    "titleZh": "大選後和平希望推動油價跌破 100 美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T12:23:07.486Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
     "title": "Big Tech Soars on Bet Dems Will Save AI Spenders From Themselves",
     "titleZh": "交易員押注民主黨將減緩人工智慧支出，大型科技股飆漲",
@@ -258,7 +249,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
     "image": null,
-    "pushedAt": "2026-11-06T15:03:36.750Z"
+    "pushedAt": "2026-11-06T17:40:37.707Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/spacex-ups-challenge-to-us-mobile-carriers-with-qualcomm-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-mcrib-cwpj/04xp-mcrib-cwpj-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-06T17:40:09.119Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+    "title": "Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity",
+    "titleZh": "微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+    "image": null,
+    "pushedAt": "2026-11-06T17:41:06.108Z"
   }
 ]
