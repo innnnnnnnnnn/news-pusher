@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-    "title": "Hackers are running riot with AI. Its makers want to cash in",
-    "titleZh": "駭客正在利用人工智慧進行騷亂。它的製造商想要賺錢",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-    "image": null,
-    "pushedAt": "2026-11-05T13:18:58.060Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/04/the-bottom-falls-out-for-donald-trump",
     "title": "The bottom falls out for Donald Trump",
     "titleZh": "唐納德·特朗普 (Donald Trump) 跌入谷底",
@@ -3120,7 +3111,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T07:58:30.139Z"
+    "pushedAt": "2026-11-06T10:28:14.016Z"
   },
   {
     "id": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
@@ -5199,7 +5190,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/cul-russell-brown-verdict-hfo-qkpw/cul-russell-brown-verdict-hfo-qkpw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T07:58:05.046Z"
+    "pushedAt": "2026-11-06T10:27:50.061Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
@@ -6306,7 +6297,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T07:57:40.612Z"
+    "pushedAt": "2026-11-06T10:27:25.864Z"
   },
   {
     "id": "https://www.ft.com/content/bd35cc23-9c24-4ac5-8754-76ed8dd0c264",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-06T10:26:58.898Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+    "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
+    "titleZh": "隨著人工智慧的出現，全球股市跟隨美國拋售消費恐懼蔓延",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+    "image": null,
+    "pushedAt": "2026-11-06T10:28:42.631Z"
   }
 ]
