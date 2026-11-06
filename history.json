@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
-    "title": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?",
-    "titleZh": "Sysco 是讓每家餐廳都一樣，還是拯救小企業主？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03FD-sysco-27-pfjw/03FD-sysco-27-pfjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:57:24.203Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
     "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
     "titleZh": "西班牙交通部長在致命的高鐵事故後辭職",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says",
     "image": null,
     "pushedAt": "2026-11-06T02:07:01.812Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
+    "title": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
+    "titleZh": "中期選舉將如何進行？這些比賽可能提供早期線索。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03pol-early-clues-5p-qwhc/03pol-early-clues-5p-qwhc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T02:07:30.613Z"
   }
 ]
