@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-    "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-    "titleZh": "查爾斯國王在加勒比海之旅中既高興又受到批評",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2int-uk-king-voices-1-tvmw/2int-uk-king-voices-1-tvmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:27:06.580Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
     "title": "Do Animals Grieve?",
     "titleZh": "動物會悲傷嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3a70a224-6d6c-4480-bd14-241fe3f6a987?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-06T16:51:03.728Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+    "title": "Bartleby newsletter: The case for scientific methods of decision-making",
+    "titleZh": "巴特比通訊：科學決策方法的案例",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+    "image": null,
+    "pushedAt": "2026-11-06T16:51:35.356Z"
   }
 ]
