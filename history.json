@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
-    "title": "Trump Media’s Shares Fall to Record Low After Midterms",
-    "titleZh": "中期選舉後川普媒體股價跌至歷史新低",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T18:38:24.600Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
     "title": "MercadoLibre Shares Tumble as Investments Weigh on Profit",
     "titleZh": "由於投資影響利潤，MercadoLibre 股價下跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/met-cornell-senate1-mplw/met-cornell-senate1-mplw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T20:57:10.559Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
+    "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
+    "titleZh": "川普上訴駁回針對《華爾街日報》的 100 億美元誹謗訴訟",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-wsj-pvgk/06biz-wsj-pvgk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T20:57:38.735Z"
   }
 ]
