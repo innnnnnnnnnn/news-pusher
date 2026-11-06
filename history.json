@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-04/arm-s-results-perfectly-fine-cfra-s-zino-says-video",
-    "title": "Arm's Results Are 'Perfectly Fine,' CFRA's Zino Says",
-    "titleZh": "CFRA 的 Zino 表示，Arm 的結果“非常好”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-04/arm-s-results-perfectly-fine-cfra-s-zino-says-video",
-    "image": null,
-    "pushedAt": "2026-11-05T05:27:32.551Z"
-  },
-  {
     "id": "https://flipso.com/p/w3qklhygl",
     "title": "Have I Befriended a Murderer?",
     "titleZh": "我與殺人犯成為朋友了嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-06T20:37:26.198Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+    "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+    "titleZh": "隨著醫師支出飆升，川普政府著手罷免仲裁員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T20:37:52.933Z"
   }
 ]
