@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html",
-    "title": "The American People Have Repudiated Trump",
-    "titleZh": "美國人民拒絕川普",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04editorial-voting-pclz/04editorial-voting-pclz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T09:21:20.844Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/opinion/adam-hamilton-kansas-senate.html",
-    "title": "Adam Hamilton Wins: How Kansas Finally Elected a Democratic Senator",
-    "titleZh": "亞當漢密爾頓獲勝：堪薩斯州如何最終選出民主黨參議員",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/opinion/adam-hamilton-kansas-senate.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03Dionne-Adam-Hamilton-bw-tight-lfjt/03Dionne-Adam-Hamilton-bw-tight-lfjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T04:56:49.579Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
     "title": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
     "titleZh": "英國最高法院將審理禁止巴勒斯坦行動的挑戰：需要了解什麼",
@@ -6603,7 +6585,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/mystery-seller-puts-up-500-million-data-center-loans-backing-stargate-cyrusone",
     "image": null,
-    "pushedAt": "2026-11-06T01:39:46.089Z"
+    "pushedAt": "2026-11-06T09:00:39.572Z"
   },
   {
     "id": "https://www.ft.com/content/2f7eadc8-e01e-45df-8fcc-275e3e100558",
@@ -8223,16 +8205,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5397eabe-5c04-4851-a216-9a269f69682c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T06:36:13.130Z"
+    "pushedAt": "2026-11-06T09:01:03.717Z"
   },
   {
     "id": "https://www.ft.com/content/8407d5dc-c231-46aa-a4fb-58d25c85892a",
-    "title": "The perils of Xi Jinping’s purge",
+    "title": "Xi Jinping’s great purge",
     "titleZh": "習近平的回音室",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8407d5dc-c231-46aa-a4fb-58d25c85892a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T06:36:38.329Z"
+    "pushedAt": "2026-11-06T09:01:28.082Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasury-traders-make-bullish-bets-ahead-of-jobs-report",
     "image": null,
     "pushedAt": "2026-11-06T09:00:09.428Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/what-does-a-democratic-congress-mean-for-markets",
+    "title": "What Does a Democratic Congress Mean for Markets?",
+    "titleZh": "民主黨國會對市場意味著什麼？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/what-does-a-democratic-congress-mean-for-markets",
+    "image": null,
+    "pushedAt": "2026-11-06T09:01:55.319Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/audio/2026-11-06/odd-lots-the-macro-implications-of-the-blue-tsunami-podcast",
+    "title": "Odd Lots: The Macro Implications of the Blue Tsunami (Podcast)",
+    "titleZh": "奇怪的事：藍色海嘯的宏觀影響（播客）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/audio/2026-11-06/odd-lots-the-macro-implications-of-the-blue-tsunami-podcast",
+    "image": null,
+    "pushedAt": "2026-11-06T09:02:01.216Z"
   }
 ]
