@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c",
-    "title": "FirstFT: Donald Trump makes his final pitch to voters",
-    "titleZh": "FirstFT：唐納德·川普向選民做出最後的宣傳",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T18:34:37.777Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html",
     "title": "Jimmy Kimmel Rides Election Day’s ‘Blue Tsunami’",
     "titleZh": "吉米金梅爾 (Jimmy Kimmel) 駕馭選舉日的“藍色海嘯”",
@@ -897,7 +888,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:14:26.916Z"
+    "pushedAt": "2026-11-06T10:43:16.270Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/wayfair-growth-hits-post-pandemic-high-on-us-market-share-gains",
@@ -2508,7 +2499,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
     "image": null,
-    "pushedAt": "2026-11-06T08:14:50.794Z"
+    "pushedAt": "2026-11-06T10:43:40.322Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
@@ -4587,7 +4578,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:13:32.535Z"
+    "pushedAt": "2026-11-06T10:42:52.040Z"
   },
   {
     "id": "https://www.ft.com/content/b9da150e-5086-4078-88e7-eebe0c6ad0dc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
     "image": null,
     "pushedAt": "2026-11-06T10:42:23.979Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
+    "title": "Taiwan to Deploy Market Stabilization Fund After Stock Rout",
+    "titleZh": "股市暴跌後台灣將部署市場穩定基金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
+    "image": null,
+    "pushedAt": "2026-11-06T10:44:07.565Z"
   }
 ]
