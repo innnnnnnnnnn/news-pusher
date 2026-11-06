@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
-    "title": "The North Aral Sea is expanding after decades of shrinkage",
-    "titleZh": "北鹹海在經歷了幾十年的萎縮之後正在擴張",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
-    "image": null,
-    "pushedAt": "2026-11-05T12:50:02.807Z"
-  },
-  {
-    "id": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
-    "title": "Meet the millennial centrist shaking up New Zealand’s election",
-    "titleZh": "來認識改變紐西蘭選舉的千禧世代中間派",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/10/29/meet-the-millennial-centrist-shaking-up-new-zealands-election",
-    "image": null,
-    "pushedAt": "2026-11-05T12:50:53.819Z"
-  },
-  {
-    "id": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-    "title": "A tiny Pacific country rolls out universal basic income",
-    "titleZh": "太平洋小國推出全民基本收入",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-    "image": null,
-    "pushedAt": "2026-11-05T12:51:43.132Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-household-spending-exceeds-estimate-boosted-by-fuel",
     "title": "Australia’s Household Spending Exceeds Estimate, Boosted by Fuel",
     "titleZh": "受燃料推動，澳洲家庭支出超出預期",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/edelweiss-shah-on-indian-markets-capital-gains-tax-video",
     "image": null,
     "pushedAt": "2026-11-06T06:00:06.916Z"
+  },
+  {
+    "id": "https://www.ft.com/content/44d83edf-de3b-4a4c-81d0-0a9029e7f46e",
+    "title": "IEA chief predicts climate action comeback ahead of COP31 summit",
+    "titleZh": "IEA負責人預測氣候行動將在COP31高峰會之前捲土重來",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/44d83edf-de3b-4a4c-81d0-0a9029e7f46e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T06:00:38.244Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0",
+    "title": "Ark Invest wants to bring some ‘disruptive innovation’ to interval funds",
+    "titleZh": "方舟投資希望為區間基金帶來一些“顛覆性創新”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0",
+    "image": null,
+    "pushedAt": "2026-11-06T06:00:42.275Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+    "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
+    "titleZh": "非洲最古老的國家公園炭疽病爆發導致河馬死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T06:00:45.019Z"
   }
 ]
