@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fcb96792-aac3-490d-9195-32db7218a468",
-    "title": "Europe seeks to stay the course and avoid backlash from wounded Trump",
-    "titleZh": "歐洲尋求堅持到底，避免受傷的川普的強烈反對",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fcb96792-aac3-490d-9195-32db7218a468?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T10:38:22.721Z"
-  },
-  {
     "id": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05",
     "title": "How demographics can distort economic narratives — redux",
     "titleZh": "人口統計數據如何扭曲經濟敘事—redux",
@@ -4569,7 +4560,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-toyota-tvgh/05biz-toyota-tvgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T07:55:38.955Z"
+    "pushedAt": "2026-11-06T10:23:57.142Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/briefing/change-is-coming.html",
@@ -7732,12 +7723,12 @@
   },
   {
     "id": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648",
-    "title": "Asian tech stocks sink",
+    "title": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos",
     "titleZh": "亞洲科技股因全球拋售而下跌",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13d3938c-831b-4adb-8251-3b1e0f71a1fc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T07:54:16.475Z"
+    "image": null,
+    "pushedAt": "2026-11-06T10:22:43.578Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/china-to-cut-diesel-exports-on-tight-stocks-energy-aspects-says",
@@ -7755,7 +7746,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/thailand-inflation-accelerates-to-3-9-breaching-bot-target",
     "image": null,
-    "pushedAt": "2026-11-06T07:56:03.177Z"
+    "pushedAt": "2026-11-06T10:24:21.078Z"
   },
   {
     "id": "https://flipso.com/p/ksmkmzp8c",
@@ -8506,12 +8497,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/bofa-s-piron-sees-won-taiwan-dollar-as-buys-after-ai-selloff",
-    "title": "BofA’s Piron Sees Won, Taiwan Dollar as Buys After AI Selloff",
+    "title": "BofA’s Piron Sees Won, Taiwan Dollar as Buys After AI Rout",
     "titleZh": "美國銀行 Piron 在人工智慧拋售後買入韓元和新台幣",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/bofa-s-piron-sees-won-taiwan-dollar-as-buys-after-ai-selloff",
     "image": null,
-    "pushedAt": "2026-11-06T07:55:07.922Z"
+    "pushedAt": "2026-11-06T10:23:07.765Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ai-unwind-suddenly-makes-europe-the-go-to-trade-taking-stock",
@@ -8520,7 +8511,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-unwind-suddenly-makes-europe-the-go-to-trade-taking-stock",
     "image": null,
-    "pushedAt": "2026-11-06T07:55:11.840Z"
+    "pushedAt": "2026-11-06T10:23:32.203Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/ai-fundamentals-have-not-been-derailed-ing-s-treon-says-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/french-salary-squeeze-intensifies-ahead-of-minimum-wage-talks",
     "image": null,
     "pushedAt": "2026-11-06T10:22:14.680Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+    "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
+    "titleZh": "烏克蘭對川普中期選舉的失敗表現出謹慎的樂觀態度和一些笑話",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:24:47.479Z"
   }
 ]
