@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
-    "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
-    "titleZh": "幣安報告恢復正常交易後資金流出 36.4 億美元",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T20:05:55.160Z"
-  },
-  {
-    "id": "https://flipso.com/p/q0cqae589",
-    "title": "Paper That You Bake",
-    "titleZh": "你烤的紙",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/q0cqae589?ref=rss",
-    "image": "https://cdn.flipso.com/p/q0cqae589_square.jpg",
-    "pushedAt": "2026-11-06T08:29:56.620Z"
-  },
-  {
     "id": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e",
     "title": "Trump’s slapdown by America is one for the ages",
     "titleZh": "川普對美國的長期打擊",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
     "image": null,
     "pushedAt": "2026-11-06T10:02:32.228Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/european-countries-push-again-to-deport-migrants-to-rwanda.html",
+    "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
+    "titleZh": "歐洲國家再次推動將移民驅逐到盧安達",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/european-countries-push-again-to-deport-migrants-to-rwanda.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:03:01.500Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+    "title": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
+    "titleZh": "艾伯塔省圖書館員準備迎接「圖書禁令」的新時代",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:03:06.212Z"
   }
 ]
