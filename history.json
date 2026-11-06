@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html",
-    "title": "Paul Pelosi Prohibited From Driving After Crash in Napa Valley",
-    "titleZh": "保羅·佩洛西（ Paul Pelosi ）在納帕谷（ Napa Valley ）撞車後被禁止開車",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-paul-pelosi-topart-01-thfk/03nat-paul-pelosi-topart-01-thfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T08:54:35.151Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/opinion/annie-andrews-south-carolina-senate.html",
-    "title": "Lindsey Graham’s Legacy Is Done",
-    "titleZh": "林賽·格雷厄姆的遺產已經完成",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/opinion/annie-andrews-south-carolina-senate.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hennigan-darline-graham-bw-tight-gqvf/03hennigan-darline-graham-bw-tight-gqvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T04:27:36.919Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
     "title": "Musk Stocks Erase $130 Billion as Texas Blue Wave Hits Home",
     "titleZh": "隨著中期藍色浪潮的展開，特斯拉和 SpaceX 股價早盤受到打擊",
@@ -933,7 +915,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/patagonia-still-promo-mvpq/patagonia-still-promo-mvpq-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-06T06:18:12.963Z"
+    "pushedAt": "2026-11-06T08:42:37.690Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
@@ -960,7 +942,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/1bpoy60zn?ref=rss",
     "image": "https://cdn.flipso.com/p/1bpoy60zn_square.jpg",
-    "pushedAt": "2026-11-06T06:19:01.304Z"
+    "pushedAt": "2026-11-06T08:43:26.151Z"
   },
   {
     "id": "https://www.nytimes.com/video/opinion/100000011257707/the-beginning-of-the-end-of-trumpism.html",
@@ -7971,7 +7953,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/canada-strong-fund-to-start-its-retail-offering-in-2027",
     "image": null,
-    "pushedAt": "2026-11-06T06:18:37.212Z"
+    "pushedAt": "2026-11-06T08:43:01.962Z"
   },
   {
     "id": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/asia-reels-from-the-global-ai-selloff-video",
     "image": null,
     "pushedAt": "2026-11-06T08:42:09.847Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
+    "title": "Oil Declines on Signs of Moves Toward Gulf War De-Escalation",
+    "titleZh": "海灣戰爭有緩和跡象，油價下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
+    "image": null,
+    "pushedAt": "2026-11-06T08:43:51.597Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/angola-s-central-bank-expects-single-digit-inflation-to-last",
+    "title": "Angola’s Central Bank Expects Single-Digit Inflation to Last",
+    "titleZh": "安哥拉央行預計個位數通膨將持續",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/angola-s-central-bank-expects-single-digit-inflation-to-last",
+    "image": null,
+    "pushedAt": "2026-11-06T08:43:54.896Z"
   }
 ]
