@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
-    "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
-    "titleZh": "五名倖存者在海上失蹤三個月後在太平洋偏遠島嶼獲救",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T21:31:40.586Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
     "title": "Bob Dylan Meets With Pope Leo",
     "titleZh": "鮑伯迪倫會見教宗利奧",
@@ -1896,7 +1887,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T19:23:15.854Z"
+    "pushedAt": "2026-11-06T21:44:19.741Z"
   },
   {
     "id": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f",
@@ -2562,7 +2553,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T19:22:51.859Z"
+    "pushedAt": "2026-11-06T21:43:55.409Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/bofa-s-cabana-premature-to-call-end-of-fed-hiking-cycle-video",
@@ -4794,7 +4785,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
     "image": null,
-    "pushedAt": "2026-11-06T19:22:28.433Z"
+    "pushedAt": "2026-11-06T21:43:32.065Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen",
@@ -8024,8 +8015,8 @@
     "titleZh": "隨著人工智慧股票的波動，Anthropic 調整了英國零售報價",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T19:23:41.505Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61d8b022-1c44-432a-99e1-8be079930d40.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T21:44:44.950Z"
   },
   {
     "id": "https://www.ft.com/content/3a70a224-6d6c-4480-bd14-241fe3f6a987",
@@ -8583,7 +8574,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-hegseth-fqbt/06dc-hegseth-fqbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T19:22:02.073Z"
+    "pushedAt": "2026-11-06T21:43:08.233Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/waters-eyes-private-equity-ai-affordability-in-house-gavel-bid",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-06T21:42:41.694Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
+    "title": "Big Take: The New AI Trade Is FOGO",
+    "titleZh": "大觀點：新的人工智慧交易是 FOGO",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
+    "image": null,
+    "pushedAt": "2026-11-06T21:45:12.247Z"
   }
 ]
