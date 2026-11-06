@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
-    "title": "Recap: How Democrats took the House and Senate",
-    "titleZh": "美國中期選舉：會是藍色浪潮嗎？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
-    "image": null,
-    "pushedAt": "2026-11-06T01:59:49.594Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
     "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
     "titleZh": "香港交易熱潮放緩，自 2008 年以來大多數 IPO 被放棄",
@@ -4515,7 +4506,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02cli-nordhaus-01-pvch/02cli-nordhaus-01-pvch-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T00:55:51.657Z"
+    "pushedAt": "2026-11-06T03:17:04.689Z"
   },
   {
     "id": "https://www.ft.com/content/fae48a2f-7fb1-4b49-a261-0449fc335427",
@@ -4542,7 +4533,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T00:56:16.575Z"
+    "pushedAt": "2026-11-06T03:17:29.169Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T03:12:25.197Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
+    "title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+    "titleZh": "股市拋售：調整、崩盤和其他交易術語意味著什麼",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
+    "image": null,
+    "pushedAt": "2026-11-06T03:17:55.869Z"
   }
 ]
