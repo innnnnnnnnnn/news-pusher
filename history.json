@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
-    "title": "Chile Central Bank Mulled a Key Rate Hike at Its Last Decision",
-    "titleZh": "智利央行在最後決定中考慮了關鍵升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
-    "image": null,
-    "pushedAt": "2026-11-05T05:28:55.121Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
     "title": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
     "titleZh": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/vontobel-sees-cocoa-hitting-8-000-a-ton-on-el-nino-threat",
     "image": null,
     "pushedAt": "2026-11-06T14:26:05.192Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+    "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+    "titleZh": "以色列總統開始討論內塔尼亞胡或艾森科特能否組成政府",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T14:26:34.570Z"
   }
 ]
