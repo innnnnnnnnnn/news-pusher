@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/circle-s-revenue-increases-more-than-estimated-shares-climb",
-    "title": "Circle Lays Off 5% of Workforce as Revenue, Profit Surprises",
-    "titleZh": "Circle 因收入和利潤意外裁員 5%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/circle-s-revenue-increases-more-than-estimated-shares-climb",
-    "image": null,
-    "pushedAt": "2026-11-05T10:19:20.875Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
     "title": "The Bell Tolls for Trumpism",
     "titleZh": "川普主義的喪鐘已敲響",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00met-sunsetfire-tbd-promo-fqvc/00met-sunsetfire-tbd-promo-fqvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T23:42:38.201Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+    "title": "A political revolution in Texas",
+    "titleZh": "德克薩斯州的政治革命",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+    "image": null,
+    "pushedAt": "2026-11-06T23:43:05.291Z"
   }
 ]
