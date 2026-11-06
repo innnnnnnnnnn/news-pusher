@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
-    "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
-    "titleZh": "騰訊宣布最新人工智慧模型躋身中國最佳​​人工智慧模型之列",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
-    "image": null,
-    "pushedAt": "2026-11-04T15:03:41.408Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/shock-lula-win-puts-brazil-s-central-bank-on-rocky-interest-rate-path",
     "title": "Shock Lula Win Puts Brazil’s Central Bank on Rocky Interest Rate Path",
     "titleZh": "盧拉獲勝的衝擊使巴西央行的利率道路變得崎嶇不平",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T12:03:47.059Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
+    "title": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
+    "titleZh": "巴塔哥尼亞尖塔下：美洲獅、牧羊業與美食的碰撞之地",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/patagonia-still-promo-mvpq/patagonia-still-promo-mvpq-mediumSquareAt3X-v3.jpg",
+    "pushedAt": "2026-11-06T12:04:16.451Z"
   }
 ]
