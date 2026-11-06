@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-    "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-    "titleZh": "飽受伊朗戰爭蹂躪的海灣經濟體迫切需要恢復正常",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Gulf-Economy-01-mbgt/02Biz-Gulf-Economy-01-mbgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:44:46.766Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
     "title": "Up in the Clouds With the Pope, It’s Still Commercial",
     "titleZh": "與教宗一起在雲端，它仍然是商業性的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/lula-prioriza-aliados-ao-mercado-na-escolha-para-fazenda-video",
     "image": null,
     "pushedAt": "2026-11-06T16:46:03.818Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-11-06T16:46:32.323Z"
   }
 ]
