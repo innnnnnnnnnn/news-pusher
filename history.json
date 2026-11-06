@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34",
-    "title": "Who are the new faces in the Senate?",
-    "titleZh": "美國參議院有哪些新面孔？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F518c90da-1e93-400d-aef7-5f0650a1461e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-04T18:19:16.498Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
     "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
     "titleZh": "各國權衡並擔心川普在中期失敗後會做什麼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-new-fomc-schedule-turns-back-the-clock-for-strategy-sessions",
     "image": null,
     "pushedAt": "2026-11-06T11:10:25.572Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
+    "title": "A landslide for Democrats. A rebuke to Donald Trump",
+    "titleZh": "民主黨取得壓倒性勝利。對唐納川普的譴責",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
+    "image": null,
+    "pushedAt": "2026-11-06T11:10:55.214Z"
   }
 ]
