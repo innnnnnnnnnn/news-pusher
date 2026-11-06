@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/britain-on-competing-in-the-ai-race-video",
-    "title": "Britain on Competing in the AI Race",
-    "titleZh": "英國參與人工智慧競賽",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/britain-on-competing-in-the-ai-race-video",
-    "image": null,
-    "pushedAt": "2026-11-04T04:46:19.965Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/ai-and-foldables-fail-to-spark-chinese-phone-market-bi-says",
     "title": "AI and Foldables Fail to Spark Chinese Phone Market, BI Says",
     "titleZh": "BI表示人工智慧和可折疊手機未能激發中國手機市場",
@@ -5527,12 +5518,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-    "title": "OpenAI to Change How It Handles Data Center Efforts After Outcry",
+    "title": "OpenAI to Change How It Handles Data Center Efforts",
     "titleZh": "OpenAI 在強烈抗議後將改變其處理資料中心工作的方式",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
     "image": null,
-    "pushedAt": "2026-11-05T14:48:08.475Z"
+    "pushedAt": "2026-11-06T00:45:13.160Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/craft-beer-makers-strain-on-both-sides-of-us-canada-trade-clash",
@@ -6837,7 +6828,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
     "image": null,
-    "pushedAt": "2026-11-05T22:11:08.906Z"
+    "pushedAt": "2026-11-06T00:44:48.294Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
@@ -7449,7 +7440,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T22:11:33.473Z"
+    "pushedAt": "2026-11-06T00:45:38.284Z"
   },
   {
     "id": "https://www.ft.com/content/6f36556a-01e4-4767-b75d-806cee8e2a06",
@@ -7890,7 +7881,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bd35cc23-9c24-4ac5-8754-76ed8dd0c264?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd386678b-580c-44e1-ad42-8c62032a3a67.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-05T22:11:59.883Z"
+    "pushedAt": "2026-11-06T00:46:06.721Z"
   },
   {
     "id": "https://www.ft.com/content/65ebfccc-1289-447d-9147-66c17a0e1f1f",
@@ -7899,7 +7890,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/65ebfccc-1289-447d-9147-66c17a0e1f1f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T22:12:55.238Z"
+    "pushedAt": "2026-11-06T00:46:31.800Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/ccc-s-stress-relatively-well-contained-gomez-bravo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/jfrog-hikes-view-as-ai-armed-hackers-spur-security-demand",
     "image": null,
     "pushedAt": "2026-11-06T00:38:56.896Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/kospi-slides-after-us-rout-triggering-circuit-breaker-video",
+    "title": "Kospi Slides After US Rout, Triggering Circuit Breaker",
+    "titleZh": "美國潰敗後科斯皮指數下滑，觸發熔斷機制",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/kospi-slides-after-us-rout-triggering-circuit-breaker-video",
+    "image": null,
+    "pushedAt": "2026-11-06T00:46:59.057Z"
   }
 ]
