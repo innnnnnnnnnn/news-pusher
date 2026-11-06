@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html",
-    "title": "Democrats Flip South Carolina Senate Seat",
-    "titleZh": "民主黨翻轉南卡羅來納州參議院席位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html",
-    "image": null,
-    "pushedAt": "2026-11-04T03:31:17.642Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/florida-passes-property-tax-cuts-in-challenge-for-local-funding",
     "title": "Florida Property-Tax Revolt Leaves Cities Facing Painful Cuts",
     "titleZh": "佛羅裡達州通過了財產稅削減，以應對當地資金的挑戰",
@@ -213,7 +204,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-palestine-action-wtk-bqvh/04xp-palestine-action-wtk-bqvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T05:11:21.154Z"
+    "pushedAt": "2026-11-06T07:36:21.715Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
@@ -6306,7 +6297,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T05:09:42.773Z"
+    "pushedAt": "2026-11-06T07:35:32.508Z"
   },
   {
     "id": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd",
@@ -6827,8 +6818,8 @@
     "titleZh": "科技領導者需要緊急重新思考他們的政治策略",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d1a2988-e525-45cf-888c-1ba3f6650131.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T05:10:07.786Z"
+    "image": null,
+    "pushedAt": "2026-11-06T07:35:56.913Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
@@ -7863,7 +7854,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/yyljyn7d3?ref=rss",
     "image": "https://cdn.flipso.com/p/yyljyn7d3_square.jpg",
-    "pushedAt": "2026-11-06T05:09:18.170Z"
+    "pushedAt": "2026-11-06T07:35:07.998Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/malaysian-bonds-lure-buyers-as-oil-squeezes-peers-analysts-say",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/iag-says-it-will-keep-rewarding-investors-even-as-fuel-surges",
     "image": null,
     "pushedAt": "2026-11-06T07:28:03.531Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ai-elite-lose-18-billion-as-chip-stock-rout-spreads-to-asia",
+    "title": "AI Elite Lose $18 Billion as Chip Stock Rout Spreads to Asia",
+    "titleZh": "晶片股暴跌蔓延至亞洲 AI Elite 損失 180 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-elite-lose-18-billion-as-chip-stock-rout-spreads-to-asia",
+    "image": null,
+    "pushedAt": "2026-11-06T07:36:48.674Z"
   }
 ]
