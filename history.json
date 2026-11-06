@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/elections/100000011261200/what-makes-these-election-results-so-historic.html",
-    "title": "What Makes These Election Results So Historic",
-    "titleZh": "是什麼讓這些選舉結果如此具有歷史意義",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/elections/100000011261200/what-makes-these-election-results-so-historic.html",
-    "image": null,
-    "pushedAt": "2026-11-04T14:43:13.368Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/cyberattacks-on-cryptocurrency-targets-supermarket-fridges-serve-geopolitical-purpose",
     "title": "Cyberattacks on Cryptocurrency Targets, Supermarket Fridges Serve Geopolitical Purpose",
     "titleZh": "針對加密貨幣目標的網路攻擊，超市冰箱服務於地緣政治目的",
@@ -8569,12 +8560,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
-    "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+    "title": "Protesters Break Into Microsoft Data Center in Amsterdam",
     "titleZh": "抗議者闖入阿姆斯特丹的微軟資料中心",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
     "image": null,
-    "pushedAt": "2026-11-06T14:03:18.588Z"
+    "pushedAt": "2026-11-06T16:33:41.762Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ueno-bank-las-senales-de-alerta-antes-de-su-colapso",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/power-on-ternus-vs-cook-who-did-earnings-calls-better-video",
     "image": null,
     "pushedAt": "2026-11-06T16:33:12.431Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/us-job-growth-surged-in-october-unemployment-rate-fell-video",
+    "title": "US Job Growth Surged in October, Unemployment Rate Fell",
+    "titleZh": "美國10月就業成長激增，失業率下降",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/us-job-growth-surged-in-october-unemployment-rate-fell-video",
+    "image": null,
+    "pushedAt": "2026-11-06T16:34:09.810Z"
   }
 ]
