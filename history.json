@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/lagarde-s-early-exit-tests-ecb-s-eight-year-terms",
-    "title": "Lagarde’s Early Exit Tests ECB’s Eight-Year Terms",
-    "titleZh": "拉加德提前退出考驗歐洲央行八年任期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/lagarde-s-early-exit-tests-ecb-s-eight-year-terms",
-    "image": null,
-    "pushedAt": "2026-11-05T02:42:13.578Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/bloomberg-tech-london-event-looking-ahead-to-balance-of-power-after-us-midterms",
-    "title": "Bloomberg Tech London Event: Looking Ahead to Balance of Power After US Midterms",
-    "titleZh": "彭博科技倫敦活動：展望美國中期選舉後的權力平衡",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/bloomberg-tech-london-event-looking-ahead-to-balance-of-power-after-us-midterms",
-    "image": null,
-    "pushedAt": "2026-11-04T19:27:24.184Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/san-francisco-s-bart-gets-lifeline-as-voters-approve-new-tax",
     "title": "San Francisco’s BART Gets Lifeline as Voters Approve New Tax",
     "titleZh": "選民批准新稅制，舊金山 BART 獲得生命線",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T14:01:38.712Z"
+  },
+  {
+    "id": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7",
+    "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+    "titleZh": "儘管科技股潰敗，低調的華爾街公司仍加大對 Anthropic 的投資",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T14:02:11.756Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a0de0506-d647-4a8c-a94a-751f56925ed0",
+    "title": "Alas, poor Elon",
+    "titleZh": "唉，可憐的伊隆",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a0de0506-d647-4a8c-a94a-751f56925ed0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T14:02:17.264Z"
   }
 ]
