@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
-    "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
-    "titleZh": "高通進軍新市場有助於彌補手機市場的下滑",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
-    "image": null,
-    "pushedAt": "2026-11-05T23:46:36.958Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/arm-forecast-meets-estimates-after-data-center-push-pays-off",
     "title": "Arm Fails to Impress Investors With AI-Fueled Sales Forecast",
     "titleZh": "資料中心推動取得成效後，Arm 預測符合預期",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/1nzpi7z4e?ref=rss",
     "image": "https://cdn.flipso.com/p/1nzpi7z4e_square.jpg",
     "pushedAt": "2026-11-06T19:48:09.672Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html",
+    "title": "Republicans’ Losses in New York’s Midterms Were Bad. Then Came Their Post-Election Freakout.",
+    "titleZh": "共和黨在紐約中期選舉的失利非常糟糕。然後是他們在選舉後的瘋狂。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06met-ny-gop-whtj/06met-ny-gop-whtj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T19:57:04.395Z"
   }
 ]
