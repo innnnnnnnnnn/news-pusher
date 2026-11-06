@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-03/big-tech-on-workforce-culture-video",
-    "title": "Big Tech on Workforce Culture",
-    "titleZh": "大型科技公司對員工文化的影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-03/big-tech-on-workforce-culture-video",
-    "image": null,
-    "pushedAt": "2026-11-04T05:16:27.742Z"
-  },
-  {
     "id": "https://www.ft.com/content/650ac00d-1bb0-439e-aaee-1d43061b27a0",
     "title": "No amount of money can make a war zone safe for seafarers",
     "titleZh": "無論多少錢都無法讓戰區對海員來說是安全的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-insurer-nonpay-helo-hgwf/00dc-insurer-nonpay-helo-hgwf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T01:46:29.630Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
+    "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
+    "titleZh": "官員稱美國協助委內瑞拉進行致命無人機攻擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T01:46:58.302Z"
   }
 ]
