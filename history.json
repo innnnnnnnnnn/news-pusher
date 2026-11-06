@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
-    "title": "Intensive parenting is no longer the preserve of the rich",
-    "titleZh": "強化養育不再是富人的專利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
-    "image": null,
-    "pushedAt": "2026-11-06T07:38:03.894Z"
-  },
-  {
     "id": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d",
     "title": "Are we ready for an AI bust?",
     "titleZh": "人工智慧繁榮的經濟風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/rightmove-scout24-seek-ai-boost-against-subdued-housing-markets",
     "image": null,
     "pushedAt": "2026-11-06T09:05:00.538Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+    "title": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
+    "titleZh": "英國最高法院聽取了禁止巴勒斯坦行動的挑戰：需要了解什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-palestine-action-wtk-bqvh/04xp-palestine-action-wtk-bqvh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T09:05:29.088Z"
   }
 ]
