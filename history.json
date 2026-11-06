@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-    "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
-    "titleZh": "選舉之夜電視觀眾人數上升，NBC 領先，福斯下降",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-    "image": null,
-    "pushedAt": "2026-11-06T02:59:21.951Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-trading-desks-bet-on-us-stock-rally-after-midterms",
-    "title": "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
-    "titleZh": "華爾街交易櫃檯押注中期選舉後美國股市上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-trading-desks-bet-on-us-stock-rally-after-midterms",
-    "image": null,
-    "pushedAt": "2026-11-05T05:38:08.341Z"
-  },
-  {
     "id": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef",
     "title": "The midterms and the world",
     "titleZh": "中期選舉和世界",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/w3qklhygl?ref=rss",
     "image": "https://cdn.flipso.com/p/w3qklhygl_square.jpg",
     "pushedAt": "2026-11-06T20:55:43.368Z"
+  },
+  {
+    "id": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9",
+    "title": "Ex-OpenAI employee accused of spying pleads not guilty",
+    "titleZh": "被指控從事間諜活動的前 OpenAI 員工不認罪",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T20:56:13.294Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-job-gains-may-be-spreading-from-ai-buildout-to-implementation",
+    "title": "US Job Gains May Be Spreading From AI Buildout to Implementation",
+    "titleZh": "美國就業成長可能會從人工智慧的建設到實施",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-job-gains-may-be-spreading-from-ai-buildout-to-implementation",
+    "image": null,
+    "pushedAt": "2026-11-06T20:56:18.089Z"
   }
 ]
