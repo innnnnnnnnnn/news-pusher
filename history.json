@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-    "title": "What markets make of the midterms",
-    "titleZh": "市場對中期選舉有何看法",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-    "image": null,
-    "pushedAt": "2026-11-06T20:28:08.513Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video",
     "title": "Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says",
     "titleZh": "CFRA 的 Zino 表示，高通將放棄手機業務",
@@ -1059,7 +1050,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
     "image": null,
-    "pushedAt": "2026-11-06T18:09:58.931Z"
+    "pushedAt": "2026-11-06T20:35:29.910Z"
   },
   {
     "id": "https://www.ft.com/content/23fa78e3-7be3-46e1-9ae2-8e0656e1f3d5",
@@ -3174,7 +3165,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
-    "pushedAt": "2026-11-06T18:09:05.709Z"
+    "pushedAt": "2026-11-06T20:34:42.801Z"
   },
   {
     "id": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94",
@@ -3201,7 +3192,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T18:09:32.888Z"
+    "pushedAt": "2026-11-06T20:35:06.565Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
     "image": null,
     "pushedAt": "2026-11-06T20:22:20.880Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
+    "title": "Don't Think Social Security Going Away: Lusardi",
+    "titleZh": "不要認為社會安全保障會消失：Lusardi",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
+    "image": null,
+    "pushedAt": "2026-11-06T20:35:57.433Z"
   }
 ]
