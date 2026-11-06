@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/briefing/a-blue-wave.html",
-    "title": "A Blue Wave",
-    "titleZh": "藍色的波浪",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/briefing/a-blue-wave.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04themorning-nl-dem-wave-qbwz/04themorning-nl-dem-wave-qbwz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T19:28:12.951Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/trade-policy-after-trump-and-the-midterm-elections",
     "title": "Trade policy after Trump and the midterm elections",
     "titleZh": "川普和中期選舉後的貿易政策",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
     "image": null,
     "pushedAt": "2026-11-06T14:02:47.338Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
+    "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+    "titleZh": "抗議者闖入阿姆斯特丹的微軟資料中心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
+    "image": null,
+    "pushedAt": "2026-11-06T14:03:18.588Z"
   }
 ]
