@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
-    "title": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
-    "titleZh": "直升機在珠穆朗瑪峰小徑相撞，造成 1 人死亡、3 人受傷",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
-    "image": null,
-    "pushedAt": "2026-11-06T02:05:44.493Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
     "title": "UOB Shares Tumble as Profit Misses Analysts’ Expectations",
     "titleZh": "由於交易收入下降抑制了收益，大華銀行利潤低於預期",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8407d5dc-c231-46aa-a4fb-58d25c85892a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-06T04:14:44.248Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
+    "title": "Cheap data is great for Indians but not for India’s reputation",
+    "titleZh": "廉價數據對印度人來說很好，但對印度的聲譽不利",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
+    "image": null,
+    "pushedAt": "2026-11-06T04:15:13.590Z"
   }
 ]
