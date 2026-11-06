@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-household-spending-exceeds-estimate-boosted-by-fuel",
-    "title": "Australia’s Household Spending Exceeds Estimate, Boosted by Fuel",
-    "titleZh": "受燃料推動，澳洲家庭支出超出預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-household-spending-exceeds-estimate-boosted-by-fuel",
-    "image": null,
-    "pushedAt": "2026-11-04T12:47:48.518Z"
-  },
-  {
     "id": "https://www.ft.com/content/a03d241a-5e93-41ae-b019-50879c6d1ad9",
     "title": "Cricket Australia chief defends controversial sale plan",
     "titleZh": "澳洲板球協會主席為有爭議的出售計劃辯護",
@@ -1716,7 +1707,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T03:30:42.606Z"
+    "pushedAt": "2026-11-06T06:01:12.183Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
@@ -4758,7 +4749,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T03:31:06.922Z"
+    "pushedAt": "2026-11-06T06:01:36.761Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T06:00:45.019Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/max-richter-ai-degrades-our-taste-in-music",
+    "title": "Max Richter: AI Degrades Our Taste in Music",
+    "titleZh": "Max Richter：人工智慧降低了我們的音樂品味",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/max-richter-ai-degrades-our-taste-in-music",
+    "image": null,
+    "pushedAt": "2026-11-06T06:02:05.645Z"
   }
 ]
