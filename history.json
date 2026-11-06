@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
-    "title": "The New York Times Adds 420,000 Digital Subscribers",
-    "titleZh": "《紐約時報》新增 42 萬名數位訂閱者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-nyt-hwvf/04biz-nyt-hwvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T13:03:18.209Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
     "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
     "titleZh": "CVS 將剝離製藥業務，結束醫療保健集團時代",
@@ -3354,7 +3345,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T11:51:04.593Z"
+    "pushedAt": "2026-11-06T14:19:18.021Z"
   },
   {
     "id": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f",
@@ -3363,7 +3354,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T11:51:53.650Z"
+    "pushedAt": "2026-11-06T14:20:10.681Z"
   },
   {
     "id": "https://www.ft.com/content/4a34005c-79e3-4a35-b916-4ce67a094475",
@@ -4020,7 +4011,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T11:50:40.095Z"
+    "pushedAt": "2026-11-06T14:18:52.129Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/bofa-s-cabana-premature-to-call-end-of-fed-hiking-cycle-video",
@@ -5676,7 +5667,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F20677945-0a8a-46f1-9ecc-9227dae317be.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T11:51:29.337Z"
+    "pushedAt": "2026-11-06T14:19:44.103Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/canada-to-reform-bank-ownership-rules-in-bid-to-stoke-competition",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/ast-spacemobile-to-build-own-rocket-to-compete-with-spacex",
     "image": null,
     "pushedAt": "2026-11-06T14:17:30.512Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/lula-puts-allies-over-markets-as-he-mulls-finance-minister-pick",
+    "title": "Lula Puts Allies Over Markets as He Mulls Finance Minister Pick",
+    "titleZh": "盧拉考慮選擇財政部長時將盟友置於市場之上",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/lula-puts-allies-over-markets-as-he-mulls-finance-minister-pick",
+    "image": null,
+    "pushedAt": "2026-11-06T14:20:38.539Z"
   }
 ]
