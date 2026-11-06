@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
-    "title": "MercadoLibre Shares Tumble as Investments Weigh on Profit",
-    "titleZh": "由於投資影響利潤，MercadoLibre 股價下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow",
-    "image": null,
-    "pushedAt": "2026-11-05T18:00:31.379Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
     "title": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
     "titleZh": "美國公投後油價下跌，亞洲股市上漲：市場結束",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-wsj-pvgk/06biz-wsj-pvgk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T20:57:38.735Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
+    "title": "Trump Media’s Shares Fall to Record Low After Midterms",
+    "titleZh": "中期選舉後川普媒體股價跌至歷史新低",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T20:58:05.147Z"
   }
 ]
