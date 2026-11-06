@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
-    "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
-    "titleZh": "甲骨文迫於川普壓力取消騰訊 70 億美元人工智慧交易",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T17:25:01.364Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f902e954-6d0c-43c4-9a19-9e10ac3ecfe2",
-    "title": "Could our daughter’s boyfriend claim a share in her flat?",
-    "titleZh": "我們女兒的男朋友可以要求分享她的公寓嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f902e954-6d0c-43c4-9a19-9e10ac3ecfe2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T12:22:17.297Z"
-  },
-  {
     "id": "https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364",
     "title": "Behind Musk and Zuckerberg’s decade-long efforts to repel investor lawsuits",
     "titleZh": "馬斯克和祖克柏長達十年努力擊退投資者訴訟的背後",
@@ -1014,7 +996,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
     "image": null,
-    "pushedAt": "2026-11-06T07:21:45.735Z"
+    "pushedAt": "2026-11-06T09:46:34.092Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-construction-boom-to-double-mining-peak-lift-prices",
@@ -4686,7 +4668,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-election-turnout-analysis-zwkq/05int-election-turnout-analysis-zwkq-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-06T07:22:38.451Z"
+    "pushedAt": "2026-11-06T09:47:22.505Z"
   },
   {
     "id": "https://www.ft.com/content/e44a00ff-e5f2-4d1b-af44-90f8a72898ce",
@@ -8650,12 +8632,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/german-industrial-production-rises-in-latest-boost-for-economy",
-    "title": "German Industrial Production Rises in Latest Boost for Economy",
+    "title": "German Industrial Production Rises in Latest Economic Boost",
     "titleZh": "德國工業生產在最新經濟刺激中上升",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/german-industrial-production-rises-in-latest-boost-for-economy",
     "image": null,
-    "pushedAt": "2026-11-06T07:22:11.466Z"
+    "pushedAt": "2026-11-06T09:46:58.381Z"
   },
   {
     "id": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/us-jobs-data-faces-market-uncertainty-video",
     "image": null,
     "pushedAt": "2026-11-06T09:46:06.943Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/what-to-expect-from-today-s-us-jobs-report-video",
+    "title": "What to Expect From Today's US Jobs Report (Video)",
+    "titleZh": "今天的美國就業報告有何期待（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/what-to-expect-from-today-s-us-jobs-report-video",
+    "image": null,
+    "pushedAt": "2026-11-06T09:47:47.514Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
+    "title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
+    "titleZh": "中期選舉暴露風險，華爾街同行陷入人工智慧貿易深淵",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
+    "image": null,
+    "pushedAt": "2026-11-06T09:47:52.146Z"
   }
 ]
