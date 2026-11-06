@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/swiss-pharmaceutical-industry-loses-ground-in-global-innovation-race",
-    "title": "Swiss Pharmaceutical Industry Loses Ground in Global Innovation Race",
-    "titleZh": "瑞士製藥業在全球創新競賽中失利",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/swiss-pharmaceutical-industry-loses-ground-in-global-innovation-race",
-    "image": null,
-    "pushedAt": "2026-11-04T11:11:18.755Z"
-  },
-  {
     "id": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82",
     "title": "Republicans turn on each other after disastrous midterms",
     "titleZh": "災難性的中期選舉後，共和黨人互相攻擊",
@@ -231,7 +222,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:43:16.270Z"
+    "pushedAt": "2026-11-06T13:07:06.971Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/wayfair-growth-hits-post-pandemic-high-on-us-market-share-gains",
@@ -1473,7 +1464,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:44:35.396Z"
+    "pushedAt": "2026-11-06T13:07:56.294Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-04/arm-s-results-perfectly-fine-cfra-s-zino-says-video",
@@ -1842,7 +1833,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
     "image": null,
-    "pushedAt": "2026-11-06T10:43:40.322Z"
+    "pushedAt": "2026-11-06T13:07:31.940Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
@@ -3921,7 +3912,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:42:52.040Z"
+    "pushedAt": "2026-11-06T13:06:42.083Z"
   },
   {
     "id": "https://www.ft.com/content/b9da150e-5086-4078-88e7-eebe0c6ad0dc",
@@ -7705,12 +7696,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/moody-s-warns-senegal-debt-rework-likely-tantamount-to-default",
-    "title": "Moody’s Warns Senegal Debt Rework Likely Constitutes Default",
+    "title": "Moody’s Warns Senegal Debt Revamp Likely Constitutes Default",
     "titleZh": "穆迪警告塞內加爾債務重組可能相當於違約",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/moody-s-warns-senegal-debt-rework-likely-tantamount-to-default",
     "image": null,
-    "pushedAt": "2026-11-06T09:31:36.656Z"
+    "pushedAt": "2026-11-06T13:05:52.924Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/german-industrial-production-rises-in-latest-boost-for-economy",
@@ -8331,7 +8322,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
     "image": null,
-    "pushedAt": "2026-11-06T10:42:23.979Z"
+    "pushedAt": "2026-11-06T13:06:17.666Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
     "image": null,
     "pushedAt": "2026-11-06T13:04:59.546Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/ubs-s-abigail-watt-on-jobs-inflation-and-fed-policy-video",
+    "title": "UBS’s Abigail Watt on Jobs, Inflation and Fed Policy",
+    "titleZh": "瑞銀 (UBS) 的阿比蓋爾瓦特 (Abigail Watt) 談就業、通膨和聯準會政策",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ubs-s-abigail-watt-on-jobs-inflation-and-fed-policy-video",
+    "image": null,
+    "pushedAt": "2026-11-06T13:08:23.276Z"
   }
 ]
