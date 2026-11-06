@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3",
-    "title": "Britain’s welfare ratchet",
-    "titleZh": "英國的福利棘輪",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T05:15:34.891Z"
-  },
-  {
     "id": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c",
     "title": "Will US jobs growth remain subdued?",
     "titleZh": "美國就業成長會持續低迷嗎？",
@@ -645,7 +636,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T04:26:29.292Z"
+    "pushedAt": "2026-11-06T06:47:18.115Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
@@ -3048,7 +3039,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:25:13.950Z"
+    "pushedAt": "2026-11-06T06:46:05.632Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
@@ -3282,7 +3273,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trade-midterms-01-lmfk/02dc-trade-midterms-01-lmfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:24:49.476Z"
+    "pushedAt": "2026-11-06T06:45:41.135Z"
   },
   {
     "id": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae",
@@ -3579,7 +3570,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/h02rrkvvb?ref=rss",
     "image": "https://cdn.flipso.com/p/h02rrkvvb_square.jpg",
-    "pushedAt": "2026-11-06T04:24:25.066Z"
+    "pushedAt": "2026-11-06T06:45:17.311Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/deborah-elms-on-trade-reshuffling-and-rising-costs-video",
@@ -6171,7 +6162,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7285043c-a181-4cff-b57d-d626a1a43779.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T04:25:38.940Z"
+    "pushedAt": "2026-11-06T06:46:29.783Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/zipline-hits-20b-valuation-as-walmart-deal-expands-video",
@@ -6198,7 +6189,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
     "image": null,
-    "pushedAt": "2026-11-06T04:26:04.941Z"
+    "pushedAt": "2026-11-06T06:46:53.746Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-deepens-as-japan-south-korea-tumble-video",
     "image": null,
     "pushedAt": "2026-11-06T06:44:50.025Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/bofa-s-piron-says-won-taiwan-dollar-offer-opportunity-video",
+    "title": "BofA’s Piron Says Won, Taiwan Dollar Offer Opportunity",
+    "titleZh": "美國銀行 Piron 稱獲勝，新台幣提供機會",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/bofa-s-piron-says-won-taiwan-dollar-offer-opportunity-video",
+    "image": null,
+    "pushedAt": "2026-11-06T06:47:46.704Z"
   }
 ]
