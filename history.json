@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-stocks-set-for-correction-as-bank-profit-outlook-sours",
-    "title": "Singapore Stocks Claw Back Losses as Regional Mood Improves",
-    "titleZh": "銀行獲利前景惡化，新加坡股市將出現調整",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-stocks-set-for-correction-as-bank-profit-outlook-sours",
-    "image": null,
-    "pushedAt": "2026-11-04T10:04:37.590Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-04/tax-cut-hopes-help-fuel-nifty-s-rally-to-a-two-month-high",
-    "title": "Tax Cut Hopes Help Fuel Nifty’s Rally to a Two-Month High",
-    "titleZh": "減稅希望推動 Nifty 股價升至兩個月高點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/tax-cut-hopes-help-fuel-nifty-s-rally-to-a-two-month-high",
-    "image": null,
-    "pushedAt": "2026-11-04T02:47:14.189Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html",
     "title": "Democrats Flip North Carolina Senate Seat",
     "titleZh": "民主黨翻轉北卡羅來納州參議院席位",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-trade-faces-repricing-amid-data-center-risks-video",
     "image": null,
     "pushedAt": "2026-11-06T06:31:57.449Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7",
+    "title": "The sell-off gets deep",
+    "titleZh": "拋售進一步加深",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-06T06:32:26.731Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
+    "title": "Trump Is Watching Fox News, and He Is Not Thrilled",
+    "titleZh": "川普正在看福克斯新聞，但他並不興奮",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-trump-fox-topart-01-khbw/03biz-trump-fox-topart-01-khbw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T06:32:31.527Z"
   }
 ]
