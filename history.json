@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/df7a8689-363c-4f1d-bb94-d1f6162c52fa",
-    "title": "Britain’s population boom is ending",
-    "titleZh": "英國人口快速成長的時代即將結束",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/df7a8689-363c-4f1d-bb94-d1f6162c52fa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-04T10:02:54.089Z"
-  },
-  {
     "id": "https://www.ft.com/content/3729c7ee-80bc-4ea5-949b-78b017f498e4",
     "title": "FirstFT: Blue wave sweeps US",
     "titleZh": "FirstFT：藍色浪潮席捲美國",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
     "pushedAt": "2026-11-06T10:10:00.822Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
+    "title": "ECB Is Gathering Data for Rate Decision in December, Lane Says",
+    "titleZh": "萊恩表示，歐洲央行正在收集 12 月利率決定的數據",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
+    "image": null,
+    "pushedAt": "2026-11-06T10:10:30.370Z"
   }
 ]
