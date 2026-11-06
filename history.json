@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
-    "title": "The midterms have already cost Musk almost $120bn",
-    "titleZh": "中期選舉已經讓馬斯克損失了超過 600 億美元——而且這一數字還在增加",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
-    "image": null,
-    "pushedAt": "2026-11-05T21:26:15.952Z"
-  },
-  {
     "id": "https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5",
     "title": "China steps up defence of stock market in bid to revive AI boom",
     "titleZh": "中國加強股市防禦以重振人工智慧熱潮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04db-talarico-cqwp/04db-talarico-cqwp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T15:08:28.414Z"
+  },
+  {
+    "id": "https://www.ft.com/content/52770926-e4b9-4005-9e2f-332eb7dc6631",
+    "title": "Blowout October payrolls data sets up Federal Reserve December rate rise",
+    "titleZh": "10月就業數據井噴推動聯準會12月升息",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/52770926-e4b9-4005-9e2f-332eb7dc6631",
+    "image": null,
+    "pushedAt": "2026-11-06T15:08:58.395Z"
   }
 ]
