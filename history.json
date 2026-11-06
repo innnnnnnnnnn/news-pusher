@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
-    "title": "Booking Sees Weaker Final Quarter as Prices, Unrest Hurt Travel",
-    "titleZh": "由於價格、不穩定因素影響旅遊業，最後一季預訂量疲軟",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
-    "image": null,
-    "pushedAt": "2026-11-04T02:48:35.754Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/us/elections/100000011253864/how-we-model-election-results-with-the-needle.html",
     "title": "How We Model Election Results With the Needle",
     "titleZh": "我們如何用針來模擬選舉結果",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-06T01:34:34.972Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
+    "title": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+    "titleZh": "人工智慧恐慌導致台幣兌美元匯率跌破 33",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
+    "image": null,
+    "pushedAt": "2026-11-06T01:35:56.251Z"
   }
 ]
