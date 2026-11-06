@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
-    "title": "Korean Language Picks Up in Japan",
-    "titleZh": "韓國語在日本興起",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-japan-korea-slang-01-vzqc/00int-japan-korea-slang-01-vzqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-04T12:04:35.945Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-03/amd-earnings-met-the-bar-wedbush-s-bryson-says-video",
     "title": "AMD Earnings 'Met the Bar,' Wedbush's Bryson Says",
     "titleZh": "Wedbush 的 Bryson 表示 AMD 盈利“符合標準”",
@@ -1293,7 +1284,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
     "image": null,
-    "pushedAt": "2026-11-05T22:41:34.065Z"
+    "pushedAt": "2026-11-06T01:11:52.416Z"
   },
   {
     "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9",
@@ -5487,7 +5478,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-05T22:40:19.878Z"
+    "pushedAt": "2026-11-06T01:10:37.122Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
@@ -6900,7 +6891,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T22:41:09.422Z"
+    "pushedAt": "2026-11-06T01:11:26.667Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/rbc-hires-gaut-from-mizuho-to-head-strategic-equity-dealmaking",
@@ -7890,7 +7881,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ca5ae79-921f-4828-bb9f-1d06ab4d0c5f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-05T22:40:44.403Z"
+    "pushedAt": "2026-11-06T01:11:02.016Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/high-yield-credit-quality-in-good-shape-skiba-video",
@@ -8394,7 +8385,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-05T22:42:32.054Z"
+    "pushedAt": "2026-11-06T01:12:17.090Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/hearts-minds-howes-on-private-credit-video",
     "image": null,
     "pushedAt": "2026-11-06T01:08:52.965Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/plato-s-allen-on-ai-selloff-investment-strategy-video",
+    "title": "Plato's Allen on AI Selloff, Investment Strategy",
+    "titleZh": "柏拉圖的艾倫談人工智慧拋售和投資策略",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/plato-s-allen-on-ai-selloff-investment-strategy-video",
+    "image": null,
+    "pushedAt": "2026-11-06T01:12:44.705Z"
   }
 ]
