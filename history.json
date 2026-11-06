@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html",
-    "title": "Joseph Lagu, Who Led Independence Movement in Southern Sudan, Has Died",
-    "titleZh": "領導蘇丹南部獨立運動的約瑟夫·拉古去世",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/obituaries/280bit-lagu-topper/280bit-lagu-topper-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-04T18:25:04.930Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
     "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
     "titleZh": "一家鮮為人知的公司如何主導波斯灣石油貿易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee",
     "image": null,
     "pushedAt": "2026-11-06T03:25:53.956Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/record-farm-slump-threatens-more-pain-for-philippine-economy",
+    "title": "Record Farm Slump Threatens More Pain for Philippine Economy",
+    "titleZh": "創紀錄的農場衰退為菲律賓經濟帶來更多痛苦",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/record-farm-slump-threatens-more-pain-for-philippine-economy",
+    "image": null,
+    "pushedAt": "2026-11-06T03:26:24.314Z"
   }
 ]
