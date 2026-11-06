@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
-    "title": "European Stocks Rally as US Midterm Result Boosts Sentiment",
-    "titleZh": "民主黨大獲全勝引發人工智慧擔憂，歐洲股市將下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
-    "image": null,
-    "pushedAt": "2026-11-04T19:12:00.310Z"
-  },
-  {
     "id": "https://www.ft.com/content/7f02e7f9-bcdf-4788-81c2-264a1105e1fb",
     "title": "The Democrats’ moment of truth",
     "titleZh": "民主黨的關鍵時刻",
@@ -1338,7 +1329,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/y58gx9jid?ref=rss",
     "image": "https://cdn.flipso.com/p/y58gx9jid_square.jpg",
-    "pushedAt": "2026-11-06T07:45:56.032Z"
+    "pushedAt": "2026-11-06T10:14:13.998Z"
   },
   {
     "id": "https://flipso.com/p/hvld6efyj",
@@ -1347,7 +1338,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/hvld6efyj?ref=rss",
     "image": "https://cdn.flipso.com/p/hvld6efyj_square.jpg",
-    "pushedAt": "2026-11-06T07:46:21.183Z"
+    "pushedAt": "2026-11-06T10:14:38.095Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
@@ -8506,12 +8497,12 @@
   },
   {
     "id": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0",
-    "title": "Asian markets battered after Wall Street AI rout",
+    "title": "Wall Street AI sell-off spreads to Asia and Europe",
     "titleZh": "華爾街人工智慧潰敗後亞洲市場遭受重創",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0",
-    "image": null,
-    "pushedAt": "2026-11-06T07:45:02.710Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fefe379cf-e998-4ace-a28e-71d38d583221.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T10:13:49.739Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/horizons-middle-east-africa-11-6-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T10:13:21.163Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
+    "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling",
+    "titleZh": "Nvidia 加強在東南亞的晶片追蹤以打擊走私",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
+    "image": null,
+    "pushedAt": "2026-11-06T10:15:05.340Z"
   }
 ]
