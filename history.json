@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks",
-    "title": "Copper Slips as Investors Weigh Growth, Demand After US Election",
-    "titleZh": "由於美國中期股市風險，銅價跌幅維持在 14,000 美元以下",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks",
-    "image": null,
-    "pushedAt": "2026-11-04T23:08:59.004Z"
-  },
-  {
     "id": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3",
     "title": "Britain’s welfare ratchet",
     "titleZh": "英國的福利棘輪",
@@ -2706,7 +2697,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-theworld-midterms-sweep-01-wltc-promo/05int-theworld-midterms-sweep-01-wltc-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:21:33.036Z"
+    "pushedAt": "2026-11-06T06:42:23.225Z"
   },
   {
     "id": "https://flipso.com/p/1nzpi7z4e",
@@ -2715,7 +2706,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/1nzpi7z4e?ref=rss",
     "image": "https://cdn.flipso.com/p/1nzpi7z4e_square.jpg",
-    "pushedAt": "2026-11-06T04:21:57.564Z"
+    "pushedAt": "2026-11-06T06:42:47.685Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-to-use-committees-as-trump-counter-in-five-key-areas",
@@ -3030,7 +3021,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-06T04:22:46.648Z"
+    "pushedAt": "2026-11-06T06:43:11.675Z"
   },
   {
     "id": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
@@ -3048,7 +3039,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:23:36.116Z"
+    "pushedAt": "2026-11-06T06:43:59.870Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
@@ -5496,7 +5487,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:24:00.362Z"
+    "pushedAt": "2026-11-06T06:44:24.131Z"
   },
   {
     "id": "https://www.ft.com/content/9c6a400c-2207-4b68-8fda-080f1cc30260",
@@ -7773,7 +7764,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05insider-brand1/05insider-brand-bkjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:23:11.460Z"
+    "pushedAt": "2026-11-06T06:43:35.862Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/edelweiss-shah-says-india-is-regaining-investor-appeal-video",
     "image": null,
     "pushedAt": "2026-11-06T06:41:56.233Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-deepens-as-japan-south-korea-tumble-video",
+    "title": "AI Selloff Deepens as Japan, South Korea Tumble (Video)",
+    "titleZh": "日本、韓國暴跌，人工智慧拋售加劇（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-deepens-as-japan-south-korea-tumble-video",
+    "image": null,
+    "pushedAt": "2026-11-06T06:44:50.025Z"
   }
 ]
