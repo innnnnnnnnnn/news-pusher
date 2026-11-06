@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/elections/100000011253864/how-we-model-election-results-with-the-needle.html",
-    "title": "How We Model Election Results With the Needle",
-    "titleZh": "我們如何用針來模擬選舉結果",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/elections/100000011253864/how-we-model-election-results-with-the-needle.html",
-    "image": null,
-    "pushedAt": "2026-11-04T00:28:27.287Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
     "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
     "titleZh": "無視消費者法，保險公司拒絕支付緊急護理的醫療費用",
@@ -5523,7 +5514,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-05T23:07:35.110Z"
+    "pushedAt": "2026-11-06T01:36:48.057Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
@@ -5532,7 +5523,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
     "image": null,
-    "pushedAt": "2026-11-05T23:07:59.622Z"
+    "pushedAt": "2026-11-06T01:37:12.562Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
@@ -8290,12 +8281,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
-    "title": "Worst US Stock Rout Since 2020 Leaves Virtually Nowhere to Hide",
+    "title": "Worst Rout Since 2020 Leaves Virtually Nowhere to Hide in Stocks",
     "titleZh": "自2020年以來最嚴重的美國股市暴跌幾乎無處可藏",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
     "image": null,
-    "pushedAt": "2026-11-05T22:24:07.301Z"
+    "pushedAt": "2026-11-06T01:36:23.664Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
     "image": null,
     "pushedAt": "2026-11-06T01:35:56.251Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
+    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
+    "titleZh": "由於美國大選破壞人工智慧和關稅貿易，銅價走低",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
+    "image": null,
+    "pushedAt": "2026-11-06T01:37:39.622Z"
   }
 ]
