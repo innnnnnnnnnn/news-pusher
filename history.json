@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-    "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
-    "titleZh": "非洲最古老的國家公園炭疽病爆發導致河馬死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:03:04.410Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/10/29/the-north-aral-sea-is-expanding-after-decades-of-shrinkage",
     "title": "The North Aral Sea is expanding after decades of shrinkage",
     "titleZh": "北鹹海在經歷了幾十年的萎縮之後正在擴張",
@@ -1239,7 +1230,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-06T03:30:18.214Z"
+    "pushedAt": "2026-11-06T05:59:38.771Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/macquarie-sees-australia-gaining-from-us-data-center-woes",
     "image": null,
     "pushedAt": "2026-11-06T05:59:10.226Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/edelweiss-shah-on-indian-markets-capital-gains-tax-video",
+    "title": "Edelweiss' Rashesh Shah on Indian Markets, Capital Gains Tax",
+    "titleZh": "Edelweiss 的 Rashesh Shah 談印度市場和資本利得稅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/edelweiss-shah-on-indian-markets-capital-gains-tax-video",
+    "image": null,
+    "pushedAt": "2026-11-06T06:00:06.916Z"
   }
 ]
