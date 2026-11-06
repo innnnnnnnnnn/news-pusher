@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/elections/100000011259875/south-carolina-flips.html",
-    "title": "Democrats Win South Carolina Senate Seat",
-    "titleZh": "民主黨贏得南卡羅來納州參議院席位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/elections/100000011259875/south-carolina-flips.html",
-    "image": null,
-    "pushedAt": "2026-11-04T03:41:27.446Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/china-services-gauge-unexpectedly-dips-for-first-time-since-july",
-    "title": "China Services Gauge Unexpectedly Dips for First Time Since July",
-    "titleZh": "中國服務業指數自七月以來首次意外下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/china-services-gauge-unexpectedly-dips-for-first-time-since-july",
-    "image": null,
-    "pushedAt": "2026-11-04T06:02:02.973Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/semight-is-said-to-tap-citic-goldman-jpmorgan-for-hong-kong-listing",
     "title": "Semight Is Said to Tap Citic, Goldman, JPMorgan for Hong Kong Listing",
     "titleZh": "傳Semight將力邀中信、高盛、摩根大通赴港上市",
@@ -204,7 +186,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-06T05:30:17.510Z"
+    "pushedAt": "2026-11-06T07:54:41.402Z"
   },
   {
     "id": "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794",
@@ -8231,8 +8213,8 @@
     "titleZh": "亞洲科技股因全球拋售而下跌",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6fec81ce-6226-440d-b024-f7f5517670c2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T05:29:52.770Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13d3938c-831b-4adb-8251-3b1e0f71a1fc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-06T07:54:16.475Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/china-to-cut-diesel-exports-on-tight-stocks-energy-aspects-says",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/uk-markets-join-global-rout",
     "image": null,
     "pushedAt": "2026-11-06T07:53:48.564Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/bofa-s-piron-sees-won-taiwan-dollar-as-buys-after-ai-selloff",
+    "title": "BofA’s Piron Sees Won, Taiwan Dollar as Buys After AI Selloff",
+    "titleZh": "美國銀行 Piron 在人工智慧拋售後買入韓元和新台幣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/bofa-s-piron-sees-won-taiwan-dollar-as-buys-after-ai-selloff",
+    "image": null,
+    "pushedAt": "2026-11-06T07:55:07.922Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ai-unwind-suddenly-makes-europe-the-go-to-trade-taking-stock",
+    "title": "AI Unwind Suddenly Makes Europe a Go-To Trade for Investors",
+    "titleZh": "人工智慧的放鬆突然使歐洲成為投資者的首選交易場所",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-unwind-suddenly-makes-europe-the-go-to-trade-taking-stock",
+    "image": null,
+    "pushedAt": "2026-11-06T07:55:11.840Z"
   }
 ]
