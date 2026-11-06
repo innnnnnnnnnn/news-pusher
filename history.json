@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/650ac00d-1bb0-439e-aaee-1d43061b27a0",
-    "title": "No amount of money can make a war zone safe for seafarers",
-    "titleZh": "無論多少錢都無法讓戰區對海員來說是安全的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/650ac00d-1bb0-439e-aaee-1d43061b27a0",
-    "image": null,
-    "pushedAt": "2026-11-04T05:16:53.385Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
     "title": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
     "titleZh": "中期選舉將如何進行？這些比賽可能提供早期線索。",
@@ -1419,7 +1410,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
     "image": null,
-    "pushedAt": "2026-11-05T23:35:48.030Z"
+    "pushedAt": "2026-11-06T02:01:57.377Z"
   },
   {
     "id": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99",
@@ -2922,7 +2913,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
     "image": null,
-    "pushedAt": "2026-11-05T23:35:23.574Z"
+    "pushedAt": "2026-11-06T02:01:32.260Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
@@ -6261,7 +6252,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
     "image": null,
-    "pushedAt": "2026-11-05T23:34:59.108Z"
+    "pushedAt": "2026-11-06T02:01:07.165Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T01:46:58.302Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
+    "title": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
+    "titleZh": "看漲股市後，華爾街交易員措手不及",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
+    "image": null,
+    "pushedAt": "2026-11-06T02:02:24.623Z"
   }
 ]
