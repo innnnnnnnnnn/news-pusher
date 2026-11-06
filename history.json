@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
-    "title": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
-    "titleZh": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
-    "image": null,
-    "pushedAt": "2026-11-04T12:27:32.900Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/european-bank-stocks-bounce-back-as-midterms-ease-uncertainty",
-    "title": "European Bank Stocks Bounce Back as Midterms Ease Uncertainty",
-    "titleZh": "中期選舉不確定性緩解，歐洲銀行股反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-bank-stocks-bounce-back-as-midterms-ease-uncertainty",
-    "image": null,
-    "pushedAt": "2026-11-04T14:55:55.176Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search",
     "title": "HP Appoints Emma Walmsley as CEO, Concluding Executive Search",
     "titleZh": "惠普任命艾瑪·沃姆斯利 (Emma Walmsley) 為新任首席執行官，結束長達一個月的搜尋",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-06T14:26:34.570Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-06/markets-focused-more-on-ai-than-jobs-jeffrey-rosenberg-video",
+    "title": "Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says",
+    "titleZh": "貝萊德的羅森伯格表示，市場更關注人工智慧而不是就業報告",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-06/markets-focused-more-on-ai-than-jobs-jeffrey-rosenberg-video",
+    "image": null,
+    "pushedAt": "2026-11-06T14:27:06.674Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+    "title": "ECB Considers Review of Banks’ Data Center Lending as Fears Rise",
+    "titleZh": "隨著擔憂加劇，歐洲央行考慮審查銀行資料中心貸款",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+    "image": null,
+    "pushedAt": "2026-11-06T14:27:12.780Z"
   }
 ]
