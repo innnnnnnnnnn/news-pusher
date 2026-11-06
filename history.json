@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
-    "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
-    "titleZh": "香港交易熱潮放緩，自 2008 年以來大多數 IPO 被放棄",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
-    "image": null,
-    "pushedAt": "2026-11-04T01:33:00.128Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
     "title": "Latest Oil Market News and Analysis for Nov. 4",
     "titleZh": "11 月 4 日最新石油市場新聞與分析",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
     "image": null,
     "pushedAt": "2026-11-06T03:17:55.869Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
+    "title": "Recap: How Democrats took the House and Senate",
+    "titleZh": "回顧：民主黨如何拿下眾議院和參議院",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
+    "image": null,
+    "pushedAt": "2026-11-06T03:18:24.502Z"
   }
 ]
