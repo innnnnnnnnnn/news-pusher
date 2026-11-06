@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
-    "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
-    "titleZh": "國際足總悄悄為詹尼·因凡蒂諾繳納了數百萬美元的稅款",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-05T21:27:05.637Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/india-coffee-output-to-miss-forecast-after-below-normal-rains",
     "title": "India Coffee Output to Miss Forecast After Below-Normal Rains",
     "titleZh": "降雨量低於正常水平後，印度咖啡產量低於預期",
@@ -6157,12 +6148,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-    "title": "US Stocks Find Some Respite as Dip Buyers Move In: Markets Wrap",
+    "title": "US Stock Rout Pauses as AI Trade Draws Buyers: Markets Wrap",
     "titleZh": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-06T10:51:22.470Z"
+    "pushedAt": "2026-11-06T13:13:32.811Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/blue-owl-sees-gains-as-election-results-limit-ai-compute-supply",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
     "image": null,
     "pushedAt": "2026-11-06T13:13:05.497Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+    "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+    "titleZh": "歐洲航班遭遇惡作劇炸彈威脅，旅客感到沮喪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-bomb-threat-voices-1-vgjz/06int-bomb-threat-voices-1-vgjz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T13:13:59.944Z"
   }
 ]
