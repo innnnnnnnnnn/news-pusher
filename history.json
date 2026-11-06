@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725",
-    "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
-    "titleZh": "加拿大人歡迎民主黨在美國中期選舉中大獲全勝",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T16:59:12.847Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-girding-for-us-debt-ceiling-showdown-in-2027",
-    "title": "Wall Street Girding for US Debt Ceiling Showdown in 2027",
-    "titleZh": "華爾街為 2027 年美國債務上限攤牌做準備",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-girding-for-us-debt-ceiling-showdown-in-2027",
-    "image": null,
-    "pushedAt": "2026-11-04T21:18:41.123Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/opinion/trump-midterms-democracy-threats.html",
     "title": "Trump Has Been Thumped. That Doesn’t Make Him Any Less Dangerous.",
     "titleZh": "川普已被重擊。這並沒有讓他的危險減少。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/bessent-greer-raise-concerns-on-china-trade-deal-actions",
     "image": null,
     "pushedAt": "2026-11-06T18:10:35.465Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+    "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+    "titleZh": "對以色列人來說，美國中期選舉顯示他們在美國的地位已經下降了多遠",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-midterms01a-photo-jqck/04int-israel-midterms01a-photo-jqck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T18:11:04.130Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
+    "title": "Senji Kuroi Has Died. He Interpreted ‘the Salaried Soul.’",
+    "titleZh": "黑井千治死了。他解釋了「受薪靈魂」。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/obituaries/00kuroi-top/00kuroi-top-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T18:11:06.442Z"
   }
 ]
