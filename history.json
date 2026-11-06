@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
-    "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
-    "titleZh": "蘋果削減內部人工智慧使用預算以減少支出",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
-    "image": null,
-    "pushedAt": "2026-11-05T03:02:34.787Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
     "title": "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
     "titleZh": "上訴法院允許馬姆達尼推進臨時住所稅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
     "image": null,
     "pushedAt": "2026-11-06T18:54:01.312Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
+    "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
+    "titleZh": "川普的能源政策如何引發中期選舉潰敗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T18:54:28.040Z"
   }
 ]
