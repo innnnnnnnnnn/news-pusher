@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51",
-    "title": "Eurozone inflation rises to 4% in October",
-    "titleZh": "歐元區10月通膨升至4%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T11:05:05.077Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/boehringer-sino-enter-cancer-drug-deal-worth-over-7-billion",
     "title": "Boehringer, Sino Enter Cancer Drug Deal Worth Over $7 Billion",
     "titleZh": "勃林格殷格翰與信諾達成價值超過 70 億美元的癌症藥物交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-06T11:59:16.404Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
+    "title": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
+    "titleZh": "一段火爆的影片能拯救她媽媽的中餐館嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-restaurant-promo-wpgl/20xp-restaurant-promo-wpgl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T11:59:44.076Z"
   }
 ]
