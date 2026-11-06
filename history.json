@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
-    "title": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
-    "titleZh": "一段火爆的影片能拯救她媽媽的中餐館嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
-    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-restaurant-promo-wpgl/20xp-restaurant-promo-wpgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T11:00:11.058Z"
-  },
-  {
     "id": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51",
     "title": "Eurozone inflation rises to 4% in October",
     "titleZh": "歐元區10月通膨升至4%",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
     "image": null,
     "pushedAt": "2026-11-06T11:58:48.793Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+    "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+    "titleZh": "以色列總統可以在打破選舉後僵局方面發揮關鍵作用",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-06T11:59:16.404Z"
   }
 ]
