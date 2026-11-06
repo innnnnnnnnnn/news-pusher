@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-    "title": "Democrats Win Big",
-    "titleZh": "民主黨大獲全勝",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-theworld-midterms-virginia-qvcf/04int-theworld-midterms-virginia-qvcf-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-06T08:57:16.790Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
     "title": "European Stocks Rally as US Midterm Result Boosts Sentiment",
     "titleZh": "民主黨大獲全勝引發人工智慧擔憂，歐洲股市將下跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/kettner-the-ai-trade-hasn-t-fundamentally-changed-video",
     "image": null,
     "pushedAt": "2026-11-06T10:12:53.640Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+    "title": "Stocks Rise as Democrats Flip Control of Congress",
+    "titleZh": "隨著民主黨放棄國會控制權，股市上漲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-06T10:13:21.163Z"
   }
 ]
