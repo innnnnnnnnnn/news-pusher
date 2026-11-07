@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/deutsche-telekom-plans-2-billion-2027-buyback-after-profit-beat",
-    "title": "Deutsche Telekom Plans €2 Billion 2027 Buyback After Profit Beat",
-    "titleZh": "德國電信計劃在利潤超出預期後於 2027 年回購 20 億歐元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/deutsche-telekom-plans-2-billion-2027-buyback-after-profit-beat",
-    "image": null,
-    "pushedAt": "2026-11-05T08:29:37.217Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/commerzbank-quarterly-net-rises-45-ahead-of-unicredit-takeover",
     "title": "Commerzbank Quarterly Net Rises 45% Ahead of UniCredit Takeover",
     "titleZh": "德國商業銀行季度淨值在裕信銀行收購前成長 45%",
@@ -1248,7 +1239,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T12:29:51.179Z"
+    "pushedAt": "2026-11-07T14:51:09.660Z"
   },
   {
     "id": "https://www.ft.com/content/b9da150e-5086-4078-88e7-eebe0c6ad0dc",
@@ -5649,7 +5640,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T12:28:17.231Z"
+    "pushedAt": "2026-11-07T14:49:30.315Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
@@ -5658,7 +5649,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
     "image": null,
-    "pushedAt": "2026-11-07T12:28:41.037Z"
+    "pushedAt": "2026-11-07T14:49:55.045Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
@@ -6342,7 +6333,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06db-nasdaq-jmfb/06db-nasdaq-jmfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T12:30:15.009Z"
+    "pushedAt": "2026-11-07T14:51:33.949Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
@@ -6774,7 +6765,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/consumer-sentiment-still-very-negative-umich-s-hsu-says-video",
     "image": null,
-    "pushedAt": "2026-11-07T12:29:27.615Z"
+    "pushedAt": "2026-11-07T14:50:43.778Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-under-pressure-after-tech-rout-video",
@@ -8700,7 +8691,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
     "image": null,
-    "pushedAt": "2026-11-07T12:29:04.370Z"
+    "pushedAt": "2026-11-07T14:50:19.531Z"
   },
   {
     "id": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298",
@@ -8826,7 +8817,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
     "image": null,
-    "pushedAt": "2026-11-07T12:27:50.904Z"
+    "pushedAt": "2026-11-07T14:49:05.715Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/07dowd-hlqm/07dowd-hlqm-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-07T14:48:38.404Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+    "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
+    "titleZh": "心臟科醫師對兩種藥物的厚望是如何破滅的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-07T14:52:02.579Z"
   }
 ]
