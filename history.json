@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb",
-    "title": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists",
-    "titleZh": "英國《金融時報》經濟學家調查顯示，英國通膨率將於 2027 年達到 4.4% 的峰值",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-07T09:52:32.588Z"
-  },
-  {
     "id": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
     "title": "Morning in America, twilight in the markets",
     "titleZh": "美國的早晨，市場的黃昏",
@@ -1689,7 +1680,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T08:35:37.201Z"
+    "pushedAt": "2026-11-07T10:59:27.578Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
@@ -3984,7 +3975,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
     "image": null,
-    "pushedAt": "2026-11-07T08:35:12.741Z"
+    "pushedAt": "2026-11-07T10:59:03.809Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
@@ -6747,7 +6738,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-midterms-musk-market-wqlv/04biz-midterms-musk-market-wqlv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T08:36:02.215Z"
+    "pushedAt": "2026-11-07T10:59:50.847Z"
   },
   {
     "id": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7",
@@ -8223,7 +8214,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
     "image": null,
-    "pushedAt": "2026-11-07T08:34:47.526Z"
+    "pushedAt": "2026-11-07T10:58:40.046Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop",
@@ -8493,7 +8484,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/0ffopx6b4?ref=rss",
     "image": "https://cdn.flipso.com/p/0ffopx6b4_square.jpg",
-    "pushedAt": "2026-11-07T08:36:27.442Z"
+    "pushedAt": "2026-11-07T11:00:16.075Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-07T10:58:12.180Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
+    "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
+    "titleZh": "美國對川普的譴責不會迅速恢復加拿大與美國的和諧",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-canada-letter-cqlt/07int-canada-letter-cqlt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T11:00:42.476Z"
   }
 ]
