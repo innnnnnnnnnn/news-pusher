@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
-    "title": "China’s Copper Squeeze Deepens as Buyers Scramble for Metal",
-    "titleZh": "買家爭奪現貨金屬，中國銅擠壓加劇",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
-    "image": null,
-    "pushedAt": "2026-11-05T12:27:33.894Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
-    "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
-    "titleZh": "萬斯與川普決裂，將共和黨 2026 年中期選舉失敗歸咎於伊朗戰爭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-vance-tkpf/04dc-vance-tkpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T10:05:35.754Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/australia-s-surplus-heads-for-decade-low-on-chip-energy-imports",
     "title": "Australia’s Surplus Heads for Decade-Low on Chip, Energy Imports",
     "titleZh": "澳洲晶片和能源進口順差將跌至十年低位",
@@ -7341,7 +7323,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-sentiment-unexpectedly-rises-fueled-by-independents",
     "image": null,
-    "pushedAt": "2026-11-07T02:41:57.262Z"
+    "pushedAt": "2026-11-07T05:02:12.493Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
@@ -7350,7 +7332,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T02:42:51.740Z"
+    "pushedAt": "2026-11-07T05:03:02.383Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
@@ -7359,7 +7341,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04db-talarico-cqwp/04db-talarico-cqwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T02:43:15.337Z"
+    "pushedAt": "2026-11-07T05:03:27.510Z"
   },
   {
     "id": "https://www.ft.com/content/52770926-e4b9-4005-9e2f-332eb7dc6631",
@@ -8907,7 +8889,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ed6c0f3-c692-4ded-bbe5-a309ff2020c9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-07T02:42:25.609Z"
+    "pushedAt": "2026-11-07T05:02:37.877Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/b5b257db-f662-46b9-b5b3-e5c4f6063296?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-07T05:01:44.524Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+    "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+    "titleZh": "查爾斯國王在加勒比海之旅中不帶雨傘但很自在",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T05:03:54.171Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+    "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+    "titleZh": "法國計劃在充滿不滿的秋天再次舉行抗議活動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-photo-wmgh/07int-france-protest-photo-wmgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T05:03:58.563Z"
   }
 ]
