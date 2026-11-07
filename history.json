@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
-    "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-    "titleZh": "俄羅斯對烏克蘭人道主義中心的襲擊造成數十人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-ukraine-attack-photo-tqcl/02int-ukraine-attack-photo-tqcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T14:40:13.600Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
     "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
     "titleZh": "冰箱被駭客入侵了嗎？歐洲和美國軍方正在調查。",
@@ -852,7 +843,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-07T10:48:45.989Z"
+    "pushedAt": "2026-11-07T12:59:39.246Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
@@ -861,7 +852,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
     "image": null,
-    "pushedAt": "2026-11-07T10:49:58.313Z"
+    "pushedAt": "2026-11-07T13:00:50.578Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
@@ -7674,7 +7665,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
     "image": null,
-    "pushedAt": "2026-11-07T10:49:10.279Z"
+    "pushedAt": "2026-11-07T13:00:03.216Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
@@ -7683,7 +7674,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T10:49:34.654Z"
+    "pushedAt": "2026-11-07T13:00:26.947Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video",
     "image": null,
     "pushedAt": "2026-11-07T12:55:12.658Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+    "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+    "titleZh": "律師事務所有醫療事故保險。他們的人工智慧應該嗎？代理商？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T13:01:19.124Z"
   }
 ]
