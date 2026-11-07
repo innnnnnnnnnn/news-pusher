@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/yardeni-sees-inflation-cooling-says-us-yields-attractive-at-5",
-    "title": "Yardeni Sees Inflation Cooling, Says US Yields Attractive at 5%",
-    "titleZh": "亞德尼認為通膨正在降溫，稱美國 5% 的收益率具有吸引力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/yardeni-sees-inflation-cooling-says-us-yields-attractive-at-5",
-    "image": null,
-    "pushedAt": "2026-11-05T06:35:47.980Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/valeo-looks-to-china-as-role-model-in-reshaping-auto-parts-maker",
     "title": "Valeo Looks to China as Role Model in Reshaping Auto-Parts Maker",
     "titleZh": "法雷奧將中國視為重塑汽車零件製造商的榜樣",
@@ -3363,7 +3354,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-07T14:23:40.360Z"
+    "pushedAt": "2026-11-07T16:38:07.201Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
@@ -8871,7 +8862,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
     "image": null,
-    "pushedAt": "2026-11-07T14:24:08.274Z"
+    "pushedAt": "2026-11-07T16:38:31.436Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
     "image": null,
     "pushedAt": "2026-11-07T16:04:05.983Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
+    "title": "Schumer Lifts His Senate Standing With an Election Blowout",
+    "titleZh": "舒默以井噴選舉提升參議院地位",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-schumer-wgpk/07dc-schumer-wgpk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T16:38:58.360Z"
   }
 ]
