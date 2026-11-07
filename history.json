@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103",
-    "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
-    "titleZh": "FirstFT：官員們討論川普、普丁和習近平的會面",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T11:53:31.350Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
     "title": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy",
     "titleZh": "威廉諾德豪斯去世；諾貝爾獎得主影響氣候政策",
@@ -618,7 +609,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
     "image": null,
-    "pushedAt": "2026-11-07T15:20:33.698Z"
+    "pushedAt": "2026-11-07T17:28:07.058Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
@@ -627,7 +618,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
     "image": null,
-    "pushedAt": "2026-11-07T15:21:23.123Z"
+    "pushedAt": "2026-11-07T17:28:56.610Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/nordic-alliance-seeks-one-public-market-to-stem-listings-to-us",
@@ -7440,7 +7431,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T15:20:09.336Z"
+    "pushedAt": "2026-11-07T17:27:42.595Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
@@ -8763,7 +8754,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T15:20:58.289Z"
+    "pushedAt": "2026-11-07T17:28:31.818Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-07T16:41:32.190Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+    "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+    "titleZh": "世界頂尖外交官的“混亂競賽”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T17:29:24.236Z"
   }
 ]
