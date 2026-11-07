@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
-    "title": "The New Zealand Election That Could ‘Flip the Table’",
-    "titleZh": "紐西蘭大選可能“翻轉局面”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
-    "image": "https://static01.nyt.com/images/2026/11/01/multimedia/00int-nz-election-top-jzwb/00int-nz-election-top-jzwb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T09:23:07.055Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
     "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
     "titleZh": "選民紛紛投票削弱獨裁者的規模",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-07T09:00:14.363Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+    "title": "Why Israel’s Ex-Army Chief’s Next Mission Could Be Mission Impossible",
+    "titleZh": "為什麼以色列前陸軍參謀長的下一個任務可能是不可能的任務",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T09:50:51.537Z"
   }
 ]
