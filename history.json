@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/04094401-1966-4bc1-8aa7-b91ea8bf680c",
-    "title": "Markets surf the blue wave",
-    "titleZh": "市場乘風破浪",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/04094401-1966-4bc1-8aa7-b91ea8bf680c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T14:14:47.341Z"
-  },
-  {
     "id": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347",
     "title": "Hong Kong sentences democracy activist Joshua Wong to 10 years",
     "titleZh": "香港判處民主活動人士黃之鋒十年徒刑",
@@ -2121,7 +2112,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T18:15:18.207Z"
+    "pushedAt": "2026-11-07T20:25:53.725Z"
   },
   {
     "id": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd",
@@ -5190,7 +5181,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29trav-elnino-skiing-vptl/29trav-elnino-skiing-vptl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T18:15:42.467Z"
+    "pushedAt": "2026-11-07T20:26:18.656Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
     "image": null,
     "pushedAt": "2026-11-07T20:06:08.202Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163",
+    "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
+    "titleZh": "以色列總統給予加迪·艾森科特組建政府的第一次機會",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F69d4d3cb-e587-4b42-9e85-1739ab0deb7f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-07T20:26:46.114Z"
   }
 ]
