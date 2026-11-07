@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/valeo-looks-to-china-as-role-model-in-reshaping-auto-parts-maker",
-    "title": "Valeo Looks to China as Role Model in Reshaping Auto-Parts Maker",
-    "titleZh": "法雷奧將中國視為重塑汽車零件製造商的榜樣",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/valeo-looks-to-china-as-role-model-in-reshaping-auto-parts-maker",
-    "image": null,
-    "pushedAt": "2026-11-05T11:16:17.887Z"
-  },
-  {
     "id": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103",
     "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
     "titleZh": "FirstFT：官員們討論川普、普丁和習近平的會面",
@@ -1779,7 +1770,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
     "image": null,
-    "pushedAt": "2026-11-07T14:24:34.666Z"
+    "pushedAt": "2026-11-07T16:39:25.515Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
@@ -1788,7 +1779,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
     "image": null,
-    "pushedAt": "2026-11-07T14:24:58.654Z"
+    "pushedAt": "2026-11-07T16:39:50.075Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
@@ -2400,7 +2391,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T14:26:09.698Z"
+    "pushedAt": "2026-11-07T16:40:39.964Z"
   },
   {
     "id": "https://www.ft.com/content/6f36556a-01e4-4767-b75d-806cee8e2a06",
@@ -7260,7 +7251,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6c9d92ac-eba0-47c0-b4db-d9d5226e9891",
     "image": null,
-    "pushedAt": "2026-11-07T14:26:57.139Z"
+    "pushedAt": "2026-11-07T16:41:04.636Z"
   },
   {
     "id": "https://www.ft.com/content/dfd9316e-7a19-445a-a781-80197a05d3f3",
@@ -7971,7 +7962,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
     "image": null,
-    "pushedAt": "2026-11-07T14:25:45.505Z"
+    "pushedAt": "2026-11-07T16:40:15.121Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-schumer-wgpk/07dc-schumer-wgpk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-07T16:38:58.360Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+    "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+    "titleZh": "也門戰爭最慘重的 24 小時之一造成 50 多人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T16:41:32.190Z"
   }
 ]
