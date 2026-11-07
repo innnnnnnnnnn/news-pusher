@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85",
-    "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
-    "titleZh": "英國《金融時報》民調顯示，絕大多數美國選民不贊成川普對通膨的處理方式",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T09:34:58.277Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
     "title": "The New Zealand Election That Could ‘Flip the Table’",
     "titleZh": "紐西蘭大選可能“翻轉局面”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack",
     "image": null,
     "pushedAt": "2026-11-07T08:59:42.005Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+    "title": "After Barricades, Riots and Protests, French Workers Go on Strike",
+    "titleZh": "路障、暴動和抗議後，法國工人繼續罷工",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T09:00:14.363Z"
   }
 ]
