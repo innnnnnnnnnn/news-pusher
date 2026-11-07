@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
-    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
-    "titleZh": "川普將南非從非洲增長和機會法案貿易計劃中刪除",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-safrica-agoa-1-mwfk/02int-safrica-agoa-1-mwfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T14:42:54.142Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
     "title": "William Nordhaus Pioneered Putting a Price on Pollution",
     "titleZh": "威廉諾德豪斯率先為污染定價",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
     "image": null,
     "pushedAt": "2026-11-07T13:04:58.354Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+    "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+    "titleZh": "川普推動的華盛頓加密貨幣繁榮已達到尾聲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+    "image": null,
+    "pushedAt": "2026-11-07T13:06:15.096Z"
   }
 ]
