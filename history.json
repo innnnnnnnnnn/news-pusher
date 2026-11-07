@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/german-factory-orders-partially-rebound-on-automotive-pickup",
-    "title": "German Factory Orders Partially Rebound on Automotive Pickup",
-    "titleZh": "德國工廠訂單因汽車皮卡而部分反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/german-factory-orders-partially-rebound-on-automotive-pickup",
-    "image": null,
-    "pushedAt": "2026-11-05T11:55:37.532Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/bt-reports-higher-profit-after-cutting-costs-adding-fiber-users",
     "title": "BT Profit Rises After Cutting Costs, Adding Fiber Users",
     "titleZh": "英國電信 (BT) 報告稱，削減成本、增加光纖用戶後利潤更高",
@@ -402,7 +393,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
     "image": null,
-    "pushedAt": "2026-11-07T19:33:56.776Z"
+    "pushedAt": "2026-11-07T21:42:56.548Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
@@ -411,7 +402,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
-    "pushedAt": "2026-11-07T19:34:45.184Z"
+    "pushedAt": "2026-11-07T21:43:46.592Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/how-democrats-lit-a-prairie-fire",
@@ -1068,7 +1059,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
     "image": null,
-    "pushedAt": "2026-11-07T19:33:31.973Z"
+    "pushedAt": "2026-11-07T21:42:31.853Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-05/milei-afloja-presion-fiscal-tras-golpe-a-pequenas-empresas-mw3jht9x",
@@ -2805,7 +2796,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/q6mvy9ctn?ref=rss",
     "image": "https://cdn.flipso.com/p/q6mvy9ctn_square.jpg",
-    "pushedAt": "2026-11-07T19:33:06.118Z"
+    "pushedAt": "2026-11-07T21:42:06.592Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
@@ -8295,7 +8286,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/f2o35xkoc?ref=rss",
     "image": "https://cdn.flipso.com/p/f2o35xkoc_square.jpg",
-    "pushedAt": "2026-11-07T19:34:21.086Z"
+    "pushedAt": "2026-11-07T21:43:20.955Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/ecb-candidate-de-cos-says-vigilance-needed-on-inflation-risks",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
     "image": null,
     "pushedAt": "2026-11-07T21:06:48.172Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html",
+    "title": "Why White Working-Class Voters Shifted Left in the Midterms",
+    "titleZh": "為什麼白人工人階級選民在中期選舉中向左傾斜",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07pol-white-working-class-tcwv/07pol-white-working-class-tcwv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T21:44:14.660Z"
   }
 ]
