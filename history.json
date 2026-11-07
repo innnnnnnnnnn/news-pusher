@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/ascendas-firstspace-said-to-consider-500-million-india-ipo",
-    "title": "Ascendas Firstspace Said to Consider $500 Million India IPO",
-    "titleZh": "據稱起飛 Firstspace 將考慮在印度進行 5 億美元的首次公開募股",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/ascendas-firstspace-said-to-consider-500-million-india-ipo",
-    "image": null,
-    "pushedAt": "2026-11-05T06:31:53.798Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/dip-holding-ipo-more-or-less-4-times-oversubscribed-video",
     "title": "DIP Holding: IPO More or Less 4 Times Oversubscribed",
     "titleZh": "DIP控股：IPO多或少4倍​​超額認購",
@@ -789,7 +780,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T13:22:16.657Z"
+    "pushedAt": "2026-11-07T15:39:41.480Z"
   },
   {
     "id": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e",
@@ -1464,7 +1455,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-uk-ebola-patient-htbc/05int-uk-ebola-patient-htbc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T13:22:40.721Z"
+    "pushedAt": "2026-11-07T15:40:07.562Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/boe-sees-case-for-another-hike-if-iran-war-doesn-t-end-video",
@@ -3705,7 +3696,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
     "image": null,
-    "pushedAt": "2026-11-07T13:23:04.664Z"
+    "pushedAt": "2026-11-07T15:40:31.922Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years",
@@ -4209,7 +4200,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
     "image": null,
-    "pushedAt": "2026-11-07T13:23:28.384Z"
+    "pushedAt": "2026-11-07T15:40:56.402Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
@@ -4452,7 +4443,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-saildrone-jtqg/03dc-saildrone-jtqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T13:21:02.983Z"
+    "pushedAt": "2026-11-07T15:38:52.741Z"
   },
   {
     "id": "https://flipso.com/p/4f79auseo",
@@ -8124,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video",
     "image": null,
-    "pushedAt": "2026-11-07T13:21:26.447Z"
+    "pushedAt": "2026-11-07T15:39:17.278Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
     "image": null,
     "pushedAt": "2026-11-07T15:38:25.761Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+    "title": "Gunman Opens Fire in Krakow, Killing at Least 5, Polish Police Say",
+    "titleZh": "波蘭警方稱，槍手在克拉科夫開槍，造成至少 5 人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-pcgh/07int-poland-shooting-pcgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-07T15:41:23.930Z"
   }
 ]
