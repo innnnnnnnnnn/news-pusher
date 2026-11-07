@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
-    "title": "Morning in America, twilight in the markets",
-    "titleZh": "美國的早晨，市場的黃昏",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F64f2405f-a768-4f42-a609-416310d38d1d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T03:03:14.324Z"
-  },
-  {
     "id": "https://www.ft.com/content/802f1077-0c5d-418e-9ebc-e391816061f0",
     "title": "Paris’s new wave of fire-cooking restaurants",
     "titleZh": "巴黎新火熱烹飪餐廳浪潮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-canada-letter-cqlt/07int-canada-letter-cqlt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-07T11:00:42.476Z"
+  },
+  {
+    "id": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb",
+    "title": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists",
+    "titleZh": "英國《金融時報》經濟學家調查顯示，英國通膨率將於 2027 年達到 4.4% 的峰值",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-07T11:01:09.843Z"
   }
 ]
