@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-    "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
-    "titleZh": "冰箱被駭客入侵了嗎？歐洲和美國軍方正在調查。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T15:33:37.821Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
     "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
     "titleZh": "川普將南非從非洲增長和機會法案貿易計劃中刪除",
@@ -96,7 +87,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-07T10:51:57.080Z"
+    "pushedAt": "2026-11-07T13:03:21.055Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/marriott-bets-on-asia-as-hotel-and-travel-demand-grows-video",
@@ -861,7 +852,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
     "image": null,
-    "pushedAt": "2026-11-07T10:50:21.765Z"
+    "pushedAt": "2026-11-07T13:01:45.344Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/nordic-alliance-seeks-one-public-market-to-stem-listings-to-us",
@@ -3255,7 +3246,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-theworld-kpop-contracts-01-zwmq-promo/06int-theworld-kpop-contracts-01-zwmq-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T10:52:21.162Z"
+    "pushedAt": "2026-11-07T13:03:44.669Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/man-claims-in-suit-chatgpt-encouraged-his-wife-to-poison-him",
@@ -3759,7 +3750,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T10:51:33.590Z"
+    "pushedAt": "2026-11-07T13:02:57.071Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/former-turkish-minister-kaya-arrested-in-funds-probe-aa-says",
@@ -5073,7 +5064,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-trump-fox-topart-01-khbw/03biz-trump-fox-topart-01-khbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T10:51:09.862Z"
+    "pushedAt": "2026-11-07T13:02:33.600Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/edelweiss-shah-says-india-is-regaining-investor-appeal-video",
@@ -8286,7 +8277,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
     "image": null,
-    "pushedAt": "2026-11-07T10:50:46.238Z"
+    "pushedAt": "2026-11-07T13:02:10.092Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-07T13:01:19.124Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+    "title": "Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise",
+    "titleZh": "波克夏海瑟威的營業利潤下降，回購增加",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+    "image": null,
+    "pushedAt": "2026-11-07T13:04:58.354Z"
   }
 ]
