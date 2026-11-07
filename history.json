@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/toyota-sets-up-robot-unit-as-carmakers-push-new-technology",
-    "title": "Toyota Sets Up Robot Unit as Carmakers Push New Technology",
-    "titleZh": "豐田設立機器人部門，汽車製造商推動新技術",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/toyota-sets-up-robot-unit-as-carmakers-push-new-technology",
-    "image": null,
-    "pushedAt": "2026-11-05T07:10:23.234Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
     "title": "After Barricades, Riots and Protests, French Workers Go on Strike",
     "titleZh": "首先，法國發生騷亂和抗議。現在正在為總罷工做好準備。",
@@ -1293,7 +1284,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-07T06:34:36.656Z"
+    "pushedAt": "2026-11-07T08:49:58.912Z"
   },
   {
     "id": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f",
@@ -7422,7 +7413,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-07T06:35:28.748Z"
+    "pushedAt": "2026-11-07T08:50:23.766Z"
   },
   {
     "id": "https://www.ft.com/content/3a70a224-6d6c-4480-bd14-241fe3f6a987",
@@ -7431,7 +7422,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3a70a224-6d6c-4480-bd14-241fe3f6a987?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-07T06:37:39.435Z"
+    "pushedAt": "2026-11-07T08:52:31.001Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
@@ -8403,7 +8394,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
     "image": null,
-    "pushedAt": "2026-11-07T06:35:54.260Z"
+    "pushedAt": "2026-11-07T08:50:49.685Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
@@ -8412,7 +8403,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T06:36:20.061Z"
+    "pushedAt": "2026-11-07T08:51:15.592Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
@@ -8421,7 +8412,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-pope-1-fpkg/04int-pope-1-fpkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T06:36:47.566Z"
+    "pushedAt": "2026-11-07T08:51:41.468Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video",
@@ -8646,7 +8637,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
     "image": null,
-    "pushedAt": "2026-11-07T06:37:13.670Z"
+    "pushedAt": "2026-11-07T08:52:06.267Z"
   },
   {
     "id": "https://www.ft.com/content/ac76efa6-a309-41c6-ab51-b64225f2c18b",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
     "image": null,
     "pushedAt": "2026-11-07T08:49:31.414Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-07/china-s-ndrc-flags-weak-demand-as-challenge-for-nation-s-economy",
+    "title": "China’s NDRC Flags Weak Demand as Challenge for Nation’s Economy",
+    "titleZh": "中國國家發改委將需求疲軟視為國家經濟面臨的挑戰",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-s-ndrc-flags-weak-demand-as-challenge-for-nation-s-economy",
+    "image": null,
+    "pushedAt": "2026-11-07T08:52:58.160Z"
   }
 ]
