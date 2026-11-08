@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/05/how-democrats-won-the-biggest-congressional-landslide-in-50-years",
-    "title": "How Democrats won the biggest congressional landslide in 50 years",
-    "titleZh": "民主黨如何贏得50年來最大的國會壓倒性勝利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/05/how-democrats-won-the-biggest-congressional-landslide-in-50-years",
-    "image": null,
-    "pushedAt": "2026-11-05T11:35:20.999Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/south-african-stocks-rally-most-in-seven-months-as-miners-soar",
-    "title": "South African Stocks Rally Most in Seven Months as Miners Soar",
-    "titleZh": "隨著礦商飆升，南非股市七個月來漲幅最大",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/south-african-stocks-rally-most-in-seven-months-as-miners-soar",
-    "image": null,
-    "pushedAt": "2026-11-05T11:35:48.550Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/china-plans-debut-yuan-bond-sales-in-canada-amid-warming-ties",
     "title": "China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties",
     "titleZh": "中美關係升溫之際，中國計劃在加拿大首次發行人民幣債券",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08french-lbvt/08french-lbvt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T14:14:55.064Z"
+  },
+  {
+    "id": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474",
+    "title": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+    "titleZh": "紅杉資本的新任執行長掃除了博塔時代的最後殘餘",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd86d7b88-cf27-4e89-81cd-23795c965cc1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-08T14:15:26.772Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896",
+    "title": "Dublin launches ‘blueprint’ for united Ireland",
+    "titleZh": "都柏林推出統一愛爾蘭的“藍圖”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb7619300-20e0-4d37-ac75-c3e89823930c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-08T14:15:33.324Z"
   }
 ]
