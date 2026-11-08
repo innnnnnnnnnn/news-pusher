@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/china-weighs-global-diesel-lifeline-against-tight-domestic-market",
-    "title": "China Weighs Global Diesel Lifeline Against Tight Domestic Market",
-    "titleZh": "中國權衡全球柴油生命線與國內市場緊張的情況",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/china-weighs-global-diesel-lifeline-against-tight-domestic-market",
-    "image": null,
-    "pushedAt": "2026-11-05T12:11:44.828Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/how-the-federal-reserve-emerged-as-a-winner-from-the-us-election",
     "title": "How the Federal Reserve Emerged as a Winner From the US Election",
     "titleZh": "聯準會如何成為美國大選的贏家",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
     "image": null,
     "pushedAt": "2026-11-08T15:54:09.713Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+    "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
+    "titleZh": "司法部考慮將《泰晤士報》列為科米洩密案的共謀者",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/Justice-New-York-Times-bfgk/Justice-New-York-Times-bfgk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T15:54:38.124Z"
   }
 ]
