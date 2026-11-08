@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
-    "title": "Big Tech Stocks Surge as Democrats Threaten to Slow AI Spending",
-    "titleZh": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
-    "image": null,
-    "pushedAt": "2026-11-05T13:52:34.256Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/ai-agents-how-meta-s-muse-openai-s-dots-work-what-they-can-do-safety-worries",
     "title": "AI Agents: How Meta’s Muse, OpenAI’s Dots Work, What They Can Do, Safety Worries",
     "titleZh": "AI 代理：Meta 的 Muse、OpenAI 的 Dots 如何運作、它們能做什麼、安全擔憂",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
     "image": null,
     "pushedAt": "2026-11-08T13:40:02.210Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
+    "title": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
+    "titleZh": "中國阻止軟銀以 54 億美元收購機器人業務，阻礙外國交易",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T13:40:30.631Z"
   }
 ]
