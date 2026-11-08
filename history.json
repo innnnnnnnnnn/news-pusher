@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/boe-united-in-delivering-first-rate-hike-in-three-years",
-    "title": "BOE United in Delivering First Rate Hike in Three Years",
-    "titleZh": "京東方聯合實現三年來首次升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/boe-united-in-delivering-first-rate-hike-in-three-years",
-    "image": null,
-    "pushedAt": "2026-11-06T01:08:26.397Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/banxico-seen-extending-rate-pause-after-growth-surge-day-guide",
     "title": "Banxico Seen Extending Rate Pause After Growth Surge: Day Guide",
     "titleZh": "Banxico 在成長激增後延長利率暫停：日間指南",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T16:59:52.297Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+    "title": "Trains Collide Near Cairo, Killing 4",
+    "titleZh": "開羅附近火車相撞，造成 4 人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T17:00:23.661Z"
   }
 ]
