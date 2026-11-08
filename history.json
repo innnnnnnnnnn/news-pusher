@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-    "title": "OpenAI to Change How It Handles Data Centers After Outcry",
-    "titleZh": "OpenAI 在強烈抗議後將改變其處理資料中心工作的方式",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-    "image": null,
-    "pushedAt": "2026-11-06T08:02:21.721Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/craft-beer-makers-strain-on-both-sides-of-us-canada-trade-clash",
-    "title": "Craft Beer Makers Strain on Both Sides of US-Canada Trade Clash",
-    "titleZh": "美加貿易衝突雙方都面臨精釀啤酒製造商的壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/craft-beer-makers-strain-on-both-sides-of-us-canada-trade-clash",
-    "image": null,
-    "pushedAt": "2026-11-05T17:17:09.857Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
     "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
     "titleZh": "韓國流行音樂爭議的根源是限制性的商業模式",
@@ -114,7 +96,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
     "image": null,
-    "pushedAt": "2026-11-08T03:53:01.210Z"
+    "pushedAt": "2026-11-08T06:03:40.384Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
@@ -123,7 +105,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
-    "pushedAt": "2026-11-08T03:53:48.499Z"
+    "pushedAt": "2026-11-08T06:04:28.578Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/how-democrats-lit-a-prairie-fire",
@@ -780,7 +762,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
     "image": null,
-    "pushedAt": "2026-11-08T03:52:37.755Z"
+    "pushedAt": "2026-11-08T06:03:16.378Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-05/milei-afloja-presion-fiscal-tras-golpe-a-pequenas-empresas-mw3jht9x",
@@ -8007,7 +7989,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/f2o35xkoc?ref=rss",
     "image": "https://cdn.flipso.com/p/f2o35xkoc_square.jpg",
-    "pushedAt": "2026-11-08T03:53:25.155Z"
+    "pushedAt": "2026-11-08T06:04:04.626Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/ecb-candidate-de-cos-says-vigilance-needed-on-inflation-risks",
@@ -8790,7 +8772,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
     "image": null,
-    "pushedAt": "2026-11-08T03:52:11.364Z"
+    "pushedAt": "2026-11-08T06:02:51.628Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
     "image": null,
     "pushedAt": "2026-11-08T05:44:27.803Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html",
+    "title": "Putin Just Killed Russia’s Last Independent Newspaper",
+    "titleZh": "普丁剛殺了俄羅斯最後一家獨立報紙",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html",
+    "image": null,
+    "pushedAt": "2026-11-08T06:04:54.921Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/opinion/midterms-america-government.html",
+    "title": "America Called. It Wants Its Government Back.",
+    "titleZh": "美國打來電話。它希望政府回來。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/opinion/midterms-america-government.html",
+    "image": null,
+    "pushedAt": "2026-11-08T06:05:00.944Z"
   }
 ]
