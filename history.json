@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-launches-new-9-99-a-month-lyft-go-subscription-with-dashpass",
-    "title": "Lyft Launches New $9.99-a-Month Lyft Go Subscription With DashPass",
-    "titleZh": "Lyft 透過 DashPass 推出每月 9.99 美元的 Lyft Go 訂閱服務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-launches-new-9-99-a-month-lyft-go-subscription-with-dashpass",
-    "image": null,
-    "pushedAt": "2026-11-05T15:29:51.821Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
     "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
     "titleZh": "儘管管線和煉油廠遭受破壞性攻擊，沙烏地阿美公司獲利仍大幅成長",
@@ -3165,7 +3156,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T16:42:58.294Z"
+    "pushedAt": "2026-11-08T18:36:36.011Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
@@ -3174,7 +3165,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T16:43:21.685Z"
+    "pushedAt": "2026-11-08T18:36:59.590Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
@@ -8493,7 +8484,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1401fe6f-52a2-4639-bed3-67cc828085f1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a8b972b-df50-4b44-b7f0-beee657b68e5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-08T16:43:46.669Z"
+    "pushedAt": "2026-11-08T18:37:23.276Z"
   },
   {
     "id": "https://www.ft.com/content/fe954496-6a1b-4644-9a7d-d99c53276bfd",
@@ -8502,7 +8493,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fe954496-6a1b-4644-9a7d-d99c53276bfd?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56024050-9062-48d2-a35e-fd3af0135113.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-08T16:44:11.272Z"
+    "pushedAt": "2026-11-08T18:37:47.346Z"
   },
   {
     "id": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe",
@@ -8709,7 +8700,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
     "image": null,
-    "pushedAt": "2026-11-08T16:44:36.112Z"
+    "pushedAt": "2026-11-08T18:38:10.986Z"
   },
   {
     "id": "https://www.ft.com/content/cbab2db2-3180-40c5-8fa6-af51adc74768",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/004c0408-c81f-4104-a514-ed307df8890d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-08T18:36:09.573Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/politics/rubio-warned-officials-about-nvidia-chiefs-entanglement-with-chinese-spy.html",
+    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+    "titleZh": "盧比歐警告官員有關英偉達執行長與中國間諜的糾葛",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-warned-officials-about-nvidia-chiefs-entanglement-with-chinese-spy.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T18:38:38.772Z"
   }
 ]
