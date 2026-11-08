@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-partner-hon-hai-s-sales-rise-46-thanks-to-ai-demand",
-    "title": "Nvidia Partner Hon Hai’s Sales Rise 46% Thanks to AI Demand",
-    "titleZh": "由於人工智慧需求，英偉達合作夥伴鴻海銷售額成長 46%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-partner-hon-hai-s-sales-rise-46-thanks-to-ai-demand",
-    "image": null,
-    "pushedAt": "2026-11-05T12:42:27.011Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video",
-    "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-    "titleZh": "藍色浪潮席捲韓國重量級人物，中國股市飆升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-05T10:30:37.537Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
-    "title": "European Stocks Reverse Gains as Tech Rout Builds, Defense Drops",
-    "titleZh": "人工智慧放鬆提振該地區，歐洲股市創下新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
-    "image": null,
-    "pushedAt": "2026-11-05T18:08:12.616Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/nuveen-sees-attractive-opportunities-in-ai-credit-video",
-    "title": "Nuveen's Cooper Sees Attractive Opportunities in AI Credit",
-    "titleZh": "Nuveen 看到人工智慧信貸領域的誘人機會（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/nuveen-sees-attractive-opportunities-in-ai-credit-video",
-    "image": null,
-    "pushedAt": "2026-11-05T13:12:20.225Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/spain-to-increase-minimum-wage-by-5-3-ahead-of-key-election",
     "title": "Spain to Increase Minimum Wage by 5.3% Ahead of Key Election",
     "titleZh": "西班牙將在關鍵選舉前將最低工資提高 5.3%",
@@ -8998,5 +8962,41 @@
     "url": "https://www.ft.com/content/bec8ac4e-4c1d-424a-92af-f7330d9024d2?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-08T05:02:34.092Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+    "title": "South Africa’s Politics May Never Be the Same Again",
+    "titleZh": "南非的政治可能再也不會一樣了",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T05:03:51.287Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+    "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+    "titleZh": "污染嚴重的德里在排燈節嘗試「綠色」煙火淨化空氣",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-diwali-pollution-01-qwjm/08int-diwali-pollution-01-qwjm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T05:03:55.799Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+    "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+    "titleZh": "薩摩亞廚師將家鄉風味帶入紐西蘭美食界",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T05:03:59.460Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+    "title": "The Small-Town Colossus Faces the End of the Road",
+    "titleZh": "小鎮巨人面臨路的盡頭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T05:04:03.866Z"
   }
 ]
