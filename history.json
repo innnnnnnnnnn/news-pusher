@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-questions-lenders-about-risky-data-center-loans",
-    "title": "Bank of England Questions Lenders About Risky Data Center Loans",
-    "titleZh": "英格蘭銀行向貸款人詢問資料中心貸款風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-questions-lenders-about-risky-data-center-loans",
-    "image": null,
-    "pushedAt": "2026-11-05T17:30:32.609Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/pound-strength-gauge-hits-highest-since-2016-ahead-of-boe-hike",
     "title": "Pound Gauge Hits Strongest Since Brexit Vote on Likely BOE Hike",
     "titleZh": "在英國央行升息之前，英鎊強度指數創 2016 年以來新高",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
     "image": null,
     "pushedAt": "2026-11-08T10:02:34.300Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+    "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+    "titleZh": "是什麼塑造了 Anthropic 執行長 Dario Amodei 對人工智慧的思考？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-08T10:03:02.917Z"
   }
 ]
