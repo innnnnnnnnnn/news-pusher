@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
-    "title": "As hackers run riot with AI, its makers want to cash in",
-    "titleZh": "隨著駭客對人工智慧的肆虐，其製造商希望從中獲利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
-    "image": null,
-    "pushedAt": "2026-11-08T18:16:40.286Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
     "title": "6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year",
     "titleZh": "布魯克林低層火災造成六人死亡",
@@ -1113,7 +1104,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T17:49:05.208Z"
+    "pushedAt": "2026-11-08T19:43:34.540Z"
   },
   {
     "id": "https://www.ft.com/content/a66657a8-c77a-4e67-b392-10d0904f31b6",
@@ -8700,7 +8691,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
     "image": null,
-    "pushedAt": "2026-11-08T17:49:28.939Z"
+    "pushedAt": "2026-11-08T19:43:58.235Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
@@ -8709,7 +8700,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/Justice-New-York-Times-bfgk/Justice-New-York-Times-bfgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T17:49:52.378Z"
+    "pushedAt": "2026-11-08T19:44:21.648Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
     "image": null,
     "pushedAt": "2026-11-08T19:21:06.078Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
+    "title": "Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?",
+    "titleZh": "民主黨現在有辦法避開選舉團制度。它會起作用嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-04-compact-index/2026-11-04-compact-index-mediumSquareAt3X-v18.png",
+    "pushedAt": "2026-11-08T19:44:48.097Z"
   }
 ]
