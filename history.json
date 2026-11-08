@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
-    "title": "Bank of England raises rates to 4 per cent alongside hawkish inflation forecasts",
-    "titleZh": "英國央行將利率上調至 4%，同時通膨預測趨於鷹派",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
-    "image": null,
-    "pushedAt": "2026-11-08T16:06:15.432Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/features/2026-11-05/milei-afloja-presion-fiscal-tras-golpe-a-pequenas-empresas-mw3jht9x",
-    "title": "Milei afloja presión fiscal tras golpe a pequeñas empresas",
-    "titleZh": "Milei afloja presión 財政 tras golpe 和 pequeñas empresas",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/features/2026-11-05/milei-afloja-presion-fiscal-tras-golpe-a-pequenas-empresas-mw3jht9x",
-    "image": null,
-    "pushedAt": "2026-11-06T01:29:49.789Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/russia-refinery-payouts-hit-highest-since-2022-in-blow-to-budget",
     "title": "Russia Refinery Payouts Hit Highest Since 2022 in Blow to Budget",
     "titleZh": "俄羅斯煉油廠支出創 2022 年以來最高，預算受到打擊",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-08/-godzilla-minus-zero-tops-box-office-in-win-for-japanese-film",
     "image": null,
     "pushedAt": "2026-11-08T17:55:24.023Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
+    "title": "The Texas-size Political Tremor Rattling Big Business",
+    "titleZh": "德州規模的政治震動震驚了大企業",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05db-hinojosa-jvpm/05db-hinojosa-jvpm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T17:55:50.408Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
+    "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+    "titleZh": "關注華爾街、波蘭致命大規模槍擊事件、藍潮過後重返工作崗位",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-08T17:55:55.335Z"
   }
 ]
