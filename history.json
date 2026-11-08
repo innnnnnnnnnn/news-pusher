@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/the-pulse-11-5-2026-video",
-    "title": "Trump Faces Backlash After Midterm Election Rout",
-    "titleZh": "川普在中期選舉潰敗後面臨強烈反對",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/the-pulse-11-5-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-05T11:49:36.205Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
     "title": "Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated.",
     "titleZh": "每個人都在談論「藍色海嘯」。在日本，情況很複雜。",
@@ -8043,7 +8034,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:27:08.078Z"
+    "pushedAt": "2026-11-08T14:32:34.282Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
     "image": null,
     "pushedAt": "2026-11-08T14:32:06.409Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
+    "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
+    "titleZh": "對川普和美國來說，選舉結果明確，但未來卻黯淡無光",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-assess-lphq/08dc-assess-lphq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T14:32:59.493Z"
   }
 ]
