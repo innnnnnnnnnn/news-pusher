@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073",
-    "title": "European stocks overtake Wall Street following Democratic sweep",
-    "titleZh": "民主黨橫掃歐洲股市逼近歷史新高",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T04:57:06.588Z"
-  },
-  {
     "id": "https://www.ft.com/content/290cf85b-6d95-4c79-af9b-e2a3d79072f6",
     "title": "Bank of England raises interest rates to 4% in bid to tame inflation",
     "titleZh": "英國央行將三年來首次升息以對抗通膨",
@@ -2112,7 +2103,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-theworld-kpop-contracts-01-zwmq-promo/06int-theworld-kpop-contracts-01-zwmq-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:02:19.751Z"
+    "pushedAt": "2026-11-08T14:05:19.423Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/man-claims-in-suit-chatgpt-encouraged-his-wife-to-poison-him",
@@ -8628,7 +8619,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
     "image": null,
-    "pushedAt": "2026-11-08T12:01:29.070Z"
+    "pushedAt": "2026-11-08T14:04:29.319Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
@@ -8637,7 +8628,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-08T12:01:54.496Z"
+    "pushedAt": "2026-11-08T14:04:54.240Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
@@ -8646,7 +8637,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:02:45.777Z"
+    "pushedAt": "2026-11-08T14:05:44.404Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
@@ -8655,7 +8646,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:03:10.782Z"
+    "pushedAt": "2026-11-08T14:06:09.042Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
@@ -8664,7 +8655,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:03:37.844Z"
+    "pushedAt": "2026-11-08T14:06:33.718Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/26687a2b-85ef-4ea8-94d3-07debe920f5f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-08T13:44:19.586Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+    "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+    "titleZh": "一隻名叫奧利維亞的鴨子如何幫助通過了華盛頓特區的鵝肝禁令",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+    "image": null,
+    "pushedAt": "2026-11-08T14:07:01.394Z"
   }
 ]
