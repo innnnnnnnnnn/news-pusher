@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c",
-    "title": "Bomb threats issued against at least 20 more European flights",
-    "titleZh": "另有 12 架歐洲航班收到炸彈威脅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T04:22:22.302Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/ecb-s-zigman-sees-rather-big-chance-of-december-rate-hike",
-    "title": "ECB’s Zigman Sees ‘Rather Big Chance’ of December Rate Hike",
-    "titleZh": "歐洲央行齊格曼認為12月升息的“機會相當大”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/ecb-s-zigman-sees-rather-big-chance-of-december-rate-hike",
-    "image": null,
-    "pushedAt": "2026-11-05T18:11:17.337Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/world-bank-says-corruption-cost-kenya-900-million-on-railway",
-    "title": "World Bank Says Corruption Cost Kenya $900 Million on Railway",
-    "titleZh": "世界銀行稱肯亞鐵路貪腐損失達 9 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/world-bank-says-corruption-cost-kenya-900-million-on-railway",
-    "image": null,
-    "pushedAt": "2026-11-05T18:19:00.214Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c5706c21-47a7-4ef9-bc6d-fcbee741acda",
-    "title": "BT shares rally as investors sense ‘show me the money’ moment",
-    "titleZh": "隨著投資人感覺到「給我錢」時刻，英國電信股價上漲",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c5706c21-47a7-4ef9-bc6d-fcbee741acda?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T20:55:10.901Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-    "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
-    "titleZh": "“佛羅裡達州是共和黨最後的主要支柱”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-florida-redoubt-hvwj/05nat-florida-redoubt-hvwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T18:23:20.228Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
     "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
     "titleZh": "溫和民主黨增加了他們的人數和影響力",
@@ -8998,5 +8953,50 @@
     "url": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-scotus-gun-fjgz/05dc-scotus-gun-fjgz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T10:55:43.737Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "title": "AI is turning protectionists into free traders",
+    "titleZh": "人工智慧正在將保護主義者轉變為自由貿易者",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "image": null,
+    "pushedAt": "2026-11-08T10:56:14.782Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+    "title": "William Nordhaus, favourite economist of the right and the left",
+    "titleZh": "威廉諾德豪斯，左翼和右翼最愛的經濟學家",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+    "image": null,
+    "pushedAt": "2026-11-08T10:56:17.374Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "title": "Republicans are in for a brutal presidential contest",
+    "titleZh": "共和黨人將面臨殘酷的總統競選",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "image": null,
+    "pushedAt": "2026-11-08T10:56:20.500Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
+    "title": "Hero or liability? The debate over Abdul El-Sayed",
+    "titleZh": "英雄還是責任？關於阿卜杜勒·賽義德的辯論",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
+    "image": null,
+    "pushedAt": "2026-11-08T10:56:23.382Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
+    "title": "How the Democrats will wield their power",
+    "titleZh": "民主黨將如何運用權力",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
+    "image": null,
+    "pushedAt": "2026-11-08T10:56:27.069Z"
   }
 ]
