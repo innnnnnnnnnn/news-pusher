@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/briefing/change-is-coming.html",
-    "title": "Change Is Coming",
-    "titleZh": "變革即將來臨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/briefing/change-is-coming.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05themorning-nl-LEAD-02-hbkz/05themorning-nl-LEAD-02-hbkz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T19:33:27.659Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation",
     "title": "Bank of England Strikes Hawkish Tone With First Hike Since 2023",
     "titleZh": "英國央行一致升息，警告通膨率達 4.9%",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-cop31-war-swap-bgvm/08biz-cop31-war-swap-bgvm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T15:39:51.962Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
+    "title": "High Gas Prices Boost Sales of Hybrids for Toyota, Sending Its Stock Soaring",
+    "titleZh": "高油價推動豐田混合動力車銷售飆升，股價飆升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-toyota-tvgh/05biz-toyota-tvgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T15:40:21.155Z"
   }
 ]
