@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e44a00ff-e5f2-4d1b-af44-90f8a72898ce",
-    "title": "Europe can’t assume the old America is coming back",
-    "titleZh": "歐洲不能假設舊美國正在回歸",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e44a00ff-e5f2-4d1b-af44-90f8a72898ce?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4f9f893-517d-47c5-997a-72303df30bb6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-05T21:43:29.058Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/the-pulse-11-5-2026-video",
     "title": "Trump Faces Backlash After Midterm Election Rout",
     "titleZh": "川普在中期選舉潰敗後面臨強烈反對",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
     "image": null,
     "pushedAt": "2026-11-08T14:30:14.306Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
+    "title": "Seattle and Las Vegas Make Their NBA Pitch",
+    "titleZh": "西雅圖和拉斯維加斯打造 NBA 球場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
+    "image": null,
+    "pushedAt": "2026-11-08T14:32:06.409Z"
   }
 ]
