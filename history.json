@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
-    "title": "Tech Rout Erases Record $2.3 Trillion in Value as AI Fears Grow",
-    "titleZh": "隨著晶片拋售延續到第二天，美國股票期貨出現分歧",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
-    "image": null,
-    "pushedAt": "2026-11-05T23:20:59.393Z"
-  },
-  {
     "id": "https://www.ft.com/content/145d971b-d8bc-451c-8187-60155442983b",
     "title": "Can a veteran defender of the UAE’s record lead the UN?",
     "titleZh": "阿聯酋紀錄的資深捍衛者能否領導聯合國？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-08T18:58:33.673Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+    "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+    "titleZh": "以色列選舉沒有明確的獲勝者。這些政黨正試圖組成聯盟。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T18:59:00.111Z"
   }
 ]
