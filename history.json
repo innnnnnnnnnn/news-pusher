@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6cf3452b-ab86-429e-a129-96546c126fc4",
-    "title": "Japan’s interest rates are rising. Will young people lose out?",
-    "titleZh": "日本的利率正在上升。年輕人會輸嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6cf3452b-ab86-429e-a129-96546c126fc4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-05T10:22:15.554Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
     "title": "AI is turning protectionists into free traders",
     "titleZh": "人工智慧正在將保護主義者轉變為自由貿易者",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T10:04:03.234Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+    "title": "Can My Company Force Me to Reveal My Personal Email?",
+    "titleZh": "我的公司可以強迫我透露我的個人電子郵件嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T10:04:33.135Z"
   }
 ]
