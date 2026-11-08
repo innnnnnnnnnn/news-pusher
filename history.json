@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/the-opening-trade-11-05-2026-video",
-    "title": "UBS Cuts London Jobs, European Stocks Hit Fresh Record",
-    "titleZh": "瑞銀在倫敦裁員，歐洲股市創新紀錄",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/the-opening-trade-11-05-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-05T11:15:51.733Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/the-case-for-a-year-end-us-stocks-rally",
     "title": "The Case for a Year-End US Stocks Rally",
     "titleZh": "美股年終反彈的理由",
@@ -8772,7 +8763,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html",
     "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-bottoms/08mag-interview-bottoms-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T10:55:33.083Z"
+    "pushedAt": "2026-11-08T12:56:07.730Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
@@ -8781,7 +8772,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T10:55:35.030Z"
+    "pushedAt": "2026-11-08T12:56:32.425Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
@@ -8790,7 +8781,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T10:55:37.006Z"
+    "pushedAt": "2026-11-08T12:56:57.318Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
@@ -8799,7 +8790,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
     "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T10:55:38.948Z"
+    "pushedAt": "2026-11-08T12:57:22.496Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
@@ -8807,8 +8798,8 @@
     "titleZh": "神秘的請求擾亂了最高法院針對庫克縣的重大槍支案件",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-scotus-gun-fjgz/05dc-scotus-gun-fjgz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T10:55:43.737Z"
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/05dc-scotus-gun-fjgz/05dc-scotus-gun-fjgz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-08T12:57:47.481Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/asia-markets-brace-for-more-ai-volatility-video",
     "image": null,
     "pushedAt": "2026-11-08T12:55:39.586Z"
+  },
+  {
+    "id": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76",
+    "title": "Republican infighting mounts over corruption claims after midterms wipeout",
+    "titleZh": "中期選舉慘敗後，共和黨因腐敗指控而內訌加劇",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7b8736a-ff28-40d7-9cd9-f23ae8a23a6e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-08T12:58:15.998Z"
   }
 ]
