@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-    "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-    "titleZh": "是什麼塑造了 Anthropic 執行長 Dario Amodei 對人工智慧的思考？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-08T09:40:04.647Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
-    "title": "Elon Musk’s Very Bad Night",
-    "titleZh": "損失 4 億美元。 SpaceX 股票暴跌。伊隆馬斯克度過了一個艱難的選舉之夜。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T08:29:32.572Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-questions-lenders-about-risky-data-center-loans",
     "title": "Bank of England Questions Lenders About Risky Data Center Loans",
     "titleZh": "英格蘭銀行向貸款人詢問資料中心貸款風險",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/Biz-Anime_Video_still/13cul-comic-con-pflz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T10:02:02.447Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
+    "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
+    "titleZh": "勝利後，民主黨看到了削減成本和遏制川普的經濟使命",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T10:02:30.958Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
+    "title": "In the Style of P.C. Vey: The Funniest Reader Cartoons We Received",
+    "titleZh": "電腦風格Vey：我們收到的最有趣的讀者漫畫",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
+    "image": null,
+    "pushedAt": "2026-11-08T10:02:34.300Z"
   }
 ]
