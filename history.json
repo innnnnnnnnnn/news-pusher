@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-    "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
-    "titleZh": "芬蘭將兩名男子因破壞波羅的海海底電纜而入獄",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:11:15.625Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9c6a400c-2207-4b68-8fda-080f1cc30260",
-    "title": "Crude awakening: how oil has fuelled 150 years of conflict",
-    "titleZh": "猛然覺醒：石油如何助長了 150 年的衝突",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9c6a400c-2207-4b68-8fda-080f1cc30260",
-    "image": null,
-    "pushedAt": "2026-11-05T18:16:27.401Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/arkhouse-pushes-diller-s-people-inc-to-pursue-buyback-hq-sale",
-    "title": "Arkhouse Pushes Diller’s People Inc. to Pursue Buyback, HQ Sale",
-    "titleZh": "Arkhouse 推動 Diller’s People Inc. 尋求回購和出售總部",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/arkhouse-pushes-diller-s-people-inc-to-pursue-buyback-hq-sale",
-    "image": null,
-    "pushedAt": "2026-11-05T13:15:41.486Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/cocoa-falls-to-one-month-low-as-warehouse-stockpiles-rise",
     "title": "Cocoa Falls to One-Month Low as Warehouse Stockpiles Rise",
     "titleZh": "隨著倉庫庫存增加，可可跌至一個月低點",
@@ -4182,7 +4155,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
     "image": null,
-    "pushedAt": "2026-11-08T17:14:45.788Z"
+    "pushedAt": "2026-11-08T19:09:25.495Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/fast-money-systematic-funds-stoked-2-3-trillion-tech-stock-rout",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/1b67f9c7-b1ad-4b5b-b496-ac3a305ec841?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F526cec9a-3c65-4603-a2a4-892fd7cab257.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-08T19:08:59.549Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+    "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+    "titleZh": "民主黨推動問責制，傑弗里斯支持彈劾赫格斯",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-hegseth-cong-pvzl/08dc-hegseth-cong-pvzl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T19:09:51.142Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
+    "title": "Gina Hinojosa Takes on the Texas Government Republicans Built",
+    "titleZh": "吉娜·伊諾霍薩挑戰共和黨建立的德克薩斯州政府",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-Hinojosa-interview-fbql/08nat-Hinojosa-interview-fbql-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T19:09:54.529Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
+    "title": "In Talarico’s Texas, a Different Kind of Christianity Ascends",
+    "titleZh": "在塔拉里科的德克薩斯州，另一種基督教興起",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-texas-christianity-tflh/06nat-texas-christianity-tflh-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-08T19:09:59.266Z"
   }
 ]
