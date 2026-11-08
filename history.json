@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/maersk-s-outlook-for-global-trade",
-    "title": "Maersk’s outlook for global trade",
-    "titleZh": "馬士基對全球貿易的展望",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/maersk-s-outlook-for-global-trade",
-    "image": null,
-    "pushedAt": "2026-11-05T22:04:25.884Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/google-s-ai-classroom-policy-puts-schools-in-a-difficult-position",
     "title": "Google’s AI Classroom Policy Puts Schools in a Difficult Position",
     "titleZh": "谷歌的人工智慧課堂政策讓學校陷入困境",
@@ -8569,12 +8560,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html",
-    "title": "Keisha Lance Bottoms on What Democrats Can Do to Make Their Victory Last",
+    "title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
     "titleZh": "凱莎·蘭斯 (Keisha Lance) 探討民主黨如何才能取得最後的勝利",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html",
     "image": "https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-bottoms/08mag-interview-bottoms-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:56:07.730Z"
+    "pushedAt": "2026-11-08T15:02:59.769Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
@@ -8583,7 +8574,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:56:32.425Z"
+    "pushedAt": "2026-11-08T15:03:25.420Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
@@ -8592,7 +8583,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:56:57.318Z"
+    "pushedAt": "2026-11-08T15:03:50.412Z"
   },
   {
     "id": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
     "image": null,
     "pushedAt": "2026-11-08T15:02:28.950Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-08/trump-s-1-5-trillion-defense-budget-to-be-blocked-by-democrats",
+    "title": "Trump’s $1.5 Trillion Defense Budget to Be Blocked by Democrats",
+    "titleZh": "川普1.5兆美元國防預算將被民主黨阻止",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-08/trump-s-1-5-trillion-defense-budget-to-be-blocked-by-democrats",
+    "image": null,
+    "pushedAt": "2026-11-08T15:04:18.083Z"
   }
 ]
