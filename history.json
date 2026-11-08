@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
-    "title": "6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year",
-    "titleZh": "布魯克林低層火災造成六人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/nyregion/05xp-fire1-promo/05xp-fire1-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T05:10:32.334Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/bvk-pension-fund-raided-over-us-business-munich-prosecutors-say",
     "title": "Pension Fund Raid Deepens German Probe of Soured US Property Deals",
     "titleZh": "慕尼黑檢察官稱 BVK 退休基金美國企業遭到突襲搜查",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-04-compact-index/2026-11-04-compact-index-mediumSquareAt3X-v18.png",
     "pushedAt": "2026-11-08T19:44:48.097Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
+    "title": "As hackers run riot with AI, its makers want to cash in",
+    "titleZh": "隨著駭客對人工智慧的肆虐，其製造商希望從中獲利",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
+    "image": null,
+    "pushedAt": "2026-11-08T19:45:15.881Z"
   }
 ]
