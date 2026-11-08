@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
-    "title": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
-    "titleZh": "中國阻止軟銀以 54 億美元收購機器人業務，阻礙外國交易",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:28:46.808Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
     "title": "Big Tech Stocks Surge as Democrats Threaten to Slow AI Spending",
     "titleZh": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
@@ -6837,7 +6828,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/w3qklhygl?ref=rss",
     "image": "https://cdn.flipso.com/p/w3qklhygl_square.jpg",
-    "pushedAt": "2026-11-08T11:36:18.483Z"
+    "pushedAt": "2026-11-08T13:39:33.810Z"
   },
   {
     "id": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9",
@@ -8538,7 +8529,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/7yzk0gcs2?ref=rss",
     "image": "https://cdn.flipso.com/p/7yzk0gcs2_square.jpg",
-    "pushedAt": "2026-11-08T11:35:53.916Z"
+    "pushedAt": "2026-11-08T13:39:08.648Z"
   },
   {
     "id": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-08/indian-stocks-rise-in-special-diwali-trading-session-on-sunday",
     "image": null,
     "pushedAt": "2026-11-08T13:22:20.645Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
+    "title": "Democratic Sweep Tests Trump-Linked Trades Across Latin America",
+    "titleZh": "民主黨大獲全勝測試整個拉丁美洲與川普相關的交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
+    "image": null,
+    "pushedAt": "2026-11-08T13:40:02.210Z"
   }
 ]
