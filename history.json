@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/article/best-nyc-pizza-pizzeria.html",
-    "title": "The Best Pizza in New York City",
-    "titleZh": "紐約市最好的披薩",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/article/best-nyc-pizza-pizzeria.html",
-    "image": "https://static01.nyt.com/images/2024/10/29/multimedia/29best-pizza26-pwfv/29best-pizza26-pwfv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T15:51:48.141Z"
-  },
-  {
     "id": "https://www.nytimes.com/article/best-bagels-nyc.html",
     "title": "The Best Bagels in New York City",
     "titleZh": "紐約市的精選百吉餅",
@@ -7629,7 +7620,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8e34dba9-8ebc-4499-9274-f88d02ad691c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-08T09:18:41.342Z"
+    "pushedAt": "2026-11-08T11:18:43.376Z"
   },
   {
     "id": "https://www.ft.com/content/b9b88216-4285-467b-8aad-33e26ee2468a",
@@ -7638,7 +7629,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b9b88216-4285-467b-8aad-33e26ee2468a",
     "image": null,
-    "pushedAt": "2026-11-08T09:19:05.963Z"
+    "pushedAt": "2026-11-08T11:19:08.258Z"
   },
   {
     "id": "https://www.ft.com/content/bc1814b7-fbd0-4d05-8ba3-c61115c80735",
@@ -8178,7 +8169,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
     "image": null,
-    "pushedAt": "2026-11-08T09:19:30.589Z"
+    "pushedAt": "2026-11-08T11:19:34.370Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html",
@@ -8349,7 +8340,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/00xp-zelda-03/00xp-zelda-03-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-08T09:19:54.469Z"
+    "pushedAt": "2026-11-08T11:19:59.581Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F227855f8-d637-4764-9211-df5ce9634056.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-08T11:16:02.044Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
+    "title": "A Stake Through the Heart of Trump’s Red Map",
+    "titleZh": "貫穿川普紅地圖核心的一根木樁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08klein-qphw/08klein-qphw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T11:20:27.401Z"
   }
 ]
