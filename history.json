@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb",
-    "title": "What’s the real ROI for AI?",
-    "titleZh": "人工智慧的真正投資報酬率是多少？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T01:22:43.294Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
     "title": "The Texas-size Political Tremor Rattling Big Business",
     "titleZh": "德州規模的政治震動震驚了大企業",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
     "image": null,
     "pushedAt": "2026-11-08T17:36:52.949Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
+    "title": "The prairie fire behind the Democrats’ big win",
+    "titleZh": "民主黨大勝背後的燎原之火",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
+    "image": null,
+    "pushedAt": "2026-11-08T17:37:21.070Z"
   }
 ]
