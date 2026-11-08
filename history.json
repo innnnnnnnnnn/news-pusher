@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/spain-to-increase-minimum-wage-by-5-3-ahead-of-key-election",
-    "title": "Spain to Increase Minimum Wage by 5.3% Ahead of Key Election",
-    "titleZh": "西班牙將在關鍵選舉前將最低工資提高 5.3%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/spain-to-increase-minimum-wage-by-5-3-ahead-of-key-election",
-    "image": null,
-    "pushedAt": "2026-11-05T13:26:39.556Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market",
-    "title": "AI Skills Are Make or Break in UK’s Brutal Youth Jobs Market",
-    "titleZh": "人工智慧技能決定英國殘酷的青年就業市場的成敗",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market",
-    "image": null,
-    "pushedAt": "2026-11-05T11:05:39.003Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
     "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
     "titleZh": "以下是與以色列總統會面並推薦總理的人",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-08T05:04:03.866Z"
+  },
+  {
+    "id": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
+    "title": "What to Know About Diwali, the Hindu Festival of Lights",
+    "titleZh": "關於排燈節（印度教排燈節）的了解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07xp-diwali-hvcj/07xp-diwali-hvcj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T05:04:33.564Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html",
+    "title": "After ‘Babydoll’, Dominic Fike Embraces the Mess",
+    "titleZh": "《Babydoll》之後，多明尼克·菲克擁抱混亂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-08T05:04:38.004Z"
   }
 ]
