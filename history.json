@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0",
-    "title": "German car parts giant Schaeffler axes 3,500 jobs",
-    "titleZh": "德國汽車零件巨頭舍弗勒裁員3,500人",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T02:55:03.074Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
     "title": "Wanted: a news researcher in Beijing",
     "titleZh": "誠聘：北京新聞研究員",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
     "image": null,
     "pushedAt": "2026-11-09T00:15:05.101Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
+    "title": "Firms are racing to protect themselves from AI cyber threats",
+    "titleZh": "各公司競相保護自己免受人工智慧網路威脅",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
+    "image": null,
+    "pushedAt": "2026-11-09T00:15:34.319Z"
   }
 ]
