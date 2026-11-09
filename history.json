@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
-    "title": "US midterms 2026: live results",
-    "titleZh": "2026 年美國中期選舉：即時結果",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
-    "image": null,
-    "pushedAt": "2026-11-09T06:19:45.816Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term",
     "title": "Lula Consults Mantega, Leftist Economists on Fiscal Plans",
     "titleZh": "盧拉就新任期計畫諮詢曼特加和左翼經濟學家",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/ali-yasin-iran-war-forces-gcc-firms-to-rethink-ipos-video",
     "image": null,
     "pushedAt": "2026-11-09T06:30:07.984Z"
+  },
+  {
+    "id": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01",
+    "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
+    "titleZh": "由於擔心通膨根深蒂固，英國央行為進一步升息敞開大門",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T06:30:35.643Z"
   }
 ]
