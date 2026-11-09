@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/williams-says-fed-should-gather-information-to-judge-price-risks",
-    "title": "Williams Says Fed Should Gather Data to Judge Price Risks",
-    "titleZh": "威廉斯表示聯準會應收集資訊來判斷價格風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/williams-says-fed-should-gather-information-to-judge-price-risks",
-    "image": null,
-    "pushedAt": "2026-11-07T13:54:15.270Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
     "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
     "titleZh": "農場地區的搖擺幫助推動民主黨取得勝利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/paraguay-s-new-president-taps-ex-regulator-to-lead-central-bank",
     "image": null,
     "pushedAt": "2026-11-09T23:52:31.399Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+    "title": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
+    "titleZh": "艾伯塔省圖書館員準備迎接「圖書禁令」的新時代",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T23:53:01.419Z"
   }
 ]
