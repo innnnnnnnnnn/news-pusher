@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
-    "title": "ECB Is Gathering Data for Rate Decision in December, Lane Says",
-    "titleZh": "萊恩表示，歐洲央行正在收集 12 月利率決定的數據",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
-    "image": null,
-    "pushedAt": "2026-11-06T17:42:29.994Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
     "title": "After These Midterms, JD Vance Is in a Bind",
     "titleZh": "中期選舉後，JD Vance 陷入困境",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-farm-vote-01-hlmz/06biz-farm-vote-01-hlmz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T23:54:57.192Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+    "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+    "titleZh": "親屬稱，沙烏地阿拉伯領導的部隊轟炸也門住宅，炸死九名家庭成員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+    "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-09T23:55:27.462Z"
   }
 ]
