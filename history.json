@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/carney-bank-of-canada-renew-framework-to-focus-on-2-inflation-target",
-    "title": "Carney, Bank of Canada Renew Framework to Focus on 2% Inflation Target",
-    "titleZh": "卡尼與加拿大央行更新框架，重點關注 2% 通膨目標",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/carney-bank-of-canada-renew-framework-to-focus-on-2-inflation-target",
-    "image": null,
-    "pushedAt": "2026-11-06T15:02:19.258Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html",
     "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
     "titleZh": "紐約時報公司就收購 Letterboxd 進行進階談判",
@@ -2049,7 +2040,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:21:10.222Z"
+    "pushedAt": "2026-11-09T12:35:32.564Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
@@ -6729,7 +6720,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
     "image": null,
-    "pushedAt": "2026-11-09T10:19:57.641Z"
+    "pushedAt": "2026-11-09T12:34:44.093Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
@@ -6738,7 +6729,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
     "image": null,
-    "pushedAt": "2026-11-09T10:20:46.276Z"
+    "pushedAt": "2026-11-09T12:35:07.977Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/-godzilla-minus-zero-tops-box-office-in-win-for-japanese-film",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus",
     "image": null,
     "pushedAt": "2026-11-09T12:34:17.567Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+    "titleZh": "中國否認涉及英偉達執行長的間諜指控黃仁勳",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-china-huang-jvhc/09biz-china-huang-jvhc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T12:35:59.658Z"
   }
 ]
