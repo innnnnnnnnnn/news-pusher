@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
-    "title": "State-Driven Data Center Backlash Reshaping the AI Trade",
-    "titleZh": "國家驅動的資料中心強烈反對重塑人工智慧產業",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
-    "image": null,
-    "pushedAt": "2026-11-05T18:52:47.432Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile",
     "title": "How Musk’s Starlink Can Challenge AT&T, Verizon and T-Mobile",
     "titleZh": "馬斯克的星鏈如何挑戰 AT&T、Verizon 和 T-Mobile",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T05:03:24.975Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+    "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+    "titleZh": "受科技股拖累，股市抹去了中期選舉後的漲勢",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+    "image": null,
+    "pushedAt": "2026-11-09T05:03:52.968Z"
   }
 ]
