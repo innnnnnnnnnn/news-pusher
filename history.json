@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
-    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
-    "titleZh": "父母因人工智慧起訴谷歌學校 Chromebook 的安全風險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T03:46:41.735Z"
-  },
-  {
     "id": "https://www.ft.com/content/6f36556a-01e4-4767-b75d-806cee8e2a06",
     "title": "Top private equity dealmaker to quit UK for Greece",
     "titleZh": "頂級私募股權交易撮合者退出英國前往希臘",
@@ -915,7 +906,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
     "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-salon/05biz-salon-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T03:16:13.562Z"
+    "pushedAt": "2026-11-09T05:22:58.101Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
@@ -1473,7 +1464,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
     "image": null,
-    "pushedAt": "2026-11-09T03:15:24.112Z"
+    "pushedAt": "2026-11-09T05:22:09.042Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
@@ -3003,7 +2994,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-farm-vote-01-hlmz/06biz-farm-vote-01-hlmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T03:15:48.782Z"
+    "pushedAt": "2026-11-09T05:22:33.778Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
@@ -3012,7 +3003,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-09T03:17:05.145Z"
+    "pushedAt": "2026-11-09T05:23:46.156Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
@@ -4740,7 +4731,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-mcrib-cwpj/04xp-mcrib-cwpj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-09T03:16:38.290Z"
+    "pushedAt": "2026-11-09T05:23:22.144Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video",
     "image": null,
     "pushedAt": "2026-11-09T05:21:41.656Z"
+  },
+  {
+    "id": "https://www.ft.com/content/03b2f033-9e41-48e3-aae3-d512be2831ae",
+    "title": "Nvidia CEO admits to affair after allegations of relationship with Chinese spy",
+    "titleZh": "英偉達執行長在被指控與中國間諜有關係後承認有外遇",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/03b2f033-9e41-48e3-aae3-d512be2831ae?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T05:24:12.061Z"
   }
 ]
