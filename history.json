@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
-    "title": "Wanted: a news researcher in Beijing",
-    "titleZh": "誠聘：北京新聞研究員",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
-    "image": null,
-    "pushedAt": "2026-11-08T23:15:03.348Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
     "title": "The digital world is making Islam more diverse",
     "titleZh": "數位世界使伊斯蘭教更加多元",
@@ -1851,7 +1842,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T22:10:00.904Z"
+    "pushedAt": "2026-11-09T00:16:02.415Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/former-turkish-minister-kaya-arrested-in-funds-probe-aa-says",
@@ -7836,7 +7827,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
     "image": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T22:10:26.089Z"
+    "pushedAt": "2026-11-09T00:16:27.812Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
@@ -7845,7 +7836,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/Biz-Anime_Video_still/13cul-comic-con-pflz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T22:10:51.142Z"
+    "pushedAt": "2026-11-09T00:16:52.741Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
@@ -7854,7 +7845,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T22:11:16.704Z"
+    "pushedAt": "2026-11-09T00:17:18.348Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
@@ -7863,7 +7854,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
     "image": null,
-    "pushedAt": "2026-11-08T22:11:43.127Z"
+    "pushedAt": "2026-11-09T00:17:43.962Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
@@ -7872,7 +7863,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-08T22:12:09.937Z"
+    "pushedAt": "2026-11-09T00:18:09.972Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
     "image": null,
     "pushedAt": "2026-11-09T00:15:34.319Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer",
+    "title": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer",
+    "titleZh": "日本表示為期三天的日圓幹預措施在夏季提振了日元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer",
+    "image": null,
+    "pushedAt": "2026-11-09T00:18:37.325Z"
   }
 ]
