@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/fesharaki-says-oil-s-right-price-is-80-90-video",
-    "title": "Fesharaki Says Oil’s Right Price Is $80-$90",
-    "titleZh": "Fesharaki 稱石油合適價格為 80-90 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/fesharaki-says-oil-s-right-price-is-80-90-video",
-    "image": null,
-    "pushedAt": "2026-11-06T06:27:39.742Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/kb-financial-says-korea-stock-selloff-favors-buyers-video",
-    "title": "KB Financial Says Korea Stock Selloff Favors Buyers",
-    "titleZh": "KB Financial 稱韓國股市拋售有利於買家",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/kb-financial-says-korea-stock-selloff-favors-buyers-video",
-    "image": null,
-    "pushedAt": "2026-11-06T06:27:44.441Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/fonterra-s-allen-targets-value-led-growth-in-china-video",
     "title": "Fonterra's Allen Targets Value-Led Growth in China",
     "titleZh": "恆天然的艾倫目標是在中國以價值為導向的成長",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/concentration-risk-a-serious-issue-rob-arnott-video",
     "image": null,
     "pushedAt": "2026-11-09T19:44:12.044Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "title": "The future of Trumponomics: compromise or failure",
+    "titleZh": "川普經濟學的未來：妥協還是失敗",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "image": null,
+    "pushedAt": "2026-11-09T19:44:43.112Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
+    "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
+    "titleZh": "進步派反抗他們的政黨並贏得了巨大勝利。他們仍然感到被忽視。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09pol-progressive-wins-01-gqth/09pol-progressive-wins-01-gqth-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T19:44:50.156Z"
   }
 ]
