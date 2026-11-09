@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/rebekah-jurata-tapped-for-treasury-assistant-secretary-role",
-    "title": "Rebekah Jurata Tapped for Treasury Assistant Secretary Role",
-    "titleZh": "麗貝卡·尤拉塔 (Rebekah Jurata) 被任命為財政部助理部長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/rebekah-jurata-tapped-for-treasury-assistant-secretary-role",
-    "image": null,
-    "pushedAt": "2026-11-06T13:25:59.552Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
     "title": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay",
     "titleZh": "川普敦促委內瑞拉達成協議，允許美軍駐紮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
     "image": null,
     "pushedAt": "2026-11-09T12:31:01.505Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
+    "title": "Google Escalates Nvidia Rivalry With New Versions of Its TPU Systems",
+    "titleZh": "谷歌推出新版 TPU 系統，加劇與 Nvidia 的競爭",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
+    "image": null,
+    "pushedAt": "2026-11-09T12:31:31.582Z"
   }
 ]
