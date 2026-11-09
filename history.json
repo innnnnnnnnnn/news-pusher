@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-    "title": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
-    "titleZh": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-    "image": null,
-    "pushedAt": "2026-11-07T12:32:43.322Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/blue-owl-sees-gains-as-election-results-limit-ai-compute-supply",
     "title": "Blue Owl Sees Gains on Election Results Limiting AI Compute",
     "titleZh": "Blue Owl 因選舉結果限制人工智慧運算供應而獲益",
@@ -5154,7 +5145,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:13:54.660Z"
+    "pushedAt": "2026-11-09T12:25:18.841Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
@@ -5163,7 +5154,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:14:21.193Z"
+    "pushedAt": "2026-11-09T12:25:42.173Z"
   },
   {
     "id": "https://www.nytimes.com/article/france-student-protests-why.html",
@@ -5775,7 +5766,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
     "image": null,
-    "pushedAt": "2026-11-09T10:13:29.301Z"
+    "pushedAt": "2026-11-09T12:24:55.433Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-litigation-arb-bets-come-under-attack",
     "image": null,
     "pushedAt": "2026-11-09T12:16:28.791Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/crisis-mundial-del-vino-obliga-a-los-vinedos-chilenos-a-reinventar-sus-negocios",
+    "title": "Crisis mundial del vino obliga a los viñedos chilenos a reinventar sus negocios",
+    "titleZh": "智利葡萄酒義務危機與商業重塑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/crisis-mundial-del-vino-obliga-a-los-vinedos-chilenos-a-reinventar-sus-negocios",
+    "image": null,
+    "pushedAt": "2026-11-09T12:26:09.680Z"
   }
 ]
