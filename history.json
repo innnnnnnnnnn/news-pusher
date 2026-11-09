@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/wq2a0tglp",
-    "title": "How to Lie with Statistics",
-    "titleZh": "如何用統計數據說謊",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/wq2a0tglp?ref=rss",
-    "image": null,
-    "pushedAt": "2026-11-09T08:35:10.201Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
-    "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
-    "titleZh": "對烏克蘭人道主義中心的攻擊恐怕是戰爭中最致命的一次",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
-    "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-ukraine-attack-01-wckg/02int-ukraine-attack-01-wckg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T20:20:59.704Z"
-  },
-  {
-    "id": "https://flipso.com/p/q6mvy9ctn",
-    "title": "Writing seen in PHerc. 306B for the first time in 2,000 years",
-    "titleZh": "PHerc 中看到的文字。 2000年來首次306B",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/q6mvy9ctn?ref=rss",
-    "image": "https://cdn.flipso.com/p/q6mvy9ctn_square.jpg",
-    "pushedAt": "2026-11-08T22:07:54.735Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
-    "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
-    "titleZh": "由小羅伯特甘迺迪 (RFK Jr.) 任命的衛生工作小組成員包括四名獲準保留藥品庫存的人員",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/WELL-USPSTF-CONFLICTS2-lckj/WELL-USPSTF-CONFLICTS2-lckj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T01:28:35.799Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-funds-were-massive-sellers-of-ai-debt-rbc-s-skiba-says",
-    "title": "Hedge Funds Were ‘Massive’ Sellers of AI Debt, RBC’s Skiba Says",
-    "titleZh": "加拿大皇家銀行的斯基巴表示，對沖基金是人工智慧債務的「大量」賣家",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-funds-were-massive-sellers-of-ai-debt-rbc-s-skiba-says",
-    "image": null,
-    "pushedAt": "2026-11-05T23:13:07.068Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
     "title": "Bomb Threats Disrupt Several Flights Across Europe",
     "titleZh": "炸彈威脅擾亂歐洲多班航班",
@@ -8998,5 +8953,50 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/norway-halts-power-connections-for-new-data-centers",
     "image": null,
     "pushedAt": "2026-11-09T10:04:32.963Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+    "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
+    "titleZh": "參議員告訴谷歌讓學校禁用人工智慧搜尋功能",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+    "image": "https://static01.nyt.com/images/2026/07/23/multimedia/09biz-google-schools1/09biz-google-schools1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T10:05:04.527Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
+    "title": "A.I.-Generated Celebrity Ads Get an Assist From Terry Crews",
+    "titleZh": "人工智慧生成的名人廣告得到了泰瑞克魯斯 (Terry Crews) 的協助",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/business/09biz-ai-celebrities/09biz-ai-celebrities-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T10:05:08.834Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
+    "title": "Shoppers to Use Black Friday Sales to Stock Up on Essentials",
+    "titleZh": "購物者利用黑色星期五促銷來儲備必需品",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T10:05:12.938Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+    "title": "Weil Gotshal Was Profitable. But Not Profitable Enough.",
+    "titleZh": "Weil Gotshal 獲利。但獲利還不夠。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/business/00Weil-profits-illo/00Weil-profits-illo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T10:05:17.196Z"
+  },
+  {
+    "id": "https://flipso.com/p/10ei4s4nb",
+    "title": "The Great Pacific Garbage Patch may be changing the color of the ocean",
+    "titleZh": "太平洋大垃圾帶可能正在改變海洋的顏色",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/10ei4s4nb?ref=rss",
+    "image": "https://cdn.flipso.com/p/10ei4s4nb_square.jpg",
+    "pushedAt": "2026-11-09T10:05:20.772Z"
   }
 ]
