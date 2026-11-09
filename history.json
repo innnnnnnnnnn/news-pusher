@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0",
-    "title": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
-    "titleZh": "FirstFT：民主黨中期選舉壓倒性勝利顛覆人工智慧押注，華爾街損失 3.2 兆美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T10:00:23.985Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
     "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
     "titleZh": "華盛頓州禽流感死亡事件再次引發人們對病毒的擔憂",
@@ -5190,7 +5181,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-09T09:57:34.275Z"
+    "pushedAt": "2026-11-09T12:05:19.982Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
@@ -6999,7 +6990,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1b67f9c7-b1ad-4b5b-b496-ac3a305ec841?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T09:57:58.047Z"
+    "pushedAt": "2026-11-09T12:05:43.453Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/how-ai-may-be-aiding-not-hurting-us-employment-growth",
     "image": null,
     "pushedAt": "2026-11-09T12:04:53.187Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/vanguard-expands-proxy-vote-plan-to-cover-8-2-trillion-in-funds",
+    "title": "Vanguard Expands Proxy Vote Plan to Cover $8.2 Trillion in Funds",
+    "titleZh": "Vanguard 擴大代理投票計劃，涵蓋 8.2 兆美元資金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/vanguard-expands-proxy-vote-plan-to-cover-8-2-trillion-in-funds",
+    "image": null,
+    "pushedAt": "2026-11-09T12:06:10.646Z"
   }
 ]
