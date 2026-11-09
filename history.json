@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
-    "title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
-    "titleZh": "數位新聞先驅沙龍關閉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-salon/05biz-salon-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T11:41:42.258Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
     "title": "DraftKings Plunges 29% After Slashing Profit Projection",
     "titleZh": "DraftKings 2027 年預測暴跌，未達預期",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/akamai-technologies-seeks-2-2-billion-from-convertible-bonds",
     "image": null,
     "pushedAt": "2026-11-09T11:53:47.611Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/trump-tariffs-and-american-populism",
+    "title": "Trump tariffs and American populism",
+    "titleZh": "川普關稅與美國民粹主義",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/trump-tariffs-and-american-populism",
+    "image": null,
+    "pushedAt": "2026-11-09T12:01:15.895Z"
   }
 ]
