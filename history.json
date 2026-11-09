@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-    "title": "Bomb Threats Disrupt Several Flights Across Europe",
-    "titleZh": "炸彈威脅擾亂歐洲多班航班",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:12:33.562Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
     "title": "The Dark Side of K-Pop",
     "titleZh": "韓國流行音樂的陰暗面",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/10ei4s4nb?ref=rss",
     "image": "https://cdn.flipso.com/p/10ei4s4nb_square.jpg",
     "pushedAt": "2026-11-09T10:05:20.772Z"
+  },
+  {
+    "id": "https://flipso.com/p/wq2a0tglp",
+    "title": "How to Lie with Statistics",
+    "titleZh": "如何用統計數據說謊",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/wq2a0tglp?ref=rss",
+    "image": null,
+    "pushedAt": "2026-11-09T10:05:48.209Z"
   }
 ]
