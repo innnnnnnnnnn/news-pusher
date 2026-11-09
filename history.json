@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues",
-    "title": "Japanese Equities Set to Plunge as AI Selloff Continues",
-    "titleZh": "隨著人工智慧拋售的持續，日本股市將暴跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues",
-    "image": null,
-    "pushedAt": "2026-11-05T23:31:54.086Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
     "title": "OCBC CEO Raises Outlook as Lending Nudges Profit Higher",
     "titleZh": "華僑銀行的利潤成長因交易和保險收入下降而受到削弱",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-s-lakos-bujas-sees-investor-selloff-nearing-exhaustion",
     "image": null,
     "pushedAt": "2026-11-09T13:30:17.242Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
+    "title": "On ’60 Minutes,’ Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Elections",
+    "titleZh": "川普在「60分鐘」節目中表示，移民鎮壓可能在選舉中「傷害」了共和黨人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T13:41:08.980Z"
   }
 ]
