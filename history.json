@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/european-countries-push-again-to-deport-migrants-to-rwanda.html",
-    "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
-    "titleZh": "歐洲國家再次推動將移民驅逐到盧安達",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/european-countries-push-again-to-deport-migrants-to-rwanda.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:03:01.500Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
-    "title": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
-    "titleZh": "艾伯塔省圖書館員準備迎接「圖書禁令」的新時代",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T23:29:02.980Z"
-  },
-  {
-    "id": "https://flipso.com/p/q0cqae589",
-    "title": "Paper That You Bake",
-    "titleZh": "你烤的紙",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/q0cqae589?ref=rss",
-    "image": "https://cdn.flipso.com/p/q0cqae589_square.jpg",
-    "pushedAt": "2026-11-07T07:06:01.480Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/williams-says-fed-should-gather-information-to-judge-price-risks",
     "title": "Williams Says Fed Should Gather Data to Judge Price Risks",
     "titleZh": "威廉斯表示聯準會應收集資訊來判斷價格風險",
@@ -6954,7 +6927,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/trump-tariffs-and-american-populism",
     "image": null,
-    "pushedAt": "2026-11-09T21:19:05.005Z"
+    "pushedAt": "2026-11-09T23:51:53.007Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29trav-elnino-skiing-vptl/29trav-elnino-skiing-vptl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T23:44:45.151Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears",
+    "title": "Australia’s Consumer Confidence Slumps on Cost-of-Living Fears",
+    "titleZh": "澳洲消費者信心因生活成本擔憂而下滑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears",
+    "image": null,
+    "pushedAt": "2026-11-09T23:52:23.106Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/colombian-inflation-accelerates-less-than-forecast-to-6-30",
+    "title": "Colombian Inflation Accelerates Less Than Forecast to 6.30%",
+    "titleZh": "哥倫比亞通膨率加速至 6.30%，低於預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/colombian-inflation-accelerates-less-than-forecast-to-6-30",
+    "image": null,
+    "pushedAt": "2026-11-09T23:52:26.484Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/paraguay-s-new-president-taps-ex-regulator-to-lead-central-bank",
+    "title": "Paraguay’s New President Overhauls Cabinet After Peña Ouster",
+    "titleZh": "佩尼亞下台後巴拉圭新總統重組內閣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/paraguay-s-new-president-taps-ex-regulator-to-lead-central-bank",
+    "image": null,
+    "pushedAt": "2026-11-09T23:52:31.399Z"
   }
 ]
