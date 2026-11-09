@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6f36556a-01e4-4767-b75d-806cee8e2a06",
-    "title": "Top private equity dealmaker to quit UK for Greece",
-    "titleZh": "頂級私募股權交易撮合者退出英國前往希臘",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6f36556a-01e4-4767-b75d-806cee8e2a06?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T05:39:31.275Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
     "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
     "titleZh": "民主黨中期大獲全勝後，科技億萬富翁面臨棘手的政治困境",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/03b2f033-9e41-48e3-aae3-d512be2831ae?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T05:24:12.061Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+    "titleZh": "家長訴Google學校Chromebook的人工智能安全風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T05:24:41.803Z"
   }
 ]
