@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-    "title": "Oil Swings as Traders Parse Iran War De-Escalation Prospects",
-    "titleZh": "海灣戰爭有緩和跡象，油價下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-    "image": null,
-    "pushedAt": "2026-11-07T06:44:12.236Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/angola-s-central-bank-expects-single-digit-inflation-to-last",
     "title": "Angola’s Central Bank Expects Single-Digit Inflation to Last",
     "titleZh": "安哥拉央行預計個位數通膨將持續",
@@ -8151,7 +8142,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/climate/max-worsley-antarctic-expedition.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00cli-onwards-01-lqkc/00cli-onwards-01-lqkc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T19:22:44.877Z"
+    "pushedAt": "2026-11-09T21:46:57.428Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/arts/you-can-see-everything-amanda-seyfried.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars",
     "image": null,
     "pushedAt": "2026-11-09T21:46:30.311Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-growing-but-has-work-to-do-ross-gerber-says-video",
+    "title": "Skydance Growing But Has a Lot of Work to Do, Ross Gerber Says",
+    "titleZh": "羅斯·格伯 (Ross Gerber) 表示，Skydance 正在不斷發展，但還有很多工作要做",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-growing-but-has-work-to-do-ross-gerber-says-video",
+    "image": null,
+    "pushedAt": "2026-11-09T21:47:24.845Z"
   }
 ]
