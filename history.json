@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/equity-volatility-jumps-most-since-april-2025-tariff-turmoil",
-    "title": "Equity Volatility Jumps Most Since April 2025 Tariff Turmoil",
-    "titleZh": "自 2025 年 4 月關稅動盪以來，股市波動幅度最大",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/equity-volatility-jumps-most-since-april-2025-tariff-turmoil",
-    "image": null,
-    "pushedAt": "2026-11-05T22:51:47.726Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/tapestry-ceo-on-earnings-beat-consumer-outlook-video",
     "title": "Tapestry CEO on Earnings Beat, Consumer Outlook",
     "titleZh": "Tapestry 執行長談獲利成長與消費者前景",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-banking-deal-spree-enters-endgame-with-bpm-paschi-bids",
     "image": null,
     "pushedAt": "2026-11-09T12:32:31.721Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html",
+    "title": "Steve Kornacki and NBC Drew Crowds as Midterms Got a Ratings Bump",
+    "titleZh": "史蒂夫·科爾納基 (Steve Kornacki) 和 NBC 吸引了許多觀眾，中期選舉收視率大幅上升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-elections-ratings-mltc/05biz-elections-ratings-mltc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T12:33:00.631Z"
   }
 ]
