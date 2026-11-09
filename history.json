@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
-    "title": "The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies",
-    "titleZh": "柴油成本飆升正在使小型卡車運輸公司破產",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
-    "image": null,
-    "pushedAt": "2026-11-07T00:55:58.365Z"
-  },
-  {
     "id": "https://www.ft.com/content/58e795a0-af3e-4d49-85b8-d075bde1e358",
     "title": "‘This time feels different’",
     "titleZh": "“這次感覺不一樣”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
     "image": null,
     "pushedAt": "2026-11-09T01:14:19.094Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
+    "title": "El Salvador’s gangbuster tries his luck in Haiti",
+    "titleZh": "薩爾瓦多的一舉成名在海地碰碰運氣",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
+    "image": null,
+    "pushedAt": "2026-11-09T01:14:48.401Z"
   }
 ]
