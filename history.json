@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
-    "title": "The War Room newsletter: The best warplanes in history",
-    "titleZh": "作戰室時事通訊：史上最棒的戰機",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
-    "image": null,
-    "pushedAt": "2026-11-06T15:31:02.387Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
     "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
     "titleZh": "廣播、有線電視和深夜節目計劃如何報導中期選舉",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
     "pushedAt": "2026-11-09T01:24:32.120Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
+    "title": "Chinese Producer Inflation Soars to 5.7% for Post-Covid Era High",
+    "titleZh": "中國生產者通膨飆升至5.7%，創後疫情時代新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
+    "image": null,
+    "pushedAt": "2026-11-09T02:02:02.557Z"
   }
 ]
