@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01",
-    "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
-    "titleZh": "由於擔心通膨根深蒂固，英國央行為進一步升息敞開大門",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T06:18:57.304Z"
-  },
-  {
     "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
     "title": "US midterms 2026: live results",
     "titleZh": "2026 年美國中期選舉：即時結果",
@@ -4938,7 +4929,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T04:30:58.909Z"
+    "pushedAt": "2026-11-09T06:28:28.692Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
@@ -6261,7 +6252,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T04:31:23.721Z"
+    "pushedAt": "2026-11-09T06:28:53.513Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
@@ -6504,7 +6495,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T04:31:49.405Z"
+    "pushedAt": "2026-11-09T06:29:17.808Z"
   },
   {
     "id": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73",
@@ -8115,7 +8106,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-iran-options2-qtwp/08dc-iran-options2-qtwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T04:32:14.141Z"
+    "pushedAt": "2026-11-09T06:29:42.033Z"
   },
   {
     "id": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T06:28:00.783Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/ali-yasin-iran-war-forces-gcc-firms-to-rethink-ipos-video",
+    "title": "Ali Yasin: Iran War Forces GCC Firms to Rethink IPOs (Video)",
+    "titleZh": "Ali Yasin：伊朗戰爭迫使海灣合作委員會公司重新考慮首次公開募股（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/ali-yasin-iran-war-forces-gcc-firms-to-rethink-ipos-video",
+    "image": null,
+    "pushedAt": "2026-11-09T06:30:07.984Z"
   }
 ]
