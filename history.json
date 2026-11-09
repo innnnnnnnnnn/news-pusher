@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/former-turkish-minister-kaya-arrested-in-funds-probe-aa-says",
-    "title": "Former Turkish Minister Kaya Arrested in Funds Probe, AA Says",
-    "titleZh": "AA 稱，土耳其前部長卡亞在資金調查中被捕",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/former-turkish-minister-kaya-arrested-in-funds-probe-aa-says",
-    "image": null,
-    "pushedAt": "2026-11-05T23:12:15.374Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
     "title": "The Evening: The Blue Wave Swells",
     "titleZh": "傍晚：碧波蕩漾",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-stock-futures-today-dole-greenfire-jetblue-kkr-nrg-nvidia",
     "image": null,
     "pushedAt": "2026-11-09T12:48:06.382Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+    "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
+    "titleZh": "紐約時報公司就收購 Letterboxd 進行進階談判",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T12:48:34.307Z"
   }
 ]
