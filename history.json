@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dd91306a-f3cf-43cc-baf2-9a9134fb92c4",
-    "title": "The onward march of cognitive capitalism",
-    "titleZh": "認知資本主義的前進",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dd91306a-f3cf-43cc-baf2-9a9134fb92c4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T00:48:40.647Z"
-  },
-  {
-    "id": "https://www.nytimes.com/article/russell-brand-trial-verdict.html",
-    "title": "The Verdict in Russell Brand’s Rape and Sexual Assault Trial: What to Know",
-    "titleZh": "拉塞爾布蘭德強姦和性侵犯審判的判決：需要了解什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/article/russell-brand-trial-verdict.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cul-russell-brand-wtk-whfk/12cul-russell-brand-wtk-whfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T14:35:13.328Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "title": "China and Taiwan are fighting over Sun Yat-sen",
     "titleZh": "中國和台灣正在爭奪孫中山",
@@ -5352,7 +5334,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
-    "pushedAt": "2026-11-08T23:13:22.273Z"
+    "pushedAt": "2026-11-09T01:21:40.825Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/treasuries-fall-as-jobs-data-fortifies-tech-rebound-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6bf8e42b-e289-4107-8188-2e5ed29e1107.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-09T01:21:12.596Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election",
+    "title": "Lula Vows Fiscal Responsibility in First Address Since Election",
+    "titleZh": "盧拉在選舉以來的首次演講中宣誓承擔財政責任",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election",
+    "image": null,
+    "pushedAt": "2026-11-09T01:22:10.634Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
+    "title": "Berkshire Hathaway Plans First Japan Bond Offering Since April",
+    "titleZh": "波克夏海瑟威計劃自四月以來首次發行日本債券",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
+    "image": null,
+    "pushedAt": "2026-11-09T01:22:15.207Z"
   }
 ]
