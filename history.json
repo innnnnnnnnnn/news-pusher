@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/hearts-minds-howes-on-private-credit-video",
-    "title": "Hearts & Minds' Howes on Private Credit",
-    "titleZh": "Hearts & Minds 關於私人信貸的豪斯",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/hearts-minds-howes-on-private-credit-video",
-    "image": null,
-    "pushedAt": "2026-11-06T08:25:28.990Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/plato-s-allen-on-ai-selloff-investment-strategy-video",
     "title": "Plato's Allen on AI Selloff, Investment Strategy",
     "titleZh": "柏拉圖的艾倫談人工智慧拋售和投資策略",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T16:06:28.855Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/steady-inflation-outlook-mixed-views-for-jobs-in-ny-fed-survey",
+    "title": "Steady Inflation Outlook, Mixed Views for Jobs in NY Fed Survey",
+    "titleZh": "通膨前景穩定，紐約聯邦儲備銀行調查中對就業的看法不一",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/steady-inflation-outlook-mixed-views-for-jobs-in-ny-fed-survey",
+    "image": null,
+    "pushedAt": "2026-11-09T16:10:59.897Z"
   }
 ]
