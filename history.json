@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
-    "title": "AI is disrupting the art of campaigning",
-    "titleZh": "人工智慧正在顛覆競選藝術",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
-    "image": null,
-    "pushedAt": "2026-11-08T12:41:45.245Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/european-countries-push-again-to-deport-migrants-to-rwanda.html",
     "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
     "titleZh": "歐洲國家再次推動將移民驅逐到盧安達",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
     "image": null,
     "pushedAt": "2026-11-09T23:44:15.029Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
+    "title": "What Does the Super El Niño Mean for Ski Season?",
+    "titleZh": "超級厄爾尼諾現象對滑雪季節意味著什麼？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29trav-elnino-skiing-vptl/29trav-elnino-skiing-vptl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T23:44:45.151Z"
   }
 ]
