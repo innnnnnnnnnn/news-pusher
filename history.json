@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
-    "title": "The Evening: The Blue Wave Swells",
-    "titleZh": "傍晚：碧波蕩漾",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05evening-nl-midterms-colom-zbwl/05evening-nl-midterms-colom-zbwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T04:12:58.090Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
     "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
     "titleZh": "國民警衛隊將使用軍車和船隻擴大在華盛頓的巡邏",
@@ -2202,7 +2193,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T10:34:59.510Z"
+    "pushedAt": "2026-11-09T12:50:40.375Z"
   },
   {
     "id": "https://www.ft.com/content/5640c74d-24e5-465b-8119-a2595dac7748",
@@ -2751,7 +2742,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T10:36:12.246Z"
+    "pushedAt": "2026-11-09T12:51:52.602Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls",
@@ -4299,7 +4290,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/epz4j3zzh?ref=rss",
     "image": "https://cdn.flipso.com/p/epz4j3zzh_square.jpg",
-    "pushedAt": "2026-11-09T10:35:23.936Z"
+    "pushedAt": "2026-11-09T12:51:03.910Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
@@ -5955,7 +5946,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-09T10:35:48.071Z"
+    "pushedAt": "2026-11-09T12:51:27.854Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
     "image": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T12:48:34.307Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
+    "title": "First Abu Dhabi Bank Weighs Multibillion-Dollar Rights Issue",
+    "titleZh": "阿布達比第一銀行考慮發行數十億美元的供股",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
+    "image": null,
+    "pushedAt": "2026-11-09T12:52:18.749Z"
   }
 ]
