@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
-    "title": "A generational upset in Los Angeles",
-    "titleZh": "洛杉磯一代人的不安",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
-    "image": null,
-    "pushedAt": "2026-11-09T15:59:51.466Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-    "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-    "titleZh": "川普和普丁在中國舉行峰會？這對習近平來說可能有點尷尬。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T16:01:54.509Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
-    "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-    "titleZh": "12 天內搭乘 12 架飛機：手術幾週後，教宗開始拉丁美洲主要之旅",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T09:50:04.605Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
     "title": "Pope Leo’s Trip to Latin America: What to Know",
     "titleZh": "教宗利奧的拉丁美洲之旅：需要了解什麼",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/5ac882f9-8dba-441b-aa59-31a5890135d9?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T17:48:59.981Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+    "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
+    "titleZh": "國會加速能源許可審批的計畫是什麼？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T17:49:28.860Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+    "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+    "titleZh": "波蘭的大規模屠殺成為政治鬥爭的原因",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-shooting-01-wqzp/09int-poland-shooting-01-wqzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T17:49:32.459Z"
+  },
+  {
+    "id": "https://flipso.com/p/4f79auseo",
+    "title": "Castration extends life span, but in a surprising way, mouse study suggests",
+    "titleZh": "小鼠研究表明，閹割可以延長壽命，但以令人驚訝的方式",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/4f79auseo?ref=rss",
+    "image": "https://cdn.flipso.com/p/4f79auseo_square.jpg",
+    "pushedAt": "2026-11-09T17:49:35.520Z"
   }
 ]
