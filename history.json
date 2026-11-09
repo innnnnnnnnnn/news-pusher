@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
-    "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-    "titleZh": "歐洲仍然認為川普很強大，尤其是在外交政策方面",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T20:49:50.193Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/us-jobs-data-faces-market-uncertainty-video",
     "title": "US Jobs Data Faces Market Uncertainty",
     "titleZh": "美國就業數據面臨市場不確定性",
@@ -5874,7 +5865,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T20:39:21.579Z"
+    "pushedAt": "2026-11-09T23:08:56.538Z"
   },
   {
     "id": "https://www.ft.com/content/64fcc3ce-4597-4516-a4e0-2e2c191027a6",
@@ -5883,7 +5874,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/64fcc3ce-4597-4516-a4e0-2e2c191027a6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T20:39:45.609Z"
+    "pushedAt": "2026-11-09T23:09:24.087Z"
   },
   {
     "id": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193",
@@ -5937,7 +5928,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-09T20:40:10.005Z"
+    "pushedAt": "2026-11-09T23:09:51.508Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
@@ -8682,7 +8673,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
     "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
-    "pushedAt": "2026-11-09T20:40:39.675Z"
+    "pushedAt": "2026-11-09T23:10:19.603Z"
   },
   {
     "id": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/kiwi-extends-gains-to-most-in-seven-months-after-election-result",
     "image": null,
     "pushedAt": "2026-11-09T23:08:26.526Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes",
+    "title": "Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes",
+    "titleZh": "菲律賓經濟成長步履蹣跚，呼籲國家採取行動，暫停升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes",
+    "image": null,
+    "pushedAt": "2026-11-09T23:10:49.492Z"
   }
 ]
