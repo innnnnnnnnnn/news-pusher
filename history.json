@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
-    "title": "How Trump Is Reacting to the Midterm Results",
-    "titleZh": "川普對中期結果有何反應",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
-    "image": null,
-    "pushedAt": "2026-11-05T18:48:43.573Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-    "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
-    "titleZh": "受科技股拖累，股市抹去了中期選舉後的漲勢",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-    "image": null,
-    "pushedAt": "2026-11-09T02:58:48.782Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/state-driven-data-center-backlash-reshaping-the-ai-trade-video",
     "title": "State-Driven Data Center Backlash Reshaping the AI Trade",
     "titleZh": "國家驅動的資料中心強烈反對重塑人工智慧產業",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/f17288e2-dd21-49e9-9c62-91b922627d9a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T05:02:49.138Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/books/review/secrets-bob-woodward.html",
+    "title": "Book Review: ‘Secrets,’ by Bob Woodward",
+    "titleZh": "書評：鮑伯‧伍德沃德的《祕密》",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/books/review/secrets-bob-woodward.html",
+    "image": null,
+    "pushedAt": "2026-11-09T05:03:20.199Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+    "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+    "titleZh": "德國人懷念前總理梅克爾，儘管他們不喜歡她的政策",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T05:03:24.975Z"
   }
 ]
