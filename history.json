@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5397eabe-5c04-4851-a216-9a269f69682c",
-    "title": "Putin orders seizure of Japan Tobacco’s Russian business",
-    "titleZh": "普丁下令沒收日本菸草的俄羅斯業務",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5397eabe-5c04-4851-a216-9a269f69682c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T13:51:19.569Z"
-  },
-  {
     "id": "https://www.ft.com/content/8407d5dc-c231-46aa-a4fb-58d25c85892a",
     "title": "Xi Jinping’s great purge",
     "titleZh": "習近平的回音室",
@@ -5847,7 +5838,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
     "image": null,
-    "pushedAt": "2026-11-09T14:48:28.549Z"
+    "pushedAt": "2026-11-09T17:16:35.931Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
@@ -5856,7 +5847,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
     "image": null,
-    "pushedAt": "2026-11-09T14:49:16.478Z"
+    "pushedAt": "2026-11-09T17:17:00.809Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
@@ -8461,12 +8452,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/fox-holds-investor-calls-before-planned-bond-sale-for-roku-deal",
-    "title": "Fox Holds Investor Calls Before Planned Bond Sale for Roku Deal",
+    "title": "Fox Looks to Sell $8 Billion of High-Grade Bonds for Roku Deal",
     "titleZh": "福斯在 Roku 交易計畫債券發售前召開投資者電話會議",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/fox-holds-investor-calls-before-planned-bond-sale-for-roku-deal",
     "image": null,
-    "pushedAt": "2026-11-09T14:46:21.006Z"
+    "pushedAt": "2026-11-09T17:16:10.672Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/botswana-agrees-to-raise-de-beers-stake-easing-anglo-s-exit",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spying-probe-raises-thorny-questions-for-its-ceo-video",
     "image": null,
     "pushedAt": "2026-11-09T17:15:41.817Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video",
+    "title": "AI Theme Intact, But Market Cycle Has Changed: Thomas",
+    "titleZh": "人工智慧主題完好無損，但市場週期已經改變：托馬斯",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video",
+    "image": null,
+    "pushedAt": "2026-11-09T17:17:27.978Z"
   }
 ]
