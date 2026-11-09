@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/herzog-to-choose-between-eisenkot-netanyahu-on-sunday-video",
-    "title": "Herzog to Choose Between Eisenkot, Netanyahu on Sunday (Video)",
-    "titleZh": "赫爾佐格週日將在艾森科特和內塔尼亞胡之間做出選擇（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/herzog-to-choose-between-eisenkot-netanyahu-on-sunday-video",
-    "image": null,
-    "pushedAt": "2026-11-06T09:22:07.228Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/top-africa-multi-nation-bourse-plans-etfs-futures-for-growth",
     "title": "Top Africa Multi-Nation Bourse Plans ETFs, Futures for Growth",
     "titleZh": "非洲頂級跨國交易所計劃推出 ETF 和期貨以促進成長",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video",
     "image": null,
     "pushedAt": "2026-11-09T22:35:46.460Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+    "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+    "titleZh": "托馬斯·馬西 (Thomas Massie) 採取行動強制投票彈劾皮特·赫格斯 (Pete Hegseth)",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-hegseth-wtk-gjkp/09dc-hegseth-wtk-gjkp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T22:36:17.082Z"
   }
 ]
