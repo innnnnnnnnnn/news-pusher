@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/kospi-slides-after-us-rout-triggering-circuit-breaker-video",
-    "title": "Kospi Slides After US Rout, Triggering Circuit Breaker",
-    "titleZh": "美國潰敗後科斯皮指數下滑，觸發熔斷機制",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/kospi-slides-after-us-rout-triggering-circuit-breaker-video",
-    "image": null,
-    "pushedAt": "2026-11-06T08:03:35.058Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/japan-protests-russia-s-seizure-of-japan-tobacco-assets",
     "title": "Putin Transfers Japan Tobacco Assets to Local Firm in Latest Asset Seizure",
     "titleZh": "日本抗議俄羅斯扣押日本菸草資產",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/nyregion/jeffries-schumer-democrats-puerto-rico-protests.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00met-jeffries-schumer-ny-kzvp/00met-jeffries-schumer-ny-kzvp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T15:25:55.053Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spy-probe-what-we-know-now-video",
+    "title": "Nvidia Spy Probe: What We Know Now",
+    "titleZh": "Nvidia 間諜探針：我們現在所知道的",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spy-probe-what-we-know-now-video",
+    "image": null,
+    "pushedAt": "2026-11-09T15:33:38.946Z"
   }
 ]
