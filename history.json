@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
-    "title": "Hegseth Lashes Out at Critics Calling for His Firing",
-    "titleZh": "赫格斯猛烈抨擊要求解僱他的批評者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-hegseth-fcbw/05dc-hegseth-fcbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:47:05.325Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
     "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
     "titleZh": "盧比歐否認他將辭去工作競選總統的報道",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
     "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T15:36:17.881Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+    "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+    "titleZh": "由於美國和伊朗之間的和平希望，油價下跌",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+    "image": null,
+    "pushedAt": "2026-11-09T15:46:11.705Z"
   }
 ]
