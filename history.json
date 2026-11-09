@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/goldman-traders-say-phones-are-exploding-as-ai-selloff-worsens",
-    "title": "Goldman Sachs Traders See Surge in Calls as AI Stock Selloff Deepens",
-    "titleZh": "高盛交易員表示，隨著人工智慧拋售加劇，手機“正在爆炸式增長”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/goldman-traders-say-phones-are-exploding-as-ai-selloff-worsens",
-    "image": null,
-    "pushedAt": "2026-11-05T21:18:56.173Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/white-house-reviewing-sec-s-proposed-crypto-broker-rule-changes",
     "title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes",
     "titleZh": "白宮正在審查 SEC 擬議的加密貨幣經紀規則變更",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/ice-joins-wind-derivatives-push-as-renewables-reshape-power",
     "image": null,
     "pushedAt": "2026-11-09T08:06:19.879Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+    "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+    "titleZh": "炸彈威脅擾亂歐洲航班並擾亂乘客",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bomb-threats-scene01-photo-bqtk/05int-bomb-threats-scene01-photo-bqtk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T08:06:47.776Z"
   }
 ]
