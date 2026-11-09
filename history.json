@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/85421f98-eecf-4998-b388-b4b1fd88de3f",
-    "title": "Troubled housebuilder Vistry tests limits of Labour’s appetite for nationalisation",
-    "titleZh": "陷入困境的房屋建築商維斯特里測試工黨國有化胃口的極限",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/85421f98-eecf-4998-b388-b4b1fd88de3f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T17:25:01.107Z"
-  },
-  {
     "id": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98",
     "title": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
     "titleZh": "隨著馬斯克將重點轉向機器人和人工智慧，特斯拉將削減賽博卡車",
@@ -33,7 +24,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29trav-elnino-skiing-vptl/29trav-elnino-skiing-vptl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T20:56:12.251Z"
+    "pushedAt": "2026-11-09T23:27:38.340Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
@@ -5217,7 +5208,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T20:55:47.458Z"
+    "pushedAt": "2026-11-09T23:27:13.149Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html",
@@ -8286,7 +8277,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F944b6642-a5de-4e28-ab4f-6c156fc32aec.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T20:53:56.528Z"
+    "pushedAt": "2026-11-09T23:25:28.635Z"
   },
   {
     "id": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39",
@@ -8295,7 +8286,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T20:54:21.283Z"
+    "pushedAt": "2026-11-09T23:25:55.076Z"
   },
   {
     "id": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee",
@@ -8304,7 +8295,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T20:55:23.386Z"
+    "pushedAt": "2026-11-09T23:26:48.071Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
@@ -8673,7 +8664,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T20:54:50.154Z"
+    "pushedAt": "2026-11-09T23:26:21.955Z"
   },
   {
     "id": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/426452cc-61cd-4f68-9fe0-b28161ecffac?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T23:24:58.773Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania",
+    "title": "Comcast Job Cuts to Begin With Hundreds Let Go In Pennsylvania",
+    "titleZh": "康卡斯特開始裁員 賓州數百人被解僱",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania",
+    "image": null,
+    "pushedAt": "2026-11-09T23:28:08.636Z"
   }
 ]
