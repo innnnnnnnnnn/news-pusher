@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years",
-    "title": "Japan’s Nominal Wages Rise at Fastest Pace In About 30 Years",
-    "titleZh": "日本名目薪資成長近30年來最快",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years",
-    "image": null,
-    "pushedAt": "2026-11-06T11:49:50.282Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
     "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
     "titleZh": "制衡通訊：民主黨令人作嘔的樂觀主義",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/aluminum-faces-severe-squeeze-as-lme-market-awaits-new-supply",
     "image": null,
     "pushedAt": "2026-11-09T13:56:31.920Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "title": "America’s renters are in serious trouble",
+    "titleZh": "美國的租屋者陷入嚴重麻煩",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "image": null,
+    "pushedAt": "2026-11-09T13:57:00.241Z"
   }
 ]
