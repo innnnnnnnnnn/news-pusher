@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162",
-    "title": "Bank rate rise ‘puts tracker mortgage trend at risk’",
-    "titleZh": "銀行加息“使追蹤抵押貸款趨勢面臨風險”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T06:53:31.803Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/open-interest-11-5-2026-video",
     "title": "Nasdaq 100 Plunges as Tech Rout Deepens",
     "titleZh": "隨著科技股跌勢加深，納斯達克 100 指數暴跌",
@@ -1860,7 +1851,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T05:15:51.215Z"
+    "pushedAt": "2026-11-09T07:27:07.486Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
@@ -1869,7 +1860,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T05:16:15.388Z"
+    "pushedAt": "2026-11-09T07:27:32.030Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
@@ -7827,7 +7818,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-theworld-election-results-01-jtlq-promo/09int-theworld-election-results-01-jtlq-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T05:15:26.879Z"
+    "pushedAt": "2026-11-09T07:26:43.196Z"
   },
   {
     "id": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa",
@@ -7836,7 +7827,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87bc817f-b1d1-467e-92bd-8a10c0cefa2b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T05:16:39.835Z"
+    "pushedAt": "2026-11-09T07:27:56.692Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/market-vulnerability-has-been-exposed-for-good-taking-stock",
     "image": null,
     "pushedAt": "2026-11-09T07:26:15.796Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ftse-100-is-riding-an-anti-ai-wave",
+    "title": "The FTSE 100 Is Riding an Anti-AI Wave",
+    "titleZh": "富時 100 指數正掀起反人工智慧浪潮",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ftse-100-is-riding-an-anti-ai-wave",
+    "image": null,
+    "pushedAt": "2026-11-09T07:28:22.977Z"
   }
 ]
