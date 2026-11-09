@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
-    "title": "Lucien Smith, Art-World Star, Died From Accidental Drug Overdose",
-    "titleZh": "藝術界明星盧西安史密斯因意外吸毒過量而去世",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/arts/05cul-lucien-smith-death/05cul-lucien-smith-death-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T00:23:53.737Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
     "title": "Japan’s Nikkei 225 Enters Bear Market as AI Selloff Deepens",
     "titleZh": "隨著人工智慧拋售加劇，日本日經指數準備進入熊市",
@@ -6522,7 +6513,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
     "image": null,
-    "pushedAt": "2026-11-09T13:09:07.636Z"
+    "pushedAt": "2026-11-09T15:20:54.248Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
     "image": null,
     "pushedAt": "2026-11-09T15:07:53.719Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+    "titleZh": "NextEra 和 Dominion 的大型合併可能因電費帳單而失敗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T15:21:22.487Z"
   }
 ]
