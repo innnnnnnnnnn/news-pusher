@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862",
-    "title": "China’s tech megacity cleans up seedy underbelly for Apec summit",
-    "titleZh": "中國科技大城市為亞太經合組織高峰會清理骯髒的軟肋",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T08:51:16.030Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
     "title": "Taiwan’s Currency Rebounds After Weakening Past 33 Per US Dollar",
     "titleZh": "人工智慧恐慌導致台幣兌美元匯率跌破 33",
@@ -5586,7 +5577,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
     "image": null,
-    "pushedAt": "2026-11-09T14:10:04.350Z"
+    "pushedAt": "2026-11-09T16:24:45.002Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
@@ -5595,7 +5586,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
-    "pushedAt": "2026-11-09T14:10:28.594Z"
+    "pushedAt": "2026-11-09T16:25:09.447Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
@@ -5604,7 +5595,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-09T14:10:52.947Z"
+    "pushedAt": "2026-11-09T16:25:34.623Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
@@ -6252,7 +6243,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T14:09:14.837Z"
+    "pushedAt": "2026-11-09T16:23:56.392Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
@@ -6720,7 +6711,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
     "image": null,
-    "pushedAt": "2026-11-09T14:08:01.045Z"
+    "pushedAt": "2026-11-09T16:23:32.072Z"
   },
   {
     "id": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a",
@@ -8214,7 +8205,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/semiconductor-earnings-sugar-rush-likely-to-fade-peters-video",
     "image": null,
-    "pushedAt": "2026-11-09T14:09:40.050Z"
+    "pushedAt": "2026-11-09T16:24:21.060Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/akamai-technologies-seeks-2-2-billion-from-convertible-bonds",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto",
     "image": null,
     "pushedAt": "2026-11-09T16:17:22.143Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
+    "title": "Why Colorado Is at the Epicenter of So Many Supreme Court Clashes",
+    "titleZh": "為什麼科羅拉多州是這麼多最高法院衝突的中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-scotus-colorado-mflj/00dc-scotus-colorado-mflj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T16:26:01.241Z"
   }
 ]
