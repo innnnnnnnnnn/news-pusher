@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
-    "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
-    "titleZh": "以色列聲稱擁有伊朗化學武器，美國官員意見分歧",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-iran-intel-zltq/02dc-iran-intel-zltq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T03:45:52.960Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/rebekah-jurata-tapped-for-treasury-assistant-secretary-role",
     "title": "Rebekah Jurata Tapped for Treasury Assistant Secretary Role",
     "titleZh": "麗貝卡·尤拉塔 (Rebekah Jurata) 被任命為財政部助理部長",
@@ -852,7 +843,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
     "image": null,
-    "pushedAt": "2026-11-09T10:18:09.209Z"
+    "pushedAt": "2026-11-09T12:30:08.407Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee",
@@ -4542,7 +4533,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:17:43.514Z"
+    "pushedAt": "2026-11-09T12:29:42.634Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
@@ -4983,7 +4974,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
     "image": null,
-    "pushedAt": "2026-11-09T10:16:05.236Z"
+    "pushedAt": "2026-11-09T12:28:55.682Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
@@ -4992,7 +4983,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
     "image": null,
-    "pushedAt": "2026-11-09T10:16:54.598Z"
+    "pushedAt": "2026-11-09T12:29:19.056Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
@@ -5145,7 +5136,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:15:39.891Z"
+    "pushedAt": "2026-11-09T12:28:31.670Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
@@ -8619,7 +8610,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09bird-vzfb/09bird-vzfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:18:35.629Z"
+    "pushedAt": "2026-11-09T12:30:33.361Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
     "image": null,
     "pushedAt": "2026-11-09T12:28:03.821Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
+    "title": "Brazil Economists Lift Key Rate Forecasts Again After Lula’s Win",
+    "titleZh": "盧拉獲勝後巴西經濟學家再次調高關鍵利率預測",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
+    "image": null,
+    "pushedAt": "2026-11-09T12:31:01.505Z"
   }
 ]
