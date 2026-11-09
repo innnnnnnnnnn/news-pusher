@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
-    "title": "Taiwan’s Currency Rebounds After Weakening Past 33 Per US Dollar",
-    "titleZh": "人工智慧恐慌導致台幣兌美元匯率跌破 33",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
-    "image": null,
-    "pushedAt": "2026-11-06T08:18:06.548Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
-    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
-    "titleZh": "由於美國大選破壞人工智慧和關稅貿易，銅價走低",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
-    "image": null,
-    "pushedAt": "2026-11-07T03:07:15.871Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-takaichi-eyes-boj-s-etf-sales-to-fund-economic-security",
     "title": "Japan’s Takaichi Eyes BOJ’s ETF Sales to Fund Economic Security",
     "titleZh": "日本高一希望日本央行透過出售 ETF 來為經濟安全提供資金",
@@ -7453,12 +7435,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
-    "title": "Gunman in Polish Mass Shooting Dies as Terrorism Probe Proceeds",
+    "title": "Krakow Gunman Dies as Poland Looks for Clues on Attack Motive",
     "titleZh": "波蘭警方稱克拉科夫大規模槍擊案兇手在醫院死亡",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
     "image": null,
-    "pushedAt": "2026-11-09T12:10:01.211Z"
+    "pushedAt": "2026-11-09T16:26:31.140Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/trump-s-weakness-and-overtures-to-russia-put-ukraine-on-edge",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00dc-scotus-colorado-mflj/00dc-scotus-colorado-mflj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T16:26:01.241Z"
+  },
+  {
+    "id": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
+    "title": "Democrats need to use the power of the purse",
+    "titleZh": "民主黨需要利用錢包的力量",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
+    "image": null,
+    "pushedAt": "2026-11-09T16:26:57.804Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a",
+    "title": "Fund manager Nick Train has best month since 2000 on back of AI market rout",
+    "titleZh": "人工智慧市場暴跌，基金經理 Nick Train 迎來 2000 年以來最好的月份",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T16:27:02.750Z"
   }
 ]
