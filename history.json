@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/man-claims-in-suit-chatgpt-encouraged-his-wife-to-poison-him",
-    "title": "OpenAI Sued Over Claim ChatGPT Drafted Lethal Poisoning Plan",
-    "titleZh": "男子在訴訟中聲稱 ChatGPT 鼓勵他的妻子毒害他",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/man-claims-in-suit-chatgpt-encouraged-his-wife-to-poison-him",
-    "image": null,
-    "pushedAt": "2026-11-05T23:25:12.320Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
     "title": "Across the South, Black Voters Help Propel Democratic Wins",
     "titleZh": "在整個南方，黑人選民幫助民主黨獲勝",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/citi-strategists-cut-us-stocks-upgrade-europe-after-ai-turmoil",
     "image": null,
     "pushedAt": "2026-11-09T10:08:20.270Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
+    "title": "The Dark Side of K-Pop",
+    "titleZh": "韓國流行音樂的陰暗面",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-theworld-kpop-contracts-01-zwmq-promo/06int-theworld-kpop-contracts-01-zwmq-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T10:08:49.105Z"
   }
 ]
