@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/open-interest-11-5-2026-video",
-    "title": "Nasdaq 100 Plunges as Tech Rout Deepens",
-    "titleZh": "隨著科技股跌勢加深，納斯達克 100 指數暴跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/open-interest-11-5-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-05T21:02:27.198Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
     "title": "Argentine Markets on Edge as Peso Repo Rates Soar to 190%",
     "titleZh": "市場暗示對比索債務進行幹預，阿根廷債券下跌",
@@ -1869,7 +1860,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T05:18:24.141Z"
+    "pushedAt": "2026-11-09T07:29:14.376Z"
   },
   {
     "id": "https://www.ft.com/content/7158f9d1-94b2-404f-b26e-7ebbf8cd1169",
@@ -8385,7 +8376,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/ubs-peirce-on-ai-buildout-dealmaking-landscape-video",
     "image": null,
-    "pushedAt": "2026-11-09T05:18:48.304Z"
+    "pushedAt": "2026-11-09T07:29:38.577Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
@@ -8763,7 +8754,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/futurum-s-newman-believes-ai-trade-isn-t-over-video",
     "image": null,
-    "pushedAt": "2026-11-09T05:17:32.115Z"
+    "pushedAt": "2026-11-09T07:28:50.131Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ftse-100-is-riding-an-anti-ai-wave",
     "image": null,
     "pushedAt": "2026-11-09T07:28:22.977Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades",
+    "title": "RBI Said to Query Bank Valuations of Some Bond Derivative Trades",
+    "titleZh": "印度央行表示將詢問部分債券衍生性商品交易的銀行估值",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades",
+    "image": null,
+    "pushedAt": "2026-11-09T07:30:05.388Z"
   }
 ]
