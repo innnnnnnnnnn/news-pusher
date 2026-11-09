@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-    "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-    "titleZh": "隨著川普中期最後期限的臨近，海灣國家為伊朗戰爭可能重啟做好準備",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T19:44:01.664Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
     "title": "Japan prepares for its next natural disaster",
     "titleZh": "日本為下一次天災做準備",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze",
     "image": null,
     "pushedAt": "2026-11-09T02:04:10.659Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/taiwan-stocks-gain-as-authorities-move-to-stem-market-rout",
+    "title": "Taiwan Stocks Jump as Authorities Move to Stem Market Rout",
+    "titleZh": "當局採取行動阻止市場暴跌，台灣股市上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/taiwan-stocks-gain-as-authorities-move-to-stem-market-rout",
+    "image": null,
+    "pushedAt": "2026-11-09T02:09:44.903Z"
   }
 ]
