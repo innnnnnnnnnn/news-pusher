@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/what-to-expect-from-today-s-us-jobs-report-video",
-    "title": "What to Expect From Today's US Jobs Report (Video)",
-    "titleZh": "今天的美國就業報告有何期待（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/what-to-expect-from-today-s-us-jobs-report-video",
-    "image": null,
-    "pushedAt": "2026-11-06T09:47:47.514Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
     "title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
     "titleZh": "中期選舉暴露風險，華爾街同行陷入人工智慧貿易深淵",
@@ -5928,7 +5919,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
     "image": null,
-    "pushedAt": "2026-11-09T20:41:06.922Z"
+    "pushedAt": "2026-11-09T23:11:49.330Z"
   },
   {
     "id": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T23:11:19.515Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "title": "Latest Oil Market News and Analysis for Nov. 10",
+    "titleZh": "11 月 10 日最新石油市場新聞與分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "image": null,
+    "pushedAt": "2026-11-09T23:12:19.515Z"
   }
 ]
