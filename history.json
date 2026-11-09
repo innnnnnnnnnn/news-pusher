@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile",
-    "title": "How Musk’s Starlink Can Challenge AT&T, Verizon and T-Mobile",
-    "titleZh": "馬斯克的星鏈如何挑戰 AT&T、Verizon 和 T-Mobile",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile",
-    "image": null,
-    "pushedAt": "2026-11-05T18:58:57.268Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/us-companies-announce-fewest-october-job-cuts-in-3-years-video",
-    "title": "US Companies Announce Fewest October Job Cuts in Three Years",
-    "titleZh": "美國公司宣布 10 月裁員人數為三年來最少",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/us-companies-announce-fewest-october-job-cuts-in-3-years-video",
-    "image": null,
-    "pushedAt": "2026-11-05T18:59:48.436Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/opinion-the-data-center-fight-is-just-beginning-video",
-    "title": "The Data Center Fight Is Just Beginning",
-    "titleZh": "資料中心之戰才剛開始",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/opinion-the-data-center-fight-is-just-beginning-video",
-    "image": null,
-    "pushedAt": "2026-11-05T16:29:56.040Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/arts/russell-brand-career-timeline.html",
-    "title": "Timeline: How Russell Brand Went From Comedy Star to Convicted Rapist",
-    "titleZh": "時間表：拉塞爾布蘭德如何從喜劇明星變成被定罪的強姦犯",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/arts/russell-brand-career-timeline.html",
-    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00cul-russell-brand-timeline-HFO1-mcbz/00cul-russell-brand-timeline-HFO1-mcbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T19:05:10.604Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
     "title": "American Is Convicted of Murder in Case That Gripped Italy",
     "titleZh": "美國人在義大利發生的案件中被判謀殺罪",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
     "image": null,
     "pushedAt": "2026-11-09T05:03:52.968Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a",
+    "title": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis",
+    "titleZh": "歐洲央行競爭者克拉斯·諾特「會毫不猶豫地」在債務危機中採取行動",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T05:04:21.310Z"
+  },
+  {
+    "id": "https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c",
+    "title": "UK faces China expertise crunch after exodus of senior diplomats",
+    "titleZh": "高級外交官外流後英國面臨中國專業知識短缺",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T05:04:25.157Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6a69328b-3acb-4a74-a909-92249ad959e4",
+    "title": "What markets want from the Democrats",
+    "titleZh": "市場希望從民主黨得到什麼",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6a69328b-3acb-4a74-a909-92249ad959e4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T05:04:29.280Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b",
+    "title": "What Democrats must do now",
+    "titleZh": "民主黨現在必須做什麼",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T05:04:32.906Z"
   }
 ]
