@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
-    "title": "He Felt Stuck in New York. So He Started Walking to California.",
-    "titleZh": "他感覺自己被困在紐約了。於是他開始步行前往加州。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-walking-america-promo/05met-walking-america-hmlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T03:14:59.545Z"
-  },
-  {
-    "id": "https://www.ft.com/content/810c4f31-d3dd-43d7-acc0-c75adf42607b",
-    "title": "South Africa’s incredible shrinking ANC",
-    "titleZh": "南非非國大令人難以置信的萎縮",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/810c4f31-d3dd-43d7-acc0-c75adf42607b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T03:18:52.027Z"
-  },
-  {
     "id": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a",
     "title": "So, about that Anthropic IPO . . .",
     "titleZh": "那麼，關於 Anthropic 的 IPO 。 。 。",
@@ -7260,7 +7242,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-09T03:33:05.646Z"
+    "pushedAt": "2026-11-09T05:34:40.022Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
@@ -8610,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/sessions/2026-11-08/live-q-amp-a-what-s-next-for-nvidia-ai-market-after-jensen-huang-admits-to-affair",
     "image": null,
-    "pushedAt": "2026-11-09T03:33:32.900Z"
+    "pushedAt": "2026-11-09T05:35:04.341Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/expert-nvidia-probe-could-weaken-china-leverage-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T05:32:07.741Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-ceo-s-affair-admission-counters-past-statements-on-ties",
+    "title": "Nvidia CEO’s Affair Admission Counters Past Statements on Ties",
+    "titleZh": "英偉達執行長承認事件反駁了過去有關關係的聲明",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-ceo-s-affair-admission-counters-past-statements-on-ties",
+    "image": null,
+    "pushedAt": "2026-11-09T05:35:31.821Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video",
+    "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
+    "titleZh": "黃的事件讓英偉達捲入中國間諜調查",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-09T05:35:36.658Z"
   }
 ]
