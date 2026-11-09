@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
-    "title": "Lyft Posts Surprise Loss on Settlement, Gives In-Line Outlook",
-    "titleZh": "Lyft 意外遭遇和解損失，展望符合預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
-    "image": null,
-    "pushedAt": "2026-11-05T21:43:57.640Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
-    "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
-    "titleZh": "川普試圖破壞國家選舉。它不起作用。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-election-integrity-01-phqv/05pol-election-integrity-01-phqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T12:14:32.432Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
     "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
     "titleZh": "美國發現外國對中期選舉的干預活動受到抑制",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
     "pushedAt": "2026-11-09T11:23:57.944Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+    "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+    "titleZh": "巴拉圭總統聖地亞哥佩納因上野銀行醜聞辭職",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T11:24:26.197Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
+    "title": "Jensen Huang Puts $200 Billion Dent in Nvidia’s Stock Price",
+    "titleZh": "黃仁勳令 Nvidia 股價下跌 2,000 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
+    "image": null,
+    "pushedAt": "2026-11-09T11:24:30.495Z"
   }
 ]
