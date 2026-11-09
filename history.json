@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
-    "title": "Trump Moves to Make Oval Office a National Monument",
-    "titleZh": "川普採取行動將橢圓形辦公室設為國家紀念碑",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-tzcf/05dc-trump-tzcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T12:31:15.271Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
     "title": "Lucien Smith, Art-World Star, Died From Accidental Drug Overdose",
     "titleZh": "藝術界明星盧西安史密斯因意外吸毒過量而去世",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/ai-developers-face-2027-rate-shock-after-1-trillion-debt-binge",
     "image": null,
     "pushedAt": "2026-11-09T15:07:25.859Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "title": "China’s AI stock-market struggles are a warning",
+    "titleZh": "中國人工智慧股市的困境是一個警告",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "image": null,
+    "pushedAt": "2026-11-09T15:07:53.719Z"
   }
 ]
