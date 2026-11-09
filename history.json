@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a",
-    "title": "Monzo explores fundraising at £7.5bn valuation as private equity talks stall",
-    "titleZh": "由於私募股權談判陷入僵局，Monzo 探索以 75 億英鎊估值融資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T16:28:25.210Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/ai-investment-bust-seen-less-likely-with-data-center-backlash",
     "title": "AI Investment Bust Seen Less Likely With Data-Center Backlash",
     "titleZh": "由於資料中心的強烈反對，人工智慧投資泡沫破裂的可能性較小",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-s-weakness-and-overtures-to-russia-put-ukraine-on-edge",
     "image": null,
     "pushedAt": "2026-11-09T06:40:14.081Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
+    "title": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Global Volatility",
+    "titleZh": "由於人工智慧擔憂加劇全球波動，Alphabet 考慮發售亞洲債券",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
+    "image": null,
+    "pushedAt": "2026-11-09T07:02:54.477Z"
   }
 ]
