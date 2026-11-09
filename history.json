@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
-    "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
-    "titleZh": "盧比歐否認他將辭去工作競選總統的報道",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-rubio-mfpc/05dc-rubio-mfpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T10:47:29.585Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
     "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
     "titleZh": "川普表示，他會見了俄羅斯高級官員，討論烏克蘭和平協議",
@@ -7134,7 +7125,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0288b74-a606-4224-abf9-d4238c4909f5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T13:32:25.308Z"
+    "pushedAt": "2026-11-09T15:46:39.395Z"
   },
   {
     "id": "https://www.ft.com/content/e6a98d84-eadc-40c4-81b9-bff70d4c70b2",
@@ -7143,7 +7134,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e6a98d84-eadc-40c4-81b9-bff70d4c70b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T13:32:49.309Z"
+    "pushedAt": "2026-11-09T15:47:05.071Z"
   },
   {
     "id": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301",
@@ -7151,8 +7142,8 @@
     "titleZh": "歐盟因邊境系統問題起訴 IBM 及其合作夥伴",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F776cd0a6-de54-420b-9d9f-75f7e20201ff.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T13:33:14.570Z"
+    "image": null,
+    "pushedAt": "2026-11-09T15:47:29.018Z"
   },
   {
     "id": "https://www.ft.com/content/64fcc3ce-4597-4516-a4e0-2e2c191027a6",
@@ -7161,7 +7152,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/64fcc3ce-4597-4516-a4e0-2e2c191027a6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T13:33:39.499Z"
+    "pushedAt": "2026-11-09T15:47:52.840Z"
   },
   {
     "id": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
     "image": null,
     "pushedAt": "2026-11-09T15:46:11.705Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/billionaire-brad-jacobs-said-to-near-1-billion-ckx-lands-deal",
+    "title": "Billionaire Brad Jacobs Leads $1 Billion CKX Lands Deal",
+    "titleZh": "億萬富翁 Brad Jacobs 主導 CKX 價值 10 億美元的土地交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/billionaire-brad-jacobs-said-to-near-1-billion-ckx-lands-deal",
+    "image": null,
+    "pushedAt": "2026-11-09T15:48:19.656Z"
   }
 ]
