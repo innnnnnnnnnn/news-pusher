@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-    "title": "Markets realise they hate America’s blue wave",
-    "titleZh": "市場意識到他們討厭美國的藍色浪潮",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-    "image": null,
-    "pushedAt": "2026-11-09T13:46:10.855Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/05/markets-realise-they-hate-americas-blue-wave",
     "title": "Markets realise they hate America’s blue wave",
     "titleZh": "市場意識到他們討厭美國的藍色浪潮",
@@ -4812,7 +4803,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-09T12:05:19.982Z"
+    "pushedAt": "2026-11-09T14:19:30.788Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
@@ -6621,7 +6612,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1b67f9c7-b1ad-4b5b-b496-ac3a305ec841?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T12:05:43.453Z"
+    "pushedAt": "2026-11-09T14:19:54.686Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
@@ -8605,12 +8596,12 @@
   },
   {
     "id": "https://www.ft.com/content/35a315a6-f3bb-4673-a65d-81a17114a208",
-    "title": "Alberta leader faces backlash after winning referendum vote to remain in Canada",
+    "title": "Alberta leader faces backlash after winning referendum to remain in Canada",
     "titleZh": "阿爾伯塔省領導人在贏得留在加拿大的公投後面臨強烈反對",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/35a315a6-f3bb-4673-a65d-81a17114a208?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T12:04:46.642Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00febb88-c7b0-41d0-b767-6186aa5f11a2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-09T14:18:43.300Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/how-ai-may-be-aiding-not-hurting-us-employment-growth",
@@ -8619,7 +8610,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/how-ai-may-be-aiding-not-hurting-us-employment-growth",
     "image": null,
-    "pushedAt": "2026-11-09T12:04:53.187Z"
+    "pushedAt": "2026-11-09T14:19:06.870Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/vanguard-expands-proxy-vote-plan-to-cover-8-2-trillion-in-funds",
@@ -8637,7 +8628,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T12:06:40.720Z"
+    "pushedAt": "2026-11-09T14:20:18.767Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/nye9u3xfo?ref=rss",
     "image": "https://cdn.flipso.com/p/nye9u3xfo_square.jpg",
     "pushedAt": "2026-11-09T14:07:33.964Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ec66a5d6-70f1-47fc-b573-067dd96dc913",
+    "title": "Germany issues ultimatum to secure Ukraine funding",
+    "titleZh": "德國發出最後通牒以確保烏克蘭獲得資金",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ec66a5d6-70f1-47fc-b573-067dd96dc913?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F581955a2-852b-44d8-8a0b-7ad5d7d0cd7e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-09T14:20:48.052Z"
   }
 ]
