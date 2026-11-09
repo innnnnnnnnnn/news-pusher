@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-    "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
-    "titleZh": "農場地區的搖擺幫助推動民主黨取得勝利",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-farm-vote-01-hlmz/06biz-farm-vote-01-hlmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T23:32:08.713Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
     "titleZh": "親屬稱，沙烏地阿拉伯領導的部隊轟炸也門住宅，炸死九名家庭成員",
@@ -6927,7 +6918,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
     "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-salon/05biz-salon-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T21:19:58.955Z"
+    "pushedAt": "2026-11-09T23:53:57.221Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/neoclouds-confront-dangers-over-demand-debt-and-democracy",
@@ -8655,7 +8646,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html",
     "image": null,
-    "pushedAt": "2026-11-09T21:19:31.406Z"
+    "pushedAt": "2026-11-09T23:53:31.853Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/amd-surges-as-ai-chip-trade-returns-closing-bell-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
     "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-canada-libraries-hfgz/00int-canada-libraries-hfgz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T23:53:01.419Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
+    "title": "Japan Household Outlays Fall Most Since Pandemic",
+    "titleZh": "日本家庭支出自大流行以來降幅最大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
+    "image": null,
+    "pushedAt": "2026-11-09T23:54:27.082Z"
   }
 ]
