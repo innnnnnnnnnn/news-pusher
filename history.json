@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/arts/television/late-night-midterms-trump.html",
-    "title": "Late Night Finds Trump Supporters Jumping Ship",
-    "titleZh": "深夜發現川普的支持者跳槽",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/arts/television/late-night-midterms-trump.html",
-    "image": null,
-    "pushedAt": "2026-11-06T16:17:33.442Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasury-traders-make-bullish-bets-ahead-of-jobs-report",
     "title": "US Treasury Traders Make Bullish Bets Ahead of Jobs Report",
     "titleZh": "美國國債交易員在就業報告發布前押注看漲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
     "image": null,
     "pushedAt": "2026-11-09T22:00:09.012Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+    "title": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
+    "titleZh": "約翰‧哈里森 (M. John Harrison) 的《一切的終點》榮獲布克獎",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+    "image": null,
+    "pushedAt": "2026-11-09T22:03:37.004Z"
   }
 ]
