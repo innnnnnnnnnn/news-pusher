@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
-    "title": "Worst Rout Since 2020 Leaves Virtually Nowhere to Hide in Stocks",
-    "titleZh": "自2020年以來最嚴重的美國股市暴跌幾乎無處可藏",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
-    "image": null,
-    "pushedAt": "2026-11-06T01:36:23.664Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain",
     "title": "Yen Regains Haven Appeal as AI Rout Sends Investors to Safety",
     "titleZh": "日圓因避險需求而上漲，加拿大帝國商業銀行 (CIBC) 和野村證券 (Nomura) 看到更多上漲空間",
@@ -8600,8 +8591,8 @@
     "titleZh": "人工智慧生成的名人廣告得到了泰瑞克魯斯 (Terry Crews) 的協助",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/business/09biz-ai-celebrities/09biz-ai-celebrities-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:05:08.834Z"
+    "image": "https://static01.nyt.com/images/2026/11/09/business/09biz-ai-celebrities/09biz-ai-celebrities-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-09T12:14:35.220Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
@@ -8610,7 +8601,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:05:12.938Z"
+    "pushedAt": "2026-11-09T12:14:59.834Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-opening-trade-11-09-2026-video",
     "image": null,
     "pushedAt": "2026-11-09T12:14:07.660Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
+    "title": "AI Bets Meet Higher Capital Costs",
+    "titleZh": "人工智慧押注面臨更高的資本成本",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
+    "image": null,
+    "pushedAt": "2026-11-09T12:15:28.396Z"
   }
 ]
