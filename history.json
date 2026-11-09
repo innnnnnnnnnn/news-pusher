@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
-    "title": "The Political Debate on Daylight Saving Time",
-    "titleZh": "關於夏令時的政治辯論",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
-    "image": null,
-    "pushedAt": "2026-11-05T21:59:46.375Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e",
-    "title": "Why pollsters underestimated size of the ‘blue wave’",
-    "titleZh": "為什麼民調機構低估了民主黨美國中期「藍色浪潮」的規模",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc456deb5-7fa6-4f5e-9def-21ed02181e1b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T18:05:27.859Z"
-  },
-  {
     "id": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0",
     "title": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
     "titleZh": "FirstFT：民主黨中期選舉壓倒性勝利顛覆人工智慧押注，華爾街損失 3.2 兆美元",
@@ -7503,7 +7485,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6ch8adwiv?ref=rss",
     "image": "https://cdn.flipso.com/p/6ch8adwiv_square.jpg",
-    "pushedAt": "2026-11-09T09:56:44.821Z"
+    "pushedAt": "2026-11-09T12:03:56.853Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
@@ -7512,7 +7494,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
-    "pushedAt": "2026-11-09T09:57:08.907Z"
+    "pushedAt": "2026-11-09T12:04:20.774Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/neoclouds-confront-dangers-over-demand-debt-and-democracy",
     "image": null,
     "pushedAt": "2026-11-09T12:03:29.376Z"
+  },
+  {
+    "id": "https://www.ft.com/content/35a315a6-f3bb-4673-a65d-81a17114a208",
+    "title": "Alberta leader faces backlash after winning referendum vote to remain in Canada",
+    "titleZh": "阿爾伯塔省領導人在贏得留在加拿大的公投後面臨強烈反對",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/35a315a6-f3bb-4673-a65d-81a17114a208?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T12:04:46.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/how-ai-may-be-aiding-not-hurting-us-employment-growth",
+    "title": "How AI May Be Aiding, Not Hurting, US Employment Growth",
+    "titleZh": "人工智慧如何幫助而不是損害美國的就業成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/how-ai-may-be-aiding-not-hurting-us-employment-growth",
+    "image": null,
+    "pushedAt": "2026-11-09T12:04:53.187Z"
   }
 ]
