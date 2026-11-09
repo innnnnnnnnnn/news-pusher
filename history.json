@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3066017e-996c-4689-9bd8-021eb70b99ac",
-    "title": "Renewable energy groups boosted by ‘clarity’ of US election results",
-    "titleZh": "美國大選結果「清晰」提振再生能源集團",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3066017e-996c-4689-9bd8-021eb70b99ac?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-07T14:55:47.113Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
-    "title": "Gaming Out the Prospect of a Blue Wave",
-    "titleZh": "展望藍色浪潮的前景",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03db-elections-bvhw/03db-elections-bvhw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T11:58:26.143Z"
-  },
-  {
     "id": "https://www.ft.com/content/80c7a973-1c42-44f6-a4e8-aa1df55e9b2a",
     "title": "La Bola Negra — love, loss and Lorca coalesce in an Oscar-tipped Spanish civil war epic",
     "titleZh": "《La Bola Negra》——愛情、失落和洛爾卡在這部榮獲奧斯卡獎的西班牙內戰史詩中融合在一起",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/7a10bf56-24bd-42f9-b9cf-74c190bfed31?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T05:06:15.923Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+    "titleZh": "拉娜·努塞貝 (Lana Nusseibeh) 的聯合國申辦與阿聯酋在蘇丹的角色相衝突",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T05:06:44.956Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+    "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+    "titleZh": "官員稱，伊朗正在審查有關核計劃的“具體提案”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T05:06:48.406Z"
   }
 ]
