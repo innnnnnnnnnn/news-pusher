@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/e-l-f-ceo-all-of-our-brands-are-growing-video",
-    "title": "e.l.f. CEO: All of Our Brands Are Growing",
-    "titleZh": "e.l.f.執行長：我們所有的品牌都在成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/e-l-f-ceo-all-of-our-brands-are-growing-video",
-    "image": null,
-    "pushedAt": "2026-11-05T23:18:12.854Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
     "title": "Latest Oil Market News and Analysis for Nov. 6",
     "titleZh": "11 月 6 日最新石油市場新聞與分析",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
     "image": null,
     "pushedAt": "2026-11-09T13:24:56.651Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
+    "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
+    "titleZh": "英偉達調查對中美晶片銷售意味著什麼",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
+    "image": null,
+    "pushedAt": "2026-11-09T13:25:27.637Z"
   }
 ]
