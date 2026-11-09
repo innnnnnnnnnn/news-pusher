@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network",
-    "title": "Texas Satellite Maker Raises $730 Million to Launch New Network",
-    "titleZh": "德州衛星製造商籌集 7.3 億美元以推出新網絡",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network",
-    "image": null,
-    "pushedAt": "2026-11-06T00:05:21.628Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/nvidia-plunges-as-ai-sells-off-closing-bell-video",
     "title": "Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell",
     "titleZh": "AI 拋售抹去了 2.3 兆美元，Nvidia 暴跌 9%結束鐘聲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/podcasts/the-headlines/nvidia-ceo-suspected-chinese-spy-stephen-miller-trump-chief-of-staff.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09theheadline001-lpgq/09theheadline001-lpgq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T11:04:50.235Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
+    "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
+    "titleZh": "卡尼維護加拿大主權並誓言在預算中消除無家可歸現象",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-canada-budget-takeaways01-photo-bcmw/05int-canada-budget-takeaways01-photo-bcmw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T11:05:19.343Z"
   }
 ]
