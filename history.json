@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336",
-    "title": "Job adverts will have to publish salaries, ministers say",
-    "titleZh": "部長們表示，招募廣告必須公佈薪資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T08:28:43.822Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
     "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
     "titleZh": "以色列聲稱擁有伊朗化學武器，美國官員意見分歧",
@@ -8250,7 +8241,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bomb-threats-scene01-photo-bqtk/05int-bomb-threats-scene01-photo-bqtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T10:14:45.349Z"
+    "pushedAt": "2026-11-09T12:27:11.289Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/thames-water-creditors-back-debt-extension-as-rescue-talks-drag",
@@ -8619,7 +8610,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/56ff043b-03ca-4ca4-895e-b7e2da369695?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T10:15:11.153Z"
+    "pushedAt": "2026-11-09T12:27:36.371Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b4be65b1-5d8a-470a-9be9-8a892c1c3276?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T12:26:44.697Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
+    "title": "Brazil Startup Exchange Partners With MSCI for Index Derivatives",
+    "titleZh": "巴西新創交易所與 MSCI 合作開發指數衍生性商品",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
+    "image": null,
+    "pushedAt": "2026-11-09T12:28:03.821Z"
   }
 ]
