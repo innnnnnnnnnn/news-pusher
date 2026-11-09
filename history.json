@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1",
-    "title": "Iran celebrates Trump’s election defeat as mediators push for deal to end war",
-    "titleZh": "伊朗慶祝川普大選失敗，調解人推動達成協議以結束戰爭",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F49b8c930-2459-450d-9d0a-98dea1062240.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T17:32:40.409Z"
-  },
-  {
     "id": "https://www.ft.com/content/4e0dbca4-5917-483f-b524-8b8a2b4c54b2",
     "title": "The AI gamble strains for more cash",
     "titleZh": "人工智慧賭博需要更多現金",
@@ -4434,7 +4425,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
     "image": null,
-    "pushedAt": "2026-11-09T15:38:44.965Z"
+    "pushedAt": "2026-11-09T18:07:48.086Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
@@ -4596,7 +4587,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T15:39:09.487Z"
+    "pushedAt": "2026-11-09T18:08:12.029Z"
   },
   {
     "id": "https://flipso.com/p/35gmqe8vi",
@@ -7674,7 +7665,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
     "image": null,
-    "pushedAt": "2026-11-09T15:37:33.346Z"
+    "pushedAt": "2026-11-09T18:06:58.121Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/podcasts/the-headlines/nvidia-ceo-suspected-chinese-spy-stephen-miller-trump-chief-of-staff.html",
@@ -7692,7 +7683,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-canada-budget-takeaways01-photo-bcmw/05int-canada-budget-takeaways01-photo-bcmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T15:38:21.342Z"
+    "pushedAt": "2026-11-09T18:07:22.452Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video",
@@ -8052,7 +8043,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
     "image": null,
-    "pushedAt": "2026-11-09T15:39:33.558Z"
+    "pushedAt": "2026-11-09T18:08:37.540Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
@@ -8079,7 +8070,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs",
     "image": null,
-    "pushedAt": "2026-11-09T15:40:49.442Z"
+    "pushedAt": "2026-11-09T18:09:03.323Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
     "image": null,
     "pushedAt": "2026-11-09T18:04:24.983Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+    "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+    "titleZh": "人工智慧.英偉達執行長黃仁勳 (Jensen Huang) 的精英地位得到提升，但醜聞接踵而至",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-chips-ai-hcpj/09biz-chips-ai-hcpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T18:09:29.296Z"
   }
 ]
