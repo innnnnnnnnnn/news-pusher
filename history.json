@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/bofa-s-piron-says-won-taiwan-dollar-offer-opportunity-video",
-    "title": "BofA’s Piron Says Won, Taiwan Dollar Offer Opportunity",
-    "titleZh": "美國銀行 Piron 稱獲勝，新台幣提供機會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/bofa-s-piron-says-won-taiwan-dollar-offer-opportunity-video",
-    "image": null,
-    "pushedAt": "2026-11-06T06:47:46.704Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/iran-oil-exports-near-zero-but-peace-deal-not-likely-fge-says",
     "title": "Iran Oil Exports Near Zero But Peace Deal Not Likely, FGE Says",
     "titleZh": "FGE表示，伊朗石油出口接近零，但不太可能達成和平協議",
@@ -8610,7 +8601,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T17:50:07.206Z"
+    "pushedAt": "2026-11-09T20:13:41.697Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
@@ -8619,7 +8610,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T17:50:35.603Z"
+    "pushedAt": "2026-11-09T20:14:06.151Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T20:03:03.939Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+    "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
+    "titleZh": "民主黨人要求就川普的人工智慧問題給出答案間諜陰謀中的政策",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-spy-chip-01-hmzq/09dc-spy-chip-01-hmzq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T20:14:32.262Z"
   }
 ]
