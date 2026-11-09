@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/business/media/laura-belin-iowa-political-reporter.html",
-    "title": "For Iowa Journalist Laura Belin, Covering Politics Is a Constant Battle",
-    "titleZh": "對愛荷華州記者勞拉貝林來說，報道政治是一場持久戰",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/business/media/laura-belin-iowa-political-reporter.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/BIZ-IOWA-BELIN-02-wzfb/BIZ-IOWA-BELIN-02-wzfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T22:37:38.688Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/five-credit-portfolio-managers-leave-hedge-fund-brevan-howard",
     "title": "Five Credit Portfolio Managers Leave Hedge Fund Brevan Howard",
     "titleZh": "五位信貸投資組合經理人離開對沖基金 Brevan Howard",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
     "image": null,
     "pushedAt": "2026-11-09T00:19:06.006Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
+    "title": "The digital world is making Islam more diverse",
+    "titleZh": "數位世界使伊斯蘭教更加多元",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
+    "image": null,
+    "pushedAt": "2026-11-09T00:19:35.531Z"
   }
 ]
