@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-deepens-as-japan-south-korea-tumble-video",
-    "title": "AI Selloff Deepens as Japan, South Korea Tumble",
-    "titleZh": "日本、韓國暴跌，人工智慧拋售加劇（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-deepens-as-japan-south-korea-tumble-video",
-    "image": null,
-    "pushedAt": "2026-11-06T11:35:55.371Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/bofa-s-piron-says-won-taiwan-dollar-offer-opportunity-video",
     "title": "BofA’s Piron Says Won, Taiwan Dollar Offer Opportunity",
     "titleZh": "美國銀行 Piron 稱獲勝，新台幣提供機會",
@@ -5775,7 +5766,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T17:39:18.200Z"
+    "pushedAt": "2026-11-09T20:01:21.486Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
@@ -5784,7 +5775,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
     "image": null,
-    "pushedAt": "2026-11-09T17:40:44.879Z"
+    "pushedAt": "2026-11-09T20:02:35.186Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
@@ -8556,7 +8547,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/berkshire-boosts-buybacks-as-operating-income-slips-video",
     "image": null,
-    "pushedAt": "2026-11-09T17:39:45.118Z"
+    "pushedAt": "2026-11-09T20:01:45.639Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/private-credit-s-rapid-growth-draws-regional-fed-banks-scrutiny",
@@ -8565,7 +8556,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/private-credit-s-rapid-growth-draws-regional-fed-banks-scrutiny",
     "image": null,
-    "pushedAt": "2026-11-09T17:40:17.216Z"
+    "pushedAt": "2026-11-09T20:02:10.776Z"
   },
   {
     "id": "https://www.ft.com/content/5ac882f9-8dba-441b-aa59-31a5890135d9",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
     "image": null,
     "pushedAt": "2026-11-09T19:59:35.931Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+    "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+    "titleZh": "波音將裁減 5% 的商用飛機員工",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T20:03:03.939Z"
   }
 ]
