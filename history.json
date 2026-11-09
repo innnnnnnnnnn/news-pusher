@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/horizons-middle-east-africa-11-6-2026-video",
-    "title": "Eisenkot Wins 67 Backers as Israel Awaits Government Decision, Oil Slides on Iran Talks",
-    "titleZh": "中東和非洲地平線 11/6/2026（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/horizons-middle-east-africa-11-6-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-06T12:43:26.196Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-06/uk-markets-join-global-rout",
     "title": "UK Markets Join Global Rout",
     "titleZh": "英國市場加入全球潰敗行列",
@@ -3291,7 +3282,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T18:40:56.988Z"
+    "pushedAt": "2026-11-09T21:04:03.427Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T20:54:50.154Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e",
+    "title": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
+    "titleZh": "阿拉伯和穆斯林領袖推動阻止川普重燃伊朗戰爭",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc7496230-54fb-4e8b-862d-142099d09a3f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-09T21:04:31.466Z"
   }
 ]
