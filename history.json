@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8407d5dc-c231-46aa-a4fb-58d25c85892a",
-    "title": "Xi Jinping’s great purge",
-    "titleZh": "習近平的回音室",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8407d5dc-c231-46aa-a4fb-58d25c85892a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9cb509da-97a4-4561-a772-23aa217eaaf9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-06T18:12:31.729Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
     "title": "Cheap data is great for Indians but not for India’s reputation",
     "titleZh": "廉價數據對印度人來說很好，但對印度的聲譽不利",
@@ -1167,7 +1158,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T14:50:34.453Z"
+    "pushedAt": "2026-11-09T17:18:21.436Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
@@ -1860,7 +1851,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06db-nasdaq-jmfb/06db-nasdaq-jmfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T14:52:41.181Z"
+    "pushedAt": "2026-11-09T17:19:35.271Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
@@ -5685,7 +5676,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-cop31-war-swap-bgvm/08biz-cop31-war-swap-bgvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T14:53:05.377Z"
+    "pushedAt": "2026-11-09T17:19:59.508Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
@@ -5856,7 +5847,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
     "image": null,
-    "pushedAt": "2026-11-09T14:49:40.860Z"
+    "pushedAt": "2026-11-09T17:17:56.368Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/-godzilla-minus-zero-tops-box-office-in-win-for-japanese-film",
@@ -7710,7 +7701,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/3ai3m0be5?ref=rss",
     "image": "https://cdn.flipso.com/p/3ai3m0be5_square.jpg",
-    "pushedAt": "2026-11-09T14:51:46.010Z"
+    "pushedAt": "2026-11-09T17:19:10.741Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-s-affair-sparks-nvidia-crisis-video",
@@ -8124,7 +8115,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-china-huang-jvhc/09biz-china-huang-jvhc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T14:50:58.321Z"
+    "pushedAt": "2026-11-09T17:18:46.041Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/explosion-at-habas-steel-mill-in-western-turkey-kills-three-izmir-governor-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video",
     "image": null,
     "pushedAt": "2026-11-09T17:17:27.978Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
+    "title": "Ecopetrol Taps Bond Market for the First Time in Two Years",
+    "titleZh": "Ecopetrol 兩年來首次涉足債券市場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
+    "image": null,
+    "pushedAt": "2026-11-09T17:20:24.952Z"
   }
 ]
