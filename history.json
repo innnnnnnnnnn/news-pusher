@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-    "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
-    "titleZh": "司法部加大對最高法院墮胎外洩事件的刑事調查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T09:30:46.460Z"
-  },
-  {
     "id": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361",
     "title": "Russell Brand found guilty of rape and sexual assault",
     "titleZh": "拉塞爾·布蘭德被判強姦和性侵犯罪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-s-probe-into-huang-affair-adds-to-ai-trade-risks-video",
     "image": null,
     "pushedAt": "2026-11-09T07:49:26.672Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/tpg-backed-yoco-gets-private-credit-deal-with-3-6-billion-firm",
+    "title": "TPG-Backed Yoco Gets Private-Credit Deal With $3.6 Billion Firm",
+    "titleZh": "TPG 支持的 Yoco 與價值 36 億美元的公司達成私人信貸協議",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/tpg-backed-yoco-gets-private-credit-deal-with-3-6-billion-firm",
+    "image": null,
+    "pushedAt": "2026-11-09T07:49:56.868Z"
   }
 ]
