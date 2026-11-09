@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/492b2c62-8e15-47b3-bf24-842ae62e7217",
-    "title": "Iran-linked ships hover over subsea cables after threats",
-    "titleZh": "與伊朗有關的船隻在受到威脅後懸停在海底電纜上",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/492b2c62-8e15-47b3-bf24-842ae62e7217?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-06T12:22:50.900Z"
-  },
-  {
     "id": "https://www.ft.com/content/105cf446-175e-401b-b310-785051f91dd5",
     "title": "Postcard from Bali: a literary festival in paradise",
     "titleZh": "來自峇裡島的明信片：天堂裡的文學節",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
     "pushedAt": "2026-11-09T18:14:32.966Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+    "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+    "titleZh": "法國指責伊朗對冷凍系統進行網路攻擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T18:19:34.540Z"
   }
 ]
