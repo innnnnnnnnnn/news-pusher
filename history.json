@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
-    "title": "OCBC CEO Raises Outlook as Lending Nudges Profit Higher",
-    "titleZh": "華僑銀行的利潤成長因交易和保險收入下降而受到削弱",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
-    "image": null,
-    "pushedAt": "2026-11-06T01:58:10.274Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
     "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
     "titleZh": "數十名阿富汗婦女被驅逐到阿富汗",
@@ -7638,7 +7629,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
     "image": null,
-    "pushedAt": "2026-11-09T11:22:42.437Z"
+    "pushedAt": "2026-11-09T13:41:36.210Z"
   },
   {
     "id": "https://www.ft.com/content/9d86b87e-52b7-4754-b8b5-0f4da222ec44",
@@ -7647,7 +7638,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9d86b87e-52b7-4754-b8b5-0f4da222ec44?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T11:23:06.919Z"
+    "pushedAt": "2026-11-09T13:42:01.431Z"
   },
   {
     "id": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a",
@@ -8601,7 +8592,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-09T11:23:57.944Z"
+    "pushedAt": "2026-11-09T13:42:26.988Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
@@ -8610,7 +8601,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T11:24:26.197Z"
+    "pushedAt": "2026-11-09T13:42:50.973Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
@@ -8619,7 +8610,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
     "image": null,
-    "pushedAt": "2026-11-09T11:24:30.495Z"
+    "pushedAt": "2026-11-09T13:43:14.998Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/openai-and-anthropic-valuations-fall-as-ai-market-rout-hits-fundraising",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
     "image": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T13:41:08.980Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/s-p-500-futures-rise-as-oil-falls-nvidia-sinks-on-huang-affair",
+    "title": "S&P 500 Futures Rise as Oil Falls; Nvidia Sinks on Huang Affair",
+    "titleZh": "油價下跌，標普 500 指數期貨上漲；英偉達在黃事件中陷入困境",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/s-p-500-futures-rise-as-oil-falls-nvidia-sinks-on-huang-affair",
+    "image": null,
+    "pushedAt": "2026-11-09T13:43:41.011Z"
   }
 ]
