@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term",
-    "title": "Lula Consults Mantega, Leftist Economists on Fiscal Plans",
-    "titleZh": "盧拉就新任期計畫諮詢曼特加和左翼經濟學家",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term",
-    "image": null,
-    "pushedAt": "2026-11-06T11:19:55.970Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
     "title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
     "titleZh": "科技股拋售吸引投資人轉向避險資產，國債飆漲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-09T06:30:35.643Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "title": "US midterms 2026: live results",
+    "titleZh": "2026 年美國中期選舉：即時結果",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "image": null,
+    "pushedAt": "2026-11-09T06:31:04.833Z"
   }
 ]
