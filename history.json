@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
-    "title": "How British Law Informed Russell Brand Trial Coverage",
-    "titleZh": "英國法律如何告知拉塞爾布蘭德審判範圍",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05insider-brand1/05insider-brand-bkjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T09:09:40.190Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues",
     "title": "Japanese Equities Set to Plunge as AI Selloff Continues",
     "titleZh": "隨著人工智慧拋售的持續，日本股市將暴跌",
@@ -1959,7 +1950,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-jobs-promo-index/2026-11-06-jobs-promo-index-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-09T11:10:46.181Z"
+    "pushedAt": "2026-11-09T13:29:01.429Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
@@ -3282,7 +3273,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-09T11:10:21.618Z"
+    "pushedAt": "2026-11-09T13:28:37.292Z"
   },
   {
     "id": "https://www.ft.com/content/c8d86ced-554a-4a41-8fe2-89fe1151324d",
@@ -3318,7 +3309,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
     "image": null,
-    "pushedAt": "2026-11-09T11:11:10.101Z"
+    "pushedAt": "2026-11-09T13:29:25.773Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/nyregion/cornell-fraternity-sex-assault-adviser.html",
@@ -6153,7 +6144,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
     "image": "https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T11:11:34.251Z"
+    "pushedAt": "2026-11-09T13:29:49.732Z"
   },
   {
     "id": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
     "image": null,
     "pushedAt": "2026-11-09T13:28:10.849Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-s-lakos-bujas-sees-investor-selloff-nearing-exhaustion",
+    "title": "Wall Street Sticks With AI Playbook After Historic Tech Unwind",
+    "titleZh": "在歷史性的科技放鬆之後，華爾街堅持人工智慧策略",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-s-lakos-bujas-sees-investor-selloff-nearing-exhaustion",
+    "image": null,
+    "pushedAt": "2026-11-09T13:30:17.242Z"
   }
 ]
