@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/carnage-in-markets-as-asia-hit-by-major-tech-selloff-video",
-    "title": "Carnage in Markets as Asia Hit By Major Tech Selloff",
-    "titleZh": "亞洲遭受重大科技股拋售，市場慘遭屠殺",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/carnage-in-markets-as-asia-hit-by-major-tech-selloff-video",
-    "image": null,
-    "pushedAt": "2026-11-06T05:25:57.901Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/indian-stocks-gain-haven-appeal-as-investors-flee-ai-trade",
     "title": "‘Anti-AI’ Trade Turns Indian Equities Into Asia’s Bright Spot",
     "titleZh": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
@@ -771,7 +762,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-09T16:14:29.526Z"
+    "pushedAt": "2026-11-09T18:37:59.062Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
@@ -1977,7 +1968,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T16:16:06.421Z"
+    "pushedAt": "2026-11-09T18:38:47.785Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
@@ -6774,7 +6765,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T16:15:41.998Z"
+    "pushedAt": "2026-11-09T18:38:23.425Z"
   },
   {
     "id": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/meloni-backs-gas-price-cap-to-curb-bills-ahead-of-italy-election",
     "image": null,
     "pushedAt": "2026-11-09T18:37:31.918Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+    "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+    "titleZh": "川普重新聲稱選舉被操縱，質疑中期結果",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T18:39:14.746Z"
   }
 ]
