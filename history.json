@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-    "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
-    "titleZh": "官員稱美國協助委內瑞拉進行致命無人機攻擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T11:30:41.934Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
     "title": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
     "titleZh": "看漲股市後，華爾街交易員措手不及",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/barrick-mining-moves-on-earnings-google-s-new-ai-chips-video",
     "image": null,
     "pushedAt": "2026-11-09T16:33:43.058Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+    "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+    "titleZh": "民主會鎮壓人工智慧嗎？損害經濟還是拯救經濟？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T16:36:12.705Z"
   }
 ]
