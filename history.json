@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain",
-    "title": "Yen Regains Haven Appeal as AI Rout Sends Investors to Safety",
-    "titleZh": "日圓因避險需求而上漲，加拿大帝國商業銀行 (CIBC) 和野村證券 (Nomura) 看到更多上漲空間",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain",
-    "image": null,
-    "pushedAt": "2026-11-06T01:05:07.431Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
     "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
     "titleZh": "OpenAI 和 Anthropic 設立「作戰室」來打擊有關中期選舉的虛假訊息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
     "image": null,
     "pushedAt": "2026-11-09T12:15:28.396Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
+    "title": "The Clergy in Congress",
+    "titleZh": "國會中的神職人員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09themorning-nl-Clergy-hjgk/09themorning-nl-Clergy-hjgk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T12:15:58.607Z"
   }
 ]
