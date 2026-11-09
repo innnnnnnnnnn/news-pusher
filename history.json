@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-05/now-the-market-is-selling-off-for-real",
-    "title": "Now the Market Is Selling Off for Real",
-    "titleZh": "現在市場正在真正拋售",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/now-the-market-is-selling-off-for-real",
-    "image": null,
-    "pushedAt": "2026-11-05T20:18:16.331Z"
-  },
-  {
-    "id": "https://flipso.com/p/10ei4s4nb",
-    "title": "The Great Pacific Garbage Patch may be changing the color of the ocean",
-    "titleZh": "太平洋大垃圾帶可能正在改變海洋的顏色",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/10ei4s4nb?ref=rss",
-    "image": "https://cdn.flipso.com/p/10ei4s4nb_square.jpg",
-    "pushedAt": "2026-11-09T08:34:45.484Z"
-  },
-  {
     "id": "https://flipso.com/p/wq2a0tglp",
     "title": "How to Lie with Statistics",
     "titleZh": "如何用統計數據說謊",
@@ -6360,7 +6342,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T07:58:34.664Z"
+    "pushedAt": "2026-11-09T10:04:00.770Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
     "image": null,
     "pushedAt": "2026-11-09T10:03:33.547Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b",
+    "title": "Tech sell-off raises risks for SoftBank’s massive AI bet",
+    "titleZh": "科技股拋售增加了軟銀大規模人工智慧押注的風險",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-09T10:04:28.316Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/norway-halts-power-connections-for-new-data-centers",
+    "title": "Norway Halts Power Connections for New Data Centers",
+    "titleZh": "挪威停止新資料中心的電力連接",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/norway-halts-power-connections-for-new-data-centers",
+    "image": null,
+    "pushedAt": "2026-11-09T10:04:32.963Z"
   }
 ]
