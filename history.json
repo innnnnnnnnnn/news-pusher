@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-    "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
-    "titleZh": "科洛姆如何將密西西比州的一次遠射變成一場勢均力敵的比賽",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-colom1-tlkv/04pol-midterms-colom1-tlkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-05T22:30:44.821Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/live-blog/2026-11-05/sohn-investment-conference-in-queenstown",
-    "title": "Sohn Hearts and Minds Queenstown 2026: Live Updates and News",
-    "titleZh": "Sohn Hearts and Minds 皇后鎮 2026：即時更新與新聞",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-05/sohn-investment-conference-in-queenstown",
-    "image": null,
-    "pushedAt": "2026-11-05T22:31:09.341Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-05/real-yield-11-5-2026-video",
     "title": "AI Fears Rattle Wall St., Safe Havens",
     "titleZh": "人工智慧擔心華爾街的安全港",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/softbank-s-mobile-arm-braces-for-possible-ai-correction-in-us",
     "image": null,
     "pushedAt": "2026-11-09T09:35:58.278Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+    "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+    "titleZh": "烏克蘭和平談判本週在阿布達比恢復",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-ukraine-russia-talks-vfqh/09int-ukraine-russia-talks-vfqh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-09T09:36:28.943Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-national-team-ramps-up-etf-buying-to-record-high",
+    "title": "China’s National Team Ramps Up ETF Buying to Record High",
+    "titleZh": "中國國家隊將ETF購買量推向歷史新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-national-team-ramps-up-etf-buying-to-record-high",
+    "image": null,
+    "pushedAt": "2026-11-09T09:36:32.977Z"
   }
 ]
