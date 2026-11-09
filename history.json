@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-    "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
-    "titleZh": "OpenAI 和 Anthropic 設立「作戰室」來打擊有關中期選舉的虛假訊息",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T12:31:25.864Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
     "title": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
     "titleZh": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09themorning-nl-Clergy-hjgk/09themorning-nl-Clergy-hjgk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-09T12:15:58.607Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-litigation-arb-bets-come-under-attack",
+    "title": "Hedge Funds Litigation Arb Bets Come Under Attack",
+    "titleZh": "對沖基金訴訟套利投注受到攻擊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-litigation-arb-bets-come-under-attack",
+    "image": null,
+    "pushedAt": "2026-11-09T12:16:28.791Z"
   }
 ]
