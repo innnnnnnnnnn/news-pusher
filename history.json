@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7",
-    "title": "Trump’s defeat heralds a US retreat",
-    "titleZh": "川普的失敗預示著美國的撤退",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T16:03:24.560Z"
-  },
-  {
     "id": "https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce",
     "title": "The mother of all American course corrections",
     "titleZh": "所有美國課程修正之母",
@@ -6702,7 +6693,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/373a5096-c8a8-44d2-830c-b9d8e0129c78?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T14:18:01.292Z"
+    "pushedAt": "2026-11-10T16:49:26.886Z"
   },
   {
     "id": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770",
@@ -6720,7 +6711,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f771fe38-dfd1-4aad-9ca8-7cb3453cec93?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T14:18:52.808Z"
+    "pushedAt": "2026-11-10T16:49:51.420Z"
   },
   {
     "id": "https://www.ft.com/video/0a7c51ab-2712-4cd0-9e9b-305733dfa0a4",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T16:48:58.063Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video",
+    "title": "Amazon’s Ring Unveils Flying Security Camera",
+    "titleZh": "亞馬遜 Ring 推出飛行安全攝影機",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video",
+    "image": null,
+    "pushedAt": "2026-11-10T16:50:18.205Z"
   }
 ]
