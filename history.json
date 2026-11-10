@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
-    "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-    "titleZh": "烏克蘭對川普中期選舉的失敗表現出謹慎的樂觀態度和一些笑話",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T23:56:50.707Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/jio-ipo-lifts-angel-one-past-zerodha-as-india-s-no-2-broker",
     "title": "Jio IPO Lifts Angel One Past Zerodha as India’s No. 2 Broker",
     "titleZh": "Jio IPO 使 Angel One 超越 Zerodha 成為印度第二大經紀商",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/thai-bond-sales-set-for-rebound-in-2027-as-ai-investment-surges",
     "image": null,
     "pushedAt": "2026-11-10T00:26:18.409Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+    "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+    "titleZh": "英偉達執行長黃仁勳告訴川普，他不知道中國女子涉嫌間諜",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T00:26:50.216Z"
   }
 ]
