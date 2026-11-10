@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-brief-11-06-2026-video",
-    "title": "Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead",
-    "titleZh": "科技股潰敗後，股市拋售暫停反彈；提前發布就業報告",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-brief-11-06-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-06T15:29:18.703Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise",
     "title": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise",
     "titleZh": "隨著利潤的成長，Brookfield 在人工智慧推動下籌集了 250 億美元",
@@ -4326,7 +4317,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T04:20:14.275Z"
+    "pushedAt": "2026-11-10T06:31:13.636Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html",
@@ -6467,8 +6458,8 @@
     "titleZh": "涉嫌與英偉達執行長有聯繫的中國間諜向投資者推銷人工智慧晶片交易",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faee6c8cb-ba0d-44ec-93aa-b6686ff18f55.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T04:21:58.887Z"
+    "image": null,
+    "pushedAt": "2026-11-10T06:32:25.623Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/aluminum-faces-severe-squeeze-as-lme-market-awaits-new-supply",
@@ -7413,7 +7404,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T04:19:50.732Z"
+    "pushedAt": "2026-11-10T06:30:49.713Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
@@ -8115,7 +8106,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania",
     "image": null,
-    "pushedAt": "2026-11-10T04:20:41.674Z"
+    "pushedAt": "2026-11-10T06:31:37.564Z"
   },
   {
     "id": "https://flipso.com/p/jougckm25",
@@ -8709,7 +8700,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline",
     "image": null,
-    "pushedAt": "2026-11-10T04:21:32.477Z"
+    "pushedAt": "2026-11-10T06:32:01.488Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains",
     "image": null,
     "pushedAt": "2026-11-10T06:30:23.331Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
+    "title": "Justice Dept. Accuses Lyft of Disability Discrimination in Lawsuit",
+    "titleZh": "司法部在訴訟中指控 Lyft 有殘疾歧視",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09xp-lyft-vmlk/09xp-lyft-vmlk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T06:32:53.650Z"
   }
 ]
