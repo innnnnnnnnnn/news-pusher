@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-    "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-    "titleZh": "為什麼以色列前陸軍參謀長的下一個任務可能是不可能的任務",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T16:24:18.372Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
     "title": "The New Zealand Election That Could ‘Flip the Table’",
     "titleZh": "紐西蘭大選可能“翻轉局面”",
@@ -1050,7 +1041,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:18:39.647Z"
+    "pushedAt": "2026-11-10T17:48:42.396Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html",
@@ -1392,7 +1383,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
     "image": null,
-    "pushedAt": "2026-11-10T15:19:30.370Z"
+    "pushedAt": "2026-11-10T17:49:31.565Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
@@ -6900,7 +6891,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-lane-sees-december-hike-as-prudent-if-data-don-t-shift",
     "image": null,
-    "pushedAt": "2026-11-10T15:19:05.643Z"
+    "pushedAt": "2026-11-10T17:49:06.563Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
@@ -7268,8 +7259,8 @@
     "titleZh": "川普撤回打擊伊朗的威脅，油價跌破 90 美元",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T15:17:23.095Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12fc5235-47cb-4932-8ebe-a1490412612a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-10T17:48:17.796Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-sonia-gandhi-01-gkwb/10int-sonia-gandhi-01-gkwb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T17:47:49.169Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
+    "title": "Dollar Set for Best Day Since September as CPI Lifts Hike Bets",
+    "titleZh": "隨著消費者物價指數 (CPI) 上漲，美元將迎來 9 月以來最好的一天",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
+    "image": null,
+    "pushedAt": "2026-11-10T17:49:59.048Z"
   }
 ]
