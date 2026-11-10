@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
-    "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
-    "titleZh": "香港民運人士黃之鋒被判入獄10年",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
-    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-hongkong-joshua-hlwt/00int-hongkong-joshua-hlwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T14:39:06.096Z"
-  },
-  {
     "id": "https://flipso.com/p/h02rrkvvb",
     "title": "Boy Names That Became Girl Names (and Vice Versa)",
     "titleZh": "男孩名字變成女孩名字（反之亦然）",
@@ -7908,16 +7899,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f0665cf7-a36f-4573-b7d6-93dda9d59d3f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T15:02:01.741Z"
+    "pushedAt": "2026-11-10T17:32:38.268Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
-    "title": "Brazil Central Bank Signals Caution as Prices Rise, Growth Slows",
+    "title": "Brazil Central Bank Signals Caution on Price Rise, Slowdown",
     "titleZh": "巴西央行認為通膨上升導致經濟放緩",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
     "image": null,
-    "pushedAt": "2026-11-10T15:02:27.172Z"
+    "pushedAt": "2026-11-10T17:33:03.155Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-10/us-cpi-report-for-october-live-updates",
@@ -7926,7 +7917,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/live-blog/2026-11-10/us-cpi-report-for-october-live-updates",
     "image": null,
-    "pushedAt": "2026-11-10T15:02:53.011Z"
+    "pushedAt": "2026-11-10T17:33:27.395Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
@@ -7935,7 +7926,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
     "image": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:03:18.068Z"
+    "pushedAt": "2026-11-10T17:33:51.545Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwayrbrl",
     "image": null,
     "pushedAt": "2026-11-10T17:32:10.664Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/corn-jumps-after-usda-cuts-us-yield-in-another-surprise-move",
+    "title": "Corn Jumps After USDA Cuts US Yield in Another Surprise Move",
+    "titleZh": "美國農業部再次出人意料地削減美國產量後，玉米價格上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/corn-jumps-after-usda-cuts-us-yield-in-another-surprise-move",
+    "image": null,
+    "pushedAt": "2026-11-10T17:34:18.444Z"
   }
 ]
