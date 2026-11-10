@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
-    "title": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
-    "titleZh": "好的、壞的和令人畏懼的：定義中期選舉的 10 個廣告",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
-    "image": null,
-    "pushedAt": "2026-11-07T17:33:07.472Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
     "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
     "titleZh": "伊利亞娜道格拉斯回顧好萊塢最大的“貓大戰”",
@@ -6549,7 +6540,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b2319b74-f4e7-4fc9-bac4-34eb43f47ba4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T15:31:25.142Z"
+    "pushedAt": "2026-11-10T18:03:59.245Z"
   },
   {
     "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10russia-newspaper-01-fpcw/10russia-newspaper-01-fpcw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T18:03:29.935Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3527cf9e-3980-4ccd-a90f-04df0fedce5a",
+    "title": "Labour and the Tories draw battle lines on welfare",
+    "titleZh": "工黨和保守黨在福利問題上劃清界限",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3527cf9e-3980-4ccd-a90f-04df0fedce5a?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff124e41c-afd7-4a8f-997d-44457c2c0407.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-10T18:04:26.151Z"
   }
 ]
