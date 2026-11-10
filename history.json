@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
-    "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
-    "titleZh": "人工智慧.應該是來找我們的工作的。到目前為止，證據好壞參半。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-ai-kfjv/06biz-jobs-report-ai-kfjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:03:46.410Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/rieder-surprised-by-recent-market-action-advises-balanced-strategy",
-    "title": "Rieder Surprised by Recent Market Action, Advises Balanced Strategy",
-    "titleZh": "Rieder 對近期市場走勢感到驚訝，建議採取平衡策略",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/rieder-surprised-by-recent-market-action-advises-balanced-strategy",
-    "image": null,
-    "pushedAt": "2026-11-06T18:45:18.064Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil",
     "title": "TikTok Owner ByteDance Weighs Data Center Expansion in Brazil",
     "titleZh": "TikTok 所有者位元組跳動考慮擴建巴西資料中心",
@@ -7840,12 +7822,12 @@
   },
   {
     "id": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015",
-    "title": "Japan can tell the world what really matters when prepping",
+    "title": "The high price of Japan’s disaster-proof society",
     "titleZh": "日本可以告訴世界在準備好時什麼才是真正重要的",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5be52969-d4df-4073-8313-ed3e4e0ff1ba.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T07:47:18.018Z"
+    "pushedAt": "2026-11-10T10:06:51.074Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
     "image": null,
     "pushedAt": "2026-11-10T10:06:23.422Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/opinion/ezra-klein-podcast-adam-jentleson.html",
+    "title": "Thinking Like a Supermajority",
+    "titleZh": "像絕大多數人一樣思考",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/opinion/ezra-klein-podcast-adam-jentleson.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/opinion/10eks-jentleson-image01/10eks-jentleson-image01-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T10:07:17.079Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+    "title": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
+    "titleZh": "他們在帕金森氏症發病前已經結婚幾十年了。然後是異象。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+    "image": null,
+    "pushedAt": "2026-11-10T10:07:21.680Z"
   }
 ]
