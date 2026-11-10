@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
-    "title": "By The Way: Headlines You May Have Missed",
-    "titleZh": "順便說一句：您可能錯過的頭條新聞",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
-    "image": null,
-    "pushedAt": "2026-11-08T12:24:30.786Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-    "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-    "titleZh": "華爾街策略師稱股市暴跌是買進的新理由",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-    "image": null,
-    "pushedAt": "2026-11-08T12:29:36.455Z"
-  },
-  {
     "id": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c",
     "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
     "titleZh": "波克夏海瑟威斥資 96 億美元進行股票回購",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-10T19:15:51.069Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
+    "title": "NYSE Taps Avalanche For Tokenized Stocks",
+    "titleZh": "紐約證券交易所利用 Avalanche 開發代幣化股票",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
+    "image": null,
+    "pushedAt": "2026-11-10T19:16:22.304Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
+    "title": "Google’s Gemini Targets Health Care’s Data Problem",
+    "titleZh": "Google Gemini 解決醫療保健數據問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
+    "image": null,
+    "pushedAt": "2026-11-10T19:16:27.044Z"
   }
 ]
