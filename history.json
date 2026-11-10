@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cd2c9cef-1ad6-4aa5-ab3f-bffdf7175593",
-    "title": "The views of the frontrunners to succeed Lagarde at the ECB",
-    "titleZh": "歐洲央行接替拉加德領跑者的觀點",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cd2c9cef-1ad6-4aa5-ab3f-bffdf7175593",
-    "image": null,
-    "pushedAt": "2026-11-08T12:51:52.995Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/kettner-the-ai-trade-hasn-t-fundamentally-changed-video",
     "title": "HSBC’s Max Kettner: The AI Trade Hasn’t Fundamentally Changed",
     "titleZh": "匯豐銀行的 Max Kettner：人工智慧產業並未發生根本性變化",
@@ -6495,7 +6486,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T21:32:46.008Z"
+    "pushedAt": "2026-11-10T00:07:44.166Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
@@ -6504,7 +6495,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-deportations-2-plzm/00int-deportations-2-plzm-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-09T21:33:10.448Z"
+    "pushedAt": "2026-11-10T00:08:10.330Z"
   },
   {
     "id": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b",
@@ -7746,7 +7737,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
     "image": null,
-    "pushedAt": "2026-11-09T21:33:34.349Z"
+    "pushedAt": "2026-11-10T00:08:37.195Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/stocks-climb-as-buyers-step-in-despite-nvidia-woes-video",
@@ -8614,12 +8605,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/jbs-profit-hit-as-china-quotas-overshadow-us-beef-improvement",
-    "title": "JBS Profit Hit as China Quotas Overshadow US Beef Improvement",
+    "title": "JBS Profit Hit as China Quotas Overshadow US Beef Recovery",
     "titleZh": "由於中國配額蓋過了美國牛肉改善的影響，JBS 利潤受到打擊",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/jbs-profit-hit-as-china-quotas-overshadow-us-beef-improvement",
     "image": null,
-    "pushedAt": "2026-11-09T21:32:19.054Z"
+    "pushedAt": "2026-11-10T00:07:16.729Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09evening-nl-nvidia-pqtg/09evening-nl-nvidia-pqtg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T00:06:46.740Z"
+  },
+  {
+    "id": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9",
+    "title": "Trump’s Board of Peace warns of ‘immediate humanitarian emergency’ in Gaza",
+    "titleZh": "川普和平委員會警告加薩“緊急人道主義緊急情況”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T00:09:04.227Z"
   }
 ]
