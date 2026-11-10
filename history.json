@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-    "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
-    "titleZh": "關於波蘭克拉科夫大規模槍擊事件您需要了解什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-poland-new-lkct/10int-poland-new-lkct-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:20:45.059Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
     "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says",
     "titleZh": "根據英國《金融時報》報道，Anthropic 以 3.4B 美元的交易為人工智慧資料中心購買電力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/macquarie-to-pay-fine-on-marketing-failure-as-new-ceo-arrives",
     "image": null,
     "pushedAt": "2026-11-10T23:12:12.832Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
+    "title": "Why Indians should have higher standards",
+    "titleZh": "為什麼印度人應該有更高的標準",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
+    "image": null,
+    "pushedAt": "2026-11-10T23:12:41.891Z"
   }
 ]
