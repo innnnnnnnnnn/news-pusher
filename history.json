@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/data-center-delays-risk-an-air-gap-for-chips-lovell-video",
-    "title": "Data Center Delays Risk an ‘Air Gap’ for Chips: Lovell",
-    "titleZh": "資料中心延誤可能導致晶片出現「氣隙」：洛弗爾",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/data-center-delays-risk-an-air-gap-for-chips-lovell-video",
-    "image": null,
-    "pushedAt": "2026-11-07T18:20:42.745Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/power-on-how-private-is-an-always-listening-apple-watch-video",
-    "title": "Power On: How Private Is an Always-Listening Apple Watch?",
-    "titleZh": "開啟電源：始終監聽的 Apple Watch 的隱私性如何？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/power-on-how-private-is-an-always-listening-apple-watch-video",
-    "image": null,
-    "pushedAt": "2026-11-07T18:30:10.890Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/need-better-retirement-education-lusardi-video",
     "title": "Need Better Retirement Education: Lusardi",
     "titleZh": "需要更好的退休教育：Lusardi",
@@ -8403,7 +8385,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T11:04:50.491Z"
+    "pushedAt": "2026-11-10T13:28:54.857Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
@@ -8412,7 +8394,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T11:04:54.767Z"
+    "pushedAt": "2026-11-10T13:29:19.662Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
@@ -8421,7 +8403,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-tanzania-1-phwt/06int-tanzania-1-phwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T11:05:24.459Z"
+    "pushedAt": "2026-11-10T13:29:44.416Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-engulfed-in-scandal-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
     "image": null,
     "pushedAt": "2026-11-10T13:28:26.581Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video",
+    "title": "US Defense Sec. Hegseth Calls Impeachment Effort a Farce",
+    "titleZh": "美國國防部長赫格斯稱彈劾努力是鬧劇",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video",
+    "image": null,
+    "pushedAt": "2026-11-10T13:30:12.378Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/turkey-s-bayraktar-on-financing-energy-transition-video",
+    "title": "Turkey’s Bayraktar on Financing Energy Transition",
+    "titleZh": "土耳其 Bayraktar 談能源轉型融資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/turkey-s-bayraktar-on-financing-energy-transition-video",
+    "image": null,
+    "pushedAt": "2026-11-10T13:30:16.783Z"
   }
 ]
