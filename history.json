@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
-    "title": "Mysterious Request Scrambles Major Supreme Court Gun Case Against Cook County",
-    "titleZh": "神秘的請求擾亂了最高法院針對庫克縣的重大槍支案件",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/05dc-scotus-gun-fjgz/05dc-scotus-gun-fjgz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-08T12:57:47.481Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
     "title": "AI is turning protectionists into free traders",
     "titleZh": "人工智慧正在將保護主義者轉變為自由貿易者",
@@ -3345,7 +3336,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
     "image": null,
-    "pushedAt": "2026-11-10T20:48:07.916Z"
+    "pushedAt": "2026-11-10T23:05:45.343Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/billionaire-brad-jacobs-said-to-near-1-billion-ckx-lands-deal",
@@ -8007,7 +7998,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ebef64b5-103c-46ba-b3b0-546634f74323?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T20:46:52.788Z"
+    "pushedAt": "2026-11-10T23:04:55.190Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
@@ -8016,7 +8007,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-canada-letter-cqlt/07int-canada-letter-cqlt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:47:17.834Z"
+    "pushedAt": "2026-11-10T23:05:20.480Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/clearlake-said-to-weigh-3-5-billion-sale-of-packaging-firm-ipg",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/sonos-plans-many-new-products-next-year-to-capitalize-on-ai-era",
     "image": null,
     "pushedAt": "2026-11-10T23:04:26.873Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
+    "title": "Global bullies have turned uncertainty into a weapon",
+    "titleZh": "全球霸凌者將不確定性變成了武器",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
+    "image": null,
+    "pushedAt": "2026-11-10T23:06:13.109Z"
   }
 ]
