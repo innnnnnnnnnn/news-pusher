@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "title": "Anthropic IPO Buyers See Valuation Down as Low as $1.2 Trillion",
-    "titleZh": "人工智慧潰敗後，人為 IPO 估值預期承壓",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "image": null,
-    "pushedAt": "2026-11-06T15:49:31.525Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/the-pulse-11-6-2026-video",
     "title": "UK & Europe Avoid Worst of Stock Rout",
     "titleZh": "英國和歐洲避免最嚴重的股市暴跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/the-china-show-11-10-2026-video",
     "image": null,
     "pushedAt": "2026-11-10T06:46:32.202Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+    "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+    "titleZh": "歐洲航班遭遇惡作劇炸彈威脅，旅客感到沮喪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-bomb-threat-voices-1-vgjz/06int-bomb-threat-voices-1-vgjz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T06:46:58.872Z"
   }
 ]
