@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
-    "title": "Hero or liability? The debate over Abdul El-Sayed",
-    "titleZh": "英雄還是責任？關於阿卜杜勒·賽義德的辯論",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
-    "image": null,
-    "pushedAt": "2026-11-10T21:22:25.191Z"
-  },
-  {
-    "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
-    "title": "How the Democrats will wield their power",
-    "titleZh": "民主黨將如何運用權力",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
-    "image": null,
-    "pushedAt": "2026-11-10T21:22:49.853Z"
-  },
-  {
-    "id": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-    "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
-    "titleZh": "Anthropic 達成 34 億美元協議，為資料中心提供燃氣發電",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T14:35:45.811Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
     "title": "A Stake Through the Heart of Trump’s Red Map",
     "titleZh": "貫穿川普紅地圖核心的一根木樁",
@@ -8998,5 +8971,32 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
     "pushedAt": "2026-11-10T23:08:59.652Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "title": "Republicans are in for a brutal presidential contest",
+    "titleZh": "共和黨人將面臨殘酷的總統競選",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "image": null,
+    "pushedAt": "2026-11-10T23:11:02.951Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+    "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
+    "titleZh": "甘迺迪家族採取行動封鎖川普的拱門，稱這會打擾甘迺迪墓地",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T23:11:06.567Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/walker-dunlop-ceo-on-27-data-center-buildout-outlook-video",
+    "title": "Walker & Dunlop CEO on ‘27 Data Center Buildout Outlook",
+    "titleZh": "Walker & Dunlop 執行長談“27 資料中心建設展望”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/walker-dunlop-ceo-on-27-data-center-buildout-outlook-video",
+    "image": null,
+    "pushedAt": "2026-11-10T23:11:08.464Z"
   }
 ]
