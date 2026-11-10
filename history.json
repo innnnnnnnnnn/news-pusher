@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
-    "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
-    "titleZh": "研究人員在泰晤士報/錫耶納民意調查發布之前發現了卡爾希和 Polymarket 上的可疑活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-10T13:56:27.747Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
     "title": "U.S. Homeless Population Had Record Drop in 2025",
     "titleZh": "2025 年美國無家可歸人口下降創紀錄",
@@ -357,7 +348,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T13:54:47.154Z"
+    "pushedAt": "2026-11-10T16:24:18.372Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
@@ -4560,7 +4551,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
     "image": null,
-    "pushedAt": "2026-11-10T13:56:02.579Z"
+    "pushedAt": "2026-11-10T16:25:08.007Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/peloton-taps-junk-bond-market-for-first-time-in-refinancing-deal",
@@ -7125,7 +7116,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T13:54:22.429Z"
+    "pushedAt": "2026-11-10T16:23:52.804Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/new-world-s-top-shareholder-seeks-bank-loan-as-equity-deal-looms",
@@ -7935,7 +7926,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel",
     "image": null,
-    "pushedAt": "2026-11-10T13:55:36.815Z"
+    "pushedAt": "2026-11-10T16:24:43.560Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/hsbc-s-sels-rotates-away-from-semiconductors-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T16:23:24.069Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing",
+    "title": "Goldman, Citi Among Banks in $270 Million Stablecoin Backing",
+    "titleZh": "高盛、花旗等銀行提供 2.7 億美元穩定幣支持",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing",
+    "image": null,
+    "pushedAt": "2026-11-10T16:26:00.398Z"
   }
 ]
