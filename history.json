@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/boj-s-ueda-says-unclear-how-long-2-inflation-rate-will-remain",
-    "title": "BOJ’s Ueda Says Unclear How Long 2% Inflation Rate Will Remain",
-    "titleZh": "日本央行行長上田表示尚不清楚 2% 的通膨率將持續多久",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/boj-s-ueda-says-unclear-how-long-2-inflation-rate-will-remain",
-    "image": null,
-    "pushedAt": "2026-11-07T16:01:57.634Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-    "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
-    "titleZh": "專家警告美國全球衛生策略危害流行病預防",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00dc-pandemic-prep1-vzcq/00dc-pandemic-prep1-vzcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:56:11.155Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
     "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate",
     "titleZh": "忘記密西根吧。阿拉斯加的一場災難可能會讓民主黨失去參議院席位",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-engulfed-in-scandal-video",
     "image": null,
     "pushedAt": "2026-11-10T11:05:53.805Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+    "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+    "titleZh": "特斯拉將結束其 Cyber​​truck 的生產並重新專注於 Cyber​​cab",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-tesla-cybertruck-1-ltfz/06biz-tesla-cybertruck-1-ltfz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T11:06:20.375Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/falling-oil-prices-and-bond-yields-offer-investors-some-relief",
+    "title": "Falling Oil Prices and Bond Yields Offer Investors Some Relief",
+    "titleZh": "油價和債券殖利率下跌讓投資人鬆了一口氣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/falling-oil-prices-and-bond-yields-offer-investors-some-relief",
+    "image": null,
+    "pushedAt": "2026-11-10T11:06:25.599Z"
   }
 ]
