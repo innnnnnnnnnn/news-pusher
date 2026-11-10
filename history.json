@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-    "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
-    "titleZh": "MS NOW 上的糖果和微笑，以及福克斯新聞上的一些遺憾",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-    "image": null,
-    "pushedAt": "2026-11-08T09:29:34.716Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
     "title": "Taiwan to Deploy Market Stabilization Fund After Stock Rout",
     "titleZh": "股市暴跌後台灣將部署市場穩定基金",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
     "image": null,
     "pushedAt": "2026-11-10T00:54:26.696Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+    "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+    "titleZh": "12 天內搭乘 12 架飛機：手術幾週後，教宗開始拉丁美洲主要之旅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T00:54:56.050Z"
   }
 ]
