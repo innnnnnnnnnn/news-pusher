@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/52770926-e4b9-4005-9e2f-332eb7dc6631",
-    "title": "Blowout October payrolls data sets up Federal Reserve December rate rise",
-    "titleZh": "10月就業數據井噴推動聯準會12月升息",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/52770926-e4b9-4005-9e2f-332eb7dc6631",
-    "image": null,
-    "pushedAt": "2026-11-07T02:43:39.224Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/uk-inheritance-tax-changes-spur-higher-pension-withdrawals",
     "title": "UK Inheritance Tax Changes Spur Higher Pension Withdrawals",
     "titleZh": "英國遺產稅變化刺激退休金提款增加",
@@ -2112,7 +2103,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
     "image": null,
-    "pushedAt": "2026-11-10T07:35:20.172Z"
+    "pushedAt": "2026-11-10T09:52:08.222Z"
   },
   {
     "id": "https://www.ft.com/content/76a2208d-62c8-46f7-bada-554201d78cf4",
@@ -7908,7 +7899,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike",
     "image": null,
-    "pushedAt": "2026-11-10T07:35:43.527Z"
+    "pushedAt": "2026-11-10T09:52:32.527Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
@@ -7917,7 +7908,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
     "image": null,
-    "pushedAt": "2026-11-10T07:36:06.975Z"
+    "pushedAt": "2026-11-10T09:52:56.699Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
@@ -8196,7 +8187,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-China-trade-wmht/10biz-China-trade-wmht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:36:31.330Z"
+    "pushedAt": "2026-11-10T09:53:21.245Z"
   },
   {
     "id": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09",
@@ -8735,8 +8726,8 @@
     "titleZh": "沙烏地阿拉伯判處非婚生子母親鞭打 100 下",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:34:26.036Z"
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-10T09:51:20.327Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
@@ -8745,7 +8736,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
     "image": "https://static01.nyt.com/images/2026/11/06/world/africa/kenya-cult-cover-image/kenya-cult-cover-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:34:53.546Z"
+    "pushedAt": "2026-11-10T09:51:44.084Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/hungary-inflation-accelerates-for-third-month-as-key-rate-steady",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T09:50:52.174Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-filing-misstep-adds-drama-ahead-of-ipo-video",
+    "title": "Anthropic Filing Misstep Adds Drama Ahead of IPO (Video)",
+    "titleZh": "人為申報失誤為 IPO 增添戲劇性（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-filing-misstep-adds-drama-ahead-of-ipo-video",
+    "image": null,
+    "pushedAt": "2026-11-10T09:53:45.744Z"
   }
 ]
