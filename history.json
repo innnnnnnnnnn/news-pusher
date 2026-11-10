@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
-    "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
-    "titleZh": "舒默以井噴選舉提升參議院地位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-schumer-wgpk/07dc-schumer-wgpk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T09:10:09.129Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
     "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
     "titleZh": "也門戰爭最慘重的 24 小時之一造成 50 多人死亡",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-habba-jvqt/10dc-habba-jvqt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T19:54:38.550Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+    "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+    "titleZh": "警方稱克拉科夫持槍歹徒開槍 波蘭至少6人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T19:55:08.498Z"
   }
 ]
