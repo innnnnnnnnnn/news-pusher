@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
-    "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
-    "titleZh": "蘇西·懷爾斯是最新一位退出川普政府的有權勢女性",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06trump-wiles-women1-tbkh/06trump-wiles-women1-tbkh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T18:07:05.191Z"
-  },
-  {
-    "id": "https://flipso.com/p/0ffopx6b4",
-    "title": "Akrotiri, Greece’s Bronze Age Pompeii",
-    "titleZh": "阿克羅蒂裡，希臘青銅時代的龐貝古城",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/0ffopx6b4?ref=rss",
-    "image": "https://cdn.flipso.com/p/0ffopx6b4_square.jpg",
-    "pushedAt": "2026-11-10T15:25:04.689Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-    "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
-    "titleZh": "川普在提升史蒂芬米勒的地位時加倍推行強硬路線",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-wiles-pkbj/06dc-wiles-pkbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T17:50:22.887Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
     "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
     "titleZh": "北京誓言反擊美國對中國企業的製裁",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-gaza-floods-01-tgqc/10int-gaza-floods-01-tgqc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T16:11:50.418Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
+    "title": "Nagel: ECB Rate Hike in December Looks ‘Rather Obvious’ (Video)",
+    "titleZh": "內格爾：歐洲央行 12 月升息看起來「相當明顯」（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
+    "image": null,
+    "pushedAt": "2026-11-10T16:12:20.293Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/treasury-yields-jump-as-inflation-fuels-fed-wagers-video",
+    "title": "Treasury Yields Jump as Inflation Fuels Fed Wagers",
+    "titleZh": "通膨加劇聯準會押注，國債殖利率飆升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/treasury-yields-jump-as-inflation-fuels-fed-wagers-video",
+    "image": null,
+    "pushedAt": "2026-11-10T16:12:26.955Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/us-household-delinquencies-rise-slightly-ny-fed-report-shows",
+    "title": "US Household Delinquencies Rise Slightly, NY Fed Report Shows",
+    "titleZh": "紐約聯邦儲備銀行報告顯示，美國家庭拖欠率略有上升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-household-delinquencies-rise-slightly-ny-fed-report-shows",
+    "image": null,
+    "pushedAt": "2026-11-10T16:12:32.011Z"
   }
 ]
