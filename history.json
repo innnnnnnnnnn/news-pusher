@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-s-teskey-calls-social-license-crucial-for-ai-growth",
-    "title": "Brookfield’s Teskey Calls ‘Social License’ Crucial for AI Growth",
-    "titleZh": "Brookfield 的 Teskey 稱「社會許可」對於人工智慧的發展至關重要",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-s-teskey-calls-social-license-crucial-for-ai-growth",
-    "image": null,
-    "pushedAt": "2026-11-06T19:32:38.942Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html",
-    "title": "She Commands the Sunken Titanic, From 1,000 Miles Away",
-    "titleZh": "她在 1,000 英里外指揮沉沒的泰坦尼克號",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00cul-titanic-judge-02-wjvq/00cul-titanic-judge-02-wjvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T04:18:07.848Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/apollo-s-brightspeed-in-creditor-talks-for-billions-in-new-money",
     "title": "Apollo’s Brightspeed in Creditor Talks for Billions in New Money",
     "titleZh": "Apollo 的 Brightspeed 在債權人談判中尋求數十億新資金",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/10/insider/el-nino-california-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/09/climate/09insider-california-fires-stillpromo/09insider-california-fires-stillpromo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T11:02:33.720Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+    "title": "Bartleby newsletter: The case for scientific methods of decision-making",
+    "titleZh": "巴特比通訊：科學決策方法的案例",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+    "image": null,
+    "pushedAt": "2026-11-10T11:03:01.959Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-11-10T11:03:03.789Z"
   }
 ]
