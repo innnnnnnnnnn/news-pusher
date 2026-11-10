@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-    "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-    "titleZh": "查爾斯國王在加勒比海之旅中不帶雨傘但很自在",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T16:02:34.112Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
     "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
     "titleZh": "法國計劃在充滿不滿的秋天再次舉行抗議活動",
@@ -6720,7 +6711,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe7c5f50-767d-49c4-acce-5482424308b2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T14:17:34.529Z"
+    "pushedAt": "2026-11-10T16:47:29.600Z"
   },
   {
     "id": "https://www.ft.com/content/373a5096-c8a8-44d2-830c-b9d8e0129c78",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T16:47:01.164Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
+    "title": "Hedge Funds Ask SEC, CFTC to Go Slow in Push to 24/7 Trading",
+    "titleZh": "對沖基金要求 SEC 和 CFTC 放慢推進 24/7 交易的步伐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
+    "image": null,
+    "pushedAt": "2026-11-10T16:47:56.064Z"
   }
 ]
