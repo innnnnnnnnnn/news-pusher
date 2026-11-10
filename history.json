@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df",
-    "title": "Gunman kills six in Kraków shooting",
-    "titleZh": "克拉科夫槍擊事件造成六人死亡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T18:08:12.029Z"
-  },
-  {
     "id": "https://flipso.com/p/35gmqe8vi",
     "title": "A globe-spanning feud over priceless art",
     "titleZh": "圍繞無價藝術品的全球紛爭",
@@ -8393,8 +8384,8 @@
     "titleZh": "Mamdani 一直是 ICE 的激烈反對者。一位法官給了他一個挫折。",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/nyregion/ice-mamdani-migrants-court-ruling.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-ice-subpoena-cpzt/10met-ice-subpoena-cpzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T17:47:44.221Z"
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-ice-subpoena-promo-vpck/10met-ice-subpoena-promo-vpck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T20:24:07.026Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/438a36a5-a711-4fe1-b3d8-83020197a0ed?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-10T20:20:05.577Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+    "title": "On the Defense: Takeaways from Hegseth’s Remarks on Articles of Impeachment",
+    "titleZh": "辯護方：赫格賽斯關於彈劾條款言論的要點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T20:24:33.195Z"
   }
 ]
