@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0",
-    "title": "Russia races to build rival to Elon Musk’s Starlink",
-    "titleZh": "俄羅斯競相打造與伊隆馬斯剋星鏈相抗衡的衛星",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T23:51:44.726Z"
-  },
-  {
     "id": "https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67",
     "title": "Argentina’s Milei dreams of data centres on the Patagonian steppe",
     "titleZh": "阿根廷的 Milei 夢想在巴塔哥尼亞草原上建立資料中心",
@@ -2517,7 +2508,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T18:55:35.799Z"
+    "pushedAt": "2026-11-10T21:27:58.098Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
@@ -3336,7 +3327,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
     "image": null,
-    "pushedAt": "2026-11-10T18:52:29.562Z"
+    "pushedAt": "2026-11-10T21:26:41.920Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/peloton-taps-junk-bond-market-for-first-time-in-refinancing-deal",
@@ -6162,7 +6153,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fff74046c-4b60-4164-afb4-2963ea7cdb12.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T18:54:42.717Z"
+    "pushedAt": "2026-11-10T21:27:32.446Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/state-street-remains-positive-on-tech-stocks-video",
@@ -7791,7 +7782,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-10T18:52:54.577Z"
+    "pushedAt": "2026-11-10T21:27:07.296Z"
   },
   {
     "id": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/coreweave-rallies-on-ai-outlook-closing-bell-video",
     "image": null,
     "pushedAt": "2026-11-10T21:26:13.787Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
+    "title": "La crisis de Nvidia expone su dependencia de Jensen Huang",
+    "titleZh": "Nvidia 危機暴露出對黃仁勳的依賴",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
+    "image": null,
+    "pushedAt": "2026-11-10T21:28:24.600Z"
   }
 ]
