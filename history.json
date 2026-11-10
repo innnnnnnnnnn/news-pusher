@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/options-volumes-soar-to-record-levels-on-post-election-sell-off",
-    "title": "Options Volumes Soar to Record Levels on Post-Election Sell Off",
-    "titleZh": "選舉後拋售導致選擇權交易量飆升至創紀錄水平",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/options-volumes-soar-to-record-levels-on-post-election-sell-off",
-    "image": null,
-    "pushedAt": "2026-11-06T20:51:58.766Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
     "title": "John Frieda, Hair-Care Mogul Who Soothed Women’s Curls, Has Died",
     "titleZh": "舒緩女性捲髮的護髮大亨約翰·弗里達去世",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-faces-fresh-us-scrutiny-on-megaspeed-probe-video",
     "image": null,
     "pushedAt": "2026-11-10T12:31:54.990Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89",
+    "title": "The UK has an inflation problem",
+    "titleZh": "英國通膨問題",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T12:32:23.289Z"
   }
 ]
