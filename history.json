@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
-    "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
-    "titleZh": "南方民主黨現在有機會領導。他們會用它做什麼？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-south-democrats-klqj/06nat-south-democrats-klqj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T09:03:36.767Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
     "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
     "titleZh": "檢察官誓言繼續在加州追究死刑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/opinion-where-does-jensen-huang-s-dishonesty-end-video",
     "image": null,
     "pushedAt": "2026-11-10T16:10:23.806Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+    "title": "A political revolution in Texas",
+    "titleZh": "德克薩斯州的政治革命",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+    "image": null,
+    "pushedAt": "2026-11-10T16:10:54.297Z"
   }
 ]
