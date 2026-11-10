@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede",
-    "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
-    "titleZh": "Apple 透過在新加坡登記利潤節省了 27 億美元的稅款",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T05:51:56.686Z"
-  },
-  {
     "id": "https://www.ft.com/content/9d49deb8-33f6-4375-9216-a95dbb915576",
     "title": "UK must ‘catch up’ with Europe in opposing Russian threat, says military chief",
     "titleZh": "軍事參謀長表示，英國在對抗俄羅斯威脅方面必須「趕上」歐洲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
     "image": null,
     "pushedAt": "2026-11-10T21:16:18.875Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+    "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+    "titleZh": "豐田計劃在美國銷售 Kei 皮卡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-toyota-kei-truck-01-gpvw/10biz-toyota-kei-truck-01-gpvw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T21:17:14.536Z"
   }
 ]
