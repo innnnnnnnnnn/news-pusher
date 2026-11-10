@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
-    "title": "Pentagon Taps Robotics Startup in Push for Cheap Attack Drones",
-    "titleZh": "五角大廈利用機器人新創公司推動廉價攻擊無人機",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
-    "image": null,
-    "pushedAt": "2026-11-06T15:45:14.080Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
     "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
     "titleZh": "歐洲航班遭遇惡作劇炸彈威脅，旅客感到沮喪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/villa-vie-odyssey-arrested-in-singapore-as-round-the-world-cruise-dream-falters",
     "image": null,
     "pushedAt": "2026-11-10T06:40:24.437Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
+    "title": "After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain",
+    "titleZh": "在遭受 2.5 兆美元損失後，科技投資者準備迎接更多痛苦",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06db-nasdaq-jmfb/06db-nasdaq-jmfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T06:40:50.592Z"
   }
 ]
