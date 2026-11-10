@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/article/france-student-protests-why.html",
-    "title": "Why Are There Protests in France?",
-    "titleZh": "法國為何爆發抗議活動？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/article/france-student-protests-why.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T07:25:49.947Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
     "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
     "titleZh": "美國批准向辦公室空蕩、關係緊張的中國公司供應英偉達晶片",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T17:52:46.596Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+    "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+    "titleZh": "歐洲的炸彈威脅和網路攻擊給日常生活帶來不安",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T17:53:15.457Z"
   }
 ]
