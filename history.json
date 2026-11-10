@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298",
-    "title": "Data centres rebuked",
-    "titleZh": "資料中心飽受批評",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T13:51:01.076Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
     "title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
     "titleZh": "新崛起的民主黨人開始為塑造黨的未來而戰",
@@ -492,7 +483,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/z9fy9vukf?ref=rss",
     "image": "https://cdn.flipso.com/p/z9fy9vukf_square.jpg",
-    "pushedAt": "2026-11-10T15:22:04.580Z"
+    "pushedAt": "2026-11-10T17:55:54.129Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
@@ -4866,7 +4857,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
     "image": null,
-    "pushedAt": "2026-11-10T15:21:38.578Z"
+    "pushedAt": "2026-11-10T17:55:29.557Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T17:55:01.882Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/ex-world-bank-economist-is-running-for-polish-rate-setting-panel",
+    "title": "Ex-World Bank Economist Is Running For Polish Rate-Setting Panel",
+    "titleZh": "前世界銀行經濟學家正在競選波蘭利率制定小組成員",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/ex-world-bank-economist-is-running-for-polish-rate-setting-panel",
+    "image": null,
+    "pushedAt": "2026-11-10T17:56:22.689Z"
   }
 ]
