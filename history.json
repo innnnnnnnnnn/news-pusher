@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
-    "title": "US Consumer Credit Surges by Most in Nearly Four Years",
-    "titleZh": "美國消費者信貸增幅近四年來最大",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
-    "image": null,
-    "pushedAt": "2026-11-07T18:38:29.282Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
     "title": "Don't Think Social Security Going Away: Lusardi",
     "titleZh": "不要認為社會安全保障會消失：Lusardi",
@@ -2877,7 +2868,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T11:07:19.329Z"
+    "pushedAt": "2026-11-10T13:33:33.668Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike",
     "image": null,
     "pushedAt": "2026-11-10T13:33:06.016Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
+    "title": "Monthly US inflation rose 0.4% in October",
+    "titleZh": "美國10月通膨率上升0.4%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T13:34:03.053Z"
   }
 ]
