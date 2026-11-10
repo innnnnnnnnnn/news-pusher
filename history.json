@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-    "title": "Medicare Advantage vs. Traditional Medicare, Explained",
-    "titleZh": "醫療保險優勢與傳統醫療保險的解釋",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:21:26.192Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
     "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
     "titleZh": "世界上的動漫還不夠多。日本能否從其成功中獲利？",
@@ -7458,7 +7449,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-wealth-tax-hbpg/10dc-wealth-tax-hbpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:17:29.436Z"
+    "pushedAt": "2026-11-10T22:35:18.822Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
@@ -7970,8 +7961,8 @@
     "titleZh": "英偉達投資者關於（可能）失去執行長的指南",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1052710f-8be3-4433-a54e-d2429ddae9a5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T20:17:55.442Z"
+    "image": null,
+    "pushedAt": "2026-11-10T22:35:43.885Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
     "image": null,
     "pushedAt": "2026-11-10T22:34:51.023Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+    "titleZh": "隨著聯準會升息押注增加，亞洲股市和債券將下跌：市場結束",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "image": null,
+    "pushedAt": "2026-11-10T22:36:13.106Z"
   }
 ]
