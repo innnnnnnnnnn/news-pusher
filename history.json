@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
-    "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-    "titleZh": "波克夏海瑟威的營業利潤下降，回購增加",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
-    "image": null,
-    "pushedAt": "2026-11-08T14:07:28.926Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
     "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
     "titleZh": "川普推動的華盛頓加密貨幣繁榮已達到尾聲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/magazine/human-grade-dog-food.html",
     "image": "https://static01.nyt.com/images/2026/11/15/magazine/15mag-ididit/15mag-ididit-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-10T19:14:36.928Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+    "title": "This Law Firm Just Bought Malpractice Insurance for its A.I. Agents",
+    "titleZh": "這家律師事務所剛剛為其人工智慧購買了醫療事故保險。代理商",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T19:15:09.082Z"
   }
 ]
