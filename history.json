@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/04b1bc84-981e-4996-b98e-ade9603045b8",
-    "title": "Five great British getaways",
-    "titleZh": "五個絕佳的英國度假勝地",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/04b1bc84-981e-4996-b98e-ade9603045b8",
-    "image": null,
-    "pushedAt": "2026-11-07T18:56:36.811Z"
-  },
-  {
     "id": "https://www.ft.com/content/b03f1688-be8f-4c7e-946d-7ccea5d9d524",
     "title": "Martin Wolf on the US midterms: What will the Democrats do next?",
     "titleZh": "馬丁沃爾夫談美國中期選舉：民主黨接下來會做什麼？",
@@ -4479,7 +4470,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
     "image": null,
-    "pushedAt": "2026-11-10T14:52:12.613Z"
+    "pushedAt": "2026-11-10T17:21:51.360Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
@@ -7287,7 +7278,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
     "image": null,
-    "pushedAt": "2026-11-10T14:50:29.039Z"
+    "pushedAt": "2026-11-10T17:20:36.017Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
@@ -7296,7 +7287,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-turkey-cop-01-bjkt/10int-turkey-cop-01-bjkt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T14:50:54.839Z"
+    "pushedAt": "2026-11-10T17:21:00.757Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
@@ -7305,7 +7296,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T14:51:19.628Z"
+    "pushedAt": "2026-11-10T17:21:25.954Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/franklin-templeton-brazil-trims-risk-sees-no-changes-with-lula",
     "image": null,
     "pushedAt": "2026-11-10T17:20:07.475Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
+    "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft",
+    "titleZh": "Anthropic 在 IPO 前推出辦公室工具，挑戰微軟",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
+    "image": null,
+    "pushedAt": "2026-11-10T17:22:18.127Z"
   }
 ]
