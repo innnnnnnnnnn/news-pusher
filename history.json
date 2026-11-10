@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
-    "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
-    "titleZh": "負責川普復仇運動核心的美國檢察官辭職",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/dc-quinones-vzfc/dc-quinones-vzfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T08:41:07.137Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/opinion/trump-tariffs-economy.html",
-    "title": "Trump’s Tariffs Have Failed. Bring Back Reaganomics.",
-    "titleZh": "川普的關稅失敗了。帶回雷根經濟學。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/opinion/trump-tariffs-economy.html",
-    "image": null,
-    "pushedAt": "2026-11-06T19:14:59.744Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
     "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
     "titleZh": "梅根馬克爾的父親因兒童性虐待材料指控被捕",
@@ -7098,7 +7080,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
     "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
-    "pushedAt": "2026-11-10T08:31:03.900Z"
+    "pushedAt": "2026-11-10T10:47:57.750Z"
   },
   {
     "id": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/kazaks-sees-rate-hike-judgments-getting-more-nuanced-video",
     "image": null,
     "pushedAt": "2026-11-10T10:40:16.411Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
+    "title": "Here’s why last year’s government shutdown will haunt October’s inflation data.",
+    "titleZh": "這就是為什麼去年的政府關門會影響 10 月的通膨數據。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
+    "image": null,
+    "pushedAt": "2026-11-10T10:48:22.511Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/inflation-economy-cpi",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/inflation-economy-cpi",
+    "image": null,
+    "pushedAt": "2026-11-10T10:48:25.361Z"
   }
 ]
