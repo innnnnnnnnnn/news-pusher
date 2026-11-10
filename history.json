@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe",
-    "title": "How to think about wealth taxation",
-    "titleZh": "如何思考財富稅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T03:22:04.694Z"
-  },
-  {
     "id": "https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f",
     "title": "Wall Street bets Democratic sweep will empower moderates in Washington",
     "titleZh": "華爾街押注民主黨大獲全勝將賦予華盛頓溫和派權力",
@@ -2904,7 +2895,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6ivpgrf21?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-10T21:15:22.322Z"
+    "pushedAt": "2026-11-10T23:40:30.528Z"
   },
   {
     "id": "https://flipso.com/p/nye9u3xfo",
@@ -2913,7 +2904,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/nye9u3xfo?ref=rss",
     "image": "https://cdn.flipso.com/p/nye9u3xfo_square.jpg",
-    "pushedAt": "2026-11-10T21:16:46.526Z"
+    "pushedAt": "2026-11-10T23:41:47.381Z"
   },
   {
     "id": "https://www.ft.com/content/ec66a5d6-70f1-47fc-b573-067dd96dc913",
@@ -8556,16 +8547,16 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
     "image": null,
-    "pushedAt": "2026-11-10T21:16:15.160Z"
+    "pushedAt": "2026-11-10T23:40:55.911Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
-    "title": "CoreWeave Boosts Annual Forecast, Easing Concerns About Slowdown",
+    "title": "CoreWeave Boosts Forecast, Easing Concerns About Slowdown",
     "titleZh": "CoreWeave 提高年度預測，緩解對經濟放緩的擔憂",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
     "image": null,
-    "pushedAt": "2026-11-10T21:16:18.875Z"
+    "pushedAt": "2026-11-10T23:41:22.421Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
     "image": null,
     "pushedAt": "2026-11-10T23:40:02.810Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/petrobras-earnings-disappoint-despite-oil-refining-tailwinds",
+    "title": "Petrobras Earnings Disappoint Despite Oil, Refining Tailwinds",
+    "titleZh": "儘管石油和煉油業務順風順水，巴西國家石油公司獲利仍令人失望",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/petrobras-earnings-disappoint-despite-oil-refining-tailwinds",
+    "image": null,
+    "pushedAt": "2026-11-10T23:42:14.770Z"
   }
 ]
