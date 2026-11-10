@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
-    "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
-    "titleZh": "他們花了數百萬美元來維持夢幻郵輪。無論如何它死了。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T12:54:06.850Z"
-  },
-  {
     "id": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f",
     "title": "Trump taps immigration hardliner Stephen Miller as chief of staff",
     "titleZh": "川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
@@ -7710,7 +7701,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bdeff514-60bf-4a2b-bc60-b4d6d5b7a6c7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T10:41:55.734Z"
+    "pushedAt": "2026-11-10T13:02:39.105Z"
   },
   {
     "id": "https://www.ft.com/content/b2319b74-f4e7-4fc9-bac4-34eb43f47ba4",
@@ -7719,7 +7710,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b2319b74-f4e7-4fc9-bac4-34eb43f47ba4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T10:42:19.401Z"
+    "pushedAt": "2026-11-10T13:03:03.376Z"
   },
   {
     "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/opinion/vance-trump-midterms-israel.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10stephens-vftw/10stephens-vftw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T13:02:11.490Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+    "title": "Alibaba’s Chip Design Unit T-Head Files for Hong Kong Listing",
+    "titleZh": "阿里巴巴晶片設計部門T-Head申請香港上市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+    "image": null,
+    "pushedAt": "2026-11-10T13:03:32.196Z"
   }
 ]
