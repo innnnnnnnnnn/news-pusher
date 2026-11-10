@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-    "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-    "titleZh": "微軟的收購要約使其員工處於緊張狀態",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T20:53:11.516Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
     "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
     "titleZh": "人工智慧如何剛剛推翻了電腦科學的一個關鍵原則",
@@ -5586,7 +5577,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T23:13:42.671Z"
+    "pushedAt": "2026-11-10T01:43:07.354Z"
   },
   {
     "id": "https://www.ft.com/content/6a69328b-3acb-4a74-a909-92249ad959e4",
@@ -5595,7 +5586,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6a69328b-3acb-4a74-a909-92249ad959e4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T23:14:10.207Z"
+    "pushedAt": "2026-11-10T01:43:33.340Z"
   },
   {
     "id": "https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b",
@@ -5604,7 +5595,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T23:14:37.916Z"
+    "pushedAt": "2026-11-10T01:43:59.152Z"
   },
   {
     "id": "https://www.ft.com/reports/managing-climate-change",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
     "image": null,
     "pushedAt": "2026-11-10T01:42:37.759Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
+    "title": "Singapore’s Interbank Rate Climbs to Highest in More Than a Year",
+    "titleZh": "新加坡銀行同業拆息升至一年多以來的最高水平",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
+    "image": null,
+    "pushedAt": "2026-11-10T01:44:26.351Z"
   }
 ]
