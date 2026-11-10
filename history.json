@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/z9fy9vukf",
-    "title": "The Typo Generation Is Damaging Literature",
-    "titleZh": "打字錯誤的產生正在損害文學",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/z9fy9vukf?ref=rss",
-    "image": "https://cdn.flipso.com/p/z9fy9vukf_square.jpg",
-    "pushedAt": "2026-11-10T17:55:54.129Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
     "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
     "titleZh": "以色列反對黨領袖被任命嘗試組成政府",
@@ -6314,8 +6305,8 @@
     "titleZh": "人工智慧押注失敗，軟銀意外虧損 70 億美元",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ef0618d-9624-4adf-b795-d25018c76615.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T17:38:10.200Z"
+    "image": null,
+    "pushedAt": "2026-11-10T20:11:42.837Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/arts/television/late-night-trump-midterms.html",
@@ -7305,7 +7296,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T17:37:19.255Z"
+    "pushedAt": "2026-11-10T20:10:51.365Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
@@ -7314,7 +7305,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T17:37:45.149Z"
+    "pushedAt": "2026-11-10T20:11:17.077Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/oil-market-starting-to-price-in-a-us-iran-deal-sen-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe55bead5-0db1-4be9-9cdb-fd486907a4e4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-10T20:09:27.512Z"
+  },
+  {
+    "id": "https://www.ft.com/content/798a6321-41e3-407b-9b6d-e4521111208d",
+    "title": "Nvidia shares down as Huang affair scandal deepens",
+    "titleZh": "隨著黃事件醜聞加深，英偉達股價下跌",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/798a6321-41e3-407b-9b6d-e4521111208d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T20:12:10.092Z"
   }
 ]
