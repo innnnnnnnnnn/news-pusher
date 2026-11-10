@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
-    "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
-    "titleZh": "海上失蹤三個月後，五名倖存者在偏遠島嶼獲救",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-kiribati-rescue-photo-clvj/04int-kiribati-rescue-photo-clvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T08:51:15.592Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
     "title": "Bob Dylan Meets With Pope Leo",
     "titleZh": "鮑伯迪倫會見教宗利奧",
@@ -573,7 +564,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/f2o35xkoc?ref=rss",
     "image": "https://cdn.flipso.com/p/f2o35xkoc_square.jpg",
-    "pushedAt": "2026-11-10T12:33:14.622Z"
+    "pushedAt": "2026-11-10T14:59:42.178Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/ecb-candidate-de-cos-says-vigilance-needed-on-inflation-risks",
@@ -6265,12 +6256,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "title": "US Stock Rebound Stalls as Waller Favors Rate Hike: Markets Wrap",
+    "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
     "titleZh": "亞洲股市因美國科技股上漲和石油暴跌而上漲：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-10T12:34:10.644Z"
+    "pushedAt": "2026-11-10T15:00:36.388Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/dutch-bros-ceo-gas-prices-are-impacting-the-consumer-video",
@@ -8430,7 +8421,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/dangote-cement-pauses-london-listing-plan-after-market-selloff",
     "image": null,
-    "pushedAt": "2026-11-10T12:33:40.673Z"
+    "pushedAt": "2026-11-10T15:00:09.758Z"
   },
   {
     "id": "https://www.ft.com/content/f0665cf7-a36f-4573-b7d6-93dda9d59d3f",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-10T14:59:14.659Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-nagel-says-december-rate-hike-is-looking-rather-obvious",
+    "title": "ECB’s Nagel Says December Rate Hike Is Looking ‘Rather Obvious’",
+    "titleZh": "歐洲央行內格爾稱12月升息看起來“相當明顯”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-nagel-says-december-rate-hike-is-looking-rather-obvious",
+    "image": null,
+    "pushedAt": "2026-11-10T15:01:03.752Z"
   }
 ]
