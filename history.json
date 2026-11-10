@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched",
-    "title": "Google Takes Over Wyoming Data Center That Crusoe Had Pitched",
-    "titleZh": "谷歌接管魯濱遜提出的懷俄明州資料中心",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched",
-    "image": null,
-    "pushedAt": "2026-11-07T18:04:35.278Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
-    "title": "Braskem Owners Pull Funding Offer as Debt Talks Hit Snag",
-    "titleZh": "由於債務談判遇到障礙，Braskem 股東撤回融資提議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
-    "image": null,
-    "pushedAt": "2026-11-07T13:40:43.700Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/opinion/pete-hegseth-rant-impeachment.html",
     "title": "Time’s Up, Hegseth",
     "titleZh": "時間到了，赫格斯",
@@ -3741,7 +3723,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
     "image": null,
-    "pushedAt": "2026-11-10T10:52:34.892Z"
+    "pushedAt": "2026-11-10T13:17:17.260Z"
   },
   {
     "id": "https://www.ft.com/content/9d86b87e-52b7-4754-b8b5-0f4da222ec44",
@@ -4704,7 +4686,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-10T10:53:22.453Z"
+    "pushedAt": "2026-11-10T13:17:41.818Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/polish-premier-orders-gun-laws-review-after-first-mass-shooting",
     "image": null,
     "pushedAt": "2026-11-10T13:16:49.646Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/global-macro-funds-seen-as-next-positioning-risk-for-us-stocks",
+    "title": "Global Macro Funds Seen as Next Positioning Risk for US Stocks",
+    "titleZh": "全球宏觀基金被視為美股的下一個定位風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/global-macro-funds-seen-as-next-positioning-risk-for-us-stocks",
+    "image": null,
+    "pushedAt": "2026-11-10T13:18:08.900Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-brief-11-10-2026-video",
+    "title": "Stock Rebound Eases Ahead of CPI; Anthropic IPO Marketing",
+    "titleZh": "股市反彈先於消費者物價指數 (CPI) 放緩；人擇IPO行銷",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-brief-11-10-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-10T13:18:12.650Z"
   }
 ]
