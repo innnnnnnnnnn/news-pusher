@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2",
-    "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-    "titleZh": "人工智慧擔憂引發 3.2 兆美元暴跌後，美國股市溫和復甦",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-07T09:11:03.970Z"
-  },
-  {
     "id": "https://flipso.com/p/quluq2tto",
     "title": "Rebecca West’s Nightingale",
     "titleZh": "麗貝卡·韋斯特的夜鶯",
@@ -8457,7 +8448,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T12:40:14.862Z"
+    "pushedAt": "2026-11-10T15:07:25.765Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
@@ -8465,8 +8456,8 @@
     "titleZh": "以色列新議會召開，但政府尚未出現",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bvgj/10int-israel-knesset-bvgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T12:40:18.959Z"
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T15:07:50.928Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/oil-market-starting-to-price-in-a-us-iran-deal-sen-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/centalion-sees-data-centre-boom-as-part-of-nordic-power-push",
     "image": null,
     "pushedAt": "2026-11-10T15:06:57.370Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-analysts-see-anthropic-revenue-at-685-billion-by-2030",
+    "title": "Goldman Analysts See Anthropic Revenue at $685 Billion By 2030",
+    "titleZh": "高盛分析師預計 2030 年 Anthropic 營收將達到 6,850 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-analysts-see-anthropic-revenue-at-685-billion-by-2030",
+    "image": null,
+    "pushedAt": "2026-11-10T15:08:17.912Z"
   }
 ]
