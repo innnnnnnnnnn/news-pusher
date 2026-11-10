@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc",
-    "title": "Tesla’s Cybertruck is a masterclass in failing upwards",
-    "titleZh": "特斯拉的 Cyber​​truck 是失敗向上的大師作品",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T04:58:34.313Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/argentina-bonds-slide-toward-distress-as-vote-fears-come-early",
     "title": "Argentina Bonds Slide Toward Distress as Vote Fears Come Early",
     "titleZh": "由於投票擔憂提前到來，阿根廷債券陷入困境",
@@ -7845,7 +7836,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/video/0a7c51ab-2712-4cd0-9e9b-305733dfa0a4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T09:33:09.333Z"
+    "pushedAt": "2026-11-10T11:50:53.830Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
@@ -7853,8 +7844,8 @@
     "titleZh": "「我們曾經是一座富裕的城市」：汽車危機席捲德國城鎮",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:34:04.977Z"
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X-v3.jpg",
+    "pushedAt": "2026-11-10T11:51:41.990Z"
   },
   {
     "id": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
@@ -8421,7 +8412,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/siemens-expands-chip-design-business-with-latest-software-deal",
     "image": null,
-    "pushedAt": "2026-11-10T09:33:38.469Z"
+    "pushedAt": "2026-11-10T11:51:17.806Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-has-a-sentiment-problem-even-strong-earnings-can-t-fix",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
     "pushedAt": "2026-11-10T11:46:47.991Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/cameroon-readies-for-elections-as-succession-risk-nags-investors",
+    "title": "Cameroon Readies for Elections as Succession Risk Nags Investors",
+    "titleZh": "喀麥隆準備選舉，繼任風險困擾投資者",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/cameroon-readies-for-elections-as-succession-risk-nags-investors",
+    "image": null,
+    "pushedAt": "2026-11-10T11:52:10.166Z"
   }
 ]
