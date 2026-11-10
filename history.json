@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
-    "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 on AI Trade Worries",
-    "titleZh": "隨著投資人權衡拋售是否結束，人工智慧股票反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
-    "image": null,
-    "pushedAt": "2026-11-07T21:15:41.441Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/ubs-s-abigail-watt-on-jobs-inflation-and-fed-policy-video",
-    "title": "UBS’s Abigail Watt on Jobs, Inflation and Fed Policy",
-    "titleZh": "瑞銀 (UBS) 的阿比蓋爾瓦特 (Abigail Watt) 談就業、通膨和聯準會政策",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ubs-s-abigail-watt-on-jobs-inflation-and-fed-policy-video",
-    "image": null,
-    "pushedAt": "2026-11-07T07:54:07.489Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
     "title": "After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain",
     "titleZh": "在遭受 2.5 兆美元損失後，科技投資者準備迎接更多痛苦",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/france-unemployment-eases-beleaguered-economy-protests-budget",
     "image": null,
     "pushedAt": "2026-11-10T06:39:21.119Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-to-formally-market-ipo-after-filing-misstep-video",
+    "title": "Anthropic to Formally Market IPO After Filing Misstep (Video)",
+    "titleZh": "Anthropic 在提交失誤後正式上市 IPO（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-to-formally-market-ipo-after-filing-misstep-video",
+    "image": null,
+    "pushedAt": "2026-11-10T06:39:49.072Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son",
+    "title": "SoftBank Group Swings to Loss After AI Worries Hit Tech Stocks",
+    "titleZh": "人工智慧擔憂衝擊科技股後，軟銀集團陷入虧損",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son",
+    "image": null,
+    "pushedAt": "2026-11-10T06:39:54.756Z"
   }
 ]
