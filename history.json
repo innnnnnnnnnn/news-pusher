@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
-    "title": "A Trump Reckoning",
-    "titleZh": "川普的清算",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-theworld-midterms-sweep-01-wltc-promo/05int-theworld-midterms-sweep-01-wltc-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T09:06:56.005Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid",
     "title": "Supreme Court to Hear Goldman Sachs’ Bankruptcy Arbitration Bid",
     "titleZh": "最高法院將聽取高盛破產仲裁申請",
@@ -2868,7 +2859,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-theworld-election-results-01-jtlq-promo/09int-theworld-election-results-01-jtlq-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:59:31.337Z"
+    "pushedAt": "2026-11-10T13:21:19.157Z"
   },
   {
     "id": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa",
@@ -5469,7 +5460,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:59:55.389Z"
+    "pushedAt": "2026-11-10T13:21:44.312Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/steady-inflation-outlook-mixed-views-for-jobs-in-ny-fed-survey",
@@ -6414,7 +6405,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T11:01:34.874Z"
+    "pushedAt": "2026-11-10T13:22:08.858Z"
   },
   {
     "id": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e",
@@ -8322,7 +8313,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T10:58:40.559Z"
+    "pushedAt": "2026-11-10T13:20:54.175Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook",
     "image": null,
     "pushedAt": "2026-11-10T13:19:34.203Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
+    "title": "Nvidia’s Game of Thrones",
+    "titleZh": "英偉達的權力遊戲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10db-huang-tckj/10db-huang-tckj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T13:22:35.713Z"
   }
 ]
