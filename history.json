@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-    "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
-    "titleZh": "人工智慧如何剛剛推翻了電腦科學的一個關鍵原則",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-    "image": null,
-    "pushedAt": "2026-11-06T20:53:36.832Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/movies/jordan-firstman-knows-how-to-party-and-when-to-go-home.html",
     "title": "Jordan Firstman, of ‘Club Kid,’ Knows How to Party",
     "titleZh": "《俱樂部小子》中的喬丹福斯特曼知道如何參加派對",
@@ -4461,7 +4452,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
     "image": null,
-    "pushedAt": "2026-11-09T23:17:21.945Z"
+    "pushedAt": "2026-11-10T01:46:41.688Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
@@ -5604,7 +5595,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/reports/managing-climate-change?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T23:15:32.058Z"
+    "pushedAt": "2026-11-10T01:44:55.493Z"
   },
   {
     "id": "https://www.ft.com/content/8c5ce921-d290-4f03-ac14-9a68d872a383",
@@ -5622,7 +5613,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
     "image": null,
-    "pushedAt": "2026-11-09T23:15:59.310Z"
+    "pushedAt": "2026-11-10T01:45:22.905Z"
   },
   {
     "id": "https://www.ft.com/content/9d86b87e-52b7-4754-b8b5-0f4da222ec44",
@@ -6189,7 +6180,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-09T23:17:48.382Z"
+    "pushedAt": "2026-11-10T01:47:09.236Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/eib-s-calvino-says-us-turmoil-is-driving-capital-to-europe",
@@ -6585,7 +6576,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-09T23:16:28.842Z"
+    "pushedAt": "2026-11-10T01:45:49.370Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
@@ -6990,7 +6981,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/s-p-500-futures-rise-as-oil-falls-nvidia-sinks-on-huang-affair",
     "image": null,
-    "pushedAt": "2026-11-09T23:16:55.175Z"
+    "pushedAt": "2026-11-10T01:46:15.680Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-adds-huge-element-of-surprise-to-ai-trade-hunt-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
     "image": null,
     "pushedAt": "2026-11-10T01:44:26.351Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds",
+    "title": "OpenAI Backer Altimeter Targets More Than $3 Billion for Private Markets Funds",
+    "titleZh": "OpenAI 支持者 Altimeter 目標為私募市場基金籌集超過 30 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds",
+    "image": null,
+    "pushedAt": "2026-11-10T01:47:38.658Z"
   }
 ]
