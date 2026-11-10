@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
-    "title": "Trump’s economic agenda wasn’t Republican enough",
-    "titleZh": "川普的經濟議程不夠共和黨",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
-    "image": null,
-    "pushedAt": "2026-11-09T04:01:34.608Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
     "title": "Checks and Balance newsletter: What comes next after the midterms?",
     "titleZh": "制衡通訊：中期選舉後接下來會發生什麼事？",
@@ -1662,7 +1653,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
     "image": null,
-    "pushedAt": "2026-11-10T16:41:41.352Z"
+    "pushedAt": "2026-11-10T19:08:53.069Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
@@ -8034,7 +8025,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ac059891-af9c-485d-8df3-5146298e9a21?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T16:39:33.842Z"
+    "pushedAt": "2026-11-10T19:07:35.007Z"
   },
   {
     "id": "https://www.ft.com/content/92324091-0a6e-4c49-af2a-872502d2c69b",
@@ -8043,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/92324091-0a6e-4c49-af2a-872502d2c69b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T16:40:01.871Z"
+    "pushedAt": "2026-11-10T19:08:01.152Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
@@ -8052,7 +8043,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-wsj-pvgk/06biz-wsj-pvgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T16:40:27.005Z"
+    "pushedAt": "2026-11-10T19:08:26.938Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth",
@@ -8506,12 +8497,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
-    "title": "Wall Street Bonuses Expected to Rise by 30% For Some",
+    "title": "Wall Street Bonuses Could Rise by 30%, Says Johnson Associates",
     "titleZh": "華爾街一些人的獎金預計將上漲 30%",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
     "image": null,
-    "pushedAt": "2026-11-10T16:42:08.341Z"
+    "pushedAt": "2026-11-10T19:09:20.359Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-needs-to-raise-rates-two-more-times-logan-says-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T19:07:05.323Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
+    "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
+    "titleZh": "必勝客計劃出售 10 億美元債券為其收購提供資金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
+    "image": null,
+    "pushedAt": "2026-11-10T19:09:48.157Z"
   }
 ]
