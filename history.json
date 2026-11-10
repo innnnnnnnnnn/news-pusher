@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74",
-    "title": "What will a Democratic Congress mean for Ukraine?",
-    "titleZh": "民主黨代表大會對烏克蘭意味著什麼？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T13:32:27.821Z"
-  },
-  {
     "id": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
     "title": "Trump’s economic agenda wasn’t Republican enough",
     "titleZh": "川普的經濟議程不夠共和黨",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Nvidia-Wachtell-01-tpgl/10biz-Nvidia-Wachtell-01-tpgl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T19:06:36.198Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+    "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+    "titleZh": "伊斯蘭武裝分子襲擊迫使患者逃離剛果伊波拉診所",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T19:07:05.323Z"
   }
 ]
