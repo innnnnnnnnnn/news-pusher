@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
-    "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
-    "titleZh": "世界上的動漫還不夠多。日本能否從其成功中獲利？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
-    "image": "https://static01.nyt.com/images/2026/10/13/multimedia/Biz-Anime_Video_still/13cul-comic-con-pflz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:21:52.852Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
     "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
     "titleZh": "勝利後，民主黨看到了削減成本和遏制川普的經濟使命",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
     "image": null,
     "pushedAt": "2026-11-10T22:36:13.106Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+    "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+    "titleZh": "醫療保險優勢與傳統醫療保險的解釋",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T22:36:41.153Z"
   }
 ]
