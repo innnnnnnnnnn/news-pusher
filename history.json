@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8b2fdcb6-a882-4541-87ea-ecf290d090a4",
-    "title": "Hotel groups gain $50bn amid ‘unbelievably resilient’ demand",
-    "titleZh": "飯店集團因需求「難以置信的彈性」而獲利 500 億美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8b2fdcb6-a882-4541-87ea-ecf290d090a4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T08:30:36.219Z"
-  },
-  {
     "id": "https://www.ft.com/content/bfc196c9-042d-4ad3-b53c-9248185b7159",
     "title": "Meet the people saving England’s peatlands",
     "titleZh": "認識拯救英格蘭泥炭地的人們",
@@ -5505,7 +5496,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb13043b1-653d-4b79-88ae-7ce10f9972f3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T19:17:48.638Z"
+    "pushedAt": "2026-11-10T21:45:08.454Z"
   },
   {
     "id": "https://www.ft.com/content/4b3272a6-5d87-426a-9e2f-5428c10e7eea",
@@ -7057,12 +7048,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
-    "title": "Stocks Slide After Hot Inflation Boosts December Rate Hike Bets",
+    "title": "Stocks End Lower as Rate-Hike Odds Climb After Hot Inflation",
     "titleZh": "美國股指期貨交易混雜，關注 CPI、人為 IPO",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
     "image": null,
-    "pushedAt": "2026-11-10T15:38:36.827Z"
+    "pushedAt": "2026-11-10T21:43:52.547Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/french-tycoons-assail-505-million-stock-offer-to-rubis-partners",
@@ -7350,7 +7341,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/boe-s-lombardelli-says-interest-rates-are-likely-to-rise-further",
     "image": null,
-    "pushedAt": "2026-11-10T19:17:22.181Z"
+    "pushedAt": "2026-11-10T21:44:43.215Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/russia-ships-less-crude-as-loadings-halted-at-key-pacific-port",
@@ -7818,7 +7809,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T19:18:41.234Z"
+    "pushedAt": "2026-11-10T21:45:33.755Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
@@ -8358,7 +8349,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T19:15:51.069Z"
+    "pushedAt": "2026-11-10T21:43:01.569Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
@@ -8367,7 +8358,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
     "image": null,
-    "pushedAt": "2026-11-10T19:16:22.304Z"
+    "pushedAt": "2026-11-10T21:43:26.483Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
@@ -8376,7 +8367,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
     "image": null,
-    "pushedAt": "2026-11-10T19:16:27.044Z"
+    "pushedAt": "2026-11-10T21:44:18.084Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/how-hackers-pulled-off-the-greatest-heist-ever-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/coreweave-earnings-top-estimates-boosts-annual-forecast-video",
     "image": null,
     "pushedAt": "2026-11-10T21:42:06.505Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/barrick-mining-files-to-take-north-american-gold-assets-public",
+    "title": "Barrick Mining Files to Take North American Gold Assets Public",
+    "titleZh": "巴里克礦業提交北美黃金資產上市申請",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/barrick-mining-files-to-take-north-american-gold-assets-public",
+    "image": null,
+    "pushedAt": "2026-11-10T21:46:02.405Z"
   }
 ]
