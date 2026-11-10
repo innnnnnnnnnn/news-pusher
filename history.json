@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack",
-    "title": "Aramco Tower in Riyadh’s Financial Hub Damaged After Attack",
-    "titleZh": "利雅德金融中心的沙烏地阿美大廈在襲擊後受損",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack",
-    "image": null,
-    "pushedAt": "2026-11-08T09:04:22.727Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
     "title": "Medicare Advantage vs. Traditional Medicare, Explained",
     "titleZh": "醫療保險優勢與傳統醫療保險的解釋",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/why-nvidia-and-jensen-huang-matter-so-much-to-markets",
     "image": null,
     "pushedAt": "2026-11-10T22:34:19.175Z"
+  },
+  {
+    "id": "https://flipso.com/p/udzq6rbbm",
+    "title": "Making any integer with four 2s",
+    "titleZh": "用四個 2 產生任意整數",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
+    "image": null,
+    "pushedAt": "2026-11-10T22:34:51.023Z"
   }
 ]
