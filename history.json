@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
-    "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
-    "titleZh": "中期選舉後赫格斯面臨彈劾努力和兩黨審查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-hegseth-fqbt/06dc-hegseth-fqbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T08:48:39.476Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/waters-eyes-private-equity-ai-affordability-in-house-gavel-bid",
     "title": "Waters Eyes Private Equity, AI, Affordability in House Gavel Bid",
     "titleZh": "沃特世關注私募股權、人工智慧、眾議院木槌投標的可負擔性",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T13:04:04.237Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/highway-pile-ups-leave-12-dead-and-dozens-injured-in-bulgaria",
+    "title": "Bulgaria Highway Pile-Ups Leave At Least 12 Dead and Dozens Injured",
+    "titleZh": "保加利亞高速公路連環相撞事故造成至少 12 人死亡、數十人受傷",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/highway-pile-ups-leave-12-dead-and-dozens-injured-in-bulgaria",
+    "image": null,
+    "pushedAt": "2026-11-10T13:04:33.472Z"
   }
 ]
