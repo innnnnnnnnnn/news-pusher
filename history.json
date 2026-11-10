@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/california-homes-face-shutoffs-as-santa-anas-raise-fire-risks",
-    "title": "California Homes Face Shutoffs as Santa Anas Raise Fire Risks",
-    "titleZh": "聖安娜提高火災風險，加州房屋面臨斷電",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/california-homes-face-shutoffs-as-santa-anas-raise-fire-risks",
-    "image": null,
-    "pushedAt": "2026-11-06T15:06:28.460Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-sentiment-unexpectedly-rises-fueled-by-independents",
     "title": "US Consumer Sentiment Improves, Fueled by Independents",
     "titleZh": "在獨立人士的推動下，美國消費者信心意外上升",
@@ -8421,7 +8412,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f771fe38-dfd1-4aad-9ca8-7cb3453cec93?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T07:16:06.319Z"
+    "pushedAt": "2026-11-10T09:32:45.278Z"
   },
   {
     "id": "https://www.ft.com/video/0a7c51ab-2712-4cd0-9e9b-305733dfa0a4",
@@ -8430,7 +8421,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/video/0a7c51ab-2712-4cd0-9e9b-305733dfa0a4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T07:16:30.113Z"
+    "pushedAt": "2026-11-10T09:33:09.333Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/top-uk-regulator-says-banks-are-trimming-ai-risk-as-alarm-grows",
     "image": null,
     "pushedAt": "2026-11-10T09:27:28.380Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/siemens-expands-chip-design-business-with-latest-software-deal",
+    "title": "Siemens Expands Chip-Design Business With Latest Software Deal",
+    "titleZh": "西門子透過最新軟體交易拓展晶片設計業務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/siemens-expands-chip-design-business-with-latest-software-deal",
+    "image": null,
+    "pushedAt": "2026-11-10T09:33:38.469Z"
   }
 ]
