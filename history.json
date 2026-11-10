@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html",
-    "title": "The Midterms Were Spectacular. Here’s What They Showed.",
-    "titleZh": "期中選舉非常精彩。這是他們展示的內容。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08polgreen-hpcv/08polgreen-hpcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T21:18:37.839Z"
-  },
-  {
     "id": "https://flipso.com/p/z9fy9vukf",
     "title": "The Typo Generation Is Damaging Literature",
     "titleZh": "打字錯誤的產生正在損害文學",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/00xp-zelda-03/00xp-zelda-03-mediumSquareAt3X.png",
     "pushedAt": "2026-11-10T20:08:55.089Z"
+  },
+  {
+    "id": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06",
+    "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+    "titleZh": "美國商務部延後將Megaspeed列入貿易黑名單",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe55bead5-0db1-4be9-9cdb-fd486907a4e4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-10T20:09:27.512Z"
   }
 ]
