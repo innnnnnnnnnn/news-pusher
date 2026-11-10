@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/nyregion/amazon-regulation-mamdani.html",
-    "title": "New York Is Set to Take On Amazon Over Drivers, if Its Leaders Can Agree",
-    "titleZh": "如果領導人能同意，紐約將在司機問題上與亞馬遜較量",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/nyregion/amazon-regulation-mamdani.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-amazon-01-jwbp/05met-amazon-01-jwbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T22:15:40.250Z"
-  },
-  {
     "id": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2",
     "title": "James Talarico: the Democrats’ rising star who turned Texas blue",
     "titleZh": "詹姆斯·塔拉里科：將德州變成藍色的民主黨新星",
@@ -3732,7 +3723,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6ch8adwiv?ref=rss",
     "image": "https://cdn.flipso.com/p/6ch8adwiv_square.jpg",
-    "pushedAt": "2026-11-10T09:10:44.809Z"
+    "pushedAt": "2026-11-10T11:26:56.009Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
@@ -3741,7 +3732,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
-    "pushedAt": "2026-11-10T09:11:08.597Z"
+    "pushedAt": "2026-11-10T11:27:19.935Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
@@ -6027,7 +6018,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:11:32.885Z"
+    "pushedAt": "2026-11-10T11:27:43.769Z"
   },
   {
     "id": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f",
@@ -8187,7 +8178,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9e3dacfa-ebff-4f05-a89e-9514211d73a2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T09:09:51.194Z"
+    "pushedAt": "2026-11-10T11:26:08.576Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-10/ftse-100-live-updates-pound-gilts-stock-rally-europe-what-s-moving-uk-markets-right-now-markets-today",
@@ -8205,7 +8196,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T09:12:20.752Z"
+    "pushedAt": "2026-11-10T11:28:07.799Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/new-world-s-top-shareholder-seeks-bank-loan-as-equity-deal-looms",
@@ -8452,12 +8443,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
-    "title": "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
+    "title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
     "titleZh": "聯準會沃勒支持12月升息，表示對更大幅度的升息持開放態度",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
     "image": null,
-    "pushedAt": "2026-11-10T09:10:18.289Z"
+    "pushedAt": "2026-11-10T11:26:32.132Z"
   },
   {
     "id": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/blackstone-to-buy-15-5-of-iifl-finance-in-532-million-india-bet",
     "image": null,
     "pushedAt": "2026-11-10T11:18:29.045Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/gas-price-surge-leaves-some-german-manufacturers-fully-exposed",
+    "title": "Gas Price Surge Leaves Some German Manufacturers Fully Exposed",
+    "titleZh": "天然氣價格飆升使一些德國製造商完全暴露",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/gas-price-surge-leaves-some-german-manufacturers-fully-exposed",
+    "image": null,
+    "pushedAt": "2026-11-10T11:28:33.661Z"
   }
 ]
