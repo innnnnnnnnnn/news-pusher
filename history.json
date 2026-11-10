@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/7uvj0p0im",
-    "title": "Notes on San Marino",
-    "titleZh": "聖馬利諾註釋",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/7uvj0p0im?ref=rss",
-    "image": "https://cdn.flipso.com/p/7uvj0p0im_square.jpg",
-    "pushedAt": "2026-11-10T18:48:59.398Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
     "title": "Economy and Democracy Drove the Blue Wave",
     "titleZh": "經濟與民主推動藍色浪潮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/sec-fines-cases-plunge-in-trump-era-return-to-basics",
     "image": null,
     "pushedAt": "2026-11-10T19:24:05.036Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/ai-startup-sierra-is-an-anchor-tenant-for-300-million-bond-deal",
+    "title": "AI Startup Sierra Is an Anchor Tenant for $300 Million Bond Deal",
+    "titleZh": "AI 新創公司 Sierra 成為 3 億美元債券交易的主要租戶",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/ai-startup-sierra-is-an-anchor-tenant-for-300-million-bond-deal",
+    "image": null,
+    "pushedAt": "2026-11-10T19:24:35.701Z"
   }
 ]
