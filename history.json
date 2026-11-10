@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
-    "title": "Protesters Break Into Microsoft Data Center in Amsterdam",
-    "titleZh": "抗議者闖入阿姆斯特丹的微軟資料中心",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
-    "image": null,
-    "pushedAt": "2026-11-06T16:33:41.762Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ueno-bank-las-senales-de-alerta-antes-de-su-colapso",
     "title": "Ueno Bank: las señales de alerta antes de su colapso",
     "titleZh": "上野銀行： las señales de Alerta antes de su colapso",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/arts/television/late-night-trump-midterms.html",
     "image": null,
     "pushedAt": "2026-11-10T08:07:24.946Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
+    "title": "What Homeowners Should Know About Home Equity Contracts",
+    "titleZh": "房主應該了解哪些關於房屋淨值合約的知識",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
+    "image": null,
+    "pushedAt": "2026-11-10T08:07:54.239Z"
   }
 ]
