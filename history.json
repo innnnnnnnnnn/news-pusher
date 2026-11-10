@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
-    "title": "White House Delays Hearing on Fed Governor",
-    "titleZh": "白宮延後聯準會理事聽證會",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-09T09:06:27.797Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
     "title": "Big Take: The New AI Trade Is FOGO",
     "titleZh": "大觀點：新的人工智慧交易是 FOGO",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
     "image": null,
     "pushedAt": "2026-11-10T14:53:58.781Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+    "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
+    "titleZh": "梅根馬克爾自父親被捕後首次公開露面",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/world/europe/10vid-meghan-markle-embed-COVER/10vid-meghan-markle-embed-COVER-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T14:54:30.571Z"
   }
 ]
