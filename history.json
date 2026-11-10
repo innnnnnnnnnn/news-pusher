@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
-    "title": "Taiwan Steps In to Calm Investor Nerves After Bruising AI Rout",
-    "titleZh": "股市暴跌後台灣實施賣空限制",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
-    "image": null,
-    "pushedAt": "2026-11-06T13:31:48.086Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-new-fomc-schedule-turns-back-the-clock-for-strategy-sessions",
     "title": "Fed’s New FOMC Schedule Turns Back the Clock for ‘Strategy’ Sessions",
     "titleZh": "聯準會新的聯邦公開市場委員會時間表讓「策略」會議倒退",
@@ -2805,7 +2796,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T00:23:35.086Z"
+    "pushedAt": "2026-11-10T02:52:47.804Z"
   },
   {
     "id": "https://www.nytimes.com/article/france-student-protests-why.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
     "image": null,
     "pushedAt": "2026-11-10T02:52:18.611Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever",
+    "title": "Chinese Trade Surplus Tops $1 Trillion for Second Time Ever",
+    "titleZh": "中國貿易順差第二次突破1兆美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever",
+    "image": null,
+    "pushedAt": "2026-11-10T02:53:16.027Z"
   }
 ]
