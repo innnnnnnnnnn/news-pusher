@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f",
-    "title": "My portfolio returns went from hero to zero (actually I’d take zero)",
-    "titleZh": "我的投資組合回報從英雄變成了零（實際上我會選擇零）",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff023ae48-44e6-401a-88cb-7c4611aae19a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-07T05:00:18.803Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
-    "title": "Nvidia’s AI Chip Exports Emerge as Target in Democratic Congress",
-    "titleZh": "英偉達的人工智慧晶片出口成為民主黨國會的目標",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
-    "image": null,
-    "pushedAt": "2026-11-06T17:43:26.581Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/california-homes-face-shutoffs-as-santa-anas-raise-fire-risks",
     "title": "California Homes Face Shutoffs as Santa Anas Raise Fire Risks",
     "titleZh": "聖安娜提高火災風險，加州房屋面臨斷電",
@@ -1104,7 +1086,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
     "image": null,
-    "pushedAt": "2026-11-10T07:09:38.069Z"
+    "pushedAt": "2026-11-10T09:25:45.522Z"
   },
   {
     "id": "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html",
@@ -1986,7 +1968,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
     "image": null,
-    "pushedAt": "2026-11-10T07:10:01.698Z"
+    "pushedAt": "2026-11-10T09:26:09.427Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
@@ -2139,7 +2121,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:08:50.707Z"
+    "pushedAt": "2026-11-10T09:24:58.335Z"
   },
   {
     "id": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74",
@@ -2436,7 +2418,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:08:03.906Z"
+    "pushedAt": "2026-11-10T09:24:10.565Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
@@ -2679,7 +2661,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/tt59o4pkq?ref=rss",
     "image": "https://cdn.flipso.com/p/tt59o4pkq_square.jpg",
-    "pushedAt": "2026-11-10T07:07:39.839Z"
+    "pushedAt": "2026-11-10T09:23:46.462Z"
   },
   {
     "id": "https://www.ft.com/content/32c04cee-3f49-4971-a72d-391ad52e8f58",
@@ -2742,7 +2724,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:04:26.977Z"
+    "pushedAt": "2026-11-10T09:20:34.291Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
@@ -2751,7 +2733,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:07:16.028Z"
+    "pushedAt": "2026-11-10T09:23:22.983Z"
   },
   {
     "id": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
@@ -3813,7 +3795,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
     "image": null,
-    "pushedAt": "2026-11-10T07:10:50.139Z"
+    "pushedAt": "2026-11-10T09:26:57.163Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
@@ -3894,7 +3876,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/wr8jumk34?ref=rss",
     "image": "https://cdn.flipso.com/p/wr8jumk34_square.jpg",
-    "pushedAt": "2026-11-10T07:08:27.454Z"
+    "pushedAt": "2026-11-10T09:24:34.455Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-family.html",
@@ -5406,7 +5388,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
     "image": "https://static01.nyt.com/images/2026/07/23/multimedia/09biz-google-schools1/09biz-google-schools1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:05:39.275Z"
+    "pushedAt": "2026-11-10T09:21:47.025Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
@@ -5415,7 +5397,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
     "image": "https://static01.nyt.com/images/2026/11/09/business/09biz-ai-celebrities/09biz-ai-celebrities-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T07:06:03.132Z"
+    "pushedAt": "2026-11-10T09:22:10.777Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
@@ -5424,7 +5406,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:06:27.334Z"
+    "pushedAt": "2026-11-10T09:22:34.855Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
@@ -5433,7 +5415,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
     "image": "https://static01.nyt.com/images/2026/11/06/business/00Weil-profits-illo/00Weil-profits-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:06:51.389Z"
+    "pushedAt": "2026-11-10T09:22:58.931Z"
   },
   {
     "id": "https://flipso.com/p/10ei4s4nb",
@@ -7152,7 +7134,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-france-warns-of-uncertainty-as-modest-growth-returns",
     "image": null,
-    "pushedAt": "2026-11-10T07:10:25.947Z"
+    "pushedAt": "2026-11-10T09:26:33.372Z"
   },
   {
     "id": "https://www.ft.com/content/62f35d30-e015-4672-8b28-ea3d0b3660c6",
@@ -7890,7 +7872,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
     "image": "https://static01.nyt.com/images/2026/11/09/business/09biz-x-strategies/09biz-x-strategies-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:05:15.479Z"
+    "pushedAt": "2026-11-10T09:21:23.002Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
@@ -8169,7 +8151,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
     "image": null,
-    "pushedAt": "2026-11-10T07:04:51.086Z"
+    "pushedAt": "2026-11-10T09:20:58.690Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
@@ -8349,7 +8331,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
     "image": null,
-    "pushedAt": "2026-11-10T07:09:14.930Z"
+    "pushedAt": "2026-11-10T09:25:22.035Z"
   },
   {
     "id": "https://www.ft.com/content/4bf7b037-7ef1-4421-b298-7c2ecf4bf870",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fff74046c-4b60-4164-afb4-2963ea7cdb12.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-10T09:16:26.137Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/state-street-remains-positive-on-tech-stocks-video",
+    "title": "State Street Remains Positive on Tech Stocks (Video)",
+    "titleZh": "道富銀行仍看好科技股（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/state-street-remains-positive-on-tech-stocks-video",
+    "image": null,
+    "pushedAt": "2026-11-10T09:27:22.712Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/top-uk-regulator-says-banks-are-trimming-ai-risk-as-alarm-grows",
+    "title": "Top UK Regulator Says Banks Are Trimming AI Risk as Alarm Grows",
+    "titleZh": "英國最高監管機構表示，隨著警報的增加，銀行正在削減人工智慧風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/top-uk-regulator-says-banks-are-trimming-ai-risk-as-alarm-grows",
+    "image": null,
+    "pushedAt": "2026-11-10T09:27:28.380Z"
   }
 ]
