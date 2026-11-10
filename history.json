@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/openai-staffer-pleads-not-guilty-to-office-bugging-charge",
-    "title": "OpenAI Staffer Pleads Not Guilty to Office Bugging Charge",
-    "titleZh": "OpenAI 員工對辦公室竊聽指控不認罪",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-staffer-pleads-not-guilty-to-office-bugging-charge",
-    "image": null,
-    "pushedAt": "2026-11-07T17:58:48.505Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
-    "title": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
-    "titleZh": "隨著肯亞上市數量的增加，Quick Mart IPO 吸引了強勁需求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
-    "image": null,
-    "pushedAt": "2026-11-06T21:52:32.012Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/your-money/stock-market-volatility-investments.html",
-    "title": "The Stock Market Can Be Volatile. Here’s How to Stay Calm.",
-    "titleZh": "股市可能會波動。以下是如何保持冷靜。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/your-money/stock-market-volatility-investments.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-money-tfcw/06biz-money-tfcw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T00:09:24.387Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/onsemi-scraps-plan-for-2-billion-expansion-in-czech-republic",
     "title": "Onsemi Scraps Plan for $2 Billion Expansion in Czech Republic",
     "titleZh": "Onsemi 放棄在捷克共和國投資 20 億美元的擴張計劃",
@@ -1482,7 +1455,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:44:43.969Z"
+    "pushedAt": "2026-11-10T13:08:27.870Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
@@ -2283,7 +2256,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
     "image": "https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:45:55.440Z"
+    "pushedAt": "2026-11-10T13:08:52.814Z"
   },
   {
     "id": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996",
@@ -3615,7 +3588,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T10:46:19.036Z"
+    "pushedAt": "2026-11-10T13:09:18.603Z"
   },
   {
     "id": "https://www.ft.com/content/4330a15b-f91d-4095-909f-92617b9caf1e",
@@ -5496,7 +5469,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
     "image": null,
-    "pushedAt": "2026-11-10T10:46:43.235Z"
+    "pushedAt": "2026-11-10T13:09:43.403Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/billionaire-brad-jacobs-said-to-near-1-billion-ckx-lands-deal",
@@ -6054,7 +6027,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
-    "pushedAt": "2026-11-10T10:47:07.116Z"
+    "pushedAt": "2026-11-10T13:10:08.359Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/poland-s-maslowska-sees-growing-case-for-rate-hike-in-january",
     "image": null,
     "pushedAt": "2026-11-10T13:08:00.085Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
+    "title": "US Stock Futures Trade Mixed With Focus on CPI, Anthropic IPO",
+    "titleZh": "美國股指期貨交易混雜，關注 CPI、人為 IPO",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
+    "image": null,
+    "pushedAt": "2026-11-10T13:10:36.096Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/french-tycoons-assail-505-million-stock-offer-to-rubis-partners",
+    "title": "French Tycoons Assail $505 Million Stock Offer to Rubis Partners",
+    "titleZh": "法國大亨向 Rubis Partners 發起 5.05 億美元股票收購要約",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/french-tycoons-assail-505-million-stock-offer-to-rubis-partners",
+    "image": null,
+    "pushedAt": "2026-11-10T13:10:40.218Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/uae-cuts-flagship-oil-price-as-mideast-supply-jump-stirs-rivalry",
+    "title": "UAE Cuts Flagship Oil Price as Mideast Supply Jump Stirs Rivalry",
+    "titleZh": "由於中東供應激增引發競爭，阿聯酋下調旗艦石油價格",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/uae-cuts-flagship-oil-price-as-mideast-supply-jump-stirs-rivalry",
+    "image": null,
+    "pushedAt": "2026-11-10T13:10:44.744Z"
   }
 ]
