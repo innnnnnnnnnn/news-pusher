@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3729c7ee-80bc-4ea5-949b-78b017f498e4",
-    "title": "FirstFT: Blue wave sweeps US",
-    "titleZh": "FirstFT：藍色浪潮席捲美國",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3729c7ee-80bc-4ea5-949b-78b017f498e4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T01:08:33.765Z"
-  },
-  {
     "id": "https://www.ft.com/content/cd2c9cef-1ad6-4aa5-ab3f-bffdf7175593",
     "title": "The views of the frontrunners to succeed Lagarde at the ECB",
     "titleZh": "歐洲央行接替拉加德領跑者的觀點",
@@ -6486,7 +6477,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T21:31:03.531Z"
+    "pushedAt": "2026-11-10T00:05:51.046Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
@@ -6495,7 +6486,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
     "image": null,
-    "pushedAt": "2026-11-09T21:31:51.702Z"
+    "pushedAt": "2026-11-10T00:06:19.651Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/baltic-exchange-s-oil-benchmark-td3c-described-as-complete-nonsense",
     "image": null,
     "pushedAt": "2026-11-10T00:02:17.414Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
+    "title": "The Evening: Fallout From Nvidia Revelations Continues",
+    "titleZh": "晚間：英偉達爆料事件的影響仍在持續",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09evening-nl-nvidia-pqtg/09evening-nl-nvidia-pqtg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T00:06:46.740Z"
   }
 ]
