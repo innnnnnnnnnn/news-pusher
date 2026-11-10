@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html",
-    "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
-    "titleZh": "對川普和美國來說，選舉結果明確，但未來卻黯淡無光",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-assess-lphq/08dc-assess-lphq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T12:54:21.852Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html",
-    "title": "Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda",
-    "titleZh": "即將成為眾議院議長的哈基姆·傑弗里斯承諾大膽的議程",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00dc-jeffries-flqb/00dc-jeffries-flqb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-08T18:54:56.530Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
     "title": "Republicans Point Fingers, but Trump Does Not Appear to Be Listening",
     "titleZh": "共和黨人指責川普，但川普似乎沒有在聽",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T22:43:01.174Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd",
+    "title": "FirstFT: Anthropic raises valuation target to $1.4tn",
+    "titleZh": "FirstFT：Anthropic 將估值目標提高至 1.4 兆美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T22:43:32.977Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+    "title": "Can My Company Force Me to Reveal My Personal Email Address?",
+    "titleZh": "我的公司可以強迫我透露我的個人電子郵件地址嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T22:43:35.950Z"
   }
 ]
