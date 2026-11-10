@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
-    "title": "Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff",
-    "titleZh": "Neocloud Groq 的目標是在 AI 拋售期間將價值翻倍至 80 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
-    "image": null,
-    "pushedAt": "2026-11-07T21:38:16.708Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
-    "title": "FIGS Beats Earnings as Demand Outstrips Supply, CEO Trina Spear Says",
-    "titleZh": "執行長 Trina Spear 表示，由於需求超過供應，無花果的盈利超過了盈利",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
-    "image": null,
-    "pushedAt": "2026-11-07T15:13:37.878Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video",
     "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
     "titleZh": "Sweetgreen 執行長表示，環孢菌相關流量下降後銷售額出現反彈",
@@ -5910,7 +5892,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
     "image": null,
-    "pushedAt": "2026-11-10T13:05:00.493Z"
+    "pushedAt": "2026-11-10T15:34:14.799Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/test-your-etf-knowledge-in-our-iq-test-video",
@@ -8448,7 +8430,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T13:04:04.237Z"
+    "pushedAt": "2026-11-10T15:33:50.032Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/highway-pile-ups-leave-12-dead-and-dozens-injured-in-bulgaria",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T15:33:21.094Z"
+  },
+  {
+    "id": "https://www.ft.com/content/212d4b87-9fce-4141-b21f-7e4a81c8074f",
+    "title": "BoE policymaker refuses to rule out back-to-back rate rises",
+    "titleZh": "英國央行決策者拒絕排除連續升息的可能性",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/212d4b87-9fce-4141-b21f-7e4a81c8074f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T15:34:41.319Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-might-hike-50-bps-in-december-carlyle-s-thomas-says-video",
+    "title": "Fed Might Hike 50 Bps in December, Carlyle's Thomas Says",
+    "titleZh": "凱雷 (Carlyle) 托馬斯表示，聯準會 12 月可能升息 50 個基點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-might-hike-50-bps-in-december-carlyle-s-thomas-says-video",
+    "image": null,
+    "pushedAt": "2026-11-10T15:34:45.715Z"
   }
 ]
