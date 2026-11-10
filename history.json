@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/uk-inheritance-tax-changes-spur-higher-pension-withdrawals",
-    "title": "UK Inheritance Tax Changes Spur Higher Pension Withdrawals",
-    "titleZh": "英國遺產稅變化刺激退休金提款增加",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/uk-inheritance-tax-changes-spur-higher-pension-withdrawals",
-    "image": null,
-    "pushedAt": "2026-11-06T15:12:05.030Z"
-  },
-  {
-    "id": "https://www.ft.com/content/1731d88c-fba2-4060-84dc-7dfddd7bfbca",
-    "title": "Europe alarmed by US plans for security deal with Russia",
-    "titleZh": "歐洲對美國與俄羅斯達成安全協議的計畫感到震驚",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1731d88c-fba2-4060-84dc-7dfddd7bfbca?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-07T05:15:20.703Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/the-rise-of-luxury-prenatal-retreats-video",
     "title": "The Rise of Luxury Prenatal Retreats",
     "titleZh": "奢華產前療養的興起",
@@ -3093,7 +3075,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:38:29.599Z"
+    "pushedAt": "2026-11-10T09:55:24.756Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
@@ -5478,7 +5460,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:38:52.820Z"
+    "pushedAt": "2026-11-10T09:55:48.955Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
@@ -6765,7 +6747,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-barkin-says-policy-direction-clear-but-needs-careful-pace",
     "image": null,
-    "pushedAt": "2026-11-10T07:38:05.693Z"
+    "pushedAt": "2026-11-10T09:55:00.933Z"
   },
   {
     "id": "https://www.ft.com/content/39cfce50-3023-4898-9f16-be0165b54cbc",
@@ -7080,7 +7062,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
     "image": null,
-    "pushedAt": "2026-11-10T07:37:41.584Z"
+    "pushedAt": "2026-11-10T09:54:36.960Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-france-warns-of-uncertainty-as-modest-growth-returns",
@@ -7170,7 +7152,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
     "image": null,
-    "pushedAt": "2026-11-10T07:36:54.662Z"
+    "pushedAt": "2026-11-10T09:54:12.678Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-filing-misstep-adds-drama-ahead-of-ipo-video",
     "image": null,
     "pushedAt": "2026-11-10T09:53:45.744Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f53c5923-29b1-4ec8-963a-6fb57c000588",
+    "title": "Singapore seizes ‘forever’ cruise ship that dumped passengers in Cambodia",
+    "titleZh": "新加坡扣押了在柬埔寨拋棄乘客的「永遠」遊輪",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f53c5923-29b1-4ec8-963a-6fb57c000588?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T09:56:17.168Z"
+  },
+  {
+    "id": "https://www.ft.com/content/240200e9-7a33-49a9-9801-ef92b4af22db",
+    "title": "French supermarket cyber attack delivers chilling warning to Britain",
+    "titleZh": "法國超市網路攻擊向英國發出令人不寒而慄的警告",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/240200e9-7a33-49a9-9801-ef92b4af22db?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T09:56:21.315Z"
   }
 ]
