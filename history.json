@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-    "title": "Stocks Rise as Democrats Flip Control of Congress",
-    "titleZh": "隨著民主黨放棄國會控制權，股市上漲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T08:55:29.599Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
-    "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling",
-    "titleZh": "Nvidia 加強在東南亞的晶片追蹤以打擊走私",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
-    "image": null,
-    "pushedAt": "2026-11-06T15:13:02.052Z"
-  },
-  {
     "id": "https://www.ft.com/content/d89a6369-7572-42e4-b3eb-413b462c587d",
     "title": "Qatar’s emir holds call with Trump as mediators push for deal to end Iran war",
     "titleZh": "卡達埃米爾敦促川普繼續進行伊朗談判，因為調解人尋求結束戰爭的協議",
@@ -7764,7 +7746,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
     "image": null,
-    "pushedAt": "2026-11-09T21:45:07.961Z"
+    "pushedAt": "2026-11-10T00:19:21.233Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
@@ -8619,7 +8601,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/uber-engineering-leader-for-robotaxis-delivery-network-to-exit",
     "image": null,
-    "pushedAt": "2026-11-09T21:45:35.200Z"
+    "pushedAt": "2026-11-10T00:19:48.738Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
     "image": "https://static01.nyt.com/images/2026/11/09/business/09biz-x-strategies/09biz-x-strategies-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T00:10:03.074Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+    "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
+    "titleZh": "油價下跌緩和通膨困境，金價維持在 4,100 美元上方",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+    "image": null,
+    "pushedAt": "2026-11-10T00:20:15.846Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/exxonmobil-signs-deal-in-step-toward-re-entering-venezuela",
+    "title": "ExxonMobil Signs Deal in Step Toward Re-Entering Venezuela",
+    "titleZh": "埃克森美孚簽署協議，重返委內瑞拉",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/exxonmobil-signs-deal-in-step-toward-re-entering-venezuela",
+    "image": null,
+    "pushedAt": "2026-11-10T00:20:19.837Z"
   }
 ]
