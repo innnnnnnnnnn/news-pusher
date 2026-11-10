@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
-    "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate",
-    "titleZh": "忘記密西根吧。阿拉斯加的一場災難可能會讓民主黨失去參議院席位",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
-    "image": null,
-    "pushedAt": "2026-11-08T16:40:59.297Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/canada-to-give-200-000-temporary-residents-permanent-status-as-one-time-measure",
     "title": "Canada to Give 200,000 Temporary Residents Permanent Status as One-Time Measure",
     "titleZh": "加拿大將一次性給予 20 萬臨時居民永久身份",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/falling-oil-prices-and-bond-yields-offer-investors-some-relief",
     "image": null,
     "pushedAt": "2026-11-10T11:06:25.599Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
+    "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
+    "titleZh": "專家警告美國全球衛生策略危害流行病預防",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00dc-pandemic-prep1-vzcq/00dc-pandemic-prep1-vzcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T11:06:52.997Z"
   }
 ]
