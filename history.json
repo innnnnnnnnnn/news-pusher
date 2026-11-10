@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/movies/jordan-firstman-interview-club-kid.html",
-    "title": "Jordan Firstman, of ‘Club Kid,’ Knows How to Party",
-    "titleZh": "《俱樂部小子》中的喬丹福斯特曼知道如何參加派對",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/movies/jordan-firstman-interview-club-kid.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-jordan-firstman-promo-zgmb/15cul-jordan-firstman-promo-zgmb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T13:49:33.854Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
     "title": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
     "titleZh": "西維吉尼亞州州長兼參議員約翰·D·洛克菲勒四世去世，享年 89 歲",
@@ -2229,7 +2220,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T05:09:21.609Z"
+    "pushedAt": "2026-11-10T07:22:13.038Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
@@ -2238,7 +2229,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T05:10:12.930Z"
+    "pushedAt": "2026-11-10T07:22:36.843Z"
   },
   {
     "id": "https://www.nytimes.com/article/france-student-protests-why.html",
@@ -8439,7 +8430,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever",
     "image": null,
-    "pushedAt": "2026-11-10T05:10:37.677Z"
+    "pushedAt": "2026-11-10T07:23:00.443Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
@@ -8736,7 +8727,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/neolix-s-zhao-on-business-strategy-video",
     "image": null,
-    "pushedAt": "2026-11-10T05:08:29.812Z"
+    "pushedAt": "2026-11-10T07:21:49.992Z"
   },
   {
     "id": "https://www.ft.com/content/7cb3bfb9-674d-4fde-a294-d5d31ce3ba71",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/vodafone-raises-profit-forecast-after-cost-cutting-campaign",
     "image": null,
     "pushedAt": "2026-11-10T07:21:23.548Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/horizons-middle-east-africa-11-10-2026-video",
+    "title": "Horizons Middle East & Africa 11/10/2026 (Video)",
+    "titleZh": "中東和非洲地平線 11/10/2026（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/horizons-middle-east-africa-11-10-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-10T07:23:26.699Z"
   }
 ]
