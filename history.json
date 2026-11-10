@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-    "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-    "titleZh": "隨著醫師支出飆升，川普政府著手罷免仲裁員",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T08:01:50.900Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-polls.html",
     "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
     "titleZh": "紐西蘭會加入選民對成本飆升的全球反抗嗎？",
@@ -4245,7 +4236,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-deportations-2-plzm/00int-deportations-2-plzm-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T11:36:29.063Z"
+    "pushedAt": "2026-11-10T14:01:09.912Z"
   },
   {
     "id": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b",
@@ -7017,7 +7008,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f2aab2e-9c12-4aa1-a628-b6d021a07fd7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T11:35:40.421Z"
+    "pushedAt": "2026-11-10T14:00:19.131Z"
   },
   {
     "id": "https://www.ft.com/content/7fb4b61c-b707-4683-b4ec-2bc6f277dd05",
@@ -7026,7 +7017,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7fb4b61c-b707-4683-b4ec-2bc6f277dd05?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T11:36:04.527Z"
+    "pushedAt": "2026-11-10T14:00:45.330Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/gfl-environmental-rejects-takeover-bids-opts-to-remain-public",
     "image": null,
     "pushedAt": "2026-11-10T13:50:29.336Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round",
+    "title": "Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round",
+    "titleZh": "Path Robotics 在最新一輪融資中估值翻了兩番，達到 25 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round",
+    "image": null,
+    "pushedAt": "2026-11-10T14:01:38.098Z"
   }
 ]
