@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls",
-    "title": "US Adds 165,000 Jobs, Topping All Forecasts in Broad Advance",
-    "titleZh": "隨著失業率下降，美國新增 16.5 萬個就業崗位，高於預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls",
-    "image": null,
-    "pushedAt": "2026-11-07T15:11:32.250Z"
-  },
-  {
     "id": "https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc",
     "title": "October inflation in the Eurozone keeps ECB on course for another tightening",
     "titleZh": "歐元區 10 月通膨使歐洲央行預計再次緊縮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/live-blog/2026-11-10/ftse-100-live-updates-pound-gilts-stock-rally-europe-what-s-moving-uk-markets-right-now-markets-today",
     "image": null,
     "pushedAt": "2026-11-10T06:56:16.935Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c",
+    "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+    "titleZh": "美國經濟10月新增就業16.5萬個，超出預期",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T06:56:44.897Z"
   }
 ]
