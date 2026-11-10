@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-expectations-hit-after-ai-rout-video",
-    "title": "Anthropic IPO Valuation Expectations Hit After AI Rout",
-    "titleZh": "AI 潰敗後，人為 IPO 估值預期受到打擊（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-expectations-hit-after-ai-rout-video",
-    "image": null,
-    "pushedAt": "2026-11-06T19:02:00.229Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/multiple-fed-rate-hikes-reasonable-pimco-s-wilding-says-video",
     "title": "Multiple Fed Rate Hikes Reasonable, Pimco's Wilding Says",
     "titleZh": "Pimco 威爾丁表示，聯準會多次升息是合理的",
@@ -2769,7 +2760,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T08:03:38.683Z"
+    "pushedAt": "2026-11-10T10:24:00.633Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
@@ -2778,7 +2769,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T08:04:02.173Z"
+    "pushedAt": "2026-11-10T10:24:50.237Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
@@ -3912,7 +3903,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
     "image": null,
-    "pushedAt": "2026-11-10T08:03:15.208Z"
+    "pushedAt": "2026-11-10T10:23:36.080Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/uk-firms-pared-hiring-in-turbulent-weeks-before-budget-rec-says",
@@ -7431,7 +7422,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-hegseth-wtk-gjkp/09dc-hegseth-wtk-gjkp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T08:02:27.859Z"
+    "pushedAt": "2026-11-10T10:23:12.286Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html",
@@ -7755,7 +7746,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
     "image": null,
-    "pushedAt": "2026-11-10T03:22:53.953Z"
+    "pushedAt": "2026-11-10T10:24:26.174Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/riksbank-officials-see-rate-hike-over-months-ahead-minutes-show",
     "image": null,
     "pushedAt": "2026-11-10T10:19:08.689Z"
+  },
+  {
+    "id": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72",
+    "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+    "titleZh": "川普撤回打擊伊朗的威脅，油價跌破 90 美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12fc5235-47cb-4932-8ebe-a1490412612a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-10T10:25:18.908Z"
   }
 ]
