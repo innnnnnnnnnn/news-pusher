@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
-    "title": "Why Indians should have higher standards",
-    "titleZh": "為什麼印度人應該有更高的標準",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
-    "image": null,
-    "pushedAt": "2026-11-10T22:05:12.040Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-08/gabon-seeks-2-billion-to-revive-mabounie-rare-earths-project",
-    "title": "Gabon Seeks $2 Billion to Revive Mabounie Rare Earths Project",
-    "titleZh": "加彭尋求 20 億美元重振 Mabounie 稀土項目",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/gabon-seeks-2-billion-to-revive-mabounie-rare-earths-project",
-    "image": null,
-    "pushedAt": "2026-11-08T21:59:17.786Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
     "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
     "titleZh": "關於波蘭克拉科夫大規模槍擊事件您需要了解什麼",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
     "image": null,
     "pushedAt": "2026-11-10T23:11:39.864Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+    "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+    "titleZh": "以色列反對黨領袖加迪艾森科特是誰？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T23:12:07.970Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/macquarie-to-pay-fine-on-marketing-failure-as-new-ceo-arrives",
+    "title": "Macquarie to Pay Fine on Marketing Failure as New CEO Arrives",
+    "titleZh": "新任執行長上任後，麥格理將因行銷失敗而支付罰款",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/macquarie-to-pay-fine-on-marketing-failure-as-new-ceo-arrives",
+    "image": null,
+    "pushedAt": "2026-11-10T23:12:12.832Z"
   }
 ]
