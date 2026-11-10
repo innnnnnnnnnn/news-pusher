@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-    "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-    "titleZh": "薩摩亞廚師將家鄉風味帶入紐西蘭美食界",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T19:00:55.015Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-    "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-    "titleZh": "小鎮巨人面臨路的盡頭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T19:03:57.118Z"
-  },
-  {
     "id": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
     "title": "What to Know About Diwali, the Hindu Festival of Lights",
     "titleZh": "關於排燈節（印度教排燈節）的了解",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T21:03:29.303Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+    "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+    "titleZh": "污染嚴重的德里在排燈節嘗試「綠色」煙火淨化空氣",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+    "image": "https://static01.nyt.com/images/2026/12/08/multimedia/08int-india-diwali-pollution-khqw/08int-india-diwali-pollution-khqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T21:03:58.176Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/it-looks-like-higher-rates-are-on-the-way",
+    "title": "It Looks Like Higher Rates Are on the Way",
+    "titleZh": "看來更高的利率即將到來",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/it-looks-like-higher-rates-are-on-the-way",
+    "image": null,
+    "pushedAt": "2026-11-10T21:04:01.309Z"
   }
 ]
