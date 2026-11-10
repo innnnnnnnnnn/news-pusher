@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/consumer-sentiment-still-very-negative-umich-s-hsu-says-video",
-    "title": "Consumer Sentiment Still Very Negative, UMich's Hsu Says",
-    "titleZh": "密西根大學的 Hsu 表示，消費者信心仍然非常消極",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/consumer-sentiment-still-very-negative-umich-s-hsu-says-video",
-    "image": null,
-    "pushedAt": "2026-11-07T14:50:43.778Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-under-pressure-after-tech-rout-video",
-    "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
-    "titleZh": "科技股潰敗後，人為 IPO 估值面臨壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-under-pressure-after-tech-rout-video",
-    "image": null,
-    "pushedAt": "2026-11-06T18:21:37.759Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
-    "title": "Goldman US Stock Panic Gauge Hits Extreme, Signaling Rebound",
-    "titleZh": "高盛美國股市恐慌指數達到極限，預示著反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
-    "image": null,
-    "pushedAt": "2026-11-06T18:24:43.131Z"
-  },
-  {
-    "id": "https://flipso.com/p/whc4ci2yf",
-    "title": "Christianity as the Schelling Science Fiction",
-    "titleZh": "謝林科幻小說中的基督教",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/whc4ci2yf?ref=rss",
-    "image": "https://cdn.flipso.com/p/whc4ci2yf_square.jpg",
-    "pushedAt": "2026-11-07T21:22:48.967Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/hassett-says-no-economic-policy-shift-even-after-election-rout",
-    "title": "Hassett Says No Economic Policy Shift Even After Election Rout",
-    "titleZh": "哈塞特表示，即使選舉失敗後，經濟政策也不會改變",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/hassett-says-no-economic-policy-shift-even-after-election-rout",
-    "image": null,
-    "pushedAt": "2026-11-07T14:58:14.128Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
     "title": "Millennium Parting Ways With Two More Credit Trading Pods",
     "titleZh": "千禧年與另外兩個信用交易莢分道揚鑣",
@@ -8998,5 +8953,50 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/treasury-yields-won-t-peak-until-recession-hits-t-rowe-says",
     "image": null,
     "pushedAt": "2026-11-10T10:04:13.741Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+    "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+    "titleZh": "幫助中央情報局的人在墨西哥秘密運作",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-mexico-chihuahua01a-photo-gkfw/09int-mexico-chihuahua01a-photo-gkfw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T10:04:43.441Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+    "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+    "titleZh": "為什麼美國的商業交易不太可能讓普丁讓步",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-russia-putin-talks-bgpf/10int-russia-putin-talks-bgpf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T10:04:50.032Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
+    "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
+    "titleZh": "在阿根廷，教宗利奧行走在方濟各的巨大陰影中",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
+    "image": null,
+    "pushedAt": "2026-11-10T10:04:55.077Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+    "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+    "titleZh": "土耳其將自己宣傳為氣候冠軍。並非所有人都同意。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-turkey-cop-01-bjkt/10int-turkey-cop-01-bjkt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T10:04:59.908Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+    "title": "As Fresh Air Becomes a Luxury, Many Indonesians Turn on Their Leader",
+    "titleZh": "隨著新鮮空氣成為一種奢侈品，許多印尼人開始攻擊他們的領導人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T10:05:05.223Z"
   }
 ]
