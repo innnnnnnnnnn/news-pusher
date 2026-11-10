@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-    "title": "The fight for the soul of the Australian right",
-    "titleZh": "為澳洲右翼的靈魂而戰",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-    "image": null,
-    "pushedAt": "2026-11-09T17:08:49.410Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
     "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
     "titleZh": "香港民運人士黃之鋒被判入獄10年",
@@ -334,12 +325,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
-    "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+    "title": "This Law Firm Just Bought Malpractice Insurance for its A.I. Agents",
     "titleZh": "律師事務所有醫療事故保險。他們的人工智慧應該嗎？代理商？",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:01:33.076Z"
+    "pushedAt": "2026-11-10T17:31:44.563Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
@@ -5743,12 +5734,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
+    "title": "Stocks, Bonds Fall as Inflation Spurs Fed Caution: Markets Wrap",
     "titleZh": "亞洲股市因美國科技股上漲和石油暴跌而上漲：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-10T15:00:36.388Z"
+    "pushedAt": "2026-11-10T17:30:53.844Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/dutch-bros-ceo-gas-prices-are-impacting-the-consumer-video",
@@ -7903,12 +7894,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/dangote-cement-pauses-london-listing-plan-after-market-selloff",
-    "title": "Dangote Cement Pauses London Listing Plan After Market Selloff",
+    "title": "Dangote Cement Pauses $1 Billion London Listing Plan After Rout",
     "titleZh": "丹格特水泥在市場拋售後暫停倫敦上市計劃",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/dangote-cement-pauses-london-listing-plan-after-market-selloff",
     "image": null,
-    "pushedAt": "2026-11-10T15:00:09.758Z"
+    "pushedAt": "2026-11-10T17:30:26.304Z"
   },
   {
     "id": "https://www.ft.com/content/f0665cf7-a36f-4573-b7d6-93dda9d59d3f",
@@ -8479,12 +8470,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-nagel-says-december-rate-hike-is-looking-rather-obvious",
-    "title": "ECB’s Nagel Says December Rate Hike Is Looking ‘Rather Obvious’",
+    "title": "ECB’s Nagel Says December Rate Hike Is ‘Rather Obvious’",
     "titleZh": "歐洲央行內格爾稱12月升息看起來“相當明顯”",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-nagel-says-december-rate-hike-is-looking-rather-obvious",
     "image": null,
-    "pushedAt": "2026-11-10T15:01:03.752Z"
+    "pushedAt": "2026-11-10T17:31:18.635Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/eu-steps-up-push-for-more-joint-borrowing-to-finance-ukraine",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/oura-to-buy-on-demand-doctor-ai-service-counsel-health-revenue-jumps-153-in-q4",
     "image": null,
     "pushedAt": "2026-11-10T17:29:56.924Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwayrbrl",
+    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+    "titleZh": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwayrbrl",
+    "image": null,
+    "pushedAt": "2026-11-10T17:32:10.664Z"
   }
 ]
