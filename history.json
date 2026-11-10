@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices",
-    "title": "Fed’s Daly Says More Rate Hikes Likely Needed to Tame Prices",
-    "titleZh": "聯準會戴利表示可能需要進一步升息才能抑制物價上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices",
-    "image": null,
-    "pushedAt": "2026-11-07T17:15:44.242Z"
-  },
-  {
     "id": "https://www.ft.com/content/d3d05f60-951d-4135-9342-c62c9f1f5839",
     "title": "West End reports spending boost after Oxford Street bans cars and buses",
     "titleZh": "牛津街禁止小汽車和巴士後，西區報告支出增加",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/live-blog/2026-11-10/us-cpi-report-for-october-live-updates",
     "image": null,
     "pushedAt": "2026-11-10T12:35:33.415Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+    "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+    "titleZh": "川普的幕僚長蘇西·懷爾斯被指控阻礙健康政策以吸引捐款",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T12:36:01.353Z"
   }
 ]
