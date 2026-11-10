@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html",
-    "title": "What to Expect From Lame-Duck Trump",
-    "titleZh": "對跛腳鴨川普有何期待",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html",
-    "image": null,
-    "pushedAt": "2026-11-07T09:59:20.209Z"
-  },
-  {
     "id": "https://www.nytimes.com/2025/07/07/opinion/stephen-miller.html",
     "title": "The Ruthless Ambition of Stephen Miller",
     "titleZh": "史蒂芬·米勒的無情野心",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10venezuela-us-funds-tfkp/10venezuela-us-funds-tfkp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T13:46:27.044Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+    "title": "What markets make of the midterms",
+    "titleZh": "市場對中期選舉有何看法",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+    "image": null,
+    "pushedAt": "2026-11-10T13:46:55.404Z"
   }
 ]
