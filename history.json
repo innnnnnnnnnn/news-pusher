@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
-    "title": "Day Drinking With the President",
-    "titleZh": "與總統共飲一天",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06-EYEWITNESS-LBJ-RANCH-1-qclk/06-EYEWITNESS-LBJ-RANCH-1-qclk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-06T15:54:54.012Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/weather/florida-rain-el-nino.html",
     "title": "Florida Shattered Rain Records This Week. Was That Just a Preview?",
     "titleZh": "佛羅裡達州本週打破了降雨記錄。這只是預覽嗎？",
@@ -3993,7 +3984,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
     "image": null,
-    "pushedAt": "2026-11-09T23:48:45.417Z"
+    "pushedAt": "2026-11-10T02:17:22.888Z"
   },
   {
     "id": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
@@ -8322,7 +8313,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/google-rolls-out-new-ai-chips-to-challenge-nvidia-video",
     "image": null,
-    "pushedAt": "2026-11-09T23:49:11.172Z"
+    "pushedAt": "2026-11-10T02:17:49.838Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
     "image": null,
     "pushedAt": "2026-11-10T02:16:54.328Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
+    "title": "China Water Environment Seeks $410 Million Loan Restructuring",
+    "titleZh": "中國水環境尋求4.1億美元貸款重組",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
+    "image": null,
+    "pushedAt": "2026-11-10T02:18:17.409Z"
   }
 ]
