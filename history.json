@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
-    "title": "What to Know About Diwali, the Hindu Festival of Lights",
-    "titleZh": "關於排燈節（印度教排燈節）的了解",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07xp-diwali-hvcj/07xp-diwali-hvcj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T09:08:56.367Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html",
-    "title": "After ‘Babydoll’, Dominic Fike Embraces the Mess",
-    "titleZh": "《Babydoll》之後，多明尼克·菲克擁抱混亂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T15:20:48.687Z"
-  },
-  {
     "id": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61",
     "title": "Crypto industry braces for reckoning over Trump ties",
     "titleZh": "加密產業準備應對川普關係的清算",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/it-looks-like-higher-rates-are-on-the-way",
     "image": null,
     "pushedAt": "2026-11-10T21:04:01.309Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+    "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+    "titleZh": "薩摩亞廚師將家鄉風味帶入紐西蘭美食界",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+    "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T21:04:30.084Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+    "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+    "titleZh": "巨型路邊景點面臨不斷增加的成本和不確定的未來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T21:04:32.806Z"
   }
 ]
