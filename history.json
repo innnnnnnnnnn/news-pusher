@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-    "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
-    "titleZh": "巴拉圭總統因金融危機被解職",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T14:28:11.955Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
     "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
     "titleZh": "關於川普新任幕僚長史蒂芬‧米勒，你需要了解什麼",
@@ -1239,7 +1230,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/8c2bh1ach?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-10T12:59:42.860Z"
+    "pushedAt": "2026-11-10T15:27:18.022Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hegseth-charges-wmbg/10dc-hegseth-charges-wmbg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T15:26:48.779Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/russian-october-budget-gap-widens-as-war-spending-hits-finances",
+    "title": "Russian October Budget Gap Widens as War Spending Hits Finances",
+    "titleZh": "戰爭支出衝擊財政，俄羅斯十月預算缺口擴大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/russian-october-budget-gap-widens-as-war-spending-hits-finances",
+    "image": null,
+    "pushedAt": "2026-11-10T15:27:46.227Z"
   }
 ]
