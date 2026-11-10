@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-    "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-    "titleZh": "關於川普新任幕僚長史蒂芬‧米勒，你需要了解什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-    "image": "https://static01.nyt.com/images/2026/08/07/multimedia/06trump-wiles-stephen-miller1/06trump-wiles-stephen-miller1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T19:41:00.173Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
-    "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
-    "titleZh": "亞特蘭大動物園推出新熊貓：福爽與萍萍",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
-    "image": null,
-    "pushedAt": "2026-11-07T10:24:52.741Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
     "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
     "titleZh": "紐西蘭會加入選民對成本飆升的全球反抗嗎？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/russian-october-budget-gap-widens-as-war-spending-hits-finances",
     "image": null,
     "pushedAt": "2026-11-10T15:27:46.227Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+    "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+    "titleZh": "檢察官指控巴拉圭前總統腐敗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T15:28:16.328Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-real-nears-post-vote-low-as-dovish-minutes-add-pressure",
+    "title": "Brazil Real Nears Post-Vote Low as Dovish Minutes Add Pressure",
+    "titleZh": "鴿派會議紀要增加壓力，巴西雷亞爾接近投票後低點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-real-nears-post-vote-low-as-dovish-minutes-add-pressure",
+    "image": null,
+    "pushedAt": "2026-11-10T15:28:21.149Z"
   }
 ]
