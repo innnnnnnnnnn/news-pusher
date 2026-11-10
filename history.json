@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-    "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-    "titleZh": "法國計劃在充滿不滿的秋天再次舉行抗議活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T16:02:58.984Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
     "title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
     "titleZh": "為什麼印度股市在排燈節舉行交易：解釋者",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
     "image": null,
     "pushedAt": "2026-11-10T16:47:56.064Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+    "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+    "titleZh": "查爾斯國王在加勒比海之旅中不帶雨傘但很自在",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T16:48:26.462Z"
   }
 ]
