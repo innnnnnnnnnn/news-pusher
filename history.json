@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
-    "title": "The Business Fallout From a Blue Wave",
-    "titleZh": "藍色浪潮對商業的影響",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04db-talarico-cqwp/04db-talarico-cqwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T22:59:13.019Z"
-  },
-  {
     "id": "https://www.ft.com/content/52770926-e4b9-4005-9e2f-332eb7dc6631",
     "title": "Blowout October payrolls data sets up Federal Reserve December rate rise",
     "titleZh": "10月就業數據井噴推動聯準會12月升息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/can-china-upend-commercial-aviation-emirates-says-be-prepared",
     "image": null,
     "pushedAt": "2026-11-10T09:50:24.815Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+    "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+    "titleZh": "愛爾蘭稱歐洲的炸彈威脅可能是一場協調一致的行動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T09:50:52.174Z"
   }
 ]
