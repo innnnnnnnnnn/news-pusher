@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/weather/florida-rain-el-nino.html",
-    "title": "Florida Shattered Rain Records This Week. Was That Just a Preview?",
-    "titleZh": "佛羅裡達州本週打破了降雨記錄。這只是預覽嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/weather/florida-rain-el-nino.html",
-    "image": null,
-    "pushedAt": "2026-11-06T15:55:20.135Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/kyiv-hits-sixth-russian-oil-plant-in-a-week-as-campaign-picks-up",
-    "title": "Kyiv Hits Sixth Russian Oil Plant in Week as Strikes Pick Up",
-    "titleZh": "隨著戰役的進行，基輔在一週內襲擊了第六家俄羅斯石油工廠",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/kyiv-hits-sixth-russian-oil-plant-in-a-week-as-campaign-picks-up",
-    "image": null,
-    "pushedAt": "2026-11-06T14:16:10.290Z"
-  },
-  {
     "id": "https://flipso.com/p/dbgtlr357",
     "title": "The Women Entering the Funeral Industry",
     "titleZh": "女性進入殯葬業",
@@ -6216,7 +6198,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
     "image": null,
-    "pushedAt": "2026-11-10T00:06:19.651Z"
+    "pushedAt": "2026-11-10T02:34:16.991Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
@@ -6225,7 +6207,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T00:07:44.166Z"
+    "pushedAt": "2026-11-10T02:35:09.635Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
@@ -8727,7 +8709,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09evening-nl-nvidia-pqtg/09evening-nl-nvidia-pqtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T00:06:46.740Z"
+    "pushedAt": "2026-11-10T02:34:43.676Z"
   },
   {
     "id": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
     "image": null,
     "pushedAt": "2026-11-10T02:18:17.409Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5f2aab2e-9c12-4aa1-a628-b6d021a07fd7",
+    "title": "Honda pins growth hopes on hybrids with $3bn US investment",
+    "titleZh": "本田投資 30 億美元寄望於混合動力車",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5f2aab2e-9c12-4aa1-a628-b6d021a07fd7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T02:35:38.769Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7fb4b61c-b707-4683-b4ec-2bc6f277dd05",
+    "title": "Tata Power’s Singapore woes",
+    "titleZh": "塔塔電力的新加坡困境",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7fb4b61c-b707-4683-b4ec-2bc6f277dd05?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T02:35:42.868Z"
   }
 ]
