@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-    "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-    "titleZh": "以色列大選後，誰將先獲得組成政府的機會？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
-    "pushedAt": "2026-11-10T11:24:55.709Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/treasuries-fall-as-jobs-data-fortifies-tech-rebound-video",
     "title": "Treasuries Fall as Strong Jobs Data Fortifies Tech Rebound",
     "titleZh": "由於強勁的就業數據加強了科技股的反彈，美國公債下跌",
@@ -3426,7 +3417,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-ai1-tmjk/08xp-ai1-tmjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:28:19.405Z"
+    "pushedAt": "2026-11-10T11:45:29.377Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/australia-regulator-halts-private-credit-fund-on-bathla-risks",
@@ -7773,7 +7764,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4bf7b037-7ef1-4421-b298-7c2ecf4bf870?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T09:28:43.219Z"
+    "pushedAt": "2026-11-10T11:45:53.943Z"
   },
   {
     "id": "https://www.ft.com/content/9be099de-58b1-471c-aa05-92622585ffac",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/norwegians-are-saving-the-most-money-in-decades-as-rates-rise",
     "image": null,
     "pushedAt": "2026-11-10T11:45:02.604Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
+    "title": "Anthropic Targets $64.4 Billion IPO, Nearing SpaceX’s Record",
+    "titleZh": "Anthropic 的 IPO 目標是 644 億美元，接近 SpaceX 的紀錄",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
+    "image": null,
+    "pushedAt": "2026-11-10T11:46:20.444Z"
   }
 ]
