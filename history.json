@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/treasuries-fall-as-jobs-data-fortifies-tech-rebound-video",
-    "title": "Treasuries Fall as Strong Jobs Data Fortifies Tech Rebound",
-    "titleZh": "由於強勁的就業數據加強了科技股的反彈，美國公債下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/treasuries-fall-as-jobs-data-fortifies-tech-rebound-video",
-    "image": null,
-    "pushedAt": "2026-11-06T20:23:36.628Z"
-  },
-  {
     "id": "https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc",
     "title": "Tesla’s Cybertruck is a masterclass in failing upwards",
     "titleZh": "特斯拉的 Cyber​​truck 是失敗向上的大師作品",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
     "image": null,
     "pushedAt": "2026-11-10T11:46:20.444Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+    "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+    "titleZh": "以色列反對派如何推翻內塔尼亞胡（或不）",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
+    "pushedAt": "2026-11-10T11:46:47.991Z"
   }
 ]
