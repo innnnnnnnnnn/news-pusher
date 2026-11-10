@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/fast-money-systematic-funds-stoked-2-3-trillion-tech-stock-rout",
-    "title": "Fast-Money Systematic Funds Stoked $2.3 Trillion Tech-Stock Rout",
-    "titleZh": "快錢系統性基金募集了 2.3 兆美元科技股暴跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/fast-money-systematic-funds-stoked-2-3-trillion-tech-stock-rout",
-    "image": null,
-    "pushedAt": "2026-11-06T13:20:05.030Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
     "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
     "titleZh": "12 天內搭乘 12 架飛機：手術幾週後，教宗開始拉丁美洲主要之旅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike",
     "image": null,
     "pushedAt": "2026-11-10T00:41:08.446Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+    "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
+    "titleZh": "隨著人工智慧的出現，全球股市跟隨美國拋售消費恐懼蔓延",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+    "image": null,
+    "pushedAt": "2026-11-10T00:41:38.042Z"
   }
 ]
