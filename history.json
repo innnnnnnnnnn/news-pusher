@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73",
-    "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
-    "titleZh": "法國極左派總統候選人承諾「革命性」重塑社會",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T16:33:39.773Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
-    "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
-    "titleZh": "對史蒂芬·米勒來說，選舉失敗並不是放棄移民鎮壓的理由",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T18:27:43.275Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
     "title": "New Chief of Staff, Chain Reaction Tech Selloff",
     "titleZh": "新任幕僚長引發連鎖反應科技股拋售",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T20:04:05.770Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+    "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+    "titleZh": "世界頂尖外交官的“混亂競賽”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T20:04:36.105Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/coinbase-gets-national-bank-charter-approval-video",
+    "title": "Coinbase Gets National Bank Charter Approval",
+    "titleZh": "Coinbase 獲得國家銀行章程批准",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/coinbase-gets-national-bank-charter-approval-video",
+    "image": null,
+    "pushedAt": "2026-11-10T20:04:40.083Z"
   }
 ]
