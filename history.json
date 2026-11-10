@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2",
-    "title": "James Talarico: the Democrats’ rising star who turned Texas blue",
-    "titleZh": "詹姆斯·塔拉里科：將德州變成藍色的民主黨新星",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F15476f78-0599-492a-89be-4d8a0337f5d1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-07T12:36:42.783Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
     "title": "SpaceX Embrace of Compute Deals Eases Reliance on US Contracts",
     "titleZh": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
@@ -1428,7 +1419,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T09:12:45.062Z"
+    "pushedAt": "2026-11-10T11:29:00.071Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
@@ -5253,7 +5244,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T09:13:08.878Z"
+    "pushedAt": "2026-11-10T11:29:23.628Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/gas-price-surge-leaves-some-german-manufacturers-fully-exposed",
     "image": null,
     "pushedAt": "2026-11-10T11:28:33.661Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel",
+    "title": "AI Agents Have Yet to Disrupt Uber, DoorDash or Online Travel",
+    "titleZh": "人工智慧代理尚未顛覆 Uber、DoorDash 或線上旅遊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel",
+    "image": null,
+    "pushedAt": "2026-11-10T11:29:50.272Z"
   }
 ]
