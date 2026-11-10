@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05",
-    "title": "How demographics can distort economic narratives — redux",
-    "titleZh": "人口統計數據如何扭曲經濟敘事—redux",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T15:15:22.607Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
     "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
     "titleZh": "隨著人工智慧的出現，全球股市跟隨美國拋售消費恐懼蔓延",
@@ -33,7 +24,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T22:04:30.724Z"
+    "pushedAt": "2026-11-10T00:35:45.927Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
@@ -4695,7 +4686,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/y42mtxwzj?ref=rss",
     "image": "https://cdn.flipso.com/p/y42mtxwzj_square.jpg",
-    "pushedAt": "2026-11-09T21:59:40.098Z"
+    "pushedAt": "2026-11-10T00:33:09.676Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
@@ -4704,7 +4695,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
     "image": null,
-    "pushedAt": "2026-11-09T22:00:37.956Z"
+    "pushedAt": "2026-11-10T00:34:01.321Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
@@ -4713,7 +4704,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
     "image": null,
-    "pushedAt": "2026-11-09T22:01:04.975Z"
+    "pushedAt": "2026-11-10T00:34:27.323Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
@@ -4722,7 +4713,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
     "image": null,
-    "pushedAt": "2026-11-09T22:04:05.200Z"
+    "pushedAt": "2026-11-10T00:35:19.482Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/-godzilla-minus-zero-tops-box-office-in-win-for-japanese-film",
@@ -8619,7 +8610,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
     "image": null,
-    "pushedAt": "2026-11-09T22:00:09.012Z"
+    "pushedAt": "2026-11-10T00:33:35.582Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
@@ -8627,8 +8618,8 @@
     "titleZh": "約翰‧哈里森 (M. John Harrison) 的《一切的終點》榮獲布克獎",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
-    "image": null,
-    "pushedAt": "2026-11-09T22:03:37.004Z"
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09tbr-booker-prize-flcv/09tbr-booker-prize-flcv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T00:34:54.280Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T00:27:19.714Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef",
+    "title": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
+    "titleZh": "埃克森美孚在稱委內瑞拉「不可投資」後探索重返委內瑞拉",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T00:36:14.549Z"
   }
 ]
