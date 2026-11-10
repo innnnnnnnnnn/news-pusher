@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
-    "title": "Republicans Point Fingers, but Trump Does Not Appear to Be Listening",
-    "titleZh": "共和黨人指責川普，但川普似乎沒有在聽",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08pol-gop-blame-gfjv/08pol-gop-blame-gfjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-08T15:01:02.641Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html",
     "title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
     "titleZh": "凱莎·蘭斯 (Keisha Lance) 探討民主黨如何才能取得最後的勝利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T22:43:35.950Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail",
+    "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
+    "titleZh": "Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail",
+    "image": null,
+    "pushedAt": "2026-11-10T22:44:07.941Z"
   }
 ]
