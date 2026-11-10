@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil",
-    "title": "TikTok Owner ByteDance Weighs Data Center Expansion in Brazil",
-    "titleZh": "TikTok 所有者位元組跳動考慮擴建巴西資料中心",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/tiktok-owner-bytedance-weighs-data-center-expansion-in-brazil",
-    "image": null,
-    "pushedAt": "2026-11-06T18:45:42.998Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-    "title": "America’s Trade Deficit Remained Elevated in September",
-    "titleZh": "美國9月貿易逆差持續偏高",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-    "image": null,
-    "pushedAt": "2026-11-09T08:34:20.640Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/nubank-halts-some-crypto-transactions-citing-snag-with-provider",
     "title": "Nubank Halts Some Crypto Transactions, Citing Snag With Provider",
     "titleZh": "Nubank 因供應商遇到障礙而暫停部分加密貨幣交易",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
     "image": null,
     "pushedAt": "2026-11-10T10:07:21.680Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+    "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+    "titleZh": "人工智慧.應該是來找我們的工作的。到目前為止，證據好壞參半。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-ai-kfjv/06biz-jobs-report-ai-kfjv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T10:07:48.983Z"
+  },
+  {
+    "id": "https://flipso.com/p/p3hcpjs4n",
+    "title": "The lost medieval habit of biphasic sleep",
+    "titleZh": "中世紀失去的雙相睡眠習慣",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/p3hcpjs4n?ref=rss",
+    "image": "https://cdn.flipso.com/p/p3hcpjs4n_square.jpg",
+    "pushedAt": "2026-11-10T10:07:55.989Z"
   }
 ]
