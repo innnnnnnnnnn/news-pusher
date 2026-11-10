@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/58dc7cb0-bbce-4197-83eb-1fed7e2e9523",
-    "title": "Met chief publicly criticised by senior officer and mayors for push to merge police forces",
-    "titleZh": "會見局長因推動合併警察部隊而受到高級官員和市長的公開批評",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/58dc7cb0-bbce-4197-83eb-1fed7e2e9523?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-07T05:17:50.714Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/prediction-markets-will-pay-off-draftkings-ceo-says-video",
     "title": "Investing in Prediction Markets Will Pay Off, DraftKings CEO Says",
     "titleZh": "DraftKings 執行長表示，投資預測市場將會獲得回報",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/nvidia-ceo-jensen-huang-s-affair-shows-pitfalls-of-imperious-leaders",
     "image": null,
     "pushedAt": "2026-11-10T12:01:45.985Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
+    "title": "The A.I. Spy Thriller",
+    "titleZh": "人工智慧間諜驚悚片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10Daily-Nvidia-fpkb/10Daily-Nvidia-fpkb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-10T12:02:14.723Z"
   }
 ]
