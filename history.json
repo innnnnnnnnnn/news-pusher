@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/032r7g16t",
-    "title": "Is curiosity good for us?",
-    "titleZh": "好奇心對我們有好處嗎？",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/032r7g16t?ref=rss",
-    "image": "https://cdn.flipso.com/p/032r7g16t_square.jpg",
-    "pushedAt": "2026-11-09T12:45:48.757Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
     "title": "Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff",
     "titleZh": "Neocloud Groq 的目標是在 AI 拋售期間將價值翻倍至 80 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T15:32:46.903Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+    "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+    "titleZh": "紐西蘭大選“勢均力敵”，選民轉向小黨派",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T15:33:21.094Z"
   }
 ]
