@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27",
-    "title": "Copper prices fall on fears of AI backlash",
-    "titleZh": "由於擔心人工智慧的強烈反對，銅價下跌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-07T05:17:25.543Z"
-  },
-  {
     "id": "https://www.ft.com/content/58dc7cb0-bbce-4197-83eb-1fed7e2e9523",
     "title": "Met chief publicly criticised by senior officer and mayors for push to merge police forces",
     "titleZh": "會見局長因推動合併警察部隊而受到高級官員和市長的公開批評",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-trade-surplus",
     "image": null,
     "pushedAt": "2026-11-10T12:01:17.080Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/nvidia-ceo-jensen-huang-s-affair-shows-pitfalls-of-imperious-leaders",
+    "title": "Nvidia CEO Jensen Huang’s Affair Shows Pitfalls of Imperious Leaders",
+    "titleZh": "英偉達執行長黃仁勳的事件揭露了專橫領導者的陷阱",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/nvidia-ceo-jensen-huang-s-affair-shows-pitfalls-of-imperious-leaders",
+    "image": null,
+    "pushedAt": "2026-11-10T12:01:45.985Z"
   }
 ]
