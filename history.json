@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
-    "title": "Charting the Global Economy: Job Growth in US Tops All Forecasts",
-    "titleZh": "繪製全球經濟圖：美國就業成長位居所有預測之首",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
-    "image": null,
-    "pushedAt": "2026-11-08T09:29:58.519Z"
-  },
-  {
     "id": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298",
     "title": "Data centres rebuked",
     "titleZh": "資料中心飽受批評",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
     "image": null,
     "pushedAt": "2026-11-10T17:54:33.403Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+    "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+    "titleZh": "美國批准向辦公室空置、關係緊張的中國公司供應英偉達晶片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T17:55:01.882Z"
   }
 ]
