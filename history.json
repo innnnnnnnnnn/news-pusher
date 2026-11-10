@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
-    "title": "AI Selloff Exposes Data Center Boom Risks",
-    "titleZh": "人工智慧拋售暴露了資料中心繁榮的風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
-    "image": null,
-    "pushedAt": "2026-11-07T20:56:40.786Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
     "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
     "titleZh": "為科技公司提供資金：安·貝瑞 (Ann Berry) 的商業碩士",
@@ -2688,7 +2679,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
     "image": null,
-    "pushedAt": "2026-11-10T12:43:13.921Z"
+    "pushedAt": "2026-11-10T15:11:59.189Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
@@ -2697,7 +2688,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
     "image": null,
-    "pushedAt": "2026-11-10T12:43:37.830Z"
+    "pushedAt": "2026-11-10T15:12:24.656Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/quluq2tto?ref=rss",
     "image": "https://cdn.flipso.com/p/quluq2tto_square.jpg",
     "pushedAt": "2026-11-10T15:11:29.584Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+    "title": "Failure of Billionaire Tax Strikes Blow to Progressive Agenda",
+    "titleZh": "億萬富翁稅收打擊失敗對進步議程的打擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-wealth-tax-hbpg/10dc-wealth-tax-hbpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T15:12:53.489Z"
   }
 ]
