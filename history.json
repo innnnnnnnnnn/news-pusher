@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/us-job-growth-surged-in-october-unemployment-rate-fell-video",
-    "title": "US Job Growth Surged in October, Unemployment Rate Fell",
-    "titleZh": "美國10月就業成長激增，失業率下降",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/us-job-growth-surged-in-october-unemployment-rate-fell-video",
-    "image": null,
-    "pushedAt": "2026-11-06T19:09:34.722Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
     "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
     "titleZh": "負責川普復仇運動核心的美國檢察官辭職",
@@ -2373,7 +2364,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/8c2bh1ach?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-10T08:21:38.569Z"
+    "pushedAt": "2026-11-10T10:39:26.550Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
@@ -2922,7 +2913,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T08:21:14.705Z"
+    "pushedAt": "2026-11-10T10:39:02.661Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
@@ -5730,7 +5721,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T08:22:02.505Z"
+    "pushedAt": "2026-11-10T10:39:50.493Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
@@ -6674,8 +6665,8 @@
     "titleZh": "世界如何變得過度依賴黃仁勳",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ea90ed5-c3b7-4f62-be0f-bb73b4caf8b1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T08:20:50.884Z"
+    "image": null,
+    "pushedAt": "2026-11-10T10:38:38.702Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b98d07ff-5d89-4782-84c0-6e1e3cb56806",
     "image": null,
     "pushedAt": "2026-11-10T10:38:12.013Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/kazaks-sees-rate-hike-judgments-getting-more-nuanced-video",
+    "title": "ECB's Kazāks Sees Rate-Hike Judgments Getting ‘More Nuanced’",
+    "titleZh": "歐洲央行的哈薩克人認為升息判斷變得“更加微妙”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/kazaks-sees-rate-hike-judgments-getting-more-nuanced-video",
+    "image": null,
+    "pushedAt": "2026-11-10T10:40:16.411Z"
   }
 ]
