@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-    "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-    "titleZh": "波蘭警方稱，槍手在克拉科夫開槍，造成至少 5 人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T18:16:38.971Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "titleZh": "尖！彭博社針對冒險者的每週新聞測驗",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "image": null,
-    "pushedAt": "2026-11-08T14:40:19.158Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
     "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
     "titleZh": "舒默以井噴選舉提升參議院地位",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/everybody-will-be-hacked-at-some-point-ledger-ceo-video",
     "image": null,
     "pushedAt": "2026-11-10T19:54:04.373Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+    "title": "American workers face a surge in health costs",
+    "titleZh": "美國工人面臨醫療費用激增",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+    "image": null,
+    "pushedAt": "2026-11-10T19:54:35.044Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
+    "title": "Alina Habba Loses $50 Million Contract That Enraged Trump",
+    "titleZh": "阿麗娜·哈巴 (Alina Habba) 失去了 5000 萬美元的合同，這激怒了川普",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-habba-jvqt/10dc-habba-jvqt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T19:54:38.550Z"
   }
 ]
