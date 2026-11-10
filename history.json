@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html",
-    "title": "Putin Just Killed Russia’s Last Independent Newspaper",
-    "titleZh": "普丁剛殺了俄羅斯最後一家獨立報紙",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html",
-    "image": null,
-    "pushedAt": "2026-11-08T09:57:02.969Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/opinion/midterms-america-government.html",
     "title": "America Called. It Wants Its Government Back.",
     "titleZh": "美國打來電話。它希望政府回來。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-10/stifel-ceo-on-anthropic-integrating-ai-and-fed-policy-video",
     "image": null,
     "pushedAt": "2026-11-10T22:12:07.829Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "title": "Donald Trump’s humiliation offers America an opportunity",
+    "titleZh": "唐納德·特朗普的羞辱為美國提供了機會",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "image": null,
+    "pushedAt": "2026-11-10T22:12:36.324Z"
   }
 ]
