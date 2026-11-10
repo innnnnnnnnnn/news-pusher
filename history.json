@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
-    "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
-    "titleZh": "《薩爾達傳說》遊戲重生，90 年代懷舊粉絲齊聚一堂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/00xp-zelda-03/00xp-zelda-03-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-10T19:10:16.461Z"
-  },
-  {
-    "id": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
-    "title": "As voters head to the polls, Democrats bet that discontent will power their victory",
-    "titleZh": "當選民前往投票站時，民主黨人押注不滿情緒將推動他們的勝利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
-    "image": null,
-    "pushedAt": "2026-11-09T21:44:43.209Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
     "title": "After the Midterms, the Average Age in the Senate Falls to 63",
     "titleZh": "參議院中有如此多的新血液，平均年齡正在下降。到 63。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc4dfe234-4333-48f0-840b-544077464772.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-10T20:07:51.618Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h",
+    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+    "titleZh": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h",
+    "image": null,
+    "pushedAt": "2026-11-10T20:08:22.412Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/major-blockchains-have-not-been-hacked-securitize-ceo-video-mwb4dc60",
+    "title": "Major Blockchains Have Not Been Hacked: Securitize CEO",
+    "titleZh": "主要區塊鏈尚未遭到駭客攻擊：Securitize CEO",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/major-blockchains-have-not-been-hacked-securitize-ceo-video-mwb4dc60",
+    "image": null,
+    "pushedAt": "2026-11-10T20:08:25.256Z"
   }
 ]
