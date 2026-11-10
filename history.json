@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/888d77c4-c771-4390-95ef-efcee413ef32",
-    "title": "EU probes ‘fraud’ on Spain’s lethal high-speed rail line",
-    "titleZh": "歐盟調查西班牙致命高鐵線路的“欺詐”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/888d77c4-c771-4390-95ef-efcee413ef32?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-08T05:00:08.771Z"
-  },
-  {
     "id": "https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27",
     "title": "Copper prices fall on fears of AI backlash",
     "titleZh": "由於擔心人工智慧的強烈反對，銅價下跌",
@@ -798,7 +789,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:43:29.187Z"
+    "pushedAt": "2026-11-10T12:00:49.384Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
@@ -1401,7 +1392,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:43:05.077Z"
+    "pushedAt": "2026-11-10T12:00:25.413Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
@@ -6936,7 +6927,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/colombia-seeks-15-billion-imf-deal-as-fiscal-pressure-mounts",
     "image": null,
-    "pushedAt": "2026-11-10T09:42:41.555Z"
+    "pushedAt": "2026-11-10T12:00:01.117Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
     "image": null,
     "pushedAt": "2026-11-10T11:59:33.845Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-trade-surplus",
+    "title": "China trade surplus",
+    "titleZh": "中國貿易順差",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-trade-surplus",
+    "image": null,
+    "pushedAt": "2026-11-10T12:01:17.080Z"
   }
 ]
