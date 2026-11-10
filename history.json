@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-    "title": "Can My Company Force Me to Reveal My Personal Email Address?",
-    "titleZh": "我的公司可以強迫我透露我的個人電子郵件嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:25:54.510Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html",
     "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
     "titleZh": "對川普和美國來說，選舉結果明確，但未來卻黯淡無光",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T22:42:33.099Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+    "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+    "titleZh": "土耳其安塔利亞 COP31 氣候談判指南",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T22:43:01.174Z"
   }
 ]
