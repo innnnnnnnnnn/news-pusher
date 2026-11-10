@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/tt59o4pkq",
-    "title": "Cancer at Sea",
-    "titleZh": "海上癌症",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/tt59o4pkq?ref=rss",
-    "image": "https://cdn.flipso.com/p/tt59o4pkq_square.jpg",
-    "pushedAt": "2026-11-10T19:04:25.414Z"
-  },
-  {
     "id": "https://www.ft.com/content/32c04cee-3f49-4971-a72d-391ad52e8f58",
     "title": "Indonesian president’s adviser says MSCI downgrade threat ‘went too far’",
     "titleZh": "印尼總統顧問稱摩根士丹利資本國際 (MSCI) 降級威脅“太過分了”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/cba-profit-climbs-as-banks-grapple-with-slide-in-mortgage-volume",
     "image": null,
     "pushedAt": "2026-11-10T20:59:59.014Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
+    "title": "PlayStation Cancels Online Shooting Title ‘Fairgames’",
+    "titleZh": "PlayStation 取消線上射擊遊戲《Fairgames》",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
+    "image": null,
+    "pushedAt": "2026-11-10T21:00:30.193Z"
   }
 ]
