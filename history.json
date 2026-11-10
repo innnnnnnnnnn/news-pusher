@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
-    "title": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
-    "titleZh": "巴塔哥尼亞尖塔下：美洲獅、牧羊業與美食的碰撞之地",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/patagonia-still-promo-mvpq/patagonia-still-promo-mvpq-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-06T19:39:38.899Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-06/ai-deal-windfalls-help-shield-european-credit-from-selloff",
     "title": "AI Deal Windfalls Help Shield European Credit From Selloff",
     "titleZh": "人工智慧交易的意外之財有助於保護歐洲信貸免受拋售",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-10T05:03:36.378Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
+    "title": "Strong wage growth supports Bank of Japan’s December move higher",
+    "titleZh": "強勁的薪資成長支撐日本央行 12 月利率走高",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
+    "image": null,
+    "pushedAt": "2026-11-10T05:04:03.076Z"
   }
 ]
