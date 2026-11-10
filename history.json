@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-06/i-don-t-own-bonds-comfortable-with-volatility-moore-video",
-    "title": "I Don't Own Bonds, Comfortable With Volatility: Moore",
-    "titleZh": "我不持有債券，對波動性感到滿意：摩爾",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/i-don-t-own-bonds-comfortable-with-volatility-moore-video",
-    "image": null,
-    "pushedAt": "2026-11-06T22:30:49.320Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-06/time-to-move-forward-on-sensible-ai-regulation-liccardo-video",
     "title": "Time to Move Forward With 'Sensible' AI Regulation, Says Rep. Liccardo",
     "titleZh": "眾議員利卡多表示，是時候推動「明智的」人工智慧監管了",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/amazon-s-ring-unveils-250-flying-security-camera-after-delays",
     "image": null,
     "pushedAt": "2026-11-10T13:32:02.990Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+    "title": "The Jensen Huang Affair",
+    "titleZh": "黃仁勳事件",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-10T13:32:33.245Z"
   }
 ]
