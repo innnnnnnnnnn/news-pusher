@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
-    "title": "Cornell Faculty Passes Vote of No Confidence Over Handling of Sexual Assault Case",
-    "titleZh": "康乃爾大學教師透過對行政不信任投票",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/met-cornell-senate1-mplw/met-cornell-senate1-mplw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-07T10:27:17.994Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
-    "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
-    "titleZh": "川普上訴駁回針對《華爾街日報》的 100 億美元誹謗訴訟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-wsj-pvgk/06biz-wsj-pvgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T12:17:00.339Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
     "title": "Trump Media’s Shares Fall to Record Low After Midterms",
     "titleZh": "中期選舉後川普媒體股價跌至歷史新低",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/ship-carrying-russian-diesel-makes-u-turn-after-heading-to-us",
     "image": null,
     "pushedAt": "2026-11-10T14:08:30.807Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ac059891-af9c-485d-8df3-5146298e9a21",
+    "title": "Pete Hegseth faces uphill battle to save his job",
+    "titleZh": "皮特·赫格斯 (Pete Hegseth) 面臨著保住工作的艱苦鬥爭",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ac059891-af9c-485d-8df3-5146298e9a21?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T14:09:00.661Z"
+  },
+  {
+    "id": "https://www.ft.com/content/92324091-0a6e-4c49-af2a-872502d2c69b",
+    "title": "Burnham’s fiscal devolution leap is crucial — and long overdue",
+    "titleZh": "伯納姆的財政權力下放飛躍至關重要——而且早就該實現了",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/92324091-0a6e-4c49-af2a-872502d2c69b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-10T14:09:07.394Z"
   }
 ]
