@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-    "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
-    "titleZh": "在阿根廷，教宗良將與與米萊總統發生爭執的教會會面",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:22:44.816Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
     "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
     "titleZh": "土耳其安塔利亞 COP31 氣候談判指南",
@@ -1122,7 +1113,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
     "image": null,
-    "pushedAt": "2026-11-10T20:20:59.876Z"
+    "pushedAt": "2026-11-10T22:40:44.735Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer",
@@ -1149,7 +1140,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
     "image": null,
-    "pushedAt": "2026-11-10T20:22:17.992Z"
+    "pushedAt": "2026-11-10T22:41:11.460Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/uk-firms-pared-hiring-in-turbulent-weeks-before-budget-rec-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
     "image": null,
     "pushedAt": "2026-11-10T22:40:16.116Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-10/opentable-ceo-on-2027-dining-trends-report-video",
+    "title": "OpenTable CEO on 2027 Dining Trends Report",
+    "titleZh": "OpenTable 執行長發表 2027 年餐飲趨勢報告",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-10/opentable-ceo-on-2027-dining-trends-report-video",
+    "image": null,
+    "pushedAt": "2026-11-10T22:42:05.277Z"
   }
 ]
