@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0",
-    "title": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
-    "titleZh": "FirstFT：民主黨大獲全勝引發人工智慧潰敗，全球股市暴跌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T13:55:11.751Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
-    "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
-    "titleZh": "華盛頓州禽流感死亡事件再次引發人們對病毒的擔憂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-bird-flu-cfvb/05dc-bird-flu-cfvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:14:46.959Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/the-opening-trade-11-09-2026-video",
-    "title": "UniCredit CEO Plots Commerzbank Governance Overhaul",
-    "titleZh": "聯合信貸銀行執行長計畫對德國商業銀行進行治理改革",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-opening-trade-11-09-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-09T12:14:07.660Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
-    "title": "AI Bets Meet Higher Capital Costs",
-    "titleZh": "人工智慧押注面臨更高的資本成本",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video",
-    "image": null,
-    "pushedAt": "2026-11-09T16:49:52.299Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/briefing/religious-democrats.html",
     "title": "The Clergy in Congress",
     "titleZh": "國會中的神職人員",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/funds-warn-brazil-126-billion-stock-market-rout-isn-t-over-yet",
     "image": null,
     "pushedAt": "2026-11-11T13:51:59.268Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ba2b73ed-7762-4c3f-bd04-753885e20116",
+    "title": "Friedrich Merz urged to curb German defence borrowing",
+    "titleZh": "弗里德里希·梅爾茨敦促遏制德國國防借款",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ba2b73ed-7762-4c3f-bd04-753885e20116?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T13:52:29.659Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49",
+    "title": "Saudi oil production rebounds close to prewar levels",
+    "titleZh": "沙烏地阿拉伯石油產量反彈至接近戰前水平",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T13:52:34.335Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f22ce1c1-8de8-420a-b9f6-4dff0fc1f732",
+    "title": "Turkey’s chief banking regulator offers to resign over $20bn fraud scandal",
+    "titleZh": "土耳其首席銀行監管機構因200億美元詐欺醜聞提出辭職",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f22ce1c1-8de8-420a-b9f6-4dff0fc1f732?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T13:52:37.669Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25",
+    "title": "UK chip start-up Fractile hits $7bn valuation",
+    "titleZh": "英國晶片新創公司 Fractile 估值達 70 億美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T13:52:41.852Z"
   }
 ]
