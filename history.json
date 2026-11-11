@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray",
-    "title": "Nvidia Controversy Throws High-Profile Korea Event Into Disarray",
-    "titleZh": "Nvidia 爭議讓備受矚目的韓國活動陷入混亂",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray",
-    "image": null,
-    "pushedAt": "2026-11-09T14:36:34.197Z"
-  },
-  {
     "id": "https://www.ft.com/content/56ff043b-03ca-4ca4-895e-b7e2da369695",
     "title": "Police reform plans are poor fit for Burnham’s devolution agenda",
     "titleZh": "警察改革計畫不適合伯納姆的權力下放議程",
@@ -8430,7 +8421,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/thai-officials-meet-apple-over-spyware-alerts-to-politicians",
     "image": null,
-    "pushedAt": "2026-11-11T09:52:20.030Z"
+    "pushedAt": "2026-11-11T12:03:02.576Z"
   },
   {
     "id": "https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-and-china-trade-ties",
     "image": null,
     "pushedAt": "2026-11-11T12:02:34.533Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
+    "title": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
+    "titleZh": "聯準會必須升息。官員們對進展速度有分歧。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-fed-gbfm/11dc-fed-gbfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T12:03:28.384Z"
   }
 ]
