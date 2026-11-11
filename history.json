@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
-    "title": "China and Taiwan are fighting over Sun Yat-sen",
-    "titleZh": "中國和台灣正在爭奪孫中山",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
-    "image": null,
-    "pushedAt": "2026-11-11T04:30:49.842Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
-    "title": "China’s ‘Bad Inflation’ Gets Entrenched But Deflation Risks Lurk",
-    "titleZh": "中國生產者通膨飆升至5.7%，創後疫情時代新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
-    "image": null,
-    "pushedAt": "2026-11-10T00:44:43.504Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze",
     "title": "India Short Bonds May Underperform on Rate Hikes, Cash Squeeze",
     "titleZh": "印度空頭債券可能因升息和現金緊縮而表現不佳",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
     "image": null,
     "pushedAt": "2026-11-11T05:13:25.487Z"
+  },
+  {
+    "id": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f",
+    "title": "Europe’s struggle to compete with China ramps up",
+    "titleZh": "歐洲與中國的競爭加劇",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T05:13:57.522Z"
+  },
+  {
+    "id": "https://flipso.com/p/6ch8adwiv",
+    "title": "The Kekulé Problem",
+    "titleZh": "凱庫勒問題",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/6ch8adwiv?ref=rss",
+    "image": "https://cdn.flipso.com/p/6ch8adwiv_square.jpg",
+    "pushedAt": "2026-11-11T05:14:01.130Z"
   }
 ]
