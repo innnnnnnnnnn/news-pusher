@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/aluminum-faces-severe-squeeze-as-lme-market-awaits-new-supply",
-    "title": "Aluminum Faces Severe Squeeze as LME Market Awaits New Supply",
-    "titleZh": "LME市場等待新供應，鋁面臨嚴重擠壓",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/aluminum-faces-severe-squeeze-as-lme-market-awaits-new-supply",
-    "image": null,
-    "pushedAt": "2026-11-09T19:12:14.194Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
     "title": "America’s renters are in serious trouble",
     "titleZh": "美國的租屋者陷入嚴重麻煩",
@@ -4011,7 +4002,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
     "image": null,
-    "pushedAt": "2026-11-11T13:37:38.970Z"
+    "pushedAt": "2026-11-11T16:04:45.496Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/vanguard-inks-4-billion-of-private-debt-to-fund-altruist-deal",
@@ -4488,7 +4479,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-11T13:38:30.992Z"
+    "pushedAt": "2026-11-11T16:05:37.498Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
@@ -8659,12 +8650,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
-    "title": "US Equity Futures Rise as AI Enthusiasm Counters Hot Inflation",
+    "title": "US Stocks Rise as CoreWeave Outlook, Anthropic Revive AI Trade",
     "titleZh": "人工智慧熱情對抗通貨膨脹，美國股指期貨上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
     "image": null,
-    "pushedAt": "2026-11-11T13:38:04.463Z"
+    "pushedAt": "2026-11-11T16:05:12.384Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/german-economic-advisers-more-than-double-2026-growth-forecast",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
     "image": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T16:04:17.892Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/opinion/democrats-voting-rights-southern-strategy.html",
+    "title": "Look Who Has a Southern Strategy",
+    "titleZh": "看看誰有南方戰略",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/opinion/democrats-voting-rights-southern-strategy.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11bouie-zwph/11bouie-zwph-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T16:06:03.966Z"
   }
 ]
