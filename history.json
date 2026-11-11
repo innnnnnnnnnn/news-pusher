@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-    "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-    "titleZh": "烏克蘭和平談判本週在阿布達比恢復",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-ukraine-russia-talks-vfqh/09int-ukraine-russia-talks-vfqh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T11:04:41.397Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-national-team-ramps-up-etf-buying-to-record-high",
     "title": "China’s National Team Ramps Up ETF Buying to Record High",
     "titleZh": "中國國家隊將ETF購買量推向歷史新高",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-11T11:25:46.808Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/airbnb-is-building-its-own-ai-travel-agent-co-founder-video",
+    "title": "Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says",
+    "titleZh": "共同創辦人表示 Airbnb 正在打造自己的人工智慧旅行社",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/airbnb-is-building-its-own-ai-travel-agent-co-founder-video",
+    "image": null,
+    "pushedAt": "2026-11-11T11:26:15.975Z"
   }
 ]
