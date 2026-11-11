@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-probe-into-ceo-s-affair-adds-to-ai-trade-risks-video",
-    "title": "Nvidia Probe Into CEO's Affair Raises Troubling Questions for AI",
-    "titleZh": "英偉達對執行長事件的調查引發了人工智慧領域的令人不安的問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-probe-into-ceo-s-affair-adds-to-ai-trade-risks-video",
-    "image": null,
-    "pushedAt": "2026-11-09T19:07:17.571Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/trump-election-fraud-rigging-midterms.html",
     "title": "Trump Veers Back Into Claims of Rigged Election",
     "titleZh": "川普重新聲稱選舉被操縱",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
     "image": null,
     "pushedAt": "2026-11-11T18:05:17.581Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
+    "title": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor",
+    "titleZh": "歷史悠久的超級艦美國號駛向海底",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-sinking-the-united-states-stillpromo-fhbq/11cli-sinking-the-united-states-stillpromo-fhbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T18:05:48.473Z"
   }
 ]
