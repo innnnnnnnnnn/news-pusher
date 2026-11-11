@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-    "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
-    "titleZh": "質疑基督復活的牧師勞埃德·基林 (Lloyd Geering) 去世，享年 108 歲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-    "image": null,
-    "pushedAt": "2026-11-11T11:18:32.822Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
     "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
     "titleZh": "巴拉圭的銀行內爆如何讓總統陷入困境",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-aganga-on-ai-markets-and-inflation-video",
     "image": null,
     "pushedAt": "2026-11-11T11:42:30.887Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+    "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+    "titleZh": "隨著雙方都尋求新的限制，兩黨對以色列的支持也逐漸減弱",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T11:42:58.607Z"
   }
 ]
