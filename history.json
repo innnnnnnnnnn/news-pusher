@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
-    "title": "Emirates’ Clark Says Retirement Hinges on Airline’s Recovery",
-    "titleZh": "阿聯酋航空的克拉克表示退休計畫因伊朗戰爭而脫軌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
-    "image": null,
-    "pushedAt": "2026-11-10T12:38:30.207Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-s-lakos-bujas-sees-investor-selloff-nearing-exhaustion",
     "title": "Wall Street Sticks With AI Playbook After Historic Tech Unwind",
     "titleZh": "在歷史性的科技放鬆之後，華爾街堅持人工智慧策略",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e4bae0a8-b06e-4570-9e58-b0125c01953a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-11T15:38:47.179Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+    "title": "Silicon Valley Tech Allies Support Jensen Huang",
+    "titleZh": "矽谷科技盟友支持黃仁勳",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T15:39:18.459Z"
   }
 ]
