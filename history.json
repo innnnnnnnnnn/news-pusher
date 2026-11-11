@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
-    "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
-    "titleZh": "克勞斯·邁克爾·庫納去世。他的公司在納粹德國扮演了黑暗角色。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/obituaries/05kuhne_bw/05kuhne_bw-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-10T06:05:40.632Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/mississippi-officer-walmart-shooting-toddler-aggressive-policing.html",
     "title": "Mississippi Officer Who Fatally Shot Toddler Had a History of Aggressive Policing",
     "titleZh": "開槍打死幼兒的密西西比州警官有激進治安歷史",
@@ -5918,8 +5909,8 @@
     "titleZh": "美國商務部延後將Megaspeed列入貿易黑名單",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe55bead5-0db1-4be9-9cdb-fd486907a4e4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T10:17:30.444Z"
+    "image": null,
+    "pushedAt": "2026-11-11T12:33:18.272Z"
   },
   {
     "id": "https://www.ft.com/content/798a6321-41e3-407b-9b6d-e4521111208d",
@@ -7053,7 +7044,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/y42mtxwzj?ref=rss",
     "image": "https://cdn.flipso.com/p/y42mtxwzj_square.jpg",
-    "pushedAt": "2026-11-11T10:18:24.579Z"
+    "pushedAt": "2026-11-11T12:33:43.379Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
     "image": null,
     "pushedAt": "2026-11-11T12:31:59.732Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+    "title": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+    "titleZh": "大眾汽車放棄先進工廠計劃，打擊德國製造",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+    "image": null,
+    "pushedAt": "2026-11-11T12:34:09.250Z"
   }
 ]
