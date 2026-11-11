@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-    "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
-    "titleZh": "民主黨人要求就川普的人工智慧問題給出答案間諜陰謀中的政策",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-spy-chip-01-hmzq/09dc-spy-chip-01-hmzq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T10:31:03.025Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/hegseth-impeachment-massie.html",
     "title": "Massie Calls Up Impeachment Charges Against Hegseth",
     "titleZh": "馬西呼籲對赫格斯提出彈劾指控",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T22:31:07.072Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+    "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+    "titleZh": "波音將裁減 5% 的商用飛機員工",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T22:31:37.067Z"
   }
 ]
