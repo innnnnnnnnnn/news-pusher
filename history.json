@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e42b37d2-dc15-4788-b8ce-a444e26aaebc",
-    "title": "How Brooklyn stole Polo",
-    "titleZh": "布魯克林如何偷走波羅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e42b37d2-dc15-4788-b8ce-a444e26aaebc",
-    "image": null,
-    "pushedAt": "2026-11-09T11:25:46.259Z"
-  },
-  {
     "id": "https://www.ft.com/content/d286c0c5-da17-4da6-bf9a-0ff13b467425",
     "title": "How London has tackled its knife-crime epidemic",
     "titleZh": "倫敦如何應對持刀犯罪的流行",
@@ -7368,7 +7359,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
-    "pushedAt": "2026-11-11T06:07:30.225Z"
+    "pushedAt": "2026-11-11T08:25:31.375Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
@@ -7377,7 +7368,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-11T06:08:25.606Z"
+    "pushedAt": "2026-11-11T08:26:21.683Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
@@ -7386,7 +7377,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T06:08:52.070Z"
+    "pushedAt": "2026-11-11T08:26:46.598Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/walker-dunlop-ceo-on-27-data-center-buildout-outlook-video",
@@ -7404,7 +7395,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
     "image": null,
-    "pushedAt": "2026-11-11T06:09:44.178Z"
+    "pushedAt": "2026-11-11T08:27:11.502Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
@@ -7413,7 +7404,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
     "image": null,
-    "pushedAt": "2026-11-11T06:10:09.168Z"
+    "pushedAt": "2026-11-11T08:27:36.773Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
@@ -8592,7 +8583,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ef1b5863-b810-4025-b39f-ac51121771ce?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T05:15:44.594Z"
+    "pushedAt": "2026-11-11T08:25:06.342Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
@@ -8682,7 +8673,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/luxury-watch-platform-subdial-raises-20-million-for-its-us-push",
     "image": null,
-    "pushedAt": "2026-11-11T06:07:57.531Z"
+    "pushedAt": "2026-11-11T08:25:56.559Z"
   },
   {
     "id": "https://www.ft.com/content/121bc0d0-f486-4c4c-a5e9-d4c5dc609fe4",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/investor-selby-on-why-anthropic-ipo-puzzles-him-video",
     "image": null,
     "pushedAt": "2026-11-11T08:24:11.485Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-gives-bulls-a-green-light-3-minutes-mliv-video",
+    "title": "CoreWeave Gives Bulls a Green Light: Market Analysis",
+    "titleZh": "CoreWeave 為多頭開了綠燈：市場分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-gives-bulls-a-green-light-3-minutes-mliv-video",
+    "image": null,
+    "pushedAt": "2026-11-11T08:28:04.597Z"
   }
 ]
