@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
-    "title": "Democrats need to use the power of the purse",
-    "titleZh": "民主黨需要利用錢包的力量",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
-    "image": null,
-    "pushedAt": "2026-11-10T04:36:15.106Z"
-  },
-  {
     "id": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a",
     "title": "Fund manager Nick Train has best month since 2000 on back of AI sell-off",
     "titleZh": "人工智慧市場暴跌，基金經理 Nick Train 迎來 2000 年以來最好的月份",
@@ -5433,7 +5424,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-11T15:10:37.564Z"
+    "pushedAt": "2026-11-11T17:41:27.844Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/germany-s-carmakers-accelerate-cuts-at-home-on-china-reckoning",
     "image": null,
     "pushedAt": "2026-11-11T17:36:22.498Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+    "title": "Kenya Starts Countdown to End of Ebola Outbreak",
+    "titleZh": "肯亞開始伊波拉疫情結束倒數計時",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-11T17:41:56.257Z"
   }
 ]
