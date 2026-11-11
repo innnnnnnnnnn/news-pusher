@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
-    "title": "DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users",
-    "titleZh": "DeepSeek 的 AI 代理平台日用戶量達到 154 萬",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
-    "image": null,
-    "pushedAt": "2026-11-09T04:44:32.497Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
     "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
     "titleZh": "秘魯機場走私者襪子中發現超過3000隻狼蛛",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/us-ambassador-to-china-on-us-china-relations-video",
     "image": null,
     "pushedAt": "2026-11-11T03:25:58.889Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df",
+    "title": "Lucrative returns lure Japanese savers into government bonds",
+    "titleZh": "豐厚的報酬率吸引日本儲戶購買政府公債",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47646f9e-b617-4612-8e03-113a7d5fd86e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T03:36:20.587Z"
   }
 ]
