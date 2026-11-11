@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
-    "title": "Ukraine Peace Push Returns to Abu Dhabi",
-    "titleZh": "烏克蘭和平推動重返阿布達比",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
-    "image": null,
-    "pushedAt": "2026-11-09T00:43:21.087Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
-    "title": "Seattle and Las Vegas Make Their NBA Pitch",
-    "titleZh": "西雅圖和拉斯維加斯打造 NBA 球場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
-    "image": null,
-    "pushedAt": "2026-11-09T00:44:11.308Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
     "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
     "titleZh": "對川普和美國來說，選舉結果明確，但未來卻黯淡無光",
@@ -5730,7 +5712,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-turkey-cop-01-bjkt/10int-turkey-cop-01-bjkt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:13:04.870Z"
+    "pushedAt": "2026-11-11T00:34:41.981Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
@@ -5739,7 +5721,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:13:30.358Z"
+    "pushedAt": "2026-11-11T00:35:06.888Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
@@ -6342,7 +6324,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:13:55.373Z"
+    "pushedAt": "2026-11-11T00:35:31.790Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-faces-fresh-us-scrutiny-on-megaspeed-probe-video",
@@ -8511,7 +8493,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
     "image": null,
-    "pushedAt": "2026-11-10T22:12:36.324Z"
+    "pushedAt": "2026-11-11T00:34:17.246Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/obituaries/stanley-zabar-dead.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss",
     "image": null,
     "pushedAt": "2026-11-11T00:33:49.903Z"
+  },
+  {
+    "id": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e",
+    "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+    "titleZh": "人性銀行家準備將 IPO 估值提高至 1.5 兆美元或以上",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6eda46fd-c331-430a-b4ed-bec84714d6ff.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T00:35:59.353Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/cd-r-s-cornerstone-to-go-ahead-with-monarch-deal-to-raise-money",
+    "title": "CD&R’s Cornerstone to Go Ahead With Monarch Deal to Raise Money",
+    "titleZh": "CD&R 的基石將繼續進行 Monarch 融資交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/cd-r-s-cornerstone-to-go-ahead-with-monarch-deal-to-raise-money",
+    "image": null,
+    "pushedAt": "2026-11-11T00:36:03.638Z"
   }
 ]
