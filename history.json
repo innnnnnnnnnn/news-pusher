@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
-    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
-    "titleZh": "中國否認涉及英偉達執行長的間諜指控黃仁勳",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T13:51:07.904Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/explosion-at-habas-steel-mill-in-western-turkey-kills-three-izmir-governor-says",
     "title": "Explosion at Habas Steel Mill in Western Turkey Kills Three, Izmir Governor Says",
     "titleZh": "伊茲密爾州長稱，土耳其西部哈巴斯鋼廠爆炸造成三人死亡",
@@ -3858,7 +3849,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
     "image": null,
-    "pushedAt": "2026-11-11T12:28:36.352Z"
+    "pushedAt": "2026-11-11T14:54:53.849Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-10/us-cpi-report-for-october-live-updates",
@@ -5505,7 +5496,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fde2e8fbb-17e6-4907-aada-80d9da23eafd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T12:29:00.512Z"
+    "pushedAt": "2026-11-11T14:55:18.756Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
@@ -5860,12 +5851,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
-    "title": "Nvidia’s Bull Case Hinges on Huang Surviving China Spy Probe",
+    "title": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe",
     "titleZh": "英偉達的牛市取決於執行長黃在中國間諜調查中的倖存",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
     "image": null,
-    "pushedAt": "2026-11-11T12:28:12.590Z"
+    "pushedAt": "2026-11-11T14:54:29.282Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
@@ -8088,7 +8079,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5499465d-df70-4410-be4b-3939b2019d40?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T12:27:24.421Z"
+    "pushedAt": "2026-11-11T14:54:04.602Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/china-plans-2-billion-bond-sale-in-hong-kong-as-issuance-grows",
@@ -8655,7 +8646,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/52b69e5d-09f5-4ec4-9dec-e5e8681d8a07",
     "image": null,
-    "pushedAt": "2026-11-11T12:29:27.207Z"
+    "pushedAt": "2026-11-11T14:55:43.599Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T14:50:41.323Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+    "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+    "titleZh": "即將上任的眾議院情報主席發誓對中央情報局使用秘密行動進行監督",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T14:56:11.578Z"
   }
 ]
