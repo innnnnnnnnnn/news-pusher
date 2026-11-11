@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-    "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
-    "titleZh": "儘管有法院命令，移民仍被有系統地遣返家園",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-deportations-2-plzm/00int-deportations-2-plzm-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-11T11:19:45.400Z"
-  },
-  {
-    "id": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b",
-    "title": "Tech sell-off raises risks for SoftBank’s massive AI bet",
-    "titleZh": "科技股拋售增加了軟銀大規模人工智慧押注的風險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T04:54:35.959Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/norway-halts-power-connections-for-new-data-centers",
     "title": "Norway Halts Power Connections for New Data Centers",
     "titleZh": "挪威停止新資料中心的電力連接",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
     "image": null,
     "pushedAt": "2026-11-11T11:43:26.595Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+    "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+    "titleZh": "一個國家的總統導致了一家銀行的驚人崛起和衰落",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T11:43:52.911Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/zimbabwe-seeks-entry-into-msci-frontier-markets-index-for-dollar-stocks",
+    "title": "Zimbabwe Seeks Entry Into MSCI Frontier Markets Index for Dollar Stocks",
+    "titleZh": "津巴布韋尋求加入 MSCI 美元股票前沿市場指數",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/zimbabwe-seeks-entry-into-msci-frontier-markets-index-for-dollar-stocks",
+    "image": null,
+    "pushedAt": "2026-11-11T11:43:57.670Z"
   }
 ]
