@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39",
-    "title": "Saudi Arabia’s vital East-West pipeline struck in attack",
-    "titleZh": "沙烏地阿拉伯重要的東西方管道遭遇襲擊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T11:00:44.710Z"
-  },
-  {
     "id": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee",
     "title": "Nvidia’s ‘key man’ risk",
     "titleZh": "黃仁勳和英偉達的「關鍵人物」風險",
@@ -5082,7 +5073,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
-    "pushedAt": "2026-11-11T17:56:37.557Z"
+    "pushedAt": "2026-11-11T20:20:45.966Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
@@ -5091,7 +5082,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-11T17:57:02.311Z"
+    "pushedAt": "2026-11-11T20:21:10.633Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
@@ -5118,7 +5109,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
     "image": null,
-    "pushedAt": "2026-11-11T17:58:18.210Z"
+    "pushedAt": "2026-11-11T20:22:01.236Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
@@ -7620,7 +7611,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
     "image": null,
-    "pushedAt": "2026-11-11T17:57:52.939Z"
+    "pushedAt": "2026-11-11T20:21:35.970Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-ceo-zelnick-ai-wont-kill-gaming-jobs-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-digital-spending-midterm-election.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-dems-digital-topart-02-jvmc/11pol-dems-digital-topart-02-jvmc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T20:20:18.005Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/huang-s-ties-to-trump-under-scrutiny-after-spy-claim-video",
+    "title": "Huang's Ties to Trump Under Scrutiny After Spy Claim",
+    "titleZh": "黃與川普的關係在間諜指控後受到審查",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/huang-s-ties-to-trump-under-scrutiny-after-spy-claim-video",
+    "image": null,
+    "pushedAt": "2026-11-11T20:22:29.982Z"
   }
 ]
