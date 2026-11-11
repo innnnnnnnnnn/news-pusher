@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
-    "title": "Congress Has Reined In the Presidency Before. Here’s How to Do It.",
-    "titleZh": "國會最終會控制總統職位嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
-    "image": null,
-    "pushedAt": "2026-11-10T10:36:58.051Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-faces-a-national-security-reckoning-video",
-    "title": "Nvidia Faces a National Security Reckoning",
-    "titleZh": "英偉達面臨國家安全清算",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-faces-a-national-security-reckoning-video",
-    "image": null,
-    "pushedAt": "2026-11-09T19:35:36.527Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels",
     "title": "Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive",
     "titleZh": "油輪運價持續下跌，但交易仍處於非常高的水平",
@@ -7665,7 +7647,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T16:41:23.963Z"
+    "pushedAt": "2026-11-11T19:01:03.844Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-military-congress-focus-on-toll-of-cyber-jobs-following-suicides",
     "image": null,
     "pushedAt": "2026-11-11T19:00:35.759Z"
+  },
+  {
+    "id": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2",
+    "title": "CoreWeave wants to sit with the credit-market grown-ups",
+    "titleZh": "CoreWeave 希望與信貸市場的成熟企業坐在一起",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T19:01:32.189Z"
+  },
+  {
+    "id": "https://www.ft.com/content/12d282d9-c705-449f-8a4f-33844c259fe4",
+    "title": "The warnings from Paraguay’s banking scandal",
+    "titleZh": "巴拉圭銀行醜聞的警告",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/12d282d9-c705-449f-8a4f-33844c259fe4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T19:01:36.017Z"
   }
 ]
