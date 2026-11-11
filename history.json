@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
-    "title": "The Texas-size Political Tremor Rattling Big Business",
-    "titleZh": "德州規模的政治震動震驚了大企業",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05db-hinojosa-jvpm/05db-hinojosa-jvpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T19:53:14.112Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
     "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
     "titleZh": "關注華爾街、波蘭致命大規模槍擊事件、藍潮過後重返工作崗位",
@@ -5154,7 +5145,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T00:50:36.529Z"
+    "pushedAt": "2026-11-11T03:05:58.101Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/arts/television/late-night-trump-midterms.html",
@@ -6135,7 +6126,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-walliams-fvzg/00xp-walliams-fvzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T00:48:51.951Z"
+    "pushedAt": "2026-11-11T03:04:20.611Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
@@ -6144,7 +6135,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T00:49:17.417Z"
+    "pushedAt": "2026-11-11T03:04:44.964Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
@@ -6153,7 +6144,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T00:49:42.061Z"
+    "pushedAt": "2026-11-11T03:05:09.128Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/oil-market-starting-to-price-in-a-us-iran-deal-sen-video",
@@ -8745,7 +8736,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-sees-no-reason-that-nvidia-partnership-will-change",
     "image": null,
-    "pushedAt": "2026-11-11T00:50:09.180Z"
+    "pushedAt": "2026-11-11T03:05:33.728Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/australia-s-home-loans-fall-by-record-after-rapid-rba-rate-hikes",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
     "image": null,
     "pushedAt": "2026-11-11T03:03:53.788Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/south-korea-s-jobless-rate-hits-3-year-low-despite-weak-hiring",
+    "title": "South Korea’s Jobless Rate Hits 3-Year Low Despite Weak Hiring",
+    "titleZh": "儘管招募疲軟，韓國失業率仍創三年新低",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/south-korea-s-jobless-rate-hits-3-year-low-despite-weak-hiring",
+    "image": null,
+    "pushedAt": "2026-11-11T03:06:26.176Z"
   }
 ]
