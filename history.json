@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
-    "title": "Gina Hinojosa Takes on the Texas Government Republicans Built",
-    "titleZh": "吉娜·伊諾霍薩挑戰共和黨建立的德克薩斯州政府",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nat-Hinojosa-interview-fbql/08nat-Hinojosa-interview-fbql-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T09:59:11.469Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
     "title": "What Talarico’s Win Reveals About Christianity in Texas",
     "titleZh": "在塔拉里科的德克薩斯州，另一種基督教興起",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/nyregion/alina-habba-ethics-new-jersey-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-habba-discipline-wvlg/10met-habba-discipline-wvlg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T03:58:18.194Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video",
+    "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him",
+    "titleZh": "AZ-VC 的 Selby 談 Anthropic 的 IPO 為何令他困惑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video",
+    "image": null,
+    "pushedAt": "2026-11-11T04:22:40.908Z"
   }
 ]
