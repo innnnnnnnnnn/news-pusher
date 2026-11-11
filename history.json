@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
-    "title": "Google Escalates Nvidia Rivalry With New Versions of Its TPU Systems",
-    "titleZh": "谷歌推出新版 TPU 系統，加劇與 Nvidia 的競爭",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
-    "image": null,
-    "pushedAt": "2026-11-09T17:11:53.942Z"
-  },
-  {
-    "id": "https://www.ft.com/content/a86de4ff-f3de-4156-8ffa-bde10783d8b1",
-    "title": "The Democrats’ partial return to tariff sanity",
-    "titleZh": "民主黨部分恢復關稅理智",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a86de4ff-f3de-4156-8ffa-bde10783d8b1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T13:50:10.784Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-banking-deal-spree-enters-endgame-with-bpm-paschi-bids",
     "title": "Italy’s Banking Deal Spree Enters Endgame With BPM, Paschi Bids",
     "titleZh": "義大利銀行業交易熱潮進入尾聲 BPM、Paschi 出價",
@@ -3219,7 +3201,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-mexico-chihuahua01a-photo-gkfw/09int-mexico-chihuahua01a-photo-gkfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T12:06:26.664Z"
+    "pushedAt": "2026-11-11T14:31:15.772Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
@@ -7404,7 +7386,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
-    "pushedAt": "2026-11-11T12:05:33.538Z"
+    "pushedAt": "2026-11-11T14:30:25.920Z"
   },
   {
     "id": "https://www.ft.com/reports/long-term-growth-champions-europe",
@@ -8610,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
     "image": null,
-    "pushedAt": "2026-11-11T12:05:59.974Z"
+    "pushedAt": "2026-11-11T14:30:50.987Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/ta8vqbsew?ref=rss",
     "image": "https://cdn.flipso.com/p/ta8vqbsew_square.jpg",
     "pushedAt": "2026-11-11T14:29:58.075Z"
+  },
+  {
+    "id": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92",
+    "title": "Ukraine peace talks end with prisoner swap but no breakthrough",
+    "titleZh": "烏克蘭和談以交換囚犯結束但沒有突破",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T14:31:43.968Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d452f007-5f43-49d4-b293-0750011e99b3",
+    "title": "Meet the Willy Wonka of failed US microcaps",
+    "titleZh": "來認識一下失敗的美國微型股中的威利·旺卡 (Willy Wonka)",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d452f007-5f43-49d4-b293-0750011e99b3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T14:31:47.449Z"
   }
 ]
