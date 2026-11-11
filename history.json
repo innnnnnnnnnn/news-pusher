@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896",
-    "title": "Dublin launches ‘blueprint’ for united Ireland",
-    "titleZh": "都柏林推出統一愛爾蘭的“藍圖”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb7619300-20e0-4d37-ac75-c3e89823930c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T04:48:23.387Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video",
     "title": "Voters Put the AI Data Center Boom on Notice",
     "titleZh": "選民關注人工智慧資料中心的繁榮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
     "image": null,
     "pushedAt": "2026-11-11T00:29:53.364Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
+    "title": "Bessent Moved to Military Base In Wake of Iranian Threats",
+    "titleZh": "貝森特因伊朗威脅而轉移至軍事基地",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-bessent-security-mkqb/10dc-bessent-security-mkqb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T00:30:23.152Z"
   }
 ]
