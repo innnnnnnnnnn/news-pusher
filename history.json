@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video",
-    "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
-    "titleZh": "英偉達執行長的風流韻事讓人工智慧巨頭陷入間諜調查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-09T23:47:53.303Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/the-emerging-markets-everyone-else-is-missing-video",
-    "title": "The Emerging Markets Everyone Else Is Missing",
-    "titleZh": "其他人都忽略的新興市場（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-emerging-markets-everyone-else-is-missing-video",
-    "image": null,
-    "pushedAt": "2026-11-09T12:58:35.386Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
     "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
     "titleZh": "弗拉維奧·博索納羅是如何逃離巴西的？他說：“我會把它帶進墳墓”",
@@ -4227,7 +4209,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T07:38:55.976Z"
+    "pushedAt": "2026-11-11T10:02:11.663Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
@@ -4830,7 +4812,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T07:39:21.217Z"
+    "pushedAt": "2026-11-11T10:02:35.320Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-faces-fresh-us-scrutiny-on-megaspeed-probe-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa09736e1-3bf5-4436-9d26-709018282ffd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-11T10:01:44.968Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/style/brigade-entertainment-360-acquisition-max-stein.html",
+    "title": "Entertainment 360 Acquires Brigade, a Management Firm Rich in Substackers",
+    "titleZh": "Entertainment 360 收購 Brigade，一家擁有豐富 Substackers 的管理公司",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/style/brigade-entertainment-360-acquisition-max-stein.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/fashion/11ST-ACQUISITION-grid/11ST-ACQUISITION-grid-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T10:03:02.361Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
+    "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
+    "titleZh": "醫院為醫療補助工作規則和大幅資金削減做好準備",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T10:03:07.873Z"
   }
 ]
