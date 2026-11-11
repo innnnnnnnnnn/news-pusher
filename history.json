@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
-    "title": "Most Treasuries Fall as Investors Regain Risk Appetite",
-    "titleZh": "由於投資人重拾風險偏好，國債拍賣前下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
-    "image": null,
-    "pushedAt": "2026-11-09T21:56:47.281Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/odd-lots-this-is-how-new-york-city-takes-out-its-trash-video",
     "title": "Odd Lots: This Is How New York City Takes Out Its Trash",
     "titleZh": "奇怪的垃圾：這就是紐約市倒垃圾的方式",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/united-blocks-ai-agents-from-booking-flights-ahead-of-holidays",
     "image": null,
     "pushedAt": "2026-11-11T18:57:01.363Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-tech-11-10-2026-video",
+    "title": "Anthropic IPO Demand Surges as CoreWeave Calms AI Fears",
+    "titleZh": "CoreWeave 平息人工智慧恐懼，人類 IPO 需求激增",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-tech-11-10-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-11T18:58:46.265Z"
   }
 ]
