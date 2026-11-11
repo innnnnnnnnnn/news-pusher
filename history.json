@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
-    "title": "A new economic agenda for America",
-    "titleZh": "美國的新經濟議程",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9720f568-a7d1-4596-8d12-d957de64475f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T05:00:21.400Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
     "title": "The fight over Republicans’ future has begun",
     "titleZh": "關於共和黨未來的鬥爭已經開始",
@@ -1311,7 +1302,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T23:38:20.291Z"
+    "pushedAt": "2026-11-11T01:55:51.152Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-ceo-s-affair-admission-counters-past-statements-on-ties",
@@ -2607,7 +2598,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6ivpgrf21?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-10T23:40:30.528Z"
+    "pushedAt": "2026-11-11T01:57:54.544Z"
   },
   {
     "id": "https://flipso.com/p/nye9u3xfo",
@@ -7008,7 +6999,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-gaza-floods-01-tgqc/10int-gaza-floods-01-tgqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T23:38:46.277Z"
+    "pushedAt": "2026-11-11T01:56:15.740Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
@@ -7035,7 +7026,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-household-delinquencies-rise-slightly-ny-fed-report-shows",
     "image": null,
-    "pushedAt": "2026-11-10T23:39:11.766Z"
+    "pushedAt": "2026-11-11T01:56:40.235Z"
   },
   {
     "id": "https://flipso.com/p/0ffopx6b4",
@@ -7044,7 +7035,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/0ffopx6b4?ref=rss",
     "image": "https://cdn.flipso.com/p/0ffopx6b4_square.jpg",
-    "pushedAt": "2026-11-10T23:39:35.955Z"
+    "pushedAt": "2026-11-11T01:57:05.005Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
@@ -8700,7 +8691,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
     "image": null,
-    "pushedAt": "2026-11-10T23:40:02.810Z"
+    "pushedAt": "2026-11-11T01:57:29.852Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/petrobras-earnings-disappoint-despite-oil-refining-tailwinds",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-backed-cohere-in-a-fight-to-secure-ai-computing-power",
     "image": null,
     "pushedAt": "2026-11-11T01:54:09.412Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna",
+    "title": "SPH Media is Latest Singapore Firm Impacted by Data Breach: CNA",
+    "titleZh": "SPH Media 是最新一家受資料外洩影響的新加坡公司：CNA",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna",
+    "image": null,
+    "pushedAt": "2026-11-11T01:58:21.294Z"
   }
 ]
