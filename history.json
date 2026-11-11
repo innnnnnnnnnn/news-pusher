@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a27d67b9-7da0-438a-a9e7-c8567f123095",
-    "title": "The UK Treasury needs to keep consumers front and centre",
-    "titleZh": "英國財政部需要將消費者放在第一位",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a27d67b9-7da0-438a-a9e7-c8567f123095?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fefbd2057-2602-4d96-9898-9b12e134343a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T03:48:53.480Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/arts/martin-luther-king-i-have-a-dream-speech-draft.html",
     "title": "Martin Luther King’s Lost Draft of ‘I Have a Dream’ Speech Surfaces",
     "titleZh": "馬丁路德金遺失的《我有一個夢想》演講草稿浮出水面",
@@ -6882,7 +6873,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
     "image": null,
-    "pushedAt": "2026-11-11T14:20:59.814Z"
+    "pushedAt": "2026-11-11T16:52:51.993Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
@@ -6891,7 +6882,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
     "image": null,
-    "pushedAt": "2026-11-11T14:21:24.922Z"
+    "pushedAt": "2026-11-11T16:53:17.397Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
@@ -7494,7 +7485,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/podcasts/the-daily/nvidia-jensen-huang-affair-chinese-spy-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10Daily-Nvidia-tgbc/10Daily-Nvidia-tgbc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T14:22:18.428Z"
+    "pushedAt": "2026-11-11T16:53:41.849Z"
   },
   {
     "id": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05",
@@ -7503,7 +7494,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T14:22:43.124Z"
+    "pushedAt": "2026-11-11T16:54:06.695Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all",
     "image": null,
     "pushedAt": "2026-11-11T16:52:24.545Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
+    "title": "My I.R.L. Adventures in the Land of the Eagle Cam",
+    "titleZh": "我的 I.R.L.鷹之國歷險記",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-Eagle-05/22mag-Eagle-05-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T16:54:34.268Z"
   }
 ]
