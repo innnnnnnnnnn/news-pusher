@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
-    "title": "This Is How Democrats Won the Midterms",
-    "titleZh": "這就是民主黨贏得中期選舉的方式",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09politics-editorial-vtbj/09politics-editorial-vtbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T19:34:22.682Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/alice-huang-suspected-china-spy-spent-years-in-nvidia-s-orbit",
     "title": "Alice Huang, Suspected China Spy, Spent Years in Nvidia’s Orbit",
     "titleZh": "涉嫌中國間諜的 Alice Huang 在 Nvidia 的軌道上度過了數年",
@@ -3606,7 +3597,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-mexico-chihuahua01a-photo-gkfw/09int-mexico-chihuahua01a-photo-gkfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T09:54:26.355Z"
+    "pushedAt": "2026-11-11T12:06:26.664Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
@@ -7800,7 +7791,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/reports/long-term-growth-champions-europe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T09:54:51.520Z"
+    "pushedAt": "2026-11-11T12:06:50.121Z"
   },
   {
     "id": "https://www.ft.com/content/58d7ab59-688f-4d15-9c7f-96e621775777",
@@ -7809,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/58d7ab59-688f-4d15-9c7f-96e621775777",
     "image": null,
-    "pushedAt": "2026-11-11T09:55:16.039Z"
+    "pushedAt": "2026-11-11T12:07:14.060Z"
   },
   {
     "id": "https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5",
@@ -7818,7 +7809,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T09:55:41.066Z"
+    "pushedAt": "2026-11-11T12:07:37.519Z"
   },
   {
     "id": "https://www.ft.com/content/82e207f8-76ea-4627-bd6e-ffdf032a4de2",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
     "image": null,
     "pushedAt": "2026-11-11T12:05:59.974Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+    "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+    "titleZh": "美國抵押貸款利率連續第四周下降，提振購屋量",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+    "image": null,
+    "pushedAt": "2026-11-11T12:08:04.411Z"
   }
 ]
