@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-    "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
-    "titleZh": "黃仁勳是否太強而不會受到英偉達的懲罰？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-jensen-influence-qbhw/09biz-jensen-influence-qbhw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T17:58:53.986Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
     "title": "What to Know About Nvidia’s Investigation of Its C.E.O.",
     "titleZh": "關於英偉達對其執行長的調查需要了解什麼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
     "image": null,
     "pushedAt": "2026-11-11T12:16:19.823Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+    "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+    "titleZh": "英偉達執行長黃仁勳接受調查後股價下跌",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T12:16:46.308Z"
   }
 ]
