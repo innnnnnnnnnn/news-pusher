@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9dfb0201-ef77-4c05-93cd-1e277c7017cf",
-    "title": "How each country’s emissions compare",
-    "titleZh": "各國排放量比較",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9dfb0201-ef77-4c05-93cd-1e277c7017cf?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T03:01:48.031Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
     "title": "Luxury Gyms Turn Fitness Into a Family Affair",
     "titleZh": "豪華健身房讓健身成為家庭事務",
@@ -3867,7 +3858,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:32:08.891Z"
+    "pushedAt": "2026-11-11T00:52:43.684Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
@@ -6954,7 +6945,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4f3334ce-3307-4b9a-bcf8-ba69ca6b8f80",
     "image": null,
-    "pushedAt": "2026-11-10T22:32:33.641Z"
+    "pushedAt": "2026-11-11T00:53:07.678Z"
   },
   {
     "id": "https://flipso.com/p/quluq2tto",
@@ -6963,7 +6954,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/quluq2tto?ref=rss",
     "image": "https://cdn.flipso.com/p/quluq2tto_square.jpg",
-    "pushedAt": "2026-11-10T22:32:58.987Z"
+    "pushedAt": "2026-11-11T00:53:31.780Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-sees-no-reason-that-nvidia-partnership-will-change",
     "image": null,
     "pushedAt": "2026-11-11T00:50:09.180Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/australia-s-home-loans-fall-by-record-after-rapid-rba-rate-hikes",
+    "title": "Australia’s Home Loans Fall by Record After Rapid RBA Rate Hikes",
+    "titleZh": "澳洲央行快速升息後，澳洲房屋貸款創紀錄下降",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/australia-s-home-loans-fall-by-record-after-rapid-rba-rate-hikes",
+    "image": null,
+    "pushedAt": "2026-11-11T00:53:58.094Z"
   }
 ]
