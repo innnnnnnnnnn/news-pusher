@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
-    "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
-    "titleZh": "Anthropic 在 IPO 前推出新的寓言、神話人工智慧模型",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
-    "image": null,
-    "pushedAt": "2026-11-09T21:27:23.967Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-tech-11-09-2026-video",
     "title": "Nvidia CEO Affair Draws Washington Scrutiny",
     "titleZh": "英偉達執行長事件引起華盛頓密切關注",
@@ -2994,7 +2985,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
     "image": null,
-    "pushedAt": "2026-11-11T18:28:54.860Z"
+    "pushedAt": "2026-11-11T20:50:05.868Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/vanguard-inks-4-billion-of-private-debt-to-fund-altruist-deal",
@@ -3471,7 +3462,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-11T18:29:45.144Z"
+    "pushedAt": "2026-11-11T20:50:57.506Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
@@ -7642,12 +7633,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
-    "title": "US Tech Stocks Poised to Erase Midterm Loss as AI Trade Returns",
+    "title": "Nasdaq 100 Rallies as CoreWeave Quells AI Fears, Draws Buyers In",
     "titleZh": "人工智慧熱情對抗通貨膨脹，美國股指期貨上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
     "image": null,
-    "pushedAt": "2026-11-11T18:29:20.925Z"
+    "pushedAt": "2026-11-11T20:50:32.651Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/german-economic-advisers-more-than-double-2026-growth-forecast",
@@ -7980,7 +7971,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
     "image": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T18:28:30.596Z"
+    "pushedAt": "2026-11-11T20:49:40.873Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/opinion/democrats-voting-rights-southern-strategy.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T20:46:10.236Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+    "title": "A.I. and Market Whiplash",
+    "titleZh": "人工智慧.和市場鞭打",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T20:51:23.902Z"
   }
 ]
