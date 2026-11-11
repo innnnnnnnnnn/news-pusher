@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-    "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
-    "titleZh": "人工智慧.英偉達執行長黃仁勳 (Jensen Huang) 的精英地位得到提升，但醜聞接踵而至",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-chips-ai-hcpj/09biz-chips-ai-hcpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T01:32:54.069Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "title": "Xi Jinping’s plan for a China-centric world order",
     "titleZh": "習近平關於以中國為中心的世界秩序的計劃",
@@ -5712,7 +5703,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
     "image": null,
-    "pushedAt": "2026-11-11T17:34:30.966Z"
+    "pushedAt": "2026-11-11T19:59:18.769Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/south-korea-s-jobless-rate-hits-3-year-low-despite-weak-hiring",
@@ -8524,12 +8515,12 @@
   },
   {
     "id": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702",
-    "title": "Nato should take the ‘offensive’ against Russia, says Lord Sedwill",
+    "title": "Nato should take the ‘offensive’ against Russia, says Sedwill",
     "titleZh": "塞德威爾勳爵表示，北約應該​​對俄羅斯採取“攻擊”",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T17:34:57.919Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4e6ab27-89b1-49cb-bd88-ad9608076a64.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T19:59:46.297Z"
   },
   {
     "id": "https://www.ft.com/content/033a85b4-5059-4a53-969d-c190d84cad62",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/rubenstein-on-the-anthropic-ipo-nvidia-ceo-scandal-video",
     "image": null,
     "pushedAt": "2026-11-11T19:58:50.188Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
+    "title": "Crunch Fitness Seeks to Borrow $800 Million From ABS Bond Sale",
+    "titleZh": "Crunch Fitness 尋求從 ABS 債券發行中藉入 8 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
+    "image": null,
+    "pushedAt": "2026-11-11T20:00:14.703Z"
   }
 ]
