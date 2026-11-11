@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
-    "title": "At 87, Senfronia Thompson is Poised to Become the First Woman to Lead the Texas House",
-    "titleZh": "87 歲的 Senfronia Thompson 預計將成為德州眾議院首位女性領導人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-TXhousespeaker-1-qcmf/09nat-TXhousespeaker-1-qcmf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T21:52:52.208Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/arts/music/talafreako-lil-texxan-viral-song.html",
     "title": "‘Talafreako’ Is, Accidentally, the Campaign Song of the Moment",
     "titleZh": "《Talafreako》意外地成為當下的競選歌曲",
@@ -8682,7 +8673,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
     "image": null,
-    "pushedAt": "2026-11-11T19:17:36.239Z"
+    "pushedAt": "2026-11-11T21:38:38.090Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
     "image": null,
     "pushedAt": "2026-11-11T21:38:09.827Z"
+  },
+  {
+    "id": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b",
+    "title": "ExxonMobil launched legal challenge to EU carbon capture rules",
+    "titleZh": "埃克森美孚對歐盟碳捕獲規則發起法律挑戰",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d52931a-784e-47c8-8dbc-be901abe4e8b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T21:39:08.132Z"
   }
 ]
