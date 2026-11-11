@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e",
-    "title": "Trump hails ‘positive momentum’ towards ending Iran war",
-    "titleZh": "阿拉伯和穆斯林領袖推動阻止川普重燃伊朗戰爭",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc7496230-54fb-4e8b-862d-142099d09a3f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-10T06:37:18.936Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/takaichi-s-hunt-for-new-cash-to-fund-spending-harbors-risks",
     "title": "Takaichi’s Hunt for New Cash to Fund Spending Harbors Risks",
     "titleZh": "高市尋找新現金資助支出有風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf7f1491-bb97-4c70-bddd-f40b394ef783.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-11T23:02:12.188Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+    "title": "The Nvidia Affair",
+    "titleZh": "英偉達事件",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T23:02:42.241Z"
   }
 ]
