@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
-    "title": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
-    "titleZh": "菲律賓經濟意外放緩，給馬可斯帶來壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
-    "image": null,
-    "pushedAt": "2026-11-09T22:20:20.409Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
-    "title": "China’s Cheap Domestic Gas Curbs LNG Buying as Winter Nears",
-    "titleZh": "隨著冬季臨近，中國廉價的國內天然氣抑制了液化天然氣的購買",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
-    "image": null,
-    "pushedAt": "2026-11-09T06:42:20.321Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/japan-vietnam-eye-economic-security-ties-as-to-lam-visits-tokyo",
     "title": "Japan, Vietnam Eye Economic Security Ties as To Lam Visits Tokyo",
     "titleZh": "林鄭月娥訪問東京，日本與越南著眼於經濟安全關係",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/ef1b5863-b810-4025-b39f-ac51121771ce?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-11T05:15:44.594Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
+    "title": "Japan prepares for its next natural disaster",
+    "titleZh": "日本為下一次天災做準備",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
+    "image": null,
+    "pushedAt": "2026-11-11T05:16:15.210Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed",
+    "title": "Dead Starlink terminals in Myanmar are getting people killed",
+    "titleZh": "緬甸的星鏈終端失效導致人員死亡",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed",
+    "image": null,
+    "pushedAt": "2026-11-11T05:16:17.695Z"
   }
 ]
