@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
-    "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
-    "titleZh": "紐約時報公司就收購 Letterboxd 進行進階談判",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:58:49.285Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
     "title": "First Abu Dhabi Bank Weighs Multibillion-Dollar Rights Issue",
     "titleZh": "阿布達比第一銀行考慮發行數十億美元的供股",
@@ -1329,7 +1320,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T12:39:20.675Z"
+    "pushedAt": "2026-11-11T15:06:48.345Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T15:00:58.366Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c",
+    "title": "Britain should ‘exploit’ NHS data to power AI, says minister",
+    "titleZh": "英國部長表示，英國應該「利用」NHS 數據來推動人工智慧",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T15:07:15.934Z"
   }
 ]
