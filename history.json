@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/poland-probes-krakow-shooting-as-terrorism-video",
-    "title": "Poland Probes Krakow Shooting as Terrorism",
-    "titleZh": "波蘭調查克拉科夫槍擊事件為恐怖主義",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/poland-probes-krakow-shooting-as-terrorism-video",
-    "image": null,
-    "pushedAt": "2026-11-08T23:20:57.650Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/what-america-s-factories-reveal-about-the-economy-video",
     "title": "What America’s Factories Reveal About the Economy",
     "titleZh": "美國工廠揭示的經濟狀況",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/equity-dispersion-trade-risks-a-blowup-hedge-fund-ceo-warns",
     "image": null,
     "pushedAt": "2026-11-11T00:02:03.274Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a",
+    "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
+    "titleZh": "英國大學監管機構警告說，採用紙本考試來打擊人工智慧作弊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T00:02:33.969Z"
   }
 ]
