@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
-    "title": "French Government Boosts Minimum Wage in Response to Protests",
-    "titleZh": "法國政府提高最低工資以應對抗議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
-    "image": null,
-    "pushedAt": "2026-11-10T06:11:55.019Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
     "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
     "titleZh": "英偉達調查對中美晶片銷售意味著什麼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-hcqm/11int-spain-strike-hcqm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T15:36:48.629Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+    "title": "How Indispensable Is Jensen Huang?",
+    "titleZh": "黃仁勳有多不可或缺？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T15:37:17.758Z"
   }
 ]
