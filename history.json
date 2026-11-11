@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/climate/max-worsley-antarctic-expedition.html",
-    "title": "A Decade After Henry Worsley Died in Antarctica, His Son Tries to Reach the South Pole",
-    "titleZh": "亨利·沃斯利在南極洲去世十年後，他的兒子試圖到達南極",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/climate/max-worsley-antarctic-expedition.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00cli-onwards-01-lqkc/00cli-onwards-01-lqkc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T02:50:30.144Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/arts/you-can-see-everything-amanda-seyfried.html",
-    "title": "‘You Can See Everything’: Amanda Seyfried Faces ‘The Dropout’",
-    "titleZh": "“你可以看到一切”：阿曼達·塞弗里德面對“輟學者”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/arts/you-can-see-everything-amanda-seyfried.html",
-    "image": null,
-    "pushedAt": "2026-11-09T21:47:52.457Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/sharkninja-ceo-on-tariffs-and-ai-video",
     "title": "SharkNinja CEO on Tariffs and AI",
     "titleZh": "SharkNinja 執行長談關稅與人工智慧",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
     "image": null,
     "pushedAt": "2026-11-11T18:38:06.609Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+    "title": "Bartleby newsletter: Can AI write newsletters",
+    "titleZh": "巴特比時事通訊：人工智慧可以撰寫時事通訊嗎",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+    "image": null,
+    "pushedAt": "2026-11-11T18:38:36.339Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+    "title": "The War Room newsletter: How long will Pete Hegseth last?",
+    "titleZh": "作戰室時事通訊：皮特·赫格斯還能撐多久？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+    "image": null,
+    "pushedAt": "2026-11-11T18:38:40.618Z"
   }
 ]
