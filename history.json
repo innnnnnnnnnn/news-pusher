@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
-    "title": "New House Democrats Set Their Priorities",
-    "titleZh": "新眾議院民主黨人確定了他們的優先事項",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
-    "image": null,
-    "pushedAt": "2026-11-09T01:15:16.889Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/trump-s-1-5-trillion-defense-budget-to-be-blocked-by-democrats",
     "title": "Trump’s $1.5 Trillion Defense Budget to Be Blocked by Democrats",
     "titleZh": "川普1.5兆美元國防預算將被民主黨阻止",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-ASSESS-pwbk/10DC-ASSESS-pwbk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T01:04:42.910Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/india-airlines-cut-diwali-flights-for-first-time-since-covid",
+    "title": "India Airlines Cut Diwali Flights for First Time Since Covid",
+    "titleZh": "印度航空公司自新冠疫情以來首次削減排燈節航班",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/india-airlines-cut-diwali-flights-for-first-time-since-covid",
+    "image": null,
+    "pushedAt": "2026-11-11T01:18:03.963Z"
   }
 ]
