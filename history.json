@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/trump-election-fraud-rigging-midterms.html",
-    "title": "Trump Veers Back Into Claims of Rigged Election",
-    "titleZh": "川普重新聲稱選舉被操縱",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/trump-election-fraud-rigging-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T16:46:19.990Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/tractor-maker-cnh-gears-up-for-farm-recovery-with-plant-revamp",
     "title": "Tractor Maker CNH Gears Up for Farm Rally With Plant Revamp",
     "titleZh": "拖拉機製造商 CNH 透過工廠改造為農場拉力賽做好準備",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-sinking-the-united-states-stillpromo-fhbq/11cli-sinking-the-united-states-stillpromo-fhbq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T18:05:48.473Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/energy-leaders-on-accelerating-renewable-deployment-video",
+    "title": "Energy Leaders on Accelerating Renewable Deployment",
+    "titleZh": "能源領導者加速再生能源部署",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/energy-leaders-on-accelerating-renewable-deployment-video",
+    "image": null,
+    "pushedAt": "2026-11-11T18:06:18.195Z"
   }
 ]
