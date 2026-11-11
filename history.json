@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
-    "title": "Israel’s Election Fight Shifts to Coalition Building",
-    "titleZh": "以色列的選舉鬥爭轉向聯盟",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
-    "image": null,
-    "pushedAt": "2026-11-09T02:08:47.426Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-    "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-    "titleZh": "司法部考慮將《泰晤士報》列為科米洩密案的共謀者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/Justice-New-York-Times-bfgk/Justice-New-York-Times-bfgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T04:17:21.349Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
     "title": "Markets Brace for Washington Policy Battles",
     "titleZh": "市場為華盛頓政策鬥爭做好準備",
@@ -699,7 +681,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
     "image": null,
-    "pushedAt": "2026-11-10T23:34:41.816Z"
+    "pushedAt": "2026-11-11T01:51:30.030Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
@@ -6009,7 +5991,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T23:35:06.110Z"
+    "pushedAt": "2026-11-11T01:51:54.520Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/blackstone-to-buy-15-5-of-iifl-finance-in-532-million-india-bet",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-cop31-war-swap-bgvm/08biz-cop31-war-swap-bgvm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T01:51:02.861Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video",
+    "title": "Cohere's Gomez on $25B Valuation, Growth",
+    "titleZh": "Cohere 的戈麥斯談 $25B 估值和增長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video",
+    "image": null,
+    "pushedAt": "2026-11-11T01:52:21.457Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/ternium-says-mexico-steel-imports-need-strict-tariff-enforcement",
+    "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement",
+    "titleZh": "Ternium表示墨西哥鋼鐵進口需要嚴格關稅執行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/ternium-says-mexico-steel-imports-need-strict-tariff-enforcement",
+    "image": null,
+    "pushedAt": "2026-11-11T01:52:26.095Z"
   }
 ]
