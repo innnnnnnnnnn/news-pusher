@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
-    "title": "Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?",
-    "titleZh": "民主黨現在有辦法避開選舉團制度。它會起作用嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-04-compact-index/2026-11-04-compact-index-mediumSquareAt3X-v18.png",
-    "pushedAt": "2026-11-08T21:55:26.087Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
     "title": "As hackers run riot with AI, its makers want to cash in",
     "titleZh": "隨著駭客對人工智慧的肆虐，其製造商希望從中獲利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/singapore-air-plans-more-room-for-premium-seats-video",
     "image": null,
     "pushedAt": "2026-11-11T04:32:11.593Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
+    "title": "YouTube’s dominance has Hollywood running scared",
+    "titleZh": "YouTube 的統治地位令好萊塢望而卻步",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
+    "image": null,
+    "pushedAt": "2026-11-11T04:32:41.450Z"
   }
 ]
