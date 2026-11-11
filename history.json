@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ec66a5d6-70f1-47fc-b573-067dd96dc913",
-    "title": "Germany issues ultimatum to secure Ukraine funding",
-    "titleZh": "德國發出最後通牒以確保烏克蘭獲得資金",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ec66a5d6-70f1-47fc-b573-067dd96dc913?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T02:29:16.169Z"
-  },
-  {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-    "title": "Markets realise they hate America’s blue wave",
-    "titleZh": "市場意識到他們討厭美國的藍色浪潮",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-    "image": null,
-    "pushedAt": "2026-11-11T16:09:36.947Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/peloton-taps-junk-bond-market-for-first-time-in-refinancing-deal",
     "title": "Peloton Taps Junk-Bond Market for First Time in Refinancing Deal",
     "titleZh": "Peloton 首次利用垃圾債券市場進行再融資",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/6ivpgrf21?ref=rss",
     "image": null,
     "pushedAt": "2026-11-11T16:13:56.163Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-scandal-raises-china-stakes-video",
+    "title": "Nvidia Scandal Raises China Stakes",
+    "titleZh": "英偉達醜聞增加中國股份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-scandal-raises-china-stakes-video",
+    "image": null,
+    "pushedAt": "2026-11-11T16:14:26.868Z"
+  },
+  {
+    "id": "https://flipso.com/p/nye9u3xfo",
+    "title": "Burying the Evidence",
+    "titleZh": "埋葬證據",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/nye9u3xfo?ref=rss",
+    "image": "https://cdn.flipso.com/p/nye9u3xfo_square.jpg",
+    "pushedAt": "2026-11-11T16:14:29.340Z"
   }
 ]
