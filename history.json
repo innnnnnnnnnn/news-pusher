@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/finding-opportunity-in-credit-distress-video",
-    "title": "Finding Opportunity in Credit Distress",
-    "titleZh": "在信用困境中尋找機會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/finding-opportunity-in-credit-distress-video",
-    "image": null,
-    "pushedAt": "2026-11-09T19:24:47.007Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/us-steel-npscy-strike-threat-grows-as-unions-talks-enter-third-month",
     "title": "US Steel (NPSCY) Strike Threat Grows as Unions Talks Enter Third Month",
     "titleZh": "隨著工會談判進入第三個月，美國鋼鐵公司 (NPSCY) 罷工威脅加劇",
@@ -4632,7 +4623,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/t5lh7g4zl?ref=rss",
     "image": "https://cdn.flipso.com/p/t5lh7g4zl_square.jpg",
-    "pushedAt": "2026-11-11T16:31:29.500Z"
+    "pushedAt": "2026-11-11T18:50:31.160Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
@@ -8524,12 +8515,12 @@
   },
   {
     "id": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-    "title": "Humanoid robot start-up backed by Eric Trump in talks to supply IDF",
+    "title": "Humanoid robot start-up backed by Eric Trump in talks with Israel’s military",
     "titleZh": "艾瑞克川普支持的人形機器人新創公司正在洽談向以色列國防軍供貨",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T16:31:56.591Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee27bd5-e333-4a6c-a136-7ea08ed444fd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T18:50:57.672Z"
   },
   {
     "id": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8",
@@ -8537,8 +8528,8 @@
     "titleZh": "個股永續經營看起來像是牛市最尖的角",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T16:31:59.928Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e4e9e7e-be7e-48ca-be03-8757a87a62be.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T18:51:23.430Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/apagones-abren-nuevo-frente-para-rodriguez-en-venezuela-video",
     "image": null,
     "pushedAt": "2026-11-11T18:50:03.459Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/republicans-begin-aggressive-lame-duck-push-to-install-trump-judges.html",
+    "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
+    "titleZh": "共和黨人開始積極推動「跛腳鴨」任命川普法官",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/republicans-begin-aggressive-lame-duck-push-to-install-trump-judges.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11DC-JUDGES-mpzg/11DC-JUDGES-mpzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T18:51:51.121Z"
   }
 ]
