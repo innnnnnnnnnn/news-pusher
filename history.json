@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec",
-    "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
-    "titleZh": "民主黨誓言彈劾川普官員並調查共和黨捐款者",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5d2199f-53e4-4bda-97fe-8111d67a3533.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T11:47:30.365Z"
-  },
-  {
     "id": "https://flipso.com/p/rtncy984z",
     "title": "Earliest evidence of psychoactive cannabis use found in ancient Siberian tomb",
     "titleZh": "在西伯利亞古墓中發現使用精神活性大麻的最早證據",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/india-short-term-rates-may-rise-weighing-on-spending-investment",
     "image": null,
     "pushedAt": "2026-11-11T02:41:56.671Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+    "title": "Trains Collide Near Cairo, Killing 4",
+    "titleZh": "開羅附近火車相撞，造成 4 人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T02:42:24.760Z"
   }
 ]
