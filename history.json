@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure",
-    "title": "Fed’s Goolsbee Says Officials Must Address Inflation Failure",
-    "titleZh": "聯準會古爾斯比表示官員必須解決通膨失靈問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure",
-    "image": null,
-    "pushedAt": "2026-11-10T11:09:49.233Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/opinion-nvidia-s-jensen-huang-problem-video",
     "title": "Nvidia’s Jensen Huang Problem",
     "titleZh": "Nvidia 的黃仁勳問題",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T17:21:49.574Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+    "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+    "titleZh": "美國商務部對 Megaspeed 的調查因 Nvidia 幹預而停止",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T17:22:18.169Z"
   }
 ]
