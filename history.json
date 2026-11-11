@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/semiconductor-earnings-sugar-rush-likely-to-fade-peters-video",
-    "title": "Semiconductor Earnings Sugar Rush Likely to Fade, Says JPMorgan’s Peters",
-    "titleZh": "摩根大通的彼得斯表示，半導體獲利熱潮可能會消退",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/semiconductor-earnings-sugar-rush-likely-to-fade-peters-video",
-    "image": null,
-    "pushedAt": "2026-11-09T16:24:21.060Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/akamai-technologies-seeks-2-2-billion-from-convertible-bonds",
     "title": "Akamai Technologies Seeks $2.2 Billion From Convertible Bonds",
     "titleZh": "Akamai Technologies 尋求透過可轉換債券融資 22 億美元",
@@ -8484,7 +8475,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8331f6dd-b015-4288-85bb-b52c0d0f37b1?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T11:03:07.999Z"
+    "pushedAt": "2026-11-11T13:22:47.208Z"
   },
   {
     "id": "https://www.ft.com/content/1bf39007-d0c1-441c-8a87-906c5284bd1a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/ai-whiplash-poses-major-test-for-wall-street-s-dip-buying-habit",
     "image": null,
     "pushedAt": "2026-11-11T13:22:20.227Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+    "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
+    "titleZh": "Anthropic 的 IPO和人工智慧的俱樂部業務",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ant-gpfz/11db-ant-gpfz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T13:23:38.022Z"
   }
 ]
