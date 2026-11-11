@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654",
-    "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
-    "titleZh": "英偉達股價因調查涉嫌中國間諜醜聞而下跌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T10:54:10.745Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/eib-s-calvino-says-us-turmoil-is-driving-capital-to-europe",
     "title": "EIB’s Calvino Says US Turmoil Is Driving Capital to Europe",
     "titleZh": "歐洲投資銀行的卡爾維諾表示，美國的動盪正在推動資本流向歐洲",
@@ -5262,7 +5253,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
     "image": null,
-    "pushedAt": "2026-11-11T08:48:58.507Z"
+    "pushedAt": "2026-11-11T11:09:51.622Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
@@ -6945,7 +6936,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
     "image": "https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T08:48:33.346Z"
+    "pushedAt": "2026-11-11T11:09:27.938Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed",
     "image": null,
     "pushedAt": "2026-11-11T11:09:00.068Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/edp-ceo-sees-opportunities-in-us-renewable-energy-video",
+    "title": "EDP CEO Sees Opportunities in US Renewable Energy",
+    "titleZh": "EDP​​執行長看到美國再生能源的機遇",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/edp-ceo-sees-opportunities-in-us-renewable-energy-video",
+    "image": null,
+    "pushedAt": "2026-11-11T11:10:18.104Z"
   }
 ]
