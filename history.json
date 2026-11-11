@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-    "title": "China’s AI stock-market struggles are a warning",
-    "titleZh": "中國人工智慧股市的困境是一個警告",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-    "image": null,
-    "pushedAt": "2026-11-10T19:52:11.112Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
-    "titleZh": "NextEra 和 Dominion 的大型合併可能因電費帳單而失敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:17:21.383Z"
-  },
-  {
     "id": "https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113",
     "title": "Equity volatility is maybe a bit sort-of back",
     "titleZh": "股市波動可能有所回落",
@@ -6909,7 +6891,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
     "image": null,
-    "pushedAt": "2026-11-11T14:19:21.031Z"
+    "pushedAt": "2026-11-11T16:50:25.972Z"
   },
   {
     "id": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
@@ -6918,7 +6900,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
     "image": null,
-    "pushedAt": "2026-11-11T14:19:45.895Z"
+    "pushedAt": "2026-11-11T16:50:50.734Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/iran-war-leaves-europe-vulnerable-to-harsh-winter-video",
     "image": null,
     "pushedAt": "2026-11-11T16:49:58.391Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
+    "title": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
+    "titleZh": "藍色德克薩斯？堪薩斯戰場？雙方都想知道地圖是否改變了。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-future-map-mtbw/10pol-future-map-mtbw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T16:51:16.494Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+    "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+    "titleZh": "尋求擴大烏克蘭談判範圍，美國敦促俄羅斯將歐洲納入其中",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T16:51:19.624Z"
   }
 ]
