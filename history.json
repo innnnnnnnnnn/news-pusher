@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-    "title": "America’s renters are in serious trouble",
-    "titleZh": "美國的租屋者陷入嚴重麻煩",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-    "image": null,
-    "pushedAt": "2026-11-10T18:34:44.634Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-brief-11-09-2026-video",
     "title": "Stocks Rise as Investors Shrug Off Nvidia Probe; Trump Says Iran Strikes Unlikely",
     "titleZh": "投資人對英偉達調查不屑一顧，股市上漲；川普稱伊朗不太可能發動攻擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/opinion/democrats-voting-rights-southern-strategy.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11bouie-zwph/11bouie-zwph-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T16:06:03.966Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-playing-out-like-a-greek-tragedy-goldberg-video",
+    "title": "Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg",
+    "titleZh": "海港公司的戈德伯格表示，英偉達的表現就像一場希臘悲劇",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-playing-out-like-a-greek-tragedy-goldberg-video",
+    "image": null,
+    "pushedAt": "2026-11-11T16:06:58.750Z"
   }
 ]
