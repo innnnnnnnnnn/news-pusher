@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
-    "title": "High Gas Prices Boost Sales of Hybrids for Toyota, Sending Its Stock Soaring",
-    "titleZh": "高油價推動豐田混合動力車銷售飆升，股價飆升",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-toyota-tvgh/05biz-toyota-tvgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T14:53:53.787Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
     "title": "Israel’s Election Fight Shifts to Coalition Building",
     "titleZh": "以色列的選舉鬥爭轉向聯盟",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/india-s-rich-pivot-to-real-estate-after-stock-returns-falter",
     "image": null,
     "pushedAt": "2026-11-11T01:50:33.162Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+    "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+    "titleZh": "為什麼伊朗戰爭刺激了清潔能源和化石燃料的發展",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-cop31-war-swap-bgvm/08biz-cop31-war-swap-bgvm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T01:51:02.861Z"
   }
 ]
