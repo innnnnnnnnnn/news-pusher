@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/audio/2026-11-09/odd-lots-how-new-york-city-takes-out-its-trash-podcast",
-    "title": "Odd Lots: How New York City Takes Out Its Trash (Podcast)",
-    "titleZh": "奇怪的東西：紐約市如何倒垃圾（Podcast）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/audio/2026-11-09/odd-lots-how-new-york-city-takes-out-its-trash-podcast",
-    "image": null,
-    "pushedAt": "2026-11-09T11:07:24.392Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/data-center-boss-vows-engagement-after-backlash-tanks-stock",
     "title": "Data Center Boss Vows Engagement After Backlash Tanks Stock",
     "titleZh": "資料中心老闆誓言在庫存反彈後參與其中",
@@ -3408,7 +3399,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09xp-lyft-vmlk/09xp-lyft-vmlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T08:43:05.128Z"
+    "pushedAt": "2026-11-11T11:03:47.915Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/france-unemployment-eases-beleaguered-economy-protests-budget",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/814c0427-42fa-453b-8e1d-bce8c77689c7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-11T11:03:21.403Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/podcasts/the-headlines/ice-emails-medicaid-rules-martin-luther-king-jr.html",
+    "title": "What One ICE Officer’s Emails Revealed, and the Frantic Scramble Over New Medicaid Rules",
+    "titleZh": "一位 ICE 官員的電子郵件透露了什麼，以及對新醫療補助規則的瘋狂爭奪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/podcasts/the-headlines/ice-emails-medicaid-rules-martin-luther-king-jr.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00nat-ice-shooter-gkjh-Theheadline/00nat-ice-shooter-gkjh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T11:04:14.152Z"
   }
 ]
