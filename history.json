@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/siriusxm-is-said-to-name-tubi-s-anjali-sud-its-next-ceo",
-    "title": "SiriusXM Names Tubi’s Anjali Sud Its Next CEO",
-    "titleZh": "SiriusXM 任命 Tubi 的 Anjali Sud 為其下一任首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/siriusxm-is-said-to-name-tubi-s-anjali-sud-its-next-ceo",
-    "image": null,
-    "pushedAt": "2026-11-09T17:33:23.316Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/ai-developers-face-2027-rate-shock-after-1-trillion-debt-binge",
     "title": "AI Developers Face 2027 Rate Shock After $1 Trillion Debt Binge",
     "titleZh": "人工智慧開發商在 1 兆美元債務狂歡後面臨 2027 年利率衝擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value",
     "image": null,
     "pushedAt": "2026-11-11T16:46:25.908Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
+    "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+    "titleZh": "川普參觀阿靈頓公墓，他的拱門提議面臨越來越多的反對",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
+    "image": "https://static01.nyt.com/images/2026/09/03/multimedia/11dc-arch-arlington/03dc-arch-02-jgwz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T16:46:56.542Z"
   }
 ]
