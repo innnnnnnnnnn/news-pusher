@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
-    "title": "Pope Leo’s Trip to Latin America: What to Know",
-    "titleZh": "教宗利奧的拉丁美洲之旅：需要了解什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T05:58:03.695Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
     "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
     "titleZh": "法國城市遭受恐怖攻擊，居民指責極右派言論",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video",
     "image": null,
     "pushedAt": "2026-11-11T19:26:15.115Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
+    "title": "A generational upset in Los Angeles",
+    "titleZh": "洛杉磯一代人的不安",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
+    "image": null,
+    "pushedAt": "2026-11-11T19:26:45.899Z"
   }
 ]
