@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cbab2db2-3180-40c5-8fa6-af51adc74768",
-    "title": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund",
-    "titleZh": "私募股權公司尋求從沙烏地阿拉伯財富基金收購 LIV Golf 的控制權",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cbab2db2-3180-40c5-8fa6-af51adc74768?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T16:08:07.890Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
     "title": "Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent; iOS 28 Shake-Up",
     "titleZh": "蘋果探索將 Siri AI 轉變為類似 ChatGPT Dots 的代理商； iOS 28 變革",
@@ -6954,7 +6945,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-wealth-tax-hbpg/10dc-wealth-tax-hbpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:35:18.822Z"
+    "pushedAt": "2026-11-11T00:56:37.528Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
@@ -7467,7 +7458,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-10T22:35:43.885Z"
+    "pushedAt": "2026-11-11T00:57:02.042Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
@@ -8484,7 +8475,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/why-nvidia-and-jensen-huang-matter-so-much-to-markets",
     "image": null,
-    "pushedAt": "2026-11-10T22:34:19.175Z"
+    "pushedAt": "2026-11-11T00:55:47.767Z"
   },
   {
     "id": "https://flipso.com/p/udzq6rbbm",
@@ -8493,16 +8484,16 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-10T22:34:51.023Z"
+    "pushedAt": "2026-11-11T00:56:12.526Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+    "title": "Asian Stocks Rise on CoreWeave Results, Bonds Drop: Markets Wrap",
     "titleZh": "隨著聯準會升息押注增加，亞洲股市和債券將下跌：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-10T22:36:13.106Z"
+    "pushedAt": "2026-11-11T00:57:28.080Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
@@ -8511,7 +8502,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
     "image": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:36:41.153Z"
+    "pushedAt": "2026-11-11T00:57:52.279Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
     "image": null,
     "pushedAt": "2026-11-11T00:55:17.862Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/fed-s-goolsbee-says-october-cpi-report-borderline-disturbing-mwbel9qz",
+    "title": "Fed’s Goolsbee Says October CPI Report ‘Borderline Disturbing’",
+    "titleZh": "聯準會古爾斯比表示 10 月份消費者物價指數報告“令人不安”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/fed-s-goolsbee-says-october-cpi-report-borderline-disturbing-mwbel9qz",
+    "image": null,
+    "pushedAt": "2026-11-11T00:58:20.786Z"
   }
 ]
