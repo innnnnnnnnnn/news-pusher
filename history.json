@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/apple-offers-disappointing-forecast-the-rundown-video",
-    "title": "Apple Offers Disappointing Forecast | The Rundown",
-    "titleZh": "蘋果公司的預測令人失望綱要",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/apple-offers-disappointing-forecast-the-rundown-video",
-    "image": null,
-    "pushedAt": "2026-11-09T19:14:44.766Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/poundstretcher-squeezed-by-suppliers-as-poundland-insolvency-looms",
     "title": "Poundstretcher Squeezed by Suppliers as Poundland Insolvency Looms",
     "titleZh": "由於 Poundland 破產迫在眉睫，Poundstretch 受到供應商的擠壓",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/lithium-americas-shares-sink-as-us-backed-mine-costs-rise",
     "image": null,
     "pushedAt": "2026-11-11T18:18:17.726Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/open-interest-11-11-2026-video",
+    "title": "AI Optimism Reignites the Tech Trade",
+    "titleZh": "人工智慧樂觀情緒重燃科技貿易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/open-interest-11-11-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-11T18:20:28.195Z"
   }
 ]
