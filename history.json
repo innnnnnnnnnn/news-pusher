@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
-    "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
-    "titleZh": "參議員告訴谷歌讓學校禁用人工智慧搜尋功能",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
-    "image": "https://static01.nyt.com/images/2026/07/23/multimedia/09biz-google-schools1/09biz-google-schools1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T11:20:33.330Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
     "title": "A.I.-Generated Celebrity Ads Get an Assist From Terry Crews",
     "titleZh": "人工智慧生成的名人廣告得到了泰瑞克魯斯 (Terry Crews) 的協助",
@@ -7570,21 +7561,21 @@
   },
   {
     "id": "https://www.ft.com/content/1c3e9030-51e6-49f2-8203-2e7a53f710c8",
-    "title": "Andy Burnham heads to COP as critics question his climate credentials",
+    "title": "How green is Andy Burnham?",
     "titleZh": "安迪·伯納姆 (Andy Burnham) 前往締約方會議，批評者質疑他的氣候資歷",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1c3e9030-51e6-49f2-8203-2e7a53f710c8?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T09:35:43.421Z"
+    "pushedAt": "2026-11-11T11:44:51.269Z"
   },
   {
     "id": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244",
-    "title": "How Singapore became a linchpin of China’s AI chip trade",
+    "title": "How Singapore became a route for Nvidia chips to China",
     "titleZh": "英偉達間諜醜聞揭露了新加坡在中國人工智慧晶片貿易中的作用",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5401354e-390f-4b6e-92a7-16b19e89fa2d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T09:36:07.316Z"
+    "image": null,
+    "pushedAt": "2026-11-11T11:45:15.140Z"
   },
   {
     "id": "https://www.ft.com/content/dde08447-076e-43df-bf3b-7f318e7c8a88",
@@ -7611,7 +7602,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1c44cb5e-68ff-4396-a906-0bb6161e02d6?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffecc59c5-f4c0-4544-98a0-f16ec922e743.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T09:37:20.375Z"
+    "pushedAt": "2026-11-11T11:45:39.410Z"
   },
   {
     "id": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-deportations-2-plzm/00int-deportations-2-plzm-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-11T11:44:24.823Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/us-stock-index-futures-rise-as-coreweave-helps-tech-rebound",
+    "title": "US Stock Index Futures Rise as CoreWeave Helps Tech Rebound",
+    "titleZh": "CoreWeave 協助科技股反彈，美國股指期貨上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-stock-index-futures-rise-as-coreweave-helps-tech-rebound",
+    "image": null,
+    "pushedAt": "2026-11-11T11:46:06.907Z"
   }
 ]
