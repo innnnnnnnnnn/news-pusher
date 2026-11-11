@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f",
-    "title": "Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’",
-    "titleZh": "川普表示「極不可能」襲擊伊朗，油價跌到十週低點",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T04:45:42.157Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/iran-suspected-of-fridge-hacks-french-prosecutors-say",
     "title": "Iran Suspected of Fridge Hacks, French Prosecutors Say",
     "titleZh": "法國檢察官稱伊朗涉嫌冰箱駭客攻擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/odd-lots-ai-trade-shrugs-off-blue-wave-and-tech-scandal-video",
     "image": null,
     "pushedAt": "2026-11-11T17:58:45.105Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+    "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
+    "titleZh": "選民是否會強烈反對人工智慧？真的有利於經濟嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T17:59:13.242Z"
   }
 ]
