@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-tech-11-09-2026-video",
-    "title": "Nvidia CEO Affair Draws Washington Scrutiny",
-    "titleZh": "英偉達執行長事件引起華盛頓密切關注",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-tech-11-09-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-09T21:31:27.833Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
     "title": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
     "titleZh": "BLS 將不會公佈 12 個月 CPI、10 月核心 CPI 數據",
@@ -1329,7 +1320,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-11T18:43:46.664Z"
+    "pushedAt": "2026-11-11T21:03:58.704Z"
   },
   {
     "id": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
@@ -3561,7 +3552,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T18:42:57.581Z"
+    "pushedAt": "2026-11-11T21:03:05.115Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
@@ -5181,7 +5172,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/russian-push-to-escape-dollar-for-yuan-collapses-under-sanctions",
     "image": null,
-    "pushedAt": "2026-11-11T18:42:33.228Z"
+    "pushedAt": "2026-11-11T21:02:39.532Z"
   },
   {
     "id": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773",
@@ -5199,7 +5190,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/officials-from-major-central-banks-signal-more-rate-increases",
     "image": null,
-    "pushedAt": "2026-11-11T18:43:22.147Z"
+    "pushedAt": "2026-11-11T21:03:32.217Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
@@ -5208,7 +5199,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T18:44:11.481Z"
+    "pushedAt": "2026-11-11T21:04:24.509Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-boosts-forecast-easing-slowdown-concerns-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T20:51:23.902Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9",
+    "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
+    "titleZh": "民主黨人承諾揭露川普領導下的“絕對雪崩腐敗”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T21:04:51.749Z"
   }
 ]
