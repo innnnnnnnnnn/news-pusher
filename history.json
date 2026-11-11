@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
-    "title": "Brazil Startup Exchange Partners With MSCI for Index Derivatives",
-    "titleZh": "巴西新創交易所與 MSCI 合作開發指數衍生性商品",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
-    "image": null,
-    "pushedAt": "2026-11-09T12:28:03.821Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
-    "title": "Brazil Economists Lift Key Rate Forecasts Again After Lula’s Win",
-    "titleZh": "盧拉獲勝後巴西經濟學家再次調高關鍵利率預測",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
-    "image": null,
-    "pushedAt": "2026-11-10T07:28:01.962Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
     "title": "Google Escalates Nvidia Rivalry With New Versions of Its TPU Systems",
     "titleZh": "谷歌推出新版 TPU 系統，加劇與 Nvidia 的競爭",
@@ -7404,7 +7386,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T12:04:46.296Z"
+    "pushedAt": "2026-11-11T14:29:00.913Z"
   },
   {
     "id": "https://flipso.com/p/6ch8adwiv",
@@ -7413,7 +7395,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6ch8adwiv?ref=rss",
     "image": "https://cdn.flipso.com/p/6ch8adwiv_square.jpg",
-    "pushedAt": "2026-11-11T12:05:09.859Z"
+    "pushedAt": "2026-11-11T14:29:25.552Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
@@ -8619,7 +8601,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results",
     "image": null,
-    "pushedAt": "2026-11-11T12:04:19.768Z"
+    "pushedAt": "2026-11-11T14:28:36.476Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/virgin-atlantic-cuts-winter-capacity-on-fuel-costs-soft-demand",
     "image": null,
     "pushedAt": "2026-11-11T14:28:08.778Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-invest-dallas-2026-highlights-video",
+    "title": "Bloomberg Invest Dallas 2026 Highlights",
+    "titleZh": "彭博投資達拉斯 2026 年亮點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-invest-dallas-2026-highlights-video",
+    "image": null,
+    "pushedAt": "2026-11-11T14:29:53.314Z"
+  },
+  {
+    "id": "https://flipso.com/p/ta8vqbsew",
+    "title": "We need more goat sacrifices",
+    "titleZh": "我們需要更多的山羊祭品",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/ta8vqbsew?ref=rss",
+    "image": "https://cdn.flipso.com/p/ta8vqbsew_square.jpg",
+    "pushedAt": "2026-11-11T14:29:58.075Z"
   }
 ]
