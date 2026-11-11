@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-    "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
-    "titleZh": "國會重返重新秩序的華盛頓，議程模糊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-cong-hgjf/09dc-cong-hgjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T15:30:22.871Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
     "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
     "titleZh": "Progressives 在 2028 年總統選舉前推出「Ready for AOC」活動",
@@ -8403,7 +8394,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html",
     "image": null,
-    "pushedAt": "2026-11-11T10:09:10.220Z"
+    "pushedAt": "2026-11-11T12:22:58.371Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
@@ -8412,7 +8403,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
     "image": "https://static01.nyt.com/images/2026/11/11/opinion/11opvid-satellite-image/11opvid-satellite-image-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-11T10:09:15.216Z"
+    "pushedAt": "2026-11-11T12:23:22.007Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
@@ -8421,7 +8412,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11-int-pope-evangelicals-promo/11-int-pope-evangelicals-bjql-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T10:09:20.609Z"
+    "pushedAt": "2026-11-11T12:23:45.716Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-core-part-ai-basket-of-stocks-emanuel-says-video",
     "image": null,
     "pushedAt": "2026-11-11T12:22:31.247Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/arts/television/jimmy-kimmel-trump-cspan.html",
+    "title": "Jimmy Kimmel Picks Apart Trump’s Impromptu Call-in",
+    "titleZh": "吉米金梅爾駁斥川普的即興打電話",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/arts/television/jimmy-kimmel-trump-cspan.html",
+    "image": null,
+    "pushedAt": "2026-11-11T12:24:35.162Z"
   }
 ]
