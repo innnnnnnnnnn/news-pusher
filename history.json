@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6",
-    "title": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
-    "titleZh": "試圖為以色列新政府和烏克蘭戰爭找到解決方案",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T02:00:53.872Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-    "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
-    "titleZh": "以色列選舉沒有明確的獲勝者。這些政黨正試圖組成聯盟。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T09:48:53.196Z"
-  },
-  {
     "id": "https://www.ft.com/content/1b67f9c7-b1ad-4b5b-b496-ac3a305ec841",
     "title": "Companies House faces scrutiny over ‘pervasive and systemic’ errors",
     "titleZh": "Companies House 面臨「普遍且系統性」錯誤的審查",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/us-aim-is-to-de-risk-with-china-bessent-says-video",
     "image": null,
     "pushedAt": "2026-11-11T03:53:52.994Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+    "titleZh": "盧比歐警告官員有關英偉達執行長與中國間諜的糾葛",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T03:54:19.976Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
+    "title": "Citi's Poon Werkun on AI Trade, Fed, China",
+    "titleZh": "花旗銀行的 Poon Werkun 談人工智慧貿易、聯準會、中國",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
+    "image": null,
+    "pushedAt": "2026-11-11T03:54:25.871Z"
   }
 ]
