@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-08/indian-stocks-rise-in-special-diwali-trading-session-on-sunday",
-    "title": "Indian Stocks Snap Diwali Win Streak in First Drop Since 2017",
-    "titleZh": "印度股市自 2017 年以來首次出現排燈節連勝",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/indian-stocks-rise-in-special-diwali-trading-session-on-sunday",
-    "image": null,
-    "pushedAt": "2026-11-08T21:31:57.124Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
     "title": "Democratic Sweep Tests Trump-Tied Trades in Latin America",
     "titleZh": "民主黨大獲全勝測試整個拉丁美洲與川普相關的交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/russian-push-to-escape-dollar-for-yuan-collapses-under-sanctions",
     "image": null,
     "pushedAt": "2026-11-11T00:08:06.281Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773",
+    "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+    "titleZh": "CoreWeave 計劃進行數十億美元的晶片支援債務交易",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3b4c05da-4eac-420a-a3fc-d88b81649353.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-11T00:08:37.865Z"
   }
 ]
