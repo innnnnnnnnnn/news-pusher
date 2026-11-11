@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
-    "title": "Jensen Huang Puts $200 Billion Dent in Nvidia’s Stock Price",
-    "titleZh": "黃仁勳令 Nvidia 股價下跌 2,000 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/jensen-huang-puts-200-billion-dent-in-nvidia-s-stock-price",
-    "image": null,
-    "pushedAt": "2026-11-09T13:43:14.998Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/openai-and-anthropic-valuations-fall-as-ai-market-rout-hits-fundraising",
     "title": "OpenAI and Anthropic Valuations Fall as AI Market Rout Hits Fundraising",
     "titleZh": "隨著 AI 市場的潰敗和融資，OpenAI 和 Anthropic 的估值下降",
@@ -3723,7 +3714,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
     "image": null,
-    "pushedAt": "2026-11-11T11:01:08.900Z"
+    "pushedAt": "2026-11-11T13:18:27.309Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
@@ -6054,7 +6045,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
     "image": "https://static01.nyt.com/images/2026/12/08/multimedia/08int-india-diwali-pollution-khqw/08int-india-diwali-pollution-khqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T10:59:57.808Z"
+    "pushedAt": "2026-11-11T13:17:15.103Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/it-looks-like-higher-rates-are-on-the-way",
@@ -6072,7 +6063,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
     "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T11:00:21.336Z"
+    "pushedAt": "2026-11-11T13:17:38.828Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
@@ -6081,7 +6072,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T11:00:45.307Z"
+    "pushedAt": "2026-11-11T13:18:03.654Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/ai-debt-blowups-become-fodder-for-etfs-aimed-at-retail-investors",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
     "pushedAt": "2026-11-11T13:16:48.495Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
+    "title": "How GLP-1 Drugs and a Revamp Revived Ro’s Business",
+    "titleZh": "GLP-1 藥物和改造如何重振 Ro 的業務",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T13:18:55.832Z"
   }
 ]
