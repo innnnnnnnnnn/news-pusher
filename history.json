@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
-    "title": "Krakow Gunman Dies as Poland Looks for Clues on Attack Motive",
-    "titleZh": "波蘭警方稱克拉科夫大規模槍擊案兇手在醫院死亡",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
-    "image": null,
-    "pushedAt": "2026-11-09T16:26:31.140Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/trump-s-weakness-and-overtures-to-russia-put-ukraine-on-edge",
-    "title": "Trump’s Weakness and Overtures to Russia Put Ukraine on Edge",
-    "titleZh": "川普的軟弱和對俄羅斯的示好讓烏克蘭處於緊張狀態",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-s-weakness-and-overtures-to-russia-put-ukraine-on-edge",
-    "image": null,
-    "pushedAt": "2026-11-09T06:40:14.081Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
-    "title": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Volatility",
-    "titleZh": "由於人工智慧擔憂加劇全球波動，Alphabet 考慮發售亞洲債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
-    "image": null,
-    "pushedAt": "2026-11-09T09:06:53.839Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/live-blog/2026-11-09/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today-mw8ws1iv",
-    "title": "FTSE 100 Set to Outperform as Global Stocks Rebound",
-    "titleZh": "全球股市反彈，富時 100 指數將跑贏大盤",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-09/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today-mw8ws1iv",
-    "image": null,
-    "pushedAt": "2026-11-09T07:04:13.739Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/ardian-raises-1-billion-europe-semiconductor-fund-with-middle-east-backing",
     "title": "Ardian Raises €1 Billion Europe Semiconductor Fund With Middle East Backing",
     "titleZh": "Ardian 在中東支持下募集 10 億歐元歐洲半導體基金",
@@ -8650,12 +8614,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/taylor-wimpey-sees-lower-profit-as-mortgage-rates-squeeze-buyers",
-    "title": "Taylor Wimpey Sees Lower Profit as Mortgage Rates Squeeze Buyers",
+    "title": "Taylor Wimpey Sees Lower Profit as Rates Squeeze Buyers",
     "titleZh": "泰勒溫佩 (Taylor Wimpey) 預計，由於抵押貸款利率擠壓買家，利潤會下降",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/taylor-wimpey-sees-lower-profit-as-mortgage-rates-squeeze-buyers",
     "image": null,
-    "pushedAt": "2026-11-11T07:44:01.983Z"
+    "pushedAt": "2026-11-11T10:08:43.020Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/horizons-middle-east-africa-11-11-2026-video",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11FD-pricey-pies-promo1-vblz/11FD-pricey-pies-promo1-vblz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T10:08:15.061Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html",
+    "title": "The Post-Trump Battle Lines Are Drawn",
+    "titleZh": "後川普時代的戰線已經劃定",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html",
+    "image": null,
+    "pushedAt": "2026-11-11T10:09:10.220Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
+    "title": "Satellite Imagery Is Being Restricted. The U.S. Government Is to Blame.",
+    "titleZh": "衛星圖像受到限制。美國政府難辭其咎。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/opinion/11opvid-satellite-image/11opvid-satellite-image-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-11T10:09:15.216Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+    "title": "Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance",
+    "titleZh": "教宗返回秘魯，福音派挑戰天主教的統治地位",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11-int-pope-evangelicals-promo/11-int-pope-evangelicals-bjql-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T10:09:20.609Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+    "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
+    "titleZh": "博物館的「通緝」海報活動將被掠奪的畫作帶回法國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T10:09:24.077Z"
   }
 ]
