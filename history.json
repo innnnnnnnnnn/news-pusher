@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-    "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
-    "titleZh": "受科技股拖累，股市抹去了中期選舉後的漲勢",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-    "image": null,
-    "pushedAt": "2026-11-09T23:11:49.330Z"
-  },
-  {
     "id": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a",
     "title": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis",
     "titleZh": "歐洲央行競爭者克拉斯·諾特「會毫不猶豫地」在債務危機中採取行動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-flash-memory-giant-ymtc-said-to-target-ipo-in-early-2027",
     "image": null,
     "pushedAt": "2026-11-11T07:50:29.824Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+    "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+    "titleZh": "德國人懷念前總理梅克爾，儘管他們不喜歡她的政策",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-11T07:50:59.326Z"
   }
 ]
