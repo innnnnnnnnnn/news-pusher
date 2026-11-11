@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/03b2f033-9e41-48e3-aae3-d512be2831ae",
-    "title": "Nvidia CEO admits to affair after allegations of relationship with Chinese spy",
-    "titleZh": "英偉達執行長在被指控與中國間諜有關係後承認有外遇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/03b2f033-9e41-48e3-aae3-d512be2831ae?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T16:14:53.553Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
     "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
     "titleZh": "家長訴Google學校Chromebook的人工智能安全風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/india-equity-fund-inflows-cool-as-stocks-sink-to-18-month-low",
     "image": null,
     "pushedAt": "2026-11-11T09:06:15.628Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+    "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+    "titleZh": "戰後黎巴嫩面臨經濟「災難」和多年管理不善",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T09:24:27.868Z"
   }
 ]
