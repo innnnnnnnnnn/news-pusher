@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/test-your-etf-knowledge-in-our-iq-test-video",
-    "title": "Test Your ETF Knowledge In Our IQ Test",
-    "titleZh": "在我們的 IQ 測試中測試您的 ETF 知識",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/test-your-etf-knowledge-in-our-iq-test-video",
-    "image": null,
-    "pushedAt": "2026-11-09T23:04:44.227Z"
-  },
-  {
-    "id": "https://flipso.com/p/ctf1tze6w",
-    "title": "New Units of Knowledge",
-    "titleZh": "新的知識單元",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
-    "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
-    "pushedAt": "2026-11-11T22:50:34.022Z"
-  },
-  {
     "id": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb",
     "title": "Republican lawmaker moves to impeach Hegseth",
     "titleZh": "共和黨議員提議彈劾國防部長皮特·赫格斯",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/5eeux1z7u?ref=rss",
     "image": "https://cdn.flipso.com/p/5eeux1z7u_square.jpg",
     "pushedAt": "2026-11-11T22:56:13.780Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "title": "The future of Trumponomics: compromise or failure",
+    "titleZh": "川普經濟學的未來：妥協還是失敗",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "image": null,
+    "pushedAt": "2026-11-11T22:56:43.001Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
+    "title": "Woodside Energy CEO on LNG Development in the US",
+    "titleZh": "伍德賽德能源執行長談美國液化天然氣開發",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
+    "image": null,
+    "pushedAt": "2026-11-11T22:56:46.606Z"
   }
 ]
