@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
-    "title": "What Democrats Plan to Investigate After Election Victory",
-    "titleZh": "選舉勝利後民主黨計劃調查什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
-    "image": null,
-    "pushedAt": "2026-11-09T21:28:36.678Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-probe-into-ceo-s-affair-adds-to-ai-trade-risks-video",
     "title": "Nvidia Probe Into CEO's Affair Raises Troubling Questions for AI",
     "titleZh": "英偉達對執行長事件的調查引發了人工智慧領域的令人不安的問題",
@@ -8430,7 +8421,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-hcqm/11int-spain-strike-hcqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:36:48.629Z"
+    "pushedAt": "2026-11-11T18:04:24.120Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
@@ -8439,7 +8430,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:37:17.758Z"
+    "pushedAt": "2026-11-11T18:04:48.546Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/jpmorgan-nvidia-leaders-on-electrification-video",
     "image": null,
     "pushedAt": "2026-11-11T18:03:56.592Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+    "title": "Jensen Huang must resign",
+    "titleZh": "黃仁勳必須辭職",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+    "image": null,
+    "pushedAt": "2026-11-11T18:05:17.581Z"
   }
 ]
