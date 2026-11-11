@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c22e5269-d12f-4a51-9d8f-07860d708845",
-    "title": "Holidaying the Swiss family way",
-    "titleZh": "瑞士家庭度假方式",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c22e5269-d12f-4a51-9d8f-07860d708845?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T07:17:10.896Z"
-  },
-  {
     "id": "https://www.ft.com/content/7a10bf56-24bd-42f9-b9cf-74c190bfed31",
     "title": "Cities seek to build back better after climate change shocks",
     "titleZh": "城市尋求在氣候變化衝擊後重建得更好",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
     "image": null,
     "pushedAt": "2026-11-11T08:36:13.134Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/chery-recalls-thousands-of-vehicles-in-south-africa-over-safety-mwbuqw8g",
+    "title": "Chery Recalls Thousands of Vehicles in South Africa Over Safety",
+    "titleZh": "奇瑞因安全問題在南非召回數千輛汽車",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/chery-recalls-thousands-of-vehicles-in-south-africa-over-safety-mwbuqw8g",
+    "image": null,
+    "pushedAt": "2026-11-11T08:38:01.195Z"
   }
 ]
