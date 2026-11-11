@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/arts/music/talafreako-lil-texxan-viral-song.html",
-    "title": "‘Talafreako’ Is, Accidentally, the Campaign Song of the Moment",
-    "titleZh": "《Talafreako》意外地成為當下的競選歌曲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/arts/music/talafreako-lil-texxan-viral-song.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cul-talarico-viral-rap2-tvjq/09cul-talarico-viral-rap2-tvjq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T21:53:16.965Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/elections/independent-senate-races-candidates-election-results.html",
     "title": "Independent Senate Candidates Ran in Deep-Red States and Lost Despite Democratic Support",
     "titleZh": "獨立參議院候選人在深紅色州競選，儘管有民主黨支持但仍落敗",
@@ -6675,7 +6666,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T19:18:05.285Z"
+    "pushedAt": "2026-11-11T21:39:35.858Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
@@ -8682,7 +8673,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
     "image": null,
-    "pushedAt": "2026-11-11T19:18:32.883Z"
+    "pushedAt": "2026-11-11T21:40:01.031Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/how-adobe-is-helping-disney-with-custom-ai-tools-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d52931a-784e-47c8-8dbc-be901abe4e8b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-11T21:39:08.132Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+    "title": "Democrats’ strategy for ending the war in Iran",
+    "titleZh": "民主黨結束伊朗戰爭的戰略",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+    "image": null,
+    "pushedAt": "2026-11-11T21:40:29.574Z"
   }
 ]
