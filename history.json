@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113",
-    "title": "Equity volatility is maybe a bit sort-of back",
-    "titleZh": "股市波動可能有所回落",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3645d2b-9e8d-4196-b37a-1d5cef254b12.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-09T17:51:37.252Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/new-ericsson-ceo-sees-ai-fueling-next-generation-network-demand",
     "title": "New Ericsson CEO Sees AI Fueling Next-Generation Network Demand",
     "titleZh": "愛立信新任執行長認為人工智慧將推動下一代網路需求",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T16:51:19.624Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+    "titleZh": "NextEra 和 Dominion 的大型合併可能因電費帳單而失敗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T16:51:50.035Z"
   }
 ]
