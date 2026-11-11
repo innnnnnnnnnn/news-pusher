@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
-    "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
-    "titleZh": "誰在隱藏有關達格·哈馬舍爾德之死的秘密？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-un-sweden-dag-02-clbz/00int-un-sweden-dag-02-clbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T17:51:08.253Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ai-situation-has-never-been-more-fraught",
     "title": "The AI Situation Has Never Been More Fraught",
     "titleZh": "人工智慧的情況從未如此令人擔憂",
@@ -6360,7 +6351,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "image": null,
-    "pushedAt": "2026-11-11T17:03:12.353Z"
+    "pushedAt": "2026-11-11T19:28:11.444Z"
   },
   {
     "id": "https://www.ft.com/reports/long-term-growth-champions-europe",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video",
     "image": null,
     "pushedAt": "2026-11-11T19:27:43.388Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+    "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+    "titleZh": "法院裁定針對 SpaceX 的性騷擾案件可以繼續審理",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-spacex-lawsuit-lmbq/11biz-spacex-lawsuit-lmbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T19:28:39.957Z"
   }
 ]
