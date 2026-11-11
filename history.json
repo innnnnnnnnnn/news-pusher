@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
-    "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
-    "titleZh": "反川普抗議。警察威脅。糖尿病研究的裂痕。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T22:58:00.277Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
     "title": "Oil Prices Have Tumbled in November. Here’s Why.",
     "titleZh": "由於美國和伊朗之間的和平希望，油價下跌",
@@ -6891,7 +6882,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/reports/long-term-growth-champions-europe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T14:33:10.072Z"
+    "pushedAt": "2026-11-11T17:05:51.359Z"
   },
   {
     "id": "https://www.ft.com/content/58d7ab59-688f-4d15-9c7f-96e621775777",
@@ -8106,7 +8097,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e2dddfd8-ec70-44dc-8efc-07576c659599?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T14:34:24.379Z"
+    "pushedAt": "2026-11-11T17:06:16.378Z"
   },
   {
     "id": "https://www.ft.com/content/f82ba659-9539-4b7a-9716-a915d0445488",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/c3f6a7b9-5a15-4651-a855-18d2ea29f8f5",
     "image": null,
     "pushedAt": "2026-11-11T17:05:23.467Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
+    "title": "Raman and the D.S.A.: Wariness, Skepticism and Hope",
+    "titleZh": "拉曼和 D.S.A.：警覺、懷疑和希望",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-raman-dsa-cwjz/11nat-raman-dsa-cwjz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T17:06:43.879Z"
   }
 ]
