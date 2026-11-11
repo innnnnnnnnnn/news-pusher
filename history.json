@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b4be65b1-5d8a-470a-9be9-8a892c1c3276",
-    "title": "Merz nominates Germany’s first female president",
-    "titleZh": "默茨提名德國首位女總統",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b4be65b1-5d8a-470a-9be9-8a892c1c3276?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T21:49:54.561Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
     "title": "Brazil Startup Exchange Partners With MSCI for Index Derivatives",
     "titleZh": "巴西新創交易所與 MSCI 合作開發指數衍生性商品",
@@ -7404,7 +7395,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
     "image": null,
-    "pushedAt": "2026-11-11T12:03:54.879Z"
+    "pushedAt": "2026-11-11T14:27:42.303Z"
   },
   {
     "id": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f",
@@ -8043,7 +8034,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/thai-officials-meet-apple-over-spyware-alerts-to-politicians",
     "image": null,
-    "pushedAt": "2026-11-11T12:03:02.576Z"
+    "pushedAt": "2026-11-11T14:26:52.892Z"
   },
   {
     "id": "https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0",
@@ -8614,12 +8605,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
-    "title": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
+    "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
     "titleZh": "聯準會必須升息。官員們對進展速度有分歧。",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-fed-gbfm/11dc-fed-gbfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T12:03:28.384Z"
+    "pushedAt": "2026-11-11T14:27:17.800Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/chile-trucker-protest-over-fuel-prices-imperils-farm-exports",
     "image": null,
     "pushedAt": "2026-11-11T14:26:01.071Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/virgin-atlantic-cuts-winter-capacity-on-fuel-costs-soft-demand",
+    "title": "Virgin Atlantic Cuts Winter Capacity on Fuel Costs, Soft Demand",
+    "titleZh": "維珍航空因燃料成本和需求疲軟而削減冬季運力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/virgin-atlantic-cuts-winter-capacity-on-fuel-costs-soft-demand",
+    "image": null,
+    "pushedAt": "2026-11-11T14:28:08.778Z"
   }
 ]
