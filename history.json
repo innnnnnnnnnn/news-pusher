@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/elections/independent-senate-races-candidates-election-results.html",
-    "title": "Independent Senate Candidates Ran in Deep-Red States and Lost Despite Democratic Support",
-    "titleZh": "獨立參議院候選人在深紅色州競選，儘管有民主黨支持但仍落敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/elections/independent-senate-races-candidates-election-results.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08EA-INDEPENDENT-SWINGS-wmgf/08EA-INDEPENDENT-SWINGS-wmgf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T21:53:42.843Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/uk-must-back-startups-or-face-economic-ruin-ex-adviser-says",
     "title": "Former UK Tech Adviser Thinks Government Is Failing Startups",
     "titleZh": "前顧問表示，英國必須支持新創企業，否則將面臨經濟崩潰",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
     "image": null,
     "pushedAt": "2026-11-11T21:40:29.574Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+    "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
+    "titleZh": "OpenAI、人擇估值加劇了創投對新創企業修正的擔憂",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+    "image": null,
+    "pushedAt": "2026-11-11T21:41:01.748Z"
   }
 ]
