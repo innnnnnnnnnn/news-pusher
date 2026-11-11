@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
-    "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
-    "titleZh": "法國城市遭受恐怖攻擊，居民指責極右派言論",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T01:18:23.330Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
     "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
     "titleZh": "誰在隱藏有關達格·哈馬舍爾德之死的秘密？",
@@ -8466,7 +8457,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/cinco-graficos-que-muestran-la-enorme-relevancia-de-nvidia-mwcd82n6",
     "image": null,
-    "pushedAt": "2026-11-11T17:02:45.212Z"
+    "pushedAt": "2026-11-11T19:27:15.773Z"
   },
   {
     "id": "https://www.ft.com/content/95b04e44-85c8-4025-adca-7c76ddfc94d5",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
     "image": null,
     "pushedAt": "2026-11-11T19:26:45.899Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video",
+    "title": "Oura to Buy AI Doctor Startup",
+    "titleZh": "Oura 將收購人工智慧醫生新創公司",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video",
+    "image": null,
+    "pushedAt": "2026-11-11T19:27:43.388Z"
   }
 ]
