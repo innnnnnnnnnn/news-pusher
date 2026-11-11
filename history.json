@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
-    "title": "By The Way: Headlines You May Have Missed",
-    "titleZh": "順便說一句：您可能錯過的頭條新聞",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
-    "image": null,
-    "pushedAt": "2026-11-09T02:57:09.722Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
-    "title": "Bookmarked: News Stories On Our Reading List",
-    "titleZh": "已加書籤：我們的閱讀清單中的新聞報導",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
-    "image": null,
-    "pushedAt": "2026-11-09T05:08:54.032Z"
-  },
-  {
     "id": "https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e",
     "title": "Will US inflation data ease affordability concerns?",
     "titleZh": "美國通膨數據會緩解人們對負擔能力的擔憂嗎？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
     "image": null,
     "pushedAt": "2026-11-11T02:13:48.607Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+    "title": "The fight over Republicans’ future has begun",
+    "titleZh": "關於共和黨未來的鬥爭已經開始",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+    "image": null,
+    "pushedAt": "2026-11-11T02:14:17.491Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
+    "title": "Indonesia Bourse Adds 300 Stocks to High Concentration List",
+    "titleZh": "印尼證券交易所將 300 隻股票添加到高集中度名單中",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
+    "image": null,
+    "pushedAt": "2026-11-11T02:14:22.011Z"
   }
 ]
