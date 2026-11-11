@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
-    "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
-    "titleZh": "英偉達調查對中美晶片銷售意味著什麼",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
-    "image": null,
-    "pushedAt": "2026-11-09T15:39:59.048Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/socgen-s-juckes-sees-less-dollar-friendly-year-in-2027-video",
-    "title": "SocGen’s Juckes Sees ‘Less Dollar-Friendly’ Year in 2027",
-    "titleZh": "法國興業銀行的 Juckes 預計 2027 年將是「美元不那麼友善」的一年",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/socgen-s-juckes-sees-less-dollar-friendly-year-in-2027-video",
-    "image": null,
-    "pushedAt": "2026-11-09T15:40:24.203Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs",
     "title": "ECB Succession Advances as Ministers Look at Trio of Jobs",
     "titleZh": "部長們希望挑選三人職位，歐洲央行繼任者取得進展",
@@ -5631,7 +5613,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/kklf510pd?ref=rss",
     "image": "https://cdn.flipso.com/p/kklf510pd_square.jpg",
-    "pushedAt": "2026-11-11T13:09:03.697Z"
+    "pushedAt": "2026-11-11T15:37:45.809Z"
   },
   {
     "id": "https://flipso.com/p/8c2bh1ach",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T15:37:17.758Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams",
+    "title": "Retirement Rules Spark Exit Date Debate for NY Fed’s Williams",
+    "titleZh": "退休規則引發紐約聯邦儲備銀行威廉斯退出日期爭論",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams",
+    "image": null,
+    "pushedAt": "2026-11-11T15:38:13.687Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/india-simplifies-visa-rules-to-draw-more-foreign-visitors",
+    "title": "India Simplifies Visa Rules to Draw More Foreign Visitors",
+    "titleZh": "印度簡化簽證規則以吸引更多外國遊客",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/india-simplifies-visa-rules-to-draw-more-foreign-visitors",
+    "image": null,
+    "pushedAt": "2026-11-11T15:38:18.282Z"
   }
 ]
