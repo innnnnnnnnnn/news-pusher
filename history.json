@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/fqlc6uthp",
-    "title": "Branching Beyond Leonardo",
-    "titleZh": "超越萊昂納多",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/fqlc6uthp?ref=rss",
-    "image": "https://cdn.flipso.com/p/fqlc6uthp_square.jpg",
-    "pushedAt": "2026-11-11T05:55:52.070Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
     "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
     "titleZh": "中國將暫停對美國加徵24%關稅延長至1月，維持10%關稅",
@@ -4281,7 +4272,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-11T04:58:21.341Z"
+    "pushedAt": "2026-11-11T06:59:22.483Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
@@ -5082,7 +5073,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
     "image": null,
-    "pushedAt": "2026-11-11T04:59:13.859Z"
+    "pushedAt": "2026-11-11T06:59:47.706Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/south-korean-battery-makers-face-greater-scrutiny-in-hungary",
     "image": null,
     "pushedAt": "2026-11-11T06:58:54.665Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/nissan-pares-car-sales-forecast-on-tougher-china-competition",
+    "title": "Nissan Pares Car Sales Forecast on Tougher China Competition",
+    "titleZh": "由於中國競爭更加激烈，日產汽車下調了汽車銷售預測",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nissan-pares-car-sales-forecast-on-tougher-china-competition",
+    "image": null,
+    "pushedAt": "2026-11-11T07:00:18.536Z"
   }
 ]
