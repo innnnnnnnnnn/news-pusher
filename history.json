@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/podcasts/the-headlines/nvidia-ceo-suspected-chinese-spy-stephen-miller-trump-chief-of-staff.html",
-    "title": "Nvidia C.E.O. Admits Relationship With Suspected Chinese Spy, and Stephen Miller Takes the Reins",
-    "titleZh": "英偉達執行長承認與中國間諜嫌疑犯有關係，米勒接掌大權",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/podcasts/the-headlines/nvidia-ceo-suspected-chinese-spy-stephen-miller-trump-chief-of-staff.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09theheadline001-lpgq/09theheadline001-lpgq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T15:37:57.164Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
     "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
     "titleZh": "卡尼維護加拿大主權並誓言在預算中消除無家可歸現象",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games",
     "image": null,
     "pushedAt": "2026-11-11T13:02:23.051Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
+    "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
+    "titleZh": "英偉達老闆能否安然度過中國間諜爭議？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
+    "image": null,
+    "pushedAt": "2026-11-11T13:02:51.127Z"
   }
 ]
