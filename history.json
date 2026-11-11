@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal",
-    "title": "Bank of England Bailey Backs Trade Opportunities as Burnham Pursues New EU Deal",
-    "titleZh": "在伯納姆尋求新的歐盟協議之際，英格蘭銀行貝利支持貿易機會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal",
-    "image": null,
-    "pushedAt": "2026-11-10T11:30:46.607Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
     "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
     "titleZh": "Anthropic 在 IPO 前推出新的寓言、神話人工智慧模型",
@@ -7152,7 +7143,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/135cc5b6-fd72-4fab-80ef-44f1d02fa1f9",
     "image": null,
-    "pushedAt": "2026-11-11T18:23:51.210Z"
+    "pushedAt": "2026-11-11T20:45:41.991Z"
   },
   {
     "id": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-massie-fkcm/11dc-massie-fkcm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T20:45:12.601Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+    "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+    "titleZh": "俄羅斯駐美大使亞歷山大·達爾切耶夫去世，享年 66 歲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T20:46:10.236Z"
   }
 ]
