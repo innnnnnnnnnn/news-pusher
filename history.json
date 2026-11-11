@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/10ei4s4nb",
-    "title": "The Great Pacific Garbage Patch may be changing the color of the ocean",
-    "titleZh": "太平洋大垃圾帶可能正在改變海洋的顏色",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/10ei4s4nb?ref=rss",
-    "image": "https://cdn.flipso.com/p/10ei4s4nb_square.jpg",
-    "pushedAt": "2026-11-09T21:36:54.881Z"
-  },
-  {
     "id": "https://flipso.com/p/wq2a0tglp",
     "title": "How to Lie with Statistics",
     "titleZh": "如何用統計數據說謊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T11:47:32.358Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+    "title": "$2 Billion Wasn’t Enough to Save Weil Gotshal",
+    "titleZh": "20 億美元不足以拯救 Weil Gotshal",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/business/00Weil-profits-illo/00Weil-profits-illo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T11:48:00.197Z"
   }
 ]
