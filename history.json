@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
-    "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes",
-    "titleZh": "隨著人工智慧交易的顫抖，Marvell-Lumentum 交易的可能性接近硬幣翻轉",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
-    "image": null,
-    "pushedAt": "2026-11-10T07:54:17.432Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
-    "title": "Boeing Will Cut 5% of Commercial Plane Employees",
-    "titleZh": "波音將裁減 5% 的商用飛機員工",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T22:26:13.014Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
     "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
     "titleZh": "民主黨人要求就川普的人工智慧問題給出答案間諜陰謀中的政策",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
     "image": null,
     "pushedAt": "2026-11-11T22:30:33.640Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html",
+    "title": "Building Partially Collapses in Brooklyn, Trapping People",
+    "titleZh": "布魯克林建築物部分倒塌，人員受困",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/lens/BUILD-COLLAPSE/BUILD-COLLAPSE-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T22:31:04.411Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+    "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+    "titleZh": "加那利群島宣布移民進入緊急狀態，塞內加爾附近海難造成數十人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T22:31:07.072Z"
   }
 ]
