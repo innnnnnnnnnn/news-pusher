@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video",
-    "title": "Menlo: Agents Now Drive 80% of Enterprise AI Usage",
-    "titleZh": "Menlo：代理商現在佔企業人工智慧使用量的 80%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video",
-    "image": null,
-    "pushedAt": "2026-11-09T21:23:13.647Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal",
     "title": "Bank of England Bailey Backs Trade Opportunities as Burnham Pursues New EU Deal",
     "titleZh": "在伯納姆尋求新的歐盟協議之際，英格蘭銀行貝利支持貿易機會",
@@ -5100,7 +5091,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-paulson-says-gradual-tightening-seems-appropriate-for-now",
     "image": null,
-    "pushedAt": "2026-11-11T18:23:25.575Z"
+    "pushedAt": "2026-11-11T20:44:44.453Z"
   },
   {
     "id": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/john-kerry-on-the-case-for-clean-energy-video",
     "image": null,
     "pushedAt": "2026-11-11T20:44:16.234Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html",
+    "title": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
+    "titleZh": "赫格斯彈劾投票失敗後，馬西誓言在他的最後日子裡為共和黨投下更艱難的票",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-massie-fkcm/11dc-massie-fkcm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T20:45:12.601Z"
   }
 ]
