@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-    "title": "The future of Trumponomics: compromise or failure",
-    "titleZh": "川普經濟學的未來：妥協還是失敗",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-    "image": null,
-    "pushedAt": "2026-11-10T14:40:26.219Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
     "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
     "titleZh": "進步派反抗他們的政黨並贏得了巨大勝利。他們仍然感到被忽視。",
@@ -1887,7 +1878,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-russia-putin-talks-bgpf/10int-russia-putin-talks-bgpf-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-11T19:35:07.111Z"
+    "pushedAt": "2026-11-11T21:57:26.027Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
@@ -6117,7 +6108,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
     "image": null,
-    "pushedAt": "2026-11-11T19:33:01.937Z"
+    "pushedAt": "2026-11-11T21:56:11.312Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed",
@@ -6126,7 +6117,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed",
     "image": null,
-    "pushedAt": "2026-11-11T19:34:17.369Z"
+    "pushedAt": "2026-11-11T21:57:01.232Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme",
@@ -7296,7 +7287,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f82ba659-9539-4b7a-9716-a915d0445488?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T19:32:36.587Z"
+    "pushedAt": "2026-11-11T21:55:46.167Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
@@ -8187,7 +8178,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-raman-dsa-cwjz/11nat-raman-dsa-cwjz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T19:32:11.077Z"
+    "pushedAt": "2026-11-11T21:55:20.719Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/officials-work-to-speed-up-data-center-grid-connection-video",
@@ -8205,7 +8196,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
     "image": null,
-    "pushedAt": "2026-11-11T19:33:26.607Z"
+    "pushedAt": "2026-11-11T21:56:36.141Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/observing-distortions-in-ai-market-sixth-street-s-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
     "image": null,
     "pushedAt": "2026-11-11T21:54:00.648Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+    "titleZh": "黃仁勳據說與向他報告的 Nvidia 高層有關係",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T21:57:54.965Z"
   }
 ]
