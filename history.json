@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spying-probe-raises-thorny-questions-for-its-ceo-video",
-    "title": "Nvidia Spying Probe Raises Thorny Questions For Its Rockstar CEO",
-    "titleZh": "Nvidia 間諜調查向其執行長提出棘手問題（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spying-probe-raises-thorny-questions-for-its-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-09T19:37:15.456Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video",
-    "title": "AI Theme Intact, But Market Cycle Has Changed: Thomas",
-    "titleZh": "人工智慧主題完好無損，但市場週期已經改變：托馬斯",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video",
-    "image": null,
-    "pushedAt": "2026-11-09T19:38:52.321Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
     "title": "Ecopetrol Sells $2 Billion Bonds in First Offering in Two Years",
     "titleZh": "Ecopetrol 兩年來首次涉足債券市場",
@@ -6324,7 +6306,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
     "image": null,
-    "pushedAt": "2026-11-11T16:44:15.382Z"
+    "pushedAt": "2026-11-11T19:04:38.174Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
@@ -6333,7 +6315,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
     "image": null,
-    "pushedAt": "2026-11-11T16:44:39.966Z"
+    "pushedAt": "2026-11-11T19:05:03.152Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
@@ -6342,7 +6324,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
     "image": null,
-    "pushedAt": "2026-11-11T16:45:05.214Z"
+    "pushedAt": "2026-11-11T19:05:28.545Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/05/asia-bulletin-newsletter-pushing-back-against-populism-in-australia-and-new-zealand",
@@ -6351,7 +6333,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/05/asia-bulletin-newsletter-pushing-back-against-populism-in-australia-and-new-zealand",
     "image": null,
-    "pushedAt": "2026-11-11T16:45:30.116Z"
+    "pushedAt": "2026-11-11T19:05:53.834Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
@@ -6360,7 +6342,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T16:45:54.737Z"
+    "pushedAt": "2026-11-11T19:06:19.132Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-11/anticipate-some-defense-deals-pausing-antenucci-video",
     "image": null,
     "pushedAt": "2026-11-11T19:04:10.575Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-china-scandal-demands-answers-says-congressman-video",
+    "title": "Nvidia China Scandal Demands Answers, Says Congressman",
+    "titleZh": "國會議員表示，英偉達中國醜聞需要答案",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-china-scandal-demands-answers-says-congressman-video",
+    "image": null,
+    "pushedAt": "2026-11-11T19:06:46.064Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/google-adds-gemini-voice-ai-assistant-to-apple-carplay",
+    "title": "Google Adds Gemini Voice AI Assistant to Apple CarPlay",
+    "titleZh": "Google在 Apple CarPlay 中加入 Gemini 語音人工智慧助手",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/google-adds-gemini-voice-ai-assistant-to-apple-carplay",
+    "image": null,
+    "pushedAt": "2026-11-11T19:06:49.811Z"
   }
 ]
