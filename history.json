@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-    "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
-    "titleZh": "隨著雙方都尋求新的限制，兩黨對以色列的支持也逐漸減弱",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T11:18:08.457Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
     "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
     "titleZh": "質疑基督復活的牧師勞埃德·基林 (Lloyd Geering) 去世，享年 108 歲",
@@ -7575,7 +7566,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/be14d41e-f209-4423-8838-5b378981939b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T09:33:44.050Z"
+    "pushedAt": "2026-11-11T11:40:28.411Z"
   },
   {
     "id": "https://www.ft.com/content/1b40f4ea-d44b-4587-9326-8a98c9aad166",
@@ -7584,7 +7575,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1b40f4ea-d44b-4587-9326-8a98c9aad166?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T09:34:07.648Z"
+    "pushedAt": "2026-11-11T11:40:52.005Z"
   },
   {
     "id": "https://www.ft.com/content/85795c79-737f-4eea-b766-b0e4926e6ee2",
@@ -7593,7 +7584,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/85795c79-737f-4eea-b766-b0e4926e6ee2",
     "image": null,
-    "pushedAt": "2026-11-11T09:34:31.598Z"
+    "pushedAt": "2026-11-11T11:41:16.024Z"
   },
   {
     "id": "https://www.ft.com/video/ab1f8ebe-6db2-439c-bc65-7293523a795d",
@@ -7611,7 +7602,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6051d81d-7c17-4b65-a837-94eef0e42a37?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T09:34:55.508Z"
+    "pushedAt": "2026-11-11T11:41:39.857Z"
   },
   {
     "id": "https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6",
@@ -7620,7 +7611,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27420ddb-3072-4311-b50d-8ed9ecb122a5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T09:35:18.923Z"
+    "pushedAt": "2026-11-11T11:42:03.980Z"
   },
   {
     "id": "https://www.ft.com/content/1c3e9030-51e6-49f2-8203-2e7a53f710c8",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-doubts-collide-with-anthropic-s-mega-ipo",
     "image": null,
     "pushedAt": "2026-11-11T11:40:01.743Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-aganga-on-ai-markets-and-inflation-video",
+    "title": "Citi’s Aganga on AI, Markets and Inflation",
+    "titleZh": "花旗關於人工智慧、市場和通貨膨脹的 Aganga",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-aganga-on-ai-markets-and-inflation-video",
+    "image": null,
+    "pushedAt": "2026-11-11T11:42:30.887Z"
   }
 ]
