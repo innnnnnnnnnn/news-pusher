@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/who-could-replace-nvidia-s-ceo-jensen-huang-video",
-    "title": "Who Could Replace Nvidia's CEO Jensen Huang?",
-    "titleZh": "誰能取代英偉達執行長黃仁勳？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/who-could-replace-nvidia-s-ceo-jensen-huang-video",
-    "image": null,
-    "pushedAt": "2026-11-10T02:14:16.037Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/google-rolls-out-new-ai-chips-to-challenge-nvidia-video",
     "title": "Google Rolls Out New AI Chips to Challenge Nvidia",
     "titleZh": "谷歌推出新人工智慧晶片挑戰英偉達",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-ms-senate-colom-nyt-pczh/11nat-ms-senate-colom-nyt-pczh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T23:10:41.353Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
+    "title": "We Are Probably Overbuilding Data Centers: Gary Marcus",
+    "titleZh": "我們可能過度建造資料中心：Gary Marcus",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
+    "image": null,
+    "pushedAt": "2026-11-11T23:11:13.193Z"
   }
 ]
