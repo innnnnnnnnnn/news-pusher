@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
-    "title": "How Indispensable Is Jensen Huang?",
-    "titleZh": "黃仁勳有多不可或缺？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:21:38.236Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
     "title": "French Government Boosts Minimum Wage in Response to Protests",
     "titleZh": "法國政府提高最低工資以應對抗議",
@@ -987,7 +978,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T13:07:46.768Z"
+    "pushedAt": "2026-11-11T15:35:27.512Z"
   },
   {
     "id": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f",
@@ -7440,7 +7431,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/412c9ea6-c54a-4520-879b-10c32992cf6b",
     "image": null,
-    "pushedAt": "2026-11-11T13:07:22.791Z"
+    "pushedAt": "2026-11-11T15:35:02.051Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
@@ -7755,7 +7746,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/german-economy-on-the-mend-though-reforms-needed-nagel-says",
     "image": null,
-    "pushedAt": "2026-11-11T13:08:10.473Z"
+    "pushedAt": "2026-11-11T15:35:52.015Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
@@ -8664,7 +8655,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire",
     "image": null,
-    "pushedAt": "2026-11-11T13:08:37.090Z"
+    "pushedAt": "2026-11-11T15:36:16.943Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/ai-malaise-midterms-cloud-2027-profits-after-blowout-quarter",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-books-120-000-tons-of-french-wheat-as-global-prices-slump",
     "image": null,
     "pushedAt": "2026-11-11T15:34:34.465Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+    "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+    "titleZh": "西班牙工人14年來首次舉行總罷工",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-hcqm/11int-spain-strike-hcqm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T15:36:48.629Z"
   }
 ]
