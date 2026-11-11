@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/004c0408-c81f-4104-a514-ed307df8890d",
-    "title": "Politicians, voters really don’t care about your broad statistics",
-    "titleZh": "政治人物、選民真的不關心你的廣泛統計數據",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/004c0408-c81f-4104-a514-ed307df8890d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T10:59:06.877Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/us/politics/rubio-warned-officials-about-nvidia-chiefs-entanglement-with-chinese-spy.html",
     "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
     "titleZh": "盧比歐警告官員有關英偉達執行長與中國間諜的糾葛",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-la-crash/10xp-la-crash-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T03:38:03.833Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
+    "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
+    "titleZh": "秘魯機場走私者襪子中發現超過3000隻狼蛛",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-spiders-04-wvlf/08xp-spiders-04-wvlf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T03:38:33.718Z"
   }
 ]
