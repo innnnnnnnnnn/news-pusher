@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9d86b87e-52b7-4754-b8b5-0f4da222ec44",
-    "title": "Estonia accuses Russia of state-sponsored terrorism over hybrid attacks",
-    "titleZh": "愛沙尼亞指責俄羅斯因混合攻擊而實施國家支持的恐怖主義",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9d86b87e-52b7-4754-b8b5-0f4da222ec44?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-09T13:42:01.431Z"
-  },
-  {
     "id": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a",
     "title": "Russian military turns to deepfake videos to claim battlefield success",
     "titleZh": "俄羅斯軍方利用深度偽造影片宣稱戰場成功",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/csg-cuts-full-year-margin-outlook-as-revenue-misses-estimates",
     "image": null,
     "pushedAt": "2026-11-11T08:12:11.843Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
+    "title": "Transcript of an interview with Klaas Knot",
+    "titleZh": "克拉斯·諾特訪談紀錄",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
+    "image": null,
+    "pushedAt": "2026-11-11T08:12:40.828Z"
   }
 ]
