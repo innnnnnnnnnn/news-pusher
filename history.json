@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/alice-huang-suspected-china-spy-spent-years-in-nvidia-s-orbit",
-    "title": "Alice Huang, Suspected China Spy, Spent Years in Nvidia’s Orbit",
-    "titleZh": "涉嫌中國間諜的 Alice Huang 在 Nvidia 的軌道上度過了數年",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/alice-huang-suspected-china-spy-spent-years-in-nvidia-s-orbit",
-    "image": null,
-    "pushedAt": "2026-11-09T14:51:22.320Z"
-  },
-  {
-    "id": "https://flipso.com/p/3ai3m0be5",
-    "title": "How 3M Executives Convinced a Scientist the Forever Chemicals She Found in Human Blood…",
-    "titleZh": "3M 高層如何讓科學家相信她在人體血液中發現的永久化學物質…",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/3ai3m0be5?ref=rss",
-    "image": "https://cdn.flipso.com/p/3ai3m0be5_square.jpg",
-    "pushedAt": "2026-11-10T03:08:49.559Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-s-affair-sparks-nvidia-crisis-video",
     "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
     "titleZh": "黃仁勳事件引發英偉達危機",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
     "image": null,
     "pushedAt": "2026-11-11T12:08:04.411Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e2dddfd8-ec70-44dc-8efc-07576c659599",
+    "title": "We need to test drugs on newborns despite the risks",
+    "titleZh": "儘管有風險，我們仍需要對新生兒進行藥物測試",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e2dddfd8-ec70-44dc-8efc-07576c659599?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T12:08:31.919Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f82ba659-9539-4b7a-9716-a915d0445488",
+    "title": "The problem with the COP31 electrification goal",
+    "titleZh": "COP31電氣化目標的問題",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f82ba659-9539-4b7a-9716-a915d0445488?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-11T12:08:36.372Z"
   }
 ]
