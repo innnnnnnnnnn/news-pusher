@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/hegseth-impeachment-massie.html",
-    "title": "Massie Calls Up Impeachment Charges Against Hegseth",
-    "titleZh": "馬西呼籲對赫格斯提出彈劾指控",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/hegseth-impeachment-massie.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-hegseth-zkvt/09dc-hegseth-zkvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-09T20:19:33.824Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-09/barrick-gold-revisits-fourmile-gold-deposit-plans-study-deadline-uncertain",
     "title": "Barrick (GOLD) Revisits Fourmile Gold Deposit Plans, Study Deadline Uncertain",
     "titleZh": "巴里克（黃金）重新審視四英里黃金存款計劃，研究截止日期不確定",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-11T22:31:37.067Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+    "title": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
+    "titleZh": "英國法院將特立尼達和多巴哥的同性關係非刑事化",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-trinidad-law-pfvw/11int-trinidad-law-pfvw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-11T22:32:08.726Z"
   }
 ]
