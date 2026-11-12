@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/everybody-will-be-hacked-at-some-point-ledger-ceo-video",
-    "title": "Everybody Will Be Hacked At Some Point: Ledger CEO",
-    "titleZh": "Ledger 執行長：每個人都會在某個時候被駭客攻擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/everybody-will-be-hacked-at-some-point-ledger-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-11T00:37:21.064Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
     "title": "American workers face a surge in health costs",
     "titleZh": "美國工人面臨醫療費用激增",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/former-prosecutor-breaks-down-nvidia-s-legal-exposure-video",
     "image": null,
     "pushedAt": "2026-11-12T18:30:50.300Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+    "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+    "titleZh": "美國士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T18:31:18.331Z"
   }
 ]
