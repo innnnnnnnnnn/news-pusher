@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
-    "title": "Peloton Draws $6.8 Billion of Demand for Debut Junk-Bond Sale",
-    "titleZh": "Peloton 首次發行垃圾債券吸引了 68 億美元的需求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
-    "image": null,
-    "pushedAt": "2026-11-10T19:35:37.230Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
     "title": "What Trump Said in His Letter to Biden in 2021",
     "titleZh": "川普在 2021 年的一封信中告訴拜登，“我知道你有多愛美國人民”",
@@ -888,7 +879,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/tt59o4pkq?ref=rss",
     "image": "https://cdn.flipso.com/p/tt59o4pkq_square.jpg",
-    "pushedAt": "2026-11-12T12:51:16.276Z"
+    "pushedAt": "2026-11-12T15:29:44.266Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium",
@@ -6126,7 +6117,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/galp83x2o?ref=rss",
     "image": "https://cdn.flipso.com/p/galp83x2o_square.jpg",
-    "pushedAt": "2026-11-12T12:50:51.708Z"
+    "pushedAt": "2026-11-12T15:29:19.004Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/sri-lanka-budget-targets-growth-with-imf-bailout-nearing-end",
@@ -6301,12 +6292,12 @@
   },
   {
     "id": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e",
-    "title": "Nvidia shares slide as board considers Huang’s future",
+    "title": "Nvidia shares slide as Huang resigns",
     "titleZh": "英偉達股價在盤後交易暴跌",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T12:51:42.956Z"
+    "pushedAt": "2026-11-12T15:30:09.673Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/quant-sued-by-point72-says-firm-trying-to-keep-his-30-million",
     "image": null,
     "pushedAt": "2026-11-12T15:28:50.976Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+    "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+    "titleZh": "黃仁勳加入不斷壯大的俱樂部：執行長因事務而垮台",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-ousted-ceo-1-fmck/12biz-ousted-ceo-1-fmck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T15:30:38.550Z"
   }
 ]
