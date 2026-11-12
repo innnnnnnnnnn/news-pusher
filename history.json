@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009",
-    "title": "Data says the unsaid about British welfare politics",
-    "titleZh": "數據揭露了英國福利政治未言明的事情",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T04:08:11.738Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
     "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
     "titleZh": "也門胡塞武裝攻擊利雅德 沙烏地阿美石油公司塔受損",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/huang-ousted-by-nvidia-board-as-ceo-closing-bell-video",
     "image": null,
     "pushedAt": "2026-11-12T21:55:13.011Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/australia-s-biggest-pension-fund-mulls-chinese-ai-as-costs-spike",
+    "title": "Australia’s Biggest Pension Fund Mulls Chinese AI as Costs Spike",
+    "titleZh": "成本飆升，澳洲最大退休基金考慮中國人工智慧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/australia-s-biggest-pension-fund-mulls-chinese-ai-as-costs-spike",
+    "image": null,
+    "pushedAt": "2026-11-12T21:56:07.192Z"
   }
 ]
