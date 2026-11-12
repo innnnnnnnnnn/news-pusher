@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-bowman-warns-about-market-downturn-from-ai-bets-video",
-    "title": "Fed's Bowman Warns About Potential Impact of AI Bets Not Panning Out",
-    "titleZh": "聯準會鮑曼警告人工智慧押注未成功的潛在影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-bowman-warns-about-market-downturn-from-ai-bets-video",
-    "image": null,
-    "pushedAt": "2026-11-10T23:59:27.139Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/coreweave-earnings-top-estimates-boosts-annual-forecast-video",
     "title": "CoreWeave Earnings Top Estimates, Boosts Annual Forecast",
     "titleZh": "CoreWeave 獲利高於預期，調高年度預測",
@@ -2796,7 +2787,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
     "image": null,
-    "pushedAt": "2026-11-12T17:30:50.801Z"
+    "pushedAt": "2026-11-12T20:03:47.645Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-ceo-zelnick-ai-wont-kill-gaming-jobs-video",
@@ -4866,7 +4857,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T17:31:17.053Z"
+    "pushedAt": "2026-11-12T20:04:13.449Z"
   },
   {
     "id": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b",
@@ -4875,7 +4866,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T17:32:09.181Z"
+    "pushedAt": "2026-11-12T20:04:38.346Z"
   },
   {
     "id": "https://www.ft.com/content/896af656-09a6-495d-8074-8fd3cffe46be",
@@ -4893,7 +4884,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ec5adc72-8388-483f-95b2-362d9f0e6d66?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T17:32:35.407Z"
+    "pushedAt": "2026-11-12T20:05:03.406Z"
   },
   {
     "id": "https://www.ft.com/content/70b733ec-6cab-41f5-9242-85f7f8916352",
@@ -6522,7 +6513,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T17:33:27.782Z"
+    "pushedAt": "2026-11-12T20:05:54.330Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
@@ -7187,8 +7178,8 @@
     "titleZh": "董事會考慮黃仁勳擔任執行長的未來，英偉達股價暴跌",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-    "image": null,
-    "pushedAt": "2026-11-12T17:33:02.214Z"
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T20:05:29.547Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/arts/television/desi-lydic-democrats-miss-pete-hegseth-impeachment-vote.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/huang-affair-suggests-compromised-objectivity-ashton-video",
     "image": null,
     "pushedAt": "2026-11-12T20:03:18.986Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-traders-see-short-sellers-pile-into-rate-sensitive-stocks",
+    "title": "BofA Traders See Short Sellers Pile Into Rate-Sensitive Stocks",
+    "titleZh": "美國銀行交易員看到賣空者紛紛買進利率敏感股票",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-traders-see-short-sellers-pile-into-rate-sensitive-stocks",
+    "image": null,
+    "pushedAt": "2026-11-12T20:06:22.987Z"
   }
 ]
