@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
-    "title": "A political revolution in Texas",
-    "titleZh": "德克薩斯州的政治革命",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
-    "image": null,
-    "pushedAt": "2026-11-11T23:16:20.237Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-    "title": "Gaza Floods Kill 4",
-    "titleZh": "加薩洪水造成 4 人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-gaza-floods-01-tgqc/10int-gaza-floods-01-tgqc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T12:59:03.328Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
     "title": "Nagel: ECB Rate Hike in December Looks ‘Rather Obvious’ (Video)",
     "titleZh": "內格爾：歐洲央行 12 月升息看起來「相當明顯」（影片）",
@@ -6972,7 +6954,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-12T12:12:16.535Z"
+    "pushedAt": "2026-11-12T14:36:01.347Z"
   },
   {
     "id": "https://www.ft.com/content/64198d59-7a03-4f1c-89c6-81ed8bdc5448",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-hammack-says-more-restrictive-rates-are-needed",
     "image": null,
     "pushedAt": "2026-11-12T14:35:33.514Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
+    "title": "Can anyone fix the China-Japan relationship?",
+    "titleZh": "誰能修復中日關係？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
+    "image": null,
+    "pushedAt": "2026-11-12T14:36:29.204Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
+    "title": "The Japanese region where “eight-testicle women” outdo men",
+    "titleZh": "日本地區「八睪女」勝過男性",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
+    "image": null,
+    "pushedAt": "2026-11-12T14:36:33.664Z"
   }
 ]
