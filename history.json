@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-shouldn-t-do-a-50bps-rate-hike-jpm-s-kelly-says-video",
-    "title": "Fed Shouldn’t Do a 50Bps Rate Hike, JPM’s Kelly Says",
-    "titleZh": "摩根大通的凱利表示，聯準會不應升息 50 個基點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-shouldn-t-do-a-50bps-rate-hike-jpm-s-kelly-says-video",
-    "image": null,
-    "pushedAt": "2026-11-10T14:08:26.792Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/ship-carrying-russian-diesel-makes-u-turn-after-heading-to-us",
     "title": "Ship Carrying Russian Diesel Makes U-Turn After Heading to US",
     "titleZh": "載有俄羅斯柴油的船在前往美國後掉頭",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/hubspot-replaces-ceo-and-cfo-in-refounding-of-software-company",
     "image": null,
     "pushedAt": "2026-11-12T13:09:01.719Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
+    "title": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
+    "titleZh": "馬來西亞前總理納吉布·拉扎克被釋放軟禁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-malaysia-najib-01-vpcq/10int-malaysia-najib-01-vpcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T13:09:30.710Z"
   }
 ]
