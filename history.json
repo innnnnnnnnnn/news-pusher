@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/baltic-exchange-s-oil-benchmark-td3c-described-as-complete-nonsense",
-    "title": "Baltic Exchange's Oil Benchmark TD3C Described as `Complete Nonsense'",
-    "titleZh": "波羅的海交易所石油基準TD3C被描述為“完全是無稽之談”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/baltic-exchange-s-oil-benchmark-td3c-described-as-complete-nonsense",
-    "image": null,
-    "pushedAt": "2026-11-10T02:30:36.356Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
-    "title": "The Evening: Fallout From Nvidia Revelations Continues",
-    "titleZh": "晚間：英偉達爆料事件的影響仍在持續",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09evening-nl-nvidia-pqtg/09evening-nl-nvidia-pqtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T04:50:33.950Z"
-  },
-  {
     "id": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9",
     "title": "Trump’s Board of Peace warns of ‘immediate humanitarian emergency’ in Gaza",
     "titleZh": "川普和平委員會警告加薩“緊急人道主義緊急情況”",
@@ -7170,7 +7152,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams",
     "image": null,
-    "pushedAt": "2026-11-11T22:55:14.734Z"
+    "pushedAt": "2026-11-12T01:22:34.361Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/india-simplifies-visa-rules-to-draw-more-foreign-visitors",
@@ -8497,12 +8479,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
-    "title": "Nvidia’s Board Is Expected to Meet to Discuss Jensen Huang’s Future",
+    "title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
     "titleZh": "英偉達董事會預計將開會討論黃仁勳的未來",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T22:55:42.976Z"
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-12T01:22:59.051Z"
   },
   {
     "id": "https://flipso.com/p/5eeux1z7u",
@@ -8511,7 +8493,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/5eeux1z7u?ref=rss",
     "image": "https://cdn.flipso.com/p/5eeux1z7u_square.jpg",
-    "pushedAt": "2026-11-11T22:56:13.780Z"
+    "pushedAt": "2026-11-12T01:23:23.075Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
@@ -8520,7 +8502,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
     "image": null,
-    "pushedAt": "2026-11-11T22:56:43.001Z"
+    "pushedAt": "2026-11-12T01:23:46.326Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
     "pushedAt": "2026-11-12T01:18:49.914Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
+    "title": "Long US Bonds Reopen With Gains as Risk Sentiment Sours Again",
+    "titleZh": "由於風險情緒再次惡化，美國債券多頭重新開放並上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
+    "image": null,
+    "pushedAt": "2026-11-12T01:24:13.592Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
+    "title": "India’s BEML to Build Tunneling Machines to Cut China Reliance",
+    "titleZh": "印度BEML將製造隧道機械以減少對中國的依賴",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
+    "image": null,
+    "pushedAt": "2026-11-12T01:24:19.980Z"
   }
 ]
