@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss",
-    "title": "SoftBank Shares Fluctuate After $7 Billion Loss on Writedown",
-    "titleZh": "軟銀集團股價下跌 10% 虧損 70 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss",
-    "image": null,
-    "pushedAt": "2026-11-11T07:37:10.482Z"
-  },
-  {
     "id": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e",
     "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
     "titleZh": "人性銀行家準備將 IPO 估值提高至 1.5 兆美元或以上",
@@ -6360,7 +6351,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T21:03:11.739Z"
+    "pushedAt": "2026-11-12T23:27:19.977Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
@@ -8637,7 +8628,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T21:02:43.224Z"
+    "pushedAt": "2026-11-12T23:26:56.015Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/zelenskyy-hails-progress-after-witkoff-kushner-meet-putin",
     "image": null,
     "pushedAt": "2026-11-12T23:26:29.248Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff",
+    "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+    "titleZh": "投資人稱，即使黃仁勳退出，人工智慧熱潮仍將提振英偉達",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T23:27:46.974Z"
   }
 ]
