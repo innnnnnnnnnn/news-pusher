@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
-    "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-    "titleZh": "伊斯蘭武裝分子襲擊迫使患者逃離剛果伊波拉診所",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T04:41:11.758Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
     "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
     "titleZh": "必勝客計劃出售 10 億美元債券為其收購提供資金",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
     "image": null,
     "pushedAt": "2026-11-12T16:57:42.151Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+    "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
+    "titleZh": "Nvidia 聘請 Wachtell Lipton 調查執行長黃仁勳與中國高管之間的風流韻事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Nvidia-Wachtell-01-tpgl/10biz-Nvidia-Wachtell-01-tpgl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T16:58:11.152Z"
   }
 ]
