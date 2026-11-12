@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/quluq2tto",
-    "title": "Rebecca West’s Nightingale",
-    "titleZh": "麗貝卡·韋斯特的夜鶯",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/quluq2tto?ref=rss",
-    "image": "https://cdn.flipso.com/p/quluq2tto_square.jpg",
-    "pushedAt": "2026-11-11T15:08:07.735Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
     "title": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
     "titleZh": "億萬富翁稅收打擊失敗對進步議程的打擊",
@@ -1131,7 +1122,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T11:58:23.681Z"
+    "pushedAt": "2026-11-12T14:18:44.034Z"
   },
   {
     "id": "https://www.ft.com/content/798a6321-41e3-407b-9b6d-e4521111208d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ea6c8ce6-3144-4554-ab41-c752d1dad49e?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T14:18:16.052Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+    "titleZh": "接替黃仁勳的 Nvidia 臨時執行長 Colette Kress 是誰？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T14:19:13.387Z"
   }
 ]
