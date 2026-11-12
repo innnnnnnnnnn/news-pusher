@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f53c5923-29b1-4ec8-963a-6fb57c000588",
-    "title": "Singapore seizes ‘forever’ cruise ship that dumped passengers in Cambodia",
-    "titleZh": "新加坡扣押了在柬埔寨拋棄乘客的「永遠」遊輪",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f53c5923-29b1-4ec8-963a-6fb57c000588?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T05:02:21.507Z"
-  },
-  {
     "id": "https://www.ft.com/content/240200e9-7a33-49a9-9801-ef92b4af22db",
     "title": "French supermarket cyber attack delivers chilling warning to Britain",
     "titleZh": "法國超市網路攻擊向英國發出令人不寒而慄的警告",
@@ -5262,7 +5253,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-ukraine-russia-talks-vfqh/09int-ukraine-russia-talks-vfqh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:20:50.211Z"
+    "pushedAt": "2026-11-12T08:36:31.745Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-stocks-face-tug-of-war-as-anthropic-coreweave-lift-hopes",
@@ -6153,7 +6144,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-biden-topart-01-qkbf/11xp-biden-topart-01-qkbf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:20:26.810Z"
+    "pushedAt": "2026-11-12T08:36:07.972Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/aging-boomers-are-key-factor-supporting-corporate-bond-market",
@@ -7881,7 +7872,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:20:01.766Z"
+    "pushedAt": "2026-11-12T08:35:44.247Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T08:35:17.518Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/drone-startup-uforce-valued-at-6-billion-with-uk-wealth-fund-backing",
+    "title": "Drone Startup Uforce Valued at $6 Billion With UK Wealth Fund Backing",
+    "titleZh": "無人機新創公司 Uforce 獲得英國財富基金支持，估值達 60 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/drone-startup-uforce-valued-at-6-billion-with-uk-wealth-fund-backing",
+    "image": null,
+    "pushedAt": "2026-11-12T08:36:58.248Z"
   }
 ]
