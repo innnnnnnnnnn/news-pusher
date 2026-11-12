@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
-    "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
-    "titleZh": "人工智慧.應該是來找我們的工作的。到目前為止，證據好壞參半。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-ai-kfjv/06biz-jobs-report-ai-kfjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T17:24:51.384Z"
-  },
-  {
     "id": "https://flipso.com/p/p3hcpjs4n",
     "title": "The lost medieval habit of biphasic sleep",
     "titleZh": "中世紀失去的雙相睡眠習慣",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-turkey-cop-01-bjkt/10int-turkey-cop-01-bjkt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T09:03:04.447Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+    "title": "As Fresh Air Becomes a Luxury, Many Indonesians Turn on Their Leader",
+    "titleZh": "隨著新鮮空氣成為一種奢侈品，許多印尼人開始攻擊他們的領導人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T09:03:31.036Z"
   }
 ]
