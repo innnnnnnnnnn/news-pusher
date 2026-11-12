@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/it-looks-like-higher-rates-are-on-the-way",
-    "title": "It Looks Like Higher Rates Are on the Way",
-    "titleZh": "看來更高的利率即將到來",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/it-looks-like-higher-rates-are-on-the-way",
-    "image": null,
-    "pushedAt": "2026-11-10T23:26:51.385Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
     "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
     "titleZh": "薩摩亞廚師將家鄉風味帶入紐西蘭美食界",
@@ -4938,7 +4929,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/yen-hovers-near-key-160-level-fueling-intervention-concerns",
     "image": null,
-    "pushedAt": "2026-11-12T17:02:14.050Z"
+    "pushedAt": "2026-11-12T19:35:25.899Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/japan-s-fx-chief-warns-against-forgetting-summer-intervention",
@@ -7651,12 +7642,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
-    "title": "5 Shot in Washington D.C.’s Logan Circle Neighborhood",
+    "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
     "titleZh": "官員稱，華盛頓特區有多人被槍殺",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T17:02:40.486Z"
+    "pushedAt": "2026-11-12T19:35:52.119Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-o-connor-video",
     "image": null,
     "pushedAt": "2026-11-12T19:34:57.824Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/daly-says-more-fed-rates-hikes-likely-needed-video",
+    "title": "Daly Says More Fed Rates Hikes Likely Needed",
+    "titleZh": "戴利表示聯準會可能需要進一步升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/daly-says-more-fed-rates-hikes-likely-needed-video",
+    "image": null,
+    "pushedAt": "2026-11-12T19:36:21.498Z"
   }
 ]
