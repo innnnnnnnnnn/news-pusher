@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
-    "title": "China Water Environment Seeks $410 Million Loan Restructuring",
-    "titleZh": "中國水環境尋求4.1億美元貸款重組",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
-    "image": null,
-    "pushedAt": "2026-11-10T04:38:20.048Z"
-  },
-  {
     "id": "https://www.ft.com/content/5f2aab2e-9c12-4aa1-a628-b6d021a07fd7",
     "title": "Honda pins growth hopes on hybrids with $3bn US investment",
     "titleZh": "本田投資 30 億美元寄望於混合動力車",
@@ -4416,7 +4407,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
     "image": null,
-    "pushedAt": "2026-11-12T01:49:30.779Z"
+    "pushedAt": "2026-11-12T04:02:03.077Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/japan-5-year-bond-sale-sees-firmer-demand-than-12-month-average-mwd011h1",
     "image": null,
     "pushedAt": "2026-11-12T03:56:01.277Z"
+  },
+  {
+    "id": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html",
+    "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+    "titleZh": "關於英偉達對執行長黃仁勳的調查你需要了解什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nvidia-what-we-know-gbfm/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T04:02:29.393Z"
   }
 ]
