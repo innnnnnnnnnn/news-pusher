@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-    "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-    "titleZh": "也門胡塞武裝攻擊利雅德 沙烏地阿美石油公司塔受損",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T18:24:41.035Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
     "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
     "titleZh": "眾議員瑪麗亞·埃爾維拉·薩拉查在佛羅裡達州贏得連任",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/australia-s-biggest-pension-fund-mulls-chinese-ai-as-costs-spike",
     "image": null,
     "pushedAt": "2026-11-12T21:56:07.192Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+    "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+    "titleZh": "Outlook、Teams 和更多 Microsoft 程式因中斷而中斷",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T21:56:36.868Z"
   }
 ]
