@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
-    "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
-    "titleZh": "歐洲國家再次推動將移民驅逐到盧安達",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-europe-rwanda-01-btpj/05int-europe-rwanda-01-btpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:48:36.618Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
     "title": "Strong Hiring Reinforces a Sturdy Job Market",
     "titleZh": "強勁的招募鞏固了就業市場的穩健",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video",
     "image": null,
     "pushedAt": "2026-11-12T02:34:43.723Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+    "titleZh": "埃克森美孚達成重返委內瑞拉的初步協議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-exxon-venezuela-vbpj/00biz-exxon-venezuela-vbpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T02:35:11.182Z"
   }
 ]
