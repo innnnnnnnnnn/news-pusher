@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
-    "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
-    "titleZh": "川普的幕僚長蘇西·懷爾斯被指控阻礙健康政策以吸引捐款",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:05:33.637Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
-    "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
-    "titleZh": "被指控性行為不端的英國藝人大衛威廉斯是誰？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-walliams-fvzg/00xp-walliams-fvzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:31:32.604Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
-    "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
-    "titleZh": "英國名人大衛威廉斯被指控性行為不端",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:31:56.353Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
     "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
     "titleZh": "以色列新議會召開，但政府尚未出現",
@@ -3759,7 +3732,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/qompjwyvu?ref=rss",
     "image": "https://cdn.flipso.com/p/qompjwyvu_square.jpg",
-    "pushedAt": "2026-11-12T08:59:26.208Z"
+    "pushedAt": "2026-11-12T11:29:26.941Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/presight-ceo-long-standing-ties-with-us-tech-firms-video",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/musk-phases-out-tesla-tsla-cybertruck-for-ai-cybercab-as-drivers-resist",
     "image": null,
     "pushedAt": "2026-11-12T11:28:57.783Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
+    "title": "The return of the snatch-and-grab state",
+    "titleZh": "搶奪狀態的回歸",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
+    "image": null,
+    "pushedAt": "2026-11-12T11:29:53.889Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+    "title": "Where to find the anti-AI trade",
+    "titleZh": "哪裡可以找到反人工智慧交易",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-12T11:29:57.978Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
+    "title": "Italy’s proposed exit tax causes ructions",
+    "titleZh": "義大利擬徵收退出稅引發爭議",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
+    "image": null,
+    "pushedAt": "2026-11-12T11:30:04.539Z"
   }
 ]
