@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
-    "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
-    "titleZh": "澳洲推出新的人工智慧OpenAI 違規後的監管機構",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T08:18:21.672Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
     "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
     "titleZh": "坦尚尼亞反對黨領袖四年徒刑",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
     "image": null,
     "pushedAt": "2026-11-12T10:08:25.908Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+    "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+    "titleZh": "五角大廈審查駐軍人數，駐歐洲美軍面臨不確定性",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:08:52.497Z"
   }
 ]
