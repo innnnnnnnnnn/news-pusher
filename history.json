@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-faces-fresh-us-scrutiny-on-megaspeed-probe-video",
-    "title": "Nvidia Faces Fresh US Scrutiny on Megaspeed Probe",
-    "titleZh": "Nvidia 面臨美國對 Megaspeed 探測器的新審查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-faces-fresh-us-scrutiny-on-megaspeed-probe-video",
-    "image": null,
-    "pushedAt": "2026-11-10T17:27:20.900Z"
-  },
-  {
     "id": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89",
     "title": "The UK’s inflation problem",
     "titleZh": "英國通膨問題",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T11:09:35.692Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+    "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+    "titleZh": "Anthropic 的重磅 IPO 目標估值高達 1.4 兆美元",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T11:10:07.350Z"
   }
 ]
