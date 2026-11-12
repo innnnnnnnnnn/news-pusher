@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
-    "title": "Inflation and interest rates tracker: see how your country compares",
-    "titleZh": "通貨膨脹和利率追蹤器：了解您所在國家/地區的比較情況",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T10:42:43.230Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/rare-earth-strategic-metals-price-gap-flags-supply-strains-trump-xi-meet",
     "title": "Rare Earth Price Gap Flags Supply Strains Ahead of Trump-Xi Meet",
     "titleZh": "特習會前稀土價格差距預示供應緊張",
@@ -4875,7 +4866,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
     "image": null,
-    "pushedAt": "2026-11-12T03:32:04.852Z"
+    "pushedAt": "2026-11-12T05:48:35.134Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-11/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
@@ -6981,7 +6972,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
     "image": null,
-    "pushedAt": "2026-11-12T03:32:28.417Z"
+    "pushedAt": "2026-11-12T05:48:58.865Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
@@ -8484,7 +8475,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/what-could-come-next-after-huang-s-ouster-video",
     "image": null,
-    "pushedAt": "2026-11-12T03:32:53.781Z"
+    "pushedAt": "2026-11-12T05:49:22.636Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/why-bernstein-downgraded-nvidia-stock-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/key-modi-ally-on-india-youth-anger-and-ai-push-video",
     "image": null,
     "pushedAt": "2026-11-12T05:48:08.667Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+    "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+    "titleZh": "科技巨頭以 85 億美元估值投資德國機器人新創企業",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T05:49:50.767Z"
   }
 ]
