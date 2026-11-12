@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/db3cku60s",
-    "title": "How Many People Work From Home?",
-    "titleZh": "有多少人在家工作？",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/db3cku60s?ref=rss",
-    "image": "https://cdn.flipso.com/p/db3cku60s_square.jpg",
-    "pushedAt": "2026-11-12T05:01:47.414Z"
-  },
-  {
     "id": "https://flipso.com/p/aoc8g8ycu",
     "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall",
     "titleZh": "超越生存極限：木蟻陷入巨大陷阱",
@@ -3543,7 +3534,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
     "image": null,
-    "pushedAt": "2026-11-12T03:19:45.453Z"
+    "pushedAt": "2026-11-12T05:35:49.915Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
@@ -3552,7 +3543,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
     "image": null,
-    "pushedAt": "2026-11-12T03:20:57.213Z"
+    "pushedAt": "2026-11-12T05:36:39.041Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
@@ -3561,7 +3552,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
     "image": null,
-    "pushedAt": "2026-11-12T03:21:20.719Z"
+    "pushedAt": "2026-11-12T05:37:03.954Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
@@ -7782,7 +7773,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-12T03:20:33.633Z"
+    "pushedAt": "2026-11-12T05:36:13.464Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T05:32:33.992Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html",
+    "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
+    "titleZh": "士兵在無名烈士墓前向赫格斯大喊以示“敬意”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-12T05:37:27.669Z"
   }
 ]
