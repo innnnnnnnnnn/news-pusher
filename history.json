@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-    "title": "What Trump Said in His Letter to Biden in 2021",
-    "titleZh": "川普在 2021 年的一封信中告訴拜登，“我知道你有多愛美國人民”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-biden-pbcg/10dc-biden-pbcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:04:21.878Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html",
     "title": "In Midterm Elections, Voters Backed Democrats but Broke Right on Many Ballot Measures",
     "titleZh": "在中期選舉中，選民支持民主黨，但在許多選票措施上右傾",
@@ -3876,7 +3867,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-12T12:52:56.056Z"
+    "pushedAt": "2026-11-12T15:31:59.009Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
@@ -5603,8 +5594,8 @@
     "titleZh": "黃仁勳與公司高層有染後，英偉達董事會召開會議",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdcf223ee-3569-4653-b92d-851f7ced6f09.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T12:52:07.273Z"
+    "image": null,
+    "pushedAt": "2026-11-12T15:31:07.820Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
@@ -5613,7 +5604,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T12:52:31.760Z"
+    "pushedAt": "2026-11-12T15:31:32.712Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/zocdoc-brings-ai-to-healthcare-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-ousted-ceo-1-fmck/12biz-ousted-ceo-1-fmck-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T15:30:38.550Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+    "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+    "titleZh": "川普表示，他將讓萬斯退出伊朗談判，以專注於詐欺活動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T15:32:26.259Z"
   }
 ]
