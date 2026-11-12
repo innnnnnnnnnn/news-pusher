@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
-    "title": "Lessons from a miserable month for hedge funds",
-    "titleZh": "對沖基金悲慘一個月的教訓",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
-    "image": null,
-    "pushedAt": "2026-11-12T17:29:35.319Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
     "title": "For boomers, economic boom times are over",
     "titleZh": "對於嬰兒潮世代來說，經濟繁榮時期已經結束",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ef151433-c522-44e8-b735-38548341b5a0?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T19:27:26.294Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+    "title": "No Good Choices on Iran",
+    "titleZh": "對伊朗沒有好的選擇",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/11int-theworld-iran-options-01-promo/11int-theworld-iran-options-01-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T19:27:54.676Z"
   }
 ]
