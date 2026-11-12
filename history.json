@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/sec-fines-cases-plunge-in-trump-era-return-to-basics",
-    "title": "SEC Fines, Cases Plunge in Trump-Era ‘Return to Basics’",
-    "titleZh": "川普時代“回歸基礎”，美國證券交易委員會罰款、案件銳減",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/sec-fines-cases-plunge-in-trump-era-return-to-basics",
-    "image": null,
-    "pushedAt": "2026-11-11T00:12:59.941Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/ai-startup-sierra-is-an-anchor-tenant-for-300-million-bond-deal",
-    "title": "AI Startup Sierra Is an Anchor Tenant for $300 Million Bond Deal",
-    "titleZh": "AI 新創公司 Sierra 成為 3 億美元債券交易的主要租戶",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/ai-startup-sierra-is-an-anchor-tenant-for-300-million-bond-deal",
-    "image": null,
-    "pushedAt": "2026-11-10T21:49:26.475Z"
-  },
-  {
     "id": "https://flipso.com/p/7uvj0p0im",
     "title": "Notes on San Marino",
     "titleZh": "聖馬利諾註釋",
@@ -915,7 +897,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
     "image": null,
-    "pushedAt": "2026-11-12T15:02:26.031Z"
+    "pushedAt": "2026-11-12T17:41:18.746Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
@@ -4776,7 +4758,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
     "image": null,
-    "pushedAt": "2026-11-12T15:03:15.474Z"
+    "pushedAt": "2026-11-12T17:42:11.009Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-deals-11-11-2026-video",
@@ -5586,7 +5568,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-12T15:02:50.825Z"
+    "pushedAt": "2026-11-12T17:41:45.273Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
@@ -7188,7 +7170,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T15:01:36.298Z"
+    "pushedAt": "2026-11-12T17:40:27.626Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
@@ -7791,7 +7773,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/brazilian-inflation-ticks-up-after-lula-s-win-rattles-markets",
     "image": null,
-    "pushedAt": "2026-11-12T15:02:01.100Z"
+    "pushedAt": "2026-11-12T17:40:53.040Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
@@ -8403,7 +8385,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/premature-to-say-ai-trade-in-structural-jeopardy-citi-video",
     "image": null,
-    "pushedAt": "2026-11-12T15:01:08.611Z"
+    "pushedAt": "2026-11-12T17:40:01.902Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/top-bankers-warn-colombia-fiscal-stress-is-squeezing-margins",
     "image": null,
     "pushedAt": "2026-11-12T17:39:31.694Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+    "title": "Will the Supreme Court Thwart Congressional Investigations?",
+    "titleZh": "最高法院會阻止國會調查嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T17:42:39.362Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
+    "title": "We Were Warned of Deceptive A.I. Fakes. We Got Memes.",
+    "titleZh": "我們被警告要警惕人工智慧的欺騙性假貨。我們有模因。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
+    "image": null,
+    "pushedAt": "2026-11-12T17:42:43.327Z"
   }
 ]
