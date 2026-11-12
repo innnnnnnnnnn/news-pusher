@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
-    "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
-    "titleZh": "梅根馬克爾自父親被捕後首次公開露面",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10meghan-promo-wpgm/10meghan-promo-wpgm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:03:38.516Z"
-  },
-  {
     "id": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58",
     "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
     "titleZh": "高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-ousted-as-nvidia-ceo-video",
     "image": null,
     "pushedAt": "2026-11-12T14:10:38.381Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+    "title": "Inside America’s first new submarine base abroad for 53 years",
+    "titleZh": "53年來美國第一個海外新潛艦基地內部",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+    "image": null,
+    "pushedAt": "2026-11-12T14:11:07.212Z"
   }
 ]
