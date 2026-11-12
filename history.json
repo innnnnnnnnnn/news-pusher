@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
-    "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-    "titleZh": "肯亞邪教領袖因大規模謀殺被判 200 年監禁",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/world/africa/kenya-cult-cover-image/kenya-cult-cover-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T12:11:08.778Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/hungary-inflation-accelerates-for-third-month-as-key-rate-steady",
     "title": "Hungary Inflation Accelerates With Rates Seen Staying Steady",
     "titleZh": "關鍵利率穩定，匈牙利通膨連續第三個月加速",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/alibaba-shares-drop-7-as-nvidia-saga-triggers-chip-access-fears",
     "image": null,
     "pushedAt": "2026-11-12T07:18:21.027Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+    "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
+    "titleZh": "肯亞家庭傭工在沙烏地阿拉伯被判處 100 鞭刑",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-12T07:18:48.491Z"
   }
 ]
