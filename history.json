@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6f1a0c67-2f67-4583-b710-498871721ef9",
-    "title": "David Walliams accused of sexual misconduct",
-    "titleZh": "大衛威廉斯被指控性行為不端",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6f1a0c67-2f67-4583-b710-498871721ef9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T03:46:48.414Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/polish-premier-orders-gun-laws-review-after-first-mass-shooting",
-    "title": "Polish Premier Orders Gun Laws Review After First Mass Shooting",
-    "titleZh": "波蘭總理在首次大規模槍擊事件後下令審查槍枝法",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/polish-premier-orders-gun-laws-review-after-first-mass-shooting",
-    "image": null,
-    "pushedAt": "2026-11-10T13:16:49.646Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/global-macro-funds-seen-as-next-positioning-risk-for-us-stocks",
     "title": "Global Macro Funds Seen as Next Positioning Risk for US Stocks",
     "titleZh": "全球宏觀基金被視為美股的下一個定位風險",
@@ -5010,7 +4992,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:28:19.782Z"
+    "pushedAt": "2026-11-12T12:01:59.311Z"
   },
   {
     "id": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c",
@@ -6729,7 +6711,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/yen-hovers-near-key-160-level-fueling-intervention-concerns",
     "image": null,
-    "pushedAt": "2026-11-12T09:29:32.158Z"
+    "pushedAt": "2026-11-12T12:02:24.920Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/japan-s-fx-chief-warns-against-forgetting-summer-intervention",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/why-china-is-eyeing-a-curious-tax-on-its-government-bond-market",
     "image": null,
     "pushedAt": "2026-11-12T12:01:30.763Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/congress-pressures-jensen-huang-to-talk-about-spy-scandal",
+    "title": "Congress Pressures Jensen Huang to Talk About Spy Scandal",
+    "titleZh": "國會向黃仁勳施壓，要求談論間諜醜聞",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/congress-pressures-jensen-huang-to-talk-about-spy-scandal",
+    "image": null,
+    "pushedAt": "2026-11-12T12:02:54.299Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/hsbc-plans-srts-tied-to-7-billion-of-us-asian-corporate-loans",
+    "title": "HSBC Plans SRTs Tied to $7 Billion of US, Asian Corporate Loans",
+    "titleZh": "匯豐銀行計劃將 SRT 與 70 億美元的美國和亞洲企業貸款掛鉤",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/hsbc-plans-srts-tied-to-7-billion-of-us-asian-corporate-loans",
+    "image": null,
+    "pushedAt": "2026-11-12T12:02:59.407Z"
   }
 ]
