@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
-    "title": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
-    "titleZh": "美國10月通膨率上升0.4%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T10:41:42.377Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
     "title": "Bond Yields Spike Most Since Tariff Meltdown on Rate-Hike Bets",
     "titleZh": "美國通膨加劇加劇 12 月利率押注，國債下滑",
@@ -4929,7 +4920,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T10:12:39.912Z"
+    "pushedAt": "2026-11-12T12:38:58.454Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
     "image": null,
     "pushedAt": "2026-11-12T12:38:29.899Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
+    "title": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
+    "titleZh": "布魯斯·朱迪奇 (Bruce Giudici) 即將在本次加州選舉中獲勝。他幾個月前去世了。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
+    "image": null,
+    "pushedAt": "2026-11-12T12:39:25.708Z"
   }
 ]
