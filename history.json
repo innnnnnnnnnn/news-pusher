@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
-    "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
-    "titleZh": "川普上訴駁回針對《華爾街日報》的 100 億美元誹謗訴訟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-wsj-pvgk/06biz-wsj-pvgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T00:00:40.920Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth",
-    "title": "Latin American Unicorn Clara Raises $105 Million for Growth",
-    "titleZh": "拉丁美洲獨角獸 Clara 融資 1.05 億美元用於成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth",
-    "image": null,
-    "pushedAt": "2026-11-10T16:40:51.479Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/boe-s-lombardelli-says-interest-rates-are-likely-to-rise-further",
-    "title": "BOE’s Lombardelli Says Interest Rates Are Likely to Rise Further",
-    "titleZh": "英國央行隆巴德利表示利率可能進一步上升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/boe-s-lombardelli-says-interest-rates-are-likely-to-rise-further",
-    "image": null,
-    "pushedAt": "2026-11-11T04:47:53.756Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/russia-ships-less-crude-as-loadings-halted-at-key-pacific-port",
     "title": "Russia Ships Less Crude as Loadings Halted at Key Pacific Port",
     "titleZh": "由於太平洋主要港口停止裝貨，俄羅斯原油運輸量減少",
@@ -3039,7 +3012,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
     "image": null,
-    "pushedAt": "2026-11-12T11:24:12.052Z"
+    "pushedAt": "2026-11-12T13:39:57.345Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
@@ -3048,7 +3021,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
     "image": null,
-    "pushedAt": "2026-11-12T11:24:37.449Z"
+    "pushedAt": "2026-11-12T13:40:21.984Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
@@ -5127,7 +5100,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T11:23:21.184Z"
+    "pushedAt": "2026-11-12T13:39:31.874Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/huang-says-not-my-job-to-agree-or-disagree-with-trump-video",
     "image": null,
     "pushedAt": "2026-11-12T13:30:49.779Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/huang-agentic-ai-systems-need-monitoring-containment-video",
+    "title": "Huang Says Agentic AI Systems Need Monitoring, Containment",
+    "titleZh": "黃說代理人工智慧系統需要監控和遏制",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/huang-agentic-ai-systems-need-monitoring-containment-video",
+    "image": null,
+    "pushedAt": "2026-11-12T13:40:49.821Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/nebius-shares-drop-on-neocloud-s-disappointing-revenue-outlook",
+    "title": "Nebius Shares Drop on Neocloud’s Disappointing Revenue Outlook",
+    "titleZh": "Neocloud 營收前景令人失望，Nebius 股價下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nebius-shares-drop-on-neocloud-s-disappointing-revenue-outlook",
+    "image": null,
+    "pushedAt": "2026-11-12T13:40:54.204Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/singapore-says-warns-alice-huang-lacks-evidence-of-offenses",
+    "title": "Singapore Says Warns Alice Huang, Lacks Evidence of Offenses",
+    "titleZh": "新加坡稱警告黃愛麗絲，但缺乏犯罪證據",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/singapore-says-warns-alice-huang-lacks-evidence-of-offenses",
+    "image": null,
+    "pushedAt": "2026-11-12T13:40:59.321Z"
   }
 ]
