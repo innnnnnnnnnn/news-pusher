@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
-    "title": "Bartleby newsletter: The case for scientific methods of decision-making",
-    "titleZh": "巴特比通訊：科學決策方法的案例",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
-    "image": null,
-    "pushedAt": "2026-11-11T13:18:27.309Z"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-10T15:54:33.038Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/banks-prep-1-8-billion-debt-financing-to-back-tdr-s-ocu-deal",
     "title": "Banks Prep £1.8 Billion Debt Financing to Back TDR’s OCU Deal",
     "titleZh": "銀行準備 18 億英鎊債務融資支持 TDR 的 OCU 交易",
@@ -7422,7 +7404,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
     "image": null,
-    "pushedAt": "2026-11-12T07:56:19.948Z"
+    "pushedAt": "2026-11-12T10:06:55.688Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-close-11-11-2026-video",
@@ -8493,7 +8475,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/the-nvidia-board-members-who-will-decide-jensen-huang-s-fate",
     "image": null,
-    "pushedAt": "2026-11-12T07:56:45.874Z"
+    "pushedAt": "2026-11-12T10:07:20.435Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/omniyat-on-what-draws-global-wealth-to-dubai-in-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T10:05:38.584Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html",
+    "title": "The First Thing Democrats Should Do to Show They’re Serious on Affordability",
+    "titleZh": "民主黨人應該做的第一件事就是表明他們認真對待負擔能力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/opinion/12climate-editorial-image/12climate-editorial-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:07:47.029Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
+    "title": "The Fragile Truce Between the Working Class and the Woke Left",
+    "titleZh": "工人階級與覺醒的左派之間脆弱的休戰",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/opinion/12itpod-liu/12itpod-liu-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:07:52.405Z"
   }
 ]
