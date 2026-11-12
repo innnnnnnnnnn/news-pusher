@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef",
-    "title": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
-    "titleZh": "埃克森美孚在稱委內瑞拉「不可投資」後探索重返委內瑞拉",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T14:36:59.125Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike",
     "title": "BOJ Summary Suggests Good Chance of December Interest Rate Hike",
     "titleZh": "日本央行總結顯示近期升息的好機會",
@@ -3390,7 +3381,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/t5lh7g4zl?ref=rss",
     "image": "https://cdn.flipso.com/p/t5lh7g4zl_square.jpg",
-    "pushedAt": "2026-11-11T23:42:09.834Z"
+    "pushedAt": "2026-11-12T02:01:01.624Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
@@ -4893,7 +4884,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-bear/10xp-bear-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T23:41:10.009Z"
+    "pushedAt": "2026-11-12T02:00:10.584Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
@@ -7286,8 +7277,8 @@
     "titleZh": "艾瑞克川普支持的人形機器人新創公司正在洽談向以色列國防軍供貨",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee27bd5-e333-4a6c-a136-7ea08ed444fd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T23:42:36.106Z"
+    "image": null,
+    "pushedAt": "2026-11-12T02:01:26.009Z"
   },
   {
     "id": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8",
@@ -7296,7 +7287,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-11T23:43:01.622Z"
+    "pushedAt": "2026-11-12T02:01:50.478Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
@@ -8565,7 +8556,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F05aadf3b-700c-4173-bc4d-4c10f342cfe0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T23:41:39.806Z"
+    "pushedAt": "2026-11-12T02:00:35.756Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T01:52:23.024Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
+    "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
+    "titleZh": "司法部實力減弱，中期選舉失敗後將面臨新的戰鬥",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00dc-justice-jbhl/00dc-justice-jbhl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T02:02:16.807Z"
   }
 ]
