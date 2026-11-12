@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-boosts-forecast-easing-slowdown-concerns-video",
-    "title": "CoreWeave Boosts Forecast, Easing Slowdown Concerns",
-    "titleZh": "CoreWeave 提高預測，緩解經濟放緩擔憂",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-boosts-forecast-easing-slowdown-concerns-video",
-    "image": null,
-    "pushedAt": "2026-11-11T07:05:08.186Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
     "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
     "titleZh": "經過相當長的鬥爭後，密西西比州參議院競選的投票截止日期已過",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/can-huang-s-exit-create-chip-competition-video",
     "image": null,
     "pushedAt": "2026-11-12T23:03:04.085Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+    "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+    "titleZh": "ICE 載有伊朗人的驅逐飛機折返並降落在亞利桑那州",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T23:03:32.528Z"
   }
 ]
