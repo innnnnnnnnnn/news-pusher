@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
-    "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
-    "titleZh": "為什麼伊朗戰爭刺激了清潔能源和化石燃料的發展",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-cop31-war-swap-bgvm/08biz-cop31-war-swap-bgvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T13:29:28.067Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video",
-    "title": "Cohere's Gomez on $25B Valuation, Growth",
-    "titleZh": "Cohere 的戈麥斯談 $25B 估值和增長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video",
-    "image": null,
-    "pushedAt": "2026-11-11T08:46:25.808Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/ternium-says-mexico-steel-imports-need-strict-tariff-enforcement",
     "title": "Ternium Urges Tougher Enforcement of Mexico Steel Tariffs",
     "titleZh": "Ternium表示墨西哥鋼鐵進口需要嚴格關稅執行",
@@ -4524,7 +4506,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-pope-peru-gqfh/11int-pope-peru-gqfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T21:29:44.633Z"
+    "pushedAt": "2026-11-12T23:53:21.107Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/chief-future-officer-eimear-bonner-chevron-video",
@@ -7953,7 +7935,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-fed-meetings-pmbj/12dc-fed-meetings-pmbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T21:29:20.475Z"
+    "pushedAt": "2026-11-12T23:52:57.362Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-daly-says-more-rate-hikes-likely-needed-to-cool-inflation",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement",
     "image": null,
     "pushedAt": "2026-11-12T23:52:30.454Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
+    "title": "California Could Face 50-Foot Waves as Storms Slam Its Coast",
+    "titleZh": "風暴襲擊加州海岸，加州可能面臨 50 英尺高的巨浪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
+    "image": "https://static01.nyt.com/images/2024/01/30/us/2024-01-26-atmospheric-river-embed-index/2024-01-26-atmospheric-river-embed-index-mediumSquareAt3X-v799.jpeg",
+    "pushedAt": "2026-11-12T23:53:48.252Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/weather/el-nino-california-explained.html",
+    "title": "A Concerned Californian’s Guide to El Niño",
+    "titleZh": "一位憂心忡忡的加州人的厄爾尼諾指南",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/weather/el-nino-california-explained.html",
+    "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00wea-california-elnino/00wea-california-elnino-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T23:53:51.578Z"
   }
 ]
