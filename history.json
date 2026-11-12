@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-    "title": "The Jensen Huang Affair",
-    "titleZh": "黃仁勳事件",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:58:34.864Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike",
-    "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
-    "titleZh": "美國核心CPI漲幅超乎預期，支持聯準會升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike",
-    "image": null,
-    "pushedAt": "2026-11-11T06:25:42.459Z"
-  },
-  {
     "id": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
     "title": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
     "titleZh": "美國10月通膨率上升0.4%",
@@ -2121,7 +2103,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
     "image": null,
-    "pushedAt": "2026-11-12T10:10:34.564Z"
+    "pushedAt": "2026-11-12T12:36:11.057Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
@@ -5982,7 +5964,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
     "image": null,
-    "pushedAt": "2026-11-12T10:11:22.114Z"
+    "pushedAt": "2026-11-12T12:37:03.481Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-deals-11-11-2026-video",
@@ -6792,7 +6774,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-12T10:10:58.260Z"
+    "pushedAt": "2026-11-12T12:36:37.836Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
@@ -7530,7 +7512,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/76ce61f0-24f8-4630-b727-1525570416e3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5080767e-e6f9-45e6-9a6d-d790e5f23f7f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T10:11:45.911Z"
+    "pushedAt": "2026-11-12T12:37:29.971Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/key-modi-ally-on-india-youth-anger-and-ai-push-video",
@@ -8403,7 +8385,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
     "image": null,
-    "pushedAt": "2026-11-12T10:12:13.278Z"
+    "pushedAt": "2026-11-12T12:37:55.193Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/brazilian-inflation-ticks-up-after-lula-s-win-rattles-markets",
     "image": null,
     "pushedAt": "2026-11-12T12:35:41.939Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
+    "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia",
+    "titleZh": "烏克蘭稱襲擊了俄羅斯西伯利亞最大煉油廠",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
+    "image": null,
+    "pushedAt": "2026-11-12T12:38:24.012Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
+    "title": "Nvidia Board Meets to Consider Replacing Jensen Huang",
+    "titleZh": "Nvidia 董事會開會考慮更換黃仁勳",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-12T12:38:29.899Z"
   }
 ]
