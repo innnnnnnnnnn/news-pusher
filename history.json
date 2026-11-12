@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
-    "title": "Justice Dept. Accuses Lyft of Disability Discrimination in Lawsuit",
-    "titleZh": "司法部在訴訟中指控 Lyft 有殘疾歧視",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09xp-lyft-vmlk/09xp-lyft-vmlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:03:13.217Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/france-unemployment-eases-beleaguered-economy-protests-budget",
     "title": "French Unemployment Eases in Reprieve for Beleaguered Economy",
     "titleZh": "法國失業率下降，為陷入困境的經濟帶來喘息之機",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b",
     "image": null,
     "pushedAt": "2026-11-12T06:04:51.680Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6b0c3075-482f-4d9a-8c91-1f1ce9618847",
+    "title": "Europe dithers over who and how to talk to Putin amid US and Ukraine pressure",
+    "titleZh": "在美國和烏克蘭的壓力下，歐洲對於誰以及如何與普丁對話猶豫不決",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6b0c3075-482f-4d9a-8c91-1f1ce9618847?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T06:05:20.480Z"
   }
 ]
