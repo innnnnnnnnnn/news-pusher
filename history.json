@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
-    "title": "Rate-Hike Debate Ignited by Fed Officials as CPI Comes in Hot",
-    "titleZh": "聯準會沃勒支持12月升息，表示對更大幅度的升息持開放態度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
-    "image": null,
-    "pushedAt": "2026-11-11T20:52:16.358Z"
-  },
-  {
-    "id": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7",
-    "title": "Top Fed official considers largest rate rise since 2022",
-    "titleZh": "聯準會高級官員考慮2022年以來最大幅度升息",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T06:12:36.452Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/state-street-remains-positive-on-tech-stocks-video",
     "title": "State Street Remains Positive on Tech Stocks",
     "titleZh": "道富銀行仍看好科技股（影片）",
@@ -456,7 +438,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:01:08.203Z"
+    "pushedAt": "2026-11-12T08:17:57.647Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
@@ -465,7 +447,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-oz-ai-kcbj/10int-oz-ai-kcbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:01:31.676Z"
+    "pushedAt": "2026-11-12T08:18:21.672Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
@@ -5703,7 +5685,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-12T06:00:21.177Z"
+    "pushedAt": "2026-11-12T08:17:10.196Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
@@ -5712,7 +5694,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:00:44.761Z"
+    "pushedAt": "2026-11-12T08:17:33.638Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/brooklyn-to-queens-rail-needs-bus-lanes-sidewalks-to-get-riders",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/horizons-middle-east-africa-11-12-2026-video",
     "image": null,
     "pushedAt": "2026-11-12T08:16:43.691Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-case-for-india-in-a-world-obsessed-with-the-ai-trade",
+    "title": "The Case For India in a World Obsessed With the AI Trade",
+    "titleZh": "印度在痴迷於人工智慧貿易的世界中的案例",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-case-for-india-in-a-world-obsessed-with-the-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-12T08:18:47.668Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-case-for-investing-in-india-in-an-ai-fixated-world-video",
+    "title": "Can India Attract Investors in an AI-Obsessed World? | Emerging",
+    "titleZh": "印度能否在痴迷於人工智慧的世界中吸引投資者？ |新興",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-case-for-investing-in-india-in-an-ai-fixated-world-video",
+    "image": null,
+    "pushedAt": "2026-11-12T08:18:52.521Z"
   }
 ]
