@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
-    "title": "Wall Street Bonuses Could Rise by 30%, Says Johnson Associates",
-    "titleZh": "華爾街一些人的獎金預計將上漲 30%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
-    "image": null,
-    "pushedAt": "2026-11-10T19:09:20.359Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-needs-to-raise-rates-two-more-times-logan-says-video",
     "title": "Fed Needs to Raise Rates at Least Two More Times, Logan Says",
     "titleZh": "洛根表示聯準會需要至少升息兩次",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/7ec8ad82-a581-40eb-b8df-4767a0432425?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T14:50:36.475Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html",
+    "title": "Jemima Goldsmith, Russell Brand’s Ex-Partner, Accuses Him of Abuse",
+    "titleZh": "拉塞爾布蘭德的前合夥人傑米瑪戈德史密斯指控他虐待",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-Jemima-top/10xp-Jemima-top-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T14:51:05.637Z"
   }
 ]
