@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/banks-prep-1-8-billion-debt-financing-to-back-tdr-s-ocu-deal",
-    "title": "Banks Prep £1.8 Billion Debt Financing to Back TDR’s OCU Deal",
-    "titleZh": "銀行準備 18 億英鎊債務融資支持 TDR 的 OCU 交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/banks-prep-1-8-billion-debt-financing-to-back-tdr-s-ocu-deal",
-    "image": null,
-    "pushedAt": "2026-11-10T11:04:21.436Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
-    "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
-    "titleZh": "五角大廈審查駐軍人數，駐歐洲美軍面臨不確定性",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T08:17:57.647Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
     "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
     "titleZh": "澳洲推出新的人工智慧OpenAI 違規後的監管機構",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
     "image": "https://static01.nyt.com/images/2026/11/12/opinion/12itpod-liu/12itpod-liu-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T10:07:52.405Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c639deee-e8b7-4131-b4a2-c360d546f75d",
+    "title": "Why Reform is struggling",
+    "titleZh": "改革為何舉步維艱",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c639deee-e8b7-4131-b4a2-c360d546f75d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T10:08:21.767Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
+    "title": "Solid UK growth will not by itself push BoE to move in December",
+    "titleZh": "英國穩健的經濟成長本身不會推動英國央行在 12 月採取行動",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
+    "image": null,
+    "pushedAt": "2026-11-12T10:08:25.908Z"
   }
 ]
