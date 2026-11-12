@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9e3dacfa-ebff-4f05-a89e-9514211d73a2",
-    "title": "Latest Godzilla release sets box office records for Japanese film",
-    "titleZh": "最新上映的《哥吉拉》創下日本電影票房紀錄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9e3dacfa-ebff-4f05-a89e-9514211d73a2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T23:46:50.606Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-10/ftse-100-live-updates-pound-gilts-stock-rally-europe-what-s-moving-uk-markets-right-now-markets-today",
     "title": "FTSE 100 Set to Rise as European Stock Rally Extends",
     "titleZh": "歐洲股市漲勢延續，富時 100 指數將上漲",
@@ -420,7 +411,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-turkey-cop-01-bjkt/10int-turkey-cop-01-bjkt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T04:48:14.051Z"
+    "pushedAt": "2026-11-12T06:55:36.844Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
@@ -429,7 +420,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-indonesia-discontent-01-mklq/00int-indonesia-discontent-01-mklq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T04:48:37.414Z"
+    "pushedAt": "2026-11-12T06:56:00.059Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
@@ -3201,7 +3192,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
     "image": null,
-    "pushedAt": "2026-11-12T04:47:50.475Z"
+    "pushedAt": "2026-11-12T06:55:13.336Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/obituaries/stanley-zabar-dead.html",
@@ -8313,7 +8304,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-pope-peru-gqfh/11int-pope-peru-gqfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T04:49:00.675Z"
+    "pushedAt": "2026-11-12T06:56:23.759Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/chief-future-officer-eimear-bonner-chevron-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/siemens-ceo-on-earnings-portfolio-ai-video",
     "image": null,
     "pushedAt": "2026-11-12T06:54:46.936Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/japan-smartnews-aggregator-app-list-on-the-tokyo-stock-exchange-dec-15",
+    "title": "Japan’s SmartNews to List on the Tokyo Stock Exchange Dec. 15",
+    "titleZh": "日本 SmartNews 將於 12 月 15 日在東京證券交易所上市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/japan-smartnews-aggregator-app-list-on-the-tokyo-stock-exchange-dec-15",
+    "image": null,
+    "pushedAt": "2026-11-12T06:56:51.446Z"
   }
 ]
