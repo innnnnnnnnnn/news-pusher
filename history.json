@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4t-valuation-in-blockbuster-ipo-video",
-    "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-    "titleZh": "Anthropic 重磅 IPO 估值目標為 1.4T 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4t-valuation-in-blockbuster-ipo-video",
-    "image": null,
-    "pushedAt": "2026-11-10T21:31:50.445Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
-    "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
-    "titleZh": "Nvidia 聘請 Wachtell Lipton 調查執行長與中國高管之間的風流韻事",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Nvidia-Wachtell-01-tpgl/10biz-Nvidia-Wachtell-01-tpgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T15:44:12.265Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
     "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
     "titleZh": "伊斯蘭武裝分子襲擊迫使患者逃離剛果伊波拉診所",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/e9ce1070-0c61-450a-ac75-ddabb0edfa69?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T16:57:06.752Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html",
+    "title": "What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want",
+    "titleZh": "零售問候語「歡迎光臨」說明了顧客真正想要什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html",
+    "image": null,
+    "pushedAt": "2026-11-12T16:57:37.972Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
+    "title": "The Woman Who Wanted to Help the St. Lazarus Children",
+    "titleZh": "想要幫助聖拉撒路兒童的女人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
+    "image": null,
+    "pushedAt": "2026-11-12T16:57:42.151Z"
   }
 ]
