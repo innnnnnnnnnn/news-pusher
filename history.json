@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
-    "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
-    "titleZh": "在川普的華盛頓，檢察官不能指望大陪審團站在他們這邊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-grandjuries-2-jhml/dc-grandjuries-2-jhml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T18:30:26.987Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
     "title": "El Niño Is Hitting California Hard",
     "titleZh": "厄爾尼諾現象嚴重打擊加州",
@@ -7359,7 +7350,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T07:53:05.726Z"
+    "pushedAt": "2026-11-12T10:03:40.885Z"
   },
   {
     "id": "https://www.ft.com/content/896af656-09a6-495d-8074-8fd3cffe46be",
@@ -7377,7 +7368,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ec5adc72-8388-483f-95b2-362d9f0e6d66?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T07:53:52.592Z"
+    "pushedAt": "2026-11-12T10:04:04.740Z"
   },
   {
     "id": "https://www.ft.com/content/70b733ec-6cab-41f5-9242-85f7f8916352",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/835538ed-308d-40cd-a568-3ea1e298d102?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T10:03:13.938Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+    "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+    "titleZh": "人工智慧.武器需要資料進行訓練。烏克蘭有很多東西可以提供。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:04:30.480Z"
   }
 ]
