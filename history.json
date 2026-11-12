@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
-    "title": "S&P 500 Erases Midterm Losses, Bitcoin Bounce",
-    "titleZh": "標準普爾 500 指數消除中期損失，比特幣反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-10T00:33:35.582Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
-    "title": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
-    "titleZh": "約翰‧哈里森 (M. John Harrison) 的《一切的終點》榮獲布克獎",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09tbr-booker-prize-flcv/09tbr-booker-prize-flcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:47:08.237Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
-    "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
-    "titleZh": "美國立法者因黃仁勳醜聞要求 Nvidia 提供詳細信息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
-    "image": null,
-    "pushedAt": "2026-11-10T05:23:24.586Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video",
     "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
     "titleZh": "羅斯·格伯 (Ross Gerber) 認為黃仁勳有 75% 的機會繼續擔任 Nvidia 首席執行官",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04ce639f-f385-4760-8e04-8a9708b54cb7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-12T00:11:41.098Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b9eb728e-847d-44f8-a2cc-bb139bc7220f",
+    "title": "Pessimism over UK housing market hits highest level in three years",
+    "titleZh": "英國房地產市場悲觀情緒創三年來最高水平",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b9eb728e-847d-44f8-a2cc-bb139bc7220f?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff084b3cf-7f4e-4aee-97e9-0c27bf6f0a67.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T00:12:14.248Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8eb628d1-782d-4c2a-b711-164e4d117081",
+    "title": "UK suffers bigger fall in international postgraduate students than the US",
+    "titleZh": "英國國際研究生下降幅度大於美國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8eb628d1-782d-4c2a-b711-164e4d117081?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F37ebc85c-5206-4da3-b81d-2b43ba0b7ba9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T00:12:19.289Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-11/japan-auto-stocks-eye-rebound-as-cheaper-oil-brightens-outlook",
+    "title": "Japan Auto Stocks Eye Rebound as Cheaper Oil Brightens Outlook",
+    "titleZh": "油價下跌提振前景，日本汽車股可望反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/japan-auto-stocks-eye-rebound-as-cheaper-oil-brightens-outlook",
+    "image": null,
+    "pushedAt": "2026-11-12T00:12:22.607Z"
   }
 ]
