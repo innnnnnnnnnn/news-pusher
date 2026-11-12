@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-    "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
-    "titleZh": "專家警告美國全球衛生策略危害流行病預防",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00dc-pandemic-prep1-vzcq/00dc-pandemic-prep1-vzcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T13:31:35.472Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/canada-s-georgian-backs-physical-ai-quantum-tech-to-keep-canadian-firms-at-home",
     "title": "Canada’s Georgian Backs Physical AI, Quantum Tech to Keep Canadian Firms at Home",
     "titleZh": "加拿大格魯吉亞人支援實體人工智慧和量子技術，讓加拿大公司留在國內",
@@ -6175,12 +6166,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
-    "title": "London Aluminum Market Faces Biggest Supply Squeeze in Decades",
+    "title": "LME Aluminum Market Faces Biggest Supply Squeeze in Decades",
     "titleZh": "倫敦鋁市場面臨數十年來最嚴重的供應緊縮",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
     "image": null,
-    "pushedAt": "2026-11-11T23:28:14.895Z"
+    "pushedAt": "2026-11-12T10:29:28.283Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
@@ -7372,12 +7363,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
-    "title": "Long US Bonds Reopen With Gains as Risk Sentiment Sours Again",
+    "title": "Long-Dated US Treasuries Rise as Nvidia Woes Revive Haven Demand",
     "titleZh": "由於風險情緒再次惡化，美國債券多頭重新開放並上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
     "image": null,
-    "pushedAt": "2026-11-12T03:35:42.061Z"
+    "pushedAt": "2026-11-12T10:29:52.338Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-board-weighs-huang-s-future-after-affairs-video",
     "image": null,
     "pushedAt": "2026-11-12T10:29:01.062Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/uae-minister-of-investment-s-investment-outlook-video",
+    "title": "UAE Minister of Investment's Investment Outlook",
+    "titleZh": "阿聯酋投資部長的投資前景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/uae-minister-of-investment-s-investment-outlook-video",
+    "image": null,
+    "pushedAt": "2026-11-12T10:30:20.425Z"
   }
 ]
