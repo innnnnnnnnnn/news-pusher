@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
-    "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
-    "titleZh": "英偉達董事會有任由黃仁勳為所欲為的歷史",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-nvidia-board-gpqw/10biz-nvidia-board-gpqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T18:29:33.864Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
     "title": "The Blue Wave Washed Across Much of America. But Not Here.",
     "titleZh": "藍色浪潮席捲了美國大部分地區。但不在這裡。",
@@ -8214,7 +8205,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b7676a0b-be46-4401-8143-7979a2d90078?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T07:45:23.661Z"
+    "pushedAt": "2026-11-12T09:55:19.744Z"
   },
   {
     "id": "https://www.ft.com/content/b39ab251-3a7e-4b7f-98e9-1ca7b13bf288",
@@ -8223,7 +8214,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b39ab251-3a7e-4b7f-98e9-1ca7b13bf288",
     "image": null,
-    "pushedAt": "2026-11-12T07:45:47.272Z"
+    "pushedAt": "2026-11-12T09:55:43.737Z"
   },
   {
     "id": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/china-s-zhuanzhuan-is-said-to-have-filed-for-500-million-hk-ipo",
     "image": null,
     "pushedAt": "2026-11-12T09:54:52.953Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bundesbank-warns-commercial-property-prices-may-decline-again",
+    "title": "Bundesbank Warns Commercial Property Prices May Decline Again",
+    "titleZh": "德國央行警告商業房地產價格可能再次下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bundesbank-warns-commercial-property-prices-may-decline-again",
+    "image": null,
+    "pushedAt": "2026-11-12T09:56:09.268Z"
   }
 ]
