@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/neolix-s-zhao-on-business-strategy-video",
-    "title": "Neolix's Zhao on Business Strategy",
-    "titleZh": "新石器趙談業務策略",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/neolix-s-zhao-on-business-strategy-video",
-    "image": null,
-    "pushedAt": "2026-11-10T07:21:49.992Z"
-  },
-  {
     "id": "https://www.ft.com/content/7cb3bfb9-674d-4fde-a294-d5d31ce3ba71",
     "title": "The fallout of Nvidia’s spying scandal",
     "titleZh": "英偉達間諜醜聞的後果",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push",
     "image": null,
     "pushedAt": "2026-11-12T05:23:22.648Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+    "title": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns",
+    "titleZh": "「我們曾經是一座富裕的城市」：汽車危機席捲德國城鎮",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X-v3.jpg",
+    "pushedAt": "2026-11-12T05:23:57.408Z"
   }
 ]
