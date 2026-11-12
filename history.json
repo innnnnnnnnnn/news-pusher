@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/former-fed-s-evans-ai-boom-adds-to-inflation-risks-video",
-    "title": "Former Fed's Evans: AI Boom Adds to Inflation Risks",
-    "titleZh": "前聯準會埃文斯：人工智慧繁榮加劇通膨風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/former-fed-s-evans-ai-boom-adds-to-inflation-risks-video",
-    "image": null,
-    "pushedAt": "2026-11-10T11:53:01.773Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/vodafone-raises-profit-forecast-after-cost-cutting-campaign",
-    "title": "Vodafone Raises Profit Forecast After Cost-Cutting Campaign",
-    "titleZh": "沃達豐在削減成本後上調利潤預測",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/vodafone-raises-profit-forecast-after-cost-cutting-campaign",
-    "image": null,
-    "pushedAt": "2026-11-10T14:25:11.353Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/horizons-middle-east-africa-11-10-2026-video",
     "title": "Nvidia Faces Scrutiny Over US Chip-Smuggling Probe as AI Stocks Rebound",
     "titleZh": "中東和非洲地平線 11/10/2026（影片）",
@@ -5253,7 +5235,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T04:59:49.885Z"
+    "pushedAt": "2026-11-12T07:08:42.445Z"
   },
   {
     "id": "https://www.ft.com/content/2885db4c-64b0-4ca2-a1b3-fc3304504b48",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/limited-threat-to-nvidia-s-market-share-futurum-s-bulk-video",
     "image": null,
     "pushedAt": "2026-11-12T07:08:16.206Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+    "title": "Indonesia’s Vice President, Gibran, Resigns",
+    "titleZh": "印尼副總統紀伯倫辭職",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T07:09:09.952Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/uk-economy-defies-headwinds-with-strongest-growth-since-2024",
+    "title": "UK Economy Defies Headwinds With Strongest Growth Since 2024",
+    "titleZh": "英國經濟克服逆風，實現 2024 年以來最強勁成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/uk-economy-defies-headwinds-with-strongest-growth-since-2024",
+    "image": null,
+    "pushedAt": "2026-11-12T07:09:14.064Z"
   }
 ]
