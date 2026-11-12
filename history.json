@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
-    "title": "A landslide for Democrats. A rebuke to Donald Trump",
-    "titleZh": "民主黨取得壓倒性勝利。對唐納川普的譴責",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
-    "image": null,
-    "pushedAt": "2026-11-11T04:57:03.595Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
     "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
     "titleZh": "中國貿易順差以創紀錄的速度突破1兆美元",
@@ -5415,7 +5406,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-12T02:57:39.502Z"
+    "pushedAt": "2026-11-12T05:03:35.292Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/an-800-million-jobs-gap-in-the-developing-world-fans-new-risks",
@@ -8200,12 +8191,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-    "title": "In Major Upset, Scott Colom, a Democrat, Wins Mississippi Senate Seat",
+    "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
     "titleZh": "民主黨人 Scott Colom 贏得密西西比州參議院席位",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-ms-senate-colom-nyt-pczh/11nat-ms-senate-colom-nyt-pczh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T23:10:41.353Z"
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-ms-senate/11midterms-02-jgqm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T05:03:11.526Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/indonesia-s-ex-police-chief-alleged-to-be-end-user-of-wiretaps",
     "image": null,
     "pushedAt": "2026-11-12T05:02:44.043Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+    "title": "ALT: She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+    "titleZh": "ALT：她正在重寫墨西哥的歌謠，一次一個女人的故事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-mexico-singer-profile01-photo-wmtz/11int-mexico-singer-profile01-photo-wmtz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T05:04:02.001Z"
   }
 ]
