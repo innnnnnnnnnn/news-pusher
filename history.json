@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/diamondback-kkr-to-acquire-stake-in-water-firm-for-2-1-billion",
-    "title": "Diamondback, KKR to Get Stake in Water Firm for $2.1 Billion",
-    "titleZh": "Diamondback、KKR 將以 21 億美元收購水公司股份",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/diamondback-kkr-to-acquire-stake-in-water-firm-for-2-1-billion",
-    "image": null,
-    "pushedAt": "2026-11-10T20:17:03.987Z"
-  },
-  {
     "id": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b",
     "title": "The Nvidia investor’s guide to (maybe) losing your CEO",
     "titleZh": "英偉達投資者關於（可能）失去執行長的指南",
@@ -2013,7 +2004,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/67dda4a9-68b8-4c56-ae7d-4c5375e308b6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T13:29:33.636Z"
+    "pushedAt": "2026-11-12T16:05:35.123Z"
   },
   {
     "id": "https://www.ft.com/content/be14d41e-f209-4423-8838-5b378981939b",
@@ -3462,7 +3453,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T13:29:58.329Z"
+    "pushedAt": "2026-11-12T16:06:02.236Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
@@ -3471,7 +3462,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
     "image": null,
-    "pushedAt": "2026-11-12T13:30:22.750Z"
+    "pushedAt": "2026-11-12T16:06:28.459Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
@@ -7872,7 +7863,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
     "image": null,
-    "pushedAt": "2026-11-12T13:31:17.133Z"
+    "pushedAt": "2026-11-12T16:06:54.557Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/barclays-lafargue-on-semiconductors-nvidia-risks-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-shake-up-is-a-buying-opportunity-analyst-video",
     "image": null,
     "pushedAt": "2026-11-12T16:05:06.537Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
+    "title": "Democrats Put Targets on Notice as Trump Oversight Takes Shape",
+    "titleZh": "隨著川普監督的形成，民主黨人注意到了目標",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T16:07:22.360Z"
   }
 ]
