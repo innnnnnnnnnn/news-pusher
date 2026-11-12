@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
-    "title": "Dollar Logs Best Day Since September as CPI Lifts Hike Bets",
-    "titleZh": "隨著消費者物價指數 (CPI) 上漲，美元將迎來 9 月以來最好的一天",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
-    "image": null,
-    "pushedAt": "2026-11-10T22:47:31.952Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-    "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-    "titleZh": "艾森科特尋求推翻內塔尼亞胡擔任總理。方法如下。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-10T17:50:29.757Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-surveillance-11-10-2026-video",
     "title": "Fed's Waller Puts Jumbo Rate Hike on the Table Ahead of Hot Inflation Print",
     "titleZh": "聯準會沃勒在通膨加劇前將大幅升息擺在桌面上",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/read-the-memos-from-nvidia-chairman-and-interim-ceo-after-ouster",
     "image": null,
     "pushedAt": "2026-11-12T16:20:45.019Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
+    "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+    "titleZh": "索尼婭·甘地在訪談中回憶印度的愛與失",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-sonia-gandhi-01-gkwb/10int-sonia-gandhi-01-gkwb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T16:21:14.725Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+    "title": "Jensen Huang’s Ouster From Nvidia Could Complicate Billions in Philanthropic Giving",
+    "titleZh": "黃仁勳被英偉達開除可能會使數十億美元的慈善捐贈變得複雜",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-huang-philanthropy-hqbg/11pol-huang-philanthropy-hqbg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T16:21:19.018Z"
   }
 ]
