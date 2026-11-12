@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-    "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-    "titleZh": "查爾斯國王在加勒比海之旅中不帶雨傘但很自在",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T19:20:34.191Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
     "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
     "titleZh": "法國抗議活動在不滿之秋又展開",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
     "image": null,
     "pushedAt": "2026-11-12T15:03:52.362Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+    "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
+    "titleZh": "敘利亞考慮派遣軍隊援助沙國與胡塞武裝的戰爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T15:04:21.170Z"
   }
 ]
