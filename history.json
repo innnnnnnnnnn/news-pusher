@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt",
-    "title": "JPMorgan Eyes Big Discount to Get Software Debt Off Banks’ Books",
-    "titleZh": "摩根大通考慮大幅折扣以吸引軟體債務貸款人",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt",
-    "image": null,
-    "pushedAt": "2026-11-10T19:05:16.937Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/cvs-received-no-offers-for-pharmacies-ceo-says-video",
     "title": "CVS Has Not Received Offers For the Retail Pharmacy Business, CEO Says",
     "titleZh": "執行長表示 CVS 尚未收到零售藥房業務的報價",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
     "image": null,
     "pushedAt": "2026-11-12T00:00:48.266Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+    "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+    "titleZh": "民主黨在錯過赫格斯彈劾投票後面臨強烈反對",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T00:01:17.967Z"
   }
 ]
