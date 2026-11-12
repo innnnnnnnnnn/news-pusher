@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video",
-    "title": "Amazon’s Ring Unveils Flying Security Camera",
-    "titleZh": "亞馬遜 Ring 推出飛行安全攝影機",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video",
-    "image": null,
-    "pushedAt": "2026-11-10T19:21:25.970Z"
-  },
-  {
     "id": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7",
     "title": "Trump’s defeat heralds a US retreat",
     "titleZh": "川普的失敗預示著美國的撤退",
@@ -6891,7 +6882,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T12:40:21.246Z"
+    "pushedAt": "2026-11-12T15:09:53.808Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/opinion/spanish-dictionary-jewish.html",
@@ -8367,7 +8358,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
     "image": null,
-    "pushedAt": "2026-11-12T12:39:25.708Z"
+    "pushedAt": "2026-11-12T15:09:04.661Z"
   },
   {
     "id": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
@@ -8376,7 +8367,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T12:39:53.398Z"
+    "pushedAt": "2026-11-12T15:09:29.422Z"
   },
   {
     "id": "https://www.ft.com/content/ac85c171-d2d6-4fa1-ab51-b36e3f271748",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-hammack-calls-for-more-restrictive-rate-policy-video",
     "image": null,
     "pushedAt": "2026-11-12T15:06:58.449Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/at-hyperliquid-traders-bid-for-edge-in-crypto-s-high-speed-race",
+    "title": "At Hyperliquid, Traders Bid for Edge in Crypto’s High-Speed Race",
+    "titleZh": "在 Hyperliquid，交易員在加密貨幣的高速競賽中爭奪優勢",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/at-hyperliquid-traders-bid-for-edge-in-crypto-s-high-speed-race",
+    "image": null,
+    "pushedAt": "2026-11-12T15:11:11.409Z"
   }
 ]
