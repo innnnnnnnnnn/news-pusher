@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-    "title": "Can My Company Force Me to Reveal My Personal Email Address?",
-    "titleZh": "我的公司可以強迫我透露我的個人電子郵件地址嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T12:47:49.364Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail",
     "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
     "titleZh": "Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
     "image": null,
     "pushedAt": "2026-11-12T21:02:15.974Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd",
+    "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+    "titleZh": "FirstFT：人類銀行家準備將 IPO 估值提高至 1.5 兆美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T21:02:43.224Z"
   }
 ]
