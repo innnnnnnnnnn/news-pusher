@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/coreweave-rallies-on-ai-outlook-closing-bell-video",
-    "title": "CoreWeave Rallies as AI Demand Drives Stronger Revenue Outlook | Closing Bell",
-    "titleZh": "隨著人工智慧需求推動更強勁的營收前景，CoreWeave 上漲 |結束鐘聲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/coreweave-rallies-on-ai-outlook-closing-bell-video",
-    "image": null,
-    "pushedAt": "2026-11-10T23:49:22.126Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
     "title": "La crisis de Nvidia expone su dependencia de Jensen Huang",
     "titleZh": "Nvidia 危機暴露出對黃仁勳的依賴",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-toyota-kei-truck-01-gpvw/10biz-toyota-kei-truck-01-gpvw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T19:57:49.822Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
+    "title": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
+    "titleZh": "布魯克林大樓倒塌中瘋狂搜尋倖存者",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/lens/BUILDING-IN-ONE-IMAGE-promo/BUILDING-IN-ONE-IMAGE-promo-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-12T19:58:22.677Z"
   }
 ]
