@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/officials-from-major-central-banks-signal-more-rate-increases",
-    "title": "Officials From Major Central Banks Signal More Rate Increases",
-    "titleZh": "主要央行官員表示將進一步升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/officials-from-major-central-banks-signal-more-rate-increases",
-    "image": null,
-    "pushedAt": "2026-11-11T23:33:17.355Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
     "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
     "titleZh": "ICE 載有伊朗人的驅逐飛機折返並降落在亞利桑那州",
@@ -2364,7 +2355,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-12T20:36:18.694Z"
+    "pushedAt": "2026-11-12T23:00:00.426Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
@@ -2373,7 +2364,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T20:37:38.894Z"
+    "pushedAt": "2026-11-12T23:01:12.666Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/brooklyn-to-queens-rail-needs-bus-lanes-sidewalks-to-get-riders",
@@ -4092,7 +4083,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T20:35:29.753Z"
+    "pushedAt": "2026-11-12T22:59:36.142Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
@@ -7485,7 +7476,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-ousted-ceo-1-fmck/12biz-ousted-ceo-1-fmck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T20:35:05.173Z"
+    "pushedAt": "2026-11-12T22:59:12.172Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
@@ -7494,7 +7485,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-12T20:37:14.304Z"
+    "pushedAt": "2026-11-12T23:00:48.732Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-boom-raises-stakes-for-data-centers-video",
@@ -8601,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion",
     "image": null,
-    "pushedAt": "2026-11-12T20:36:46.050Z"
+    "pushedAt": "2026-11-12T23:00:24.879Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-ai-industry-face-future-without-jensen-huang-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-10/why-nvidia-and-jensen-huang-matter-so-much-to-markets",
     "image": null,
     "pushedAt": "2026-11-12T22:57:05.874Z"
+  },
+  {
+    "id": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25",
+    "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+    "titleZh": "黃仁勳的倒台是對科技巨頭創辦人模式的控訴",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa402880d-154a-4b30-8703-2c58dae1f1dc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T23:01:44.307Z"
   }
 ]
