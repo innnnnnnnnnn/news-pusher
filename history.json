@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
-    "title": "Donald Trump’s humiliation offers America an opportunity",
-    "titleZh": "唐納德·特朗普的羞辱為美國提供了機會",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
-    "image": null,
-    "pushedAt": "2026-11-12T06:55:13.336Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/obituaries/stanley-zabar-dead.html",
     "title": "Stanley Zabar Has Died. He Managed the Books, and the Slaw, at an N.Y.C. Landmark.",
     "titleZh": "史丹利·扎巴爾去世。他在紐約的一家餐廳管理書籍和沙拉。地標。",
@@ -6053,8 +6044,8 @@
     "titleZh": "首都銀行準備出售自己",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68d690dc-c59a-421e-82a8-62b76c2b7a10?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7eb471c-2f6d-4c84-ba2f-1a3c1070b73b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T17:57:48.936Z"
+    "image": null,
+    "pushedAt": "2026-11-12T20:32:33.759Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/london-infrastructure-investment-firm-arcus-said-to-weigh-sale",
@@ -7205,8 +7196,8 @@
     "titleZh": "移民到富裕國家需要遵守嚴格的簽證規定",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9ef2ed1e-5a67-4b28-8939-0c8e07ac6444?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5578f275-9755-4d4b-a8fd-a796b3f7a0b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T17:53:48.131Z"
+    "image": null,
+    "pushedAt": "2026-11-12T20:31:20.230Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
@@ -7215,7 +7206,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10venezuela-us-funds-tfkp/10venezuela-us-funds-tfkp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T17:54:14.062Z"
+    "pushedAt": "2026-11-12T20:31:44.486Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-default-risk-nears-record-high-as-board-weighs-ceo-s-fate",
@@ -7863,7 +7854,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
     "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T17:55:59.764Z"
+    "pushedAt": "2026-11-12T20:32:09.277Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
     "image": null,
     "pushedAt": "2026-11-12T20:30:53.261Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation",
+    "title": "Kalshi in Talks For New Funding Round at $65 Billion Valuation",
+    "titleZh": "Kalshi 正在洽談估值 650 億美元的新一輪融資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation",
+    "image": null,
+    "pushedAt": "2026-11-12T20:33:00.899Z"
   }
 ]
