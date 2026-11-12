@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
-    "title": "Checks and Balance newsletter: What comes next after the midterms?",
-    "titleZh": "制衡時事通訊：中期選舉後接下來會發生什麼事？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
-    "image": null,
-    "pushedAt": "2026-11-12T15:47:16.568Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/washington-weighs-nvidia-fallout-as-china-concerns-grow-video",
-    "title": "Washington Weighs Nvidia Fallout as China Concerns Grow",
-    "titleZh": "隨著中國擔憂的加劇，華盛頓權衡英偉達的影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/washington-weighs-nvidia-fallout-as-china-concerns-grow-video",
-    "image": null,
-    "pushedAt": "2026-11-10T21:40:24.125Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/democrats-corey-lewandowski-investigations.html",
     "title": "Corey Lewandowski, Trump Ally, Is a Top Target for Democrats After the Election",
     "titleZh": "川普盟友科里·萊萬多夫斯基是大選後民主黨的首要目標",
@@ -771,7 +753,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-12T14:29:05.520Z"
+    "pushedAt": "2026-11-12T17:07:01.018Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-mortgage-rates-pkzb/12biz-mortgage-rates-pkzb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T17:06:32.391Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/shopping-malls-a-pretty-good-offset-for-ai-trade-urw-ceo-says",
+    "title": "Shopping Malls a ‘Pretty Good Offset’ for AI Trade, URW CEO Says",
+    "titleZh": "URW 執行長表示，購物中心對人工智慧貿易來說是“相當好的補償”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/shopping-malls-a-pretty-good-offset-for-ai-trade-urw-ceo-says",
+    "image": null,
+    "pushedAt": "2026-11-12T17:07:28.401Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products",
+    "title": "US Probing If Alice Huang Helped Smuggle Super Micro Products",
+    "titleZh": "美國調查黃愛麗絲是否協助走私超微型產品",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products",
+    "image": null,
+    "pushedAt": "2026-11-12T17:07:31.805Z"
   }
 ]
