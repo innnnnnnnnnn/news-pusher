@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5",
-    "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
-    "titleZh": "Nvidia 聘請 Wachtell 前美國檢察官領導黃仁勳調查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F571ee4e5-3577-4198-849a-c2556ab2defc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T09:26:54.609Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
     "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
     "titleZh": "盧比奧表示不再需要伊朗戰爭中的“重大戰鬥行動”",
@@ -6656,8 +6647,8 @@
     "titleZh": "首都銀行準備出售自己",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68d690dc-c59a-421e-82a8-62b76c2b7a10?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T15:21:25.998Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7eb471c-2f6d-4c84-ba2f-1a3c1070b73b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T17:57:48.936Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/london-infrastructure-investment-firm-arcus-said-to-weigh-sale",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-s-of-the-world-are-irreplaceable-monaghan-video",
     "image": null,
     "pushedAt": "2026-11-12T17:57:19.067Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/brazil-s-farm-economy-woes-hit-corteva-earnings-shares",
+    "title": "Brazil’s Farm Economy Woes Hit Corteva Earnings, Shares",
+    "titleZh": "巴西農業經濟困境影響了 Corteva 的獲利和股價",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/brazil-s-farm-economy-woes-hit-corteva-earnings-shares",
+    "image": null,
+    "pushedAt": "2026-11-12T17:58:17.404Z"
   }
 ]
