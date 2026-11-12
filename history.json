@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-    "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
-    "titleZh": "老派、新派、嘻哈高中",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-hiphophighschool-intro-01-jgwl/00met-hiphophighschool-intro-01-jgwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T04:56:11.436Z"
-  },
-  {
     "id": "https://www.ft.com/content/30b27a58-35bf-4156-ab1a-0a8812b68f4e",
     "title": "Moderna chasing ‘holy grail’ of cancer prevention",
     "titleZh": "Moderna 追逐癌症預防的“聖杯”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
     "image": null,
     "pushedAt": "2026-11-12T15:20:26.837Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turns-to-cfo-kress-to-steady-ship-after-jensen-huang-exit",
+    "title": "Nvidia Turns to CFO Kress to Steady Ship After Jensen Huang Exit",
+    "titleZh": "黃仁勳退出後，英偉達請財務長克雷斯穩定公司",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turns-to-cfo-kress-to-steady-ship-after-jensen-huang-exit",
+    "image": null,
+    "pushedAt": "2026-11-12T15:20:58.533Z"
   }
 ]
