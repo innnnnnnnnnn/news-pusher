@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/tt59o4pkq",
-    "title": "Cancer at Sea",
-    "titleZh": "海上癌症",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/tt59o4pkq?ref=rss",
-    "image": "https://cdn.flipso.com/p/tt59o4pkq_square.jpg",
-    "pushedAt": "2026-11-12T17:59:36.139Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium",
     "title": "Anthropic Investors Shop IPO Shares Early, and at a Premium",
     "titleZh": "人類投資者儘早購買 IPO 股票，溢價很高",
@@ -7269,7 +7260,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/why-china-is-eyeing-a-curious-tax-on-its-government-bond-market",
     "image": null,
-    "pushedAt": "2026-11-12T17:01:21.565Z"
+    "pushedAt": "2026-11-12T19:31:25.401Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/congress-pressures-jensen-huang-to-talk-about-spy-scandal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/former-apple-chief-chip-architect-on-working-with-srouji-video",
     "image": null,
     "pushedAt": "2026-11-12T19:30:57.084Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+    "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+    "titleZh": "SpaceX 計畫投資 740 億美元在德州和亞利桑那州建造資料中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T19:31:51.897Z"
   }
 ]
