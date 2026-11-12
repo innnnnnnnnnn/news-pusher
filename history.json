@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89",
-    "title": "The UK’s inflation problem",
-    "titleZh": "英國通膨問題",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T09:22:17.717Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/dangote-cement-pauses-london-listing-plan-after-market-selloff",
     "title": "Dangote Cement Pauses $1 Billion London Listing Plan After Rout",
     "titleZh": "丹格特水泥在市場拋售後暫停倫敦上市計劃",
@@ -3120,7 +3111,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8da5a8f3-2e3a-4f14-9eac-1abaa8798d82?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T08:44:16.468Z"
+    "pushedAt": "2026-11-12T11:10:34.854Z"
   },
   {
     "id": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4",
@@ -3129,7 +3120,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T08:44:40.538Z"
+    "pushedAt": "2026-11-12T11:10:59.401Z"
   },
   {
     "id": "https://www.ft.com/content/efd7f5d4-acd8-42a2-b5c7-2b687938dca2",
@@ -3138,7 +3129,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/efd7f5d4-acd8-42a2-b5c7-2b687938dca2",
     "image": null,
-    "pushedAt": "2026-11-12T08:45:04.245Z"
+    "pushedAt": "2026-11-12T11:11:25.167Z"
   },
   {
     "id": "https://www.ft.com/content/50c43ffc-2a91-43ee-8eb7-a19531278b97",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T11:10:07.350Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+    "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
+    "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+    "image": null,
+    "pushedAt": "2026-11-12T11:11:51.655Z"
   }
 ]
