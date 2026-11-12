@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9",
-    "title": "Trump’s Board of Peace warns of ‘immediate humanitarian emergency’ in Gaza",
-    "titleZh": "川普和平委員會警告加薩“緊急人道主義緊急情況”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T07:04:01.745Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
     "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
     "titleZh": "訴訟指控前川普競選助手從卡達拿錢",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
     "image": null,
     "pushedAt": "2026-11-12T01:24:19.980Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
+    "title": "Alleged Chinese Spy at Center of Nvidia Firestorm Is in Beijing",
+    "titleZh": "英偉達Firestorm中心涉嫌中國間諜現身北京",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
+    "image": null,
+    "pushedAt": "2026-11-12T01:24:49.444Z"
   }
 ]
