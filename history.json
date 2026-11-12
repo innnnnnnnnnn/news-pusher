@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
-    "title": "Book Review: ‘The End of Everything,’ by M. John Harrison",
-    "titleZh": "書評：《一切的終點》，作者：約翰‧哈里森 (M. John Harrison)",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
-    "image": null,
-    "pushedAt": "2026-11-10T10:19:35.435Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-reports-first-earnings-since-merger-video",
     "title": "Skydance Reports First Earnings Since Merger",
     "titleZh": "Skydance 公佈合併以來的首份收益",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/uk-surveyors-face-weakest-housing-market-since-2023-rics-says",
     "image": null,
     "pushedAt": "2026-11-12T00:19:33.521Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/rare-ipo-bets-on-end-of-war-and-economic-crisis-in-myanmar",
+    "title": "Rare IPO Bets on End of War and Economic Crisis in Myanmar",
+    "titleZh": "罕見的IPO押注緬甸戰爭結束與經濟危機",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/rare-ipo-bets-on-end-of-war-and-economic-crisis-in-myanmar",
+    "image": null,
+    "pushedAt": "2026-11-12T00:20:04.614Z"
   }
 ]
