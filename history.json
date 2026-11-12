@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-    "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
-    "titleZh": "以色列新議會召開，但政府尚未出現",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:35:01.060Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/oil-market-starting-to-price-in-a-us-iran-deal-sen-video",
-    "title": "Oil Market Starting to Price In a US-Iran Deal, Says Analyst Sen",
-    "titleZh": "分析師森表示，石油市場開始對美伊協議定價",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/oil-market-starting-to-price-in-a-us-iran-deal-sen-video",
-    "image": null,
-    "pushedAt": "2026-11-10T12:44:28.559Z"
-  },
-  {
-    "id": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
-    "title": "With an eye on America, China is beefing up its AI-controlled labs",
-    "titleZh": "著眼於美國，中國正在加強其人工智慧控制的實驗室",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
-    "image": null,
-    "pushedAt": "2026-11-11T17:43:39.744Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/ubs-europe-s-biggest-stock-bull-sees-13-gain-by-end-of-2027",
     "title": "UBS, Europe’s Biggest Stock Bull, Sees 13% Gain By End of 2027",
     "titleZh": "歐洲最大的股票牛市瑞銀預計到 2027 年底將上漲 13%",
@@ -8998,5 +8971,32 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
     "pushedAt": "2026-11-12T11:30:04.539Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
+    "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
+    "titleZh": "被指控性行為不端的英國藝人大衛威廉斯是誰？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-walliams-fvzg/00xp-walliams-fvzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T11:30:34.767Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
+    "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
+    "titleZh": "英國名人大衛威廉斯被指控性行為不端",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-uk-celebrity-1-mlbj/00int-uk-celebrity-1-mlbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T11:30:39.078Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/nvidia-punches-a-hole-in-bull-case-for-ai-stocks",
+    "title": "Nvidia Punches a Hole in Bull Case for AI Stocks",
+    "titleZh": "英偉達為人工智慧股票的牛市打了一個洞",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/nvidia-punches-a-hole-in-bull-case-for-ai-stocks",
+    "image": null,
+    "pushedAt": "2026-11-12T11:30:44.395Z"
   }
 ]
