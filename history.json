@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-    "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-    "titleZh": "ICE 載有伊朗人的驅逐飛機折返並降落在亞利桑那州",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T20:53:07.442Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-boosts-forecast-easing-slowdown-concerns-video",
     "title": "CoreWeave Boosts Forecast, Easing Slowdown Concerns",
     "titleZh": "CoreWeave 提高預測，緩解經濟放緩擔憂",
@@ -2391,7 +2382,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ant-gpfz/11db-ant-gpfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T20:38:30.519Z"
+    "pushedAt": "2026-11-12T23:02:35.786Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
@@ -5685,7 +5676,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/turkey-central-bank-raises-end-2027-inflation-forecast-to-21",
     "image": null,
-    "pushedAt": "2026-11-12T20:38:04.811Z"
+    "pushedAt": "2026-11-12T23:02:11.759Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/bhp-plans-overhaul-of-australia-iron-ore-business-to-cut-costs",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa402880d-154a-4b30-8703-2c58dae1f1dc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-12T23:01:44.307Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/can-huang-s-exit-create-chip-competition-video",
+    "title": "Can Huang's Exit Create Chip Competition",
+    "titleZh": "黃燦退出創芯大賽",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/can-huang-s-exit-create-chip-competition-video",
+    "image": null,
+    "pushedAt": "2026-11-12T23:03:04.085Z"
   }
 ]
