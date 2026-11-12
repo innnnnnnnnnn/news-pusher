@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
-    "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
-    "titleZh": "必勝客計劃出售 10 億美元債券為其收購提供資金",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
-    "image": null,
-    "pushedAt": "2026-11-10T19:09:48.157Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-tech-11-10-2026-video",
     "title": "Anthropic’s $1.4 Trillion IPO Bet Tests AI Appetite",
     "titleZh": "Anthropic 1.4 兆美元 IPO 押注考驗人工智慧胃口",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Nvidia-Wachtell-01-tpgl/10biz-Nvidia-Wachtell-01-tpgl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T16:58:11.152Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+    "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+    "titleZh": "在莫斯科，威特科夫和庫許納要求普丁將歐洲納入和平談判",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T16:58:42.435Z"
   }
 ]
