@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook",
-    "title": "Czech Central Bank Keeps Cautious Policy Stance on Price Outlook",
-    "titleZh": "捷克央行對物價前景保持謹慎的政策立場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook",
-    "image": null,
-    "pushedAt": "2026-11-11T03:53:01.053Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
     "title": "Nvidia’s Game of Thrones",
     "titleZh": "英偉達的權力遊戲",
@@ -6306,7 +6297,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-senegal-migrants-02-tvqp/09int-senegal-migrants-02-tvqp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:47:25.375Z"
+    "pushedAt": "2026-11-12T12:12:42.660Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
@@ -6315,7 +6306,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:47:49.241Z"
+    "pushedAt": "2026-11-12T12:13:10.224Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
@@ -7394,17 +7385,17 @@
     "titleZh": "川普解除制裁後俄羅斯柴油出口量翻倍，但美國卻一無所獲",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T09:41:00.640Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F273c9433-395d-4cc7-bcae-4dea70b3a2fd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T12:11:24.478Z"
   },
   {
     "id": "https://www.ft.com/content/68c11e35-8347-4ceb-812a-d3f195978249",
-    "title": "Romania offers to pay for US troops",
+    "title": "Romania offers to pay for US soldiers",
     "titleZh": "羅馬尼亞願意支付美軍費用",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68c11e35-8347-4ceb-812a-d3f195978249?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T09:41:24.044Z"
+    "pushedAt": "2026-11-12T12:11:50.945Z"
   },
   {
     "id": "https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64",
@@ -7512,7 +7503,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-german-auto-town-01-jbpg/09biz-german-auto-town-01-jbpg-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-12T09:47:01.291Z"
+    "pushedAt": "2026-11-12T12:12:16.535Z"
   },
   {
     "id": "https://www.ft.com/content/64198d59-7a03-4f1c-89c6-81ed8bdc5448",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/trump-asked-to-preserve-nvidia-documents-by-senators-video",
     "image": null,
     "pushedAt": "2026-11-12T12:10:55.930Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9",
+    "title": "Israel strikes Gaza hospital despite ceasefire",
+    "titleZh": "以色列不顧停火攻擊加薩醫院",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2032c206-6d18-4ae7-bf21-a49198994a2d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T12:13:39.764Z"
   }
 ]
