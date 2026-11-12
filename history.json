@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-logan-favors-at-least-two-hikes-says-pace-could-quicken",
-    "title": "Fed’s Logan Says Two More Hikes Needed, Pace Could Quicken",
-    "titleZh": "聯準會洛根贊成至少兩次升息，表示升息步伐可能會加快",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-logan-favors-at-least-two-hikes-says-pace-could-quicken",
-    "image": null,
-    "pushedAt": "2026-11-11T11:05:05.798Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-sparks-larger-rate-hike-debate-on-hot-cpi-video",
-    "title": "Fed’s Waller Sparks Larger Rate Hike Debate After Hot Inflation",
-    "titleZh": "通膨加劇後，聯準會沃勒引發更大規模的升息爭論",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-sparks-larger-rate-hike-debate-on-hot-cpi-video",
-    "image": null,
-    "pushedAt": "2026-11-10T16:10:20.655Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/opinion-where-does-jensen-huang-s-dishonesty-end-video",
-    "title": "Where Does Jensen Huang’s Dishonesty End?",
-    "titleZh": "黃仁勳的不誠實行為到哪裡為止？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/opinion-where-does-jensen-huang-s-dishonesty-end-video",
-    "image": null,
-    "pushedAt": "2026-11-10T18:39:27.580Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
     "title": "A political revolution in Texas",
     "titleZh": "德克薩斯州的政治革命",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-brief-11-12-2026-video",
     "image": null,
     "pushedAt": "2026-11-12T14:34:52.487Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
+    "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
+    "titleZh": "關於彈劾赫格斯運動領袖托馬斯·馬西的了解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T14:35:21.263Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/blackstone-backed-data-center-builder-rowan-adds-1-5-billion-financing",
+    "title": "Blackstone-Backed Data Center Builder Rowan Adds $1.5 Billion Financing",
+    "titleZh": "Blackstone 支持的資料中心建築商 Rowan 追加 15 億美元融資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/blackstone-backed-data-center-builder-rowan-adds-1-5-billion-financing",
+    "image": null,
+    "pushedAt": "2026-11-12T14:35:27.317Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-hammack-says-more-restrictive-rates-are-needed",
+    "title": "Fed’s Hammack Says More Restrictive Rates Are Needed",
+    "titleZh": "聯準會哈馬克表示需要採取更多限制性利率",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-hammack-says-more-restrictive-rates-are-needed",
+    "image": null,
+    "pushedAt": "2026-11-12T14:35:33.514Z"
   }
 ]
