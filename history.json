@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/iheart-s-debt-collapses-shares-sink-67-after-big-earnings-miss",
-    "title": "IHeart’s Debt Collapses, Shares Sink 67% After Big Earnings Miss",
-    "titleZh": "IHeart 未能實現大幅獲利，債務崩潰，股價下跌 67%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/iheart-s-debt-collapses-shares-sink-67-after-big-earnings-miss",
-    "image": null,
-    "pushedAt": "2026-11-10T20:06:00.346Z"
-  },
-  {
     "id": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539",
     "title": "US regulator postpones Wall Street push to trade AI computing futures",
     "titleZh": "美國監管機構延後華爾街推動人工智慧運算期貨交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-daly-says-more-rate-hikes-likely-needed-to-cool-inflation",
     "image": null,
     "pushedAt": "2026-11-12T19:03:36.088Z"
+  },
+  {
+    "id": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4",
+    "title": "Nvidia sends a painful message on how to value a CEO",
+    "titleZh": "英偉達就如何評價執行長發出了痛苦的訊息",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6e6402b-783c-47ef-9352-eec6db988d8f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T19:04:09.247Z"
   }
 ]
