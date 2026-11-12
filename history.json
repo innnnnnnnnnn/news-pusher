@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
-    "title": "El Niño Is Hitting California Hard",
-    "titleZh": "厄爾尼諾現象嚴重打擊加州",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/00cli-california-el-nino-stillpromo/00cli-california-el-nino-01-cplk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:52:52.938Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
-    "title": "Why Nearly 2,000 Dead Seabirds Have Washed Up on the California Coast",
-    "titleZh": "為什麼加州海岸有這麼多死鳥",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/us/10nat-seabird-PROMO/10nat-seabird-deathTOPPER-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T22:29:37.756Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/insider/el-nino-california-climate.html",
-    "title": "A New York Times Reporter on El Niño and His California Childhood",
-    "titleZh": "《紐約時報》記者講述厄爾尼諾現象和他的加州童年",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/insider/el-nino-california-climate.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/climate/09insider-california-fires-stillpromo/09insider-california-fires-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:53:43.400Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
     "title": "Bartleby newsletter: The case for scientific methods of decision-making",
     "titleZh": "巴特比通訊：科學決策方法的案例",
@@ -7377,7 +7350,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/70b733ec-6cab-41f5-9242-85f7f8916352?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T07:54:16.375Z"
+    "pushedAt": "2026-11-12T10:04:57.241Z"
   },
   {
     "id": "https://www.ft.com/content/9b79e9f6-4805-4299-bf76-1743ac258054",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T10:04:30.480Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+    "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
+    "titleZh": "儘管有中期選舉，資料中心仍將繼續建設",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:05:24.730Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
+    "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.",
+    "titleZh": "幫助！廁所壞了，我的飛機停飛了，航空公司不再承保飯店。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/travel/1112TrippedUp-illo/1112TrippedUp-illo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:05:30.562Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+    "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+    "titleZh": "想賣空股票嗎？ Kalshi 和 C.T.F.C.允許它作為「永續交易」。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T10:05:38.584Z"
   }
 ]
