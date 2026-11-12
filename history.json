@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72",
-    "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
-    "titleZh": "川普撤回打擊伊朗的威脅，油價跌破 90 美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T07:40:15.336Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
     "title": "Fed's Waller Supports Rate Hike in December",
     "titleZh": "聯準會沃勒支持12月升息",
@@ -4740,7 +4731,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11FD-pricey-pies-promo1-vblz/11FD-pricey-pies-promo1-vblz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T07:04:31.505Z"
+    "pushedAt": "2026-11-12T09:17:22.372Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html",
@@ -4758,7 +4749,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
     "image": "https://static01.nyt.com/images/2026/11/11/opinion/11opvid-satellite-image/11opvid-satellite-image-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-12T07:04:55.037Z"
+    "pushedAt": "2026-11-12T09:17:45.849Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
@@ -6252,7 +6243,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T07:05:18.691Z"
+    "pushedAt": "2026-11-12T09:18:09.418Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
@@ -6261,7 +6252,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T07:06:30.274Z"
+    "pushedAt": "2026-11-12T09:18:32.985Z"
   },
   {
     "id": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/dubai-tycoon-expects-billions-from-anthropic-ai-investments",
     "image": null,
     "pushedAt": "2026-11-12T09:14:56.918Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/alice-huang-resurfaces-in-beijing-amid-nvidia-scandal-video",
+    "title": "Alice Huang Resurfaces in Beijing Amid Nvidia Scandal",
+    "titleZh": "黃愛麗 (Alice Huang) 因英偉達醜聞再次現身北京",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/alice-huang-resurfaces-in-beijing-amid-nvidia-scandal-video",
+    "image": null,
+    "pushedAt": "2026-11-12T09:18:59.881Z"
   }
 ]
