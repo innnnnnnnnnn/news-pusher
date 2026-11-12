@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
-    "title": "Google’s Gemini Targets Health Care’s Data Problem",
-    "titleZh": "Google Gemini 解決醫療保健數據問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
-    "image": null,
-    "pushedAt": "2026-11-10T21:44:18.084Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/how-hackers-pulled-off-the-greatest-heist-ever-video",
-    "title": "How Hackers Pulled Off the Greatest Heist Ever",
-    "titleZh": "駭客如何完成有史以來最大規模的搶劫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/how-hackers-pulled-off-the-greatest-heist-ever-video",
-    "image": null,
-    "pushedAt": "2026-11-10T21:46:55.791Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-scandal-underscores-growing-espionage-risks-for-ai-firms",
-    "title": "Nvidia Scandal Underscores Growing Espionage Risks for AI Firms",
-    "titleZh": "Nvidia 醜聞凸顯人工智慧公司日益增長的間諜風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-scandal-underscores-growing-espionage-risks-for-ai-firms",
-    "image": null,
-    "pushedAt": "2026-11-10T19:20:04.942Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/sec-fines-cases-plunge-in-trump-era-return-to-basics",
     "title": "SEC Fines, Cases Plunge in Trump-Era ‘Return to Basics’",
     "titleZh": "川普時代“回歸基礎”，美國證券交易委員會罰款、案件銳減",
@@ -7179,7 +7152,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
     "image": "https://static01.nyt.com/images/2026/11/12/opinion/12itpod-liu/12itpod-liu-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:59:25.528Z"
+    "pushedAt": "2026-11-12T17:37:35.711Z"
   },
   {
     "id": "https://www.ft.com/content/c639deee-e8b7-4131-b4a2-c360d546f75d",
@@ -7188,7 +7161,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c639deee-e8b7-4131-b4a2-c360d546f75d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T14:59:50.277Z"
+    "pushedAt": "2026-11-12T17:38:02.020Z"
   },
   {
     "id": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
@@ -7197,7 +7170,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
     "image": null,
-    "pushedAt": "2026-11-12T15:00:14.878Z"
+    "pushedAt": "2026-11-12T17:38:28.356Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
@@ -7206,7 +7179,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00int-nato-troops-01-bwqz/00int-nato-troops-01-bwqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T15:00:39.893Z"
+    "pushedAt": "2026-11-12T17:38:54.865Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
     "image": null,
     "pushedAt": "2026-11-12T17:26:57.924Z"
+  },
+  {
+    "id": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8",
+    "title": "Quantum Systems drones grounded by German military after cyber attack",
+    "titleZh": "德國軍方因網路攻擊而停飛量子系統無人機",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T17:39:22.270Z"
+  },
+  {
+    "id": "https://www.ft.com/content/33b29893-8283-4a7d-acfc-bb758e3587e2",
+    "title": "Can Britain afford to lead European defence?",
+    "titleZh": "英國有能力領導歐洲防務嗎？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/33b29893-8283-4a7d-acfc-bb758e3587e2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T17:39:26.915Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/top-bankers-warn-colombia-fiscal-stress-is-squeezing-margins",
+    "title": "Top Bankers Warn Colombia Fiscal Stress Is Squeezing Margins",
+    "titleZh": "頂級銀行家警告哥倫比亞財政壓力正在擠壓利潤",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/top-bankers-warn-colombia-fiscal-stress-is-squeezing-margins",
+    "image": null,
+    "pushedAt": "2026-11-12T17:39:31.694Z"
   }
 ]
