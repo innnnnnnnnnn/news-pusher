@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
-    "title": "Bond Yields Spike Most Since Tariff Meltdown on Rate-Hike Bets",
-    "titleZh": "美國通膨加劇加劇 12 月利率押注，國債下滑",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
-    "image": null,
-    "pushedAt": "2026-11-10T21:15:48.290Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
     "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
     "titleZh": "報告顯示美國從委內瑞拉石油中獲得了 120 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
     "image": null,
     "pushedAt": "2026-11-12T12:39:25.708Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
+    "title": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
+    "titleZh": "由於「熱」通膨引發對聯準會升息的押注，美國公債下滑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T12:39:53.398Z"
   }
 ]
