@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
-    "title": "Democrats Will Be in Charge of Congress. Elizabeth Warren Has a Plan for That.",
-    "titleZh": "民主黨將掌管國會。伊麗莎白沃倫對此有一個計劃。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-warren-pvtk/10pol-warren-pvtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T15:51:36.012Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html",
     "title": "Hegseth to Hold Rare News Conference as Impeachment Vote Looms",
     "titleZh": "彈劾投票臨近，赫格斯將舉行罕見的新聞發布會",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-says-india-s-foreign-inflow-revival-has-further-room-to-run",
     "image": null,
     "pushedAt": "2026-11-12T09:58:13.826Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/uk-gilts-look-attractive-allspring-says-video",
+    "title": "UK Gilts Look 'Attractive,' Allspring Says (Video)",
+    "titleZh": "Allspring 表示，英國後備母豬看起來「有吸引力」（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/uk-gilts-look-attractive-allspring-says-video",
+    "image": null,
+    "pushedAt": "2026-11-12T09:58:40.777Z"
   }
 ]
