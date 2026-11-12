@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-    "title": "South Africa’s Politics May Never Be the Same Again",
-    "titleZh": "南非的政治可能再也不會一樣了",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:44:03.468Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
     "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
     "titleZh": "污染嚴重的德里在排燈節嘗試「綠色」煙火淨化空氣",
@@ -3237,7 +3228,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T17:01:47.894Z"
+    "pushedAt": "2026-11-12T19:33:58.618Z"
   },
   {
     "id": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
     "image": "https://static01.nyt.com/images/2026/07/08/opinion/00paglen-7/00paglen-7-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T19:33:30.115Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october",
+    "title": "Argentina’s Inflation Ticked Up More Than Expected in October",
+    "titleZh": "阿根廷10月通膨率超預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october",
+    "image": null,
+    "pushedAt": "2026-11-12T19:34:26.734Z"
   }
 ]
