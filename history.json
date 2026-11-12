@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-    "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-    "titleZh": "巨型路邊景點面臨不斷增加的成本和不確定的未來",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-    "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00xp-roadside-alamy-03/00xp-roadside-alamy-03-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T13:18:03.654Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/ai-debt-blowups-become-fodder-for-etfs-aimed-at-retail-investors",
     "title": "AI Debt Blowups Become Fodder for ETFs Aimed at Retail Investors",
     "titleZh": "人工智慧債務激增成為針對散戶投資者的 ETF 的素材",
@@ -5595,7 +5586,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f4e00d0-1ffd-4b3e-a510-d684eab64ac4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T17:09:45.780Z"
+    "pushedAt": "2026-11-12T19:42:50.855Z"
   },
   {
     "id": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-goolsbee-says-inflation-inching-into-tough-spot-video",
     "image": null,
     "pushedAt": "2026-11-12T19:42:22.878Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-how-huang-s-resignation-could-hurt-us-ai-video",
+    "title": "How Huang’s Resignation Could Hurt US AI",
+    "titleZh": "黃仁勳的辭職將如何損害美國人工智慧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-how-huang-s-resignation-could-hurt-us-ai-video",
+    "image": null,
+    "pushedAt": "2026-11-12T19:43:18.514Z"
   }
 ]
