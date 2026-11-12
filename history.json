@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/opinion/trump-stephen-miller-republicans.html",
-    "title": "Republicans Lost Everywhere. Except for Stephen Miller.",
-    "titleZh": "共和黨到處失敗。除了史蒂芬·米勒。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/opinion/trump-stephen-miller-republicans.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10edsall-chvt/10edsall-chvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T20:54:42.231Z"
-  },
-  {
-    "id": "https://flipso.com/p/kklf510pd",
-    "title": "Uranium cubes reveal why the German nuclear project failed",
-    "titleZh": "鈾立方揭示了德國核子計畫失敗的原因",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/kklf510pd?ref=rss",
-    "image": "https://cdn.flipso.com/p/kklf510pd_square.jpg",
-    "pushedAt": "2026-11-12T17:49:27.665Z"
-  },
-  {
     "id": "https://flipso.com/p/8c2bh1ach",
     "title": "BU study says giant crane ‘species’ was just a larger common crane",
     "titleZh": "波士頓大學的研究表明巨型起重機「物種」只是更大的普通起重機",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/december-fed-hike-priced-in-jpmorgan-s-kelsey-berro-video",
     "image": null,
     "pushedAt": "2026-11-12T19:28:27.615Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+    "title": "For boomers, economic boom times are over",
+    "titleZh": "對於嬰兒潮世代來說，經濟繁榮時期已經結束",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+    "image": null,
+    "pushedAt": "2026-11-12T19:28:55.683Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
+    "title": "Microsoft Says It’s Working to Fix Outlook, Copilot Outage",
+    "titleZh": "微軟表示正在努力修復 Outlook、Copilot 中斷問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
+    "image": null,
+    "pushedAt": "2026-11-12T19:29:00.704Z"
   }
 ]
