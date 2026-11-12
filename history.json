@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
-    "title": "This Law Firm Just Bought Malpractice Insurance for its A.I. Agents",
-    "titleZh": "這家律師事務所剛剛為其人工智慧購買了醫療事故保險。代理商",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T09:06:43.421Z"
-  },
-  {
     "id": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82",
     "title": "US affordability tracker: the data that will define the rest of Trump’s presidency — and the 2028 election",
     "titleZh": "美國負擔能力追蹤器：該數據將決定川普剩餘的總統任期以及 2028 年大選",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-s-russia-diesel-deal-struggles-to-find-willing-us-buyer",
     "image": null,
     "pushedAt": "2026-11-12T17:12:29.308Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/nexperia-administrators-to-seek-investor-interest-in-chipmaker",
+    "title": "Nexperia Administrators to Seek Investor Interest in Chipmaker",
+    "titleZh": "Nexperia 管理人員尋求投資者對晶片製造商的興趣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nexperia-administrators-to-seek-investor-interest-in-chipmaker",
+    "image": null,
+    "pushedAt": "2026-11-12T17:13:00.927Z"
   }
 ]
