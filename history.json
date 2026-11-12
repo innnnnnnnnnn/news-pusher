@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
-    "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
-    "titleZh": "世界頂尖外交官的“混亂競賽”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T07:48:18.310Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/coinbase-gets-national-bank-charter-approval-video",
     "title": "Coinbase Gets National Bank Charter Approval",
     "titleZh": "Coinbase 獲得國家銀行章程批准",
@@ -7818,7 +7809,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html",
     "image": "https://static01.nyt.com/images/2026/11/12/well/12WELL-ACS-PROSTATE2/12WELL-ACS-PROSTATE2-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T16:30:07.488Z"
+    "pushedAt": "2026-11-12T18:56:41.371Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-12/apple-homeview-review-it-s-a-latecomer-but-the-ecosystem-integration-is-a-plus",
@@ -8547,7 +8538,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/21462c5b-0770-49ee-a248-9c01f03ddffe",
     "image": null,
-    "pushedAt": "2026-11-12T16:29:37.966Z"
+    "pushedAt": "2026-11-12T18:56:16.345Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-ceo-must-be-a-tech-mind-says-mortonson-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-tech-11-12-2026-video",
     "image": null,
     "pushedAt": "2026-11-12T18:54:56.821Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+    "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "titleZh": "聯準會不會在 2027 年 10 月會議上舉行政策投票",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-fed-meetings-pmbj/12dc-fed-meetings-pmbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T18:57:09.898Z"
   }
 ]
