@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
-    "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
-    "titleZh": "OpenAI 第三季營收飆升近 50% 至 100 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
-    "image": null,
-    "pushedAt": "2026-11-11T08:05:14.480Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/opentable-ceo-on-2027-dining-trends-report-video",
     "title": "OpenTable CEO on 2027 Dining Trends Report",
     "titleZh": "OpenTable 執行長發表 2027 年餐飲趨勢報告",
@@ -357,7 +348,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T18:20:01.336Z"
+    "pushedAt": "2026-11-12T20:53:07.442Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-boosts-forecast-easing-slowdown-concerns-video",
@@ -6639,7 +6630,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/magazine/air-travel-safety-faa-aviation.html",
     "image": null,
-    "pushedAt": "2026-11-12T18:18:21.053Z"
+    "pushedAt": "2026-11-12T20:51:25.032Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
@@ -6648,7 +6639,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
     "image": null,
-    "pushedAt": "2026-11-12T18:18:46.117Z"
+    "pushedAt": "2026-11-12T20:51:50.804Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-inflation-accelerates-keeping-rate-hike-pressure-on-rbi",
@@ -6657,7 +6648,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-inflation-accelerates-keeping-rate-hike-pressure-on-rbi",
     "image": null,
-    "pushedAt": "2026-11-12T18:19:35.653Z"
+    "pushedAt": "2026-11-12T20:52:43.145Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/how-prediction-markets-became-a-force-in-us-elections",
@@ -7197,7 +7188,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12db-huang-bmgj/12db-huang-bmgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T18:19:10.959Z"
+    "pushedAt": "2026-11-12T20:52:16.090Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/shrinking-bdcs-keep-private-credit-on-sidelines-as-rates-rise",
     "image": null,
     "pushedAt": "2026-11-12T20:50:31.964Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-victims.html",
+    "title": "What We Know About the Victims of the Brooklyn Building Collapse",
+    "titleZh": "我們對布魯克林大樓倒塌受害者的了解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-victims.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-victims-topart-gmzb/12met-building-collapse-live-victims-topart-gmzb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-12T20:53:34.630Z"
   }
 ]
