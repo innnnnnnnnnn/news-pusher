@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/0ffopx6b4",
-    "title": "Akrotiri, Greece’s Bronze Age Pompeii",
-    "titleZh": "阿克羅蒂裡，希臘青銅時代的龐貝古城",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/0ffopx6b4?ref=rss",
-    "image": "https://cdn.flipso.com/p/0ffopx6b4_square.jpg",
-    "pushedAt": "2026-11-11T16:01:22.499Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -5415,7 +5406,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
-    "pushedAt": "2026-11-12T12:18:49.567Z"
+    "pushedAt": "2026-11-12T14:43:56.796Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
@@ -7737,7 +7728,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
     "image": null,
-    "pushedAt": "2026-11-12T12:18:24.223Z"
+    "pushedAt": "2026-11-12T14:43:32.238Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/china-s-zhuanzhuan-is-said-to-have-filed-for-500-million-hk-ipo",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc5c9b44-a034-4d82-9b8e-28f80a836427.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-12T14:43:04.590Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+    "titleZh": "黃仁勳顛覆 Nvidia 的事件：事件時間表",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T14:44:26.457Z"
   }
 ]
