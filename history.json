@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7",
-    "title": "Trump’s defeat heralds a US retreat",
-    "titleZh": "川普的失敗預示著美國的撤退",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T04:50:55.174Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/tele-columbus-lenders-near-350-million-financing-in-debt-rework",
     "title": "Tele Columbus Lenders Near €350 Million Financing in Debt Rework",
     "titleZh": "哥倫布電信貸款機構為債務重組提供近 3.5 億歐元融資",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/at-hyperliquid-traders-bid-for-edge-in-crypto-s-high-speed-race",
     "image": null,
     "pushedAt": "2026-11-12T15:11:11.409Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+    "title": "Jensen Huang is out. His successor has the toughest job in tech",
+    "titleZh": "黃仁勳出局了。他的繼任者從事科技領域最艱難的工作",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+    "image": null,
+    "pushedAt": "2026-11-12T15:12:10.111Z"
   }
 ]
