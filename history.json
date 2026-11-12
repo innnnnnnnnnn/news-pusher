@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/jensen-huang-s-return-magnifies-succession-risks-video",
-    "title": "Jensen Huang’s 700,000% Return Magnifies Nvidia Succession Risks",
-    "titleZh": "黃仁勳 700,000% 的回報放大了 Nvidia 的繼任風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/jensen-huang-s-return-magnifies-succession-risks-video",
-    "image": null,
-    "pushedAt": "2026-11-11T02:29:33.481Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/opinion/israel-elections-netanyahu-eisenkot-trump.html",
     "title": "It’s Time for Israelis to Throw Out Their Trump",
     "titleZh": "以色列人是時候推翻他們的川普了",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/-essential-that-us-upholds-export-controls-buchanan-video",
     "image": null,
     "pushedAt": "2026-11-12T20:19:18.742Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+    "title": "A Key Paris Agreement Goal Is Dead. What Now?",
+    "titleZh": "《巴黎協定》的一個關鍵目標已經落空。現在怎麼辦？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T20:19:49.471Z"
   }
 ]
