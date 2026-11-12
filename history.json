@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5",
-    "title": "Trump has taught the world that tariffs are useless",
-    "titleZh": "川普已經告訴世界關稅是沒有用的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-10T14:21:00.563Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
     "title": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
     "titleZh": "馬西推動彈劾赫格斯猛烈抨擊批評者",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/new-zealand-bond-auction-demand-climbs-to-highest-since-2013",
     "image": null,
     "pushedAt": "2026-11-12T04:24:15.327Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688",
+    "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
+    "titleZh": "國宴備受關注：英偉達黃仁勳在川普華盛頓失寵",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9062e687-b6c0-4c77-8611-4e347f6eea3b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-12T04:24:44.569Z"
   }
 ]
