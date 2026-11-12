@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/house-nears-test-vote-on-hegseth-impeachment-video",
-    "title": "House Nears Test Vote on Hegseth Impeachment",
-    "titleZh": "眾議院即將對赫格斯彈劾進行測試投票",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/house-nears-test-vote-on-hegseth-impeachment-video",
-    "image": null,
-    "pushedAt": "2026-11-11T01:13:04.270Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/kpmg-chief-economist-predicts-hot-pce-report-after-cpi-video",
     "title": "KPMG Chief Economist Predicts Hot PCE Report After CPI",
     "titleZh": "畢馬威首席經濟學家預測PCE報告將繼CPI之後熱銷",
@@ -825,7 +816,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8da5a8f3-2e3a-4f14-9eac-1abaa8798d82?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T18:29:55.726Z"
+    "pushedAt": "2026-11-12T21:05:26.167Z"
   },
   {
     "id": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4",
@@ -834,7 +825,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T18:30:22.617Z"
+    "pushedAt": "2026-11-12T21:05:50.270Z"
   },
   {
     "id": "https://www.ft.com/content/efd7f5d4-acd8-42a2-b5c7-2b687938dca2",
@@ -7134,7 +7125,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
     "image": null,
-    "pushedAt": "2026-11-12T18:29:04.796Z"
+    "pushedAt": "2026-11-12T21:04:35.692Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/huang-says-not-my-job-to-agree-or-disagree-with-trump-video",
@@ -7836,7 +7827,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd53eebb3-f6d0-434f-b5e8-d11a7a5d64eb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T18:29:30.612Z"
+    "pushedAt": "2026-11-12T21:05:01.651Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-shake-up-is-a-buying-opportunity-analyst-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff402cc4e-e29b-428f-a65d-c36857de6765.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-12T21:04:08.042Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+    "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+    "titleZh": "被指控試圖為俄羅斯從事間諜活動的軍官是阿富汗戰爭老兵",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-soldier-russia-mfbj/12int-soldier-russia-mfbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T21:06:15.134Z"
   }
 ]
