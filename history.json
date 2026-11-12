@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bec8ac4e-4c1d-424a-92af-f7330d9024d2",
-    "title": "‘Terrible backdrop’ looms over UN climate summit in Turkey",
-    "titleZh": "土耳其聯合國氣候峰會籠罩著“可怕的背景”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bec8ac4e-4c1d-424a-92af-f7330d9024d2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T03:57:24.621Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
     "title": "South Africa’s Politics May Never Be the Same Again",
     "titleZh": "南非的政治可能再也不會一樣了",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/2xihll5q1?ref=rss",
     "image": "https://cdn.flipso.com/p/2xihll5q1_square.jpg",
     "pushedAt": "2026-11-12T19:32:59.040Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
+    "title": "I Saw the Future of Mind-Reading",
+    "titleZh": "我看到了讀心術的未來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
+    "image": "https://static01.nyt.com/images/2026/07/08/opinion/00paglen-7/00paglen-7-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T19:33:30.115Z"
   }
 ]
