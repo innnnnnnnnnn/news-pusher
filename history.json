@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571",
-    "title": "Weil partners approve plan to shut down law firm",
-    "titleZh": "威爾合夥人批准關閉律師事務所的計劃",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T04:47:27.591Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
     "title": "NYSE Taps Avalanche For Tokenized Stocks",
     "titleZh": "紐約證券交易所利用 Avalanche 開發代幣化股票",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/power-on-podcast-the-ai-chip-race-video",
     "image": null,
     "pushedAt": "2026-11-12T17:23:22.083Z"
+  },
+  {
+    "id": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82",
+    "title": "US affordability tracker: the data that will define the rest of Trump’s presidency — and the 2028 election",
+    "titleZh": "美國負擔能力追蹤器：該數據將決定川普剩餘的總統任期以及 2028 年大選",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T17:23:50.551Z"
   }
 ]
