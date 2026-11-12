@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "title": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
-    "titleZh": "隨著聯準會升息押注增加，亞洲股市和債券將下跌：市場結束",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "image": null,
-    "pushedAt": "2026-11-11T22:29:14.434Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-    "title": "Medicare Advantage vs. Traditional Medicare, Explained",
-    "titleZh": "醫療保險優勢與傳統醫療保險的解釋",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T10:27:49.891Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
     "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
     "titleZh": "世界上的動漫還不夠多。日本能否從其成功中獲利？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
     "image": null,
     "pushedAt": "2026-11-12T20:42:21.548Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bill-simmons-canceled-chatgpt-partnership-after-fan-backlash",
+    "title": "Bill Simmons Canceled ChatGPT Partnership After Fan Backlash",
+    "titleZh": "粉絲強烈反對後，比爾·西蒙斯取消了 ChatGPT 合作夥伴關係",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bill-simmons-canceled-chatgpt-partnership-after-fan-backlash",
+    "image": null,
+    "pushedAt": "2026-11-12T20:42:51.831Z"
+  },
+  {
+    "id": "https://flipso.com/p/udzq6rbbm",
+    "title": "Making any integer with four 2s",
+    "titleZh": "用四個 2 產生任意整數",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
+    "image": null,
+    "pushedAt": "2026-11-12T20:42:55.622Z"
   }
 ]
