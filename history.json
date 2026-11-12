@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
-    "title": "NYSE Taps Avalanche For Tokenized Stocks",
-    "titleZh": "紐約證券交易所利用 Avalanche 開發代幣化股票",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/nyse-taps-avalanche-for-tokenized-stocks-video",
-    "image": null,
-    "pushedAt": "2026-11-10T21:43:26.483Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/google-s-gemini-targets-health-care-s-data-problem-video",
     "title": "Google’s Gemini Targets Health Care’s Data Problem",
     "titleZh": "Google Gemini 解決醫療保健數據問題",
@@ -4767,7 +4758,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:48:06.640Z"
+    "pushedAt": "2026-11-12T17:26:02.940Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
@@ -6279,7 +6270,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/64198d59-7a03-4f1c-89c6-81ed8bdc5448?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T14:47:16.851Z"
+    "pushedAt": "2026-11-12T17:25:37.200Z"
   },
   {
     "id": "https://www.ft.com/content/31fe2e2d-630d-47c6-b747-54d4310ebf79",
@@ -7782,7 +7773,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/peru-likely-to-raise-rate-for-first-time-since-2023-day-guide",
     "image": null,
-    "pushedAt": "2026-11-12T14:46:27.073Z"
+    "pushedAt": "2026-11-12T17:24:45.499Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
@@ -7791,7 +7782,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10db-huang-tckj/10db-huang-tckj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:46:52.223Z"
+    "pushedAt": "2026-11-12T17:25:11.346Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-considers-huang-s-future-after-affair-video",
@@ -8385,7 +8376,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
     "image": null,
-    "pushedAt": "2026-11-12T14:45:58.879Z"
+    "pushedAt": "2026-11-12T17:24:19.586Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-paris-jewelry-robbed-in-broad-daylight-europe-1-says",
@@ -8394,7 +8385,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-paris-jewelry-robbed-in-broad-daylight-europe-1-says",
     "image": null,
-    "pushedAt": "2026-11-12T14:48:34.631Z"
+    "pushedAt": "2026-11-12T17:26:29.911Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T17:23:50.551Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
+    "title": "Meet the contenders to succeed Jensen Huang",
+    "titleZh": "認識接替黃仁勳的競爭者",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
+    "image": null,
+    "pushedAt": "2026-11-12T17:26:57.924Z"
   }
 ]
