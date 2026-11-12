@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-    "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-    "titleZh": "也門戰爭最慘重的 24 小時之一造成 50 多人死亡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T07:47:53.596Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
     "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
     "titleZh": "世界頂尖外交官的“混亂競賽”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/how-to-use-etfs-to-buy-a-market-freak-out-and-manage-ai-anxiety",
     "image": null,
     "pushedAt": "2026-11-12T18:54:24.713Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-tech-11-12-2026-video",
+    "title": "Jensen Huang Ousted By Nvidia Board As CEO",
+    "titleZh": "黃仁勳 (Jensen Huang) 被 Nvidia 董事會罷免執行長職務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-tech-11-12-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-12T18:54:56.821Z"
   }
 ]
