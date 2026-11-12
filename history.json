@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/canada-s-top-pension-merges-active-equities-arm-lays-off-dozens",
-    "title": "Canada’s Top Pension Merges Active Equities Arm, Cuts Dozens",
-    "titleZh": "加拿大頂級退休金合併活躍股票部門並裁員數十人",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/canada-s-top-pension-merges-active-equities-arm-lays-off-dozens",
-    "image": null,
-    "pushedAt": "2026-11-10T15:55:23.216Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
     "title": "Saudi Liquidity Squeeze Adds to Challenges for Crown Prince",
     "titleZh": "沙烏地阿拉伯流動性緊縮加劇王儲的經濟壓力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/peru-likely-to-raise-rate-for-first-time-since-2023-day-guide",
     "image": null,
     "pushedAt": "2026-11-12T12:19:23.312Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
+    "title": "Nvidia’s Game of Thrones",
+    "titleZh": "英偉達的權力遊戲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10db-huang-tckj/10db-huang-tckj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T12:19:51.968Z"
   }
 ]
