@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/vanguard-inks-4-billion-of-private-debt-to-fund-altruist-deal",
-    "title": "Vanguard Inks $4 Billion of Private Debt for Altruist Deal",
-    "titleZh": "Vanguard 簽署 40 億美元私人債務以資助利他主義交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/vanguard-inks-4-billion-of-private-debt-to-fund-altruist-deal",
-    "image": null,
-    "pushedAt": "2026-11-10T16:16:53.510Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/gfl-environmental-rejects-takeover-bids-opts-to-remain-public",
     "title": "GFL Environmental Rejects Takeover Bids, Opts to Remain Public",
     "titleZh": "GFL Environmental 拒絕收購要約，選擇維持上市狀態",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9ef2ed1e-5a67-4b28-8939-0c8e07ac6444?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-12T12:47:23.042Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+    "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+    "titleZh": "報告顯示美國從委內瑞拉石油中獲得了 120 億美元",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10venezuela-us-funds-tfkp/10venezuela-us-funds-tfkp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T12:47:52.727Z"
   }
 ]
