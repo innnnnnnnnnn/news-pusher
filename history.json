@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-    "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
-    "titleZh": "俄羅斯最勇敢的報紙《新報》熄燈",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/world/europe/10vid-russia-newspaper-cover-image/10vid-russia-newspaper-cover-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:42:34.968Z"
-  },
-  {
     "id": "https://www.ft.com/content/3527cf9e-3980-4ccd-a90f-04df0fedce5a",
     "title": "Labour and the Tories draw battle lines on welfare",
     "titleZh": "工黨和保守黨在福利問題上劃清界限",
@@ -4924,12 +4915,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
-    "title": "Crunch Fitness Seeks to Borrow $800 Million From ABS Bond Sale",
+    "title": "Crunch Fitness Seeks to Borrow $800 Million in ABS Bond Sale",
     "titleZh": "Crunch Fitness 尋求從 ABS 債券發行中藉入 8 億美元",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
     "image": null,
-    "pushedAt": "2026-11-11T22:23:16.330Z"
+    "pushedAt": "2026-11-12T16:42:36.477Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/opinion/midterms-politics-culture.html",
@@ -7197,7 +7188,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T14:08:45.770Z"
+    "pushedAt": "2026-11-12T16:41:20.277Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/italy-s-poste-targets-600-million-fund-amid-ai-data-center-boom",
@@ -8259,16 +8250,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-12T14:09:12.765Z"
+    "pushedAt": "2026-11-12T16:41:45.397Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "title": "Singapore Says U.S. Not Helpful on Megaspeed Investigation",
+    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
     "titleZh": "新加坡稱美國對 Megaspeed 調查沒有幫助",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:09:17.563Z"
+    "pushedAt": "2026-11-12T16:42:11.510Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-ousted-as-nvidia-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-on-ai-optimism-and-nvidia-s-next-ceo-video",
     "image": null,
     "pushedAt": "2026-11-12T16:40:50.235Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-we-know-about-nvidia-s-interim-ceo-colette-kress-video",
+    "title": "What We Know About Nvidia's Interim CEO Colette Kress",
+    "titleZh": "我們對 Nvidia 臨時執行長 Colette Kress 的了解",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/what-we-know-about-nvidia-s-interim-ceo-colette-kress-video",
+    "image": null,
+    "pushedAt": "2026-11-12T16:43:04.044Z"
   }
 ]
