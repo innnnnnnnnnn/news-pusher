@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/amazon-s-ring-unveils-250-flying-security-camera-after-delays",
-    "title": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays",
-    "titleZh": "亞馬遜 Ring 推出售價 250 美元的飛行安全攝影機",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/amazon-s-ring-unveils-250-flying-security-camera-after-delays",
-    "image": null,
-    "pushedAt": "2026-11-10T15:58:10.237Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
     "title": "The Jensen Huang Affair",
     "titleZh": "黃仁勳事件",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/arts/television/desi-lydic-democrats-miss-pete-hegseth-impeachment-vote.html",
     "image": null,
     "pushedAt": "2026-11-12T12:29:07.325Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/brazilian-inflation-ticks-up-after-lula-s-win-rattles-markets",
+    "title": "Brazilian Inflation Ticks Up After Lula’s Win Rattles Markets",
+    "titleZh": "盧拉獲勝後巴西通膨加劇擾亂市場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/brazilian-inflation-ticks-up-after-lula-s-win-rattles-markets",
+    "image": null,
+    "pushedAt": "2026-11-12T12:35:41.939Z"
   }
 ]
