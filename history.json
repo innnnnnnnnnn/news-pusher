@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-    "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-    "titleZh": "以色列反對黨領袖加迪艾森科特是誰？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:31:14.266Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/macquarie-to-pay-fine-on-marketing-failure-as-new-ceo-arrives",
     "title": "Macquarie to Pay Fine on Marketing Failure as New CEO Arrives",
     "titleZh": "新任執行長上任後，麥格理將因行銷失敗而支付罰款",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
     "image": null,
     "pushedAt": "2026-11-12T21:44:21.187Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade",
+    "title": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
+    "titleZh": "華爾街吹口哨超越英偉達風險，押注不穩定的人工智慧貿易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-12T21:44:51.822Z"
   }
 ]
