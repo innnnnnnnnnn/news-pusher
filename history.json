@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
-    "title": "Fed's Waller Supports Rate Hike in December",
-    "titleZh": "聯準會沃勒支持12月升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
-    "image": null,
-    "pushedAt": "2026-11-10T12:50:03.681Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/-marry-the-house-date-the-rate-backfires-for-stuck-homeowners",
     "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
     "titleZh": "「嫁給房子，確定價格」對陷入困境的房主來說適得其反",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/alice-huang-resurfaces-in-beijing-amid-nvidia-scandal-video",
     "image": null,
     "pushedAt": "2026-11-12T09:18:59.881Z"
+  },
+  {
+    "id": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72",
+    "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+    "titleZh": "川普撤回打擊伊朗的威脅，油價跌破 90 美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-12T09:19:26.618Z"
   }
 ]
