@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-10/nvidia-ceo-jensen-huang-s-affair-shows-pitfalls-of-imperious-leaders",
-    "title": "Nvidia CEO Jensen Huang’s Affair Shows Pitfalls of Imperious Leaders",
-    "titleZh": "英偉達執行長黃仁勳的事件揭露了專橫領導者的陷阱",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/nvidia-ceo-jensen-huang-s-affair-shows-pitfalls-of-imperious-leaders",
-    "image": null,
-    "pushedAt": "2026-11-10T17:00:14.119Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
     "title": "The A.I. Spy Thriller",
     "titleZh": "人工智慧間諜驚悚片",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
     "image": null,
     "pushedAt": "2026-11-12T10:59:15.662Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-inflation-accelerates-keeping-rate-hike-pressure-on-rbi",
+    "title": "India’s Inflation Accelerates, Keeping Rate-Hike Pressure on RBI",
+    "titleZh": "印度通膨加速，印度央行持續升息壓力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-inflation-accelerates-keeping-rate-hike-pressure-on-rbi",
+    "image": null,
+    "pushedAt": "2026-11-12T10:59:46.385Z"
   }
 ]
