@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/udzq6rbbm",
-    "title": "Making any integer with four 2s",
-    "titleZh": "用四個 2 產生任意整數",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/udzq6rbbm?ref=rss",
-    "image": null,
-    "pushedAt": "2026-11-12T19:39:47.106Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
     "title": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
     "titleZh": "隨著聯準會升息押注增加，亞洲股市和債券將下跌：市場結束",
@@ -8403,7 +8394,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-RUBIO-bjgk/10DC-RUBIO-bjgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T18:07:06.972Z"
+    "pushedAt": "2026-11-12T20:41:29.490Z"
   },
   {
     "id": "https://flipso.com/p/t5lh7g4zl",
@@ -8412,7 +8403,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/t5lh7g4zl?ref=rss",
     "image": "https://cdn.flipso.com/p/t5lh7g4zl_square.jpg",
-    "pushedAt": "2026-11-12T18:07:34.765Z"
+    "pushedAt": "2026-11-12T20:41:53.843Z"
   },
   {
     "id": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-ai-industry-face-future-without-jensen-huang-video",
     "image": null,
     "pushedAt": "2026-11-12T20:41:01.641Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
+    "title": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
+    "titleZh": "詹森退出、人工智慧債務受到審查、國債下滑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-12T20:42:21.548Z"
   }
 ]
