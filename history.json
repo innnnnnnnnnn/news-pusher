@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
-    "title": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
-    "titleZh": "Weil Gotshal Partners 在近一個世紀後投票決定關閉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-ai-insurance-02-gkpt/10biz-ai-insurance-02-gkpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:41:20.274Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
     "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
     "titleZh": "美國批准向辦公室空置、關係緊張的中國公司供應英偉達晶片",
@@ -2931,7 +2922,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-heating-oil-pwlv/11biz-heating-oil-pwlv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:06:14.340Z"
+    "pushedAt": "2026-11-12T16:37:38.163Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
@@ -2940,7 +2931,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
     "image": null,
-    "pushedAt": "2026-11-12T14:06:39.136Z"
+    "pushedAt": "2026-11-12T16:38:03.841Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
@@ -7188,7 +7179,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
     "image": null,
-    "pushedAt": "2026-11-12T14:05:24.486Z"
+    "pushedAt": "2026-11-12T16:36:47.530Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/dining/advent-calendars-food-drinks-snacks.html",
@@ -7197,7 +7188,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/dining/advent-calendars-food-drinks-snacks.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10FD-advent-calendar-thumb1-qpfj/10FD-advent-calendar-thumb1-qpfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:05:49.678Z"
+    "pushedAt": "2026-11-12T16:37:13.110Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/dubai-tycoon-expects-billions-from-anthropic-ai-investments",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/newton-eyes-equipment-loan-abs-bond-sale-including-ai-chip-debt",
     "image": null,
     "pushedAt": "2026-11-12T16:36:18.727Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bond-traders-see-elliott-s-citgo-deal-imperiled-by-oil-windfall",
+    "title": "Bond Traders See Elliott’s Citgo Deal Imperiled by Oil Windfall",
+    "titleZh": "債券交易員認為埃利奧特的 Citgo 交易因石油暴利而受到威脅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bond-traders-see-elliott-s-citgo-deal-imperiled-by-oil-windfall",
+    "image": null,
+    "pushedAt": "2026-11-12T16:38:31.339Z"
   }
 ]
