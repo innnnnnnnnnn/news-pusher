@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-    "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-    "titleZh": "法國抗議活動在不滿之秋又展開",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-hqvk/07int-france-protest-hqvk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T16:48:58.063Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video",
     "title": "Amazon’s Ring Unveils Flying Security Camera",
     "titleZh": "亞馬遜 Ring 推出飛行安全攝影機",
@@ -4299,7 +4290,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T12:38:58.454Z"
+    "pushedAt": "2026-11-12T15:06:04.466Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
@@ -7755,7 +7746,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
     "image": null,
-    "pushedAt": "2026-11-12T12:37:55.193Z"
+    "pushedAt": "2026-11-12T15:04:48.467Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
@@ -8358,7 +8349,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
     "image": null,
-    "pushedAt": "2026-11-12T12:38:24.012Z"
+    "pushedAt": "2026-11-12T15:05:13.379Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
@@ -8367,7 +8358,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
     "image": null,
-    "pushedAt": "2026-11-12T12:38:29.899Z"
+    "pushedAt": "2026-11-12T15:05:38.646Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-12T15:04:21.170Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-hammack-calls-for-more-restrictive-rate-policy-video",
+    "title": "Fed's Hammack Calls for More Restrictive Rate Policy",
+    "titleZh": "聯準會哈馬克呼籲採取更嚴格的利率政策",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-hammack-calls-for-more-restrictive-rate-policy-video",
+    "image": null,
+    "pushedAt": "2026-11-12T15:06:58.449Z"
   }
 ]
