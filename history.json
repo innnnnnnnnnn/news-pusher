@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/opinion/trump-republicans-maga-endgame.html",
-    "title": "JD Vance Needs to Stop Trying",
-    "titleZh": "JD 萬斯需要停止嘗試",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/opinion/trump-republicans-maga-endgame.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09lozada-wpjv/09lozada-wpjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T07:59:56.717Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
     "title": "Iran War Unexpectedly Drove Down Carbon Emissions This Year",
     "titleZh": "伊朗戰爭意外降低了今年的碳排放量",
@@ -3534,7 +3525,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/35gmqe8vi?ref=rss",
     "image": "https://cdn.flipso.com/p/35gmqe8vi_square.jpg",
-    "pushedAt": "2026-11-12T01:05:48.612Z"
+    "pushedAt": "2026-11-12T03:13:28.893Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/chile-pension-funds-swap-losses-narrow-as-treasuries-rally",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/taiwan-drafts-plans-for-wealth-fund-aims-for-bill-by-year-end",
     "image": null,
     "pushedAt": "2026-11-12T02:50:08.979Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+    "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+    "titleZh": "救援人員稱，對加薩醫院的攻擊造成至少 6 人死亡、20 人受傷",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+    "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11int-Gaza-Hospital-fpct/11int-Gaza-Hospital-fpct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T03:13:56.006Z"
   }
 ]
