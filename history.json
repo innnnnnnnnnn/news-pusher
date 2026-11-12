@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7",
-    "title": "Alice Huang’s tangled web of connections",
-    "titleZh": "Alice Huang 錯綜複雜的人脈網絡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd34fac3b-46f1-425b-8f8d-228f51793ccb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T04:35:00.625Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
-    "title": "Tribunal Finds Emerge Canada Mismanaged Cathie Wood-Linked ETFs",
-    "titleZh": "法院裁定 Emerge Canada 管理不善 Cathie Wood 掛鉤 ETF",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
-    "image": null,
-    "pushedAt": "2026-11-10T18:56:54.523Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html",
     "title": "Jemima Goldsmith, Russell Brand’s Ex-Partner, Accuses Him of Abuse",
     "titleZh": "拉塞爾布蘭德的前合夥人傑米瑪戈德史密斯指控他虐待",
@@ -978,7 +960,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/11int-theworld-iran-options-01-promo/11int-theworld-iran-options-01-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T12:22:29.654Z"
+    "pushedAt": "2026-11-12T14:49:02.112Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-paris-jewelry-robbed-in-broad-daylight-europe-1-says",
     "image": null,
     "pushedAt": "2026-11-12T14:48:34.631Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+    "title": "Jensen Huang Was the Mascot for the A.I. Boom Powering the U.S. Economy",
+    "titleZh": "黃仁勳是人工智慧的吉祥物。繁榮為美國經濟提供動力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-12T14:49:31.273Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/freezer-hacks-a-wake-up-call-for-society-pentagon-cio-says",
+    "title": "Freezer Hacks ‘a Wake-Up Call for Society’ Pentagon CIO Says",
+    "titleZh": "五角大廈首席資訊長表示，冰箱被駭客攻擊“給社會敲響了警鐘”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/freezer-hacks-a-wake-up-call-for-society-pentagon-cio-says",
+    "image": null,
+    "pushedAt": "2026-11-12T14:49:38.789Z"
   }
 ]
