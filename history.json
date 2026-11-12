@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
-    "title": "Japan’s Household Spending Slumps Most Since Pandemic",
-    "titleZh": "日本家庭支出自大流行以來降幅最大",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
-    "image": null,
-    "pushedAt": "2026-11-10T02:23:20.134Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-    "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
-    "titleZh": "農民對川普政策的不滿如何幫助民主黨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-farm-vote-01-hlmz/06biz-farm-vote-01-hlmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T09:08:39.210Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
     "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
     "titleZh": "親屬稱，沙烏地阿拉伯領導的部隊轟炸也門住宅，炸死九名家庭成員",
@@ -8529,7 +8511,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
     "image": null,
-    "pushedAt": "2026-11-11T22:48:24.727Z"
+    "pushedAt": "2026-11-12T01:15:41.535Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/jougckm25?ref=rss",
     "image": null,
     "pushedAt": "2026-11-12T01:15:13.507Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+    "title": "Despite recent misses, political polling is more accurate than ever",
+    "titleZh": "儘管最近出現了失誤，但政治民意調查比以往任何時候都更加準確",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+    "image": null,
+    "pushedAt": "2026-11-12T01:16:09.068Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-close-11-11-2026-video",
+    "title": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
+    "titleZh": "AI Trade 捲土重來、Anthropic IPO 前景、Nordstrom 聯合執行長談私有化",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-close-11-11-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-12T01:16:13.450Z"
   }
 ]
