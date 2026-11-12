@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-has-a-sentiment-problem-even-strong-earnings-can-t-fix",
-    "title": "CoreWeave Has a Sentiment Problem Even Strong Earnings Can’t Fix",
-    "titleZh": "CoreWeave 有情緒問題，即使強勁的獲利也無法解​​決",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-has-a-sentiment-problem-even-strong-earnings-can-t-fix",
-    "image": null,
-    "pushedAt": "2026-11-10T19:34:46.033Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-10/can-china-upend-commercial-aviation-emirates-says-be-prepared",
-    "title": "Can China Upend Commercial Aviation? Emirates Says Be Prepared",
-    "titleZh": "中國能否顛覆商業航空？阿聯酋航空表示要做好準備",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/can-china-upend-commercial-aviation-emirates-says-be-prepared",
-    "image": null,
-    "pushedAt": "2026-11-10T12:09:55.576Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
     "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
     "titleZh": "愛爾蘭稱歐洲的炸彈威脅可能是一場協調一致的行動",
@@ -3498,7 +3480,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/ternium-says-mexico-steel-imports-need-strict-tariff-enforcement",
     "image": null,
-    "pushedAt": "2026-11-12T06:06:13.878Z"
+    "pushedAt": "2026-11-12T08:23:07.319Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-backed-cohere-in-a-fight-to-secure-ai-computing-power",
@@ -7062,7 +7044,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
     "image": null,
-    "pushedAt": "2026-11-12T06:06:37.841Z"
+    "pushedAt": "2026-11-12T08:23:30.881Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/john-kerry-on-the-case-for-clean-energy-video",
@@ -7089,7 +7071,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:07:01.918Z"
+    "pushedAt": "2026-11-12T08:23:54.823Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
@@ -8619,7 +8601,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09xp-lyft-vmlk/09xp-lyft-vmlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T06:05:47.200Z"
+    "pushedAt": "2026-11-12T08:22:43.541Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/aussie-falls-to-lowest-since-january-on-rba-slowdown-ai-fears",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/bhp-plans-overhaul-of-australia-iron-ore-business-to-cut-costs",
     "image": null,
     "pushedAt": "2026-11-12T08:22:15.112Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/china-and-korea-will-outperform-taiwan-3-minutes-mliv-video",
+    "title": "China and Korea Will Outperform Taiwan: Market Analysis",
+    "titleZh": "中國和韓國將超越台灣：市場分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/china-and-korea-will-outperform-taiwan-3-minutes-mliv-video",
+    "image": null,
+    "pushedAt": "2026-11-12T08:24:20.216Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/santander-sweetens-offer-for-brazil-unit-stake-with-5-increase",
+    "title": "Santander Sweetens Offer for Brazil Unit Stake With 5% Increase",
+    "titleZh": "桑坦德銀行提高巴西單位股權出價 5%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/santander-sweetens-offer-for-brazil-unit-stake-with-5-increase",
+    "image": null,
+    "pushedAt": "2026-11-12T08:24:25.382Z"
   }
 ]
