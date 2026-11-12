@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-brief-11-10-2026-video",
-    "title": "Stock Rebound Eases Ahead of CPI; Anthropic IPO Marketing",
-    "titleZh": "股市反彈先於消費者物價指數 (CPI) 放緩；人擇IPO行銷",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-brief-11-10-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-10T13:18:12.650Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook",
     "title": "Czech Central Bank Keeps Cautious Policy Stance on Price Outlook",
     "titleZh": "捷克央行對物價前景保持謹慎的政策立場",
@@ -7376,8 +7367,8 @@
     "titleZh": "中國汽車製造商為歐洲陷入困境的鋼鐵業提供生命線",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f4e00d0-1ffd-4b3e-a510-d684eab64ac4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbdaa5b08-97d8-4606-a6b3-cf8852218748.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T09:39:22.722Z"
+    "image": null,
+    "pushedAt": "2026-11-12T12:09:36.988Z"
   },
   {
     "id": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa",
@@ -7386,7 +7377,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T09:39:46.487Z"
+    "pushedAt": "2026-11-12T12:10:02.828Z"
   },
   {
     "id": "https://www.ft.com/content/b9ad2b19-4f2a-4f26-89b6-940985a0b9d4",
@@ -7395,7 +7386,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b9ad2b19-4f2a-4f26-89b6-940985a0b9d4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T09:40:36.754Z"
+    "pushedAt": "2026-11-12T12:10:28.453Z"
   },
   {
     "id": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round",
     "image": null,
     "pushedAt": "2026-11-12T12:09:08.404Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-12/trump-asked-to-preserve-nvidia-documents-by-senators-video",
+    "title": "Trump Asked to Preserve Nvidia Documents by Senators",
+    "titleZh": "參議員要求川普保存 Nvidia 文件",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/trump-asked-to-preserve-nvidia-documents-by-senators-video",
+    "image": null,
+    "pushedAt": "2026-11-12T12:10:55.930Z"
   }
 ]
