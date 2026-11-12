@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
-    "title": "The Blue Wave Washed Across Much of America. But Not Here.",
-    "titleZh": "藍色浪潮席捲了美國大部分地區。但不在這裡。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-southdakota-red-dan-pzfv/10nat-southdakota-red-dan-pzfv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-10T19:16:56.776Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
     "title": "Democrats Will Be in Charge of Congress. Elizabeth Warren Has a Plan for That.",
     "titleZh": "民主黨將掌管國會。伊麗莎白沃倫對此有一個計劃。",
@@ -1131,7 +1122,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/212d4b87-9fce-4141-b21f-7e4a81c8074f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-12T07:47:25.627Z"
+    "pushedAt": "2026-11-12T09:57:22.464Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-10/fed-might-hike-50-bps-in-december-carlyle-s-thomas-says-video",
@@ -2274,7 +2265,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/11int-theworld-iran-options-01-promo/11int-theworld-iran-options-01-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T07:47:48.995Z"
+    "pushedAt": "2026-11-12T09:57:46.223Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
@@ -6666,7 +6657,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T07:47:02.224Z"
+    "pushedAt": "2026-11-12T09:56:59.211Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
@@ -8538,7 +8529,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/persimmon-defies-uk-housing-gloom-with-rising-sales-values",
     "image": null,
-    "pushedAt": "2026-11-12T07:46:12.592Z"
+    "pushedAt": "2026-11-12T09:56:35.709Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/neste-ceo-sees-renewable-diesel-demand-doubling-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/bundesbank-warns-commercial-property-prices-may-decline-again",
     "image": null,
     "pushedAt": "2026-11-12T09:56:09.268Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-says-india-s-foreign-inflow-revival-has-further-room-to-run",
+    "title": "BofA Says India’s Foreign Inflow Revival Has Further Room to Run",
+    "titleZh": "美銀表示印度的外資流入復甦還有進一步的空間",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-says-india-s-foreign-inflow-revival-has-further-room-to-run",
+    "image": null,
+    "pushedAt": "2026-11-12T09:58:13.826Z"
   }
 ]
