@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/6ivpgrf21",
-    "title": "Children of Men: The Future Is a Mirror for the Present - Reactor",
-    "titleZh": "人類之子：未來是現在的鏡子 - Reactor",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/6ivpgrf21?ref=rss",
-    "image": null,
-    "pushedAt": "2026-11-13T16:05:12.050Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-scandal-raises-china-stakes-video",
     "title": "Nvidia Scandal Raises China Stakes",
     "titleZh": "英偉達醜聞增加中國股份",
@@ -177,7 +168,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:56:35.699Z"
+    "pushedAt": "2026-11-13T16:24:27.897Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
@@ -708,7 +699,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
     "image": null,
-    "pushedAt": "2026-11-13T13:57:01.565Z"
+    "pushedAt": "2026-11-13T16:24:53.156Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
@@ -1041,7 +1032,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
     "image": null,
-    "pushedAt": "2026-11-13T13:57:26.499Z"
+    "pushedAt": "2026-11-13T16:25:18.134Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
@@ -5271,7 +5262,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
     "image": null,
-    "pushedAt": "2026-11-13T13:57:51.425Z"
+    "pushedAt": "2026-11-13T16:25:43.712Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-names-colette-kress-as-interim-ceo-video",
@@ -8547,7 +8538,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-13T13:58:46.914Z"
+    "pushedAt": "2026-11-13T16:26:08.955Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
@@ -8556,7 +8547,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:59:16.870Z"
+    "pushedAt": "2026-11-13T16:26:34.029Z"
   },
   {
     "id": "https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T16:23:59.748Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
+    "title": "Fed's Collins Talks Inflation Risks, Rate Policy and AI",
+    "titleZh": "聯準會柯林斯談通膨風險、利率政策和人工智慧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
+    "image": null,
+    "pushedAt": "2026-11-13T16:27:02.155Z"
   }
 ]
