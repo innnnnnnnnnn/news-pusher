@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-    "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-    "titleZh": "美國加強對伊朗封鎖的努力依賴不情願的鄰國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T16:56:41.980Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-    "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-    "titleZh": "美國商務部對 Megaspeed 的調查因 Nvidia 幹預而停止",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T14:07:54.515Z"
-  },
-  {
     "id": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702",
     "title": "Nato should take the ‘offensive’ against Russia, says Sedwill",
     "titleZh": "塞德威爾勳爵表示，北約應該​​對俄羅斯採取“攻擊”",
@@ -4722,7 +4704,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
     "image": null,
-    "pushedAt": "2026-11-13T15:01:57.012Z"
+    "pushedAt": "2026-11-13T17:45:50.610Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/trump-s-russia-diesel-deal-struggles-to-find-willing-us-buyer",
@@ -6846,7 +6828,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fcbd27c8-aa10-455f-8917-afcb897e6eaf?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T15:02:47.218Z"
+    "pushedAt": "2026-11-13T17:46:15.102Z"
   },
   {
     "id": "https://www.ft.com/content/8d885f43-5277-46e0-a67c-ce94aa820ef1",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/huang-and-the-myth-of-the-irreplaceable-ceo-video",
     "image": null,
     "pushedAt": "2026-11-13T17:45:24.475Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-billionaire-s-lng-plant-gets-140-million-from-canada",
+    "title": "Indonesian Billionaire’s LNG Plant Gets $140 Million From Canada",
+    "titleZh": "印尼億萬富翁的液化天然氣工廠從加拿大獲得 1.4 億美元投資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-billionaire-s-lng-plant-gets-140-million-from-canada",
+    "image": null,
+    "pushedAt": "2026-11-13T17:46:42.334Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-surveillance-11-13-2026-video",
+    "title": "Investors Weigh Nvidia Succession Plans as Calls for Investigation Grow",
+    "titleZh": "隨著調查呼聲的增加，投資人權衡英偉達的繼任計劃",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-surveillance-11-13-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-13T17:46:46.894Z"
   }
 ]
