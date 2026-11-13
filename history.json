@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/h-r-s-4-7-billion-breakup-faces-revolt-by-major-investors",
-    "title": "H&R’s $4.7 Billion Breakup Faces Revolt by Major Investors",
-    "titleZh": "H&R 47 億美元分拆面臨主要投資者的抵制",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/h-r-s-4-7-billion-breakup-faces-revolt-by-major-investors",
-    "image": null,
-    "pushedAt": "2026-11-11T21:48:51.801Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video",
-    "title": "Voters Asking For 'Bold Action' From Democrats, Says Deluzio",
-    "titleZh": "德魯齊奧表示，選民要求民主黨採取“大膽行動”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video",
-    "image": null,
-    "pushedAt": "2026-11-11T21:49:18.386Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
     "title": "A generational upset in Los Angeles",
     "titleZh": "洛杉磯一代人的不安",
@@ -1455,7 +1437,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T17:50:12.513Z"
+    "pushedAt": "2026-11-13T20:18:07.844Z"
   },
   {
     "id": "https://www.ft.com/content/5f4e00d0-1ffd-4b3e-a510-d684eab64ac4",
@@ -1464,7 +1446,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f4e00d0-1ffd-4b3e-a510-d684eab64ac4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T17:50:36.226Z"
+    "pushedAt": "2026-11-13T20:18:31.538Z"
   },
   {
     "id": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa",
@@ -5748,7 +5730,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/rtncy984z?ref=rss",
     "image": "https://cdn.flipso.com/p/rtncy984z_square.jpg",
-    "pushedAt": "2026-11-13T17:51:00.055Z"
+    "pushedAt": "2026-11-13T20:18:54.723Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/australia-bond-yield-falls-below-us-peer-as-rate-paths-diverge",
@@ -8610,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/best-thing-to-happen-for-china-is-jensen-out-says-ives-video",
     "image": null,
-    "pushedAt": "2026-11-13T17:49:22.048Z"
+    "pushedAt": "2026-11-13T20:17:44.405Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/amazon-s-first-north-american-union-contract-imposed-in-canada",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-boebert-loses-tjkf/03hfo-pol-boebert-loses-tjkf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T20:14:56.008Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
+    "title": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
+    "titleZh": "黃仁勳的退出讓矽谷對人工智慧繁榮的未來感到不確定",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
+    "image": null,
+    "pushedAt": "2026-11-13T20:19:20.361Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
+    "title": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
+    "titleZh": "亞倫布朗 (Aaron Brown) 表示，人們「不知道」Nvidia 對日常生活有多大影響",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
+    "image": null,
+    "pushedAt": "2026-11-13T20:19:24.617Z"
   }
 ]
