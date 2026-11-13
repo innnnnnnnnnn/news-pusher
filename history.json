@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
-    "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
-    "titleZh": "Anthropic 的大型 IPO 據稱獲得多倍超額認購",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
-    "image": null,
-    "pushedAt": "2026-11-11T15:52:32.069Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
     "title": "Saudi Oil Production Surged 26% Last Month to Pre-War Levels",
     "titleZh": "沙烏地阿拉伯告訴 OPEC 產量飆升 26% 至戰爭開始以來最高水平",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
     "image": null,
     "pushedAt": "2026-11-13T14:03:20.515Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+    "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
+    "titleZh": "Anthropic 的 IPO和人工智慧的俱樂部業務",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ant-gpfz/11db-ant-gpfz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T14:03:53.285Z"
   }
 ]
