@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-    "title": "Silicon Valley Tech Allies Support Jensen Huang",
-    "titleZh": "矽谷科技盟友支持黃仁勳",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:45:50.991Z"
-  },
-  {
     "id": "https://flipso.com/p/komochq7y",
     "title": "In Defence of Giving a Shit",
     "titleZh": "為「在乎」辯護",
@@ -7683,7 +7674,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/28228fa9-52c9-4233-9133-27145a905c0f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T13:42:21.875Z"
+    "pushedAt": "2026-11-13T16:08:13.968Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/why-a-2-billion-law-firm-suddenly-collapsed",
@@ -8547,7 +8538,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october",
     "image": null,
-    "pushedAt": "2026-11-13T13:41:52.311Z"
+    "pushedAt": "2026-11-13T16:06:59.803Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/jensen-huang-s-last-hours-as-nvidia-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/13/opinion/13kantrowitz-image/13kantrowitz-image-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T16:06:31.480Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+    "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+    "titleZh": "矽谷新創公司面臨沒有黃仁勳資金的未來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-nvidia-startups-2-mfvc/13biz-nvidia-startups-2-mfvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:08:42.297Z"
   }
 ]
