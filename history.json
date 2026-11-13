@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/y42mtxwzj",
-    "title": "The Reconstruction of Torn Documents",
-    "titleZh": "破損文件的重建",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/y42mtxwzj?ref=rss",
-    "image": "https://cdn.flipso.com/p/y42mtxwzj_square.jpg",
-    "pushedAt": "2026-11-13T00:19:54.008Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
     "title": "Indebted tycoons haunt China’s banking system",
     "titleZh": "負債累累的大亨困擾著中國的銀行體系",
@@ -6882,7 +6873,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-hammack-says-more-restrictive-rates-are-needed",
     "image": null,
-    "pushedAt": "2026-11-12T22:19:57.435Z"
+    "pushedAt": "2026-11-13T00:39:08.377Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
@@ -6891,7 +6882,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
     "image": null,
-    "pushedAt": "2026-11-12T22:20:46.788Z"
+    "pushedAt": "2026-11-13T00:39:33.854Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
@@ -7098,7 +7089,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010",
     "image": null,
-    "pushedAt": "2026-11-12T22:21:12.020Z"
+    "pushedAt": "2026-11-13T00:39:58.120Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-barr-warns-ai-without-guardrails-risks-widening-inequality",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/rtncy984z?ref=rss",
     "image": "https://cdn.flipso.com/p/rtncy984z_square.jpg",
     "pushedAt": "2026-11-13T00:35:28.599Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/australia-bond-yield-falls-below-us-peer-as-rate-paths-diverge",
+    "title": "Australia Bond Yield Falls Below US Peer as Rate Paths Diverge",
+    "titleZh": "由於利率路徑分歧，澳洲債券殖利率低於美國同行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/australia-bond-yield-falls-below-us-peer-as-rate-paths-diverge",
+    "image": null,
+    "pushedAt": "2026-11-13T00:40:24.693Z"
   }
 ]
