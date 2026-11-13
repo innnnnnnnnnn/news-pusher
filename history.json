@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
-    "title": "Raman and the D.S.A.: Wariness, Skepticism and Hope",
-    "titleZh": "拉曼和 D.S.A.：警覺、懷疑和希望",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-raman-dsa-cwjz/11nat-raman-dsa-cwjz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T21:55:20.719Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/officials-work-to-speed-up-data-center-grid-connection-video",
     "title": "Officials Work to Speed Grid Connection Amid Data Center Buildout",
     "titleZh": "官員們致力於在數據中心建設中加快電網連接",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
     "image": null,
     "pushedAt": "2026-11-13T17:22:48.010Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/openai-debuts-new-chatgpt-payment-method-with-card-networks",
+    "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
+    "titleZh": "OpenAI 與卡片網路合作推出新的 ChatGPT 支付方式",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/openai-debuts-new-chatgpt-payment-method-with-card-networks",
+    "image": null,
+    "pushedAt": "2026-11-13T17:23:18.343Z"
   }
 ]
