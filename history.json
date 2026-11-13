@@ -1,86 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/05/asia-bulletin-newsletter-pushing-back-against-populism-in-australia-and-new-zealand",
-    "title": "Asia Bulletin newsletter: Pushing back against populism in Australia and New Zealand",
-    "titleZh": "《亞洲公報》時事通訊：反擊澳洲與紐西蘭的民粹主義",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/05/asia-bulletin-newsletter-pushing-back-against-populism-in-australia-and-new-zealand",
-    "image": null,
-    "pushedAt": "2026-11-12T13:36:37.400Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
-    "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
-    "titleZh": "哥倫比亞武裝組織反擊美國攻擊目標",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T04:25:36.280Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
-    "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-    "titleZh": "波蘭人因罕見的大規模槍擊事件而震驚，詢問是什麼引發了年輕嫌疑人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T02:14:28.479Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-    "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
-    "titleZh": "當電話裡的老闆不是真的時：如何利用人工智慧來竊取超過 1.29 億美元的資金",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-ai1-tmjk/08xp-ai1-tmjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T14:13:24.585Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/iifl-can-sustain-25-30-lending-growth-for-3-4-years-video",
-    "title": "IIFL: Can Sustain 25-30% Lending Growth For 3-4 Years",
-    "titleZh": "IIFL：可在3-4年內維持25-30%的貸款成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/iifl-can-sustain-25-30-lending-growth-for-3-4-years-video",
-    "image": null,
-    "pushedAt": "2026-11-11T07:22:13.784Z"
-  },
-  {
-    "id": "https://flipso.com/p/ruehii6ho",
-    "title": "The Story Behind Edward Hopper’s Iconic Painting “Nighthawks”",
-    "titleZh": "愛德華霍普的標誌性畫作「夜鷹」背後的故事",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ruehii6ho?ref=rss",
-    "image": "https://cdn.flipso.com/p/ruehii6ho_square.jpg",
-    "pushedAt": "2026-11-13T04:24:33.331Z"
-  },
-  {
-    "id": "https://flipso.com/p/wr8jumk34",
-    "title": "Writing as a thinking tool",
-    "titleZh": "寫作作為一種思考工具",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/wr8jumk34?ref=rss",
-    "image": "https://cdn.flipso.com/p/wr8jumk34_square.jpg",
-    "pushedAt": "2026-11-13T04:24:58.595Z"
-  },
-  {
-    "id": "https://www.economist.com/leaders/2026/11/05/englands-new-ban-on-kinky-porn-will-misfire",
-    "title": "England’s new ban on kinky porn will misfire",
-    "titleZh": "英格蘭對淫色情片的新禁令將失敗",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/05/englands-new-ban-on-kinky-porn-will-misfire",
-    "image": null,
-    "pushedAt": "2026-11-12T13:37:51.155Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
-    "title": "Firms are racing to protect themselves from AI cyber threats",
-    "titleZh": "各公司競相保護自己免受人工智慧網路威脅",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
-    "image": null,
-    "pushedAt": "2026-11-12T13:38:15.914Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
     "title": "The digital world is making Islam more diverse",
     "titleZh": "數位世界使伊斯蘭教更加多元",
@@ -7458,7 +7377,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3202f243-287b-466d-953a-664d0143e91a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T02:57:07.326Z"
+    "pushedAt": "2026-11-13T05:15:29.742Z"
   },
   {
     "id": "https://www.ft.com/content/ef151433-c522-44e8-b735-38548341b5a0",
@@ -8998,5 +8917,86 @@
     "url": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a14edc0-c8ac-4e37-9a5f-a1628049e3c0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-13T05:13:43.074Z"
+  },
+  {
+    "id": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219",
+    "title": "Surging British tech sector helps drive UK economy",
+    "titleZh": "英國科技業的蓬勃發展有助於推動英國經濟",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:15:57.775Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9f608d3b-0b14-42d4-a7a3-b2cb379c7528",
+    "title": "Labour welfare rebels open to backing plan to cut youth benefits",
+    "titleZh": "勞工福利反抗軍願意支持削減青年福利的計劃",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9f608d3b-0b14-42d4-a7a3-b2cb379c7528?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:02.140Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c5f9c661-1c6b-4ea5-978b-003e723b9b22",
+    "title": "Who killed Britain’s electric car dreams?",
+    "titleZh": "誰扼殺了英國的電動車夢想？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c5f9c661-1c6b-4ea5-978b-003e723b9b22?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:06.408Z"
+  },
+  {
+    "id": "https://www.ft.com/content/33b33399-fc3a-4a79-9da3-313a320e3335",
+    "title": "How Israel lost America",
+    "titleZh": "以色列如何失去美國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/33b33399-fc3a-4a79-9da3-313a320e3335?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:09.735Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7ed32b6b-1e32-4046-88b6-f026339bdef4",
+    "title": "Where is Europe’s AI boom?",
+    "titleZh": "歐洲的人工智慧熱潮在哪裡？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7ed32b6b-1e32-4046-88b6-f026339bdef4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:14.800Z"
+  },
+  {
+    "id": "https://www.ft.com/content/edc349d1-a632-4732-948c-0be46eeb058b",
+    "title": "Radie Peat: No Human Tongue Can Tell — folk songs renewed with a dark, dreamy power",
+    "titleZh": "Radie Peat: No Human Tongue Can Tell — 民歌煥發出黑暗、夢幻的力量",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/edc349d1-a632-4732-948c-0be46eeb058b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:20.627Z"
+  },
+  {
+    "id": "https://www.ft.com/content/90786eca-a721-4302-8969-6e71e4706d05",
+    "title": "Lagos literary powerhouse Lola Shoneyin: ‘Nigerianness is bold and fearless with a sense of mischief’",
+    "titleZh": "拉各斯文學巨擘 Lola Shoneyin：“尼日利亞人大膽無畏，帶著惡作劇的感覺”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/90786eca-a721-4302-8969-6e71e4706d05",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:27.513Z"
+  },
+  {
+    "id": "https://www.ft.com/content/35e9f313-79c8-45d1-a73c-cf681244456a",
+    "title": "‘Don’t be boring’ — Lauren Santo Domingo talks taste",
+    "titleZh": "「不要無聊」——勞倫·桑托·多明哥談論品味",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/35e9f313-79c8-45d1-a73c-cf681244456a",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:32.966Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2b6fa5ce-3c14-4fe1-8128-e3f9520e1be5",
+    "title": "Swiss defence groups caught by law designed to stop mercenaries",
+    "titleZh": "瑞士國防組織因阻止僱傭軍而受到法律制裁",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2b6fa5ce-3c14-4fe1-8128-e3f9520e1be5?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T05:16:37.911Z"
   }
 ]
