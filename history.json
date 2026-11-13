@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-    "titleZh": "盧比歐警告官員有關英偉達執行長與中國間諜的糾葛",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T15:40:42.830Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
     "title": "Citi's Poon Werkun on AI Trade, Fed, China",
     "titleZh": "花旗銀行的 Poon Werkun 談人工智慧貿易、聯準會、中國",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/new-world-suspends-trading-as-investors-watch-for-next-steps",
     "image": null,
     "pushedAt": "2026-11-13T01:14:32.000Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/trump-says-huang-told-him-he-regrets-scandal-s-toll-on-family",
+    "title": "Trump Says Huang Told Him He Regrets Scandal’s Toll on Family",
+    "titleZh": "川普稱黃告訴他，他對醜聞對家庭造成的損失感到遺憾",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-says-huang-told-him-he-regrets-scandal-s-toll-on-family",
+    "image": null,
+    "pushedAt": "2026-11-13T01:16:41.762Z"
   }
 ]
