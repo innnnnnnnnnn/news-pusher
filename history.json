@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
-    "title": "The fight over Republicans’ future has begun",
-    "titleZh": "關於共和黨未來的鬥爭已經開始",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
-    "image": null,
-    "pushedAt": "2026-11-12T23:15:28.752Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
     "title": "Indonesia to Cut 300 More Tightly Held Stocks From Benchmark",
     "titleZh": "印尼證券交易所將 300 隻股票添加到高集中度名單中",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
     "image": null,
     "pushedAt": "2026-11-13T00:08:22.774Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
+    "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
+    "titleZh": "疑似中國間諜如何取得 Nvidia 晶片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
+    "image": null,
+    "pushedAt": "2026-11-13T00:08:50.050Z"
   }
 ]
