@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
-    "title": "AI Stocks Rally After Coreweave's Results; Treasury Market Closed",
-    "titleZh": "Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-11T14:58:51.049Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
     "title": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
     "titleZh": "大眾汽車放棄先進工廠計劃，打擊德國製造",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
     "image": null,
     "pushedAt": "2026-11-13T13:39:15.268Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october",
+    "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
+    "titleZh": "美國批發通膨增速創 2022 年以來最快",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october",
+    "image": null,
+    "pushedAt": "2026-11-13T13:41:52.311Z"
   }
 ]
