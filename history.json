@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed",
-    "title": "The AI agents running start-ups with no employees",
-    "titleZh": "幾天之內就沒有員工和原型：人工智慧為新創公司提供了強大動力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ed3d0b5-5475-40ac-b383-4641eb3e8635.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T03:51:26.784Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/edp-ceo-sees-opportunities-in-us-renewable-energy-video",
     "title": "EDP CEO Sees Opportunities in US Renewable Energy",
     "titleZh": "EDP​​執行長看到美國再生能源的機遇",
@@ -7772,8 +7763,8 @@
     "titleZh": "Nscale 警告在 350 億美元 IPO 之前需要更多現金",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8a17010-115d-4f90-b160-e66fe1950709.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T09:13:22.115Z"
+    "image": null,
+    "pushedAt": "2026-11-13T11:35:48.696Z"
   },
   {
     "id": "https://www.ft.com/content/dd653a19-492a-41d1-b459-3a2b7d2f0e86",
@@ -8205,7 +8196,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video",
     "image": null,
-    "pushedAt": "2026-11-13T09:12:58.339Z"
+    "pushedAt": "2026-11-13T11:35:24.043Z"
   },
   {
     "id": "https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af",
@@ -8511,7 +8502,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/iraq-october-oil-output-jumps-to-highest-since-2019-iea-says",
     "image": null,
-    "pushedAt": "2026-11-13T09:12:31.982Z"
+    "pushedAt": "2026-11-13T11:34:57.814Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/global-oil-market-swings-to-surplus-on-gulf-exports-iea-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/new-city-of-london-lord-mayor-seeks-to-get-trillions-of-uk-pensions-invested",
     "image": null,
     "pushedAt": "2026-11-13T11:34:28.102Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-opening-trade-11-13-2026-video",
+    "title": "Microsoft Races to Fix Outage, Stocks Slip of Inflation Test",
+    "titleZh": "微軟競相解決停電問題，通膨測試股價下滑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-opening-trade-11-13-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-13T11:36:15.641Z"
   }
 ]
