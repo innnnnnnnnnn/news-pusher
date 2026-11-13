@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
-    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
-    "titleZh": "中國否認涉及英偉達執行長的間諜指控黃仁勳",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:23:05.195Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/helsing-unveils-ai-military-software-to-challenge-palantir",
-    "title": "Helsing Unveils AI Military Software to Challenge Palantir",
-    "titleZh": "Helsing 推出人工智慧軍事軟體挑戰 Palantir",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/helsing-unveils-ai-military-software-to-challenge-palantir",
-    "image": null,
-    "pushedAt": "2026-11-11T17:28:11.902Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-    "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-    "titleZh": "習特好客的背後，一場激烈的諜戰",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T14:49:15.882Z"
-  },
-  {
     "id": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c",
     "title": "Britain should ‘exploit’ NHS data to power AI, says minister",
     "titleZh": "英國部長表示，英國應該「利用」NHS 數據來推動人工智慧",
@@ -5946,7 +5919,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:14:52.584Z"
+    "pushedAt": "2026-11-13T15:42:13.030Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T15:41:44.570Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+    "title": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
+    "titleZh": "據說來自中國的 Anthropic IPO 股票訂單被拒絕",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+    "image": null,
+    "pushedAt": "2026-11-13T15:42:40.571Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
+    "title": "Senegal Picks Deloitte to Audit Debt as It Seeks IMF Loan Pact",
+    "titleZh": "塞內加爾在尋求國際貨幣基金組織貸款協議時選擇德勤審計債務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
+    "image": null,
+    "pushedAt": "2026-11-13T15:42:44.876Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/russian-diesel-exports-drop-as-ukraine-renews-refinery-attacks",
+    "title": "Russian Diesel Exports Drop as Ukraine Renews Refinery Attacks",
+    "titleZh": "烏克蘭再次襲擊煉油廠，俄羅斯柴油出口下降",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-diesel-exports-drop-as-ukraine-renews-refinery-attacks",
+    "image": null,
+    "pushedAt": "2026-11-13T15:42:48.207Z"
   }
 ]
