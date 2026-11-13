@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/komochq7y",
-    "title": "In Defence of Giving a Shit",
-    "titleZh": "為「在乎」辯護",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/komochq7y?ref=rss",
-    "image": "https://cdn.flipso.com/p/komochq7y_square.jpg",
-    "pushedAt": "2026-11-13T15:47:36.312Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/ethan-allen-ceo-out-after-four-decades-video",
     "title": "Ethan Allen CEO Out After Four Decades",
     "titleZh": "四年後，伊森艾倫 (Ethan Allen) 卸任首席執行官",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-nvidia-startups-2-mfvc/13biz-nvidia-startups-2-mfvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T16:08:42.297Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+    "title": "Silicon Valley Tech Allies Support Jensen Huang",
+    "titleZh": "矽谷科技盟友支持黃仁勳",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:09:11.132Z"
   }
 ]
