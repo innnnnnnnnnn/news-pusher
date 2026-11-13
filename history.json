@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/why-nordstrom-decided-to-go-private-video",
-    "title": "Why Nordstrom Decided to Go Private",
-    "titleZh": "諾德斯特龍 (Nordstrom) 為何決定私有化",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/why-nordstrom-decided-to-go-private-video",
-    "image": null,
-    "pushedAt": "2026-11-12T00:03:08.823Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
-    "title": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
-    "titleZh": "盧拉公佈遏制支出成長的計劃，以平息財政擔憂",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
-    "image": null,
-    "pushedAt": "2026-11-12T00:05:16.028Z"
-  },
-  {
     "id": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b",
     "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
     "titleZh": "埃克森美孚對歐盟碳捕獲規則發起法律挑戰",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
     "image": null,
     "pushedAt": "2026-11-13T21:30:24.723Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+    "titleZh": "微軟在全球停電後急於恢復線上的內部情況",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T21:35:32.203Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
+    "title": "Meloni Keeps Hope of Italy Upgrade at S&P to Highest Since 2011",
+    "titleZh": "Meloni 希望標普將義大利評級上調至 2011 年以來最高水平",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
+    "image": null,
+    "pushedAt": "2026-11-13T21:35:34.241Z"
   }
 ]
