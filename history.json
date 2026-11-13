@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/nomura-explores-possible-sale-of-laser-digital-crypto-unit",
-    "title": "Nomura Explores Possible Sale of Laser Digital Crypto Unit",
-    "titleZh": "野村探索出售雷射數位加密單元的可能性",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nomura-explores-possible-sale-of-laser-digital-crypto-unit",
-    "image": null,
-    "pushedAt": "2026-11-11T18:38:02.821Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
     "title": "LME Aluminum Market Faces Biggest Supply Squeeze in Decades",
     "titleZh": "倫敦鋁市場面臨數十年來最嚴重的供應緊縮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
     "image": null,
     "pushedAt": "2026-11-13T18:44:37.598Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
+    "title": "Trump Signals New Strategy on Iran: A Waiting Game",
+    "titleZh": "川普暗示針對伊朗的新戰略：一場等待的遊戲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-klmp/12dc-trump-vance-klmp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T18:45:05.322Z"
   }
 ]
