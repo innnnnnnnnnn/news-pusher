@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
-    "title": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
-    "titleZh": "猶他州新創公司為模組化 AI 資料中心籌集 5 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
-    "image": null,
-    "pushedAt": "2026-11-11T14:41:53.242Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
     "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
     "titleZh": "英偉達執行長黃仁勳接受調查後股價下跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13db-jensen-lutnick-qtfj/13db-jensen-lutnick-qtfj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T13:23:24.418Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/guinea-artisanal-gold-mining-crackdown-leaves-10-dead-in-clashes",
+    "title": "Guinea Artisanal Gold Mining Crackdown Leaves 10 Dead in Clashes",
+    "titleZh": "幾內亞手工金礦開採衝突造成 10 人死亡",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/guinea-artisanal-gold-mining-crackdown-leaves-10-dead-in-clashes",
+    "image": null,
+    "pushedAt": "2026-11-13T13:28:36.181Z"
   }
 ]
