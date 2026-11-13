@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html",
-    "title": "Why Winning Big Matters",
-    "titleZh": "為什麼贏得大勝利很重要",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-theworld-election-results-01-jtlq-promo/09int-theworld-election-results-01-jtlq-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T02:09:50.397Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
     "title": "America’s copper giant has big dreams—but cautious plans",
     "titleZh": "美國銅業巨頭有著遠大的夢想，但計畫十分謹慎",
@@ -906,7 +897,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T02:44:20.719Z"
+    "pushedAt": "2026-11-13T05:02:40.621Z"
   },
   {
     "id": "https://www.ft.com/content/2885db4c-64b0-4ca2-a1b3-fc3304504b48",
@@ -8448,16 +8439,16 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/minow-boards-need-to-be-careful-about-personal-hacking-video",
     "image": null,
-    "pushedAt": "2026-11-13T02:43:27.243Z"
+    "pushedAt": "2026-11-13T05:02:15.228Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
-    "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
+    "title": "Gold Advances After Slump to One-Year Low Attracts Dip Buying",
     "titleZh": "隨著升息押注增加，黃金持有量跌至近一年低點",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
     "image": null,
-    "pushedAt": "2026-11-13T02:44:47.216Z"
+    "pushedAt": "2026-11-13T05:03:06.487Z"
   },
   {
     "id": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
@@ -8466,7 +8457,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
     "image": null,
-    "pushedAt": "2026-11-13T02:45:13.021Z"
+    "pushedAt": "2026-11-13T05:03:34.015Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
@@ -8475,7 +8466,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
     "image": null,
-    "pushedAt": "2026-11-13T02:45:39.077Z"
+    "pushedAt": "2026-11-13T05:03:59.774Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-sees-ending-tax-gimmicks-as-option-to-trim-us-deficit",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1f0996cf-1f84-42ca-a574-898f8578deb7?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbdcdee2e-ff96-4de8-a8c7-17c7dc71723c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-13T05:00:54.030Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "title": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
+    "titleZh": "隨著科技股反彈，新興市場股票預計自 9 月以來首次出現週漲幅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "image": null,
+    "pushedAt": "2026-11-13T05:04:29.236Z"
   }
 ]
