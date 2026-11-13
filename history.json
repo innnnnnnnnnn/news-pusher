@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
-    "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
-    "titleZh": "OpenAI、人擇估值加劇了創投對新創企業修正的擔憂",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
-    "image": null,
-    "pushedAt": "2026-11-12T02:22:17.002Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-11/it-s-good-to-be-computeblessed",
     "title": "It’s Good to Be #ComputeBlessed",
     "titleZh": "#ComputeBlessed 很好",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
     "image": null,
     "pushedAt": "2026-11-13T21:38:48.075Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+    "title": "Democrats’ strategy for ending the war in Iran",
+    "titleZh": "民主黨結束伊朗戰爭的戰略",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+    "image": null,
+    "pushedAt": "2026-11-13T21:39:16.559Z"
   }
 ]
