@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/sixth-street-ceo-warns-ai-race-rife-with-speculative-behaviors",
-    "title": "Sixth Street CEO Warns AI Race Rife With ‘Speculative Behaviors’",
-    "titleZh": "第六街執行長警告人工智慧競賽充斥著“投機行為”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/sixth-street-ceo-warns-ai-race-rife-with-speculative-behaviors",
-    "image": null,
-    "pushedAt": "2026-11-11T16:52:20.734Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all",
     "title": "UK’s Healey Promises to Avoid US-Style Data Center Free-for-All",
     "titleZh": "英國希利承諾避免美國式資料中心混戰",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T17:04:20.276Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html",
+    "title": "The Boss, the Bribe and the Newspaper That Couldn’t Be Bought",
+    "titleZh": "老闆、賄賂和買不到的報紙",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html",
+    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T17:04:48.210Z"
   }
 ]
