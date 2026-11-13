@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
-    "title": "Latest Oil Market News and Analysis for Nov. 12",
-    "titleZh": "11 月 12 日最新石油市場新聞與分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
-    "image": null,
-    "pushedAt": "2026-11-12T13:17:28.390Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
     "title": "United Airlines Blocks A.I. Agents From Booking Flights",
     "titleZh": "聯合航空阻止人工智慧預訂航班的代理商",
@@ -276,7 +267,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T20:36:30.789Z"
+    "pushedAt": "2026-11-13T23:02:13.859Z"
   },
   {
     "id": "https://www.ft.com/content/896af656-09a6-495d-8074-8fd3cffe46be",
@@ -294,7 +285,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ec5adc72-8388-483f-95b2-362d9f0e6d66?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T20:36:54.868Z"
+    "pushedAt": "2026-11-13T23:02:38.870Z"
   },
   {
     "id": "https://www.ft.com/content/70b733ec-6cab-41f5-9242-85f7f8916352",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13ea-ms-colom-win-top-ptlm/13ea-ms-colom-win-top-ptlm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T23:01:45.719Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
+    "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
+    "titleZh": "Exemplar Luxury 集團執行長談公司的第二次生命",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
+    "image": null,
+    "pushedAt": "2026-11-13T23:03:08.282Z"
   }
 ]
