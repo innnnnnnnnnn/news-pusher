@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
-    "title": "Xi Jinping’s plan for a China-centric world order",
-    "titleZh": "習近平關於以中國為中心的世界秩序的計劃",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
-    "image": null,
-    "pushedAt": "2026-11-13T20:31:19.026Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
     "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
     "titleZh": "法國指責伊朗對冷凍系統進行網路攻擊",
@@ -384,7 +375,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/5eeux1z7u?ref=rss",
     "image": "https://cdn.flipso.com/p/5eeux1z7u_square.jpg",
-    "pushedAt": "2026-11-13T18:23:19.325Z"
+    "pushedAt": "2026-11-13T20:54:24.052Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
@@ -393,7 +384,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
     "image": null,
-    "pushedAt": "2026-11-13T18:23:42.784Z"
+    "pushedAt": "2026-11-13T20:54:47.578Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
     "image": null,
     "pushedAt": "2026-11-13T20:49:08.740Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
+    "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
+    "titleZh": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
+    "image": null,
+    "pushedAt": "2026-11-13T20:55:14.613Z"
   }
 ]
