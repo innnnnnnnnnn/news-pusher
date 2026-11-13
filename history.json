@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d",
-    "title": "Healey says Treasury discussing ‘worst-case’ energy support for UK households",
-    "titleZh": "希利表示財政部正在討論對英國家庭的「最壞情況」能源支持",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff31368ad-b9f7-4bd5-a984-ed4c443d7e0b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T09:25:04.642Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-military-congress-focus-on-toll-of-cyber-jobs-following-suicides",
     "title": "US Military, Congress Focus on Toll of Cyber Jobs Following Suicides",
     "titleZh": "美國軍方和國會關注自殺後網路工作的損失",
@@ -3606,7 +3597,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
     "image": null,
-    "pushedAt": "2026-11-13T17:02:13.773Z"
+    "pushedAt": "2026-11-13T19:33:05.194Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
@@ -3615,7 +3606,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
     "image": null,
-    "pushedAt": "2026-11-13T17:02:37.265Z"
+    "pushedAt": "2026-11-13T19:33:28.994Z"
   },
   {
     "id": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/important-guard-critical-ip-from-china-lt-gen-gibson-video",
     "image": null,
     "pushedAt": "2026-11-13T19:32:39.031Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+    "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+    "titleZh": "為什麼黃仁勳對英偉達的崛起至關重要",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+    "image": null,
+    "pushedAt": "2026-11-13T19:33:55.928Z"
   }
 ]
