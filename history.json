@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/open-interest-11-11-2026-video",
-    "title": "AI Optimism Reignites the Tech Trade",
-    "titleZh": "人工智慧樂觀情緒重燃科技貿易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/open-interest-11-11-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-11T20:40:04.638Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/insider/ss-united-states-destin-florida-memories.html",
     "title": "Recalling the S.S. United States as It Becomes a Florida Reef",
     "titleZh": "回顧美國號成為佛羅裡達礁石",
@@ -7512,7 +7503,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13nat-ohio-restaurant-NEW-kcgh/13nat-ohio-restaurant-NEW-kcgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:59:58.350Z"
+    "pushedAt": "2026-11-13T18:38:05.372Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
@@ -8385,7 +8376,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:59:30.259Z"
+    "pushedAt": "2026-11-13T18:37:40.706Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/patterson-for-now-iran-has-won-the-war-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-tech-11-13-2026-video",
     "image": null,
     "pushedAt": "2026-11-13T18:37:14.320Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+    "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+    "titleZh": "艾森科特指責內塔尼亞胡助長針對阿拉伯人的「種族主義」敵意",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T18:38:28.526Z"
   }
 ]
