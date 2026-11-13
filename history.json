@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/sudden-screwworm-resurgence-finds-catalyst-in-ideal-fly-weather",
-    "title": "Sudden Screwworm Resurgence Finds Catalyst in Ideal Fly Weather",
-    "titleZh": "螺旋蟲的突然復甦在理想的飛行天氣中找到了催化劑",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/sudden-screwworm-resurgence-finds-catalyst-in-ideal-fly-weather",
-    "image": null,
-    "pushedAt": "2026-11-11T15:16:53.412Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/cpi-report-doesn-t-warrant-50-bps-hike-david-rosenberg-video",
-    "title": "Inflation Report Doesn't Warrant 50 Bps Fed Rate Hike, David Rosenberg Says",
-    "titleZh": "大衛羅森伯格表示，通膨報告並不保證聯準會升息 50 個基點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/cpi-report-doesn-t-warrant-50-bps-hike-david-rosenberg-video",
-    "image": null,
-    "pushedAt": "2026-11-11T15:20:18.818Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/china-books-120-000-tons-of-french-wheat-as-global-prices-slump",
     "title": "China Books French, Argentine Wheat as Global Prices Slump",
     "titleZh": "全球價格暴跌，中國訂購12萬噸法國小麥",
@@ -6378,7 +6360,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12obit-barril-ctwk/12obit-barril-ctwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:28:07.828Z"
+    "pushedAt": "2026-11-13T15:52:15.210Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
@@ -7431,7 +7413,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ac91b140-2614-48aa-8438-554e2c343373?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T13:29:30.391Z"
+    "pushedAt": "2026-11-13T15:52:40.020Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
@@ -8573,8 +8555,8 @@
     "titleZh": "黃仁勳會出售他價值 1,350 億美元的股票嗎？",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T13:29:57.845Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf0fcb61-752b-4cc7-b638-832276a1f3bb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T15:53:05.682Z"
   },
   {
     "id": "https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T15:43:17.171Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video",
+    "title": "Anthropic IPO: AI’s $1.4T Test",
+    "titleZh": "Anthropic IPO：AI 的 1.4T 測試",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video",
+    "image": null,
+    "pushedAt": "2026-11-13T15:53:33.877Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/ai-fundamentals-intact-despite-nvidia-fallout-weaver-video",
+    "title": "AI Fundamentals Intact Despite Nvidia Fallout: Weaver",
+    "titleZh": "Weaver：儘管 Nvidia 受到影響，人工智慧基礎仍然完好無損",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/ai-fundamentals-intact-despite-nvidia-fallout-weaver-video",
+    "image": null,
+    "pushedAt": "2026-11-13T15:53:39.435Z"
   }
 ]
