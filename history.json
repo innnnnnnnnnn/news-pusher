@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/2dc7t29ex",
-    "title": "I did a meditation and it sort of changed my personality?!",
-    "titleZh": "我做了冥想，改變了我的性格？ ！",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
-    "image": null,
-    "pushedAt": "2026-11-13T13:21:36.505Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
     "title": "How GLP-1 Drugs and a Revamp Revived Ro’s Business",
     "titleZh": "GLP-1 藥物和改造如何重振 Ro 的業務",
@@ -645,7 +636,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T11:24:35.398Z"
+    "pushedAt": "2026-11-13T13:56:35.699Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
@@ -1176,7 +1167,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
     "image": null,
-    "pushedAt": "2026-11-13T11:24:58.913Z"
+    "pushedAt": "2026-11-13T13:57:01.565Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
@@ -1509,7 +1500,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
     "image": null,
-    "pushedAt": "2026-11-13T11:25:22.295Z"
+    "pushedAt": "2026-11-13T13:57:26.499Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
@@ -4083,7 +4074,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "image": null,
-    "pushedAt": "2026-11-13T11:23:47.543Z"
+    "pushedAt": "2026-11-13T13:55:44.910Z"
   },
   {
     "id": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
@@ -5253,7 +5244,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T11:24:11.306Z"
+    "pushedAt": "2026-11-13T13:56:10.033Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/with-jensen-huang-gone-who-will-be-nvidia-s-next-ceo-video",
@@ -5739,7 +5730,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
     "image": null,
-    "pushedAt": "2026-11-13T11:25:45.901Z"
+    "pushedAt": "2026-11-13T13:57:51.425Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-names-colette-kress-as-interim-ceo-video",
@@ -8520,7 +8511,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/uk-retailers-are-hiring-for-ai-and-pulling-back-on-other-roles",
     "image": null,
-    "pushedAt": "2026-11-13T11:23:21.193Z"
+    "pushedAt": "2026-11-13T13:55:19.779Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-france-pledges-remain-intact-varza-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/gold-crackdown-in-uae-fails-to-curb-african-smuggling-ngo-says",
     "image": null,
     "pushedAt": "2026-11-13T13:54:50.454Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-brief-11-13-2026-video",
+    "title": "Stocks Rise Ahead of PPI; Microsoft Outage; Nvidia Fallout",
+    "titleZh": "股市上漲先於 PPI；微軟中斷；英偉達的影響",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-brief-11-13-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-13T13:58:18.662Z"
   }
 ]
