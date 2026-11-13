@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
-    "title": "‘Treasure trove’ of manufacturing data to power German AI",
-    "titleZh": "為德國人工智慧提供動力的製造數據“寶庫”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
-    "image": null,
-    "pushedAt": "2026-11-11T16:59:14.727Z"
-  },
-  {
     "id": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f",
     "title": "Europe’s struggle to compete with China ramps up",
     "titleZh": "歐洲與中國的競爭加劇",
@@ -5685,7 +5676,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/world-trade-s-achilles-heel-grows-as-ai-boom-fuels-risks",
     "image": null,
-    "pushedAt": "2026-11-13T03:01:36.081Z"
+    "pushedAt": "2026-11-13T05:21:41.944Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/why-china-is-eyeing-a-curious-tax-on-its-government-bond-market",
@@ -5694,7 +5685,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/why-china-is-eyeing-a-curious-tax-on-its-government-bond-market",
     "image": null,
-    "pushedAt": "2026-11-13T03:02:02.364Z"
+    "pushedAt": "2026-11-13T05:22:07.582Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/congress-pressures-jensen-huang-to-talk-about-spy-scandal",
@@ -7390,12 +7381,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
-    "title": "Microsoft Struggles to Fix Outlook, Copilot, Hours Into Outage",
+    "title": "Microsoft Tries to Fix Outlook and Copilot Hours Into Outage",
     "titleZh": "微軟表示正在努力修復 Outlook、Copilot 中斷問題",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
     "image": null,
-    "pushedAt": "2026-11-13T03:00:13.339Z"
+    "pushedAt": "2026-11-13T05:20:52.058Z"
   },
   {
     "id": "https://flipso.com/p/kklf510pd",
@@ -7431,7 +7422,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T03:02:30.975Z"
+    "pushedAt": "2026-11-13T05:22:32.497Z"
   },
   {
     "id": "https://flipso.com/p/tt59o4pkq",
@@ -7980,7 +7971,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-12/why-gta-6-took-13-years-and-1-billion-to-make",
     "image": null,
-    "pushedAt": "2026-11-13T03:01:09.410Z"
+    "pushedAt": "2026-11-13T05:21:17.076Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/oil-hungry-asia-turns-back-to-mideast-in-earnest-as-flows-expand",
     "image": null,
     "pushedAt": "2026-11-13T05:20:22.656Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/bytedance-tiktok-plans-6-billion-buyback-400-billion-valuation",
+    "title": "ByteDance Plans $6 Billion Buyback at $400 Billion Valuation",
+    "titleZh": "位元組跳動計畫以 4,000 億美元估值回購 60 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/bytedance-tiktok-plans-6-billion-buyback-400-billion-valuation",
+    "image": null,
+    "pushedAt": "2026-11-13T05:23:00.658Z"
   }
 ]
