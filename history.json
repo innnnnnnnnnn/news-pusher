@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
-    "title": "Chinese Robotics Platform Amicro Surges 38% in Hong Kong Debut",
-    "titleZh": "隨著 IPO 步伐加快，Hosin 和 Amicro 將在香港交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
-    "image": null,
-    "pushedAt": "2026-11-12T11:26:21.010Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-11/nvidia-turmoil-board-to-weigh-ceo-jensen-huang-future-over-alleged-affairs",
     "title": "Nvidia Board Meets on Huang's Future After Report of Another Affair",
     "titleZh": "報告委員會準備罷免黃仁勳，英偉達股價暴跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
     "image": null,
     "pushedAt": "2026-11-13T23:07:28.701Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+    "title": "United Airlines Blocks A.I. Agents From Booking Flights",
+    "titleZh": "聯合航空阻止人工智慧預訂航班的代理商",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T23:07:58.339Z"
   }
 ]
