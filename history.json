@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9",
-    "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
-    "titleZh": "民主黨人承諾揭露川普領導下的“絕對雪崩腐敗”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56c87fb7-bcb2-4b82-8ebe-b67811338d49.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T20:08:57.458Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
-    "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
-    "titleZh": "Anthropic IPO 是「Jenga Block」支援人工智慧貿易的下一階段",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-12T04:20:12.499Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/russian-fuel-exporters-court-brazilian-diesel-buyers-after-new-jersey-snub",
     "title": "Russian Fuel Exporters Court Brazilian Diesel Buyers After New Jersey Snub",
     "titleZh": "新澤西州冷落後，俄羅斯燃料出口商向巴西柴油買家求愛",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex",
     "image": null,
     "pushedAt": "2026-11-13T21:28:36.928Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+    "title": "A.I. and Market Whiplash",
+    "titleZh": "人工智慧.和市場鞭打",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T21:29:05.111Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+    "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+    "titleZh": "俄羅斯駐美大使亞歷山大·達爾切耶夫去世，享年 66 歲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T21:29:08.008Z"
   }
 ]
