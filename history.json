@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
-    "title": "Transcript of an interview with Klaas Knot",
-    "titleZh": "克拉斯·諾特訪談紀錄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982",
-    "image": null,
-    "pushedAt": "2026-11-12T01:03:48.120Z"
-  },
-  {
     "id": "https://www.ft.com/content/0cc39fe0-4e02-4a98-88e2-b8bc444e5ecb",
     "title": "ITV cuts content budget as ad revenue slides",
     "titleZh": "隨著廣告收入下滑，ITV 削減內容預算",
@@ -2409,7 +2400,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T06:27:02.569Z"
+    "pushedAt": "2026-11-13T08:49:18.528Z"
   },
   {
     "id": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9",
@@ -6639,7 +6630,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T06:27:27.736Z"
+    "pushedAt": "2026-11-13T08:49:42.728Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/ai-financing-strong-despite-nvidia-rosenbaum-video",
@@ -8718,7 +8709,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
     "image": null,
-    "pushedAt": "2026-11-13T06:34:48.382Z"
+    "pushedAt": "2026-11-13T08:50:06.824Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/analyst-sees-stricter-us-export-controls-after-nvidia-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-struggles-to-restore-access-to-software-video",
     "image": null,
     "pushedAt": "2026-11-13T08:48:51.683Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
+    "title": "Hong Kong Turns Even More Bullish on Economy With Growth Upgrade",
+    "titleZh": "香港經濟成長升級更樂觀",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
+    "image": null,
+    "pushedAt": "2026-11-13T08:50:33.132Z"
   }
 ]
