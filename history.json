@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/nissan-s-ivan-espinosa-on-china-us-japan-markets-video",
-    "title": "Nissan's Ivan Espinosa on China, US, Japan Markets and Company Outlook",
-    "titleZh": "日產汽車的伊凡‧埃斯皮諾薩 (Ivan Espinosa) 談中國、美國、日本市場和公司前景",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/nissan-s-ivan-espinosa-on-china-us-japan-markets-video",
-    "image": null,
-    "pushedAt": "2026-11-12T01:02:09.996Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/huang-said-to-have-had-affair-with-nvidia-executive-nyt-video",
     "title": "Huang Said to Have Had Affair With Nvidia Executive: NYT",
     "titleZh": "據稱黃仁勳與英偉達高層有染：《紐約時報》",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-chiclayo-wvlk/13int-pope-chiclayo-wvlk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T22:21:35.996Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+    "title": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
+    "titleZh": "英國法院將特立尼達和多巴哥的同性關係非刑事化",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-trinidad-law-pfvw/11int-trinidad-law-pfvw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T22:22:04.398Z"
   }
 ]
