@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2885db4c-64b0-4ca2-a1b3-fc3304504b48",
-    "title": "Call for entries: The Americas’ Fastest-Growing Companies 2027",
-    "titleZh": "徵件參賽作品：2027 年美洲成長最快的公司",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2885db4c-64b0-4ca2-a1b3-fc3304504b48",
-    "image": null,
-    "pushedAt": "2026-11-12T00:43:18.705Z"
-  },
-  {
-    "id": "https://www.ft.com/content/5499465d-df70-4410-be4b-3939b2019d40",
-    "title": "Off-balance on benefits",
-    "titleZh": "福利失衡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5499465d-df70-4410-be4b-3939b2019d40?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T17:26:06.474Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/china-plans-2-billion-bond-sale-in-hong-kong-as-issuance-grows",
-    "title": "China Plans $2 Billion Bond Sale in Hong Kong as Issuance Grows",
-    "titleZh": "隨著發行量的增加，中國計劃在香港發行 20 億美元債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-plans-2-billion-bond-sale-in-hong-kong-as-issuance-grows",
-    "image": null,
-    "pushedAt": "2026-11-11T12:27:48.193Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
-    "title": "US Treasury Futures Retreat as Markets See More Fed Hikes",
-    "titleZh": "隨著聯準會升息押注的增加，美國債券期貨下跌並沒有緩解",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
-    "image": null,
-    "pushedAt": "2026-11-11T16:34:09.084Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/ubs-laud-sees-underpriced-risk-in-ai-s-web-of-debt-video",
     "title": "UBS’ Laud Sees Underpriced Risk in AI's ‘Web of Debt’",
     "titleZh": "瑞銀稱讚人工智慧的「債務網」存在被低估的風險（影片）",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11FD-pricey-pies-promo1-vblz/11FD-pricey-pies-promo1-vblz-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-13T10:08:21.195Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+    "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
+    "titleZh": "教宗回訪秘魯天主教面臨激烈競爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11-int-pope-evangelicals-promo/11-int-pope-evangelicals-bjql-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T10:08:47.535Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+    "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
+    "titleZh": "博物館的「通緝」海報活動將被掠奪的畫作帶回法國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T10:08:49.510Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
+    "title": "Democrats Eye Strict New Limits on White House Budget Powers",
+    "titleZh": "民主黨對白宮預算權力實行嚴格的新限制",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trump-budget-wkcj/13dc-trump-budget-wkcj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T10:08:54.393Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+    "title": "One Man’s Quest to Create the Perfect Whiskey Glass",
+    "titleZh": "一個人對打造完美威士忌酒杯的追求",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+    "image": null,
+    "pushedAt": "2026-11-13T10:08:59.560Z"
   }
 ]
