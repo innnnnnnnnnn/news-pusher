@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-vuelve-a-reparar-equipos-petroleros-en-ee-uu-tras-mas-de-una-decada",
-    "title": "Venezuela vuelve a reparar equipos petroleros en EE.UU. tras más de una década",
-    "titleZh": "委內瑞拉在 EE.UU 上修復了石油設備。十年之事",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-vuelve-a-reparar-equipos-petroleros-en-ee-uu-tras-mas-de-una-decada",
-    "image": null,
-    "pushedAt": "2026-11-11T16:16:21.531Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/lumentum-slips-on-deal-fossil-group-rallies-on-outlook-video",
     "title": "Lumentum Slips on Deal Reaction; Fossil Group Rallies on Outlook | Stock Movers",
     "titleZh": "Lumentum 因交易反應而下滑；化石集團因展望而上漲|庫存搬運工",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
     "image": null,
     "pushedAt": "2026-11-13T16:39:43.795Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+    "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
+    "titleZh": "法官允許川普針對 BBC 的誹謗訴訟繼續進行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-BBC-jqlf/11xp-BBC-jqlf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:40:11.501Z"
   }
 ]
