@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/stocks-slide-as-ai-trade-roars-back-closing-bell-video",
-    "title": "Stocks Slide as AI Trade Roars Back | Closing Bell",
-    "titleZh": "人工智慧交易捲土重來，股市下滑結束鐘聲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/stocks-slide-as-ai-trade-roars-back-closing-bell-video",
-    "image": null,
-    "pushedAt": "2026-11-12T02:49:17.344Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/bc-partners-to-buy-investcorp-bdc-amid-private-credit-shakeout",
-    "title": "BC Partners to Buy Investcorp BDC Amid Private Credit Shakeout",
-    "titleZh": "BC Partners 將在私人信貸重組中收購 Investcorp BDC",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/bc-partners-to-buy-investcorp-bdc-amid-private-credit-shakeout",
-    "image": null,
-    "pushedAt": "2026-11-12T00:44:56.134Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
     "title": "Stocks Fall on Nvidia Rout as Oil Jump Sinks Bonds: Markets Wrap",
     "titleZh": "亞洲股市將因美國科技股再度上漲而上漲：市場總結",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
     "image": null,
     "pushedAt": "2026-11-13T21:57:36.344Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+    "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
+    "titleZh": "阿根廷74歲老人如何逃離五樓逮捕？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Argentina-fugitive-fzvg/13int-Argentina-fugitive-fzvg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T21:58:08.458Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+    "titleZh": "據說黃仁勳與向他報告的 Nvidia 高層有關係",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T21:58:13.318Z"
   }
 ]
