@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
-    "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
-    "titleZh": "秘魯機場走私者襪子中發現超過3000隻狼蛛",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-spiders-04-wvlf/08xp-spiders-04-wvlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T20:18:02.862Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/power-turbine-stocks-dip-as-softbank-writedown-fuels-demand-fear",
     "title": "Power Turbine Stocks Dip as SoftBank Loss Fuels Fears",
     "titleZh": "由於軟銀虧損加劇擔憂，渦輪機股票下跌",
@@ -2283,7 +2274,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T22:47:56.183Z"
+    "pushedAt": "2026-11-13T01:06:11.637Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
@@ -5739,7 +5730,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
     "image": null,
-    "pushedAt": "2026-11-12T22:47:32.060Z"
+    "pushedAt": "2026-11-13T01:05:47.026Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
@@ -6972,7 +6963,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
     "image": null,
-    "pushedAt": "2026-11-12T22:46:44.231Z"
+    "pushedAt": "2026-11-13T01:04:57.446Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
@@ -6981,7 +6972,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T22:47:08.356Z"
+    "pushedAt": "2026-11-13T01:05:22.917Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-hammack-calls-for-more-restrictive-rate-policy-video",
@@ -8142,7 +8133,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb7792cd-fa17-48f2-a38d-c9a9c531df80.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T22:48:23.416Z"
+    "pushedAt": "2026-11-13T01:06:35.697Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/-essential-that-us-upholds-export-controls-buchanan-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-12-2026-video",
     "image": null,
     "pushedAt": "2026-11-13T01:04:30.237Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+    "title": "Jensen Huang and Howard Lutnick Summoned to Testify on Capitol Hill in Push for Nvidia Inquiry",
+    "titleZh": "黃仁勳和霍華德·盧特尼克被傳喚到國會山莊作證，以推動 Nvidia 調查",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T01:07:03.287Z"
   }
 ]
