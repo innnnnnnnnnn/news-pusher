@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
-    "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
-    "titleZh": "Nvidia 與外部公司合作物色執行長候選人",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
-    "image": null,
-    "pushedAt": "2026-11-12T11:49:13.715Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
     "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
     "titleZh": "民主黨在錯過赫格斯彈劾投票後面臨強烈反對",
@@ -5873,8 +5864,8 @@
     "titleZh": "微軟在全球停電後競相恢復服務",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e6ddf7d-9eb1-496e-ba27-4e69b49a1457.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T20:57:31.136Z"
+    "image": null,
+    "pushedAt": "2026-11-13T23:24:05.860Z"
   },
   {
     "id": "https://www.ft.com/content/ac91b140-2614-48aa-8438-554e2c343373",
@@ -8061,7 +8052,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/53df66de-ca12-4e1e-9e27-3d54c6f8dbc1",
     "image": null,
-    "pushedAt": "2026-11-13T20:57:57.299Z"
+    "pushedAt": "2026-11-13T23:24:33.576Z"
   },
   {
     "id": "https://www.ft.com/content/8e394812-5940-4187-8cbf-6cd597fb314c",
@@ -8488,12 +8479,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
-    "title": "N.Y.C. Officials Expand Collapse Inquiry as Families Demand Answers",
+    "title": "Inquiry Into Brooklyn Building Collapse Expands as Families Demand Answers",
     "titleZh": "紐約家屬要求答案，官員擴大崩潰調查",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
-    "image": null,
-    "pushedAt": "2026-11-13T20:57:04.725Z"
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13met-bk-presser-still-tbzl/13met-bk-presser-still-tbzl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T23:23:40.161Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/opinion/florida-republicans-democrats.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
     "image": null,
     "pushedAt": "2026-11-13T23:23:09.188Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
+    "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
+    "titleZh": "Nvidia 董事會失敗了黃仁勳：蘭德爾·彼得森",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
+    "image": null,
+    "pushedAt": "2026-11-13T23:25:02.460Z"
   }
 ]
