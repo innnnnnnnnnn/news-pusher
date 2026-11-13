@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
-    "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
-    "titleZh": "即將上任的眾議院情報主席發誓對中央情報局使用秘密行動進行監督",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T19:51:53.567Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
     "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
     "titleZh": "中國否認涉及英偉達執行長的間諜指控黃仁勳",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T15:41:14.098Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+    "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+    "titleZh": "Nvidia 醜聞讓黃仁勳的妻子 Lori Huang 成為人們關注的焦點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T15:41:44.570Z"
   }
 ]
