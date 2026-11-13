@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/ai-whiplash-poses-major-test-for-wall-street-s-dip-buying-habit",
-    "title": "AI Whiplash Poses Major Test for Wall Street’s Dip-Buying Habit",
-    "titleZh": "人工智慧鞭打對華爾街逢低買進習慣構成重大考驗",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/ai-whiplash-poses-major-test-for-wall-street-s-dip-buying-habit",
-    "image": null,
-    "pushedAt": "2026-11-11T15:51:19.067Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
     "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
     "titleZh": "Anthropic 的 IPO和人工智慧的俱樂部業務",
@@ -8061,7 +8052,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fad415f5f-16ba-41d3-beee-e18bc6aa0445.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T11:26:35.265Z"
+    "pushedAt": "2026-11-13T13:59:45.870Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/iraq-october-oil-output-jumps-to-highest-since-2019-iea-says",
@@ -8502,7 +8493,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-france-pledges-remain-intact-varza-video",
     "image": null,
-    "pushedAt": "2026-11-13T11:27:01.664Z"
+    "pushedAt": "2026-11-13T14:00:13.238Z"
   },
   {
     "id": "https://www.ft.com/content/186f48b8-6574-48be-b0f2-3dcbac5dc24d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T13:59:16.870Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19",
+    "title": "US protectionism is a bust — Mississippi edition",
+    "titleZh": "美國保護主義已破產—密西西比版",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T14:00:41.373Z"
   }
 ]
