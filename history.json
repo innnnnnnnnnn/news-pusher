@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
-    "title": "Woodside Energy CEO on LNG Development in the US",
-    "titleZh": "伍德賽德能源執行長談美國液化天然氣開發",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
-    "image": null,
-    "pushedAt": "2026-11-12T01:25:16.025Z"
-  },
-  {
-    "id": "https://flipso.com/p/ctf1tze6w",
-    "title": "New Units of Knowledge",
-    "titleZh": "新的知識單元",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
-    "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
-    "pushedAt": "2026-11-13T20:56:09.442Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
     "title": "Nvidia Sinks as Analyst Downgrades Start to Come In: Street Wrap",
     "titleZh": "投資人考慮沒有執行長黃仁勳的未來，英偉達股價暴跌",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/5eeux1z7u?ref=rss",
     "image": "https://cdn.flipso.com/p/5eeux1z7u_square.jpg",
     "pushedAt": "2026-11-13T22:37:25.784Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "title": "The future of Trumponomics: compromise or failure",
+    "titleZh": "川普經濟學的未來：妥協還是失敗",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "image": null,
+    "pushedAt": "2026-11-13T22:37:53.920Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cf902a58-b694-4357-b1b0-07cf8e36c94e",
+    "title": "US military responds to ‘suspicious drone activity’ at UK air base",
+    "titleZh": "美國軍方對英國空軍基地的「可疑無人機活動」做出回應",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cf902a58-b694-4357-b1b0-07cf8e36c94e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F15664945-abe2-426b-96df-147e937d02f3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T22:38:00.318Z"
   }
 ]
