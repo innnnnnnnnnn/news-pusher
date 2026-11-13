@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
-    "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
-    "titleZh": "士兵在無名烈士墓前向赫格斯大喊以示“敬意”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-12T05:36:13.464Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
     "title": "CoreWeave Eyes $4 Billion Meta-Tied Loan to Cut Funding Costs",
     "titleZh": "CoreWeave 計劃籌集至少 40 億美元的高級貸款",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/masters-in-business-with-salim-ramji-video",
     "image": null,
     "pushedAt": "2026-11-13T22:25:05.579Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
+    "title": "Match Group Keeping AI Out of Dating",
+    "titleZh": "匹配組讓人工智慧不落伍",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
+    "image": null,
+    "pushedAt": "2026-11-13T22:25:37.070Z"
   }
 ]
