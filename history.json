@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html",
-    "title": "Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY",
-    "titleZh": "布魯克林建築物部分倒塌，人員受困",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11met-building-collapse-video-cover-01-mlpg/11met-building-collapse-video-cover-01-mlpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T00:59:20.340Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
     "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
     "titleZh": "加那利群島宣布移民進入緊急狀態，塞內加爾附近海難造成數十人死亡",
@@ -7071,7 +7062,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f71ea01e-065d-4b1d-b6a5-9d8e336bcbeb",
     "image": null,
-    "pushedAt": "2026-11-13T19:41:32.127Z"
+    "pushedAt": "2026-11-13T22:09:20.016Z"
   },
   {
     "id": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video",
     "image": null,
     "pushedAt": "2026-11-13T22:08:51.589Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/blackstone-s-qts-is-cutting-ai-debt-sale-by-more-than-half",
+    "title": "Blackstone’s QTS Is Cutting AI Debt Sale by More Than Half",
+    "titleZh": "Blackstone 的 QTS 正在將 AI 債務銷售削減一半以上",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/blackstone-s-qts-is-cutting-ai-debt-sale-by-more-than-half",
+    "image": null,
+    "pushedAt": "2026-11-13T22:09:46.646Z"
   }
 ]
