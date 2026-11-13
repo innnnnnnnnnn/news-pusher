@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-    "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-    "titleZh": "法國指責伊朗對冷凍系統進行網路攻擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T20:00:10.429Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
     "title": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
     "titleZh": "川普暗示將達成移民協議，但隨後又反悔。他以前就這麼做過。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
     "image": null,
     "pushedAt": "2026-11-13T20:55:14.613Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+    "title": "Xi Jinping’s plan for a China-centric world order",
+    "titleZh": "習近平關於以中國為中心的世界秩序的計劃",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+    "image": null,
+    "pushedAt": "2026-11-13T20:55:42.341Z"
   }
 ]
