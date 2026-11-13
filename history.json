@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/121bc0d0-f486-4c4c-a5e9-d4c5dc609fe4",
-    "title": "Brussels to unveil new Big Tech rules despite vow to slash red tape",
-    "titleZh": "儘管發誓要削減繁文縟節，布魯塞爾仍將推出新的大型科技規則",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/121bc0d0-f486-4c4c-a5e9-d4c5dc609fe4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T22:51:25.097Z"
-  },
-  {
-    "id": "https://www.ft.com/content/412c9ea6-c54a-4520-879b-10c32992cf6b",
-    "title": "One weird trick AI labs could use to save the world",
-    "titleZh": "人工智慧實驗室可以用一種奇怪的技巧來拯救世界",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/412c9ea6-c54a-4520-879b-10c32992cf6b",
-    "image": null,
-    "pushedAt": "2026-11-11T20:25:33.309Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
     "title": "Latest Oil Market News and Analysis for Nov. 11",
     "titleZh": "11 月 11 日最新石油市場新聞與分析",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing",
     "image": null,
     "pushedAt": "2026-11-13T06:26:32.929Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
+    "title": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
+    "titleZh": "Guinness Atkinson 執行長討論新 K-Beauty ETF 的推出",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
+    "image": null,
+    "pushedAt": "2026-11-13T06:34:48.382Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/analyst-sees-stricter-us-export-controls-after-nvidia-video",
+    "title": "Analyst Sees Stricter US Export Controls After Nvidia",
+    "titleZh": "分析師認為繼英偉達之後美國將實施更嚴格的出口管制",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/analyst-sees-stricter-us-export-controls-after-nvidia-video",
+    "image": null,
+    "pushedAt": "2026-11-13T06:34:52.724Z"
   }
 ]
