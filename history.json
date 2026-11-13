@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a86de4ff-f3de-4156-8ffa-bde10783d8b1",
-    "title": "The Democrats’ partial return to tariff sanity",
-    "titleZh": "民主黨部分恢復關稅理智",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a86de4ff-f3de-4156-8ffa-bde10783d8b1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T04:44:13.760Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-ipo-said-to-be-multiple-times-oversubscribed-video",
     "title": "Anthropic IPO Said to Be Multiple Times Oversubscribed",
     "titleZh": "Anthropic IPO 據稱獲得多倍超額認購",
@@ -2706,7 +2697,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:12:11.943Z"
+    "pushedAt": "2026-11-13T15:37:38.500Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/opinion/spanish-dictionary-jewish.html",
@@ -6828,7 +6819,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T13:11:47.006Z"
+    "pushedAt": "2026-11-13T15:37:13.262Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/singtel-raises-profit-outlook-as-overseas-businesses-gain-ground",
@@ -8178,7 +8169,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b2286012-26ec-4440-834e-580288f20ad0",
     "image": null,
-    "pushedAt": "2026-11-13T13:13:01.878Z"
+    "pushedAt": "2026-11-13T15:38:03.516Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/that-haven-trade-in-treasury-bonds-didn-t-last-long",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-13T15:36:44.623Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
+    "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
+    "titleZh": "聯準會會議減少增加了沃什通訊的風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-fed-01-fjhv/13dc-fed-01-fjhv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T15:38:32.902Z"
   }
 ]
