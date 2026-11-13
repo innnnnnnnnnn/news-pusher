@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html",
-    "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-    "titleZh": "在達卡擁擠的海灘上，非洲迎來了第一屆青奧會",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/africa/on-dakars-packed-beaches-africa-welcomes-its-first-youth-olympics.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-6-wpvh/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T09:30:52.291Z"
-  },
-  {
     "id": "https://www.ft.com/content/8da5a8f3-2e3a-4f14-9eac-1abaa8798d82",
     "title": "Nordics’ stability is attracting growing attention",
     "titleZh": "北歐的穩定日益受到關注",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing",
     "image": null,
     "pushedAt": "2026-11-13T02:15:33.482Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
+    "title": "The United States Is Skipping COP31 in Turkey",
+    "titleZh": "美國將跳過在土耳其舉行的 COP31",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-cop-americans-01-lgqt/11cli-cop-americans-01-lgqt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T02:16:03.222Z"
   }
 ]
