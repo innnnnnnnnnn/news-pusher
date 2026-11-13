@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
-    "titleZh": "NextEra 和 Dominion 的大型合併可能因電費帳單而失敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T11:23:46.838Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/sixth-street-ceo-warns-ai-race-rife-with-speculative-behaviors",
     "title": "Sixth Street CEO Warns AI Race Rife With ‘Speculative Behaviors’",
     "titleZh": "第六街執行長警告人工智慧競賽充斥著“投機行為”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T17:03:53.291Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+    "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+    "titleZh": "尋求擴大烏克蘭談判範圍，美國敦促俄羅斯將歐洲納入其中",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T17:04:20.276Z"
   }
 ]
