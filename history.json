@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
-    "title": "Saudi Oil Production Surged 26% Last Month to Pre-War Levels",
-    "titleZh": "沙烏地阿拉伯告訴 OPEC 產量飆升 26% 至戰爭開始以來最高水平",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
-    "image": null,
-    "pushedAt": "2026-11-11T15:55:51.249Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/",
-    "title": "Elon Musk’s AI Chatbot Grok Sexualized These Teens’ Childhood Photos",
-    "titleZh": "馬斯克 (Elon Musk) 的人工智慧聊天機器人 Grok 將這些青少年的童年照片性感化",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/",
-    "image": null,
-    "pushedAt": "2026-11-11T18:25:06.208Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-gets-rare-downgrade-as-baird-raises-ceo-uncertainities",
     "title": "Nvidia Gets Rare Downgrade as Baird Raises CEO Uncertainities",
     "titleZh": "由於貝爾德提高了執行長的不確定性，英偉達罕見被降級",
@@ -4101,7 +4083,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-walliams-fvzg/00xp-walliams-fvzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T11:29:15.501Z"
+    "pushedAt": "2026-11-13T14:05:12.032Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
@@ -6360,7 +6342,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
     "image": null,
-    "pushedAt": "2026-11-13T11:32:14.217Z"
+    "pushedAt": "2026-11-13T14:07:17.666Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/cisco-raises-sales-guidance-in-sign-of-ai-fueled-momentum",
@@ -8493,7 +8475,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2500879f-9849-45e8-8e22-082e9fa53228?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T11:28:48.656Z"
+    "pushedAt": "2026-11-13T14:04:46.428Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs",
@@ -8502,7 +8484,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs",
     "image": null,
-    "pushedAt": "2026-11-13T11:31:40.851Z"
+    "pushedAt": "2026-11-13T14:06:26.572Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/german-lawmakers-sign-off-on-higher-borrowing-spending-for-2027",
@@ -8511,7 +8493,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/german-lawmakers-sign-off-on-higher-borrowing-spending-for-2027",
     "image": null,
-    "pushedAt": "2026-11-13T11:31:45.833Z"
+    "pushedAt": "2026-11-13T14:06:52.838Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/paytm-wins-india-central-bank-s-conditional-nod-to-revive-wallet",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ant-gpfz/11db-ant-gpfz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T14:03:53.285Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8535fe3e-f48b-43ac-b14c-946cd5aa1d51",
+    "title": "Norway loses landmark climate case over oilfields",
+    "titleZh": "挪威在油田問題上輸掉了具有里程碑意義的氣候訴訟",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8535fe3e-f48b-43ac-b14c-946cd5aa1d51?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T14:07:45.845Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/goolsbee-says-fed-must-reestablish-its-inflation-credibility",
+    "title": "Goolsbee Says Fed Must Reestablish Its Inflation Credibility",
+    "titleZh": "古爾斯比表示聯準會必須重建通膨可信度",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/goolsbee-says-fed-must-reestablish-its-inflation-credibility",
+    "image": null,
+    "pushedAt": "2026-11-13T14:07:50.640Z"
   }
 ]
