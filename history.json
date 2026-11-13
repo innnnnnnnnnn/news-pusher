@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
-    "title": "LME Aluminum Market Faces Biggest Supply Squeeze in Decades",
-    "titleZh": "倫敦鋁市場面臨數十年來最嚴重的供應緊縮",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
-    "image": null,
-    "pushedAt": "2026-11-12T10:29:28.283Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
     "title": "Bartleby newsletter: Can AI write newsletters",
     "titleZh": "巴特比時事通訊：人工智慧可以撰寫時事通訊嗎",
@@ -7498,12 +7489,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-    "title": "Looking Past Nvidia Turmoil, Stocks Set for Best Week in Months",
+    "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
     "titleZh": "回顧英偉達的動盪，股市錄得幾個月來最好的一周",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13Biz-markets-week-zmqw/13Biz-markets-week-zmqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T16:11:57.278Z"
+    "pushedAt": "2026-11-13T18:46:44.706Z"
   },
   {
     "id": "https://www.ft.com/content/3d0d58ba-600f-427c-ab22-553cd8a1dcc8",
@@ -8421,7 +8412,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
     "image": null,
-    "pushedAt": "2026-11-13T16:11:29.479Z"
+    "pushedAt": "2026-11-13T18:46:19.142Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-klmp/12dc-trump-vance-klmp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T18:45:05.322Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+    "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
+    "titleZh": "Anthropic執行長稱計算能力為“最深的商業困境”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+    "image": null,
+    "pushedAt": "2026-11-13T18:47:12.550Z"
   }
 ]
