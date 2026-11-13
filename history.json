@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
-    "title": "Trading Firm IMC Plans to Double Staff in Hong Kong",
-    "titleZh": "量化交易公司 IMC 計劃在香港增加員工人數",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
-    "image": null,
-    "pushedAt": "2026-11-13T05:09:52.313Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike",
-    "title": "Gold Extends Fall Below $4,000 as Market Watches Fed",
-    "titleZh": "市場預期聯準會升息，金價維持在 4,000 美元下方",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike",
-    "image": null,
-    "pushedAt": "2026-11-12T13:34:33.607Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/uk-surveyors-face-weakest-housing-market-since-2023-rics-says",
     "title": "UK Surveyors Face Weakest Housing Market Since 2023, RICS Says",
     "titleZh": "RICS 表示，英國測量師面臨自 2023 年以來最疲軟的房地產市場",
@@ -7530,7 +7512,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-economy-slows-as-ukrainian-strikes-weigh-on-output",
     "image": null,
-    "pushedAt": "2026-11-13T21:24:47.860Z"
+    "pushedAt": "2026-11-13T23:48:56.162Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-soars-on-sales-cisco-down-on-expectations-miss-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
     "image": null,
     "pushedAt": "2026-11-13T23:48:27.591Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787",
+    "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+    "titleZh": "Sam Bankman-Fried 在 Anthropic IPO 中將賺得近 400 億美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0a78d5d-baf8-4590-8af4-4f5e345b474d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T23:49:25.025Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd",
+    "title": "SpaceX aborts attempt to catch Starship rocket after booster fails",
+    "titleZh": "助推器故障後 SpaceX 中止了捕捉 Starship 火箭的嘗試",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faba55e15-3ad3-4246-b8f2-d9509f123fea.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T23:49:29.524Z"
   }
 ]
