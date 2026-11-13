@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
-    "title": "Bernie Sanders Opposes Schumer as Majority Leader",
-    "titleZh": "伯尼·桑德斯反對舒默擔任多數黨領袖",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-democrats-bflg/10dc-democrats-bflg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T09:30:04.480Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
     "title": "The United States Is Skipping COP31 in Turkey",
     "titleZh": "美國將跳過在土耳其舉行的 COP31",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-vanhollen-kvwt/12dc-vanhollen-kvwt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T02:14:32.212Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+    "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
+    "titleZh": "加拿大當局殺死了四隻參與徒步旅行者致命襲擊的熊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-bear/10xp-bear-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T02:15:01.206Z"
   }
 ]
