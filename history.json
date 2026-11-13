@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/huang-s-ties-to-trump-under-scrutiny-after-spy-claim-video",
-    "title": "Huang's Ties to Trump Under Scrutiny After Spy Claim",
-    "titleZh": "黃與川普的關係在間諜指控後受到審查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/huang-s-ties-to-trump-under-scrutiny-after-spy-claim-video",
-    "image": null,
-    "pushedAt": "2026-11-12T01:16:40.532Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
     "title": "The company behind Barbie wants to be an entertainment giant",
     "titleZh": "芭比娃娃背後的公司想成為娛樂巨頭",
@@ -60,7 +51,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
     "image": null,
-    "pushedAt": "2026-11-13T18:29:42.367Z"
+    "pushedAt": "2026-11-13T21:02:24.235Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/john-kerry-on-the-case-for-clean-energy-video",
@@ -87,7 +78,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:30:06.201Z"
+    "pushedAt": "2026-11-13T21:02:48.510Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
@@ -4290,7 +4281,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
     "image": "https://static01.nyt.com/images/2021/04/22/business/trust-aicallout/22NYT-TECH-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:30:29.545Z"
+    "pushedAt": "2026-11-13T21:03:12.350Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/papa-john-s-franchisee-files-for-bankruptcy-in-pennsylvania",
@@ -4308,7 +4299,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-RUBIO-bjgk/10DC-RUBIO-bjgk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:30:53.280Z"
+    "pushedAt": "2026-11-13T21:03:35.968Z"
   },
   {
     "id": "https://flipso.com/p/t5lh7g4zl",
@@ -5325,7 +5316,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12obit-barril-ctwk/12obit-barril-ctwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:31:18.293Z"
+    "pushedAt": "2026-11-13T21:03:59.675Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
@@ -7521,7 +7512,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf0fcb61-752b-4cc7-b638-832276a1f3bb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T18:32:08.769Z"
+    "pushedAt": "2026-11-13T21:04:23.001Z"
   },
   {
     "id": "https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/opinion/florida-republicans-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13grunwald1a-mvbq/13grunwald1a-mvbq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T21:01:57.522Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
+    "title": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
+    "titleZh": "聯準會認為與資產價格上漲相關的風險部分是由人工智慧驅動的",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
+    "image": null,
+    "pushedAt": "2026-11-13T21:05:13.808Z"
   }
 ]
