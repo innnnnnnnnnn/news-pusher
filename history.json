@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-s-ipo-said-to-be-multiple-times-oversubscribed-video",
-    "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
-    "titleZh": "Anthropic IPO 據稱獲得數倍超額認購",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-s-ipo-said-to-be-multiple-times-oversubscribed-video",
-    "image": null,
-    "pushedAt": "2026-11-11T20:13:35.948Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/jetblue-lenders-form-groups-as-airline-downplays-financial-peril",
     "title": "JetBlue Lenders Form Groups as Airline Downplays Financial Peril",
     "titleZh": "捷藍航空淡化財務風險，貸款機構成立集團",
@@ -456,7 +447,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
-    "pushedAt": "2026-11-13T15:19:29.250Z"
+    "pushedAt": "2026-11-13T18:02:06.414Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
@@ -4047,7 +4038,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:20:45.981Z"
+    "pushedAt": "2026-11-13T18:02:54.540Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
@@ -5739,7 +5730,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-13T15:20:20.453Z"
+    "pushedAt": "2026-11-13T18:02:31.158Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-13T17:54:22.999Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+    "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+    "titleZh": "氣候科學報告的發佈時機在聯合國會談中引發激烈爭論",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T18:03:21.388Z"
   }
 ]
