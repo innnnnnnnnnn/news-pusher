@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-deals-11-11-2026-video",
-    "title": "Massive Demand for Anthropic IPO, Megadeals After Midterms",
-    "titleZh": "中期選舉後對人類首次公開募股和大型交易的巨大需求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-deals-11-11-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-11T22:52:40.358Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers",
     "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
     "titleZh": "微軟誓言以自己的方式為資料中心供電",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/renquoi3o?ref=rss",
     "image": null,
     "pushedAt": "2026-11-13T21:05:43.479Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
+    "title": "The company behind Barbie wants to be an entertainment giant",
+    "titleZh": "芭比娃娃背後的公司想成為娛樂巨頭",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
+    "image": null,
+    "pushedAt": "2026-11-13T21:06:11.500Z"
   }
 ]
