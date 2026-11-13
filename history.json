@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
-    "title": "Indonesia to Cut 300 More Tightly Held Stocks From Benchmark",
-    "titleZh": "印尼證券交易所將 300 隻股票添加到高集中度名單中",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
-    "image": null,
-    "pushedAt": "2026-11-11T06:50:44.484Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/lula-team-readies-brazil-fiscal-plan-in-bid-to-calm-market-jitters",
     "title": "Lula Team Readies Brazil Fiscal Plan in Bid to Calm Market Jitters",
     "titleZh": "盧拉團隊準備巴西財政計畫以平息市場不安",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
     "image": null,
     "pushedAt": "2026-11-13T00:08:50.050Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+    "title": "The fight over Republicans’ future has begun",
+    "titleZh": "關於共和黨未來的鬥爭已經開始",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+    "image": null,
+    "pushedAt": "2026-11-13T00:09:19.219Z"
   }
 ]
