@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
-    "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
-    "titleZh": "俄羅斯駐美大使亞歷山大·達爾切耶夫去世，享年 66 歲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T21:02:48.510Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
-    "title": "A.I. and Market Whiplash",
-    "titleZh": "人工智慧.和市場鞭打",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T21:12:02.679Z"
-  },
-  {
     "id": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9",
     "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
     "titleZh": "民主黨人承諾揭露川普領導下的“絕對雪崩腐敗”",
@@ -7539,7 +7521,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-says-treasury-favored-megaspeed-on-trade-blacklist",
     "image": null,
-    "pushedAt": "2026-11-13T19:01:48.045Z"
+    "pushedAt": "2026-11-13T21:27:40.057Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
@@ -7548,7 +7530,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
     "image": null,
-    "pushedAt": "2026-11-13T19:02:12.084Z"
+    "pushedAt": "2026-11-13T21:28:03.434Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/us-wholesale-inflation-climbs-at-fastest-pace-since-2022-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/13/world/americas/nationwide-ground-stop-flights-faa.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-faa-groundstop-01/13dc-faa-groundstop-01-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T21:27:13.508Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b",
+    "title": "US federal aviation regulator grounds all departing flights",
+    "titleZh": "美國聯邦航空監管機構停飛所有離港航班",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fafa807e9-5a92-4d62-ae24-541b92a9127a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T21:28:32.221Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex",
+    "title": "Anthropic IPO Buyers Have More Influence on Price Than SpaceX",
+    "titleZh": "人為 IPO 買家對價格的影響力比 SpaceX 更大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex",
+    "image": null,
+    "pushedAt": "2026-11-13T21:28:36.928Z"
   }
 ]
