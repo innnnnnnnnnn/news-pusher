@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6",
-    "title": "Scott Colom wins historic Senate race in Mississippi",
-    "titleZh": "斯科特·科洛姆 (Scott Colom) 在密西西比州歷史性的參議院競選中獲勝",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87d68762-6d31-4209-a62d-632bb9b1e84c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-12T13:21:09.876Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
-    "title": "Pivotal Advisors CEO: Investors Should See AI as Part of Portfolio",
-    "titleZh": "Pivotal Advisors 執行長：投資人應將人工智慧視為投資組合的一部分",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
-    "image": null,
-    "pushedAt": "2026-11-12T02:10:45.599Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
     "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
     "titleZh": "Nvidia 與外部公司合作物色執行長候選人",
@@ -1968,7 +1950,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
     "image": null,
-    "pushedAt": "2026-11-13T20:56:32.889Z"
+    "pushedAt": "2026-11-13T23:22:09.195Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-board-weighs-huang-s-future-after-affairs-video",
@@ -8484,7 +8466,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
     "image": null,
-    "pushedAt": "2026-11-13T20:55:14.613Z"
+    "pushedAt": "2026-11-13T23:21:18.609Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
@@ -8493,16 +8475,16 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
-    "pushedAt": "2026-11-13T20:55:42.341Z"
+    "pushedAt": "2026-11-13T23:21:43.984Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-    "title": "Cargo Ship Crashes Into Docked Riverboat in New Orleans",
+    "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
     "titleZh": "貨船在新奧爾良撞上停靠的河船",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
     "image": null,
-    "pushedAt": "2026-11-13T20:57:00.073Z"
+    "pushedAt": "2026-11-13T23:22:36.100Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
     "image": "https://static01.nyt.com/images/2026/11/12/espanol/12dc-vanhollen-kvwt-ES-copy1/12dc-vanhollen-kvwt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T23:15:59.539Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
+    "title": "Howard Lutnick Has Got to Go",
+    "titleZh": "霍華德·盧特尼克必須離開",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13mcguire-bcjp/13mcguire-bcjp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T23:23:03.173Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
+    "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
+    "titleZh": "Carrie Underwood 談論她的新健康品牌 HiNote",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
+    "image": null,
+    "pushedAt": "2026-11-13T23:23:09.188Z"
   }
 ]
