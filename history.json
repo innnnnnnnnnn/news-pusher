@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e4bae0a8-b06e-4570-9e58-b0125c01953a",
-    "title": "Turkey spotlights Gaza ‘ecocide’ at UN climate talks dominated by fossil fuel producers",
-    "titleZh": "土耳其在由化石燃料生產商主導的聯合國氣候談判中聚焦加薩“生態滅絕”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e4bae0a8-b06e-4570-9e58-b0125c01953a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T22:57:45.056Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
     "title": "Silicon Valley Tech Allies Support Jensen Huang",
     "titleZh": "矽谷科技盟友支持黃仁勳",
@@ -132,7 +123,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/nye9u3xfo?ref=rss",
     "image": "https://cdn.flipso.com/p/nye9u3xfo_square.jpg",
-    "pushedAt": "2026-11-13T13:40:58.661Z"
+    "pushedAt": "2026-11-13T16:05:38.492Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
@@ -150,7 +141,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-BBC-jqlf/11xp-BBC-jqlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:41:23.530Z"
+    "pushedAt": "2026-11-13T16:06:04.226Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-vuelve-a-reparar-equipos-petroleros-en-ee-uu-tras-mas-de-una-decada",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/us-wholesale-inflation-hits-fastest-pace-since-2022-video",
     "image": null,
     "pushedAt": "2026-11-13T16:04:44.107Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html",
+    "title": "Jensen Huang’s Fall Is Bad for Nvidia but Good for America",
+    "titleZh": "黃仁勳的倒台對英偉達不利，但對美國有利",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/opinion/13kantrowitz-image/13kantrowitz-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:06:31.480Z"
   }
 ]
