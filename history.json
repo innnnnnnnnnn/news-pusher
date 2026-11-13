@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-    "title": "Anthropic IPO Risks Causing AI Correction, Selby Says",
-    "titleZh": "塞爾比表示，人為 IPO 鎖定風險引發人工智慧修正",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-    "image": null,
-    "pushedAt": "2026-11-12T08:02:22.702Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-11/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
     "title": "FTSE 100 to Bounce Back, Pound Sinks Closer to $1.33",
     "titleZh": "富時 100 指數反彈，英鎊跌至 1.33 美元附近",
@@ -8564,8 +8555,8 @@
     "titleZh": "Nscale 警告在 350 億美元 IPO 之前需要更多現金",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T04:35:22.136Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8a17010-115d-4f90-b160-e66fe1950709.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T06:57:22.773Z"
   },
   {
     "id": "https://www.ft.com/content/dd653a19-492a-41d1-b459-3a2b7d2f0e86",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video",
     "image": null,
     "pushedAt": "2026-11-13T06:56:55.375Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af",
+    "title": "Value Nvidia, not Huang",
+    "titleZh": "重視英偉達，而不是黃",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7623308a-2078-4933-82b2-2693932685a7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T06:57:48.695Z"
   }
 ]
