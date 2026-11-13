@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/united-blocks-ai-agents-from-booking-flights-ahead-of-holidays",
-    "title": "United Blocks AI Agents From Booking Flights Ahead of Holidays",
-    "titleZh": "美聯航阻止人工智慧代理商在假期前預訂航班",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/united-blocks-ai-agents-from-booking-flights-ahead-of-holidays",
-    "image": null,
-    "pushedAt": "2026-11-11T21:18:07.721Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-tech-11-10-2026-video",
     "title": "Anthropic IPO Demand Surges as CoreWeave Calms AI Fears",
     "titleZh": "CoreWeave 平息人工智慧恐懼，人類 IPO 需求激增",
@@ -3597,7 +3588,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
     "image": null,
-    "pushedAt": "2026-11-13T16:59:36.662Z"
+    "pushedAt": "2026-11-13T19:28:45.558Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
@@ -4326,7 +4317,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/europe/10vid-russia-newspaper-cover-image/10vid-russia-newspaper-cover-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T16:59:12.087Z"
+    "pushedAt": "2026-11-13T19:28:22.096Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/us-held-venezuela-oil-sales-fund-paid-out-12-1-billion",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/the-other-way-the-ai-buildout-pushes-up-us-rates",
     "image": null,
     "pushedAt": "2026-11-13T19:18:27.220Z"
+  },
+  {
+    "id": "https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17",
+    "title": "US securities watchdog plans to loosen rules for executive pay disclosure",
+    "titleZh": "美國證券監理機構計劃放寬高階主管薪酬揭露規則",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b2750fc-33c0-4514-96bd-a765232ed8ee.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T19:29:14.359Z"
   }
 ]
