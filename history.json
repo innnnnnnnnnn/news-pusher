@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all",
-    "title": "UK’s Healey Promises to Avoid US-Style Data Center Free-for-All",
-    "titleZh": "英國希利承諾避免美國式資料中心混戰",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all",
-    "image": null,
-    "pushedAt": "2026-11-11T19:13:47.403Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
     "title": "I Visited Big Bear Lake’s Famous Bald Eagles and Found Very Human Shenanigans",
     "titleZh": "我的 I.R.L.鷹之國歷險記",
@@ -6216,7 +6207,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
     "image": null,
-    "pushedAt": "2026-11-13T14:27:35.816Z"
+    "pushedAt": "2026-11-13T17:05:39.914Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
@@ -7197,7 +7188,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/post-jensen-us-chip-curbs-threaten-southeast-asia-s-ai-boom",
     "image": null,
-    "pushedAt": "2026-11-13T14:26:44.755Z"
+    "pushedAt": "2026-11-13T17:05:15.452Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/arts/television/late-night-seth-meyers-scott-colom.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html",
     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T17:04:48.210Z"
+  },
+  {
+    "id": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968",
+    "title": "AI believers hold the line after Nvidia ructions",
+    "titleZh": "英偉達發生騷亂後，人工智慧信徒堅守陣地",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F64eddb0c-d2a2-4ca3-af8c-c307ae39dac3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T17:06:08.699Z"
   }
 ]
