@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-    "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
-    "titleZh": "隨著雙方都尋求新的限制，兩黨對以色列的支持也逐漸減弱",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T16:06:02.236Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
     "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
     "titleZh": "質疑基督復活的牧師勞埃德·基林 (Lloyd Geering) 去世，享年 108 歲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/f71ea01e-065d-4b1d-b6a5-9d8e336bcbeb",
     "image": null,
     "pushedAt": "2026-11-13T12:03:51.501Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+    "title": "Teaching kids to think for themselves in the age of AI",
+    "titleZh": "教導孩子在人工智慧時代獨立思考",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+    "image": null,
+    "pushedAt": "2026-11-13T12:10:42.352Z"
   }
 ]
