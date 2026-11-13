@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027",
-    "title": "Meta’s Head of Infrastructure, Engineering to Depart in 2027",
-    "titleZh": "Meta 基礎設施、工程主管將於 2027 年辭職",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027",
-    "image": null,
-    "pushedAt": "2026-11-11T18:32:12.996Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/opinion-tesla-s-cybertruck-was-always-doomed-video",
     "title": "Tesla’s Cybertruck Was Always Doomed",
     "titleZh": "特斯拉的賽博卡車總是注定失敗",
@@ -8501,8 +8492,8 @@
     "titleZh": "Bessent 指責 Lutnick 商務部未能將 Megaspeed 列入黑名單",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T13:51:53.284Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc70832a2-a699-44da-9798-6e6b3562cbb3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T16:20:26.271Z"
   },
   {
     "id": "https://www.ft.com/content/603270db-040c-44fb-9b1b-981b0b72de21",
@@ -8511,7 +8502,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/603270db-040c-44fb-9b1b-981b0b72de21?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T13:51:57.492Z"
+    "pushedAt": "2026-11-13T16:20:51.568Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-says-treasury-favored-megaspeed-on-trade-blacklist",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-economy-slows-as-ukrainian-strikes-weigh-on-output",
     "image": null,
     "pushedAt": "2026-11-13T16:19:56.538Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-soars-on-sales-cisco-down-on-expectations-miss-video",
+    "title": "Cerebras Soars on Sales; Cisco Down on Expectations Miss | Stock Movers",
+    "titleZh": "Cerebras 銷售額飆升；思科低於預期庫存搬運工",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-soars-on-sales-cisco-down-on-expectations-miss-video",
+    "image": null,
+    "pushedAt": "2026-11-13T16:21:20.313Z"
   }
 ]
