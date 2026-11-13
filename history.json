@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-    "title": "Humanoid robot start-up backed by Eric Trump in talks with Israel’s military",
-    "titleZh": "艾瑞克川普支持的人形機器人新創公司正在洽談向以色列國防軍供貨",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T04:13:12.933Z"
-  },
-  {
-    "id": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8",
-    "title": "Single-stock perps look like pointiest horn of a bull market",
-    "titleZh": "個股永續經營看起來像是牛市最尖的角",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T04:13:36.243Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
     "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
     "titleZh": "白宮威脅國會稱激進調查可能構成犯罪",
@@ -6261,7 +6243,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T14:13:33.106Z"
+    "pushedAt": "2026-11-13T16:49:23.941Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement",
@@ -7260,7 +7242,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/73e518cb-14c5-4012-acea-3a3d01725b1b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T14:13:07.758Z"
+    "pushedAt": "2026-11-13T16:48:58.362Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-china-show-11-13-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-biden-topart-01-qkbf/11xp-biden-topart-01-qkbf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T16:48:08.654Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+    "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+    "titleZh": "為什麼 Anthropic 的 Dario Amodei 激怒了 OpenAI 和其他人工智慧公司同行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+    "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:49:50.269Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+    "title": "Wall Street Braces for Anthropic’s Spending",
+    "titleZh": "華爾街為 Anthropic 的支出做好準備",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:49:54.262Z"
   }
 ]
