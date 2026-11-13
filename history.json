@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-    "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
-    "titleZh": "民主黨人 Scott Colom 贏得密西西比州參議院席位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-ms-senate/11midterms-02-jgqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T16:54:03.934Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
     "title": "We Are Probably Overbuilding Data Centers: Gary Marcus",
     "titleZh": "我們可能過度建造資料中心：Gary Marcus",
@@ -4362,7 +4353,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/ghana-eyes-8-growth-with-10-billion-four-year-spending-plan",
     "image": null,
-    "pushedAt": "2026-11-13T20:30:55.473Z"
+    "pushedAt": "2026-11-13T22:56:07.479Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-says-wells-fargo",
@@ -4839,7 +4830,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-13T20:31:42.906Z"
+    "pushedAt": "2026-11-13T22:56:33.942Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
@@ -8502,7 +8493,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/style/jensen-huang-nvidia-leather-jacket-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12HUANG-JACKET-01-zqbm/12HUANG-JACKET-01-zqbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T20:30:00.606Z"
+    "pushedAt": "2026-11-13T22:55:15.097Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
@@ -8511,7 +8502,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-spacex-lawsuit-lmbq/11biz-spacex-lawsuit-lmbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T20:30:28.846Z"
+    "pushedAt": "2026-11-13T22:55:40.895Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
     "image": null,
     "pushedAt": "2026-11-13T22:54:44.628Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
+    "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
+    "titleZh": "大觀點：氣候正在以模型無法預測的方式發生變化",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
+    "image": null,
+    "pushedAt": "2026-11-13T22:57:01.310Z"
   }
 ]
