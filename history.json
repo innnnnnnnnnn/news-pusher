@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0",
-    "title": "Nvidia board to decide Jensen Huang’s fate",
-    "titleZh": "黃仁勳與公司高層有染後，英偉達董事會召開會議",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T22:59:36.142Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
     "title": "The Nvidia Affair",
     "titleZh": "英偉達事件",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
     "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
     "pushedAt": "2026-11-13T22:38:29.534Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+    "title": "How Wall Street Is Pitching Anthropic’s I.P.O.: ‘Too Crucial to Fail’",
+    "titleZh": "華爾街如何宣傳 Anthropic 的 IPO：“至關重要，不能失敗”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T22:39:03.382Z"
   }
 ]
