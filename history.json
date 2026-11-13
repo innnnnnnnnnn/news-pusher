@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html",
-    "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
-    "titleZh": "一名 8 歲兒童在辦理登機手續時與家人失散並被 ICE 帶走",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html",
-    "image": null,
-    "pushedAt": "2026-11-12T02:23:30.015Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
     "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
     "titleZh": "波蘭的大規模屠殺成為政治鬥爭的原因",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T20:13:35.717Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
+    "title": "Fed Set to Raise Interest Rates Next Month as Debate Moves to January",
+    "titleZh": "聯準會將在下個月升息，爭論將持續至一月份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
+    "image": null,
+    "pushedAt": "2026-11-13T20:14:29.448Z"
   }
 ]
