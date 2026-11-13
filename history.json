@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
-    "title": "I Visited Big Bear Lake’s Famous Bald Eagles and Found Very Human Shenanigans",
-    "titleZh": "我的 I.R.L.鷹之國歷險記",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/magazine/eagle-cam-big-bear-lake.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-Eagle-05/22mag-Eagle-05-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T04:32:19.238Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts",
     "title": "Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts",
     "titleZh": "核復興促使芝商所 (CME) 推動實體鈾合約",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F64eddb0c-d2a2-4ca3-af8c-c307ae39dac3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-13T17:06:08.699Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/cameron-says-brexit-did-not-cause-uk-s-problems-video",
+    "title": "Cameron says Brexit did not cause UK's problems",
+    "titleZh": "卡麥隆表示英國脫歐並未造成英國問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/cameron-says-brexit-did-not-cause-uk-s-problems-video",
+    "image": null,
+    "pushedAt": "2026-11-13T17:06:37.526Z"
   }
 ]
