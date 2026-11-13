@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702",
-    "title": "Nato should take the ‘offensive’ against Russia, says Sedwill",
-    "titleZh": "塞德威爾勳爵表示，北約應該​​對俄羅斯採取“攻擊”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T05:09:49.502Z"
-  },
-  {
     "id": "https://www.ft.com/content/033a85b4-5059-4a53-969d-c190d84cad62",
     "title": "Reform UK’s vetting chief replaced after series of scandals",
     "titleZh": "英國改革署審查主管在一系列醜聞後被更換",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-surveillance-11-13-2026-video",
     "image": null,
     "pushedAt": "2026-11-13T17:46:46.894Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+    "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+    "titleZh": "美國加強對伊朗封鎖的努力依賴不情願的鄰國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T17:47:14.300Z"
   }
 ]
