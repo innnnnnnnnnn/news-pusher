@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/fqlc6uthp",
-    "title": "Branching Beyond Leonardo",
-    "titleZh": "超越萊昂納多",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/fqlc6uthp?ref=rss",
-    "image": "https://cdn.flipso.com/p/fqlc6uthp_square.jpg",
-    "pushedAt": "2026-11-13T06:40:27.207Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/rubio-says-ukraine-must-never-again-feel-threatened-video",
     "title": "Rubio Says Ukraine Must Never Again Feel Threatened",
     "titleZh": "盧比歐表示烏克蘭絕不能再次感到受到威脅（影片）",
@@ -8385,7 +8376,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/efd7f5d4-acd8-42a2-b5c7-2b687938dca2",
     "image": null,
-    "pushedAt": "2026-11-13T04:50:18.120Z"
+    "pushedAt": "2026-11-13T07:13:37.895Z"
   },
   {
     "id": "https://www.ft.com/content/50c43ffc-2a91-43ee-8eb7-a19531278b97",
@@ -8394,7 +8385,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/50c43ffc-2a91-43ee-8eb7-a19531278b97?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T04:50:43.283Z"
+    "pushedAt": "2026-11-13T07:14:01.487Z"
   },
   {
     "id": "https://www.ft.com/content/67dda4a9-68b8-4c56-ae7d-4c5375e308b6",
@@ -8403,7 +8394,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/67dda4a9-68b8-4c56-ae7d-4c5375e308b6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T04:51:08.229Z"
+    "pushedAt": "2026-11-13T07:14:24.758Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/rate-hike-fears-set-to-test-nifty-s-rally-as-india-inflation-accelerates",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones",
     "image": null,
     "pushedAt": "2026-11-13T07:13:11.366Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang",
+    "title": "Banned Nvidia Chips Installed at China Data Center Linked to Alice Huang",
+    "titleZh": "中國資料中心安裝的被禁 Nvidia 晶片與 Alice Huang 有關",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang",
+    "image": null,
+    "pushedAt": "2026-11-13T07:14:52.198Z"
   }
 ]
