@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/52b69e5d-09f5-4ec4-9dec-e5e8681d8a07",
-    "title": "Eisen by Guzel Yakhina — the man behind the montage",
-    "titleZh": "Eisen by Guzel Yakhina－蒙太奇背後的人",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/52b69e5d-09f5-4ec4-9dec-e5e8681d8a07",
-    "image": null,
-    "pushedAt": "2026-11-11T22:14:13.414Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
     "title": "AI Stocks Rally After Coreweave's Results; Treasury Market Closed",
     "titleZh": "Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
     "image": null,
     "pushedAt": "2026-11-13T13:38:44.625Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+    "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
+    "titleZh": "Neocloud Nscale 披露 55 億美元債務，並在 IPO 前與 Nvidia 更緊密聯繫",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+    "image": null,
+    "pushedAt": "2026-11-13T13:39:15.268Z"
   }
 ]
