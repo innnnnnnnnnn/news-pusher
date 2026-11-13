@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
-    "title": "Kenya Starts Countdown to End of Ebola Outbreak",
-    "titleZh": "肯亞開始伊波拉疫情結束倒數計時",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T17:49:48.608Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video",
     "title": "Nvidia Gets Rare Downgrade as Jensen Huang Scandal Weighs on Outlook",
     "titleZh": "黃仁勳醜聞影響前景，英偉達罕見降級",
@@ -3948,7 +3939,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
     "image": null,
-    "pushedAt": "2026-11-13T15:10:34.011Z"
+    "pushedAt": "2026-11-13T17:53:29.063Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/amazon-s-first-north-american-union-contract-imposed-in-canada",
     "image": null,
     "pushedAt": "2026-11-13T17:53:02.750Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+    "title": "Microsoft’s Global Outage and Fixes: What We Know",
+    "titleZh": "微軟的全球中斷與修復：我們所知道的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T17:53:56.261Z"
   }
 ]
