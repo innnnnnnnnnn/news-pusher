@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-    "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-    "titleZh": "川普官員在英偉達事件核心問題上發生衝突",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T16:02:35.944Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/opinion/democrats-voting-rights-southern-strategy.html",
-    "title": "Look Who Has a Southern Strategy",
-    "titleZh": "看看誰有南方戰略",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/opinion/democrats-voting-rights-southern-strategy.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11bouie-zwph/11bouie-zwph-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T16:06:03.966Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-playing-out-like-a-greek-tragedy-goldberg-video",
     "title": "Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg",
     "titleZh": "海港公司的戈德伯格表示，英偉達的表現就像一場希臘悲劇",
@@ -3597,7 +3579,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
     "image": null,
-    "pushedAt": "2026-11-13T13:47:57.287Z"
+    "pushedAt": "2026-11-13T16:15:25.241Z"
   },
   {
     "id": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113",
@@ -3606,7 +3588,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T13:48:47.093Z"
+    "pushedAt": "2026-11-13T16:16:15.363Z"
   },
   {
     "id": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f",
@@ -6738,7 +6720,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
     "image": null,
-    "pushedAt": "2026-11-13T13:48:22.111Z"
+    "pushedAt": "2026-11-13T16:15:50.103Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
@@ -8520,7 +8502,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/disney-pivots-to-embrace-ai-from-film-to-parks",
     "image": null,
-    "pushedAt": "2026-11-13T13:47:04.420Z"
+    "pushedAt": "2026-11-13T16:15:00.214Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/well/move/important-muscles-longevity-advice.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o",
     "image": null,
     "pushedAt": "2026-11-13T16:14:32.248Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+    "title": "H&R Investors Vote Down Sale to Blackstone and GO, Rebuking CEO",
+    "titleZh": "H&R 投資者投票否決對 Blackstone 和 GO 的出售，斥責首席執行官",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+    "image": null,
+    "pushedAt": "2026-11-13T16:16:43.590Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/discipline-is-key-for-successful-investing-says-sonders-video",
+    "title": "'Investing Should be Disciplined Process Over Time,' Says Liz Ann Sonders",
+    "titleZh": "安·桑德斯 (Liz Ann Sonders) 表示，“隨著時間的推移，投資過程應該受到紀律約束”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/discipline-is-key-for-successful-investing-says-sonders-video",
+    "image": null,
+    "pushedAt": "2026-11-13T16:16:49.150Z"
   }
 ]
