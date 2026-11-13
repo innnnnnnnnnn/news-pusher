@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/85795c79-737f-4eea-b766-b0e4926e6ee2",
-    "title": "Europe’s infrastructure dreams start to come true",
-    "titleZh": "歐洲的基礎建設夢想開始實現",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/85795c79-737f-4eea-b766-b0e4926e6ee2",
-    "image": null,
-    "pushedAt": "2026-11-11T14:00:48.281Z"
-  },
-  {
     "id": "https://www.ft.com/video/ab1f8ebe-6db2-439c-bc65-7293523a795d",
     "title": "Inside Ken Griffin's Miami",
     "titleZh": "肯·格里芬的邁阿密內部",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/rate-hike-fears-set-to-test-nifty-s-rally-as-india-inflation-accelerates",
     "image": null,
     "pushedAt": "2026-11-13T02:32:33.340Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+    "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says",
+    "titleZh": "ST 表示，新加坡對與 Nvidia 晶片盒有關的第五人提出指控",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+    "image": null,
+    "pushedAt": "2026-11-13T02:33:06.751Z"
   }
 ]
