@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-    "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
-    "titleZh": "質疑基督復活的牧師勞埃德·基林 (Lloyd Geering) 去世，享年 108 歲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-    "image": null,
-    "pushedAt": "2026-11-12T16:06:28.459Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
     "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
     "titleZh": "一個國家的總統導致了一家銀行的驚人崛起和衰落",
@@ -6216,7 +6207,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-anthropic-nvidia-grid-2-01-clmb/10biz-anthropic-nvidia-grid-2-01-clmb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T09:53:28.285Z"
+    "pushedAt": "2026-11-13T12:11:35.693Z"
   },
   {
     "id": "https://www.ft.com/content/6e27b96d-cb31-4e1a-bb1c-46816be25983",
@@ -6855,7 +6846,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:53:53.112Z"
+    "pushedAt": "2026-11-13T12:12:01.805Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video",
@@ -7773,7 +7764,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a14edc0-c8ac-4e37-9a5f-a1628049e3c0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T09:53:04.260Z"
+    "pushedAt": "2026-11-13T12:11:10.493Z"
   },
   {
     "id": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
     "image": null,
     "pushedAt": "2026-11-13T12:10:42.352Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
+    "title": "Microsoft Outage Hits Businesses, Nvidia Scandal Deepens",
+    "titleZh": "微軟企業宕機，英偉達醜聞加深",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-13T12:12:32.009Z"
   }
 ]
