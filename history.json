@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/opinion-tesla-s-cybertruck-was-always-doomed-video",
-    "title": "Tesla’s Cybertruck Was Always Doomed",
-    "titleZh": "特斯拉的賽博卡車總是注定失敗",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/opinion-tesla-s-cybertruck-was-always-doomed-video",
-    "image": null,
-    "pushedAt": "2026-11-11T16:12:38.658Z"
-  },
-  {
     "id": "https://flipso.com/p/6ivpgrf21",
     "title": "Children of Men: The Future Is a Mirror for the Present - Reactor",
     "titleZh": "人類之子：未來是現在的鏡子 - Reactor",
@@ -3624,7 +3615,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "image": null,
-    "pushedAt": "2026-11-13T13:55:44.910Z"
+    "pushedAt": "2026-11-13T16:23:31.437Z"
   },
   {
     "id": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
@@ -8034,7 +8025,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d0d58ba-600f-427c-ab22-553cd8a1dcc8?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcce57446-d478-4f5f-a89c-4611fb4c8fb1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T13:52:26.968Z"
+    "pushedAt": "2026-11-13T16:21:48.688Z"
   },
   {
     "id": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def",
@@ -8043,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fec4b22-08a3-4436-823e-116384aaa77f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T13:52:53.052Z"
+    "pushedAt": "2026-11-13T16:22:14.226Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video",
@@ -8506,12 +8497,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-says-treasury-favored-megaspeed-on-trade-blacklist",
-    "title": "Bessent Says Treasury Favored Megaspeed on Trade Blacklist",
+    "title": "Bessent Blames Lutnick, Commerce for Not Blocking Megaspeed",
     "titleZh": "Bessent表示財政部在貿易黑名單上青睞Megaspeed",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-says-treasury-favored-megaspeed-on-trade-blacklist",
     "image": null,
-    "pushedAt": "2026-11-13T13:53:47.316Z"
+    "pushedAt": "2026-11-13T16:22:41.084Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
@@ -8520,7 +8511,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
     "image": null,
-    "pushedAt": "2026-11-13T13:54:16.886Z"
+    "pushedAt": "2026-11-13T16:23:06.411Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/us-wholesale-inflation-climbs-at-fastest-pace-since-2022-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-soars-on-sales-cisco-down-on-expectations-miss-video",
     "image": null,
     "pushedAt": "2026-11-13T16:21:20.313Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+    "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
+    "titleZh": "Bessent 指責商務部未能將 Megaspeed 列入黑名單",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T16:23:59.748Z"
   }
 ]
