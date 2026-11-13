@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/opinion/midterms-politics-culture.html",
-    "title": "The Political Center of Gravity Isn’t Trump. It’s Obama.",
-    "titleZh": "民主黨的中期勝利給美國上了一課",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/opinion/midterms-politics-culture.html",
-    "image": null,
-    "pushedAt": "2026-11-12T05:30:50.661Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "title": "Xi Jinping’s plan for a China-centric world order",
     "titleZh": "習近平關於以中國為中心的世界秩序的計劃",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9be1322-53a4-4094-b1d8-3fabe55a6b96.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-13T20:48:38.847Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
+    "title": "Nvidia Says Speculation on New CEO Candidates Is ‘Premature’",
+    "titleZh": "英偉達表示，對新任執行長候選人的猜測“為時過早”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
+    "image": null,
+    "pushedAt": "2026-11-13T20:49:08.740Z"
   }
 ]
