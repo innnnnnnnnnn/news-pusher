@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/republicans-begin-aggressive-lame-duck-push-to-install-trump-judges.html",
-    "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-    "titleZh": "共和黨人開始積極推動「跛腳鴨」任命川普法官",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/republicans-begin-aggressive-lame-duck-push-to-install-trump-judges.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11DC-JUDGES-mpzg/11DC-JUDGES-mpzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T18:51:51.121Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/polymarket-cuts-workforce-after-stumbles-prompt-reorganization",
     "title": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
     "titleZh": "Polymarket 在遭遇挫折後裁員並迅速重組",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
     "image": null,
     "pushedAt": "2026-11-13T18:59:13.867Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/chile-mulls-private-sector-role-in-codelco-mines",
+    "title": "Chile Mulls Private-Sector Role in Codelco Mines",
+    "titleZh": "智利考慮私營部門在 Codelco 礦山中的作用",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/chile-mulls-private-sector-role-in-codelco-mines",
+    "image": null,
+    "pushedAt": "2026-11-13T18:59:40.799Z"
   }
 ]
