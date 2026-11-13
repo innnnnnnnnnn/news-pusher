@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
-    "title": "Nvidia Preparing to Oust Jensen Huang After Affairs, WSJ Says",
-    "titleZh": "《紐約時報》稱，英偉達執行長與公司健康主管有染",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
-    "image": null,
-    "pushedAt": "2026-11-12T05:18:10.946Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html",
     "title": "Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY",
     "titleZh": "布魯克林建築物部分倒塌，人員受困",
@@ -1482,7 +1473,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T19:40:20.790Z"
+    "pushedAt": "2026-11-13T22:08:23.368Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/uk-economy-defies-headwinds-with-strongest-growth-since-2024",
@@ -7053,7 +7044,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/the-us-job-market-narrative-shifts-toward-inflationary-risks",
     "image": null,
-    "pushedAt": "2026-11-13T19:39:57.244Z"
+    "pushedAt": "2026-11-13T22:07:58.505Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-supporters-see-nvidia-exit-as-lesson-for-founders-to-keep-control",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
     "image": null,
     "pushedAt": "2026-11-13T22:07:29.376Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video",
+    "title": "FAA Grounds All Flights Nationwide",
+    "titleZh": "美國聯邦航空管理局 (FAA) 停飛全國所有航班",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video",
+    "image": null,
+    "pushedAt": "2026-11-13T22:08:51.589Z"
   }
 ]
