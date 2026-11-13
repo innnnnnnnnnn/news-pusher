@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df",
-    "title": "Japanese savers go on record government bond spree",
-    "titleZh": "豐厚的報酬率吸引日本儲戶購買政府公債",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47646f9e-b617-4612-8e03-113a7d5fd86e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-11T08:32:50.032Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
     "title": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
     "titleZh": "洛杉磯地鐵站附近發生車禍，造成至少3人死亡",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
     "image": null,
     "pushedAt": "2026-11-13T00:58:57.399Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/japan-s-katayama-warns-of-fx-steps-after-one-sided-rapid-moves",
+    "title": "Japan’s Katayama Warns of FX Steps After One-Sided, Rapid Moves",
+    "titleZh": "日本片山警告稱，在單方面快速採取行動後，外匯將採取措施",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/japan-s-katayama-warns-of-fx-steps-after-one-sided-rapid-moves",
+    "image": null,
+    "pushedAt": "2026-11-13T00:59:27.640Z"
   }
 ]
