@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e",
-    "title": "Will US inflation data ease affordability concerns?",
-    "titleZh": "美國通膨數據會緩解人們對負擔能力的擔憂嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T04:45:43.894Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley",
     "title": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says",
     "titleZh": "摩根士丹利稱對沖基金風險降幅為十年來最大",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-sees-ending-tax-gimmicks-as-option-to-trim-us-deficit",
     "image": null,
     "pushedAt": "2026-11-13T00:11:23.143Z"
+  },
+  {
+    "id": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029",
+    "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+    "titleZh": "英偉達執行長黃仁勳因婚外情被曝光而下台",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T00:11:54.049Z"
   }
 ]
