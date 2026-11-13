@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
-    "title": "How Indispensable Is Jensen Huang?",
-    "titleZh": "黃仁勳有多不可或缺？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T10:13:03.672Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams",
     "title": "The Fed’s Other Big Debate: When Should John Williams’ Term End?",
     "titleZh": "退休規則引發紐約聯邦儲備銀行威廉斯退出日期爭論",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/finance-experts-reveal-lessons-for-investors-video",
     "image": null,
     "pushedAt": "2026-11-13T15:59:00.909Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+    "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+    "titleZh": "西班牙工人14年來首次舉行總罷工",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T15:59:30.259Z"
   }
 ]
