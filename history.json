@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
-    "title": "America’s copper giant has big dreams—but cautious plans",
-    "titleZh": "美國銅業巨頭有著遠大的夢想，但計畫十分謹慎",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
-    "image": null,
-    "pushedAt": "2026-11-12T13:33:19.533Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
-    "title": "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?",
-    "titleZh": "DoorDash-Instacart 融合能否對抗亞馬遜和沃爾瑪？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
-    "image": null,
-    "pushedAt": "2026-11-12T13:34:09.254Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
-    "title": "The break-up of CVS marks a turning point in American health care",
-    "titleZh": "CVS 的分拆標誌著美國醫療保健的轉捩點",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
-    "image": null,
-    "pushedAt": "2026-11-12T13:34:58.300Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
     "title": "Is curiosity all it’s cooked up to be?",
     "titleZh": "好奇心就是一切嗎？",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
     "image": null,
     "pushedAt": "2026-11-13T05:04:29.236Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
+    "title": "How the Deadly Brooklyn Building Collapse Unfolded",
+    "titleZh": "致命的布魯克林大樓倒塌是如何展開的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-quicktock-bqmg/12met-building-quicktock-bqmg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T05:05:01.499Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
+    "title": "Black Turnout Rose in Georgia, Powered by Younger Voters",
+    "titleZh": "在年輕選民的推動下，喬治亞州黑人投票率上升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12EA-GA-BLACK-TURNOUT-wmlh/12EA-GA-BLACK-TURNOUT-wmlh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T05:05:05.825Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
+    "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
+    "titleZh": "在法國大選中，中間派關注柔道明星和央行總裁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11france-Judo-01-jvkc/11france-Judo-01-jvkc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T05:05:09.609Z"
   }
 ]
