@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-and-china-trade-ties",
-    "title": "US and China trade ties",
-    "titleZh": "美國和中國的貿易關係",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-and-china-trade-ties",
-    "image": null,
-    "pushedAt": "2026-11-12T09:01:01.368Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
     "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
     "titleZh": "聯準會必須升息。官員們對進展速度有分歧。",
@@ -1527,7 +1518,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
-    "pushedAt": "2026-11-13T10:30:25.971Z"
+    "pushedAt": "2026-11-13T12:54:57.546Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
@@ -5118,7 +5109,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T10:31:14.836Z"
+    "pushedAt": "2026-11-13T12:55:48.472Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
@@ -5145,7 +5136,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-13T10:31:38.054Z"
+    "pushedAt": "2026-11-13T12:56:13.266Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
@@ -6805,12 +6796,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "title": "US Stocks Drift as Fed Bets Face Inflation Test: Markets Wrap",
+    "title": "Stocks Gain as Fed Bets Face Fresh Inflation Test: Markets Wrap",
     "titleZh": "英偉達、石油等亞洲股市謹慎開盤：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-13T10:30:51.395Z"
+    "pushedAt": "2026-11-13T12:55:23.598Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/uk-pushes-to-shield-poorer-households-from-gas-bill-overhaul",
     "image": null,
     "pushedAt": "2026-11-13T12:54:29.680Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dfc3d313-1e32-4e56-ab1d-fcb7ea51a386",
+    "title": "Ministry of Defence delays decision on £2bn military satellite contest",
+    "titleZh": "國防部延後對耗資20億英鎊的軍事衛星競賽做出決定",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dfc3d313-1e32-4e56-ab1d-fcb7ea51a386?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T12:56:42.821Z"
   }
 ]
