@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/top-japan-electronics-chain-said-to-eye-630-million-store-sale",
-    "title": "Top Japan Electronics Chain Said to Eye $630 Million Store Sale",
-    "titleZh": "日本頂級電子連鎖店計劃出售 6.3 億美元的商店",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/top-japan-electronics-chain-said-to-eye-630-million-store-sale",
-    "image": null,
-    "pushedAt": "2026-11-11T12:10:44.931Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/unilever-mccormick-deal-facing-in-depth-review-from-uk-watchdog",
-    "title": "Unilever-McCormick Deal Faces Deeper UK Antitrust Probe",
-    "titleZh": "聯合利華與麥考密克交易面臨英國監管機構的深入審查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/unilever-mccormick-deal-facing-in-depth-review-from-uk-watchdog",
-    "image": null,
-    "pushedAt": "2026-11-11T12:15:53.309Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/taylor-wimpey-sees-lower-profit-as-mortgage-rates-squeeze-buyers",
-    "title": "Taylor Wimpey Sees Lower Profit as Rates Squeeze Buyers",
-    "titleZh": "泰勒溫佩 (Taylor Wimpey) 預計，由於抵押貸款利率擠壓買家，利潤會下降",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/taylor-wimpey-sees-lower-profit-as-mortgage-rates-squeeze-buyers",
-    "image": null,
-    "pushedAt": "2026-11-11T10:08:43.020Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/horizons-middle-east-africa-11-11-2026-video",
     "title": "Gulf States Deepen Military Coordination as Iran Diplomacy Faces Hormuz Risks",
     "titleZh": "中東和非洲地平線 11/11/2026（影片）",
@@ -5802,7 +5775,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T05:27:11.733Z"
+    "pushedAt": "2026-11-13T07:51:05.490Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september",
     "image": null,
     "pushedAt": "2026-11-13T07:50:38.444Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8",
+    "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
+    "titleZh": "由於擔心英偉達晶片限制更嚴格，中國人工智慧拋售加劇",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T07:51:31.929Z"
+  },
+  {
+    "id": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f",
+    "title": "AI agents shouldn’t have to pretend to be us",
+    "titleZh": "人工智慧代理不該冒充我們",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T07:51:35.216Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a343d340-cdab-4c70-966e-795efd99bdbb",
+    "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
+    "titleZh": "軟銀在人工智慧領域押注燃氣渦輪失敗，虧損 37 億美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a343d340-cdab-4c70-966e-795efd99bdbb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T07:51:39.631Z"
   }
 ]
