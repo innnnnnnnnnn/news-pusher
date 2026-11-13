@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/india-equity-fund-inflows-cool-as-stocks-sink-to-18-month-low",
-    "title": "India Equity Fund Inflows Cool as Stocks Sink to 18-Month Low",
-    "titleZh": "印度股票基金流入降溫，股市跌至 18 個月低點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/india-equity-fund-inflows-cool-as-stocks-sink-to-18-month-low",
-    "image": null,
-    "pushedAt": "2026-11-11T11:25:21.190Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-    "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-    "titleZh": "戰後黎巴嫩面臨經濟「災難」和多年管理不善",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T08:55:25.470Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-tax-clampdown-brings-in-24-billion-from-offshore-trusts",
     "title": "China’s Tax Clampdown Brings in $24 Billion from Offshore Trusts",
     "titleZh": "中國的稅收限制為離岸信託帶來了 240 億美元的收入",
@@ -4425,7 +4407,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T07:19:04.476Z"
+    "pushedAt": "2026-11-13T09:34:02.341Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/italy-s-poste-targets-600-million-fund-amid-ai-data-center-boom",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/india-s-trade-deficit-widens-as-festive-demand-boosts-imports",
     "image": null,
     "pushedAt": "2026-11-13T09:33:35.626Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
+    "title": "Indonesian Stocks Set for Best Week Since June on Foreign Buying",
+    "titleZh": "印尼股市受外國買盤影響創六月以來最佳單週",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
+    "image": null,
+    "pushedAt": "2026-11-13T09:34:28.296Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/insight-with-haslinda-amin-11-13-2026-video",
+    "title": "China’s AI Sector Caught in the Crossfire After Nvidia Ousts Huang",
+    "titleZh": "英偉達罷免黃仁勳後，中國人工智慧產業陷入交火",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/insight-with-haslinda-amin-11-13-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-13T09:34:32.517Z"
   }
 ]
