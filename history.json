@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
-    "title": "Indonesia’s vice-president resigns, escalating a destabilising feud",
-    "titleZh": "印尼副總統辭職，破壞穩定的矛盾升級",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
-    "image": null,
-    "pushedAt": "2026-11-13T19:03:48.446Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
     "title": "Wall St Races for Megadeals as Countdown Begins on Trump Era",
     "titleZh": "川普時代倒數計時開始，華爾街競相爭取大型交易",
@@ -852,7 +843,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
     "image": null,
-    "pushedAt": "2026-11-13T17:43:37.571Z"
+    "pushedAt": "2026-11-13T20:10:59.389Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/anz-ceo-matos-warns-of-global-jobs-crisis-without-ai-rules",
@@ -4317,7 +4308,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-mortgage-rates-pkzb/12biz-mortgage-rates-pkzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T17:44:00.961Z"
+    "pushedAt": "2026-11-13T20:11:22.716Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/shopping-malls-a-pretty-good-offset-for-ai-trade-urw-ceo-says",
@@ -7547,8 +7538,8 @@
     "titleZh": "莫斯科告訴歐洲如果想在談判桌上佔有一席之地就挑選特使",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4c1f5051-94eb-4d20-b154-c45f4538a2a2?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6de1d2a-7e15-4d83-853d-7637aa28dc2c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T17:44:56.455Z"
+    "image": null,
+    "pushedAt": "2026-11-13T20:12:10.186Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/big-oil-s-war-fueled-profits-revive-calls-for-windfall-taxes",
@@ -8601,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/open-interest-11-13-2026-video",
     "image": null,
-    "pushedAt": "2026-11-13T17:43:11.387Z"
+    "pushedAt": "2026-11-13T20:10:35.991Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/swiss-respiratory-biotech-windward-up-7-9-in-us-trading-debut",
@@ -8610,7 +8601,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/swiss-respiratory-biotech-windward-up-7-9-in-us-trading-debut",
     "image": null,
-    "pushedAt": "2026-11-13T17:44:27.846Z"
+    "pushedAt": "2026-11-13T20:11:46.710Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/huang-and-the-myth-of-the-irreplaceable-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-jeffries-pfct/13dc-jeffries-pfct-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T20:09:46.466Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/jpmorgan-sees-ai-spree-driving-record-2027-us-high-grade-supply",
+    "title": "JPMorgan Sees AI Spree Driving Record 2027 US High-Grade Supply",
+    "titleZh": "摩根大通預計 AI Spree 將創下 2027 年美國高品位供應量紀錄",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/jpmorgan-sees-ai-spree-driving-record-2027-us-high-grade-supply",
+    "image": null,
+    "pushedAt": "2026-11-13T20:12:39.251Z"
   }
 ]
