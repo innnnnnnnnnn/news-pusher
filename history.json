@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
-    "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
-    "titleZh": "韓國因共謀對債券交易商處以創紀錄的 12 億美元罰款",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
-    "image": null,
-    "pushedAt": "2026-11-11T08:00:35.584Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/us-ambassador-to-china-on-us-china-relations-video",
     "title": "US Ambassador to China on US-China Relations",
     "titleZh": "美國駐華大使談美中關係",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/silver-market-set-for-deficit-even-as-solar-makers-cut-back",
     "image": null,
     "pushedAt": "2026-11-13T00:48:20.341Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "title": "Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "titleZh": "隨著要求加強控制的呼聲越來越高，盧特尼克對英偉達的立場變得更加溫和",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T00:51:38.649Z"
   }
 ]
