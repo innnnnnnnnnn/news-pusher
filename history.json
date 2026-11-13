@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
-    "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
-    "titleZh": "一個國家的總統導致了一家銀行的驚人崛起和衰落",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T08:47:02.520Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/zimbabwe-seeks-entry-into-msci-frontier-markets-index-for-dollar-stocks",
     "title": "Zimbabwe Seeks Entry Into MSCI Frontier Markets Index for Dollar Stocks",
     "titleZh": "津巴布韋尋求加入 MSCI 美元股票前沿市場指數",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
     "image": null,
     "pushedAt": "2026-11-13T12:12:32.009Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277",
+    "title": "Jensen Huang’s years-long effort to get close to China",
+    "titleZh": "黃仁勳多年來努力親近中國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F930ef454-dea8-4758-98c4-70375148e8fc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-13T12:13:02.467Z"
   }
 ]
