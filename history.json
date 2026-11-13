@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
-    "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
-    "titleZh": "民主黨在錯過赫格斯彈劾投票後面臨強烈反對",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T13:39:05.720Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-the-150-billion-us-shipbuilding-catch-video",
     "title": "The $150 Billion Catch in US Shipbuilding",
     "titleZh": "美國造船業收穫 1500 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
     "image": null,
     "pushedAt": "2026-11-13T23:25:02.460Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
+    "title": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
+    "titleZh": "三星收購談判後莫丁股價六年來漲幅最大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
+    "image": null,
+    "pushedAt": "2026-11-13T23:25:36.094Z"
   }
 ]
