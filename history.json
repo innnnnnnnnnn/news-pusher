@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b",
-    "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
-    "titleZh": "埃克森美孚對歐盟碳捕獲規則發起法律挑戰",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T04:31:08.546Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
     "title": "Democrats’ strategy for ending the war in Iran",
     "titleZh": "民主黨結束伊朗戰爭的戰略",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
     "image": null,
     "pushedAt": "2026-11-13T21:35:34.241Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+    "title": "F.A.A. Declares a Rare Nationwide Ground Stop",
+    "titleZh": "美國聯邦航空管理局宣布罕見的全國性地面停留",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+    "image": null,
+    "pushedAt": "2026-11-13T21:36:04.107Z"
   }
 ]
