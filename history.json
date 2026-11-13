@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
-    "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
-    "titleZh": "Anthropic 的 IPO和人工智慧的俱樂部業務",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ant-gpfz/11db-ant-gpfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:24:20.028Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
     "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
     "titleZh": "Anthropic 的大型 IPO 據稱獲得多倍超額認購",
@@ -4092,7 +4083,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
     "image": null,
-    "pushedAt": "2026-11-13T11:27:28.043Z"
+    "pushedAt": "2026-11-13T14:01:09.680Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
@@ -4101,7 +4092,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-13T11:27:51.718Z"
+    "pushedAt": "2026-11-13T14:01:35.641Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
@@ -4110,7 +4101,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
-    "pushedAt": "2026-11-13T11:28:15.620Z"
+    "pushedAt": "2026-11-13T14:02:00.929Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
@@ -8502,7 +8493,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/186f48b8-6574-48be-b0f2-3dcbac5dc24d",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc1bda75-5c31-4f05-956b-734e8d52cad6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T11:28:44.023Z"
+    "pushedAt": "2026-11-13T14:02:29.393Z"
   },
   {
     "id": "https://www.ft.com/content/2500879f-9849-45e8-8e22-082e9fa53228",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-13T14:00:41.373Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+    "title": "Deed Theft Is Rising, Along With Property Values",
+    "titleZh": "契約竊盜案與財產價值一起上升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+    "image": null,
+    "pushedAt": "2026-11-13T14:03:20.515Z"
   }
 ]
