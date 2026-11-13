@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/expect-dislocations-in-ai-investment-cycle-waxman-video",
-    "title": "Expect ‘Dislocations’ in AI Investment Cycle: Waxman",
-    "titleZh": "Waxman：預計人工智慧投資週期將出現“錯位”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/expect-dislocations-in-ai-investment-cycle-waxman-video",
-    "image": null,
-    "pushedAt": "2026-11-12T00:33:18.615Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-hints-at-immigration-deal-then-reverses-hes-done-that-before.html",
     "title": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
     "titleZh": "特朗普暗示将达成移民协议，但随后又反悔。他以前就這麼做過。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/style/jensen-huang-nvidia-leather-jacket-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12HUANG-JACKET-01-zqbm/12HUANG-JACKET-01-zqbm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T20:30:00.606Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+    "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+    "titleZh": "法院裁定針對 SpaceX 的性騷擾案件可以繼續審理",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-spacex-lawsuit-lmbq/11biz-spacex-lawsuit-lmbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T20:30:28.846Z"
   }
 ]
