@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/lithium-americas-shares-sink-as-us-backed-mine-costs-rise",
-    "title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
-    "titleZh": "美國支持的美洲鋰業受到川普關稅成本上漲的打擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/lithium-americas-shares-sink-as-us-backed-mine-costs-rise",
-    "image": null,
-    "pushedAt": "2026-11-11T18:18:17.726Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/open-interest-11-11-2026-video",
     "title": "AI Optimism Reignites the Tech Trade",
     "titleZh": "人工智慧樂觀情緒重燃科技貿易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/customers-buying-nvidia-dip-guild-video",
     "image": null,
     "pushedAt": "2026-11-13T18:36:44.778Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-tech-11-13-2026-video",
+    "title": "Nvidia Fallout, Microsoft Outage and Anthropic’s IPO Push",
+    "titleZh": "Nvidia 的影響、微軟的中斷和 Anthropic 的 IPO 推動",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-tech-11-13-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-13T18:37:14.320Z"
   }
 ]
