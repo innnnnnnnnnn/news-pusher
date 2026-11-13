@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/well/speech-changes-speed-test-alzheimers-dementia.html",
-    "title": "Subtle Changes in Speech May Help Predict Dementia Risk",
-    "titleZh": "言語的細微變化可能有助於預測癡呆症風險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/well/speech-changes-speed-test-alzheimers-dementia.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11WELL-SPEECH-DEMENTIA16-promo/11WELL-SPEECH-DEMENTIA16-zfcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T20:33:53.741Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/melania-trumps-initiative-for-women-appears-at-odds-with-dei-crackdown.html",
     "title": "Melania Trump’s Initiative for Women Appears at Odds With D.E.I. Crackdown",
     "titleZh": "梅蘭妮亞·川普的女性倡議似乎與 D.E.I. 不一致。鎮壓",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12nat-christian-collapse-1-01-vqwg/12nat-christian-collapse-1-01-vqwg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T11:04:35.924Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+    "title": "Looking Past Nvidia Turmoil, Stocks Log Best Week in Months",
+    "titleZh": "回顧英偉達的動盪，股市錄得幾個月來最好的一周",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+    "image": null,
+    "pushedAt": "2026-11-13T11:14:39.739Z"
   }
 ]
