@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-tax-clampdown-brings-in-24-billion-from-offshore-trusts",
-    "title": "China’s Tax Clampdown Brings in $24 Billion from Offshore Trusts",
-    "titleZh": "中國的稅收限制為離岸信託帶來了 240 億美元的收入",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-tax-clampdown-brings-in-24-billion-from-offshore-trusts",
-    "image": null,
-    "pushedAt": "2026-11-11T11:38:22.511Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/podcasts/the-daily/nvidia-jensen-huang-affair-chinese-spy-trump.html",
     "title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
     "titleZh": "秘密、晶片和間諜技術：Nvidia 執行長醜聞",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/insight-with-haslinda-amin-11-13-2026-video",
     "image": null,
     "pushedAt": "2026-11-13T09:34:32.517Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+    "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+    "titleZh": "戰後黎巴嫩面臨經濟「災難」和多年管理不善",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T09:34:59.826Z"
   }
 ]
