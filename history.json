@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
-    "title": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
-    "titleZh": "川普暗示將達成移民協議，但隨後又反悔。他以前就這麼做過。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
-    "image": "https://static01.nyt.com/images/2025/11/20/multimedia/11dc-trump-immig/20DC-IMMIG-FINES-bzth-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T13:14:59.102Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/us/trump-federal-judges-senate-republicans.html",
-    "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-    "titleZh": "共和黨人開始積極推動「跛腳鴨」任命川普法官",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/trump-federal-judges-senate-republicans.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11DC-JUDGES-mpzg/11DC-JUDGES-mpzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T01:11:07.892Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/democrats-digital-spending-midterm-election.html",
     "title": "How Democrats Invested Online to Overcome Their Cash Disadvantage",
     "titleZh": "民主黨如何透過網路投資克服現金短缺",
@@ -393,7 +375,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
     "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
-    "pushedAt": "2026-11-13T18:24:06.887Z"
+    "pushedAt": "2026-11-13T20:56:09.442Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
@@ -2472,7 +2454,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
     "image": null,
-    "pushedAt": "2026-11-13T18:24:54.265Z"
+    "pushedAt": "2026-11-13T20:56:32.889Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-board-weighs-huang-s-future-after-affairs-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
     "pushedAt": "2026-11-13T20:55:42.341Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+    "title": "Cargo Ship Crashes Into Docked Riverboat in New Orleans",
+    "titleZh": "貨船在新奧爾良撞上停靠的河船",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+    "image": null,
+    "pushedAt": "2026-11-13T20:57:00.073Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
+    "title": "N.Y.C. Officials Expand Collapse Inquiry as Families Demand Answers",
+    "titleZh": "紐約家屬要求答案，官員擴大崩潰調查",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
+    "image": null,
+    "pushedAt": "2026-11-13T20:57:04.725Z"
   }
 ]
