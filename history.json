@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f",
-    "title": "Europe’s struggle to compete with China ramps up",
-    "titleZh": "歐洲與中國的競爭加劇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T04:39:42.153Z"
-  },
-  {
-    "id": "https://flipso.com/p/6ch8adwiv",
-    "title": "The Kekulé Problem",
-    "titleZh": "凱庫勒問題",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/6ch8adwiv?ref=rss",
-    "image": "https://cdn.flipso.com/p/6ch8adwiv_square.jpg",
-    "pushedAt": "2026-11-13T04:43:06.843Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
     "title": "China and Taiwan are fighting over Sun Yat-sen",
     "titleZh": "中國和台灣正在爭奪孫中山",
@@ -1698,7 +1680,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T03:03:50.542Z"
+    "pushedAt": "2026-11-13T05:24:19.317Z"
   },
   {
     "id": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c",
@@ -7431,7 +7413,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/tt59o4pkq?ref=rss",
     "image": "https://cdn.flipso.com/p/tt59o4pkq_square.jpg",
-    "pushedAt": "2026-11-13T03:02:57.119Z"
+    "pushedAt": "2026-11-13T05:23:29.558Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains",
@@ -7449,7 +7431,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2xihll5q1?ref=rss",
     "image": "https://cdn.flipso.com/p/2xihll5q1_square.jpg",
-    "pushedAt": "2026-11-13T03:03:23.573Z"
+    "pushedAt": "2026-11-13T05:23:54.442Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
@@ -7467,7 +7449,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october",
     "image": null,
-    "pushedAt": "2026-11-13T03:04:44.138Z"
+    "pushedAt": "2026-11-13T05:25:09.700Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-o-connor-video",
@@ -7980,7 +7962,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-mexico-chihuahua-qckh/12int-mexico-chihuahua-qckh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T03:04:18.337Z"
+    "pushedAt": "2026-11-13T05:24:44.431Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/national-beef-says-worst-is-over-for-us-cattle-cycle",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/bytedance-tiktok-plans-6-billion-buyback-400-billion-valuation",
     "image": null,
     "pushedAt": "2026-11-13T05:23:00.658Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/russia-s-economy-slows-as-ukrainian-attacks-damage-industry",
+    "title": "Russia’s Economy Slows as Ukrainian Attacks Damage Industry",
+    "titleZh": "烏克蘭襲擊損害工業，俄羅斯經濟放緩",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/russia-s-economy-slows-as-ukrainian-attacks-damage-industry",
+    "image": null,
+    "pushedAt": "2026-11-13T05:25:38.430Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/s-p-sees-nigeria-s-2029-investment-grade-goal-as-unrealistic",
+    "title": "S&P Sees Nigeria’s 2029 Investment-Grade Goal as Unrealistic",
+    "titleZh": "標準普爾認為奈及利亞 2029 年投資等級目標不切實際",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/s-p-sees-nigeria-s-2029-investment-grade-goal-as-unrealistic",
+    "image": null,
+    "pushedAt": "2026-11-13T05:25:44.364Z"
   }
 ]
