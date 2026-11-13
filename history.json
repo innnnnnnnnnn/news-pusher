@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
-    "title": "Shoppers to Use Black Friday Sales to Stock Up on Essentials",
-    "titleZh": "購物者利用黑色星期五促銷來儲備必需品",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T21:22:32.076Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
-    "title": "$2 Billion Wasn’t Enough to Save Weil Gotshal",
-    "titleZh": "20 億美元不足以拯救 Weil Gotshal",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/business/00Weil-profits-illo/00Weil-profits-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T19:02:04.194Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/melania-trump-imperia-women-dei-programs.html",
     "title": "Melania Trump’s Initiative for Women Appears at Odds With D.E.I. Crackdown",
     "titleZh": "梅蘭妮亞·川普的女性倡議似乎與 D.E.I. 不一致。鎮壓",
@@ -2940,7 +2922,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T10:20:39.106Z"
+    "pushedAt": "2026-11-13T12:44:01.729Z"
   },
   {
     "id": "https://www.ft.com/content/b9ad2b19-4f2a-4f26-89b6-940985a0b9d4",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/ives-on-nvidia-without-jensen-huang-microsoft-outage-video",
     "image": null,
     "pushedAt": "2026-11-13T12:43:33.456Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/global-equity-funds-draw-record-inflows-bofa-strategists-say",
+    "title": "Global Equity Funds Draw Record Inflows, BofA Strategists Say",
+    "titleZh": "美國銀行策略師表示，全球股票基金吸引創紀錄的資金流入",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/global-equity-funds-draw-record-inflows-bofa-strategists-say",
+    "image": null,
+    "pushedAt": "2026-11-13T12:44:29.338Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says",
+    "title": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says",
+    "titleZh": "IEA稱，原油價格上漲導致俄羅斯石油收入創五個月新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says",
+    "image": null,
+    "pushedAt": "2026-11-13T12:44:34.983Z"
   }
 ]
