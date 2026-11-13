@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
-    "title": "Anthropic’s IPO is too important to fail",
-    "titleZh": "Anthropic 的 IPO 太重要了，不能失敗",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
-    "image": null,
-    "pushedAt": "2026-11-12T00:57:42.445Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
     "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap",
     "titleZh": "位元組跳動準備類似 Muse 的代理以縮小人工智慧差距",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T10:27:03.615Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/euro-zone-shows-solid-growth-as-ecb-weighs-another-rate-hike",
+    "title": "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
+    "titleZh": "歐洲央行考慮再次升息，歐元區呈現穩健成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/euro-zone-shows-solid-growth-as-ecb-weighs-another-rate-hike",
+    "image": null,
+    "pushedAt": "2026-11-13T10:27:31.583Z"
   }
 ]
