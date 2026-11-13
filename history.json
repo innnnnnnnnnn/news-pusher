@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
-    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
-    "titleZh": "Anthropic 的神話人工智慧尋找能源系統中的網路缺陷",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
-    "image": null,
-    "pushedAt": "2026-11-11T14:36:28.757Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
     "title": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
     "titleZh": "猶他州新創公司為模組化 AI 資料中心籌集 5 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/south-africa-needs-75-billion-a-year-to-spur-growth-maree-says",
     "image": null,
     "pushedAt": "2026-11-13T13:22:54.356Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
+    "title": "A Scorecard for Huang’s Exit From Nvidia",
+    "titleZh": "黃仁勳退出英偉達的記分卡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13db-jensen-lutnick-qtfj/13db-jensen-lutnick-qtfj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T13:23:24.418Z"
   }
 ]
