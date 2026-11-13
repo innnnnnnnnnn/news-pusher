@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/investor-selby-on-why-anthropic-ipo-puzzles-him-video",
-    "title": "Investor Selby on Why Anthropic's IPO Puzzles Him",
-    "titleZh": "投資者 Selby 談 Anthropic 的 IPO 為何令他困惑",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/investor-selby-on-why-anthropic-ipo-puzzles-him-video",
-    "image": null,
-    "pushedAt": "2026-11-11T08:24:11.485Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-gives-bulls-a-green-light-3-minutes-mliv-video",
-    "title": "CoreWeave Gives Bulls a Green Light: Market Analysis",
-    "titleZh": "CoreWeave 為多頭開了綠燈：市場分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-gives-bulls-a-green-light-3-minutes-mliv-video",
-    "image": null,
-    "pushedAt": "2026-11-11T08:28:04.597Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/german-economy-on-the-mend-though-reforms-needed-nagel-says",
-    "title": "German Economy on the Mend Though Reforms Needed, Nagel Says",
-    "titleZh": "內格爾表示，儘管需要改革，德國經濟正在好轉",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/german-economy-on-the-mend-though-reforms-needed-nagel-says",
-    "image": null,
-    "pushedAt": "2026-11-12T05:45:30.569Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
     "title": "European Stocks Hit Record High as Energy and Tech Rebound",
     "titleZh": "歐洲股市因礦業股和科技股上漲而創歷史新高",
@@ -4965,7 +4938,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T06:44:34.620Z"
+    "pushedAt": "2026-11-13T08:59:22.906Z"
   },
   {
     "id": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f",
@@ -5010,7 +4983,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-13T06:44:59.370Z"
+    "pushedAt": "2026-11-13T08:59:46.459Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
@@ -8097,7 +8070,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
     "image": null,
-    "pushedAt": "2026-11-13T06:44:10.171Z"
+    "pushedAt": "2026-11-13T08:58:59.521Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/28228fa9-52c9-4233-9133-27145a905c0f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-13T08:52:37.531Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-13/why-a-2-billion-law-firm-suddenly-collapsed",
+    "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+    "titleZh": "一家價值20億美元的律師事務所為何突然倒閉",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/why-a-2-billion-law-firm-suddenly-collapsed",
+    "image": null,
+    "pushedAt": "2026-11-13T09:00:36.517Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/audio/2026-11-13/odd-lots-why-a-2-billion-law-firm-suddenly-collapsed-podcast",
+    "title": "Odd Lots: Why a $2 Billion Law Firm Suddenly Collapsed (Podcast)",
+    "titleZh": "奇怪的事情：為什麼一家價值 20 億美元的律師事務所突然倒閉（播客）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/audio/2026-11-13/odd-lots-why-a-2-billion-law-firm-suddenly-collapsed-podcast",
+    "image": null,
+    "pushedAt": "2026-11-13T09:00:41.666Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-13/tech-tries-to-soldier-on-without-huang-3-minutes-mliv-video",
+    "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
+    "titleZh": "科技公司試圖在沒有黃的情況下繼續前進：市場分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/tech-tries-to-soldier-on-without-huang-3-minutes-mliv-video",
+    "image": null,
+    "pushedAt": "2026-11-13T09:00:46.256Z"
   }
 ]
