@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-    "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-    "titleZh": "黃仁勳的婚外情讓他的妻子 Lori Huang 成為人們關注的焦點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T14:27:10.059Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
     "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
     "titleZh": "即將上任的眾議院情報主席發誓對中央情報局使用秘密行動進行監督",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
     "image": null,
     "pushedAt": "2026-11-13T15:40:44.504Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
+    "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+    "titleZh": "美國與以色列的關係破裂。以下是 Eisenkot 解決此問題的方法。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T15:41:14.098Z"
   }
 ]
