@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6",
-    "title": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
-    "titleZh": "試圖為以色列新政府和烏克蘭戰爭找到解決方案",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-11T03:54:56.330Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/nyregion/alina-habba-ethics-new-jersey-trump.html",
-    "title": "Alina Habba Mildon Faces Discipline Over Settlement at Trump Golf Club",
-    "titleZh": "阿琳娜·哈巴·米爾登因川普高爾夫俱樂部的和解而面臨紀律處分",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/nyregion/alina-habba-ethics-new-jersey-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-habba-discipline-wvlg/10met-habba-discipline-wvlg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-11T10:58:39.590Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video",
     "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him",
     "titleZh": "AZ-VC 的 Selby 談 Anthropic 的 IPO 為何令他困惑",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/india-equity-surge-brightens-outlook-for-exchanges-brokerages",
     "image": null,
     "pushedAt": "2026-11-13T01:18:23.375Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e5b7fb29-2466-4b69-9b4d-63a488c1ef52",
+    "title": "Blackstone buys into India’s IIFL",
+    "titleZh": "Blackstone 入股印度 IIFL",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e5b7fb29-2466-4b69-9b4d-63a488c1ef52?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T01:37:53.761Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4abc107b-a0ba-45eb-9506-69657290bab2",
+    "title": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
+    "titleZh": "債券、通貨膨脹和美聯儲。另外，英偉達陷入混亂",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4abc107b-a0ba-45eb-9506-69657290bab2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-13T01:37:55.704Z"
   }
 ]
