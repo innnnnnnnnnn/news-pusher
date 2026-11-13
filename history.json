@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-    "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-    "titleZh": "尋求擴大烏克蘭談判範圍，美國敦促俄羅斯將歐洲納入其中",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T16:24:27.897Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
     "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
     "titleZh": "NextEra 和 Dominion 的大型合併可能因電費帳單而失敗",
@@ -4020,7 +4011,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10meghan-promo-wpgm/10meghan-promo-wpgm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T14:24:06.309Z"
+    "pushedAt": "2026-11-13T17:01:27.045Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
@@ -4029,7 +4020,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
     "image": null,
-    "pushedAt": "2026-11-13T14:24:31.364Z"
+    "pushedAt": "2026-11-13T17:01:50.405Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
@@ -4038,7 +4029,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
     "image": null,
-    "pushedAt": "2026-11-13T14:24:56.568Z"
+    "pushedAt": "2026-11-13T17:02:13.773Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
@@ -4047,7 +4038,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
     "image": null,
-    "pushedAt": "2026-11-13T14:25:21.793Z"
+    "pushedAt": "2026-11-13T17:02:37.265Z"
   },
   {
     "id": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26",
@@ -7989,7 +7980,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/briefing/jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/13themorning-nl-huang-01/13themorning-nl-huang-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T14:26:19.119Z"
+    "pushedAt": "2026-11-13T17:03:26.662Z"
   },
   {
     "id": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
@@ -8457,7 +8448,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
     "image": "https://static01.nyt.com/images/2026/10/07/multimedia/XXint-mexico-immigration-vgph/XXint-mexico-immigration-vgph-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T14:25:50.292Z"
+    "pushedAt": "2026-11-13T17:03:02.637Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-to-cap-year-of-record-breaking-equity-megadeals",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/ahead-of-grand-theft-auto-vi-rockstar-votes-on-unions",
     "image": null,
     "pushedAt": "2026-11-13T17:01:00.374Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+    "title": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
+    "titleZh": "黃仁勳失業了。華爾街失去了最大的獎品。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-13T17:03:53.291Z"
   }
 ]
