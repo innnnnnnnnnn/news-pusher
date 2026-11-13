@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video",
-    "title": "Nvidia Gets Rare Downgrade as Jensen Huang Scandal Weighs on Outlook",
-    "titleZh": "黃仁勳醜聞影響前景，英偉達罕見降級",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-11T17:44:05.305Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-s-ipo-said-to-be-multiple-times-oversubscribed-video",
     "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
     "titleZh": "Anthropic IPO 據稱獲得數倍超額認購",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-13T17:53:56.261Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+    "title": "Kenya Starts Countdown to End of Ebola Outbreak",
+    "titleZh": "肯亞開始伊波拉疫情結束倒數計時",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-13T17:54:22.999Z"
   }
 ]
