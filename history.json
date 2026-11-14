@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/opinion/spanish-dictionary-jewish.html",
-    "title": "The Spanish Shylock Problem",
-    "titleZh": "西班牙夏洛克問題",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/opinion/spanish-dictionary-jewish.html",
-    "image": null,
-    "pushedAt": "2026-11-12T08:20:38.147Z"
-  },
-  {
     "id": "https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b",
     "title": "The AI megatrade’s mounting portfolio concentration risk problem",
     "titleZh": "人工智慧大型交易日益嚴重的投資組合集中度風險問題",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febf58b14-8b09-4eed-81e9-405bc229649b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-14T13:11:55.819Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+    "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+    "titleZh": "科技巨頭以 85 億美元估值投資德國機器人新創企業",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T13:12:23.549Z"
   }
 ]
