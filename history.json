@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0426aeb3-d7c2-442a-8fd0-b766a2322cb3",
-    "title": "The Highlands’ newest hideaway",
-    "titleZh": "高地最新的世外桃源",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0426aeb3-d7c2-442a-8fd0-b766a2322cb3",
-    "image": null,
-    "pushedAt": "2026-11-12T09:42:35.827Z"
-  },
-  {
     "id": "https://www.ft.com/content/7b7e67d9-ff5c-48fd-9051-ca5dd007f254",
     "title": "Where to eat in south London, by restaurateur James Dye",
     "titleZh": "倫敦南部哪裡吃飯，餐廳老闆 James Dye 介紹",
@@ -195,7 +186,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T08:35:22.701Z"
+    "pushedAt": "2026-11-14T11:03:05.044Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/opinion/spanish-dictionary-jewish.html",
@@ -6495,7 +6486,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-fed-01-fjhv/13dc-fed-01-fjhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T08:37:45.600Z"
+    "pushedAt": "2026-11-14T11:04:39.638Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
@@ -7557,7 +7548,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-14T08:35:46.174Z"
+    "pushedAt": "2026-11-14T11:03:52.055Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
@@ -7566,7 +7557,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
     "image": null,
-    "pushedAt": "2026-11-14T08:36:09.649Z"
+    "pushedAt": "2026-11-14T11:04:15.597Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
     "image": null,
     "pushedAt": "2026-11-14T11:02:38.817Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
+    "title": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
+    "titleZh": "在加拿大，觀看 N.H.L.變得昂貴且麻煩",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T11:05:06.920Z"
   }
 ]
