@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b39ab251-3a7e-4b7f-98e9-1ca7b13bf288",
-    "title": "Why are gamers driven to destruction?",
-    "titleZh": "為什麼遊戲玩家會走向毀滅？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b39ab251-3a7e-4b7f-98e9-1ca7b13bf288",
-    "image": null,
-    "pushedAt": "2026-11-12T09:55:43.737Z"
-  },
-  {
     "id": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d",
     "title": "FirstFT: Oil price falls below $90 a barrel",
     "titleZh": "FirstFT：油價跌破每桶90美元",
@@ -8448,7 +8439,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/85cddf9b-fd9d-4b4a-9f9f-e12961a8af98?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-14T09:58:47.797Z"
+    "pushedAt": "2026-11-14T12:30:00.537Z"
   },
   {
     "id": "https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
     "pushedAt": "2026-11-14T12:18:55.278Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+    "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+    "titleZh": "澤倫斯基稱烏克蘭的星盾進入再次受到限制",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T12:30:26.976Z"
   }
 ]
