@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-    "title": "Indonesia’s Vice President, Gibran, Resigns",
-    "titleZh": "印尼副總統紀伯倫辭職",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T14:52:15.052Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/uk-economy-defies-headwinds-with-strongest-growth-since-2024",
     "title": "AI Helps UK Economy Post Strongest Growth Since Early 2024",
     "titleZh": "英國經濟克服逆風，實現 2024 年以來最強勁成長",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-14/paraguay-bank-scandal-corruption-charges-shakes-safe-haven-status",
     "image": null,
     "pushedAt": "2026-11-14T14:54:18.841Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+    "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+    "titleZh": "隨著馬斯克推動特斯拉合併，SpaceX 的標普 500 指數競標獲得新生",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+    "image": null,
+    "pushedAt": "2026-11-14T14:54:48.690Z"
   }
 ]
