@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f",
-    "title": "Money pours into US manufacturing from overseas companies",
-    "titleZh": "海外企業的資金湧入美國製造業",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T01:18:23.594Z"
-  },
-  {
-    "id": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b",
-    "title": "Surging US economy defies worries over turbulent Trump",
-    "titleZh": "美國經濟飆升，無視川普暴躁的擔憂",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T01:19:41.252Z"
-  },
-  {
     "id": "https://www.ft.com/content/896af656-09a6-495d-8074-8fd3cffe46be",
     "title": "Boston leads the way for skilled workforce and intellectual capital",
     "titleZh": "波士頓在熟練勞動力和智力資本方面處於領先地位",
@@ -2049,7 +2031,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "image": null,
-    "pushedAt": "2026-11-13T23:54:16.406Z"
+    "pushedAt": "2026-11-14T02:10:06.404Z"
   },
   {
     "id": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
@@ -3705,7 +3687,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
     "image": null,
-    "pushedAt": "2026-11-13T23:55:06.744Z"
+    "pushedAt": "2026-11-14T02:10:57.321Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-names-colette-kress-as-interim-ceo-video",
@@ -6981,7 +6963,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2dc7t29ex?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-13T23:55:32.124Z"
+    "pushedAt": "2026-11-14T02:11:22.366Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
@@ -6990,7 +6972,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T23:55:57.712Z"
+    "pushedAt": "2026-11-14T02:11:47.309Z"
   },
   {
     "id": "https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19",
@@ -7431,7 +7413,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T23:54:41.526Z"
+    "pushedAt": "2026-11-14T02:10:31.832Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
@@ -8430,7 +8412,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T23:53:50.545Z"
+    "pushedAt": "2026-11-14T02:09:40.682Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
     "image": null,
     "pushedAt": "2026-11-14T01:59:01.687Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+    "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+    "titleZh": "Nvidia 醜聞引發人們對間諜意味著什麼的疑問",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T02:12:17.992Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+    "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+    "titleZh": "川普將在中國會見普丁和習近平，核擴散問題將提上議程",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trilateral-meeting-kvtj/13dc-trilateral-meeting-kvtj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T02:12:20.479Z"
   }
 ]
