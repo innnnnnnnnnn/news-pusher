@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
-    "title": "Long-Dated US Debt Rises as Nvidia Woes Revive Haven Demand",
-    "titleZh": "由於風險情緒再次惡化，美國債券多頭重新開放並上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
-    "image": null,
-    "pushedAt": "2026-11-12T15:17:21.563Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
-    "title": "India’s BEML to Build Tunneling Machines to Cut China Reliance",
-    "titleZh": "印度BEML將製造隧道機械以減少對中國的依賴",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
-    "image": null,
-    "pushedAt": "2026-11-12T03:36:05.671Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
     "title": "Alleged Chinese Spy at Heart of Nvidia Scandal Is in Beijing",
     "titleZh": "英偉達Firestorm中心涉嫌中國間諜現身北京",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-14T05:02:47.452Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
+    "title": "Quebec’s strategic maple-syrup reserve is running dry",
+    "titleZh": "魁北克的戰略楓糖漿儲備即將枯竭",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
+    "image": null,
+    "pushedAt": "2026-11-14T05:03:16.548Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+    "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+    "titleZh": "兩起名人案件成為英國法院禁言令的焦點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T05:03:21.754Z"
   }
 ]
