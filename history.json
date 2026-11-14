@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/gross-private-credit-remains-attractive-video",
-    "title": "Gross: Private Credit Remains Attractive",
-    "titleZh": "總金額：私人信貸仍具吸引力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/gross-private-credit-remains-attractive-video",
-    "image": null,
-    "pushedAt": "2026-11-12T08:06:07.253Z"
-  },
-  {
     "id": "https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353",
     "title": "Who could run Nvidia after Jensen Huang?",
     "titleZh": "在黃仁勳之後誰可以經營 Nvidia？",
@@ -4407,7 +4398,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fcbd27c8-aa10-455f-8917-afcb897e6eaf?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-14T15:29:45.160Z"
+    "pushedAt": "2026-11-14T17:54:35.748Z"
   },
   {
     "id": "https://www.ft.com/content/8d885f43-5277-46e0-a67c-ce94aa820ef1",
@@ -6585,7 +6576,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T15:30:08.976Z"
+    "pushedAt": "2026-11-14T17:55:00.585Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/best-thing-to-happen-for-china-is-jensen-out-says-ives-video",
@@ -8196,7 +8187,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970",
     "image": null,
-    "pushedAt": "2026-11-14T15:32:13.079Z"
+    "pushedAt": "2026-11-14T17:56:40.364Z"
   },
   {
     "id": "https://www.ft.com/content/ca6d97ba-baa0-46aa-b91e-ab12fa10b123",
@@ -8700,7 +8691,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febf58b14-8b09-4eed-81e9-405bc229649b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-14T15:31:25.927Z"
+    "pushedAt": "2026-11-14T17:55:50.714Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
@@ -8709,7 +8700,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T15:31:49.319Z"
+    "pushedAt": "2026-11-14T17:56:15.541Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
@@ -8907,7 +8898,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T15:30:35.457Z"
+    "pushedAt": "2026-11-14T17:55:25.243Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
     "image": null,
     "pushedAt": "2026-11-14T17:28:40.815Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
+    "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
+    "titleZh": "這就是為什麼航班可能需要幾天才能恢復正常",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-bouncing-back-topart-ztjq/14faa-groundstop-bouncing-back-topart-ztjq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T17:57:08.751Z"
   }
 ]
