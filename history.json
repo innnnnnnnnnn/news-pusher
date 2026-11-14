@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/pakistan-militant-attack-kills-28-people-in-restive-border-area",
-    "title": "Pakistan Militant Attack Kills 28 People in Restive Border Area",
-    "titleZh": "巴基斯坦武裝分子襲擊在動盪的邊境地區造成28人死亡",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/pakistan-militant-attack-kills-28-people-in-restive-border-area",
-    "image": null,
-    "pushedAt": "2026-11-12T07:26:08.349Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/druley-avoid-crowded-trades-when-it-comes-to-investment-video",
     "title": "Druley: Avoid Crowded Trades When It Comes to Investment",
     "titleZh": "德魯利：投資時避免擁擠交易",
@@ -4506,7 +4497,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fcbd27c8-aa10-455f-8917-afcb897e6eaf?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-14T13:10:40.870Z"
+    "pushedAt": "2026-11-14T15:29:45.160Z"
   },
   {
     "id": "https://www.ft.com/content/8d885f43-5277-46e0-a67c-ce94aa820ef1",
@@ -6684,7 +6675,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T13:11:04.199Z"
+    "pushedAt": "2026-11-14T15:30:08.976Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/best-thing-to-happen-for-china-is-jensen-out-says-ives-video",
@@ -7062,7 +7053,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T13:09:54.026Z"
+    "pushedAt": "2026-11-14T15:28:58.364Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
@@ -7071,7 +7062,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
     "image": null,
-    "pushedAt": "2026-11-14T13:10:17.644Z"
+    "pushedAt": "2026-11-14T15:29:21.669Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
     "image": null,
     "pushedAt": "2026-11-14T15:18:33.931Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+    "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+    "titleZh": "認識前往曼谷參加亞洲歐洲歌唱大賽的粉絲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T15:30:35.457Z"
   }
 ]
