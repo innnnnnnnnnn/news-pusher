@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/hsbc-s-kettner-sees-nvidia-ceo-change-priced-in-video",
-    "title": "HSBC’s Kettner Sees Nvidia CEO Change Priced In",
-    "titleZh": "匯豐銀行 (HSBC) 的凱特納 (Kettner) 認為英偉達 (Nvidia) 執行長的變動已被考慮在內",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/hsbc-s-kettner-sees-nvidia-ceo-change-priced-in-video",
-    "image": null,
-    "pushedAt": "2026-11-12T09:26:38.344Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
     "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
     "titleZh": "中國貿易順差以創紀錄的速度突破1兆美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
     "image": null,
     "pushedAt": "2026-11-14T09:17:09.558Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+    "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+    "titleZh": "她正在重寫墨西哥的歌謠，一次一個女人的故事",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-mexico-singer-profile01-photo-wmtz/11int-mexico-singer-profile01-photo-wmtz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T09:17:38.031Z"
   }
 ]
