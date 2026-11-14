@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d",
-    "title": "FirstFT: Oil price falls below $90 a barrel",
-    "titleZh": "FirstFT：油價跌破每桶90美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T07:46:38.668Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html",
     "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
     "titleZh": "士兵在無名烈士墓前向赫格斯大喊以示“敬意”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-14T12:30:26.976Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+    "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+    "titleZh": "英偉達領導層換屆考驗AI晶片巨頭",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+    "image": null,
+    "pushedAt": "2026-11-14T12:51:49.507Z"
   }
 ]
