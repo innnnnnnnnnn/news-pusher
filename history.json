@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09",
-    "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
-    "titleZh": "今年前10個月中國貿易順差超1兆美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T05:05:49.171Z"
-  },
-  {
     "id": "https://www.ft.com/content/8d5aaf6c-e8b6-47ac-a111-a5827fce2175",
     "title": "How Switzerland’s rescue of a Russian bank went spectacularly wrong",
     "titleZh": "瑞士對俄羅斯銀行的救援是如何出錯的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-14T09:42:42.083Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+    "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+    "titleZh": "川普在委內瑞拉的石油掠奪正在考驗該國的民族認同",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T10:05:01.921Z"
   }
 ]
