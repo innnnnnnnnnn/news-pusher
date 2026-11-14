@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-    "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO",
-    "titleZh": "英偉達股價暴跌，據稱董事會將考慮執行長的未來",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-    "image": null,
-    "pushedAt": "2026-11-14T00:53:32.449Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/anz-ceo-matos-warns-of-global-jobs-crisis-without-ai-rules",
     "title": "ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules",
     "titleZh": "澳新銀行首席執行官馬托斯警告稱，如果沒有人工智慧規則，全球就業危機",
@@ -1968,7 +1959,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
     "image": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T23:42:52.717Z"
+    "pushedAt": "2026-11-14T01:58:05.067Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/hedge-funds-leveraged-bets-face-global-push-for-transparency",
@@ -2481,7 +2472,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12db-huang-bmgj/12db-huang-bmgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T23:42:27.694Z"
+    "pushedAt": "2026-11-14T01:57:39.811Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
@@ -7971,7 +7962,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
     "image": null,
-    "pushedAt": "2026-11-13T23:42:02.691Z"
+    "pushedAt": "2026-11-14T01:57:14.846Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-makes-some-progress-on-outlook-outage-video",
@@ -8403,7 +8394,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
     "image": null,
-    "pushedAt": "2026-11-13T23:41:36.976Z"
+    "pushedAt": "2026-11-14T01:56:49.937Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/americas/nationwide-ground-stop-flights-faa.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2fdc827-ad0a-4d64-835a-969dd30920eb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-14T01:41:55.844Z"
+  },
+  {
+    "id": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97",
+    "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
+    "titleZh": "印度寄望於人工智慧新創公司避免成為“數位殖民地”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-14T01:58:31.973Z"
   }
 ]
