@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-    "titleZh": "中國貿易順差以創紀錄的速度突破1兆美元",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-China-trade-wmht/10biz-China-trade-wmht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T21:50:18.174Z"
-  },
-  {
     "id": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09",
     "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
     "titleZh": "今年前10個月中國貿易順差超1兆美元",
@@ -2094,7 +2085,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
     "image": null,
-    "pushedAt": "2026-11-14T07:08:00.319Z"
+    "pushedAt": "2026-11-14T09:40:18.316Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
@@ -2103,7 +2094,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
     "image": null,
-    "pushedAt": "2026-11-14T07:08:25.130Z"
+    "pushedAt": "2026-11-14T09:40:42.468Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
@@ -2112,7 +2103,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
     "image": null,
-    "pushedAt": "2026-11-14T07:08:49.918Z"
+    "pushedAt": "2026-11-14T09:41:06.247Z"
   },
   {
     "id": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26",
@@ -6522,7 +6513,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
     "image": "https://static01.nyt.com/images/2026/10/07/multimedia/XXint-mexico-immigration-vgph/XXint-mexico-immigration-vgph-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T07:09:38.980Z"
+    "pushedAt": "2026-11-14T09:41:53.258Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-to-cap-year-of-record-breaking-equity-megadeals",
@@ -7071,7 +7062,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T07:10:03.751Z"
+    "pushedAt": "2026-11-14T09:42:16.527Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
@@ -7503,7 +7494,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
     "image": null,
-    "pushedAt": "2026-11-14T07:09:14.426Z"
+    "pushedAt": "2026-11-14T09:41:29.564Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/barclays-trading-desk-turns-bullish-for-first-time-since-march",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-mexico-singer-profile01-photo-wmtz/11int-mexico-singer-profile01-photo-wmtz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-14T09:17:38.031Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304",
+    "title": "Manchester United: a fate worse than debt",
+    "titleZh": "曼聯：比債務更糟糕的命運",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-14T09:42:42.083Z"
   }
 ]
