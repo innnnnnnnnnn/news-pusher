@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/alibaba-shares-drop-7-as-nvidia-saga-triggers-chip-access-fears",
-    "title": "Alibaba Shares Drop 7% as Nvidia Saga Triggers Chip Access Fears",
-    "titleZh": "英偉達事件引發晶片准入擔憂，阿里巴巴股價下跌 7%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/alibaba-shares-drop-7-as-nvidia-saga-triggers-chip-access-fears",
-    "image": null,
-    "pushedAt": "2026-11-12T09:29:56.304Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-    "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
-    "titleZh": "肯亞家庭傭工在沙烏地阿拉伯被判處 100 鞭刑",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T00:30:06.050Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/the-china-show-11-12-2026-video",
     "title": "Nvidia Board Meets As Jensen Huang Fallout Widens",
     "titleZh": "黃仁勳事件影響擴大，英偉達董事會召開會議",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-no-shows-01-cfgk/14asia-eurovision-no-shows-01-cfgk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-14T15:10:26.673Z"
+  },
+  {
+    "id": "https://www.ft.com/content/94f3ad1c-a186-4893-ae97-5f129690d121",
+    "title": "UK economy expanded by 0.7% in third quarter",
+    "titleZh": "英國第三季經濟成長0.7%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/94f3ad1c-a186-4893-ae97-5f129690d121?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-14T15:10:55.081Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
+    "title": "The Stadium Bidding War Shaking Up the Midwest",
+    "titleZh": "震動中西部的體育場競標戰",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
+    "image": null,
+    "pushedAt": "2026-11-14T15:11:01.491Z"
   }
 ]
