@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-could-come-next-after-huang-s-ouster-video",
-    "title": "What Could Come Next After Huang’s Ouster?",
-    "titleZh": "黃的下台後接下來會發生什麼事？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/what-could-come-next-after-huang-s-ouster-video",
-    "image": null,
-    "pushedAt": "2026-11-12T08:03:16.350Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/why-bernstein-downgraded-nvidia-stock-video",
     "title": "Why Bernstein Downgraded Nvidia Stock",
     "titleZh": "伯恩斯坦為何下調 Nvidia 股票評級",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
     "image": "https://static01.nyt.com/images/2026/12/11/multimedia/11int-Gaza-Hospital-ktgm/11int-Gaza-Hospital-ktgm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-14T05:17:33.763Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html",
+    "title": "A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998",
+    "titleZh": "民主黨自 1998 年以來首次贏得阿拉斯加州州長競選",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-alaska-governor-jkt-jqcg/03midterms-hfo-alaska-governor-jkt-jqcg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T05:18:04.690Z"
   }
 ]
