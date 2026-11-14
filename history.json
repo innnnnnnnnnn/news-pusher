@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
-    "title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
-    "titleZh": "《泰晤士報》如何報道密西西比州參議員競選，這場競選出乎意料地變得緊張",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-bglh/10nat-mississippi-senate-bglh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T09:15:47.021Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/new-zealand-draws-record-us-tourists-with-wellness-and-weak-kiwi-dollar",
     "title": "New Zealand Draws Record US Tourists With Wellness and Weak Kiwi Dollar",
     "titleZh": "紐西蘭憑藉著健康和疲軟的紐西蘭元吸引了創紀錄的美國遊客",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video",
     "image": null,
     "pushedAt": "2026-11-14T00:31:05.054Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+    "title": "Jewish Heirs Challenge Sale of $180 Million Van Gogh Painting at Sotheby’s",
+    "titleZh": "猶太繼承人挑戰蘇富比拍賣行價值 1.8 億美元的梵谷畫作",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14cul-van-gogh-chestnut-klfg/14cul-van-gogh-chestnut-klfg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-14T00:31:35.887Z"
   }
 ]
