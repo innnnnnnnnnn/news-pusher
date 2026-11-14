@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/aussie-falls-to-lowest-since-january-on-rba-slowdown-ai-fears",
-    "title": "Aussie Falls to Lowest Since January on RBA Outlook, AI Concern",
-    "titleZh": "AI 擔心澳洲聯邦儲備銀行放緩，澳元跌至 1 月以來最低",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/aussie-falls-to-lowest-since-january-on-rba-slowdown-ai-fears",
-    "image": null,
-    "pushedAt": "2026-11-12T08:31:40.494Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/elon-musk-says-it-would-be-an-honor-to-hire-nvidia-jensen-huang",
     "title": "Elon Musk Says It Would Be an Honor to Hire Nvidia’s Huang",
     "titleZh": "馬斯克 (Elon Musk) 表示很榮幸能夠聘請 Nvidia 的黃仁勳",
@@ -2670,7 +2661,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
     "image": "https://static01.nyt.com/images/2021/04/22/business/trust-aicallout/22NYT-TECH-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T11:16:13.915Z"
+    "pushedAt": "2026-11-14T13:52:00.656Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/papa-john-s-franchisee-files-for-bankruptcy-in-pennsylvania",
@@ -8511,7 +8502,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b3a2d00-88d7-461c-9278-16fff43058c0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-14T11:16:37.928Z"
+    "pushedAt": "2026-11-14T13:52:24.517Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
     "image": null,
     "pushedAt": "2026-11-14T13:34:42.419Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
+    "title": "David Cameron Sees Hope in Alzheimer’s Research",
+    "titleZh": "大衛·卡梅倫在阿茲海默症研究中看到了希望",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
+    "image": null,
+    "pushedAt": "2026-11-14T13:52:52.317Z"
   }
 ]
