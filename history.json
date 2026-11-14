@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
-    "title": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
-    "titleZh": "理查德·波斯納法官去世。他在法律界的影響是無與倫比的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11posner-fvcz/11posner-fvcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T10:09:45.915Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "title": "Quebec’s strategic maple-syrup reserve is running dry",
     "titleZh": "魁北克的戰略楓糖漿儲備即將枯竭",
@@ -7287,7 +7278,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-economy-slows-as-ukrainian-strikes-weigh-on-output",
     "image": null,
-    "pushedAt": "2026-11-14T02:04:59.929Z"
+    "pushedAt": "2026-11-14T04:28:05.283Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-soars-on-sales-cisco-down-on-expectations-miss-video",
@@ -8754,7 +8745,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
     "image": null,
-    "pushedAt": "2026-11-14T02:04:34.916Z"
+    "pushedAt": "2026-11-14T04:27:39.241Z"
   },
   {
     "id": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
     "image": null,
     "pushedAt": "2026-11-14T04:27:10.995Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+    "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+    "titleZh": "央視稱中國將以清潔能源滿足所有新的電力需求",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+    "image": null,
+    "pushedAt": "2026-11-14T04:28:32.460Z"
   }
 ]
