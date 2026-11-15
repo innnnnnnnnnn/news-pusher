@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-    "titleZh": "新加坡稱美國對 Megaspeed 調查沒有幫助",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T16:42:57.624Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-ousted-as-nvidia-ceo-video",
     "title": "Jensen Huang Ousted as Nvidia CEO",
     "titleZh": "黃仁勳被解除英偉達執行長職務",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T18:02:47.088Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-11-15T18:03:17.727Z"
   }
 ]
