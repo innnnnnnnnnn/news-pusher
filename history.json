@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html",
-    "title": "What to Know About New Prostate Cancer Screening Recommendations",
-    "titleZh": "關於新前列腺癌篩檢建議的了解",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/well/12WELL-ACS-PROSTATE2/12WELL-ACS-PROSTATE2-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T21:28:53.998Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/features/2026-11-12/apple-homeview-review-it-s-a-latecomer-but-the-ecosystem-integration-is-a-plus",
     "title": "Apple HomeView Review: It's a Latecomer, But the Ecosystem Integration is a Plus",
     "titleZh": "Apple HomeView評測：雖然是後來者，但生態系整合是優勢",
@@ -7692,7 +7683,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html",
     "image": null,
-    "pushedAt": "2026-11-15T15:46:17.439Z"
+    "pushedAt": "2026-11-15T17:48:00.554Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
@@ -7701,7 +7692,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-airlines-explainer-topart-kmpz/14xp-airlines-explainer-topart-kmpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T15:47:10.984Z"
+    "pushedAt": "2026-11-15T17:48:24.789Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T17:20:00.817Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
+    "title": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
+    "titleZh": "Nvidia 的影響、下次大型 IPO、FAA 路由器故障",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-15T17:48:52.316Z"
   }
 ]
