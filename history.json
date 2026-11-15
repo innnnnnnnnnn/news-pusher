@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-    "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-    "titleZh": "Anthropic 的重磅 IPO 目標估值高達 1.4 兆美元",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:01:36.676Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
     "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cf0fe9c-ba61-4144-be26-b3240ce61089.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-15T11:11:33.435Z"
+  },
+  {
+    "id": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd",
+    "title": "China warns US not to use Nvidia scandal as pretext for tech curbs",
+    "titleZh": "中國警告美國不要利用英偉達醜聞作為限制科技的藉口",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T11:12:02.332Z"
   }
 ]
