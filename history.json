@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26",
-    "title": "Trump threatens to double tariffs on Mexico over illegal immigration",
-    "titleZh": "川普威脅對墨西哥非法移民加倍關稅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T16:52:52.340Z"
-  },
-  {
     "id": "https://www.ft.com/content/ea6c8ce6-3144-4554-ab41-c752d1dad49e",
     "title": "Top Democrat to launch sweeping probe of Trump and his allies",
     "titleZh": "民主黨高層將對川普及其盟友展開全面調查",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
     "image": null,
     "pushedAt": "2026-11-15T18:32:11.303Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
+    "title": "A franchise revolution is stirring in China",
+    "titleZh": "一場特許經營革命正在中國掀起",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
+    "image": null,
+    "pushedAt": "2026-11-15T18:32:39.442Z"
   }
 ]
