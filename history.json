@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a65ba938-5f0c-46db-801b-1a8781930447",
-    "title": "A chicken in every pot and three robotaxis in every garage",
-    "titleZh": "每個鍋子裡有一隻雞，每個車庫裡有三輛機器人計程車",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a65ba938-5f0c-46db-801b-1a8781930447?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T04:30:31.874Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo",
     "title": "Jensen Huang Removed as Nvidia CEO Following Affairs, Board Appoints Kress",
     "titleZh": "AI 熱潮的代表人物黃仁勳 (Jensen Huang) 被 Nvidia 董事會罷免執行長職務",
@@ -1401,7 +1392,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
     "image": null,
-    "pushedAt": "2026-11-15T15:09:32.200Z"
+    "pushedAt": "2026-11-15T17:12:45.540Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/december-fed-hike-priced-in-jpmorgan-s-kelsey-berro-video",
@@ -1995,7 +1986,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T15:07:45.793Z"
+    "pushedAt": "2026-11-15T17:11:08.617Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video",
@@ -3012,7 +3003,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ruehii6ho?ref=rss",
     "image": "https://cdn.flipso.com/p/ruehii6ho_square.jpg",
-    "pushedAt": "2026-11-15T15:09:06.898Z"
+    "pushedAt": "2026-11-15T17:12:21.545Z"
   },
   {
     "id": "https://flipso.com/p/wr8jumk34",
@@ -4137,7 +4128,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
     "image": null,
-    "pushedAt": "2026-11-15T15:07:21.775Z"
+    "pushedAt": "2026-11-15T17:10:44.266Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
@@ -4155,7 +4146,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T15:08:11.039Z"
+    "pushedAt": "2026-11-15T17:11:33.023Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-assures-india-lower-tariffs-than-peers-in-trade-deal",
@@ -8826,7 +8817,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
     "image": null,
-    "pushedAt": "2026-11-15T15:08:38.684Z"
+    "pushedAt": "2026-11-15T17:11:57.470Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15french-wblz/15french-wblz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T17:00:52.249Z"
+  },
+  {
+    "id": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74",
+    "title": "Neighbours of China’s London ‘mega’ embassy struggle to sell flats",
+    "titleZh": "中國倫敦「巨型」大使館的鄰居難以出售公寓",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87f82757-84e7-4440-aabb-b1e8ac1f1ece.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-15T17:13:13.393Z"
   }
 ]
