@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/dining/advent-calendars-food-drinks-snacks.html",
-    "title": "Advent Calendars Go Beyond Chocolate, From Pickles to Protein Powder",
-    "titleZh": "降臨節日曆超越巧克力，從泡菜到蛋白粉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/dining/advent-calendars-food-drinks-snacks.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10FD-advent-calendar-thumb1-qpfj/10FD-advent-calendar-thumb1-qpfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T19:01:26.024Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/dubai-tycoon-expects-billions-from-anthropic-ai-investments",
-    "title": "Dubai Tycoon Expects Billions From Anthropic, AI Investments",
-    "titleZh": "杜拜大亨期望從人類、人工智慧投資中獲得數十億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/dubai-tycoon-expects-billions-from-anthropic-ai-investments",
-    "image": null,
-    "pushedAt": "2026-11-12T11:47:34.133Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/alice-huang-resurfaces-in-beijing-amid-nvidia-scandal-video",
-    "title": "Alice Huang Resurfaces in Beijing Amid Nvidia Scandal",
-    "titleZh": "黃愛麗 (Alice Huang) 因英偉達醜聞再次現身北京",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/alice-huang-resurfaces-in-beijing-amid-nvidia-scandal-video",
-    "image": null,
-    "pushedAt": "2026-11-12T11:50:54.953Z"
-  },
-  {
     "id": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72",
     "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
     "titleZh": "川普撤回打擊伊朗的威脅，油價跌破 90 美元",
@@ -1527,7 +1500,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
     "image": null,
-    "pushedAt": "2026-11-15T02:57:01.894Z"
+    "pushedAt": "2026-11-15T05:04:50.196Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010",
@@ -5703,7 +5676,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-fed-01-fjhv/13dc-fed-01-fjhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T02:56:13.194Z"
+    "pushedAt": "2026-11-15T05:03:58.039Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
@@ -6765,7 +6738,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T02:55:49.510Z"
+    "pushedAt": "2026-11-15T05:03:33.529Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
@@ -8214,7 +8187,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T02:56:37.552Z"
+    "pushedAt": "2026-11-15T05:04:23.997Z"
   },
   {
     "id": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33",
@@ -8998,5 +8971,32 @@
     "url": "https://flipso.com/p/p3hcpjs4n?ref=rss",
     "image": "https://cdn.flipso.com/p/p3hcpjs4n_square.jpg",
     "pushedAt": "2026-11-15T05:03:04.951Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+    "title": "Is Italy the Model for Europe’s Future?",
+    "titleZh": "義大利是歐洲未來的典範嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T05:05:19.516Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
+    "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+    "titleZh": "在歐洲，伊朗的膽大妄為加劇了焦慮感",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T05:05:25.410Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+    "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+    "titleZh": "在班夫，一隻被稱為「老大」的灰熊統治著國家公園",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+    "image": null,
+    "pushedAt": "2026-11-15T05:05:30.812Z"
   }
 ]
