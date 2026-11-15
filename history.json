@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ac85c171-d2d6-4fa1-ab51-b36e3f271748",
-    "title": "Britain’s Brexit towns are being left behind again",
-    "titleZh": "英國脫歐城鎮再次被拋在後面",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ac85c171-d2d6-4fa1-ab51-b36e3f271748?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T01:12:05.029Z"
-  },
-  {
     "id": "https://www.ft.com/content/9ef2ed1e-5a67-4b28-8939-0c8e07ac6444",
     "title": "Migration to rich countries falls under strict visa rules",
     "titleZh": "移民到富裕國家需要遵守嚴格的簽證規定",
@@ -483,7 +474,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T13:26:10.080Z"
+    "pushedAt": "2026-11-15T15:44:13.573Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
@@ -537,7 +528,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T13:27:00.310Z"
+    "pushedAt": "2026-11-15T15:45:02.544Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/freezer-hacks-a-wake-up-call-for-society-pentagon-cio-says",
@@ -2598,7 +2589,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T13:28:14.781Z"
+    "pushedAt": "2026-11-15T15:45:52.727Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
@@ -5442,7 +5433,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T13:26:35.763Z"
+    "pushedAt": "2026-11-15T15:44:37.974Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
@@ -7854,7 +7845,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html",
     "image": null,
-    "pushedAt": "2026-11-15T13:28:39.768Z"
+    "pushedAt": "2026-11-15T15:46:17.439Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
@@ -7935,7 +7926,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/pw3n037mu?ref=rss",
     "image": "https://cdn.flipso.com/p/pw3n037mu_square.jpg",
-    "pushedAt": "2026-11-15T13:27:49.712Z"
+    "pushedAt": "2026-11-15T15:45:27.484Z"
   },
   {
     "id": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-15T15:43:46.557Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-backed-forces-in-yemen-retreat-from-red-sea-as-houthis-advance.html",
+    "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
+    "titleZh": "隨著胡塞武裝的推進，沙烏地阿拉伯支持的也門部隊從紅海撤退",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-backed-forces-in-yemen-retreat-from-red-sea-as-houthis-advance.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T15:46:43.853Z"
   }
 ]
