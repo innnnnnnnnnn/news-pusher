@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
-    "title": "Nvidia Market Value Sinks Below $4 Trillion After Huang Resigns",
-    "titleZh": "黃仁勳辭職後 Nvidia 市值跌破 4 兆美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns",
-    "image": null,
-    "pushedAt": "2026-11-12T14:45:23.995Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/strauss-zelnick-on-gta-vi-take-two-s-turnaround-and-ai-video",
     "title": "Strauss Zelnick on GTA VI, Take-Two's Turnaround and AI | The David Rubenstein Show",
     "titleZh": "Strauss Zelnick 談 GTA VI、Take-Two 的轉變與人工智慧 |大衛魯賓斯坦秀",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T20:52:07.349Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+    "titleZh": "黃仁勳顛覆 Nvidia 的事件：事件時間表",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T20:52:36.226Z"
   }
 ]
