@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010",
-    "title": "Sales of Existing US Homes Tumble to Lowest Level Since 2010",
-    "titleZh": "美國現有房屋銷售量跌至 2010 年以來最低水平",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010",
-    "image": null,
-    "pushedAt": "2026-11-13T10:24:59.877Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-barr-warns-ai-without-guardrails-risks-widening-inequality",
     "title": "Fed’s Barr Warns AI Without Guardrails Risks Widening Inequality",
     "titleZh": "聯準會巴爾警告說，沒有護欄的人工智慧可能會加劇不平等",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-15/pkg-engle-shenzhen-tech-entrepreneurs",
     "image": null,
     "pushedAt": "2026-11-15T23:02:59.607Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+    "title": "Jensen Huang is out. His successor has the toughest job in tech",
+    "titleZh": "黃仁勳出局了。他的繼任者從事科技領域最艱難的工作",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+    "image": null,
+    "pushedAt": "2026-11-15T23:03:30.139Z"
   }
 ]
