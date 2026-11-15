@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113",
-    "title": "The affordability economics is coming!",
-    "titleZh": "可負擔經濟即將到來！",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T09:51:41.604Z"
-  },
-  {
-    "id": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f",
-    "title": "Maga architects blame Big Tech and AI data centres for midterms rout",
-    "titleZh": "Maga 建築師將中期選舉失敗歸咎於大型科技和人工智慧資料中心",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T23:23:13.509Z"
-  },
-  {
     "id": "https://www.ft.com/content/74fa38d2-6925-4204-a61b-192e5277e063",
     "title": "Wall Street watchdog enforcement against public companies drops to 16-year low",
     "titleZh": "華爾街監管機構對上市公司的執法力道降至 16 年來最低",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html",
     "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-epstein-02/22mag-epstein-02-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T10:58:09.137Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
+    "title": "Jensen Huang must go",
+    "titleZh": "黃仁勳必須走",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
+    "image": null,
+    "pushedAt": "2026-11-15T10:58:38.282Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+    "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+    "titleZh": "以色列逮捕記者阿貝德·阿布·謝哈德引發擔憂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T10:58:41.271Z"
   }
 ]
