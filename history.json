@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-board-weighs-huang-s-future-after-affairs-video",
-    "title": "Nvidia's Board Weighs Huang's Future After Affairs",
-    "titleZh": "英偉達董事會權衡黃仁勳的未來（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-board-weighs-huang-s-future-after-affairs-video",
-    "image": null,
-    "pushedAt": "2026-11-12T12:46:01.233Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/uae-minister-of-investment-s-investment-outlook-video",
-    "title": "UAE Minister of Investment's Investment Outlook",
-    "titleZh": "阿聯酋投資部長的投資前景",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/uae-minister-of-investment-s-investment-outlook-video",
-    "image": null,
-    "pushedAt": "2026-11-12T10:30:20.425Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-will-it-take-for-a-clean-resilient-energy-economy-video",
-    "title": "What Will It Take For a Clean, Resilient Energy Economy?",
-    "titleZh": "清潔、有彈性的能源經濟需要什麼？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/what-will-it-take-for-a-clean-resilient-energy-economy-video",
-    "image": null,
-    "pushedAt": "2026-11-12T10:32:04.288Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/emaar-on-dubai-growth-global-investment-in-2026-video",
     "title": "Emaar on Dubai, Growth, Global Investment in 2026",
     "titleZh": "伊瑪爾談杜拜、成長、2026 年全球投資",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T06:16:39.933Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "title": "Why you should expect an AI crash",
+    "titleZh": "為什麼你應該預料到人工智慧會崩潰",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "image": null,
+    "pushedAt": "2026-11-15T06:17:09.614Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
+    "title": "There has never been a scandal like the Jensen Huang affair",
+    "titleZh": "從來沒有像黃仁勳事件這樣的醜聞",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
+    "image": null,
+    "pushedAt": "2026-11-15T06:17:12.666Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
+    "title": "Solid UK growth will not by itself push BoE to move in December",
+    "titleZh": "英國穩健的經濟成長本身不會推動英國央行在 12 月採取行動",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
+    "image": null,
+    "pushedAt": "2026-11-15T06:17:16.050Z"
   }
 ]
