@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
-    "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
-    "titleZh": "敘利亞考慮派遣軍隊援助沙國與胡塞武裝的戰爭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/world/10int-syria-saudi-anfi/10int-syria-saudi-anfi-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T20:46:11.524Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-hammack-calls-for-more-restrictive-rate-policy-video",
     "title": "Fed's Hammack Calls for More Restrictive Rate Policy",
     "titleZh": "聯準會哈馬克呼籲採取更嚴格的利率政策",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
     "image": null,
     "pushedAt": "2026-11-15T22:21:56.197Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
+    "title": "China’s carbon-dioxide emissions have begun to fall",
+    "titleZh": "中國二氧化碳排放量開始下降",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
+    "image": null,
+    "pushedAt": "2026-11-15T22:22:25.484Z"
   }
 ]
