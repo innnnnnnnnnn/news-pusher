@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/nebius-shares-drop-on-neocloud-s-disappointing-revenue-outlook",
-    "title": "Nebius Shares Drop on Neocloud’s Disappointing Sales Outlook",
-    "titleZh": "Neocloud 營收前景令人失望，Nebius 股價下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nebius-shares-drop-on-neocloud-s-disappointing-revenue-outlook",
-    "image": null,
-    "pushedAt": "2026-11-12T16:12:55.255Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/singapore-says-warns-alice-huang-lacks-evidence-of-offenses",
     "title": "Singapore Barred Alice Huang From Entry Over Megaspeed Probe",
     "titleZh": "新加坡稱警告黃愛麗絲，但缺乏犯罪證據",
@@ -168,7 +159,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T14:48:33.145Z"
+    "pushedAt": "2026-11-15T16:52:52.340Z"
   },
   {
     "id": "https://www.ft.com/content/ea6c8ce6-3144-4554-ab41-c752d1dad49e",
@@ -2922,7 +2913,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11france-Judo-01-jvkc/11france-Judo-01-jvkc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T14:47:42.626Z"
+    "pushedAt": "2026-11-15T16:52:03.948Z"
   },
   {
     "id": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e",
@@ -7332,7 +7323,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
-    "pushedAt": "2026-11-15T14:48:06.770Z"
+    "pushedAt": "2026-11-15T16:52:28.093Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet",
     "image": null,
     "pushedAt": "2026-11-15T16:51:36.194Z"
+  },
+  {
+    "id": "https://www.ft.com/content/eb45ef82-94b0-4775-9f79-025fdb27db6a",
+    "title": "Decision to move Shakespeare Institute out of Stratford sparks outcry",
+    "titleZh": "將莎士比亞學院遷出斯特拉特福的決定引發強烈抗議",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/eb45ef82-94b0-4775-9f79-025fdb27db6a?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F45bf5403-2681-4a77-a135-54d2426b5a05.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-15T16:53:21.090Z"
   }
 ]
