@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-barr-warns-ai-without-guardrails-risks-widening-inequality",
-    "title": "Fed’s Barr Warns AI Without Guardrails Risks Widening Inequality",
-    "titleZh": "聯準會巴爾警告說，沒有護欄的人工智慧可能會加劇不平等",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-barr-warns-ai-without-guardrails-risks-widening-inequality",
-    "image": null,
-    "pushedAt": "2026-11-12T17:49:02.584Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html",
-    "title": "Excavation Was Taking Place Next to Building in Brooklyn That Collapsed",
-    "titleZh": "布魯克林倒塌建築物旁邊正在進行挖掘",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-scene-hvqk/12met-building-collapse-live-scene-hvqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T17:55:32.123Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
     "title": "What to Know About the Deadly Building Collapse in Brooklyn",
     "titleZh": "關於布魯克林致命建築倒塌的知識",
@@ -5487,7 +5469,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-15T20:58:39.527Z"
+    "pushedAt": "2026-11-15T23:04:49.724Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
@@ -8641,12 +8623,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/schmid-says-fed-has-more-work-to-do-to-bring-down-inflation",
-    "title": "Schmid Says Fed Has More Work To Do to Bring Down Inflation",
+    "title": "Schmid Says Fed Has More Work to Do to Bring Down Inflation",
     "titleZh": "施密德稱聯準會還有更多工作要做來降低通膨",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/schmid-says-fed-has-more-work-to-do-to-bring-down-inflation",
     "image": null,
-    "pushedAt": "2026-11-15T20:57:49.601Z"
+    "pushedAt": "2026-11-15T23:03:57.897Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
@@ -8655,7 +8637,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T20:58:14.721Z"
+    "pushedAt": "2026-11-15T23:04:23.905Z"
   },
   {
     "id": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
     "image": null,
     "pushedAt": "2026-11-15T23:03:30.139Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
+    "title": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
+    "titleZh": "亞當·德賴弗、史嘉蕾喬韓森和邁爾斯·特勒如何在《紙老虎》中建立家庭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-paper-tiger-roundtable1-lbmt/15cul-paper-tiger-roundtable1-lbmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T23:05:17.596Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/well/us-measles-elimination.html",
+    "title": "What It Took for America to Wipe Out Measles",
+    "titleZh": "美國是如何消滅麻疹的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/well/us-measles-elimination.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/well/WELL-MEASLES-LOOKBACK9/WELL-MEASLES-LOOKBACK9-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T23:05:21.317Z"
   }
 ]
