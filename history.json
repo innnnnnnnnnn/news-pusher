@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/google-samsung-launch-sales-of-smart-glasses-with-warby-parker-gentle-monster",
-    "title": "Google, Samsung Launch Sales of Smart Glasses With Warby Parker, Gentle Monster",
-    "titleZh": "Google、三星與 Warby Parker、Gentle Monster 合作推出智慧眼鏡銷售",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/google-samsung-launch-sales-of-smart-glasses-with-warby-parker-gentle-monster",
-    "image": null,
-    "pushedAt": "2026-11-12T16:31:52.821Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/for-nvidia-ceo-huang-the-journey-is-the-destination-video",
     "title": "For Nvidia CEO Huang ‘The Journey Is the Destination’",
     "titleZh": "對於 Nvidia 首席執行官黃仁勳來說，“旅程就是目的地”",
@@ -7872,7 +7863,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/thai-central-bank-chairman-rebukes-slow-reform-sme-credit-slump",
     "image": null,
-    "pushedAt": "2026-11-15T15:48:00.808Z"
+    "pushedAt": "2026-11-15T17:50:13.100Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T17:49:45.698Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+    "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+    "titleZh": "隨著系統從地面停止恢復，航班延誤和取消仍然存在",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T17:50:40.776Z"
   }
 ]
