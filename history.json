@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
-    "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
-    "titleZh": "官員稱，華盛頓特區有多人被槍殺",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T10:11:06.870Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
     "title": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
     "titleZh": "加州億萬富翁稅收打擊失敗對進步議程的打擊",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/schmid-says-fed-has-more-work-to-do-to-bring-down-inflation",
     "image": null,
     "pushedAt": "2026-11-15T18:48:23.417Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+    "titleZh": "接替黃仁勳的 Nvidia 臨時執行長 Colette Kress 是誰？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T18:50:43.110Z"
   }
 ]
