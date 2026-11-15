@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-    "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-    "titleZh": "川普表示，他將讓萬斯退出伊朗談判，以專注於詐欺活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T01:19:36.892Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-boom-raises-stakes-for-data-centers-video",
     "title": "Nvidia Boom Raises Stakes for Data Centers",
     "titleZh": "Nvidia Boom 加大對資料中心的投資",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/philippines-main-coal-mine-in-limbo-puts-nation-s-energy-supply-at-risk",
     "image": null,
     "pushedAt": "2026-11-15T23:28:54.616Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+    "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+    "titleZh": "黃仁勳加入不斷壯大的俱樂部：執行長因事務而垮台",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-ousted-ceo-1-fmck/12biz-ousted-ceo-1-fmck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T23:29:23.598Z"
   }
 ]
