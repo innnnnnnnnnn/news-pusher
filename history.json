@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-    "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
-    "titleZh": "幫助中央情報局的人在墨西哥秘密運作",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-mexico-chihuahua01a-photo-gkfw/09int-mexico-chihuahua01a-photo-gkfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:19:01.014Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
     "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
     "titleZh": "在阿根廷，教宗利奧行走在方濟各的巨大陰影中",
@@ -231,7 +222,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T00:47:51.626Z"
+    "pushedAt": "2026-11-15T02:46:06.149Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
@@ -240,7 +231,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
     "image": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T00:48:15.709Z"
+    "pushedAt": "2026-11-15T02:46:30.417Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
@@ -249,7 +240,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
     "image": "https://static01.nyt.com/images/2026/11/11/travel/1112TrippedUp-illo/1112TrippedUp-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T00:49:04.038Z"
+    "pushedAt": "2026-11-15T02:47:19.022Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
@@ -258,7 +249,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T00:49:27.744Z"
+    "pushedAt": "2026-11-15T02:47:43.107Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html",
@@ -897,7 +888,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T00:47:27.519Z"
+    "pushedAt": "2026-11-15T02:45:41.793Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/arts/television/desi-lydic-democrats-miss-pete-hegseth-impeachment-vote.html",
@@ -8178,7 +8169,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T00:48:39.827Z"
+    "pushedAt": "2026-11-15T02:46:54.532Z"
   },
   {
     "id": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-15T02:13:52.026Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-15/thai-central-bank-chairman-rebukes-slow-reform-sme-credit-slump",
+    "title": "Thai Central Bank Chairman Rebukes Slow Reform, SME Credit Slump",
+    "titleZh": "泰國央行主席斥責改革緩慢、中小企業信貸下滑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/thai-central-bank-chairman-rebukes-slow-reform-sme-credit-slump",
+    "image": null,
+    "pushedAt": "2026-11-15T02:48:09.975Z"
   }
 ]
