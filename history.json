@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-ousted-as-nvidia-ceo-video",
-    "title": "Jensen Huang Ousted as Nvidia CEO",
-    "titleZh": "黃仁勳被解除英偉達執行長職務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-ousted-as-nvidia-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-12T14:10:38.381Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
     "title": "Inside America’s first new submarine base abroad for 53 years",
     "titleZh": "53年來美國第一個海外新潛艦基地內部",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
     "image": null,
     "pushedAt": "2026-11-15T18:03:17.727Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+    "titleZh": "新加坡稱美國沒有幫助調查 Alice Huang 和 Megaspeed",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T18:03:46.357Z"
   }
 ]
