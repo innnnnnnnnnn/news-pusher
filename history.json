@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e",
-    "title": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
-    "titleZh": "烏克蘭稱美國特使抵達莫斯科後星鏈限制又回來了",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7dd76fc2-fe04-4ee5-af6d-e435e0e76bc4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T04:19:48.947Z"
-  },
-  {
-    "id": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd",
-    "title": "China warns US not to use Nvidia scandal as pretext for tech curbs",
-    "titleZh": "中國警告美國不要利用英偉達醜聞作為限制科技的藉口",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T09:52:06.144Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
     "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
     "titleZh": "Anthropic 的重磅 IPO 目標估值高達 1.4 兆美元",
@@ -726,7 +708,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
     "image": null,
-    "pushedAt": "2026-11-15T09:05:49.433Z"
+    "pushedAt": "2026-11-15T11:10:09.587Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
@@ -735,7 +717,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
     "image": null,
-    "pushedAt": "2026-11-15T09:06:14.000Z"
+    "pushedAt": "2026-11-15T11:10:34.616Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
@@ -5793,7 +5775,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T09:06:38.961Z"
+    "pushedAt": "2026-11-15T11:11:00.339Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
     "image": null,
     "pushedAt": "2026-11-15T11:09:41.749Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29",
+    "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+    "titleZh": "英偉達醜聞曝光後，國會將通過更嚴格的人工智慧晶片出口規則",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97aedcac-5972-4bd6-a1ef-e01686398dfa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-15T11:11:27.740Z"
+  },
+  {
+    "id": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac",
+    "title": "From culture war to class war: US Democrats ditch woke politics",
+    "titleZh": "從文化戰爭到階級戰爭：美國民主黨放棄覺醒政治",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cf0fe9c-ba61-4144-be26-b3240ce61089.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-15T11:11:33.435Z"
   }
 ]
