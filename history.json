@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
-    "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
-    "titleZh": "梅根馬克爾自父親被捕後首次公開露面",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10meghan-promo-wpgm/10meghan-promo-wpgm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T19:31:49.679Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
     "title": "The panic over personalised pricing is overdone",
     "titleZh": "對個人化定價的恐慌有些過頭了",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-15T18:28:57.042Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+    "title": "Inside America’s first new submarine base abroad for 53 years",
+    "titleZh": "53年來美國第一個海外新潛艦基地內部",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+    "image": null,
+    "pushedAt": "2026-11-15T18:29:27.142Z"
   }
 ]
