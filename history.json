@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-    "title": "The return of the snatch-and-grab state",
-    "titleZh": "搶奪狀態的回歸",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-    "image": null,
-    "pushedAt": "2026-11-15T10:07:35.781Z"
-  },
-  {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-    "title": "Where to find the anti-AI trade",
-    "titleZh": "哪裡可以找到反人工智慧交易",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-15T10:08:00.739Z"
-  },
-  {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
-    "title": "Italy’s proposed exit tax causes ructions",
-    "titleZh": "義大利擬徵收退出稅引發爭議",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
-    "image": null,
-    "pushedAt": "2026-11-15T10:08:50.442Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
     "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
     "titleZh": "被指控性行為不端的英國藝人大衛威廉斯是誰？",
@@ -6333,7 +6306,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T09:58:18.181Z"
+    "pushedAt": "2026-11-15T12:00:49.857Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
@@ -6342,7 +6315,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/11/world/11int-Russia-ambassador-top/11int-Russia-ambassador-top-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T09:58:43.034Z"
+    "pushedAt": "2026-11-15T12:01:14.924Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
     "image": null,
     "pushedAt": "2026-11-15T12:00:22.119Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6",
+    "title": "Britain’s self-inflicted housebuilding crunch",
+    "titleZh": "英國自找的房屋建設緊縮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T12:01:40.921Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3",
+    "title": "Will Nvidia earnings steady the AI sell-off?",
+    "titleZh": "英偉達的獲利能否穩定人工智慧的拋售潮？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T12:01:45.716Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9",
+    "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
+    "titleZh": "伊朗襲擊巴林，海灣敵對行動升級",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T12:01:49.996Z"
   }
 ]
