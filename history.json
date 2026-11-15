@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
-    "title": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
-    "titleZh": "布魯斯·朱迪奇 (Bruce Giudici) 即將在本次加州選舉中獲勝。他幾個月前去世了。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
-    "image": null,
-    "pushedAt": "2026-11-12T17:46:50.702Z"
-  },
-  {
-    "id": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
-    "title": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
-    "titleZh": "由於「熱」通膨引發對聯準會升息的押注，美國公債下滑",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T17:47:15.933Z"
-  },
-  {
     "id": "https://www.ft.com/content/ac85c171-d2d6-4fa1-ab51-b36e3f271748",
     "title": "Britain’s Brexit towns are being left behind again",
     "titleZh": "英國脫歐城鎮再次被拋在後面",
@@ -7939,12 +7921,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-    "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+    "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
     "titleZh": "黃仁勳保守了一年多的秘密。這導致了他的垮台。",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-15T13:25:43.539Z"
+    "pushedAt": "2026-11-15T15:43:15.454Z"
   },
   {
     "id": "https://flipso.com/p/pw3n037mu",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
     "image": null,
     "pushedAt": "2026-11-15T15:42:48.539Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4",
+    "title": "Hong Kong developer New World unveils $3.2bn rights issue",
+    "titleZh": "香港開發商新世界推出32億美元供股",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T15:43:41.861Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7",
+    "title": "Gold rush turns deadly in Guinea",
+    "titleZh": "幾內亞淘金熱造成人員傷亡",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T15:43:46.557Z"
   }
 ]
