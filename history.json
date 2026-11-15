@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
-    "title": "Oil Rises After Trump Declares US Doesn’t Need a Deal With Iran",
-    "titleZh": "川普表示美國不需要與伊朗達成協議後油價上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
-    "image": null,
-    "pushedAt": "2026-11-12T21:04:35.692Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/huang-says-not-my-job-to-agree-or-disagree-with-trump-video",
     "title": "Nvidia’s Huang Says ‘Not My Job to Agree or Disagree’ With Trump",
     "titleZh": "英偉達黃仁勳表示“同意或不同意川普不是我的工作”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
     "image": null,
     "pushedAt": "2026-11-15T16:06:41.317Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+    "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+    "titleZh": "華爾街看到了黃仁勳的不祥之兆",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12db-huang-bmgj/12db-huang-bmgj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T16:07:09.778Z"
   }
 ]
