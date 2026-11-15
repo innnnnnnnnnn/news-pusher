@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ea6c8ce6-3144-4554-ab41-c752d1dad49e",
-    "title": "Top Democrat to launch sweeping probe of Trump and his allies",
-    "titleZh": "民主黨高層將對川普及其盟友展開全面調查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ea6c8ce6-3144-4554-ab41-c752d1dad49e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T05:09:01.573Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
     "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
     "titleZh": "接替黃仁勳的 Nvidia 臨時執行長 Colette Kress 是誰？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
     "image": null,
     "pushedAt": "2026-11-15T18:32:39.442Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26",
+    "title": "Trump threatens to double tariffs on Mexico over illegal immigration",
+    "titleZh": "川普威脅對墨西哥非法移民加倍關稅",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-15T18:33:08.093Z"
   }
 ]
