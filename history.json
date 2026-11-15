@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
-    "title": "24 splendid ways to spend it in November",
-    "titleZh": "11 月的 24 種精彩度過方式",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
-    "image": null,
-    "pushedAt": "2026-11-14T03:06:42.710Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/barclays-lafargue-on-semiconductors-nvidia-risks-video",
     "title": "Barclays' Lafargue: Semiconductor Outlook Holds Despite Nvidia Risks",
     "titleZh": "巴克萊銀行拉法格：儘管有英偉達風險，半導體前景依然樂觀",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/airmozambique-warns-of-flight-cancellations-due-to-fuel-shortage",
     "image": null,
     "pushedAt": "2026-11-15T11:44:43.013Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+    "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
+    "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+    "image": null,
+    "pushedAt": "2026-11-15T11:45:12.106Z"
   }
 ]
