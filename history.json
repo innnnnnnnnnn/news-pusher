@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-paris-jewelry-robbed-in-broad-daylight-europe-1-says",
-    "title": "De Beers Paris Jewelry Store Raided in Broad Daylight",
-    "titleZh": "戴比爾斯巴黎珠寶店光天化日之下遭到攻擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-paris-jewelry-robbed-in-broad-daylight-europe-1-says",
-    "image": null,
-    "pushedAt": "2026-11-12T17:26:29.911Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
     "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
     "titleZh": "黃仁勳是人工智慧的吉祥物。繁榮為美國經濟提供動力",
@@ -1023,7 +1014,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
     "image": null,
-    "pushedAt": "2026-11-15T19:20:05.925Z"
+    "pushedAt": "2026-11-15T21:26:37.795Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
@@ -1068,7 +1059,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T19:20:30.940Z"
+    "pushedAt": "2026-11-15T21:27:02.845Z"
   },
   {
     "id": "https://flipso.com/p/tt59o4pkq",
@@ -5703,7 +5694,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-trinidad-law-pfvw/11int-trinidad-law-pfvw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T19:18:50.026Z"
+    "pushedAt": "2026-11-15T21:25:22.782Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/masters-in-business-with-salim-ramji-video",
@@ -6945,7 +6936,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-15T19:19:15.029Z"
+    "pushedAt": "2026-11-15T21:25:47.922Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
@@ -7512,7 +7503,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T19:18:24.955Z"
+    "pushedAt": "2026-11-15T21:24:57.752Z"
   },
   {
     "id": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811",
@@ -8268,7 +8259,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
     "image": null,
-    "pushedAt": "2026-11-15T19:19:40.628Z"
+    "pushedAt": "2026-11-15T21:26:12.680Z"
   },
   {
     "id": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-cul-van-gogh-chestnut-print01-pjwl/15int-cul-van-gogh-chestnut-print01-pjwl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-15T21:20:16.838Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+    "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+    "titleZh": "約旦因希臘東正教教堂襲擊事件判處 3 人死刑",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-jordan-execution-1-kwqf/15int-jordan-execution-1-kwqf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T21:27:32.200Z"
   }
 ]
