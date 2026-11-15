@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-15T16:42:32.916Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
     "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
     "titleZh": "新加坡稱美國對 Megaspeed 調查沒有幫助",
@@ -1590,7 +1581,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T15:58:30.911Z"
+    "pushedAt": "2026-11-15T18:01:06.815Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
@@ -4632,7 +4623,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T15:58:05.920Z"
+    "pushedAt": "2026-11-15T18:00:41.945Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
@@ -5703,7 +5694,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "image": null,
-    "pushedAt": "2026-11-15T15:58:58.867Z"
+    "pushedAt": "2026-11-15T18:01:31.289Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
@@ -7143,7 +7134,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T15:59:48.028Z"
+    "pushedAt": "2026-11-15T18:01:56.254Z"
   },
   {
     "id": "https://www.ft.com/content/eb3613fa-81ec-4cad-884d-39a20400e147",
@@ -7944,7 +7935,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F044b8747-69c4-4c6d-8d75-7b7d71dfa730.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-15T16:00:13.395Z"
+    "pushedAt": "2026-11-15T18:02:21.104Z"
   },
   {
     "id": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0fedea5f-8437-4a6d-b0db-346f1a7a4832.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-15T17:51:11.974Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+    "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+    "titleZh": "Megaspeed 表示 Alice Huang 已於 2025 年 8 月離開公司",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-15T18:02:47.088Z"
   }
 ]
