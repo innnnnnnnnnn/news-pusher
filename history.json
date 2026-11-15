@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
-    "title": "Can anyone fix the China-Japan relationship?",
-    "titleZh": "誰能修復中日關係？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
-    "image": null,
-    "pushedAt": "2026-11-15T19:45:26.343Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
     "title": "The Japanese region where “eight-testicle women” outdo men",
     "titleZh": "日本地區「八睪女」勝過男性",
@@ -1473,7 +1464,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T18:19:22.251Z"
+    "pushedAt": "2026-11-15T20:25:17.469Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/a-shortage-of-ore-is-causing-a-pricing-revolution-in-copper",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
     "image": null,
     "pushedAt": "2026-11-15T20:24:49.586Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-15/airlines-work-to-restore-flights-as-faa-probes-cause-of-stoppage",
+    "title": "Airlines Work to Restore Flights as FAA Probes Faulty Router",
+    "titleZh": "美國聯邦航空管理局 (FAA) 調查路由器故障，航空公司努力恢復航班",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/airlines-work-to-restore-flights-as-faa-probes-cause-of-stoppage",
+    "image": null,
+    "pushedAt": "2026-11-15T20:25:45.671Z"
   }
 ]
