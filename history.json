@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8",
-    "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
-    "titleZh": "由於擔心英偉達晶片限制更嚴格，中國人工智慧拋售加劇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T00:51:49.732Z"
-  },
-  {
-    "id": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f",
-    "title": "AI agents shouldn’t have to pretend to be us",
-    "titleZh": "人工智慧代理不該冒充我們",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T22:33:47.518Z"
-  },
-  {
     "id": "https://www.ft.com/content/a343d340-cdab-4c70-966e-795efd99bdbb",
     "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
     "titleZh": "軟銀在人工智慧領域押注燃氣渦輪失敗，虧損 37 億美元",
@@ -4299,7 +4281,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T14:46:21.998Z"
+    "pushedAt": "2026-11-16T17:23:29.318Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/a8f489b3-7cb1-4013-9b6b-d684a0c4fb6b?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-16T17:23:01.282Z"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
+    "title": "The Best Thanksgiving Menu Is a Southern Buffet",
+    "titleZh": "最好的感恩節菜單是南方自助餐",
+    "source": "紐約時報 New York Times",
+    "url": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09FD-BIG-MENU-promo-pclj/09FD-BIG-MENU-promo-pclj-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-16T17:23:55.919Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html",
+    "title": "The Blue Wave Lifted Democrats. But Not All Progressives Rose as High.",
+    "titleZh": "藍色浪潮鼓舞了民主黨人。但並非所有進步人士都升得那麼高。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/upshot/15up-tilt-left-sub/15up-tilt-left-sub-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-16T17:23:58.304Z"
   }
 ]
