@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-    "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-    "titleZh": "ICE 載有伊朗人的驅逐飛機折返並降落在亞利桑那州",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-iran-1-bqkj/10int-iran-1-bqkj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T13:51:35.845Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
     "title": "Paul Barril, French ‘Supergendarme’ Turned Mercenary, Has Died",
     "titleZh": "法國「超級憲兵」變身僱傭兵保羅·巴里爾去世",
@@ -5424,7 +5415,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T07:54:03.150Z"
+    "pushedAt": "2026-11-16T10:16:32.104Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
@@ -7080,7 +7071,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-denver-takeaways-topart-01-wpvh/15pol-dems-denver-takeaways-topart-01-wpvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T07:54:28.108Z"
+    "pushedAt": "2026-11-16T10:16:57.042Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T10:16:04.287Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs",
+    "title": "Fed’s Barr Says AI Agents Could Fuel Future Bank Runs",
+    "titleZh": "聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs",
+    "image": null,
+    "pushedAt": "2026-11-16T10:17:23.932Z"
   }
 ]
