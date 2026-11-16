@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
-    "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago",
-    "titleZh": "這位交易員幾個月前就對英偉達的中國糾葛發出了警報",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
-    "image": null,
-    "pushedAt": "2026-11-14T03:15:09.805Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
     "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
     "titleZh": "150 美元買一個感恩節餡餅？不起眼的甜點主食變得昂貴。",
@@ -2841,7 +2832,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/jougckm25?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-16T16:50:35.574Z"
+    "pushedAt": "2026-11-16T19:20:56.415Z"
   },
   {
     "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
@@ -4065,7 +4056,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T16:50:09.749Z"
+    "pushedAt": "2026-11-16T19:20:31.441Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage",
     "image": null,
     "pushedAt": "2026-11-16T19:20:03.490Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/ascension-expects-positive-margin-after-shrinking-hospital-count",
+    "title": "Ascension Expects Positive Margin After Shrinking Hospital Count",
+    "titleZh": "醫院數量減少後，阿森松預計將實現正利潤",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ascension-expects-positive-margin-after-shrinking-hospital-count",
+    "image": null,
+    "pushedAt": "2026-11-16T19:21:23.471Z"
   }
 ]
