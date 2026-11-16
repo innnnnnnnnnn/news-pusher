@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f",
-    "title": "Europe’s struggle to compete with China ramps up",
-    "titleZh": "歐洲與中國的競爭加劇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T14:50:56.671Z"
-  },
-  {
     "id": "https://flipso.com/p/6ch8adwiv",
     "title": "The Kekulé Problem",
     "titleZh": "凱庫勒問題",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/dod-s-feinberg-said-to-steer-firms-to-goldman-banker-video",
     "image": null,
     "pushedAt": "2026-11-16T15:33:15.232Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
+    "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
+    "titleZh": "新詹姆斯龐德又來了。最後的表現如何？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
+    "image": "https://static01.nyt.com/images/2025/08/22/arts/00cul-bond-predecessors/00cul-bond-predecessors-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T15:33:47.333Z"
   }
 ]
