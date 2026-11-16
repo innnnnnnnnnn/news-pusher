@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
-    "title": "Why 2026 Midterm Polls Underestimated Democratic Support",
-    "titleZh": "為什麼 2026 年中期民調低估了民主黨的支持率",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-05-poll-error-index/2026-11-05-poll-error-index-mediumSquareAt3X-v10.png",
-    "pushedAt": "2026-11-13T01:11:40.858Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
     "title": "The Ultrafast Fall of Jensen Huang",
     "titleZh": "黃仁勳的超快墜落",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/switzerland-s-economy-unexpectedly-grows-thanks-to-industry",
     "image": null,
     "pushedAt": "2026-11-16T08:06:20.579Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+    "title": "A Key Paris Agreement Goal Is Dead. What Now?",
+    "titleZh": "《巴黎协定》的一个关键目标已经落空。現在怎麼辦？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T08:06:49.949Z"
   }
 ]
