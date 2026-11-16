@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2",
-    "title": "Jensen jeopardy will disrupt the AI industry",
-    "titleZh": "詹森的危險將擾亂人工智慧產業",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T04:22:24.034Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-shake-up-is-a-buying-opportunity-analyst-video",
     "title": "Nvidia Shake-Up is a Buying Opportunity: Analyst",
     "titleZh": "分析師：英偉達的重組是個買進機會",
@@ -8034,7 +8025,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/386813f4-2bf6-4fbe-9ab7-5f0c57f8e593",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe949fc7a-644a-4af1-8ab3-22da2fd63695.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-15T21:40:10.564Z"
+    "pushedAt": "2026-11-16T00:02:14.301Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-complicates-trump-s-china-trip-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feea97105-5969-4dc5-b6a4-0dc67d5229f0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-16T00:01:48.167Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-15/japan-s-economy-contracts-as-bad-weather-weighs-on-consumption",
+    "title": "Japan’s Economy Shrinks as Bad Weather Weighs on Consumption",
+    "titleZh": "惡劣天氣影響消費，日本經濟萎縮",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/japan-s-economy-contracts-as-bad-weather-weighs-on-consumption",
+    "image": null,
+    "pushedAt": "2026-11-16T00:02:39.784Z"
   }
 ]
