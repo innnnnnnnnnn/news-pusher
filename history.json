@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-can-weather-huang-s-departure-ross-gerber-says",
-    "title": "Nvidia Can Weather Huang's Departure, Ross Gerber Says",
-    "titleZh": "羅斯·格伯表示，英偉達可以承受黃仁勳的離開",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-can-weather-huang-s-departure-ross-gerber-says",
-    "image": null,
-    "pushedAt": "2026-11-13T01:58:38.887Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia",
     "title": "Cerebras Shares Jump Following Strong Quarterly Sales Outlook",
     "titleZh": "Cerebras 為挑戰 Nvidia 提供了堅實的前景",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/baidu-posts-sixth-straight-sales-drop-after-ai-drag-persists",
     "image": null,
     "pushedAt": "2026-11-16T09:18:26.020Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+    "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+    "titleZh": "被指控試圖為俄羅斯從事間諜活動的軍官是阿富汗戰爭老兵",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-soldier-russia-mfbj/12int-soldier-russia-mfbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T09:18:54.700Z"
   }
 ]
