@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f71ea01e-065d-4b1d-b6a5-9d8e336bcbeb",
-    "title": "Objects of Desire by Celia Paul — grief, art and the beauty of Venice",
-    "titleZh": "保羅 (Celia Paul) 的《慾望之物》－悲傷、藝術與威尼斯之美",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f71ea01e-065d-4b1d-b6a5-9d8e336bcbeb",
-    "image": null,
-    "pushedAt": "2026-11-13T22:09:20.016Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
     "title": "Teaching kids to think for themselves in the age of AI",
     "titleZh": "教導孩子在人工智慧時代獨立思考",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T21:28:35.889Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
+    "title": "Anthropic Fervor, Vanguard's 'Hot Sauce,' \"ETIFs\" Emerge",
+    "titleZh": "人類熱情、先鋒集團的「辣醬」、「ETIF」出現",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-16T21:29:04.917Z"
   }
 ]
