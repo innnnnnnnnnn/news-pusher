@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/y42mtxwzj",
-    "title": "The Reconstruction of Torn Documents",
-    "titleZh": "破損文件的重建",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/y42mtxwzj?ref=rss",
-    "image": "https://cdn.flipso.com/p/y42mtxwzj_square.jpg",
-    "pushedAt": "2026-11-14T22:23:39.910Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
     "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
     "titleZh": "川普敦促英偉達的黃仁勳為自己的工作奮鬥",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/c2d24c06-85df-4550-8cd9-9ec5774d3d1c?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-16T12:00:21.895Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/us-ties-with-southeast-asia-in-spotlight-with-trump-stop-before-xi-meet",
+    "title": "US Ties With Southeast Asia in Spotlight With Trump Stop Before Xi Meet",
+    "titleZh": "川普在習近平會見前停止與東南亞的關係成為焦點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/us-ties-with-southeast-asia-in-spotlight-with-trump-stop-before-xi-meet",
+    "image": null,
+    "pushedAt": "2026-11-16T12:00:51.291Z"
   }
 ]
