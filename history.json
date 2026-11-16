@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
-    "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-    "titleZh": "川普敦促英偉達的黃仁勳為自己的工作奮鬥",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:17:22.244Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/yuan-may-double-global-payment-share-as-usage-climbs-hsbc-says",
     "title": "Yuan May Double Global Payment Share as Usage Climbs, HSBC Says",
     "titleZh": "匯豐銀行表示，隨著使用量的增加，人民幣的全球支付份額可能會翻倍",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/us-ties-with-southeast-asia-in-spotlight-with-trump-stop-before-xi-meet",
     "image": null,
     "pushedAt": "2026-11-16T12:00:51.291Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
+    "title": "Canadian Natural to Buy Advantage Energy Amid Oil Price Boom",
+    "titleZh": "加拿大天然能源公司在油價上漲之際購買優勢能源",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
+    "image": null,
+    "pushedAt": "2026-11-16T12:01:21.678Z"
   }
 ]
