@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/german-lawmakers-sign-off-on-higher-borrowing-spending-for-2027",
-    "title": "German Lawmakers Sign Off on Higher Borrowing, Spending for 2027",
-    "titleZh": "德國立法者批准 2027 年提高借貸和支出",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/german-lawmakers-sign-off-on-higher-borrowing-spending-for-2027",
-    "image": null,
-    "pushedAt": "2026-11-14T11:54:15.860Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/paytm-wins-india-central-bank-s-conditional-nod-to-revive-wallet",
     "title": "Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet",
     "titleZh": "Paytm 贏得印度央行有條件批准重振錢包",
@@ -2076,7 +2067,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-chiclayo-wvlk/13int-pope-chiclayo-wvlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:01:26.197Z"
+    "pushedAt": "2026-11-16T20:32:47.326Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
@@ -5910,7 +5901,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
     "image": null,
-    "pushedAt": "2026-11-16T18:01:52.903Z"
+    "pushedAt": "2026-11-16T20:33:11.986Z"
   },
   {
     "id": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html",
     "image": "https://static01.nyt.com/images/2026/11/13/well/WELL-PREGNANCY-MEASLES3/WELL-PREGNANCY-MEASLES3-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T20:32:19.202Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
+    "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
+    "titleZh": "奧地利可能剝奪前外交部長卡琳·克奈塞爾的公民身份",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-austria-1-wzpc/16int-austria-1-wzpc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T20:33:38.545Z"
   }
 ]
