@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06",
-    "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
-    "titleZh": "美國商務部延後將Megaspeed列入貿易黑名單",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T05:01:22.572Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/higher-cost-of-capital-will-impact-credit-gibbons-video",
-    "title": "Higher Cost of Capital Will Impact Credit: Gibbons",
-    "titleZh": "更高的資本成本將影響信貸：吉本斯",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/higher-cost-of-capital-will-impact-credit-gibbons-video",
-    "image": null,
-    "pushedAt": "2026-11-12T21:49:28.953Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-10/everybody-will-be-hacked-at-some-point-ledger-ceo-video",
-    "title": "Everybody Will Be Hacked At Some Point: Ledger CEO",
-    "titleZh": "Ledger 執行長：每個人都會在某個時候被駭客攻擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/everybody-will-be-hacked-at-some-point-ledger-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-12T21:53:28.165Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/wh-inaction-on-huang-reveals-lack-of-guardrails-dexter-video",
-    "title": "Govt. Action Around Huang Affair Reveals Lack of Guardrails, Says Rep. Dexter",
-    "titleZh": "政府。眾議員德克斯特表示，圍繞黃事件的行動顯示缺乏護欄",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/wh-inaction-on-huang-reveals-lack-of-guardrails-dexter-video",
-    "image": null,
-    "pushedAt": "2026-11-12T19:23:05.148Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/fed-drops-october-2027-fomc-rate-meeting-video",
-    "title": "Fed Drops October 2027 FOMC Rate Meeting",
-    "titleZh": "聯準會放棄 2027 年 10 月 FOMC 利率會議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-drops-october-2027-fomc-rate-meeting-video",
-    "image": null,
-    "pushedAt": "2026-11-12T21:54:44.104Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/acciona-s-1-billion-mexico-infrastructure-deal-seen-threatened",
     "title": "Acciona’s $1 Billion Mexico Infrastructure Deal Seen at Risk",
     "titleZh": "Acciona 10 億美元的墨西哥基礎設施交易面臨威脅",
@@ -8998,5 +8953,50 @@
     "url": "https://flipso.com/p/t5lh7g4zl?ref=rss",
     "image": "https://cdn.flipso.com/p/t5lh7g4zl_square.jpg",
     "pushedAt": "2026-11-16T05:04:30.541Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+    "title": "American workers face a surge in health costs",
+    "titleZh": "美國工人面臨醫療費用激增",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+    "image": null,
+    "pushedAt": "2026-11-16T05:04:59.699Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+    "title": "A Year On, Canada’s Mark Carney Returns to China a Political Star",
+    "titleZh": "一年後，加拿大的馬克·卡尼 (Mark Carney) 以政治明星的身分重返中國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T05:05:08.227Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+    "title": "Searching for the Last Stoats of Waiheke Island",
+    "titleZh": "尋找懷赫科島最後的白鼬",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-nz-stoats-top-clpm/00int-nz-stoats-top-clpm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T05:05:14.282Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+    "title": "They Defeated a Strongman. But Can They Run a Country?",
+    "titleZh": "他們擊敗了強人。但他們能管理一個國家嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-serbia-students-01-hlvg/00int-serbia-students-01-hlvg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T05:05:18.349Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+    "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "titleZh": "聯準會不會在 2027 年 10 月會議上舉行政策投票",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-fed-meetings-pmbj/12dc-fed-meetings-pmbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T05:05:20.600Z"
   }
 ]
