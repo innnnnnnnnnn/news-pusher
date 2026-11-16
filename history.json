@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/well/move/important-muscles-longevity-advice.html",
-    "title": "5 Muscles to Strengthen as You Age",
-    "titleZh": "隨著年齡的增長，需要增強的 5 塊肌肉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/well/move/important-muscles-longevity-advice.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/well/13WELL-TOP-AGING-MUSCLES-image/13WELL-TOP-AGING-MUSCLES-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T21:23:12.982Z"
-  },
-  {
     "id": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d",
     "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
     "titleZh": "Bessent 指責 Lutnick 商務部未能將 Megaspeed 列入黑名單",
@@ -6836,8 +6827,8 @@
     "titleZh": "中期選舉削弱川普​​後，歐盟重新推動全球人工智慧規則",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8accfa1-87e1-4ca6-842b-55ca907d130a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-16T20:56:23.891Z"
+    "image": null,
+    "pushedAt": "2026-11-16T23:09:50.049Z"
   },
   {
     "id": "https://www.ft.com/content/d7966898-924a-4729-9726-2cc64125ab8d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/bilt-ceo-on-the-launch-of-neighborhood-os-video",
     "image": null,
     "pushedAt": "2026-11-16T23:09:23.587Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+    "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models",
+    "titleZh": "中國頂級人工智慧公司限制最新模型的網路功能",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+    "image": null,
+    "pushedAt": "2026-11-16T23:10:15.385Z"
   }
 ]
