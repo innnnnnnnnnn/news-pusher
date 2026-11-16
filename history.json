@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
-    "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
-    "titleZh": "加拿大當局殺死了四隻參與徒步旅行者致命襲擊的熊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-bear/10xp-bear-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T14:32:00.917Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing",
     "title": "China Chipmaker SigmaStar Said to Plan $300 Million HK Listing",
     "titleZh": "據稱中國晶片製造商星宸科技計劃3億美元在香港上市",
@@ -6648,7 +6639,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
     "image": null,
-    "pushedAt": "2026-11-16T10:38:09.576Z"
+    "pushedAt": "2026-11-16T13:00:45.035Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
@@ -6657,7 +6648,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
     "image": null,
-    "pushedAt": "2026-11-16T10:38:34.323Z"
+    "pushedAt": "2026-11-16T13:01:36.818Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/15/anthropics-ipo-marks-a-new-phase-in-the-rivalry-among-ai-labs",
@@ -7390,12 +7381,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
-    "title": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
+    "title": "Wheat Falls on Optimism About Black Sea Talks, Argentine Supply",
     "titleZh": "三邊會談將解放黑海的樂觀情緒導緻小麥下跌",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
     "image": null,
-    "pushedAt": "2026-11-16T06:26:08.853Z"
+    "pushedAt": "2026-11-16T13:01:12.076Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/record-low-saving-rate-threatens-south-africa-growth-goal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas",
     "image": null,
     "pushedAt": "2026-11-16T13:00:16.452Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html",
+    "title": "Grammy Nominations 2027: See the Full List",
+    "titleZh": "2027 年格萊美提名：查看完整列表",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-grammy-list-2-gkcb/16cul-grammy-list-2-gkcb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T13:02:05.331Z"
   }
 ]
