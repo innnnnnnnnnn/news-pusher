@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/jensen-huang-s-last-hours-as-nvidia-ceo-video",
-    "title": "Jensen Huang’s Last Hours as Nvidia CEO",
-    "titleZh": "黃仁勳作為 Nvidia 首席執行官的最後幾個小時",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/jensen-huang-s-last-hours-as-nvidia-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-13T13:42:48.703Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/disney-pivots-to-embrace-ai-from-film-to-parks",
     "title": "Disney Pivots to Embrace AI From Film to Parks",
     "titleZh": "迪士尼重點擁抱人工智慧，從電影到公園",
@@ -924,7 +915,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:50:27.511Z"
+    "pushedAt": "2026-11-16T23:04:03.040Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
@@ -2544,7 +2535,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/poobeg83s?ref=rss",
     "image": "https://cdn.flipso.com/p/poobeg83s_square.jpg",
-    "pushedAt": "2026-11-16T20:49:10.826Z"
+    "pushedAt": "2026-11-16T23:03:15.305Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
@@ -3030,7 +3021,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:50:52.789Z"
+    "pushedAt": "2026-11-16T23:04:27.432Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
@@ -5451,7 +5442,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:50:02.478Z"
+    "pushedAt": "2026-11-16T23:03:38.987Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
@@ -7710,7 +7701,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
     "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:51:17.810Z"
+    "pushedAt": "2026-11-16T23:04:50.905Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/odd-lots-the-trilemma-behind-us-china-ai-arms-race-video",
@@ -8664,7 +8655,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-theworld-climate-01-hkjb-promo/17int-theworld-climate-01-hkjb-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:48:43.925Z"
+    "pushedAt": "2026-11-16T23:02:50.745Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-creating-luxury-home-buyers-serhant-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
     "image": "https://static01.nyt.com/images/2026/11/16/well/16WELL-ALZHEIMERS-LIGHT-SOUND1/16WELL-ALZHEIMERS-LIGHT-SOUND1-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T23:02:23.057Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/ex-robinhood-software-engineer-pleads-guilty-to-illegal-trading",
+    "title": "Ex-Robinhood Software Engineer Pleads Guilty to Illegal Trading",
+    "titleZh": "前 Robinhood 軟體工程師承認非法交易罪",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ex-robinhood-software-engineer-pleads-guilty-to-illegal-trading",
+    "image": null,
+    "pushedAt": "2026-11-16T23:05:16.275Z"
   }
 ]
