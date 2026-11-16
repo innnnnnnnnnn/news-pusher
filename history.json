@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
-    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
-    "titleZh": "DeepX 斥資 1 億美元購買採用三星技術的新型 AI 晶片",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
-    "image": null,
-    "pushedAt": "2026-11-13T12:01:26.547Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
     "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
     "titleZh": "美國與以色列的關係破裂。以下是 Eisenkot 解決此問題的方法。",
@@ -1761,7 +1752,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T16:29:22.781Z"
+    "pushedAt": "2026-11-16T18:59:26.630Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
@@ -3579,7 +3570,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "image": null,
-    "pushedAt": "2026-11-16T16:29:49.968Z"
+    "pushedAt": "2026-11-16T18:59:51.066Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-14/how-global-services-may-be-the-new-protectionist-target-new-economy",
@@ -5064,7 +5055,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
     "image": null,
-    "pushedAt": "2026-11-16T04:14:39.269Z"
+    "pushedAt": "2026-11-16T18:59:01.542Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video",
     "image": null,
     "pushedAt": "2026-11-16T18:58:30.220Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video",
+    "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
+    "titleZh": "英偉達的影響為中美人工智慧競賽增添了新的緊張局勢",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video",
+    "image": null,
+    "pushedAt": "2026-11-16T19:00:18.999Z"
   }
 ]
