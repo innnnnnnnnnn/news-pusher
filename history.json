@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
-    "title": "Microsoft Races to Fix Outlook in One of Its Longest Outages",
-    "titleZh": "微軟表示正在努力修復 Outlook、Copilot 中斷問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
-    "image": null,
-    "pushedAt": "2026-11-13T14:47:36.292Z"
-  },
-  {
     "id": "https://flipso.com/p/kklf510pd",
     "title": "Uranium cubes reveal why the German nuclear project failed",
     "titleZh": "鈾立方揭示了德國核子計畫失敗的原因",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
     "image": null,
     "pushedAt": "2026-11-16T05:53:02.090Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+    "title": "For boomers, economic boom times are over",
+    "titleZh": "對於嬰兒潮世代來說，經濟繁榮時期已經結束",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+    "image": null,
+    "pushedAt": "2026-11-16T05:53:29.903Z"
   }
 ]
