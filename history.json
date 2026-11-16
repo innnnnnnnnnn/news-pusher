@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
-    "title": "How the Deadly Brooklyn Building Collapse Unfolded",
-    "titleZh": "致命的布魯克林大樓倒塌是如何展開的",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-quicktock-bqmg/12met-building-quicktock-bqmg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T17:09:40.232Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
     "title": "Black Turnout Rose in Georgia, Powered by Younger Voters",
     "titleZh": "在年輕選民的推動下，喬治亞州黑人投票率上升",
@@ -3129,7 +3120,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-16T12:19:45.173Z"
+    "pushedAt": "2026-11-16T14:44:36.104Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
@@ -6621,7 +6612,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/features/2026-11-15/futuristic-shenzhen-shows-trump-the-difficulty-of-stopping-xi-jinping-s-china",
     "image": null,
-    "pushedAt": "2026-11-16T12:18:28.426Z"
+    "pushedAt": "2026-11-16T14:43:46.127Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/pkg-engle-shenzhen-tech-entrepreneurs",
@@ -6639,7 +6630,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
     "image": null,
-    "pushedAt": "2026-11-16T12:18:53.776Z"
+    "pushedAt": "2026-11-16T14:44:11.228Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
@@ -7494,7 +7485,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T12:20:36.156Z"
+    "pushedAt": "2026-11-16T14:45:25.944Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
@@ -8011,12 +8002,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-    "title": "Pope Leo, Weeks After Surgery, Holds Up Well on South America Trip",
+    "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
     "titleZh": "手術幾週後，教宗利奧在南美洲之行中表現良好",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:20:10.355Z"
+    "pushedAt": "2026-11-16T14:45:00.948Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-airlines-race-to-recover-from-shutdown-video",
     "image": null,
     "pushedAt": "2026-11-16T14:43:17.421Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/bofa-s-moynihan-on-ipo-pipeline-ai-consumer-strength-video",
+    "title": "Bank of America CEO Moynihan on IPO Pipeline, AI, Consumer Strength",
+    "titleZh": "美國銀行執行長莫伊尼漢談 IPO 管道、人工智慧、消費者實力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/bofa-s-moynihan-on-ipo-pipeline-ai-consumer-strength-video",
+    "image": null,
+    "pushedAt": "2026-11-16T14:45:53.596Z"
   }
 ]
