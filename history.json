@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/35e9f313-79c8-45d1-a73c-cf681244456a",
-    "title": "‘Don’t be boring’ — Lauren Santo Domingo talks taste",
-    "titleZh": "「不要無聊」——勞倫·桑托·多明哥談論品味",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/35e9f313-79c8-45d1-a73c-cf681244456a",
-    "image": null,
-    "pushedAt": "2026-11-13T12:16:24.803Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2b6fa5ce-3c14-4fe1-8128-e3f9520e1be5",
-    "title": "Swiss defence groups caught by law designed to stop mercenaries",
-    "titleZh": "瑞士國防組織因阻止僱傭軍而受到法律制裁",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2b6fa5ce-3c14-4fe1-8128-e3f9520e1be5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T14:42:06.401Z"
-  },
-  {
     "id": "https://www.ft.com/content/a7e0f7f2-d98c-4888-b211-00c1383d1b8c",
     "title": "Man City to be hit with Premier League sanctions next year if appeal fails",
     "titleZh": "如果上訴失敗，曼城明年將受到英超制裁",
@@ -8088,7 +8070,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
     "image": null,
-    "pushedAt": "2026-11-16T12:35:44.980Z"
+    "pushedAt": "2026-11-16T15:08:35.722Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/16/movies/james-bond.html",
     "image": "https://static01.nyt.com/images/2026/11/16/world/00cul-james-bond-hfo/00cul-james-bond-hfo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T15:08:07.306Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-dispara-su-deuda-ante-creciente-deficit-presupuestario",
+    "title": "Colombia dispara su deuda ante creciente déficit presupuestario",
+    "titleZh": "哥倫比亞 dispara su deuda ante creciente deficit presupuestario",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-dispara-su-deuda-ante-creciente-deficit-presupuestario",
+    "image": null,
+    "pushedAt": "2026-11-16T15:09:01.586Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/tiff-macklem-to-leave-as-bank-of-canada-governor-starting-succession-race",
+    "title": "Tiff Macklem to Leave as Bank of Canada Governor, Starting Succession Race",
+    "titleZh": "麥克勒姆 (Tiff Macklem) 辭去加拿大央行行長職務，開始繼任競賽",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/tiff-macklem-to-leave-as-bank-of-canada-governor-starting-succession-race",
+    "image": null,
+    "pushedAt": "2026-11-16T15:09:07.295Z"
   }
 ]
