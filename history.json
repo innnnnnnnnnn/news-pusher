@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/euro-zone-shows-solid-growth-as-ecb-weighs-another-rate-hike",
-    "title": "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
-    "titleZh": "歐洲央行考慮再次升息，歐元區呈現穩健成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/euro-zone-shows-solid-growth-as-ecb-weighs-another-rate-hike",
-    "image": null,
-    "pushedAt": "2026-11-14T08:19:16.382Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
     "title": "Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations",
     "titleZh": "高盛預計標普 500 指數將因超大規模估值便宜而上漲 14%",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes",
     "image": null,
     "pushedAt": "2026-11-16T19:37:23.707Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+    "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+    "titleZh": "歐洲同意組建一個團隊代表其與俄羅斯進行談判",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T19:37:53.111Z"
   }
 ]
