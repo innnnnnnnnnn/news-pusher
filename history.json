@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html",
-    "title": "Farewell to Stanley Zabar, the ‘Mayor’ of the Upper West Side",
-    "titleZh": "告別上西區「市長」史丹利·扎巴爾",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-stanleyzabar-01-wmzb/12met-stanleyzabar-01-wmzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:37:03.156Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/oil-supertanker-squeeze-is-crimping-us-crude-exports-texas-port-ceo-says",
-    "title": "Oil Supertanker Squeeze Is Crimping US Crude Exports, Texas Port CEO Says",
-    "titleZh": "德州港執行長表示，超級油輪的擠壓正在限制美國原油出口",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-supertanker-squeeze-is-crimping-us-crude-exports-texas-port-ceo-says",
-    "image": null,
-    "pushedAt": "2026-11-13T00:05:22.316Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
-    "title": "The Yen Is Becoming Too Hard for Some Investors to Trade",
-    "titleZh": "日圓對一些投資者來說變得太難交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
-    "image": null,
-    "pushedAt": "2026-11-13T00:07:05.080Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade",
-    "title": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
-    "titleZh": "華爾街吹口哨超越英偉達風險，押注不穩定的人工智慧貿易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-13T02:43:55.490Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/cisco-raises-forecast-as-ai-fuels-networking-demand-video",
-    "title": "Cisco Raises Forecast as AI Fuels Networking Demand",
-    "titleZh": "人工智慧推動網路需求，思科上調預測",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/cisco-raises-forecast-as-ai-fuels-networking-demand-video",
-    "image": null,
-    "pushedAt": "2026-11-13T02:51:19.017Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
     "title": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit",
     "titleZh": "在黃仁勳退出之前，英偉達面臨加強人工智慧支援的壓力",
@@ -4110,7 +4065,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Argentina-fugitive-fzvg/13int-Argentina-fugitive-fzvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T07:45:57.386Z"
+    "pushedAt": "2026-11-16T10:02:55.758Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
@@ -8998,5 +8953,50 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
     "image": null,
     "pushedAt": "2026-11-16T10:02:28.040Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
+    "title": "A Bull Market, Fueled by Pikachu, Charizard and Nostalgia",
+    "titleZh": "皮卡丘、噴火龍和懷舊推動的牛市",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
+    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-pokemon-02/00xp-pokemon-02-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:03:23.896Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+    "title": "Billions in Insurance Money Is Being Bet on AI Debt, and Analyst Are Nervous",
+    "titleZh": "數十億保險資金押注人工智慧債務，分析師感到緊張",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-ai-insurance-02-cgtq/11biz-ai-insurance-02-cgtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:03:28.761Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html",
+    "title": "Trump’s Plan for A.I. Supremacy Fuels Resistance in the Philippines",
+    "titleZh": "川普的人工智慧計畫霸權助長菲律賓的抵抗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00biz-paxsilica-philippines-01-cflz/00biz-paxsilica-philippines-01-cflz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:03:34.086Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/insurance-regulators-wall-street.html",
+    "title": "Wall Street Moved Into Insurance. Can State Regulators Keep Up?",
+    "titleZh": "華爾街進軍保險業。國家監管機構能跟上嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/insurance-regulators-wall-street.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-Insurance-regulators-01-lvkt/10biz-Insurance-regulators-01-lvkt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:03:38.523Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
+    "title": "A Flurry of Thanksgiving Travel Deals for Vacation Shoppers",
+    "titleZh": "為度假購物者提供一系列感恩節旅遊優惠",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
+    "image": null,
+    "pushedAt": "2026-11-16T10:03:42.111Z"
   }
 ]
