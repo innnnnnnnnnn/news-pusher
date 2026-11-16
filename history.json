@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-10b-anthropic-ipo-pledge-in-focus-as-ceo-exits-video",
-    "title": "Nvidia’s $10B Anthropic IPO Pledge in Focus With CEO Exit",
-    "titleZh": "英偉達 100 億美元 Anthropic IPO 承諾因 CEO 退出而成為焦點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-10b-anthropic-ipo-pledge-in-focus-as-ceo-exits-video",
-    "image": null,
-    "pushedAt": "2026-11-12T22:29:08.097Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
     "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
     "titleZh": "豐田計劃在美國銷售 Kei 皮卡",
@@ -8493,7 +8484,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/69862257-85c7-4dce-b246-a726df5ff0cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T05:02:11.842Z"
+    "pushedAt": "2026-11-16T07:05:26.470Z"
   },
   {
     "id": "https://www.ft.com/content/3b6cccb1-cac2-4e64-a2c2-3b3801f9a5fb",
@@ -8502,7 +8493,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3b6cccb1-cac2-4e64-a2c2-3b3801f9a5fb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T05:02:16.967Z"
+    "pushedAt": "2026-11-16T07:05:51.426Z"
   },
   {
     "id": "https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc",
@@ -8511,7 +8502,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T05:02:21.038Z"
+    "pushedAt": "2026-11-16T07:06:16.686Z"
   },
   {
     "id": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
@@ -8519,8 +8510,8 @@
     "titleZh": "黃仁勳的倒台打擊了「開放」模型，推動了 Anthropic 和 OpenAI",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T05:02:24.851Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0e9d4a8-f392-47fa-baba-66177836df3a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-16T07:06:41.757Z"
   },
   {
     "id": "https://www.ft.com/content/f69f1f6b-cdbe-40d6-b76d-fb712ca58b51",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/philippines-looks-to-allies-as-china-tensions-deepen-video",
     "image": null,
     "pushedAt": "2026-11-16T07:02:26.418Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-fallout-anthropic-listing-squeeze-asian-chip-stocks-anew",
+    "title": "Nvidia Fallout, Anthropic Listing Squeeze Asian Chip Stocks Anew",
+    "titleZh": "英偉達的影響和 Anthropic 的上市再次擠壓亞洲晶片股",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-fallout-anthropic-listing-squeeze-asian-chip-stocks-anew",
+    "image": null,
+    "pushedAt": "2026-11-16T07:07:07.715Z"
   }
 ]
