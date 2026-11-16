@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
-    "title": "Hasan Piker Wants to Win",
-    "titleZh": "哈桑·派克想要獲勝",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/opinion/13eks-piker-image01/13eks-piker-image01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T22:32:56.417Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-    "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-    "titleZh": "歐洲爭論誰將代表它與俄羅斯進行談判",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:26:58.234Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/euro-zone-shows-solid-growth-as-ecb-weighs-another-rate-hike",
     "title": "Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike",
     "titleZh": "歐洲央行考慮再次升息，歐元區呈現穩健成長",
@@ -3669,7 +3651,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-ballads-kgqm/14asia-eurovision-ballads-kgqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:07:50.986Z"
+    "pushedAt": "2026-11-16T19:36:01.186Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
@@ -7656,7 +7638,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation",
     "image": null,
-    "pushedAt": "2026-11-16T17:08:15.950Z"
+    "pushedAt": "2026-11-16T19:36:25.694Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
@@ -7665,7 +7647,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:08:41.740Z"
+    "pushedAt": "2026-11-16T19:36:50.420Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/retail-investors-trying-to-buy-chip-dip-mayuranki-de-video",
     "image": null,
     "pushedAt": "2026-11-16T19:35:32.934Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
+    "title": "Barack Obama’s acolytes are coming to power",
+    "titleZh": "巴拉克·歐巴馬的追隨者即將上台",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
+    "image": null,
+    "pushedAt": "2026-11-16T19:37:18.026Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes",
+    "title": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
+    "titleZh": "聯準會哈馬克重申傾向小幅增量升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes",
+    "image": null,
+    "pushedAt": "2026-11-16T19:37:23.707Z"
   }
 ]
