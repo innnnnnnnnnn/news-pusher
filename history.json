@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/90786eca-a721-4302-8969-6e71e4706d05",
-    "title": "Lagos literary powerhouse Lola Shoneyin: ‘Nigerianness is bold and fearless with a sense of mischief’",
-    "titleZh": "拉各斯文學巨擘 Lola Shoneyin：“尼日利亞人大膽無畏，帶著惡作劇的感覺”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/90786eca-a721-4302-8969-6e71e4706d05?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T12:15:59.980Z"
-  },
-  {
     "id": "https://www.ft.com/content/35e9f313-79c8-45d1-a73c-cf681244456a",
     "title": "‘Don’t be boring’ — Lauren Santo Domingo talks taste",
     "titleZh": "「不要無聊」——勞倫·桑托·多明哥談論品味",
@@ -3669,7 +3660,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-16T12:33:13.027Z"
+    "pushedAt": "2026-11-16T15:06:22.156Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -6963,7 +6954,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T12:34:04.276Z"
+    "pushedAt": "2026-11-16T15:07:14.215Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
@@ -7093,12 +7084,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/the-asia-trade-11-16-2026-video",
-    "title": "Anthropic IPO, Nvidia Fallout in Focus; World Leaders Gather in Asia",
+    "title": "The Asia Trade (11/16/2026)",
     "titleZh": "Anthropic IPO，Nvidia 的影響成為焦點；世界領導人齊聚亞洲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-asia-trade-11-16-2026-video",
     "image": null,
-    "pushedAt": "2026-11-16T06:59:29.335Z"
+    "pushedAt": "2026-11-16T15:05:30.774Z"
   },
   {
     "id": "https://www.ft.com/content/69862257-85c7-4dce-b246-a726df5ff0cb",
@@ -8079,7 +8070,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
     "image": null,
-    "pushedAt": "2026-11-16T12:33:39.125Z"
+    "pushedAt": "2026-11-16T15:06:48.709Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
@@ -8088,7 +8079,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
     "image": null,
-    "pushedAt": "2026-11-16T12:35:19.982Z"
+    "pushedAt": "2026-11-16T15:07:39.467Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
@@ -8583,7 +8574,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3c355db7-8b89-4727-8b44-0acd67a7e657?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T12:32:44.850Z"
+    "pushedAt": "2026-11-16T15:05:56.006Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/china-s-steel-mills-brace-for-a-bitter-winter",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d08ee4e3-210d-45d2-92be-2b98a8b150b6?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-16T15:04:33.597Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/movies/james-bond.html",
+    "title": "Robert Pattinson Named as the Next James Bond",
+    "titleZh": "羅伯派汀森被任命為下一個詹姆斯龐德",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/movies/james-bond.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/world/00cul-james-bond-hfo/00cul-james-bond-hfo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T15:08:07.306Z"
   }
 ]
