@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
-    "title": "Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations",
-    "titleZh": "高盛預計標普 500 指數將因超大規模估值便宜而上漲 14%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations",
-    "image": null,
-    "pushedAt": "2026-11-13T12:52:13.886Z"
-  },
-  {
     "id": "https://www.ft.com/content/b2286012-26ec-4440-834e-580288f20ad0",
     "title": "How fat are AI trading bots’ fingers?",
     "titleZh": "人工智慧交易機器人的手指有多粗？",
@@ -4272,7 +4263,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/h4unluxwb?ref=rss",
     "image": "https://cdn.flipso.com/p/h4unluxwb_square.jpg",
-    "pushedAt": "2026-11-16T17:09:40.009Z"
+    "pushedAt": "2026-11-16T19:38:45.322Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
@@ -4506,7 +4497,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/00biz-tech-fragile-gclj/00biz-tech-fragile-gclj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:10:31.415Z"
+    "pushedAt": "2026-11-16T19:39:34.643Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
@@ -4515,7 +4506,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:10:56.449Z"
+    "pushedAt": "2026-11-16T19:39:59.038Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/a-human-reads-the-anthropic-ipo-filing.html",
@@ -4803,7 +4794,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
     "image": null,
-    "pushedAt": "2026-11-16T17:10:05.110Z"
+    "pushedAt": "2026-11-16T19:39:09.926Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
@@ -8466,7 +8457,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-warsh-says-staff-are-gaming-out-contingencies-on-ai-impact",
     "image": null,
-    "pushedAt": "2026-11-16T17:09:09.288Z"
+    "pushedAt": "2026-11-16T19:38:20.696Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
@@ -8475,7 +8466,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
     "image": null,
-    "pushedAt": "2026-11-16T17:11:23.641Z"
+    "pushedAt": "2026-11-16T19:41:22.594Z"
   },
   {
     "id": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T19:37:53.111Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+    "title": "America does not produce world-beating statistics. Who does?",
+    "titleZh": "美國並沒有產生世界一流的統計數據。誰做的？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+    "image": null,
+    "pushedAt": "2026-11-16T19:41:48.166Z"
   }
 ]
