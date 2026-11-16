@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-    "title": "One Man’s Quest to Create the Perfect Whiskey Glass",
-    "titleZh": "一個人對打造完美威士忌酒杯的追求",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-    "image": null,
-    "pushedAt": "2026-11-16T15:41:19.317Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
     "title": "Hasan Piker Wants to Win",
     "titleZh": "哈桑·派克想要獲勝",
@@ -2130,7 +2121,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:07:00.702Z"
+    "pushedAt": "2026-11-16T19:34:40.368Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
@@ -2148,7 +2139,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
     "image": null,
-    "pushedAt": "2026-11-16T17:07:25.323Z"
+    "pushedAt": "2026-11-16T19:35:04.994Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/skilled-immigration-lowers-pay-for-college-educated-us-workers-study-finds",
     "image": null,
     "pushedAt": "2026-11-16T19:34:12.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/retail-investors-trying-to-buy-chip-dip-mayuranki-de-video",
+    "title": "Retail Investors Trying To Buy Chip Dip: Mayuranki De",
+    "titleZh": "散戶投資者試圖買入籌碼：Mayuranki De",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/retail-investors-trying-to-buy-chip-dip-mayuranki-de-video",
+    "image": null,
+    "pushedAt": "2026-11-16T19:35:32.934Z"
   }
 ]
