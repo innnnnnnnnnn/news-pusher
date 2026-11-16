@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-    "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-    "titleZh": "Nvidia 醜聞引發大量人工智慧生成的表情包",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T08:45:20.283Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/citadel-securities-hires-zimmerman-from-diameter-for-ig-trading",
-    "title": "Citadel Securities Taps Diameter’s Zimmerman for IG Trading",
-    "titleZh": "Citadel 證券從 Diameter 聘請 Zimmerman 負責 IG 交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/citadel-securities-hires-zimmerman-from-diameter-for-ig-trading",
-    "image": null,
-    "pushedAt": "2026-11-13T19:44:17.089Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/fluxo-veneno-no-brasil-como-agrotoxicos-entram-no-pais-video",
     "title": "O fluxo de veneno no Brasil: Como agrotóxicos entram no país",
     "titleZh": "O Fluxo de veneno no Brasil：Como agrotóxicos entram no país",
@@ -7719,7 +7701,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase",
     "image": null,
-    "pushedAt": "2026-11-16T07:51:57.522Z"
+    "pushedAt": "2026-11-16T10:11:16.585Z"
   },
   {
     "id": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b",
@@ -7881,7 +7863,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21abe0e2-c091-4387-998e-67a6862c1495.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-16T07:49:48.255Z"
+    "pushedAt": "2026-11-16T10:10:26.656Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
@@ -7890,7 +7872,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T07:50:12.936Z"
+    "pushedAt": "2026-11-16T10:10:51.560Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
     "image": null,
     "pushedAt": "2026-11-16T10:09:58.323Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
+    "title": "The Financial Bubble Cycles Are Getting Worse",
+    "titleZh": "金融泡沫週期變得更糟",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
+    "image": null,
+    "pushedAt": "2026-11-16T10:11:44.026Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
+    "title": "Affordability or Antifascism Is a False Choice",
+    "titleZh": "負擔能力或反法西斯主義是錯誤的選擇",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
+    "image": null,
+    "pushedAt": "2026-11-16T10:11:49.166Z"
   }
 ]
