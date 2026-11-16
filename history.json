@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/fluxo-veneno-no-brasil-como-agrotoxicos-entram-no-pais-video",
-    "title": "O fluxo de veneno no Brasil: Como agrotóxicos entram no país",
-    "titleZh": "O Fluxo de veneno no Brasil：Como agrotóxicos entram no país",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/fluxo-veneno-no-brasil-como-agrotoxicos-entram-no-pais-video",
-    "image": null,
-    "pushedAt": "2026-11-13T01:04:02.174Z"
-  },
-  {
     "id": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3",
     "title": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
     "titleZh": "民主黨中期大獲全勝後，卡爾希與小唐納德·川普斷絕關係",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
     "image": null,
     "pushedAt": "2026-11-16T10:11:49.166Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+    "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+    "titleZh": "Nvidia 醜聞引發大量人工智慧生成的表情包",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-16T10:12:18.426Z"
   }
 ]
