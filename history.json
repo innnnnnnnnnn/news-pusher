@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
-    "title": "Inside Jensen Huang's Final Hours as the CEO of Nvidia",
-    "titleZh": "黃仁勳作為 Nvidia 首席執行官的最後幾個小時",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
-    "image": null,
-    "pushedAt": "2026-11-13T08:22:04.700Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/japan-s-katayama-warns-of-fx-steps-after-one-sided-rapid-moves",
     "title": "Japan’s Katayama Warns of FX Steps as Yen Stays Near 160",
     "titleZh": "日本片山警告稱，在單方面快速採取行動後，外匯將採取措施",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation",
     "image": null,
     "pushedAt": "2026-11-16T12:08:48.268Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "titleZh": "隨著要求加強控制的呼聲日益高漲，霍華德·盧特尼克 (Howard Lutnick) 對 Nvidia 採取了溫和的立場",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T12:09:16.827Z"
   }
 ]
