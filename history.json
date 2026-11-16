@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/reports/watches-jewellery",
-    "title": "Watches and Jewellery: November",
-    "titleZh": "手錶和珠寶：十一月",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/reports/watches-jewellery?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T11:34:00.559Z"
-  },
-  {
     "id": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47",
     "title": "Nscale warns it needs more cash ahead of $35bn IPO",
     "titleZh": "Nscale 警告在 350 億美元 IPO 之前需要更多現金",
@@ -2661,7 +2652,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
     "image": null,
-    "pushedAt": "2026-11-16T11:52:30.226Z"
+    "pushedAt": "2026-11-16T14:15:17.390Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
@@ -7507,12 +7498,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-    "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
+    "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
     "titleZh": "一年後，加拿大的馬克·卡尼 (Mark Carney) 以政治明星的身分重返中國",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T11:50:49.798Z"
+    "pushedAt": "2026-11-16T14:13:33.075Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
@@ -7521,7 +7512,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-nz-stoats-top-clpm/00int-nz-stoats-top-clpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T11:51:14.913Z"
+    "pushedAt": "2026-11-16T14:13:57.922Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
@@ -7530,7 +7521,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-serbia-students-01-hlvg/00int-serbia-students-01-hlvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T11:51:39.719Z"
+    "pushedAt": "2026-11-16T14:14:25.167Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
@@ -7548,7 +7539,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
     "image": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T11:52:05.463Z"
+    "pushedAt": "2026-11-16T14:14:52.549Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/philippines-seeks-new-equilibrium-with-china-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/bnp-paribas-on-sticky-inflation-risk-video",
     "image": null,
     "pushedAt": "2026-11-16T14:13:03.139Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c99762d5-9d60-4234-bb40-29222f58bb22",
+    "title": "The era of political whiplash",
+    "titleZh": "政治鞭笞的時代",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c99762d5-9d60-4234-bb40-29222f58bb22?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T14:15:44.309Z"
   }
 ]
