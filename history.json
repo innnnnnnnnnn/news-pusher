@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-we-know-about-nvidia-s-interim-ceo-colette-kress-video",
-    "title": "What We Know About Nvidia's Interim CEO Colette Kress",
-    "titleZh": "我們對 Nvidia 臨時執行長 Colette Kress 的了解",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/what-we-know-about-nvidia-s-interim-ceo-colette-kress-video",
-    "image": null,
-    "pushedAt": "2026-11-12T19:07:08.888Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
     "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
     "titleZh": "俄羅斯最勇敢的報紙《新報》關閉",
@@ -7683,7 +7674,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
     "image": null,
-    "pushedAt": "2026-11-16T00:09:21.721Z"
+    "pushedAt": "2026-11-16T02:13:42.176Z"
   },
   {
     "id": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29",
@@ -7899,7 +7890,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
     "image": null,
-    "pushedAt": "2026-11-16T00:08:58.462Z"
+    "pushedAt": "2026-11-16T02:13:18.808Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
     "image": null,
     "pushedAt": "2026-11-16T02:12:52.751Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+    "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+    "titleZh": "墨西哥毒梟米格爾·安赫爾·費利克斯·加拉多在獄中去世",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T02:14:09.720Z"
   }
 ]
