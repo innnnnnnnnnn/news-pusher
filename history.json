@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html",
-    "title": "Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
-    "titleZh": "黃的垮台可能會動搖經濟，被拘留者已從 ICE 資料庫中消失",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13headlines/12biz-nvidia-economy-tkjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:57:11.610Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-nyc-flatbush-video.html",
     "title": "Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In",
     "titleZh": "布魯克林倒塌大樓內部的影片顯示牆壁塌陷",
@@ -5478,7 +5469,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:15:51.361Z"
+    "pushedAt": "2026-11-16T19:46:16.881Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
@@ -8466,7 +8457,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-taps-26-year-veteran-corey-fugman-to-run-pay-card-and-wallet-services",
     "image": null,
-    "pushedAt": "2026-11-16T17:16:18.782Z"
+    "pushedAt": "2026-11-16T19:46:41.280Z"
   },
   {
     "id": "https://flipso.com/p/qompjwyvu",
@@ -8475,7 +8466,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/qompjwyvu?ref=rss",
     "image": "https://cdn.flipso.com/p/qompjwyvu_square.jpg",
-    "pushedAt": "2026-11-16T17:16:48.231Z"
+    "pushedAt": "2026-11-16T19:47:05.922Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/thoma-bravo-s-proofpoint-launches-2-billion-debt-deal-for-m-a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/virgin-media-o2-downgraded-by-moody-s-on-turnaround-concerns",
     "image": null,
     "pushedAt": "2026-11-16T19:45:22.530Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-pulls-400-million-loan-for-it-provider-ust-global",
+    "title": "Citigroup Pulls $400 Million Loan for IT Provider UST Global",
+    "titleZh": "花旗集團向 IT 供應商 UST Global 撤回 4 億美元貸款",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-pulls-400-million-loan-for-it-provider-ust-global",
+    "image": null,
+    "pushedAt": "2026-11-16T19:47:33.823Z"
   }
 ]
