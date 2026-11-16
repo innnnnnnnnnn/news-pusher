@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/podcasts/the-daily/nvidia-jensen-huang-affair-chinese-spy-trump.html",
-    "title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
-    "titleZh": "秘密、晶片和間諜技術：Nvidia 執行長醜聞",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/podcasts/the-daily/nvidia-jensen-huang-affair-chinese-spy-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10Daily-Nvidia-tgbc/10Daily-Nvidia-tgbc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:43:12.509Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
     "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
     "titleZh": "在達卡擁擠的海灘上，非洲迎來了第一屆青奧會",
@@ -5847,7 +5838,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
     "image": null,
-    "pushedAt": "2026-11-16T16:25:06.493Z"
+    "pushedAt": "2026-11-16T18:54:37.797Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates",
@@ -6234,7 +6225,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/thai-gdp-growth-accelerates-to-2-9-on-ai-missing-estimates",
     "image": null,
-    "pushedAt": "2026-11-16T16:25:31.548Z"
+    "pushedAt": "2026-11-16T18:55:02.573Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/aerospace-stocks-shine-as-anti-ai-flows-pour-into-india",
@@ -8529,7 +8520,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e2bfe9ca-b0a2-439c-8ee3-4108c9955ecd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T16:23:36.251Z"
+    "pushedAt": "2026-11-16T18:53:23.971Z"
   },
   {
     "id": "https://flipso.com/p/rzvw63555",
@@ -8538,7 +8529,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/rzvw63555?ref=rss",
     "image": "https://cdn.flipso.com/p/rzvw63555_square.jpg",
-    "pushedAt": "2026-11-16T16:24:07.048Z"
+    "pushedAt": "2026-11-16T18:53:48.831Z"
   },
   {
     "id": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7",
@@ -8547,7 +8538,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T16:24:35.890Z"
+    "pushedAt": "2026-11-16T18:54:13.242Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/crypto-stocks-sink-on-bitcoin-aramark-falls-on-earnings-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/opinion-jensen-huang-cannot-return-to-nvidia-video",
     "image": null,
     "pushedAt": "2026-11-16T18:52:30.065Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+    "title": "Nasdaq 100 Plunges as Nvidia Earnings, Anthropic IPO on Horizon",
+    "titleZh": "Nvidia 財報和 Anthropic IPO 即將到來，納斯達克 100 指數暴跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+    "image": null,
+    "pushedAt": "2026-11-16T18:55:31.208Z"
   }
 ]
