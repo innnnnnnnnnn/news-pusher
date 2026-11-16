@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
-    "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
-    "titleZh": "習近平清洗中國將軍後，一名軍事檢察官崛起",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-china-general-01-lbjw/00int-china-general-01-lbjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:11:41.658Z"
-  },
-  {
-    "id": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
-    "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
-    "titleZh": "為什麼援助沒有到達伊波拉疫情中心",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
-    "image": null,
-    "pushedAt": "2026-11-16T18:12:06.265Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
     "title": "This Defense Makes Drones (and GPS) Think They’re in Peru",
     "titleZh": "這種防禦使無人機（和 GPS）認為它們在秘魯",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
     "image": null,
     "pushedAt": "2026-11-16T19:08:18.240Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
+    "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+    "titleZh": "夾在殺手之間：一邊是伊波拉，一邊是伊斯蘭國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-ebola-biakato-promo-mzqw/13int-ebola-biakato-promo-mzqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T19:08:46.602Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+    "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+    "titleZh": "努力學習、就業並取得進步？它不再是以前的樣子了。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/01int-Ideas-Meritocracy-01-kgfm/01int-Ideas-Meritocracy-01-kgfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T19:08:49.062Z"
   }
 ]
