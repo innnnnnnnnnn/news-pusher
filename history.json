@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video",
-    "title": "Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO",
-    "titleZh": "Jensen Huang Saga 在 Anthropic IPO 之前測試人工智慧交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-13T07:53:28.025Z"
-  },
-  {
     "id": "https://www.ft.com/content/fcbd27c8-aa10-455f-8917-afcb897e6eaf",
     "title": "FirstFT: Microsoft races to restore software services",
     "titleZh": "FirstFT：Nvidia 黃仁勳如何失寵",
@@ -2220,7 +2211,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T13:20:01.869Z"
+    "pushedAt": "2026-11-16T15:51:20.392Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
@@ -3840,7 +3831,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/poobeg83s?ref=rss",
     "image": "https://cdn.flipso.com/p/poobeg83s_square.jpg",
-    "pushedAt": "2026-11-16T13:18:45.520Z"
+    "pushedAt": "2026-11-16T15:50:03.021Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
@@ -4326,7 +4317,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T13:20:52.946Z"
+    "pushedAt": "2026-11-16T15:51:45.816Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
@@ -6738,7 +6729,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
     "image": null,
-    "pushedAt": "2026-11-16T13:19:10.942Z"
+    "pushedAt": "2026-11-16T15:50:29.209Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
@@ -6747,7 +6738,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T13:19:35.903Z"
+    "pushedAt": "2026-11-16T15:50:54.669Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-brief-11-16-2026-video",
     "image": null,
     "pushedAt": "2026-11-16T15:45:15.996Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+    "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+    "titleZh": "歐洲五國計劃將移民驅逐至盧安達",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+    "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T15:52:14.210Z"
   }
 ]
