@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
-    "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
-    "titleZh": "布魯克林大樓倒塌事故造成 8 人死亡，救援工作結束",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T04:29:15.342Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-    "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
-    "titleZh": "共和黨在南方遭遇挫折，密西西比州慘敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:07:13.242Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
-    "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
-    "titleZh": "霍爾舍爾贏得堪薩斯州州長競選，為民主黨保留席位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-kansas-governor-Holscher-pbjm/03midterms-hfo-kansas-governor-Holscher-pbjm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T09:07:36.990Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/congress-could-have-prevented-megaspeed-access-mcguire-video",
     "title": "Congress Could Have Prevented Megaspeed Access: McGuire",
     "titleZh": "國會本來可以阻止超高速接入：麥奎爾",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-china-show-11-16-2026-video",
     "image": null,
     "pushedAt": "2026-11-16T10:59:07.532Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd",
+    "title": "‘Success and fame’ undermines tech leaders, warns Nvidia and Tesla investor",
+    "titleZh": "英偉達和特斯拉投資者警告稱，「成功和名聲」會損害科技領導者的地位",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T11:01:19.843Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb",
+    "title": "EU renews push for global AI rules after midterms weaken Trump",
+    "titleZh": "中期選舉削弱川普​​後，歐盟重新推動全球人工智慧規則",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T11:01:23.254Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d7966898-924a-4729-9726-2cc64125ab8d",
+    "title": "Greensill auditors fined £700,000 over ‘superficial’ checks",
+    "titleZh": "Greensill 審計員因「膚淺」檢查被罰款 70 萬英鎊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d7966898-924a-4729-9726-2cc64125ab8d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T11:01:29.101Z"
   }
 ]
