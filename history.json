@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october",
-    "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
-    "titleZh": "美國批發通膨增速創 2022 年以來最快",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october",
-    "image": null,
-    "pushedAt": "2026-11-14T13:59:25.599Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/jensen-huang-s-last-hours-as-nvidia-ceo-video",
     "title": "Jensen Huang’s Last Hours as Nvidia CEO",
     "titleZh": "黃仁勳作為 Nvidia 首席執行官的最後幾個小時",
@@ -1284,7 +1275,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:47:52.549Z"
+    "pushedAt": "2026-11-16T23:01:31.788Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
@@ -3228,7 +3219,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:48:17.414Z"
+    "pushedAt": "2026-11-16T23:01:56.070Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/brandon-copeland-tale-of-two-cities-in-college-sports-video",
     "image": null,
     "pushedAt": "2026-11-16T23:01:05.018Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
+    "title": "An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results",
+    "titleZh": "一種減緩阿茲海默症的有趣方法顯示出好壞參半的結果",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/well/16WELL-ALZHEIMERS-LIGHT-SOUND1/16WELL-ALZHEIMERS-LIGHT-SOUND1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T23:02:23.057Z"
   }
 ]
