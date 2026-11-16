@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/russia-s-economy-slows-as-ukrainian-attacks-damage-industry",
-    "title": "Russia’s Economy Slows as Ukrainian Attacks Damage Industry",
-    "titleZh": "烏克蘭襲擊損害工業，俄羅斯經濟放緩",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/russia-s-economy-slows-as-ukrainian-attacks-damage-industry",
-    "image": null,
-    "pushedAt": "2026-11-14T03:10:28.449Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/s-p-sees-nigeria-s-2029-investment-grade-goal-as-unrealistic",
     "title": "S&P Sees Nigeria’s 2029 Investment-Grade Goal as Unrealistic",
     "titleZh": "標準普爾認為奈及利亞 2029 年投資等級目標不切實際",
@@ -654,7 +645,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-ebola-biakato-promo-mzqw/13int-ebola-biakato-promo-mzqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:57:42.367Z"
+    "pushedAt": "2026-11-16T15:30:08.650Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
@@ -5982,7 +5973,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T12:58:07.409Z"
+    "pushedAt": "2026-11-16T15:30:34.543Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
@@ -6189,7 +6180,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
     "image": null,
-    "pushedAt": "2026-11-16T12:58:34.114Z"
+    "pushedAt": "2026-11-16T15:31:00.514Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
@@ -6360,7 +6351,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-jordan-execution-1-kwqf/15int-jordan-execution-1-kwqf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:57:17.356Z"
+    "pushedAt": "2026-11-16T15:29:42.355Z"
   },
   {
     "id": "https://flipso.com/p/lyoq3jqck",
@@ -8565,7 +8556,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:56:49.407Z"
+    "pushedAt": "2026-11-16T15:29:17.425Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-huang-jlcm/16dc-trump-huang-jlcm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T15:28:49.291Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
+    "titleZh": "巴特比時事通訊：為什麼你沒有被邀請參加那次會議",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "image": null,
+    "pushedAt": "2026-11-16T15:31:27.539Z"
   }
 ]
