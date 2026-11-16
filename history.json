@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/tt59o4pkq",
-    "title": "Cancer at Sea",
-    "titleZh": "海上癌症",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/tt59o4pkq?ref=rss",
-    "image": "https://cdn.flipso.com/p/tt59o4pkq_square.jpg",
-    "pushedAt": "2026-11-13T19:55:53.921Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains",
     "title": "NYC Sees Nearly $1 Billion Tax-Revenue Jump on Wall Street Gains",
     "titleZh": "華爾街收益帶動紐約市稅收收入猛增近 10 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
     "image": null,
     "pushedAt": "2026-11-16T06:27:01.288Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+    "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+    "titleZh": "SpaceX 計畫投資 740 億美元在德州和亞利桑那州建造資料中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T06:27:30.508Z"
   }
 ]
