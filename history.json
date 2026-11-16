@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077",
-    "title": "The Silicon Valley veterans now steering Nvidia",
-    "titleZh": "矽谷資深人士現在掌管英偉達",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5da7bc08-6c68-490c-b9f8-eba7f21f669e.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T11:18:38.584Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
     "title": "YouTube’s dominance has Hollywood running scared",
     "titleZh": "YouTube 的統治地位令好萊塢望而卻步",
@@ -753,7 +744,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/qompjwyvu?ref=rss",
     "image": "https://cdn.flipso.com/p/qompjwyvu_square.jpg",
-    "pushedAt": "2026-11-16T10:27:55.718Z"
+    "pushedAt": "2026-11-16T12:50:23.453Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/horizons-middle-east-africa-11-13-2026-video",
@@ -4452,7 +4443,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T10:27:30.969Z"
+    "pushedAt": "2026-11-16T12:49:58.137Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
@@ -6972,7 +6963,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
     "image": null,
-    "pushedAt": "2026-11-16T10:28:20.595Z"
+    "pushedAt": "2026-11-16T12:50:48.342Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures",
@@ -8070,7 +8061,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/switzerland-s-economy-unexpectedly-grows-thanks-to-industry",
     "image": null,
-    "pushedAt": "2026-11-16T10:28:45.579Z"
+    "pushedAt": "2026-11-16T12:51:12.936Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
@@ -8079,7 +8070,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T10:29:10.553Z"
+    "pushedAt": "2026-11-16T12:51:37.819Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/google-backed-cassava-us-s-graphiant-to-secure-african-networks",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16db-huang-qzfm/16db-huang-qzfm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T12:49:30.207Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html",
+    "title": "Gérard Depardieu Withdraws Sexual Assault Appeal, Apologizing to Victims",
+    "titleZh": "傑拉爾·德帕迪約撤回性侵上訴並向受害者道歉",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/world/16cul-depardieu-apology-aaa/16cul-depardieu-apology-aaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T12:52:05.627Z"
   }
 ]
