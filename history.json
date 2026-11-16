@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
-    "title": "I Saw the Future of Mind-Reading",
-    "titleZh": "我看到了讀心術的未來",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
-    "image": "https://static01.nyt.com/images/2026/07/08/opinion/00paglen-7/00paglen-7-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T23:23:38.471Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october",
-    "title": "Argentina Inflation Ticked Up More Than Expected in October",
-    "titleZh": "阿根廷10月通膨率超預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october",
-    "image": null,
-    "pushedAt": "2026-11-13T12:23:43.452Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-o-connor-video",
     "title": "AI ‘Supply Shock’ Pushes Bond Market to Limit: O’Connor",
     "titleZh": "奧康納：人工智慧「供應衝擊」將債券市場推向極限",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/global-investors-return-to-indian-stocks-after-ai-trade-woes",
     "image": null,
     "pushedAt": "2026-11-16T06:31:54.693Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/boj-leading-hawk-hajime-takata-nimble-approach-raising-key-rate",
+    "title": "BOJ’s Leading Hawk Calls for Nimble Approach to Raising Key Rate",
+    "titleZh": "日本央行鷹派領袖呼籲採取靈活的政策利率調升方式",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/boj-leading-hawk-hajime-takata-nimble-approach-raising-key-rate",
+    "image": null,
+    "pushedAt": "2026-11-16T06:32:26.599Z"
+  },
+  {
+    "id": "https://flipso.com/p/2xihll5q1",
+    "title": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New…",
+    "titleZh": "天文学家发现了一个神秘物体，其轨道远离冥王星。這可能是一個新的…",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/2xihll5q1?ref=rss",
+    "image": "https://cdn.flipso.com/p/2xihll5q1_square.jpg",
+    "pushedAt": "2026-11-16T06:32:29.757Z"
   }
 ]
