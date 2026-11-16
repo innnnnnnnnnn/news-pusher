@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
-    "title": "The United States Is Skipping COP31 in Turkey",
-    "titleZh": "美國將跳過在土耳其舉行的 COP31",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-cop-americans-01-lgqt/11cli-cop-americans-01-lgqt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T19:18:53.574Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/china-gets-first-economic-scorecard-with-stimulus-taps-turned-on",
     "title": "China Gets First Economic Scorecard After Stimulus Taps Open",
     "titleZh": "隨著刺激措施的啟動，中國獲得了首張經濟記分卡",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/new-dependencies-in-the-us-and-china-s-trade-relationship",
     "image": null,
     "pushedAt": "2026-11-16T13:06:25.000Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/korea-zinc-010130-ks-solarcycle-form-us-critical-minerals-recycling-venture",
+    "title": "Korea Zinc (010130 KS), Solarcycle Form US Critical Minerals Recycling Venture",
+    "titleZh": "韓國鋅業 (010130 KS) 與 Solarcycle 組成美國關鍵礦物回收企業",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/korea-zinc-010130-ks-solarcycle-form-us-critical-minerals-recycling-venture",
+    "image": null,
+    "pushedAt": "2026-11-16T13:06:55.536Z"
   }
 ]
