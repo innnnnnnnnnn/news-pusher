@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/malaysia-checks-whether-chips-were-reexported-by-megaspeed-unit",
-    "title": "Malaysia Intensifies Investigation Into Megaspeed Chips",
-    "titleZh": "馬來西亞檢查Megaspeed單位是否再出口晶片",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/malaysia-checks-whether-chips-were-reexported-by-megaspeed-unit",
-    "image": null,
-    "pushedAt": "2026-11-13T10:33:36.427Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/copper-climbs-from-three-month-low-after-rough-week-for-metals",
     "title": "Copper Set for Worst Run in Two Years on Nvidia and Rates Unease",
     "titleZh": "金屬經歷了艱難的一周後，銅價從三個月低點攀升",
@@ -6706,12 +6697,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "title": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap",
+    "title": "Stocks Slide as AI Trade Enters High-Stakes Week: Markets Wrap",
     "titleZh": "亞洲股市面臨人工智慧壓力和數據轉儲：市場總結",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-16T11:21:22.527Z"
+    "pushedAt": "2026-11-16T13:46:54.959Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
@@ -7809,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F564a5fed-3f85-4a8d-b68a-444e8e135060.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-16T11:21:47.845Z"
+    "pushedAt": "2026-11-16T13:47:20.610Z"
   },
   {
     "id": "https://www.ft.com/content/ce4e5b88-f7f6-4aaa-aa29-aed46b99f065",
@@ -8043,7 +8034,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T11:22:13.023Z"
+    "pushedAt": "2026-11-16T13:47:45.751Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year",
@@ -8052,7 +8043,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year",
     "image": null,
-    "pushedAt": "2026-11-16T11:22:38.120Z"
+    "pushedAt": "2026-11-16T13:48:10.763Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
@@ -8061,7 +8052,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
     "image": null,
-    "pushedAt": "2026-11-16T11:23:03.776Z"
+    "pushedAt": "2026-11-16T13:48:35.934Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/how-china-plans-to-turn-its-factories-green-video",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/2u4fmllp0?ref=rss",
     "image": "https://cdn.flipso.com/p/2u4fmllp0_square.jpg",
     "pushedAt": "2026-11-16T13:46:26.264Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
+    "title": "US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO",
+    "titleZh": "由於市場關注英偉達業績和 Anthropic IPO，美國期貨下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
+    "image": null,
+    "pushedAt": "2026-11-16T13:49:01.930Z"
   }
 ]
