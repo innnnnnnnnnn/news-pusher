@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/a-shortage-of-ore-is-causing-a-pricing-revolution-in-copper",
-    "title": "A Shortage of Ore is Causing a Pricing Revolution in Copper",
-    "titleZh": "礦石短缺引發銅價革命",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/a-shortage-of-ore-is-causing-a-pricing-revolution-in-copper",
-    "image": null,
-    "pushedAt": "2026-11-12T23:24:27.335Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
     "title": "Anthropic’s IPO Is Said to Be About Six Times Oversubscribed",
     "titleZh": "Anthropic IPO 據稱超額認購約六倍",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/audio/2026-11-16/odd-lots-the-trilemma-hanging-over-the-nvidia-crisis-podcast",
     "image": null,
     "pushedAt": "2026-11-16T09:01:28.400Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
+    "title": "The End of Russia’s Bravest Newspaper",
+    "titleZh": "俄羅斯最勇敢的報紙的終結",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T09:01:57.315Z"
   }
 ]
