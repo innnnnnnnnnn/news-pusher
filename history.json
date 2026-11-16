@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains",
-    "title": "NYC Sees Nearly $1 Billion Tax-Revenue Jump on Wall Street Gains",
-    "titleZh": "華爾街收益帶動紐約市稅收收入猛增近 10 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains",
-    "image": null,
-    "pushedAt": "2026-11-12T22:05:09.966Z"
-  },
-  {
     "id": "https://flipso.com/p/2xihll5q1",
     "title": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New…",
     "titleZh": "天文學家發現了一個神祕物體，其軌道遠離冥王星。這可能是一個新的…",
@@ -7385,8 +7376,8 @@
     "titleZh": "香港開發商新世界推出32億美元供股",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5981d3cf-b142-47a8-8bbf-af33e1e87e5b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-16T04:22:18.433Z"
+    "image": null,
+    "pushedAt": "2026-11-16T06:28:24.208Z"
   },
   {
     "id": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7",
@@ -7953,7 +7944,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T04:21:55.221Z"
+    "pushedAt": "2026-11-16T06:27:58.407Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T06:27:30.508Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/china-car-ev-output-slows-four-year-low-domestic-demand-drops",
+    "title": "China Car Output Slows to Four-Year Low as Domestic Demand Drops",
+    "titleZh": "由於國內需求下降，中國汽車產量降至四年低點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-car-ev-output-slows-four-year-low-domestic-demand-drops",
+    "image": null,
+    "pushedAt": "2026-11-16T06:28:52.687Z"
   }
 ]
