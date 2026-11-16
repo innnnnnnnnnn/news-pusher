@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video",
-    "title": "Nvidia’s AI Chip Share Set to Shrink: Akarca",
-    "titleZh": "Nvidia 的 AI 晶片份額將萎縮：Akarca",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video",
-    "image": null,
-    "pushedAt": "2026-11-13T13:53:20.343Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/uk-retailers-are-hiring-for-ai-and-pulling-back-on-other-roles",
     "title": "UK Retailers Are Hiring for AI and Pulling Back on Other Roles",
     "titleZh": "英國零售商正在招募人工智慧人才並減少其他職位",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
     "image": null,
     "pushedAt": "2026-11-16T20:15:03.514Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def",
+    "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
+    "titleZh": "美國國債創下川普「解放日」以來最糟糕的一周",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T20:15:32.007Z"
   }
 ]
