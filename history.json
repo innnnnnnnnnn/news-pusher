@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6c55228c-ac59-44cb-926b-6e41585fbf0c",
-    "title": "Germany’s spy agencies gain sweeping new powers",
-    "titleZh": "德國間諜機構獲得全面的新權力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6c55228c-ac59-44cb-926b-6e41585fbf0c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T03:05:26.510Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/fed-s-logan-calls-for-clearer-separation-of-market-operations",
     "title": "Fed’s Logan Calls for Clearer Separation of Market Operations",
     "titleZh": "聯準會洛根呼籲更清晰地分離市場運作",
@@ -4002,7 +3993,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T21:42:33.631Z"
+    "pushedAt": "2026-11-16T23:59:07.283Z"
   },
   {
     "id": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3",
@@ -4011,7 +4002,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T21:42:57.734Z"
+    "pushedAt": "2026-11-16T23:59:31.429Z"
   },
   {
     "id": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9",
@@ -8583,7 +8574,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/kalshi-to-offer-stock-trading-after-buying-brokerage-video",
     "image": null,
-    "pushedAt": "2026-11-16T21:42:06.341Z"
+    "pushedAt": "2026-11-16T23:58:43.713Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/airasia-malaysia-airports-in-122-million-debt-repayment-talks",
     "image": null,
     "pushedAt": "2026-11-16T23:57:00.966Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/asia-s-data-center-hotbed-hit-by-us-chip-curbs-as-trump-visits",
+    "title": "Asia’s Data Center Hotbed Hit by US Chip Curbs as Trump Visits",
+    "titleZh": "川普訪問期間，美國晶片限制打擊亞洲資料中心溫床",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/asia-s-data-center-hotbed-hit-by-us-chip-curbs-as-trump-visits",
+    "image": null,
+    "pushedAt": "2026-11-16T23:59:57.306Z"
   }
 ]
