@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
-    "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
-    "titleZh": "隨著科技股反彈，新興市場股票預計自 9 月以來首次出現週漲幅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
-    "image": null,
-    "pushedAt": "2026-11-14T02:22:00.443Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
     "title": "How the Deadly Brooklyn Building Collapse Unfolded",
     "titleZh": "致命的布魯克林大樓倒塌是如何展開的",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/todo-lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-mwjde71y",
     "image": null,
     "pushedAt": "2026-11-16T14:41:31.321Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/us-airlines-race-to-recover-from-shutdown-video",
+    "title": "US Airlines Race to Recover From Shutdown",
+    "titleZh": "美國航空公司競相從停擺中恢復過來",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-airlines-race-to-recover-from-shutdown-video",
+    "image": null,
+    "pushedAt": "2026-11-16T14:43:17.421Z"
   }
 ]
