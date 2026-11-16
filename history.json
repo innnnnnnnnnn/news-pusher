@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/congress-could-have-prevented-megaspeed-access-mcguire-video",
-    "title": "Congress Could Have Prevented Megaspeed Access: McGuire",
-    "titleZh": "國會本來可以阻止超高速接入：麥奎爾",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/congress-could-have-prevented-megaspeed-access-mcguire-video",
-    "image": null,
-    "pushedAt": "2026-11-13T02:09:53.802Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/wild-price-swings-expose-stress-in-hong-kong-stocks-study-shows",
-    "title": "Wild Price Swings Expose Stress in Hong Kong Stocks, Study Shows",
-    "titleZh": "研究顯示，價格劇烈波動暴露了香港股市的壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/wild-price-swings-expose-stress-in-hong-kong-stocks-study-shows",
-    "image": null,
-    "pushedAt": "2026-11-13T02:11:44.362Z"
-  },
-  {
-    "id": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4",
-    "title": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
-    "titleZh": "隨著英偉達醜聞擴大，美國立法者向霍華德·盧特尼克施加壓力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T05:29:14.333Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement",
-    "title": "Swiss Biotech Windward Raises $225 Million in US IPO, Placement",
-    "titleZh": "瑞士生物技術 Windward 在美國 IPO 和配售中籌集 2.25 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement",
-    "image": null,
-    "pushedAt": "2026-11-13T02:25:07.538Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
     "title": "California Could Face 50-Foot Waves as Storms Slam Its Coast",
     "titleZh": "風暴襲擊加州海岸，加州可能面臨 50 英尺高的巨浪",
@@ -8998,5 +8962,41 @@
     "url": "https://www.ft.com/content/d7966898-924a-4729-9726-2cc64125ab8d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-16T11:01:29.101Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
+    "title": "Permitting Bill Would Charge Data Centers Billions for Power",
+    "titleZh": "允許法案將向資料中心收取數十億美元的電費",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T11:02:00.282Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html",
+    "title": "Raman Has Lots of Plans. Los Angeles Has Lots of Obstacles.",
+    "titleZh": "拉曼有很多計劃。洛杉磯有很多障礙。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-raman-la-TOP-pkzh/16nat-raman-la-TOP-pkzh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T11:02:05.427Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html",
+    "title": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do?",
+    "titleZh": "民主黨將在州議會中擁有巨大權力。他們會做什麼？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/us/16nat-trifectas-democrats-top-option-1/16nat-trifectas-democrats-top-option-1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T11:02:08.661Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/singapore-wealth-fund-saudi-telecom-bid-for-uk-s-pure-data-centres-stake",
+    "title": "Singapore Wealth Fund, Saudi Telecom Bid for UK’s Pure Data Centres Stake",
+    "titleZh": "新加坡財富基金和沙烏地電信競購英國純數據中心股權",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/singapore-wealth-fund-saudi-telecom-bid-for-uk-s-pure-data-centres-stake",
+    "image": null,
+    "pushedAt": "2026-11-16T11:02:13.455Z"
   }
 ]
