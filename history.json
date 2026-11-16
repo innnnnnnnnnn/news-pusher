@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/jensen-huang-exit-sets-up-us-china-showdown-over-ai-chip-curbs",
-    "title": "Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs",
-    "titleZh": "黃仁勳退出引發中美在人工智慧晶片限制問題上的攤牌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/jensen-huang-exit-sets-up-us-china-showdown-over-ai-chip-curbs",
-    "image": null,
-    "pushedAt": "2026-11-13T12:09:46.812Z"
-  },
-  {
     "id": "https://flipso.com/p/qompjwyvu",
     "title": "A Compendium of Abandoned Greenhouses",
     "titleZh": "廢棄溫室概要",
@@ -8520,7 +8511,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-moves-to-restrict-remote-access-to-advanced-ai-chips-video",
     "image": null,
-    "pushedAt": "2026-11-16T14:35:52.253Z"
+    "pushedAt": "2026-11-16T17:13:40.523Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/nationwide-ground-stop-cost-billions-of-dollars-duffy-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-16T17:13:11.547Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
+    "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.",
+    "titleZh": "這種癌症在一年內殺死了兒童。研究已停滯一年。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T17:14:07.129Z"
   }
 ]
