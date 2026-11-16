@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/acciona-s-1-billion-mexico-infrastructure-deal-seen-threatened",
-    "title": "Acciona’s $1 Billion Mexico Infrastructure Deal Seen at Risk",
-    "titleZh": "Acciona 10 億美元的墨西哥基礎設施交易面臨威脅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/acciona-s-1-billion-mexico-infrastructure-deal-seen-threatened",
-    "image": null,
-    "pushedAt": "2026-11-13T00:33:44.724Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
     "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
     "titleZh": "Anthropic 的大規模 IPO 將使其與 Nvidia 的關係更加緊密",
@@ -492,7 +483,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-soldier-russia-mfbj/12int-soldier-russia-mfbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T02:55:58.686Z"
+    "pushedAt": "2026-11-16T05:05:48.613Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-can-weather-huang-s-departure-ross-gerber-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-fed-meetings-pmbj/12dc-fed-meetings-pmbj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T05:05:20.600Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
+    "title": "How Could a Router Lead to a Nationwide Ground Stop?",
+    "titleZh": "路由器如何導致全國停飛？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
+    "image": null,
+    "pushedAt": "2026-11-16T05:06:16.378Z"
   }
 ]
