@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def",
-    "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
-    "titleZh": "美國國債將迎來川普「解放日」以來最糟糕的一周",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T19:22:41.358Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video",
     "title": "Nvidia’s AI Chip Share Set to Shrink: Akarca",
     "titleZh": "Nvidia 的 AI 晶片份額將萎縮：Akarca",
@@ -1194,7 +1185,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00nat-huang-asianamericans-clvp/00nat-huang-asianamericans-clvp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:44:34.531Z"
+    "pushedAt": "2026-11-16T20:14:36.699Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/west-african-oil-just-got-64-a-barrel-cheaper-for-some-buyers",
@@ -2697,7 +2688,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:44:09.939Z"
+    "pushedAt": "2026-11-16T20:14:12.048Z"
   },
   {
     "id": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
@@ -7107,7 +7098,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
     "image": null,
-    "pushedAt": "2026-11-16T17:42:07.154Z"
+    "pushedAt": "2026-11-16T20:12:31.262Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
@@ -7125,7 +7116,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T17:43:20.928Z"
+    "pushedAt": "2026-11-16T20:13:20.056Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/norway-s-imports-hit-record-on-data-center-equipment-cars",
@@ -7134,7 +7125,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/norway-s-imports-hit-record-on-data-center-equipment-cars",
     "image": null,
-    "pushedAt": "2026-11-16T17:43:45.386Z"
+    "pushedAt": "2026-11-16T20:13:45.377Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/snb-interest-rate-forecasters-now-anticipate-hike-in-mid-2027",
@@ -8043,7 +8034,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/tiff-macklem-to-leave-as-bank-of-canada-governor-starting-succession-race",
     "image": null,
-    "pushedAt": "2026-11-16T17:42:56.413Z"
+    "pushedAt": "2026-11-16T20:12:56.204Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T20:12:02.306Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
+    "title": "Active Delivering Alpha In Bond Fund: Vanguard's Righi",
+    "titleZh": "積極交付債券基金阿爾法：先鋒集團的 Righi",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
+    "image": null,
+    "pushedAt": "2026-11-16T20:15:03.514Z"
   }
 ]
