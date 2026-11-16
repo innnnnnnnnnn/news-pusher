@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
-    "title": "How GLP-1 Drugs and a Revamp Revived Ro’s Business",
-    "titleZh": "GLP-1 藥物和改造如何重振 Ro 的業務",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T09:18:05.864Z"
-  },
-  {
     "id": "https://www.ft.com/content/9d1a4cb5-a389-4eab-a7d3-1db0eb3f2f19",
     "title": "US protectionism is a bust — Mississippi edition",
     "titleZh": "美國保護主義已破產—密西西比版",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/bd65d6e0-3ecb-498c-b684-c7e4c782a0ae?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd7b0e21-a655-440e-939f-cf695350fe78.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-16T23:27:01.037Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
+    "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
+    "titleZh": "川普政府旨在打擊人工智慧晶片漏洞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16evening-nl-trump-chips-jmtk/16evening-nl-trump-chips-jmtk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T23:27:32.539Z"
   }
 ]
