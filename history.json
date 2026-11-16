@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
-    "title": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
-    "titleZh": "詹森退出、人工智慧債務受到審查、國債下滑",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-12T23:07:22.274Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bill-simmons-canceled-chatgpt-partnership-after-fan-backlash",
-    "title": "Bill Simmons Canceled ChatGPT Partnership After Fan Backlash",
-    "titleZh": "粉絲強烈反對後，比爾·西蒙斯取消了 ChatGPT 合作夥伴關係",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bill-simmons-canceled-chatgpt-partnership-after-fan-backlash",
-    "image": null,
-    "pushedAt": "2026-11-13T01:25:37.765Z"
-  },
-  {
     "id": "https://flipso.com/p/udzq6rbbm",
     "title": "Making any integer with four 2s",
     "titleZh": "用四個 2 產生任意整數",
@@ -2103,7 +2085,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
     "image": null,
-    "pushedAt": "2026-11-16T06:13:19.747Z"
+    "pushedAt": "2026-11-16T08:24:26.819Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/kazakh-fintech-tycoon-atop-world-chess-seeks-to-outplay-revolut",
     "image": null,
     "pushedAt": "2026-11-16T08:23:59.067Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/european-gas-dips-as-record-us-flows-counter-storage-concerns",
+    "title": "European Gas Dips as Record US Flows Counter Storage Concerns",
+    "titleZh": "歐洲天然氣下跌，美國流量創歷史新高，抵銷了儲存問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/european-gas-dips-as-record-us-flows-counter-storage-concerns",
+    "image": null,
+    "pushedAt": "2026-11-16T08:24:54.598Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge",
+    "title": "European Stocks Fluctuate as AI Concerns Keep Investors on Edge",
+    "titleZh": "人工智慧擔憂令投資人緊張，歐洲股市波動",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge",
+    "image": null,
+    "pushedAt": "2026-11-16T08:24:59.359Z"
   }
 ]
