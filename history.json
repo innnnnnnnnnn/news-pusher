@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
-    "title": "Hong Kong Turns Even More Bullish on Economy With Growth Upgrade",
-    "titleZh": "香港經濟成長升級更樂觀",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
-    "image": null,
-    "pushedAt": "2026-11-13T11:09:26.058Z"
-  },
-  {
     "id": "https://www.ft.com/content/28228fa9-52c9-4233-9133-27145a905c0f",
     "title": "Jewellery demand helps Richemont buck luxury downturn",
     "titleZh": "珠寶需求幫助歷峰集團抵禦奢侈品低迷",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-surveillance-11-16-2026-video",
     "image": null,
     "pushedAt": "2026-11-16T18:03:11.624Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/arts/television/toukie-smith-dead.html",
+    "title": "Toukie Smith, Actress, Model and Former Partner of Robert DeNiro, Has Died",
+    "titleZh": "演員、模特兒、羅伯特·德尼羅的前伴侶圖基·史密斯去世",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/arts/television/toukie-smith-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13obit-smith-bpvc/13obit-smith-bpvc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T18:04:06.759Z"
   }
 ]
