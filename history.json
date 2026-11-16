@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a",
-    "title": "Jensen Huang’s final days at Nvidia",
-    "titleZh": "黃仁勳的垮台",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd08f48e-5d7e-4587-9a5d-c5703987d80a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T23:34:37.905Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market",
     "title": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
     "titleZh": "由於稅收擔憂衝擊市場，中國政策性銀行債券遭受拋售",
@@ -2049,7 +2040,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-nvidia-startups-2-mfvc/13biz-nvidia-startups-2-mfvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T11:31:39.225Z"
+    "pushedAt": "2026-11-16T13:58:00.693Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
@@ -2067,7 +2058,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/komochq7y?ref=rss",
     "image": "https://cdn.flipso.com/p/komochq7y_square.jpg",
-    "pushedAt": "2026-11-16T11:32:04.760Z"
+    "pushedAt": "2026-11-16T13:58:29.004Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-grammy-noms-ella2-cfvl/16cul-grammy-noms-ella2-cfvl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T13:57:32.834Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-shifts-ai-bets-adds-equity-risk-in-new-model-shakeup",
+    "title": "BlackRock Shifts AI Bets, Adds Equity Risk in New Model Shakeup",
+    "titleZh": "貝萊德 (BlackRock) 調整 AI 投資策略，在新模型改版中增加股票風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-shifts-ai-bets-adds-equity-risk-in-new-model-shakeup",
+    "image": null,
+    "pushedAt": "2026-11-16T13:58:57.592Z"
   }
 ]
