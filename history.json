@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
-    "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
-    "titleZh": "漢堡、抵制和廣告分裂了俄亥俄州社區",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/13nat-ohio-restaurant-NEW-kcgh/13nat-ohio-restaurant-NEW-kcgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:38:05.372Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
-    "title": "‘We Squandered an Opportunity’: The Christian Right on Its Election Rout",
-    "titleZh": "基督教右翼在選舉中損失慘重。接下來會去哪裡？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12nat-christian-collapse-1-01-vqwg/12nat-christian-collapse-1-01-vqwg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:38:55.472Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
     "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
     "titleZh": "回顧英偉達的動盪，股市錄得幾個月來最好的一周",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
     "image": null,
     "pushedAt": "2026-11-16T19:54:26.345Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/test-your-etf-knowledge-in-our-iq-test",
+    "title": "Test Your ETF Knowledge In Our IQ Test",
+    "titleZh": "在我們的 IQ 測試中測試您的 ETF 知識",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/test-your-etf-knowledge-in-our-iq-test",
+    "image": null,
+    "pushedAt": "2026-11-16T19:59:15.660Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
+    "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
+    "titleZh": "羅伯派汀森成為亞馬遜重啟後的新詹姆士龐德",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
+    "image": null,
+    "pushedAt": "2026-11-16T19:59:17.545Z"
   }
 ]
