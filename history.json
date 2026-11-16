@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/private-credit-stablecoins-pose-risks-beyond-size-bailey-warns",
-    "title": "Private Credit, Stablecoins Pose Risks Beyond Size, Bailey Warns",
-    "titleZh": "貝利警告稱，私人信貸、穩定幣帶來的風險超出規模",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/private-credit-stablecoins-pose-risks-beyond-size-bailey-warns",
-    "image": null,
-    "pushedAt": "2026-11-14T09:31:26.200Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/ives-cuts-nvidia-price-target-stays-bullish-post-huang-video",
     "title": "Dan Ives Cuts Nvidia Price Target, But Stays Bullish Post-Huang",
     "titleZh": "丹艾夫斯 (Dan Ives) 下調了 Nvidia 的價格目標，但在黃後仍保持樂觀",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-creating-luxury-home-buyers-serhant-video",
     "image": null,
     "pushedAt": "2026-11-16T20:53:23.346Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd",
+    "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
+    "titleZh": "OpenAI 被加州起訴超過 80 起「失控」事件",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T21:02:40.360Z"
   }
 ]
