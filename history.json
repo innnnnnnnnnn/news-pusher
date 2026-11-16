@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
-    "title": "The Ultrafast Fall of Jensen Huang",
-    "titleZh": "黃仁勳的超快墜落",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
-    "image": null,
-    "pushedAt": "2026-11-12T22:54:05.044Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation",
     "title": "Kalshi in Talks for New Funding Round at $65 Billion Valuation",
     "titleZh": "Kalshi 正在洽談估值 650 億美元的新一輪融資",
@@ -321,7 +312,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T05:58:39.640Z"
+    "pushedAt": "2026-11-16T08:09:24.140Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T08:06:49.949Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/google-backed-cassava-us-s-graphiant-to-secure-african-networks",
+    "title": "Google-Backed Cassava, US’s Graphiant to Secure African Networks",
+    "titleZh": "Google 背書的 Cassava 與美國的 Graphiant 將保障非洲網路安全",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/google-backed-cassava-us-s-graphiant-to-secure-african-networks",
+    "image": null,
+    "pushedAt": "2026-11-16T08:09:53.629Z"
   }
 ]
