@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/south-africa-needs-75-billion-a-year-to-spur-growth-maree-says",
-    "title": "South Africa Needs $75 Billion a Year to Spur Growth, Maree Says",
-    "titleZh": "Maree 表示，南非每年需要 750 億美元來刺激成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/south-africa-needs-75-billion-a-year-to-spur-growth-maree-says",
-    "image": null,
-    "pushedAt": "2026-11-13T13:22:54.356Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
     "title": "A Scorecard for Huang’s Exit From Nvidia",
     "titleZh": "黃仁勳退出英偉達的記分卡",
@@ -7287,7 +7278,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/nigerian-inflation-eases-ahead-of-interest-rate-setting-meeting",
     "image": null,
-    "pushedAt": "2026-11-16T20:16:51.153Z"
+    "pushedAt": "2026-11-16T22:31:26.695Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -8142,7 +8133,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "image": null,
-    "pushedAt": "2026-11-16T20:17:42.568Z"
+    "pushedAt": "2026-11-16T22:31:50.472Z"
   },
   {
     "id": "https://www.ft.com/content/112b35e9-9864-4d7b-8ece-c71f07c876ca",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/china-s-long-term-auto-bet-is-winning-video",
     "image": null,
     "pushedAt": "2026-11-16T22:29:21.990Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+    "title": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+    "titleZh": "川普政府尋求 LinkedIn 數據，試圖確定《紐約時報》的消息來源",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-leak-qbtp/dc-leak-qbtp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T22:32:17.067Z"
   }
 ]
