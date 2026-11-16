@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-    "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-    "titleZh": "戰後黎巴嫩面臨經濟「災難」和多年管理不善",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T21:27:35.415Z"
-  },
-  {
     "id": "https://www.ft.com/content/b3b8d2ff-dce0-4865-83af-72af77f96a8e",
     "title": "Milburn’s welfare overhaul brings flashbacks to universal credit rollout",
     "titleZh": "米爾本的福利改革讓全民信貸的推出重現",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
     "image": null,
     "pushedAt": "2026-11-16T18:40:13.660Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68",
+    "title": "The delicate balance in America’s AI chip war with China",
+    "titleZh": "美國與中國人工智慧晶片大戰的微妙平衡",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-16T18:40:42.782Z"
   }
 ]
