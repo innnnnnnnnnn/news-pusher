@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
-    "title": "Latest Oil Market News and Analysis for Nov. 13",
-    "titleZh": "11 月 13 日最新石油市場新聞與分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
-    "image": null,
-    "pushedAt": "2026-11-13T20:06:30.595Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/peru-raises-interest-rates-for-first-time-in-nearly-four-years",
     "title": "Peru Lifts Interest Rate for First Time in Nearly Four Years",
     "titleZh": "秘魯近四年來首次升息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/denmark-s-leo-pharma-delays-ipo-plans-beyond-2026-ceo-says",
     "image": null,
     "pushedAt": "2026-11-16T10:19:09.877Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
+    "title": "Paul Barril, French ‘Supergendarme’ Turned Mercenary, Has Died",
+    "titleZh": "法國「超級憲兵」變身僱傭兵保羅·巴里爾去世",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12obit-barril-ctwk/12obit-barril-ctwk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:19:39.822Z"
   }
 ]
