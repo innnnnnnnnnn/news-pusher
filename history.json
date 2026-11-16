@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
-    "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-    "titleZh": "在達卡擁擠的海灘上，非洲迎來了第一屆青奧會",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-promo/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T14:50:41.044Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
     "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
     "titleZh": "DeepX 斥資 1 億美元購買採用三星技術的新型 AI 晶片",
@@ -2175,7 +2166,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/renquoi3o?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-16T16:25:57.236Z"
+    "pushedAt": "2026-11-16T18:55:58.935Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
@@ -2184,7 +2175,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
     "image": null,
-    "pushedAt": "2026-11-16T16:26:22.513Z"
+    "pushedAt": "2026-11-16T18:56:23.591Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
@@ -2202,7 +2193,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-missuniverse-africa-1-lfwp/13int-missuniverse-africa-1-lfwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T16:27:40.747Z"
+    "pushedAt": "2026-11-16T18:57:13.179Z"
   },
   {
     "id": "https://flipso.com/p/kls7qm9ue",
@@ -2211,7 +2202,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/kls7qm9ue?ref=rss",
     "image": "https://cdn.flipso.com/p/kls7qm9ue_square.jpg",
-    "pushedAt": "2026-11-16T16:28:31.972Z"
+    "pushedAt": "2026-11-16T18:58:02.168Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/cftc-chief-calls-for-aluminum-pricing-reforms-after-costs-soar",
@@ -4677,7 +4668,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
     "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T16:27:14.127Z"
+    "pushedAt": "2026-11-16T18:56:48.364Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
@@ -4902,7 +4893,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "image": null,
-    "pushedAt": "2026-11-16T16:28:06.488Z"
+    "pushedAt": "2026-11-16T18:57:37.411Z"
   },
   {
     "id": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
     "image": null,
     "pushedAt": "2026-11-16T18:55:31.208Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video",
+    "title": "Nvidia Bull: AI Growth Story Remains Intact",
+    "titleZh": "Nvidia Bull：人工智慧成長故事保持不變",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video",
+    "image": null,
+    "pushedAt": "2026-11-16T18:58:30.220Z"
   }
 ]
