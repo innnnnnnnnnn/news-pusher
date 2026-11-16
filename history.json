@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
-    "title": "US Stocks Close Lower After Nvidia Spurs Volatility in AI Trade",
-    "titleZh": "美國期貨因微軟停電而上漲，生產者價格成為焦點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
-    "image": null,
-    "pushedAt": "2026-11-14T00:01:32.669Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
     "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
     "titleZh": "Neocloud Nscale 披露 55 億美元債務，並在 IPO 前與 Nvidia 更緊密聯繫",
@@ -7314,7 +7305,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/675941c1-d4e9-4407-8d1f-1ea8d358522a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T20:44:56.559Z"
+    "pushedAt": "2026-11-16T22:57:42.445Z"
   },
   {
     "id": "https://www.ft.com/content/5dfa6759-407c-4166-b221-802a5f5b936a",
@@ -7323,7 +7314,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5dfa6759-407c-4166-b221-802a5f5b936a",
     "image": null,
-    "pushedAt": "2026-11-16T20:45:22.275Z"
+    "pushedAt": "2026-11-16T22:58:06.281Z"
   },
   {
     "id": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4",
@@ -7332,7 +7323,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T20:45:46.527Z"
+    "pushedAt": "2026-11-16T22:58:30.085Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/dangote-invests-2-2-billion-to-upgrade-nigeria-s-road-network",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/opinion-measles-comeback-could-be-just-the-start-video",
     "image": null,
     "pushedAt": "2026-11-16T22:57:15.731Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/hammack-says-fed-interventions-should-be-temporary-targeted",
+    "title": "Hammack Says Fed Interventions Should Be Temporary, Targeted",
+    "titleZh": "哈馬克表示聯準會幹預應該是暫時的、有針對性的",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/hammack-says-fed-interventions-should-be-temporary-targeted",
+    "image": null,
+    "pushedAt": "2026-11-16T22:58:57.490Z"
   }
 ]
