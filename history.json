@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8507be25-9188-478c-9ea3-6c4f378ba5f6",
-    "title": "Burberry beats the luxury slump — by not really being luxury",
-    "titleZh": "巴寶莉 (Burberry) 克服了奢侈品牌的低迷——並非真正的奢侈品牌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8507be25-9188-478c-9ea3-6c4f378ba5f6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T17:48:32.336Z"
-  },
-  {
-    "id": "https://www.ft.com/content/91e8c6d1-54ab-48b6-a6ad-ea3b8dc3843f",
-    "title": "Don’t scoff at the dangers of tokenisation",
-    "titleZh": "不要嘲笑代幣化的危險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/91e8c6d1-54ab-48b6-a6ad-ea3b8dc3843f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T17:48:57.332Z"
-  },
-  {
     "id": "https://www.ft.com/content/903b4224-9d47-49ee-8534-1161b6c731db",
     "title": "Business school teaching case study: How to power a data centre",
     "titleZh": "商學院教學案例研究：如何為資料中心供電",
@@ -1554,7 +1536,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ta8vqbsew?ref=rss",
     "image": "https://cdn.flipso.com/p/ta8vqbsew_square.jpg",
-    "pushedAt": "2026-11-16T13:31:03.100Z"
+    "pushedAt": "2026-11-16T16:03:21.374Z"
   },
   {
     "id": "https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai",
     "image": null,
     "pushedAt": "2026-11-16T16:01:58.267Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-snubs-surprises-madonna-noah-kahan.html",
+    "title": "2027 Grammy Snubs and Surprises: Madonna, Noah Kahan, Audrey Hobert and More",
+    "titleZh": "2027 年葛萊美冷落與驚喜：麥當娜、諾亞卡漢、奧黛麗霍伯特等",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-snubs-surprises-madonna-noah-kahan.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16CUL-GRAMMY-SNUBS-ROSALIA-mwpg/16CUL-GRAMMY-SNUBS-ROSALIA-mwpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T16:03:47.997Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-travel-air-traffic-outage.html",
+    "title": "Millions Will Travel for Thanksgiving as Air Traffic Recovers From Outage",
+    "titleZh": "隨著空中交通從中斷中恢復，數百萬人將出行感恩節",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-travel-air-traffic-outage.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16trav-thanksgiving-numbers-zqfh/16trav-thanksgiving-numbers-zqfh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T16:03:52.506Z"
   }
 ]
