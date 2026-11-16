@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/bond-traders-see-elliott-s-citgo-deal-imperiled-by-oil-windfall",
-    "title": "Bond Traders See Elliott’s Citgo Deal Imperiled by Windfall",
-    "titleZh": "債券交易員認為埃利奧特的 Citgo 交易因石油暴利而受到威脅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bond-traders-see-elliott-s-citgo-deal-imperiled-by-oil-windfall",
-    "image": null,
-    "pushedAt": "2026-11-12T19:02:42.065Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
     "title": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
     "titleZh": "Weil Gotshal Partners 在近一個世紀後投票決定關閉",
@@ -2922,7 +2913,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-china-general-01-lbjw/00int-china-general-01-lbjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T23:43:34.654Z"
+    "pushedAt": "2026-11-16T01:57:50.609Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
@@ -6279,7 +6270,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T23:44:00.034Z"
+    "pushedAt": "2026-11-16T01:58:14.220Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike",
@@ -8241,7 +8232,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T23:44:25.119Z"
+    "pushedAt": "2026-11-16T01:58:38.063Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
@@ -8826,7 +8817,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/australia-warns-china-iron-ore-push-could-breach-trade-rules",
     "image": null,
-    "pushedAt": "2026-11-15T23:43:06.970Z"
+    "pushedAt": "2026-11-16T01:57:26.378Z"
   },
   {
     "id": "https://www.ft.com/video/a850f929-d16a-40a0-bdd8-c153452016fc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/hkex-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market",
     "image": null,
     "pushedAt": "2026-11-16T01:56:59.370Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/hft-firm-graviton-s-singapore-profit-surge-makes-indian-founders-billionaires",
+    "title": "HFT Firm Graviton’s Singapore Profit Surge Makes Indian Founders Billionaires",
+    "titleZh": "高頻交易公司 Graviton 在新加坡的利潤激增使印度創始人成為億萬富翁",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/hft-firm-graviton-s-singapore-profit-surge-makes-indian-founders-billionaires",
+    "image": null,
+    "pushedAt": "2026-11-16T01:59:08.709Z"
   }
 ]
