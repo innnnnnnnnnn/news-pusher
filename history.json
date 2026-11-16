@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-    "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-    "titleZh": "夾在殺手之間：一邊是伊波拉，一邊是伊斯蘭國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-ebola-biakato-promo-mzqw/13int-ebola-biakato-promo-mzqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:05:52.843Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
-    "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
-    "titleZh": "努力學習、就業並取得進步？它不再是以前的樣子了。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
-    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/01int-Ideas-Meritocracy-01-kgfm/01int-Ideas-Meritocracy-01-kgfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:10:52.146Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
     "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
     "titleZh": "習近平清洗中國將軍後，一名軍事檢察官崛起",
@@ -5631,7 +5613,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
     "image": null,
-    "pushedAt": "2026-11-16T16:36:46.779Z"
+    "pushedAt": "2026-11-16T19:07:20.559Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
@@ -5640,7 +5622,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
     "image": null,
-    "pushedAt": "2026-11-16T16:37:39.306Z"
+    "pushedAt": "2026-11-16T19:07:45.399Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
@@ -6207,7 +6189,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/1e16i9wl8?ref=rss",
     "image": "https://cdn.flipso.com/p/1e16i9wl8_square.jpg",
-    "pushedAt": "2026-11-16T16:36:21.061Z"
+    "pushedAt": "2026-11-16T19:06:55.870Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/coal-india-unit-mcl-seeks-as-much-as-953-million-in-mumbai-ipo",
@@ -8547,7 +8529,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9187b8bf-5dab-4bde-9815-a9042851c558?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T16:35:51.256Z"
+    "pushedAt": "2026-11-16T19:06:31.221Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
     "image": null,
     "pushedAt": "2026-11-16T19:02:44.613Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/hadrian-targets-critical-bottleneck-in-us-shipbuilding-video",
+    "title": "Hadrian Targets Critical Bottleneck in US Shipbuilding",
+    "titleZh": "哈德良瞄準美國造船業的關鍵瓶頸",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/hadrian-targets-critical-bottleneck-in-us-shipbuilding-video",
+    "image": null,
+    "pushedAt": "2026-11-16T19:08:13.528Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
+    "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
+    "titleZh": "圖斯克：黃仁勳不應該重新擔任英偉達首席執行官",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
+    "image": null,
+    "pushedAt": "2026-11-16T19:08:18.240Z"
   }
 ]
