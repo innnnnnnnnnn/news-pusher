@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b",
-    "title": "The Nvidia investor’s guide to (maybe) losing your CEO",
-    "titleZh": "英偉達投資者關於（可能）失去執行長的指南",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-12T21:10:08.715Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-    "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-    "titleZh": "英偉達間諜醜聞中的女性愛麗絲·黃是誰？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T13:56:10.033Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/with-jensen-huang-gone-who-will-be-nvidia-s-next-ceo-video",
     "title": "With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
     "titleZh": "黃仁勳離開後，誰會成為英偉達的下一任執行長？ (影片)",
@@ -7349,8 +7331,8 @@
     "titleZh": "「低火、低僱傭」就業市場損害了美國和英國的生產力",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbaae429c-a177-430a-8d9e-09004b401cc7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-15T22:15:57.920Z"
+    "image": null,
+    "pushedAt": "2026-11-16T00:34:11.473Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
@@ -7359,7 +7341,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-china-espionage-01-qvpc/12int-china-espionage-01-qvpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T22:16:22.829Z"
+    "pushedAt": "2026-11-16T00:34:34.340Z"
   },
   {
     "id": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-s-ceo-search-scrutiny-including-from-bessent-video",
     "image": null,
     "pushedAt": "2026-11-16T00:33:43.519Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/nyregion/building-collapse-cat-rescue.html",
+    "title": "Zariah, 13, and Her Cat Are Reunited After Building Collapse",
+    "titleZh": "13 歲的 Zariah 和她的貓在大樓倒塌後重聚",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/nyregion/building-collapse-cat-rescue.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/nyregion/15met-collapse-cat-02/15met-collapse-cat-02-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T00:35:00.031Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
+    "title": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
+    "titleZh": "高盛和摩根士丹利對日元前景看法分歧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
+    "image": null,
+    "pushedAt": "2026-11-16T00:35:02.853Z"
   }
 ]
