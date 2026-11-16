@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219",
-    "title": "Surging British tech sector helps drive UK economy",
-    "titleZh": "英國科技業的蓬勃發展有助於推動英國經濟",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F804c1f80-298c-434e-9af3-28580cb79b13.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-13T17:23:46.036Z"
-  },
-  {
     "id": "https://www.ft.com/content/9f608d3b-0b14-42d4-a7a3-b2cb379c7528",
     "title": "Labour MPs who defied Starmer now open to youth welfare cuts",
     "titleZh": "勞工福利反抗軍願意支持削減青年福利的計劃",
@@ -1635,7 +1626,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
     "image": "https://static01.nyt.com/images/2026/10/07/multimedia/XXint-mexico-immigration-vgph/XXint-mexico-immigration-vgph-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:26:06.156Z"
+    "pushedAt": "2026-11-16T14:52:00.629Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-to-cap-year-of-record-breaking-equity-megadeals",
@@ -2616,7 +2607,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
     "image": null,
-    "pushedAt": "2026-11-16T12:25:16.014Z"
+    "pushedAt": "2026-11-16T14:51:35.341Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/barclays-trading-desk-turns-bullish-for-first-time-since-march",
@@ -3633,7 +3624,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/lh4bzoeu5?ref=rss",
     "image": "https://cdn.flipso.com/p/lh4bzoeu5_square.jpg",
-    "pushedAt": "2026-11-16T12:24:51.220Z"
+    "pushedAt": "2026-11-16T14:51:10.716Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11france-Judo-01-jvkc/11france-Judo-01-jvkc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T14:50:43.110Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+    "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+    "titleZh": "聯合國開始採取不確定的措施來監管致命自主武器",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-killer-robots-cfgz/16int-killer-robots-cfgz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T14:52:27.409Z"
   }
 ]
