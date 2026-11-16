@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/rod-little-on-edgewell-s-growth-video",
-    "title": "Rod Little on Edgewell’s Growth",
-    "titleZh": "羅德·利特爾 (Rod Little) 談埃奇韋爾 (Edgewell) 的成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/rod-little-on-edgewell-s-growth-video",
-    "image": null,
-    "pushedAt": "2026-11-12T18:39:22.356Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/read-the-memos-from-nvidia-chairman-and-interim-ceo-after-ouster",
     "title": "Read the Memos From Nvidia Leaders After Jensen Huang Ouster",
     "titleZh": "閱讀黃仁勳 (Jensen Huang) 下台後 Nvidia 領導人的備忘錄",
@@ -1410,7 +1401,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12obit-barril-ctwk/12obit-barril-ctwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T22:20:08.592Z"
+    "pushedAt": "2026-11-16T00:38:49.037Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
@@ -6909,7 +6900,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/07pgqe1wu?ref=rss",
     "image": "https://cdn.flipso.com/p/07pgqe1wu_square.jpg",
-    "pushedAt": "2026-11-15T22:20:33.346Z"
+    "pushedAt": "2026-11-16T00:39:12.776Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
@@ -7224,7 +7215,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-15T22:18:53.097Z"
+    "pushedAt": "2026-11-16T00:37:35.757Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html",
@@ -7350,7 +7341,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
     "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00int-iran-confiscations-01-wftz/00int-iran-confiscations-01-wftz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T22:19:18.134Z"
+    "pushedAt": "2026-11-16T00:37:59.391Z"
   },
   {
     "id": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f",
@@ -8232,7 +8223,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
     "image": null,
-    "pushedAt": "2026-11-15T22:19:43.288Z"
+    "pushedAt": "2026-11-16T00:38:23.638Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
@@ -8731,12 +8722,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
+    "title": "US Futures Rebound After Two-Day Loss, Oil Slips: Markets Wrap",
     "titleZh": "亞洲股市面臨人工智慧壓力和數據轉儲：市場總結",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-15T22:20:59.823Z"
+    "pushedAt": "2026-11-16T00:39:36.617Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
     "image": null,
     "pushedAt": "2026-11-16T00:37:08.787Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
+    "title": "The Joyful Nerdiness of a 66-Hour, Nonstop Reading of ‘The Power Broker’",
+    "titleZh": "66 小時不間斷閱讀《權力掮客》的快樂書呆子",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-power-broker-top-klht/15met-power-broker-top-klht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T00:40:01.898Z"
   }
 ]
