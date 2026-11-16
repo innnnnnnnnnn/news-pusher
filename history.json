@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
-    "title": "Even Scott Colom’s Backers Were Skeptical. Here’s How He Won in Mississippi.",
-    "titleZh": "「我必須有信仰」：民主黨如何在密西西比州參議院競選中克服巨大的困難",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-colom-profile-qzmv/00pol-colom-profile-qzmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:36:17.304Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
     "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
     "titleZh": "漢堡、抵制和廣告分裂了俄亥俄州社區",
@@ -3768,7 +3759,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:23:29.318Z"
+    "pushedAt": "2026-11-16T19:53:06.834Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
@@ -6468,7 +6459,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T17:21:32.958Z"
+    "pushedAt": "2026-11-16T19:51:51.593Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
@@ -6999,7 +6990,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
     "image": null,
-    "pushedAt": "2026-11-16T17:24:32.021Z"
+    "pushedAt": "2026-11-16T19:53:57.049Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
@@ -8457,7 +8448,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/thoma-bravo-s-proofpoint-launches-2-billion-debt-deal-for-m-a",
     "image": null,
-    "pushedAt": "2026-11-16T17:22:00.772Z"
+    "pushedAt": "2026-11-16T19:52:15.914Z"
   },
   {
     "id": "https://www.ft.com/content/a8f489b3-7cb1-4013-9b6b-d684a0c4fb6b",
@@ -8466,7 +8457,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a8f489b3-7cb1-4013-9b6b-d684a0c4fb6b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T17:23:01.282Z"
+    "pushedAt": "2026-11-16T19:52:41.173Z"
   },
   {
     "id": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
@@ -8484,7 +8475,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html",
     "image": "https://static01.nyt.com/images/2026/11/15/upshot/15up-tilt-left-sub/15up-tilt-left-sub-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T17:23:58.304Z"
+    "pushedAt": "2026-11-16T19:53:31.596Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/ai-and-24-hour-trading-test-rules-governing-currency-markets",
     "image": null,
     "pushedAt": "2026-11-16T19:51:24.112Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
+    "title": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders",
+    "titleZh": "Tradeweb 正在為美國國債交易員推出人工智慧助手",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
+    "image": null,
+    "pushedAt": "2026-11-16T19:54:26.345Z"
   }
 ]
