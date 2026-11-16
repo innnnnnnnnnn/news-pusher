@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/briefing/jensen-huang.html",
-    "title": "After the Fall",
-    "titleZh": "秋天之後",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/briefing/jensen-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/13themorning-nl-huang-01/13themorning-nl-huang-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T19:34:46.988Z"
-  },
-  {
     "id": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
     "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
     "titleZh": "誰剛剛在 Jensxit 之前做空 Nvidia 賺了 2 億美元？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
     "image": null,
     "pushedAt": "2026-11-16T21:06:09.137Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/braskem-creditors-shun-company-s-latest-offer-discuss-new-plan",
+    "title": "Braskem Creditors Shun Company’s Latest Offer, Discuss New Plan",
+    "titleZh": "Braskem債權人迴避公司的最新報價，討論新計劃",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/braskem-creditors-shun-company-s-latest-offer-discuss-new-plan",
+    "image": null,
+    "pushedAt": "2026-11-16T21:15:18.055Z"
   }
 ]
