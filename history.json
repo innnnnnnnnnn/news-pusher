@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
-    "title": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
-    "titleZh": "Weil Gotshal Partners 在近一個世紀後投票決定關閉",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-ai-insurance-02-gkpt/10biz-ai-insurance-02-gkpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T14:20:43.767Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-on-ai-optimism-and-nvidia-s-next-ceo-video",
     "title": "Jensen Huang on AI Optimism and Nvidia’s Next CEO",
     "titleZh": "黃仁勳談 AI 樂觀主義和 Nvidia 的下一任首席執行官",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/hft-firm-graviton-s-singapore-profit-surge-makes-indian-founders-billionaires",
     "image": null,
     "pushedAt": "2026-11-16T01:59:08.709Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
+    "title": "Morgan Stanley ‘Max Overweight’ Global Stocks on Intact AI Cycle",
+    "titleZh": "摩根士丹利在完整的人工智慧週期中「最大增持」全球股票",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
+    "image": null,
+    "pushedAt": "2026-11-16T01:59:37.009Z"
   }
 ]
