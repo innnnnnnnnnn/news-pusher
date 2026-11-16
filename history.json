@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/sports/paul-lepage-maine-house-race.html",
-    "title": "Paul LePage, Ex-Governor of Maine, Flips House Seat to Republicans",
-    "titleZh": "緬因州前州長保羅·勒佩奇將眾議院席位讓給共和黨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/sports/paul-lepage-maine-house-race.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00hfo-lepage-01-vflq/00hfo-lepage-01-vflq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T04:57:27.961Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html",
     "title": "Farewell to Stanley Zabar, the ‘Mayor’ of the Upper West Side",
     "titleZh": "告別上西區「市長」史丹利·扎巴爾",
@@ -5775,7 +5766,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T07:45:32.690Z"
+    "pushedAt": "2026-11-16T10:02:00.601Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
@@ -8475,7 +8466,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T07:45:07.551Z"
+    "pushedAt": "2026-11-16T10:01:35.905Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T10:01:07.813Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
+    "title": "Thai Central Bank Chief Plays Down Chairman Rift on Legal Reform",
+    "titleZh": "泰國央行行長淡化主席對法律改革的分歧",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
+    "image": null,
+    "pushedAt": "2026-11-16T10:02:28.040Z"
   }
 ]
