@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/singtel-raises-profit-outlook-as-overseas-businesses-gain-ground",
-    "title": "Singtel Says ‘Fairly Insulated’ From Nvidia, Raises Guidance",
-    "titleZh": "隨著海外業務的發展，新加坡電信上調利潤預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/singtel-raises-profit-outlook-as-overseas-businesses-gain-ground",
-    "image": null,
-    "pushedAt": "2026-11-13T06:08:36.223Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/new-world-suspends-trading-as-investors-watch-for-next-steps",
     "title": "New World Suspends Trading as Investors Watch for Next Steps",
     "titleZh": "新世界暫停交易，投資人專注於下一步行動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
     "image": null,
     "pushedAt": "2026-11-16T12:13:17.711Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+    "title": "Huang and Lutnick Summoned to Testify Before Congress",
+    "titleZh": "黃和盧特尼克被傳喚到國會作證",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-16T12:13:46.504Z"
   }
 ]
