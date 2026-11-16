@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/national-beef-says-worst-is-over-for-us-cattle-cycle",
-    "title": "National Beef Says Worst Is Over for US Cattle Cycle",
-    "titleZh": "國家牛肉公司稱美國養牛週期最糟糕的時期已經過去",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/national-beef-says-worst-is-over-for-us-cattle-cycle",
-    "image": null,
-    "pushedAt": "2026-11-12T22:06:56.897Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
-    "title": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
-    "titleZh": "人工智慧的沒落國王",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/opinion/12Witt/12Witt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T15:06:15.585Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "title": "S&P 500 Falls as Chip Slump Offsets Inflation Data: Markets Wrap",
     "titleZh": "英偉達、石油等亞洲股市謹慎開盤：市場結束",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
     "image": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png",
     "pushedAt": "2026-11-16T10:08:31.179Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+    "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
+    "titleZh": "幫助中央情報局的墨西哥檢察官在他的州秘密活動逃往美國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-mexico-chihuahua-qckh/12int-mexico-chihuahua-qckh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:09:00.935Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+    "title": "Microsoft Says Outage Disrupting Outlook Is Improving",
+    "titleZh": "微軟表示 Outlook 中斷情況正在改善",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T10:09:04.392Z"
   }
 ]
