@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/21462c5b-0770-49ee-a248-9c01f03ddffe",
-    "title": "We need to get older people back into work too",
-    "titleZh": "我們也需要讓老年人重返工作崗位",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/21462c5b-0770-49ee-a248-9c01f03ddffe",
-    "image": null,
-    "pushedAt": "2026-11-13T04:44:47.875Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-ceo-must-be-a-tech-mind-says-mortonson-video",
     "title": "Must be a 'Tech Mind' in Nvidia CEO Position, Says Ted Mortonson",
     "titleZh": "泰德·莫頓森 (Ted Mortonson) 表示，Nvidia 執行長職位必須是“技術頭腦”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-huang-philanthropy-hqbg/11pol-huang-philanthropy-hqbg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T01:27:27.066Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase",
+    "title": "Kakao Prepares for Historic Split of Internet Empire in AI Chase",
+    "titleZh": "Kakao 為人工智慧追逐中網路帝國的歷史分裂做準備",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase",
+    "image": null,
+    "pushedAt": "2026-11-16T01:27:56.832Z"
   }
 ]
