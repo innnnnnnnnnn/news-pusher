@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
-    "title": "Anthropic’s IPO Is Said to Be About Six Times Oversubscribed",
-    "titleZh": "Anthropic IPO 據稱超額認購約六倍",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
-    "image": null,
-    "pushedAt": "2026-11-12T23:26:03.087Z"
-  },
-  {
-    "id": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd",
-    "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
-    "titleZh": "FirstFT：人類銀行家準備將 IPO 估值提高至 1.5 兆美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T04:23:33.095Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html",
     "title": "What Are Those Strange Noises Trump Makes?",
     "titleZh": "川普發出的那些奇怪的聲音是什麼？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T09:01:57.315Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year",
+    "title": "Global Banks Back AI-Linked Asia Currencies to Lead Next Year",
+    "titleZh": "全球銀行看好與人工智慧相關的亞洲貨幣將在明年領漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year",
+    "image": null,
+    "pushedAt": "2026-11-16T09:02:30.748Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
+    "title": "ECB’s Vujcic Warns AI and High Debt Threaten Financial Stability",
+    "titleZh": "歐洲央行武伊契奇警告人工智慧和高債務威脅金融穩定",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
+    "image": null,
+    "pushedAt": "2026-11-16T09:02:36.658Z"
   }
 ]
