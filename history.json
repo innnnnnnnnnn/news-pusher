@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dd653a19-492a-41d1-b459-3a2b7d2f0e86",
-    "title": "Watchmakers wrestle with influence of AI on buyers",
-    "titleZh": "製錶商努力應對人工智慧對買家的影響",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dd653a19-492a-41d1-b459-3a2b7d2f0e86",
-    "image": null,
-    "pushedAt": "2026-11-13T11:37:09.842Z"
-  },
-  {
     "id": "https://www.ft.com/content/3c3528d2-49b8-4e92-bc5d-e3c275a891cf",
     "title": "Jewellery tradition and innovation fuel Portugal’s push upmarket",
     "titleZh": "珠寶傳統與創新推動葡萄牙發展高端市場",
@@ -5793,7 +5784,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
     "image": null,
-    "pushedAt": "2026-11-16T11:58:31.051Z"
+    "pushedAt": "2026-11-16T14:21:39.701Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
@@ -5802,7 +5793,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-16T11:58:56.521Z"
+    "pushedAt": "2026-11-16T14:22:06.050Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-bond-borrowing-spree-defies-emerging-market-slump",
     "image": null,
     "pushedAt": "2026-11-16T14:21:09.870Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/colapso-de-ueno-bank-pone-en-duda-reputacion-de-paraguay-entre-inversionistas",
+    "title": "Colapso de Ueno Bank pone en duda reputación de Paraguay entre inversionistas",
+    "titleZh": "巴拉圭倒台銀行聲譽受損",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/colapso-de-ueno-bank-pone-en-duda-reputacion-de-paraguay-entre-inversionistas",
+    "image": null,
+    "pushedAt": "2026-11-16T14:22:34.872Z"
   }
 ]
