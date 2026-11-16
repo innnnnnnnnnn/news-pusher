@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
-    "title": "Microsoft Outage Hits Businesses, Nvidia Scandal Deepens",
-    "titleZh": "微軟企業宕機，英偉達醜聞加深",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-13T12:12:32.009Z"
-  },
-  {
     "id": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277",
     "title": "Jensen Huang’s years-long effort to get close to China",
     "titleZh": "黃仁勳多年來努力親近中國",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
     "image": null,
     "pushedAt": "2026-11-16T21:37:22.919Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+    "title": "Teaching kids to think for themselves in the age of AI",
+    "titleZh": "教導孩子在人工智慧時代獨立思考",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+    "image": null,
+    "pushedAt": "2026-11-16T21:37:52.310Z"
   }
 ]
