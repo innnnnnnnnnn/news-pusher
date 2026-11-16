@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-    "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-    "titleZh": "醫院為醫療補助工作規則和大幅資金削減做好準備",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-13T20:02:25.228Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
     "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago",
     "titleZh": "這位交易員幾個月前就對英偉達的中國糾葛發出了警報",
@@ -8052,7 +8043,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c99762d5-9d60-4234-bb40-29222f58bb22?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T16:49:43.844Z"
+    "pushedAt": "2026-11-16T19:19:31.660Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-bond-borrowing-spree-defies-emerging-market-slump",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/macquarie-warns-of-data-center-exuberance-amid-capex-super-cycle",
     "image": null,
     "pushedAt": "2026-11-16T19:15:17.349Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage",
+    "title": "Microsoft Bug Undetected Since July Triggered Worldwide Outage",
+    "titleZh": "自 7 月以來未檢測到的 Microsoft Bug 引發全球停電",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage",
+    "image": null,
+    "pushedAt": "2026-11-16T19:20:03.490Z"
   }
 ]
