@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "title": "S&P 500 Falls as Chip Slump Offsets Inflation Data: Markets Wrap",
-    "titleZh": "英偉達、石油等亞洲股市謹慎開盤：市場結束",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "image": null,
-    "pushedAt": "2026-11-13T22:56:33.942Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
     "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
     "titleZh": "Nvidia 醜聞引發大量人工智慧生成的表情包",
@@ -4596,7 +4587,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-16T07:49:22.092Z"
+    "pushedAt": "2026-11-16T10:09:32.570Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T10:09:04.392Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
+    "title": "BlackRock Sees Risk of AI 'Slowdown' Impacting US Growth (Video)",
+    "titleZh": "貝萊德認為人工智慧「放緩」的風險影響美國經濟成長（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
+    "image": null,
+    "pushedAt": "2026-11-16T10:09:58.323Z"
   }
 ]
