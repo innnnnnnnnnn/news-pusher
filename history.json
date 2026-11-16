@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang",
-    "title": "Banned Nvidia Chips Installed at China Data Center Linked to Alice Huang",
-    "titleZh": "中國資料中心安裝的被禁 Nvidia 晶片與 Alice Huang 有關",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang",
-    "image": null,
-    "pushedAt": "2026-11-13T16:55:04.061Z"
-  },
-  {
     "id": "https://flipso.com/p/fqlc6uthp",
     "title": "Branching Beyond Leonardo",
     "titleZh": "超越萊昂納多",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/think-twice-bloomberg-s-new-daily-trivia-game-video",
     "image": null,
     "pushedAt": "2026-11-16T17:03:25.135Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
+    "title": "A lone protester highlights the pain from China’s property bust",
+    "titleZh": "一名孤獨的抗議者凸顯了中國房地產泡沫破裂帶來的痛苦",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
+    "image": null,
+    "pushedAt": "2026-11-16T17:03:53.638Z"
   }
 ]
