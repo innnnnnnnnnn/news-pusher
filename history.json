@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html",
-    "title": "What Are Those Strange Noises Trump Makes?",
-    "titleZh": "川普發出的那些奇怪的聲音是什麼？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html",
-    "image": null,
-    "pushedAt": "2026-11-13T05:57:25.236Z"
-  },
-  {
     "id": "https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351",
     "title": "Burnham targets deal with EU that will deliver ‘real benefits’ for UK",
     "titleZh": "伯納姆的目標是與歐盟達成協議，為英國帶來“真正的好處”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
     "image": null,
     "pushedAt": "2026-11-16T09:02:36.658Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/how-china-plans-to-turn-its-factories-green-video",
+    "title": "How China Plans to Turn Its Factories Green",
+    "titleZh": "中國如何規劃讓工廠轉型為綠色工廠",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/how-china-plans-to-turn-its-factories-green-video",
+    "image": null,
+    "pushedAt": "2026-11-16T09:03:08.156Z"
   }
 ]
