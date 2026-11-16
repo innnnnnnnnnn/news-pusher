@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-12/us-held-venezuela-oil-sales-fund-paid-out-12-1-billion",
-    "title": "US-Held Venezuela Oil Fund Used $9 Billion to Buoy Bolivar",
-    "titleZh": "美國持有的委內瑞拉石油銷售基金支付121億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/us-held-venezuela-oil-sales-fund-paid-out-12-1-billion",
-    "image": null,
-    "pushedAt": "2026-11-12T19:08:02.399Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/veolia-ceo-wants-stricter-ban-on-eu-exports-of-used-battery-material",
     "title": "Veolia CEO Wants Stricter Ban on EU Exports of Used Battery Material",
     "titleZh": "威立雅執行長希望歐盟更嚴格禁止出口廢棄電池材料",
@@ -7215,7 +7206,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-china-espionage-01-qvpc/12int-china-espionage-01-qvpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T00:34:34.340Z"
+    "pushedAt": "2026-11-16T02:36:22.383Z"
   },
   {
     "id": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
     "image": null,
     "pushedAt": "2026-11-16T02:35:55.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-aluminum-output-drops-but-still-on-course-for-record",
+    "title": "Chinese Aluminum Output Drops But Still On Course for Record",
+    "titleZh": "中國鋁產量下降，但仍有望創歷史新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-aluminum-output-drops-but-still-on-course-for-record",
+    "image": null,
+    "pushedAt": "2026-11-16T02:36:48.171Z"
   }
 ]
