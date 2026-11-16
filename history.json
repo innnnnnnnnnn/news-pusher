@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/businessweek-in-december-is-all-about-china",
-    "title": "Businessweek In December Is All About China",
-    "titleZh": "商業周刊十二月都是關於中國的",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/businessweek-in-december-is-all-about-china",
-    "image": null,
-    "pushedAt": "2026-11-13T17:13:17.911Z"
-  },
-  {
     "id": "https://www.ft.com/content/f71ea01e-065d-4b1d-b6a5-9d8e336bcbeb",
     "title": "Objects of Desire by Celia Paul — grief, art and the beauty of Venice",
     "titleZh": "保羅 (Celia Paul) 的《慾望之物》－悲傷、藝術與威尼斯之美",
@@ -8583,7 +8574,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/hadrian-targets-critical-bottleneck-in-us-shipbuilding-video",
     "image": null,
-    "pushedAt": "2026-11-16T19:08:13.528Z"
+    "pushedAt": "2026-11-16T21:28:08.178Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
     "image": null,
     "pushedAt": "2026-11-16T21:27:14.316Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+    "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+    "titleZh": "貝森特在白宮關於中國的辯論中轉向鷹派",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T21:28:35.889Z"
   }
 ]
