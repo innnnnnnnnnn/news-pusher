@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-in-crisis-what-next-bloomberg-tech-europe-video",
-    "title": "Nvidia in Crisis: What Next? | Bloomberg Tech: Europe",
-    "titleZh": "危機中的英偉達：下一步怎麼辦？ |彭博科技：歐洲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-in-crisis-what-next-bloomberg-tech-europe-video",
-    "image": null,
-    "pushedAt": "2026-11-13T16:56:18.088Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/briefing/jensen-huang.html",
     "title": "After the Fall",
     "titleZh": "秋天之後",
@@ -618,7 +609,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-fed-01-fjhv/13dc-fed-01-fjhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:41:35.594Z"
+    "pushedAt": "2026-11-16T21:05:18.305Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
@@ -3129,7 +3120,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:42:30.653Z"
+    "pushedAt": "2026-11-16T21:05:43.277Z"
   },
   {
     "id": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33",
@@ -8070,7 +8061,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/opinion/talarico-humility.html",
     "image": null,
-    "pushedAt": "2026-11-16T18:41:11.014Z"
+    "pushedAt": "2026-11-16T21:04:53.551Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
@@ -8547,7 +8538,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T18:40:42.782Z"
+    "pushedAt": "2026-11-16T21:04:27.806Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-Asia-Index-kqmp/16int-Asia-Index-kqmp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T21:03:59.487Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
+    "title": "MIT Brothers Acquitted in $25 Million Crypto Case, Avoid Retrial",
+    "titleZh": "麻省理工兄弟在價值 2500 萬美元的加密案件中被判無罪，避免重審",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
+    "image": null,
+    "pushedAt": "2026-11-16T21:06:09.137Z"
   }
 ]
