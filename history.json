@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3d0d58ba-600f-427c-ab22-553cd8a1dcc8",
-    "title": "RedBird explores listing for new AC Milan holding company",
-    "titleZh": "紅鳥探索新AC米蘭控股公司上市",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3d0d58ba-600f-427c-ab22-553cd8a1dcc8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T04:30:41.410Z"
-  },
-  {
     "id": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def",
     "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
     "titleZh": "美國國債將迎來川普「解放日」以來最糟糕的一周",
@@ -5991,7 +5982,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T17:41:42.784Z"
+    "pushedAt": "2026-11-16T20:11:33.878Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-pushing-for-new-etif-hybrid-video",
     "image": null,
     "pushedAt": "2026-11-16T20:05:12.854Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+    "title": "Chase Bank Reports Technical Issue Disrupting Transactions",
+    "titleZh": "大通銀行報告技術問題幹擾交易",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T20:12:02.306Z"
   }
 ]
