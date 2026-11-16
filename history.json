@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
-    "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
-    "titleZh": "博物館的「通緝」海報活動將被掠奪的畫作帶回法國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T04:25:28.068Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
-    "title": "Democrats Eye Strict New Limits on White House Budget Powers",
-    "titleZh": "民主黨對白宮預算權力實行嚴格的新限制",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trump-budget-02-ckgz/13dc-trump-budget-02-ckgz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:13:45.524Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
     "title": "One Man’s Quest to Create the Perfect Whiskey Glass",
     "titleZh": "一個人對打造完美威士忌酒杯的追求",
@@ -1131,7 +1113,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:06:07.093Z"
+    "pushedAt": "2026-11-16T19:33:16.225Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
@@ -3228,7 +3210,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
     "image": null,
-    "pushedAt": "2026-11-16T17:06:33.277Z"
+    "pushedAt": "2026-11-16T19:33:41.004Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
@@ -3876,7 +3858,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T17:04:49.007Z"
+    "pushedAt": "2026-11-16T19:32:26.945Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
@@ -8052,7 +8034,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-fuels-half-of-israel-s-growth-as-economy-beats-forecasts",
     "image": null,
-    "pushedAt": "2026-11-16T17:05:39.079Z"
+    "pushedAt": "2026-11-16T19:32:51.606Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/us-moves-to-restrict-remote-access-to-advanced-ai-chips-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-hammack-prefers-moving-rates-in-smaller-increments-video",
     "image": null,
     "pushedAt": "2026-11-16T19:27:25.656Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-watch-for-in-nvidia-earnings-video",
+    "title": "What to Watch for in Nvidia Earnings",
+    "titleZh": "英偉達財報值得關注的事項",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-watch-for-in-nvidia-earnings-video",
+    "image": null,
+    "pushedAt": "2026-11-16T19:34:08.621Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/skilled-immigration-lowers-pay-for-college-educated-us-workers-study-finds",
+    "title": "Skilled Immigration Lowers Pay for College-Educated US Workers, Study Finds",
+    "titleZh": "研究發現，技術移民降低了受過大學教育的美國工人的薪資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/skilled-immigration-lowers-pay-for-college-educated-us-workers-study-finds",
+    "image": null,
+    "pushedAt": "2026-11-16T19:34:12.642Z"
   }
 ]
