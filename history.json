@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c5f9c661-1c6b-4ea5-978b-003e723b9b22",
-    "title": "Who killed Britain’s electric car dreams?",
-    "titleZh": "誰扼殺了英國的電動車夢想？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c5f9c661-1c6b-4ea5-978b-003e723b9b22?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-13T17:24:10.730Z"
-  },
-  {
     "id": "https://www.ft.com/content/33b33399-fc3a-4a79-9da3-313a320e3335",
     "title": "How Israel lost America",
     "titleZh": "以色列如何失去美國",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers-mwjdpb94",
     "image": null,
     "pushedAt": "2026-11-16T14:53:22.393Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+    "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
+    "titleZh": "儘管美國鎮壓，美國公雞仍在菲律賓打架",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-roosters-gztb/00xp-roosters-gztb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-16T14:58:42.098Z"
   }
 ]
