@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/weather/el-nino-california-explained.html",
-    "title": "A Concerned Californian’s Guide to El Niño",
-    "titleZh": "一位憂心忡忡的加州人的厄爾尼諾指南",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/weather/el-nino-california-explained.html",
-    "image": "https://static01.nyt.com/images/2026/10/13/multimedia/00wea-california-elnino/00wea-california-elnino-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-12T23:53:51.578Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-12/braskem-misses-estimates-as-weaker-spreads-offset-sales",
     "title": "Braskem Misses Estimates as Weaker Spreads Offset Sales",
     "titleZh": "布拉斯科姆未達預期，因利差疲軟抵銷了銷售",
@@ -2391,7 +2382,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T08:46:09.946Z"
+    "pushedAt": "2026-11-16T11:07:51.696Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
@@ -6603,7 +6594,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T08:45:44.998Z"
+    "pushedAt": "2026-11-16T11:07:25.674Z"
   },
   {
     "id": "https://flipso.com/p/fhh1z8x21",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/podcasts/the-headlines/faa-microsoft-outage.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16themorning-newsletter-FAA-hcmt/16themorning-newsletter-FAA-hcmt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-16T11:06:57.858Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22",
+    "title": "Canada’s Carney Faces Meta, Google, Apple Backlash Over Lawful Access Bill C-22",
+    "titleZh": "加拿大卡尼面臨 Meta、谷歌、蘋果對合法訪問法案 C-22 的強烈反對",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22",
+    "image": null,
+    "pushedAt": "2026-11-16T11:08:19.644Z"
   }
 ]
