@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
-    "title": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
-    "titleZh": "Guinness Atkinson 執行長討論新 K-Beauty ETF 的推出",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
-    "image": null,
-    "pushedAt": "2026-11-13T11:08:38.468Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/analyst-sees-stricter-us-export-controls-after-nvidia-video",
-    "title": "Analyst Sees Stricter US Export Controls After Nvidia",
-    "titleZh": "分析師認為繼英偉達之後美國將實施更嚴格的出口管制",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/analyst-sees-stricter-us-export-controls-after-nvidia-video",
-    "image": null,
-    "pushedAt": "2026-11-13T11:09:50.856Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/billionaire-koguan-vows-not-to-buy-nvidia-stock-as-huang-quits",
     "title": "Billionaire KoGuan Vows to Halt Nvidia Buys After Huang Exit",
     "titleZh": "億萬富翁凱原發誓在黃退出後不會買英偉達股票",
@@ -7255,12 +7237,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
-    "title": "Emerging Stocks Extend Slide as Tech Drops Before Nvidia Results",
+    "title": "Brazilian Real Leads Losses, EM Stocks Sink on AI Uncertainty",
     "titleZh": "由於人工智慧擔憂持續存在，新興市場股票和貨幣下跌",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
     "image": null,
-    "pushedAt": "2026-11-16T10:58:16.131Z"
+    "pushedAt": "2026-11-16T16:33:53.162Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/the-chipdollar-vs-the-petrodollar",
     "image": null,
     "pushedAt": "2026-11-16T16:33:24.248Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-earnings-to-test-ai-boom-as-hike-looms-video",
+    "title": "Nvidia Earnings to Test AI Boom as Hike Looms",
+    "titleZh": "隨著健行的臨近，英偉達的獲利測試了人工智慧的繁榮",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-earnings-to-test-ai-boom-as-hike-looms-video",
+    "image": null,
+    "pushedAt": "2026-11-16T16:34:21.450Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
+    "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
+    "titleZh": "英偉達 CEO 搜尋因 Bessent 的人事變動而引起關注",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
+    "image": null,
+    "pushedAt": "2026-11-16T16:34:24.413Z"
   }
 ]
