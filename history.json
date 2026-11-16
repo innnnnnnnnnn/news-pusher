@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/-essential-that-us-upholds-export-controls-buchanan-video",
-    "title": "'Essential' That US Upholds Export Controls on Chips, Says Ben Buchanan",
-    "titleZh": "本·布坎南表示，美國維持晶片出口管制“至關重要”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/-essential-that-us-upholds-export-controls-buchanan-video",
-    "image": null,
-    "pushedAt": "2026-11-12T22:49:39.414Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
     "title": "A Key Paris Agreement Goal Is Dead. What Now?",
     "titleZh": "《巴黎協定》的一個關鍵目標已經落空。現在怎麼辦？",
@@ -6612,7 +6603,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
     "image": null,
-    "pushedAt": "2026-11-16T05:45:49.811Z"
+    "pushedAt": "2026-11-16T07:56:34.820Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
@@ -6621,7 +6612,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
     "image": null,
-    "pushedAt": "2026-11-16T05:48:17.071Z"
+    "pushedAt": "2026-11-16T07:58:40.103Z"
   },
   {
     "id": "https://www.ft.com/content/f92f05b4-0d1a-4bdb-8759-4d71f1cf58af",
@@ -8736,7 +8727,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T05:46:16.519Z"
+    "pushedAt": "2026-11-16T07:56:59.759Z"
   },
   {
     "id": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b",
@@ -8745,16 +8736,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-16T05:46:46.484Z"
+    "pushedAt": "2026-11-16T07:57:24.718Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal",
-    "title": "MTN Holds Talks to Buy South Africa’s Telkom in Cash, Share Deal",
+    "title": "MTN in Talks to Buy Telkom in South African Cash, Share Deal",
     "titleZh": "MTN 就以現金和股票交易收購南非 Telkom 進行談判",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal",
     "image": null,
-    "pushedAt": "2026-11-16T05:47:16.231Z"
+    "pushedAt": "2026-11-16T07:57:50.164Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
@@ -8763,7 +8754,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
     "image": null,
-    "pushedAt": "2026-11-16T05:47:48.047Z"
+    "pushedAt": "2026-11-16T07:58:15.170Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/uk-rate-hike-bets-are-picking-up-with-key-inflation-data-due",
     "image": null,
     "pushedAt": "2026-11-16T07:51:04.447Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/coca-cola-hbc-gets-jse-listing-nod-ahead-of-2-6-billion-deal",
+    "title": "Coca-Cola HBC Gets JSE Listing Nod Ahead of $2.6 Billion Deal",
+    "titleZh": "可口可樂 HBC 獲得 JSE 上市批准，交易金額達 26 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/coca-cola-hbc-gets-jse-listing-nod-ahead-of-2-6-billion-deal",
+    "image": null,
+    "pushedAt": "2026-11-16T07:59:06.565Z"
   }
 ]
