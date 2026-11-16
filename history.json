@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-    "titleZh": "隨著要求加強控制的呼聲越來越高，盧特尼克對英偉達的立場變得更加溫和",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T11:00:50.858Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
     "title": "Inside Jensen Huang's Final Hours as the CEO of Nvidia",
     "titleZh": "黃仁勳作為 Nvidia 首席執行官的最後幾個小時",
@@ -3471,7 +3462,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T09:46:25.240Z"
+    "pushedAt": "2026-11-16T12:07:28.004Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
@@ -3489,7 +3480,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
     "image": null,
-    "pushedAt": "2026-11-16T09:46:50.096Z"
+    "pushedAt": "2026-11-16T12:07:53.584Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
@@ -5019,7 +5010,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-ballads-kgqm/14asia-eurovision-ballads-kgqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T09:47:15.158Z"
+    "pushedAt": "2026-11-16T12:08:18.672Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/mercuria-hires-ex-shell-trading-veteran-to-head-up-oil-products",
     "image": null,
     "pushedAt": "2026-11-16T12:06:59.627Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation",
+    "title": "Brazil Analysts Lift 2027 Forecasts for Key Rate and Inflation",
+    "titleZh": "巴西分析師上調 2027 年關鍵利率與通膨預測",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation",
+    "image": null,
+    "pushedAt": "2026-11-16T12:08:48.268Z"
   }
 ]
