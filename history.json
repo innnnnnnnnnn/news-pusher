@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113",
-    "title": "The affordability economics is coming!",
-    "titleZh": "可負擔經濟即將到來！",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T02:01:41.214Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
     "title": "The Flaw at the Heart of Anthropic’s I.P.O.",
     "titleZh": "Anthropic IPO 的核心缺陷",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
     "image": null,
     "pushedAt": "2026-11-17T20:09:35.044Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
+    "title": "Jensen Huang must go",
+    "titleZh": "黃仁勳必須走",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
+    "image": null,
+    "pushedAt": "2026-11-17T20:10:03.945Z"
   }
 ]
