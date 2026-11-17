@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
-    "title": "Jensen Huang must go",
-    "titleZh": "黃仁勳必須走",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
-    "image": null,
-    "pushedAt": "2026-11-17T17:53:28.144Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-    "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-    "titleZh": "以色列逮捕記者阿貝德·阿布·謝哈德引發擔憂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T13:07:49.683Z"
-  },
-  {
     "id": "https://www.ft.com/content/ee4176cc-5f08-47a4-909c-caa0cd54e113",
     "title": "The affordability economics is coming!",
     "titleZh": "可負擔經濟即將到來！",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
     "image": null,
     "pushedAt": "2026-11-17T20:05:22.435Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move",
+    "title": "Fed Officials Debate Pace of Rate Hikes as Williams Urges Measured Action",
+    "titleZh": "威廉斯敦促採取謹慎行動，聯準會官員討論升息步伐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move",
+    "image": null,
+    "pushedAt": "2026-11-17T20:09:30.981Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
+    "title": "Barclays Sees 2027 Muni Bond Supply Reaching Up to $600 Billion",
+    "titleZh": "巴克萊預計 2027 年市政債券供應量將達到 6,000 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
+    "image": null,
+    "pushedAt": "2026-11-17T20:09:35.044Z"
   }
 ]
