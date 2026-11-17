@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html",
-    "title": "Goodbye, Mr. Chips",
-    "titleZh": "再見，奇普斯先生",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dowd-tzlv/14dowd-tzlv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T21:28:50.190Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/opinion/midterm-elections-democrats-republicans-whats-next.html",
     "title": "‘There’s No Juice Left to Squeeze From MAGA’",
     "titleZh": "“MAGA 已經沒有果汁可榨了”",
@@ -8439,7 +8430,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/eu-and-anti-dumping-duties-on-steel-and-chinese-imports",
     "image": null,
-    "pushedAt": "2026-11-17T12:01:48.282Z"
+    "pushedAt": "2026-11-17T14:30:32.406Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/china-hawks-ascend-in-washington-to-push-new-tech-restrictions",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/china-hawks-ascend-in-washington-to-push-new-tech-restrictions",
     "image": null,
-    "pushedAt": "2026-11-17T12:01:52.660Z"
+    "pushedAt": "2026-11-17T14:30:57.285Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/musk-backer-antonio-gracias-takes-center-stage-at-tomorrowx",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video",
     "image": null,
     "pushedAt": "2026-11-17T14:30:03.411Z"
+  },
+  {
+    "id": "https://www.nytimes.com/es/2026/11/17/espanol/america-latina/christian-sanon-juicio-haiti-asesinato-presidente.html",
+    "title": "¿Quién es el hombre acusado de asesinar al presidente de Haití?",
+    "titleZh": "你是海地總統的朋友嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/es/2026/11/17/espanol/america-latina/christian-sanon-juicio-haiti-asesinato-presidente.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/espanol/17haiti-assassination-pastor-zgtf-ES-copy1/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T14:31:24.118Z"
   }
 ]
