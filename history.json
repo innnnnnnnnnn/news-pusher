@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/lutnick-under-pressure-as-nvidia-crisis-unfolds-video",
-    "title": "Lutnick Under Pressure as Nvidia Crisis Unfolds",
-    "titleZh": "英偉達危機爆發，盧特尼克面臨壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/lutnick-under-pressure-as-nvidia-crisis-unfolds-video",
-    "image": null,
-    "pushedAt": "2026-11-13T19:43:06.785Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
     "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
     "titleZh": "美國證券交易委員會採取措施限制向投資者揭露高階主管薪酬",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/f214db12-7c8a-4d54-8582-b57289513c29?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T05:07:46.689Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+    "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
+    "titleZh": "亞裔美國人對黃仁勳醜聞感到失望和恐懼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00nat-huang-asianamericans-clvp/00nat-huang-asianamericans-clvp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T05:08:14.708Z"
   }
 ]
