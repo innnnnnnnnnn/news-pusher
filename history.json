@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-    "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-    "titleZh": "「世代衝突」正在加劇歐洲的抗議",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:43:49.628Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "title": "Quebec’s strategic maple-syrup reserve is running dry",
     "titleZh": "魁北克的戰略楓糖漿儲備即將枯竭",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T11:33:19.786Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+    "title": "Despite recent misses, political polling is more accurate than ever",
+    "titleZh": "儘管最近有失準的情況，但政治民調的準確度比以往任何時候都高。",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+    "image": null,
+    "pushedAt": "2026-11-17T11:33:50.546Z"
   }
 ]
