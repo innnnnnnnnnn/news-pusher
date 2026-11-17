@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
-    "title": "A.I. and Market Whiplash",
-    "titleZh": "人工智慧.和市場鞭打",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-theworld-midterms-stocks-promo/12int-theworld-midterms-stocks-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T03:01:24.391Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
     "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
     "titleZh": "俄羅斯駐美大使亞歷山大·達爾切耶夫去世，享年 66 歲",
@@ -2679,7 +2670,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T06:37:54.597Z"
+    "pushedAt": "2026-11-17T08:53:47.087Z"
   },
   {
     "id": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/barclays-rajadhayaksha-nvidia-market-angst-overdone-video",
     "image": null,
     "pushedAt": "2026-11-17T08:53:21.232Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa",
+    "title": "Cassava Seeks $1 Billion for Nvidia Chips to Power AI in Africa",
+    "titleZh": "Cassava 尋求 10 億美元購買 Nvidia 晶片，為非洲的人工智慧提供動力",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa",
+    "image": null,
+    "pushedAt": "2026-11-17T08:54:12.162Z"
   }
 ]
