@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
-    "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
-    "titleZh": "想賣空股票嗎？ Kalshi 和 C.T.F.C.允許它作為「永續交易」。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T08:20:30.570Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
     "title": "Why you should expect an AI crash",
     "titleZh": "為什麼你應該預料到人工智慧會崩潰",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
     "image": null,
     "pushedAt": "2026-11-17T18:54:27.407Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-faces-first-earnings-test-since-huang-s-exit-video",
+    "title": "Nvidia Faces First Earnings Test Since Huang’s Exit",
+    "titleZh": "英偉達面臨黃仁勳退出後的首次獲利測試",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-faces-first-earnings-test-since-huang-s-exit-video",
+    "image": null,
+    "pushedAt": "2026-11-17T19:04:12.569Z"
   }
 ]
