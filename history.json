@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dbf8d003-aa1d-4f23-9702-45fcff4360fd",
-    "title": "The South African townships turning against the ANC",
-    "titleZh": "南非鄉鎮反對非國大",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dbf8d003-aa1d-4f23-9702-45fcff4360fd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T00:06:44.383Z"
-  },
-  {
     "id": "https://www.ft.com/content/094acead-5c40-4609-87fd-f02b171eb42c",
     "title": "Martin Wolf on the US midterms: Trump loses. European populism lives on.",
     "titleZh": "馬丁沃爾夫談美國中期選舉：川普輸了。歐洲民粹主義依然存在。",
@@ -4366,12 +4357,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-    "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+    "title": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
     "titleZh": "關於川普的亞洲之行需要了解什麼",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T10:02:46.911Z"
+    "pushedAt": "2026-11-17T12:25:18.747Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade",
@@ -7917,7 +7908,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-chip-curbs-force-xi-to-weigh-response-before-trump-summit",
     "image": null,
-    "pushedAt": "2026-11-17T10:03:09.830Z"
+    "pushedAt": "2026-11-17T12:25:44.092Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/markets-await-nvidia-earnings-call-for-clues-on-strategy-video",
@@ -8358,16 +8349,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T10:02:15.271Z"
+    "pushedAt": "2026-11-17T12:24:28.615Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/sap-executive-board-member-saueressig-quits-to-become-ionos-ceo",
-    "title": "SAP Executive Thomas Saueressig Quits to Become Ionos CEO",
+    "title": "SAP Executive Saueressig Quits to Become Ionos CEO",
     "titleZh": "SAP 高階主管 Thomas Saueressig 辭職出任 Ionos 首席執行官",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/sap-executive-board-member-saueressig-quits-to-become-ionos-ceo",
     "image": null,
-    "pushedAt": "2026-11-17T10:02:20.666Z"
+    "pushedAt": "2026-11-17T12:24:54.190Z"
   },
   {
     "id": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
     "image": null,
     "pushedAt": "2026-11-17T12:13:09.446Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/emerging-stocks-drop-as-nvidia-jitters-weigh-on-asian-tech",
+    "title": "Emerging Stocks Drop As Nvidia Jitters Weigh on Asian Tech",
+    "titleZh": "英偉達 (Nvidia) 的不安情緒拖累亞洲科技股，新興股下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/emerging-stocks-drop-as-nvidia-jitters-weigh-on-asian-tech",
+    "image": null,
+    "pushedAt": "2026-11-17T12:26:10.724Z"
   }
 ]
