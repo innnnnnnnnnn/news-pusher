@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
-    "title": "Anthropic CEO Calls Computing Power Deepest Business Dilemma",
-    "titleZh": "Anthropic執行長稱計算能力為“最深的商業困境”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
-    "image": null,
-    "pushedAt": "2026-11-14T14:02:40.007Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-makes-some-progress-on-outlook-outage-video",
     "title": "Microsoft Makes Some Progress on Outlook Outage",
     "titleZh": "微軟在 Outlook 中斷問題上取得了一些進展",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1c64f910-14f9-41fc-880e-3acf673f4993",
     "image": null,
     "pushedAt": "2026-11-17T06:08:08.400Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+    "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+    "titleZh": "艾森科特指責內塔尼亞胡助長針對阿拉伯人的「種族主義」敵意",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T06:08:34.382Z"
   }
 ]
