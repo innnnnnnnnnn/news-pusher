@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd",
-    "title": "SpaceX catches returning Starship rocket in breakthrough for Musk",
-    "titleZh": "助推器故障後 SpaceX 中止了捕捉 Starship 火箭的嘗試",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T02:59:28.516Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions",
-    "title": "Fed’s Jefferson Says Inflation Will Determine Rate Decisions",
-    "titleZh": "聯準會傑佛遜表示通膨將決定利率決定",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions",
-    "image": null,
-    "pushedAt": "2026-11-14T23:40:33.948Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
     "title": "US Flights Grounded Over Air Traffic Communication Issue",
     "titleZh": "美國航班因空中交通通訊問題停飛",
@@ -1941,7 +1923,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
     "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T08:28:44.299Z"
+    "pushedAt": "2026-11-17T10:45:00.724Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
@@ -2166,7 +2148,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "image": null,
-    "pushedAt": "2026-11-17T08:29:53.571Z"
+    "pushedAt": "2026-11-17T10:45:24.097Z"
   },
   {
     "id": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af",
@@ -2337,7 +2319,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html",
     "image": null,
-    "pushedAt": "2026-11-17T08:30:40.326Z"
+    "pushedAt": "2026-11-17T10:45:47.491Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
@@ -6926,8 +6908,8 @@
     "titleZh": "米爾本評論顯示英國是否真的想改革其福利國家",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f569092c-ec94-4b79-9832-3f74dd94c19f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67cdde8f-b689-478d-bcda-85078fd9db6b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T07:41:46.361Z"
+    "image": null,
+    "pushedAt": "2026-11-17T10:44:37.376Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/billionaire-rinehart-boosts-us-defense-and-spacex-holdings",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/jd-com-sales-rise-in-face-of-sluggish-china-economy-competition",
     "image": null,
     "pushedAt": "2026-11-17T10:44:11.416Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/apple-watch-s-always-listening-ai-features-provide-little-value",
+    "title": "Apple Watch’s Always-Listening AI Features Provide Little Value",
+    "titleZh": "Apple Watch 總是傾聽的人工智慧功能幾乎沒有價值",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/apple-watch-s-always-listening-ai-features-provide-little-value",
+    "image": null,
+    "pushedAt": "2026-11-17T10:46:15.171Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value",
+    "title": "Apple Watch Siri Recap Review: AI Listening Adds Little Value",
+    "titleZh": "Apple Watch Siri 回顧：AI 聆聽幾乎沒有增加任何價值",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value",
+    "image": null,
+    "pushedAt": "2026-11-17T10:46:21.451Z"
   }
 ]
