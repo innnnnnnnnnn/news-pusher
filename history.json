@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
-    "title": "The War Room newsletter: How long will Pete Hegseth last?",
-    "titleZh": "作戰室時事通訊：皮特·赫格斯還能撐多久？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
-    "image": null,
-    "pushedAt": "2026-11-16T14:16:41.585Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
-    "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
-    "titleZh": "Anthropic 的 Amodei 不希望人工智慧代理“狂奔”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
-    "image": null,
-    "pushedAt": "2026-11-13T23:50:50.777Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/chile-mulls-private-sector-role-in-codelco-mines",
     "title": "Chile Mulls Private-Sector Role in Codelco Mines",
     "titleZh": "智利考慮私營部門在 Codelco 礦山中的作用",
@@ -357,7 +339,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/renquoi3o?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-17T03:58:47.628Z"
+    "pushedAt": "2026-11-17T06:14:38.049Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
@@ -366,7 +348,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
     "image": null,
-    "pushedAt": "2026-11-17T03:59:11.969Z"
+    "pushedAt": "2026-11-17T06:15:02.471Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
@@ -4020,7 +4002,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
     "image": null,
-    "pushedAt": "2026-11-17T03:58:22.502Z"
+    "pushedAt": "2026-11-17T06:14:14.943Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T06:11:50.152Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f263fbf0-e0cc-48dd-b6be-d28b9ce45dd7",
+    "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+    "titleZh": "德意志銀行 1500 萬份文件外洩揭露系統性故障",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f263fbf0-e0cc-48dd-b6be-d28b9ce45dd7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T06:15:25.382Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/griffiths-seeing-confidence-return-to-mideast-travel-video",
+    "title": "Griffiths: Seeing Confidence Return to Mideast Travel",
+    "titleZh": "格里菲斯：看到中東旅遊業恢復信心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/griffiths-seeing-confidence-return-to-mideast-travel-video",
+    "image": null,
+    "pushedAt": "2026-11-17T06:15:29.616Z"
   }
 ]
