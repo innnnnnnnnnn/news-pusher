@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-    "title": "The return of the snatch-and-grab state",
-    "titleZh": "搶奪狀態的回歸",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-    "image": null,
-    "pushedAt": "2026-11-17T18:52:04.987Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "title": "Where to find the anti-AI trade",
     "titleZh": "哪裡可以找到反人工智慧交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
     "image": null,
     "pushedAt": "2026-11-17T20:45:09.882Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3",
+    "title": "Will Nvidia earnings steady the AI sell-off?",
+    "titleZh": "英偉達的獲利能否穩定人工智慧的拋售潮？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T20:45:38.727Z"
   }
 ]
