@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-    "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
-    "titleZh": "在班夫，一隻被稱為「老大」的灰熊統治著國家公園",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-    "image": null,
-    "pushedAt": "2026-11-17T15:44:18.310Z"
-  },
-  {
     "id": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a",
     "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
     "titleZh": "隨著人工智慧貿易繁榮的消退，資料中心建築股下跌 4.2 兆美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/nyregion/enrollment-nyc-schools-declines.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16met-schools-wbgh/16met-schools-wbgh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T17:02:43.581Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+    "title": "Is Italy the Model for Europe’s Future?",
+    "titleZh": "義大利是歐洲未來的典範嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T17:03:12.576Z"
   }
 ]
