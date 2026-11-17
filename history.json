@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
-    "title": "Olivia Wilde Hit Bottom. Here’s How She Bounced Back.",
-    "titleZh": "奧莉薇亞·王爾德跌入谷底。這是她如何反彈的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-interview-wilde-04/22mag-interview-wilde-04-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T09:20:46.239Z"
-  },
-  {
     "id": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a",
     "title": "France signals support for Spain’s ECB presidential candidate",
     "titleZh": "法國表示支持西班牙歐洲央行總裁候選人",
@@ -5154,7 +5145,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
     "image": null,
-    "pushedAt": "2026-11-17T11:18:20.182Z"
+    "pushedAt": "2026-11-17T13:49:43.443Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-warsh-says-staff-are-gaming-out-contingencies-on-ai-impact",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/russia-s-oil-exports-hit-their-highest-since-july-as-drones-hit-refineries",
     "image": null,
     "pushedAt": "2026-11-17T13:49:15.130Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html",
+    "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
+    "titleZh": "從失敗的商人到海地領導人遇刺案的陰謀被告",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17haiti-assassination-pastor-zgtf/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T13:50:12.575Z"
   }
 ]
