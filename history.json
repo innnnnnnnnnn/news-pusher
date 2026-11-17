@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/acca0ba8-913d-4a8a-8d3b-a5521ed1cfc2",
-    "title": "Makers of obesity drugs hit back at claims of negative side effects",
-    "titleZh": "肥胖藥物製造商回擊負面副作用的說法",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/acca0ba8-913d-4a8a-8d3b-a5521ed1cfc2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T03:19:01.638Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
     "title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
     "titleZh": "幾內亞計劃推出鋁土礦指數以提振礦石價格",
@@ -411,7 +402,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T11:41:58.039Z"
+    "pushedAt": "2026-11-17T14:14:22.286Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
@@ -3111,7 +3102,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T11:41:32.134Z"
+    "pushedAt": "2026-11-17T14:13:57.160Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
@@ -3633,7 +3624,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-17T11:40:39.458Z"
+    "pushedAt": "2026-11-17T14:13:06.216Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
@@ -3651,7 +3642,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-pokemon-02/00xp-pokemon-02-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T11:42:23.017Z"
+    "pushedAt": "2026-11-17T14:14:46.926Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
@@ -6724,12 +6715,12 @@
   },
   {
     "id": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60",
-    "title": "Stocks slide as Nvidia results loom",
+    "title": "US tech stocks set to stabilise after volatile run of trading",
     "titleZh": "隨著英偉達業績臨近，亞洲科技股追隨華爾街走低",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T11:41:07.490Z"
+    "pushedAt": "2026-11-17T14:13:32.353Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-brief-11-17-2026-video",
     "image": null,
     "pushedAt": "2026-11-17T14:12:37.761Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/waller-says-fed-open-to-responsible-innovation-in-payments",
+    "title": "Waller Says Fed Open to ‘Responsible Innovation’ in Payments",
+    "titleZh": "沃勒表示聯準會對支付領域的「負責任的創新」持開放態度",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/waller-says-fed-open-to-responsible-innovation-in-payments",
+    "image": null,
+    "pushedAt": "2026-11-17T14:15:13.924Z"
   }
 ]
