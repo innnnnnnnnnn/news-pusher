@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-    "title": "Microsoft’s Global Outage and Fixes: What We Know",
-    "titleZh": "微軟的全球中斷與修復：我們所知道的",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T05:46:15.559Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
     "title": "Kenya Starts Countdown to End of Ebola Outbreak",
     "titleZh": "肯亞開始伊波拉疫情結束倒數計時",
@@ -5217,7 +5208,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2xihll5q1?ref=rss",
     "image": "https://cdn.flipso.com/p/2xihll5q1_square.jpg",
-    "pushedAt": "2026-11-17T03:44:53.377Z"
+    "pushedAt": "2026-11-17T05:53:41.225Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/investing-in-the-new-age-of-defense-video",
@@ -8124,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/unusual-public-feud-puts-thai-central-bank-autonomy-in-spotlight",
     "image": null,
-    "pushedAt": "2026-11-17T03:44:04.250Z"
+    "pushedAt": "2026-11-17T05:52:52.764Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/learfield-s-cole-gahagan-on-economics-of-college-sports-video",
@@ -8151,7 +8142,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes",
     "image": null,
-    "pushedAt": "2026-11-17T03:44:28.592Z"
+    "pushedAt": "2026-11-17T05:53:17.033Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/nyregion/found-georgia-okeeffe-painting.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/786eml3vp?ref=rss",
     "image": "https://cdn.flipso.com/p/786eml3vp_square.jpg",
     "pushedAt": "2026-11-17T05:52:25.795Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53",
+    "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
+    "titleZh": "習近平和加拿大總理卡尼削減關稅，中國吸引中等強國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faee0117a-cee8-4be8-8c86-2618d052105b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T05:54:08.228Z"
   }
 ]
