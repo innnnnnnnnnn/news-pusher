@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9",
-    "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
-    "titleZh": "澤連斯基表示，美國為頓巴斯撤軍協議提供北約成員資格",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T12:09:58.191Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/briefing/forever-in-bluejeans.html",
-    "title": "Forever in Bluejeans",
-    "titleZh": "永遠穿著藍色牛仔褲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/briefing/forever-in-bluejeans.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14themorning-nl-jeans-01-lbtc/14themorning-nl-jeans-01-lbtc-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-14T19:13:26.589Z"
-  },
-  {
     "id": "https://www.ft.com/content/acca0ba8-913d-4a8a-8d3b-a5521ed1cfc2",
     "title": "Makers of obesity drugs hit back at claims of negative side effects",
     "titleZh": "肥胖藥物製造商回擊負面副作用的說法",
@@ -2130,7 +2112,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
-    "pushedAt": "2026-11-17T11:39:22.975Z"
+    "pushedAt": "2026-11-17T14:11:44.018Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/pictet-adds-japan-stocks-in-diversification-push-after-midterms",
@@ -2274,7 +2256,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
     "image": null,
-    "pushedAt": "2026-11-17T11:39:49.241Z"
+    "pushedAt": "2026-11-17T14:12:09.056Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "image": null,
     "pushedAt": "2026-11-17T14:08:43.012Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation",
+    "title": "Nvidia-Backed Genesis AI Raises Funds at $3.5 Billion Valuation",
+    "titleZh": "Nvidia 支持的 Genesis AI 融資估值 35 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation",
+    "image": null,
+    "pushedAt": "2026-11-17T14:12:34.698Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-brief-11-17-2026-video",
+    "title": "Bloomberg Brief 11/17/2026",
+    "titleZh": "彭博簡報 2026 年 11 月 17 日",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-brief-11-17-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-17T14:12:37.761Z"
   }
 ]
