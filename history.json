@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
-    "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
-    "titleZh": "SpaceX 在德克薩斯州成功捕獲火箭，創造歷史",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T15:24:53.867Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/australia-auction-clearances-slump-to-six-year-low-as-rates-rise",
     "title": "Australia Auction Clearances Slump to Six-Year Low as Rates Rise",
     "titleZh": "隨著利率上升，澳洲拍賣清盤率跌至六年低點",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1e114e7d-59b4-4642-b720-c3e706d9a5c1?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T16:25:22.964Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/compute-futures-aim-to-hedge-ai-risks-video",
+    "title": "Compute Futures Aim to Hedge AI Risks",
+    "titleZh": "計算期貨旨在對沖人工智慧風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/compute-futures-aim-to-hedge-ai-risks-video",
+    "image": null,
+    "pushedAt": "2026-11-17T16:26:40.916Z"
   }
 ]
