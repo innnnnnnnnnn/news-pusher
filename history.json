@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
-    "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
-    "titleZh": "華爾街看到了黃仁勳的不祥之兆",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12db-huang-bmgj/12db-huang-bmgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T16:07:09.778Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
     "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
     "titleZh": "盧特尼克敦促削弱與其家族企業重疊的晶片規則",
@@ -3660,7 +3651,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T20:34:15.984Z"
+    "pushedAt": "2026-11-17T22:55:53.380Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics",
@@ -4110,7 +4101,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-Asia-Index-kqmp/16int-Asia-Index-kqmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T20:33:50.669Z"
+    "pushedAt": "2026-11-17T22:55:30.094Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
@@ -8574,7 +8565,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-17T20:33:21.681Z"
+    "pushedAt": "2026-11-17T22:54:42.433Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
@@ -8583,7 +8574,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
     "image": null,
-    "pushedAt": "2026-11-17T20:33:23.715Z"
+    "pushedAt": "2026-11-17T22:55:06.890Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/microsoft-executive-says-nvidia-drama-could-boost-rival-chips",
     "image": null,
     "pushedAt": "2026-11-17T22:48:04.845Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video",
+    "title": "Pushback to OKXICE, Anthropic Perpetual Futures, 'Problem Gamblers'",
+    "titleZh": "對 OKXICE、人擇永續期貨、「問題賭徒」的抵制",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-17T22:56:19.405Z"
   }
 ]
