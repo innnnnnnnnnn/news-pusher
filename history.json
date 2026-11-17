@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d99f635f-6223-45fc-8429-2ac36b28d080",
-    "title": "How Trump’s midterm gerrymandering flopped",
-    "titleZh": "川普的中期選區不公平劃分是如何失敗的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d99f635f-6223-45fc-8429-2ac36b28d080?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T11:04:13.365Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
     "title": "“Bigger Than a Business Story”: Nvidia Shakeup",
     "titleZh": "「比商業故事更重要」：Nvidia 重組",
@@ -3624,7 +3615,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-phillips-auction-zghc/16cul-phillips-auction-zghc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T12:07:47.844Z"
+    "pushedAt": "2026-11-17T14:40:09.310Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
     "image": null,
     "pushedAt": "2026-11-17T14:39:40.851Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
+    "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
+    "titleZh": "克里姆林宮表示，普丁對在中國會見北韓領導人持開放態度",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-putin-kim-cvtg/17trump-summits-putin-kim-cvtg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T14:40:35.540Z"
   }
 ]
