@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/nye9u3xfo",
-    "title": "Burying the Evidence",
-    "titleZh": "埋葬證據",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/nye9u3xfo?ref=rss",
-    "image": "https://cdn.flipso.com/p/nye9u3xfo_square.jpg",
-    "pushedAt": "2026-11-16T07:40:28.235Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
-    "title": "Nagel Says ‘Highly Probable’ That ECB Will Have to Act Again",
-    "titleZh": "內格爾表示歐洲央行「極有可能」必須再次採取行動",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
-    "image": null,
-    "pushedAt": "2026-11-14T14:29:57.789Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
     "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
     "titleZh": "法官允許川普針對 BBC 的誹謗訴訟繼續進行",
@@ -3633,7 +3615,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T02:11:53.909Z"
+    "pushedAt": "2026-11-17T04:25:16.152Z"
   },
   {
     "id": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3",
@@ -3642,7 +3624,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T02:12:18.601Z"
+    "pushedAt": "2026-11-17T04:25:40.162Z"
   },
   {
     "id": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/african-economies-to-end-year-with-high-rates-as-fed-risks-loom",
     "image": null,
     "pushedAt": "2026-11-17T04:24:47.372Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
+    "title": "Impact of US Move to Curb Chip Access",
+    "titleZh": "美國限制晶片准入的影響",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
+    "image": null,
+    "pushedAt": "2026-11-17T04:26:07.033Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio",
+    "title": "Anthropic Frenzy Echoes Dot-Com Bubble, Says AustralianSuper CIO",
+    "titleZh": "AustralianSuper 資訊長表示，人為狂熱與網路泡沫相呼應",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio",
+    "image": null,
+    "pushedAt": "2026-11-17T04:26:10.752Z"
   }
 ]
