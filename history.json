@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
-    "title": "Book Review: ‘Promise Me, America,’ by Joe Biden",
-    "titleZh": "書評：拜登的《美國，答應我》",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17TBR-Biden-review-qlkb/17TBR-Biden-review-qlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T10:57:33.492Z"
-  },
-  {
     "id": "https://www.ft.com/content/a088c380-216e-4fc3-8b76-483504fd18c2",
     "title": "Reform UK pays for Nigel Farage’s security despite £5mn gift",
     "titleZh": "儘管捐贈了 500 萬英鎊，改革英國仍為奈傑爾法拉奇支付安全費用",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/malaysia-deal-france-to-develop-critical-minerals-europe-mining",
     "image": null,
     "pushedAt": "2026-11-17T05:59:06.971Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+    "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+    "titleZh": "氣候科學報告的發佈時機在聯合國會談中引發激烈爭論",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T05:59:35.479Z"
   }
 ]
