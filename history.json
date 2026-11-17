@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
-    "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
-    "titleZh": "法官阻止川普高爾夫計畫立即關閉東波托馬克公園",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/us/14dc-golf-new/14dc-golf-new-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-15T10:45:17.543Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/nyregion/key-witness-in-comey-case-attests-to-justice-depts-aggressive-tactics.html",
     "title": "Key Witness in Comey Case Attests to Justice Dept.’s Aggressive Tactics",
     "titleZh": "科米案的關鍵證人證明司法部的侵略策略",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff",
     "image": null,
     "pushedAt": "2026-11-17T16:29:45.100Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/optimum-nears-deal-with-creditors-to-slash-26-billion-debt-pile",
+    "title": "Optimum Nears Deal With Creditors to Slash $26 Billion Debt Pile",
+    "titleZh": "Optimum 即將與債權人達成削減 260 億美元債務的協議",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/optimum-nears-deal-with-creditors-to-slash-26-billion-debt-pile",
+    "image": null,
+    "pushedAt": "2026-11-17T16:31:26.030Z"
   }
 ]
