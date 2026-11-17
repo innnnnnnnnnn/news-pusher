@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
-    "title": "Trump Heads to Asia With Trade, Security at Stake",
-    "titleZh": "川普前往亞洲，貿易和安全受到威脅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
-    "image": null,
-    "pushedAt": "2026-11-15T21:26:12.680Z"
-  },
-  {
     "id": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7",
     "title": "Republicans blame everyone but Trump for midterm drubbing",
     "titleZh": "共和黨人將中期失敗歸咎於川普以外的所有人",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/stan-druckenmiller-says-he-s-short-copper-neutral-on-equities",
     "image": null,
     "pushedAt": "2026-11-17T20:47:32.391Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+    "title": "Iran Attacks Bahrain for the Second Time in Days",
+    "titleZh": "伊朗幾天內第二次襲擊巴林",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+    "image": null,
+    "pushedAt": "2026-11-17T20:47:59.226Z"
   }
 ]
