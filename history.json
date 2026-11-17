@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
-    "title": "Microsoft Says Services Fully Restored After Outage Roiled World",
-    "titleZh": "微軟表示在解決最長的停機問題之一方面取得了進展",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
-    "image": null,
-    "pushedAt": "2026-11-15T05:38:09.382Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/musk-bets-push-antonio-gracias-s-valor-to-eye-popping-returns",
     "title": "Musk Bets Push Antonio Gracias’s Valor to Eye-Popping Returns",
     "titleZh": "馬斯克的賭注將安東尼奧·格拉西亞斯的勇氣推向令人瞠目結舌的回報",
@@ -303,7 +294,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T21:50:51.543Z"
+    "pushedAt": "2026-11-17T00:08:48.668Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video",
     "image": null,
     "pushedAt": "2026-11-17T00:08:21.907Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
+    "title": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
+    "titleZh": "中國的回購推動股市難以支撐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
+    "image": null,
+    "pushedAt": "2026-11-17T00:09:14.846Z"
   }
 ]
