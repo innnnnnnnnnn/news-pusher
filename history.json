@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-16T08:55:03.376Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
     "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
     "titleZh": "新加坡稱美國沒有幫助調查 Alice Huang 和 Megaspeed",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-jeffries-medicare-fzkj/17dc-jeffries-medicare-fzkj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T23:37:47.596Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
+    "title": "US and allies sign accord to protect AI supply chains from China",
+    "titleZh": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T23:38:15.067Z"
   }
 ]
