@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video",
-    "title": "SpaceX Starship Launches on Flight Test of Reusability",
-    "titleZh": "SpaceX 星艦發射進行飛行測試",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video",
-    "image": null,
-    "pushedAt": "2026-11-14T23:11:24.921Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
     "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
     "titleZh": "隨著流動性危機加深，陷入困境的謝里特錯過了付款",
@@ -8061,7 +8052,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a1b34443-8c93-4470-b64e-01e2236ad9b0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T08:18:45.843Z"
+    "pushedAt": "2026-11-17T10:36:29.786Z"
   },
   {
     "id": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96",
@@ -8070,7 +8061,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6fb821e-c76a-489a-90d5-daac6773062b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T08:19:39.178Z"
+    "pushedAt": "2026-11-17T10:36:52.946Z"
   },
   {
     "id": "https://www.ft.com/content/1c64f910-14f9-41fc-880e-3acf673f4993",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-manila-as-three-day-asia-trip-begins-video",
     "image": null,
     "pushedAt": "2026-11-17T10:36:03.925Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html",
+    "title": "What to Know About APEC, ASEAN and the Quad",
+    "titleZh": "關於亞太經合組織、東協和四方機制的知識",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-jargon-jfbp/17trump-summits-jargon-jfbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:37:18.836Z"
   }
 ]
