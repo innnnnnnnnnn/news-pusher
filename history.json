@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-end-week-higher-amid-tech-turmoil-closing-bell-video",
-    "title": "Stocks End Week Higher Amid Tech Turmoil | Closing Bell",
-    "titleZh": "科技動盪期間股市收高結束鐘聲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-end-week-higher-amid-tech-turmoil-closing-bell-video",
-    "image": null,
-    "pushedAt": "2026-11-14T00:03:14.871Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
     "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
     "titleZh": "來認識一下擊敗勞倫·博伯特 (Lauren Boebert) 的海軍退伍軍人艾琳·勞巴赫 (Eileen Laubacher)",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
     "image": null,
     "pushedAt": "2026-11-17T09:12:33.276Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+    "title": "Democrats’ strategy for ending the war in Iran",
+    "titleZh": "民主黨結束伊朗戰爭的戰略",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+    "image": null,
+    "pushedAt": "2026-11-17T09:12:59.997Z"
   }
 ]
