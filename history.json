@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa",
-    "title": "After the US, how should middle powers work together?",
-    "titleZh": "美國之後，中等強國該如何合作？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/941063fe-1cd1-4fc7-b489-79eaf9e4b7aa?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T09:22:00.750Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
     "title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
     "titleZh": "高盛預計 2027 年亞洲（日本除外）股票的回報率為 19%",
@@ -1176,7 +1167,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/00biz-tech-fragile-gclj/00biz-tech-fragile-gclj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T11:24:41.769Z"
+    "pushedAt": "2026-11-17T13:55:52.058Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
@@ -1185,7 +1176,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T11:25:35.009Z"
+    "pushedAt": "2026-11-17T13:56:16.771Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/a-human-reads-the-anthropic-ipo-filing.html",
@@ -5676,7 +5667,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "image": null,
-    "pushedAt": "2026-11-17T11:26:00.981Z"
+    "pushedAt": "2026-11-17T13:56:41.784Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/trump-duffy-deflect-responsibility-for-faa-groundstop-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/deutsche-q&a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T13:55:22.627Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-cook-wont-attend-white-house-hearing-without-changes.html",
+    "title": "Fed Governor Cook Won’t Attend White House Hearing Without Changes",
+    "titleZh": "聯準會理事庫克若不做出改變將不會出席白宮聽證會",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-cook-wont-attend-white-house-hearing-without-changes.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-TRUMP-COOK-vbcz/17DC-TRUMP-COOK-vbcz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T13:57:10.346Z"
   }
 ]
