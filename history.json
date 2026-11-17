@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/opinion/nvidia-spy-jensen-huang-national-security.html",
-    "title": "The Nvidia Spy Case Is About Much More Than Sex",
-    "titleZh": "Nvidia 間諜案不僅涉及性",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/opinion/nvidia-spy-jensen-huang-national-security.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/opinion/15evanina-image/15evanina-image-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T16:16:17.676Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1",
-    "title": "Young Britons out of work or training for a year to be guaranteed jobs",
-    "titleZh": "英國年輕人失業或接受培訓一年才能獲得就業保障",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T02:55:34.988Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
     "title": "Nvidia Crisis Reshapes Washington’s Tech Debate",
     "titleZh": "英偉達危機重塑華盛頓的科技辯論",
@@ -8511,7 +8493,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-faces-first-earnings-test-since-huang-s-exit-video",
     "image": null,
-    "pushedAt": "2026-11-17T19:04:12.569Z"
+    "pushedAt": "2026-11-17T21:31:45.612Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-highlights-ai-s-private-market-wealth-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
     "image": null,
     "pushedAt": "2026-11-17T21:31:19.704Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/offering-anthropic-access-outside-us-wheeler-video",
+    "title": "Offering Anthropic Access Outside US: Wheeler",
+    "titleZh": "在美國境外提供人類訪問：惠勒",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/offering-anthropic-access-outside-us-wheeler-video",
+    "image": null,
+    "pushedAt": "2026-11-17T21:32:13.026Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/looking-to-bring-more-finance-onchain-chakar-video",
+    "title": "Looking To Bring More Finance Onchain: Chakar",
+    "titleZh": "希望在鏈上帶來更多融資：Chakar",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/looking-to-bring-more-finance-onchain-chakar-video",
+    "image": null,
+    "pushedAt": "2026-11-17T21:32:17.612Z"
   }
 ]
