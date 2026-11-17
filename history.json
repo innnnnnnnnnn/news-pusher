@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
-    "title": "The Flaw at the Heart of Anthropic’s I.P.O.",
-    "titleZh": "Anthropic IPO 的核心缺陷",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
-    "image": null,
-    "pushedAt": "2026-11-16T04:15:02.540Z"
-  },
-  {
     "id": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29",
     "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
     "titleZh": "英偉達醜聞曝光後，國會將通過更嚴格的人工智慧晶片出口規則",
@@ -6729,7 +6720,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
     "image": null,
-    "pushedAt": "2026-11-17T17:47:00.952Z"
+    "pushedAt": "2026-11-17T20:10:30.806Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
@@ -6738,7 +6729,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-musk-texas-06-hgkv-signs-mwgb/16biz-musk-texas-06-hgkv-signs-mwgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T17:48:16.400Z"
+    "pushedAt": "2026-11-17T20:10:54.676Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
     "image": null,
     "pushedAt": "2026-11-17T20:10:03.945Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
+    "title": "Trump Prepares for Power Flex at Putin-Xi Summit",
+    "titleZh": "川普為普丁-習峰會上的權力彈性做準備",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
+    "image": null,
+    "pushedAt": "2026-11-17T20:11:22.760Z"
   }
 ]
