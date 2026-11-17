@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-    "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
-    "titleZh": "全國的地面停止起飛、Nvidia 間諜醜聞、Starship 最長的試飛",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-15T15:14:31.859Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
     "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
     "titleZh": "這就是為什麼航班可能需要幾天才能恢復正常",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/consumer-strain-meets-ai-s-reality-check-video",
     "image": null,
     "pushedAt": "2026-11-17T15:58:08.286Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+    "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+    "titleZh": "南蘇丹首次全國選舉將延後",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T15:58:37.530Z"
   }
 ]
