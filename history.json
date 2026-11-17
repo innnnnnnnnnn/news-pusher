@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-    "titleZh": "微軟在全球停電後急於恢復線上的內部情況",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:04:22.227Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
     "title": "Meloni Keeps Hope of Italy Upgrade at S&P to Highest Since 2011",
     "titleZh": "Meloni 希望標普將義大利評級上調至 2011 年以來最高水平",
@@ -2427,7 +2418,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:55:39.513Z"
+    "pushedAt": "2026-11-17T09:10:19.685Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/a-human-reads-the-anthropic-ipo-filing.html",
@@ -2445,7 +2436,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15Biz-Loan-Caps-01-lmgt/15Biz-Loan-Caps-01-lmgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:56:27.337Z"
+    "pushedAt": "2026-11-17T09:11:06.410Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
@@ -6918,7 +6909,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "image": null,
-    "pushedAt": "2026-11-17T06:56:02.981Z"
+    "pushedAt": "2026-11-17T09:10:42.733Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/trump-duffy-deflect-responsibility-for-faa-groundstop-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/goldman-s-oppenheimer-sees-opportunity-to-diversify-video",
     "image": null,
     "pushedAt": "2026-11-17T09:09:54.005Z"
+  },
+  {
+    "id": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82",
+    "title": "Ukraine damages bridge to Crimea in fierce exchange of strikes",
+    "titleZh": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F74f1b8eb-1db0-45d5-9cbc-5c44b4d73642.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T09:11:32.196Z"
   }
 ]
