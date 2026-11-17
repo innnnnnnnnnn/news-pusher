@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
-    "title": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028",
-    "titleZh": "中期選舉勝利後，民主黨迅速而熱切地展望 2028 年",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-2028-warnock-01-mfhb/15pol-dems-2028-warnock-01-mfhb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T17:20:53.195Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/us/black-women-georgia-leaders.html",
     "title": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them",
     "titleZh": "喬治亞州黑人女性工作的回報：與她們相似的領導人",
@@ -7332,7 +7323,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T17:20:35.562Z"
+    "pushedAt": "2026-11-17T19:44:49.724Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-trade-deal-with-thailand-is-not-a-done-deal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/437d5cbb-ee07-43bd-8db6-e3c9cf8c8eb5?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T19:37:07.231Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
+    "title": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
+    "titleZh": "德意志銀行尋求遏制資料外洩的影響",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
+    "image": null,
+    "pushedAt": "2026-11-17T19:45:16.738Z"
   }
 ]
