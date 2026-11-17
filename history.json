@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
-    "title": "Nvidia Says Speculation on New CEO Candidates Is ‘Premature’",
-    "titleZh": "英偉達表示，對新任執行長候選人的猜測“為時過早”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
-    "image": null,
-    "pushedAt": "2026-11-14T13:42:36.094Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
-    "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
-    "titleZh": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-14T16:03:40.681Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
     "title": "Xi Jinping’s plan for a China-centric world order",
     "titleZh": "習近平關於以中國為中心的世界秩序的計劃",
@@ -8668,12 +8650,12 @@
   },
   {
     "id": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96",
-    "title": "Deutsche Bank processed $582mn of suspicious payments linked to Epstein",
+    "title": "German lender processed $582mn of suspicious payments linked to Epstein",
     "titleZh": "德意志銀行處理了與愛潑斯坦有關的 5.82 億美元可疑付款",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T06:08:04.870Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6fb821e-c76a-489a-90d5-daac6773062b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T08:19:39.178Z"
   },
   {
     "id": "https://www.ft.com/content/1c64f910-14f9-41fc-880e-3acf673f4993",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
     "image": null,
     "pushedAt": "2026-11-17T08:19:12.458Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video",
+    "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips (Video)",
+    "titleZh": "美國採取措施限制中國遠端存取 Nvidia 晶片（視訊）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video",
+    "image": null,
+    "pushedAt": "2026-11-17T08:20:04.474Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/horizons-middle-east-africa-11-17-2026-video",
+    "title": "Horizons Middle East & Africa 11/17/2026 (Video)",
+    "titleZh": "中東和非洲地平線 11/17/2026（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/horizons-middle-east-africa-11-17-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-17T08:20:08.260Z"
   }
 ]
