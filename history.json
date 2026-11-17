@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
-    "title": "Colette Kress Will Face Scrutiny at Nvidia",
-    "titleZh": "科萊特·克雷斯 (Colette Kress) 將在 Nvidia 面臨審查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
-    "image": null,
-    "pushedAt": "2026-11-14T23:04:54.711Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
     "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
     "titleZh": "航班在 FAA 地面停留期间取消？這是該怎麼做。",
@@ -879,7 +870,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T08:12:53.267Z"
+    "pushedAt": "2026-11-17T10:29:24.830Z"
   },
   {
     "id": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33",
@@ -1671,7 +1662,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T08:13:39.634Z"
+    "pushedAt": "2026-11-17T10:29:48.258Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
@@ -8034,7 +8025,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feca36a83-3540-4f68-89d7-62131f984359.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T08:14:03.392Z"
+    "pushedAt": "2026-11-17T10:30:12.402Z"
   },
   {
     "id": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1",
@@ -8043,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2c7fc82-c567-4714-958f-21665270cb37.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T08:14:26.663Z"
+    "pushedAt": "2026-11-17T10:30:35.877Z"
   },
   {
     "id": "https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-plan-for-ai-supremacy-fuels-resistance-in-the-philippines",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-PAX-SILICA-VERSION-lgtv/17trump-summits-PAX-SILICA-VERSION-lgtv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T10:23:32.920Z"
+  },
+  {
+    "id": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb",
+    "title": "Nvidia creates committee to oversee compliance with US chip export controls",
+    "titleZh": "英偉達成立委員會來監督美國晶片出口管制的遵守情況",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8fd6c453-c674-4230-9e18-a665437312e0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T10:31:03.781Z"
   }
 ]
