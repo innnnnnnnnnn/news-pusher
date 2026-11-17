@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
-    "title": "Senegal Picks Deloitte to Audit Debt as It Seeks IMF Loan Pact",
-    "titleZh": "塞內加爾在尋求國際貨幣基金組織貸款協議時選擇德勤審計債務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
-    "image": null,
-    "pushedAt": "2026-11-13T15:42:44.876Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/russian-diesel-exports-drop-as-ukraine-renews-refinery-attacks",
     "title": "Russian Diesel Exports Drop as Ukraine Renews Refinery Attacks",
     "titleZh": "烏克蘭再次襲擊煉油廠，俄羅斯柴油出口下降",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
     "image": null,
     "pushedAt": "2026-11-17T01:00:32.777Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+    "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+    "titleZh": "川普政府對華政策分歧進入公眾視野",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-nvidia-zblt/16dc-trump-nvidia-zblt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T01:12:29.036Z"
   }
 ]
