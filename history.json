@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5b83fe51-4ce2-4a26-a9ca-7a7653eaba9a",
-    "title": "Prevention is better than cure for the UK’s social ills",
-    "titleZh": "對於英國的社會弊病，預防勝於治療",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5b83fe51-4ce2-4a26-a9ca-7a7653eaba9a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T04:50:56.465Z"
-  },
-  {
     "id": "https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499",
     "title": "Rolls-Royce puts new spin on razor-and-blade model",
     "titleZh": "勞斯萊斯為剃刀和刀片模型注入新元素",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-global-debt-01-mpfv/16biz-global-debt-01-mpfv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T05:04:46.222Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
+    "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+    "titleZh": "通膨和關稅上漲導致鞋履價格創歷史新高",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T05:05:15.114Z"
   }
 ]
