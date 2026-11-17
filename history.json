@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
-    "title": "Match Group Keeping AI Out of Dating",
-    "titleZh": "匹配組讓人工智慧不落伍",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
-    "image": null,
-    "pushedAt": "2026-11-14T22:01:50.345Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video",
-    "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
-    "titleZh": "新奧爾良油輪撞上遊輪引發救援",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video",
-    "image": null,
-    "pushedAt": "2026-11-14T10:25:40.407Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video",
     "title": "Flights Grounded Across US Over Air Traffic Control Problems",
     "titleZh": "因空中交通管制問題美國各地航班停飛",
@@ -537,7 +519,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T07:36:12.726Z"
+    "pushedAt": "2026-11-17T09:51:40.189Z"
   },
   {
     "id": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
     "image": null,
     "pushedAt": "2026-11-17T09:51:13.856Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+    "title": "Live Updates: Trump’s Whirlwind Asia Trip Starts in the Philippines",
+    "titleZh": "即時更新：川普旋風亞洲之行從菲律賓開始",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-promo-jgmt/17trump-summits-promo-jgmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T09:52:07.074Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+    "title": "Carney and Xi Announce Canada-China Trade Pact",
+    "titleZh": "卡尼和習近平宣布加中貿易協定",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-canada-china-trade-qwgf/17int-canada-china-trade-qwgf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T09:52:10.794Z"
   }
 ]
