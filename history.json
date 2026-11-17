@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
-    "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
-    "titleZh": "Anthropic IPO 迎來人工智慧關鍵時刻",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
-    "image": null,
-    "pushedAt": "2026-11-15T21:52:05.426Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
     "title": "Router Failure Exposes Risks in FAA Network",
     "titleZh": "路由器故障暴露 FAA 網路風險",
@@ -7449,7 +7440,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/deutsche-q&a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T18:59:17.246Z"
+    "pushedAt": "2026-11-17T21:28:00.271Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-cook-wont-attend-white-house-hearing-without-changes.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-nc-recount-wptg/17pol-nc-recount-wptg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T21:27:34.285Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
+    "title": "Nvidia Delivers Solid Outlook in First Post-Huang Earnings",
+    "titleZh": "英偉達在黃後的首個財報中展現了穩健的前景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
+    "image": null,
+    "pushedAt": "2026-11-17T21:28:27.808Z"
   }
 ]
