@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/kls7qm9ue",
-    "title": "The Rise and Fall of a Supercop",
-    "titleZh": "超級警察的興衰",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/kls7qm9ue?ref=rss",
-    "image": "https://cdn.flipso.com/p/kls7qm9ue_square.jpg",
-    "pushedAt": "2026-11-17T08:30:16.916Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/cftc-chief-calls-for-aluminum-pricing-reforms-after-costs-soar",
     "title": "CFTC Chief Calls for Aluminum Pricing Reforms After Costs Soar",
     "titleZh": "CFTC主席呼籲在成本飆升後進行鋁定價改革",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/clampdown-on-china-chip-loophole-puts-billions-in-loans-at-risk",
     "image": null,
     "pushedAt": "2026-11-17T08:42:04.716Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
+    "title": "African Miss Universe Contestants Struggle to Get U.S. Visas",
+    "titleZh": "非洲環球小姐參賽者難以取得美國簽證",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-missuniverse-africa-1-lfwp/13int-missuniverse-africa-1-lfwp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T08:42:31.411Z"
   }
 ]
