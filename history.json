@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-    "titleZh": "據說黃仁勳與向他報告的 Nvidia 高層有關係",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T21:31:21.632Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/salim-ramji-on-the-vanguard-effect-video",
-    "title": "Salim Ramji on the Vanguard Effect",
-    "titleZh": "薩利姆·拉姆吉談先鋒效應",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/salim-ramji-on-the-vanguard-effect-video",
-    "image": null,
-    "pushedAt": "2026-11-14T05:05:04.562Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
     "title": "FBI Said to Probe Whether Software Update Caused Mass FAA Outage",
     "titleZh": "FBI 稱將調查軟體更新是否導致 FAA 大規模停電",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/germany-to-propose-markus-brunnermeier-as-ecb-chief-economist",
     "image": null,
     "pushedAt": "2026-11-17T09:27:15.824Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+    "title": "The Jensen Huang scandal reaches Donald Trump’s cabinet",
+    "titleZh": "黃仁勳醜聞波及唐納德·川普內閣",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+    "image": null,
+    "pushedAt": "2026-11-17T09:27:41.787Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+    "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
+    "titleZh": "阿根廷74歲老人如何逃離五樓逮捕？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Argentina-fugitive-fzvg/13int-Argentina-fugitive-fzvg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T09:27:44.021Z"
   }
 ]
