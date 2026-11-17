@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/db3cku60s",
-    "title": "How Many People Work From Home?",
-    "titleZh": "有多少人在家工作？",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/db3cku60s?ref=rss",
-    "image": "https://cdn.flipso.com/p/db3cku60s_square.jpg",
-    "pushedAt": "2026-11-17T03:28:51.108Z"
-  },
-  {
     "id": "https://www.ft.com/content/d99f635f-6223-45fc-8429-2ac36b28d080",
     "title": "How Trump’s midterm gerrymandering flopped",
     "titleZh": "川普的中期選區不公平劃分是如何失敗的",
@@ -8412,7 +8403,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T12:07:19.435Z"
+    "pushedAt": "2026-11-17T14:39:13.806Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-trade-deal-with-thailand-is-not-a-done-deal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
     "image": null,
     "pushedAt": "2026-11-17T14:38:45.374Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
+    "title": "Fed’s Hammack Proposes Principles for Market Interventions",
+    "titleZh": "聯準會哈馬克提出市場幹預原則",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
+    "image": null,
+    "pushedAt": "2026-11-17T14:39:40.851Z"
   }
 ]
