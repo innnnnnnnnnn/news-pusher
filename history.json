@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
-    "title": "Air Travel Chaos Puts FAA Systems in Focus",
-    "titleZh": "航空旅行的混亂使美國聯邦航空總署系統成為焦點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
-    "image": null,
-    "pushedAt": "2026-11-15T11:18:44.789Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
     "title": "Ukraine Peace Push Turns to NATO and Donbas",
     "titleZh": "烏克蘭和平推動轉向北約和頓巴斯",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-TRUMP-COOK-vbcz/17DC-TRUMP-COOK-vbcz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T14:48:07.308Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
+    "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
+    "titleZh": "地緣政治籠罩著歐洲歌唱大賽，但亞洲版卻不受影響",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T14:48:38.525Z"
   }
 ]
