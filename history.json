@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
-    "title": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
-    "titleZh": "警方稱，這名男子在上西區偷走了價值 900 萬美元的金條",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
-    "image": null,
-    "pushedAt": "2026-11-17T10:00:53.631Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/business/zhang-liang-china-panama.html",
     "title": "He Was China’s Man in Panama. Then He Became a Wanted Man.",
     "titleZh": "他是巴拿馬的中國人。然後他成了通緝犯。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T13:24:23.545Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+    "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+    "titleZh": "川普在委內瑞拉的石油掠奪正在考驗該國的國家認同",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T13:24:53.706Z"
   }
 ]
