@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/opinion/midterm-elections-democrats-republicans-whats-next.html",
-    "title": "‘There’s No Juice Left to Squeeze From MAGA’",
-    "titleZh": "“MAGA 已經沒有果汁可榨了”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/opinion/midterm-elections-democrats-republicans-whats-next.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/opinion/14opinions-roundtable-image/14opinions-roundtable-image-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-14T16:54:29.166Z"
-  },
-  {
     "id": "https://www.ft.com/content/64198d59-7a03-4f1c-89c6-81ed8bdc5448",
     "title": "FirstFT: Nvidia board weighs Jensen Huang’s future as scandal deepens",
     "titleZh": "FirstFT：隨著醜聞加深，英偉達董事會正在權衡黃仁勳的未來",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/es/2026/11/17/espanol/america-latina/christian-sanon-juicio-haiti-asesinato-presidente.html",
     "image": "https://static01.nyt.com/images/2026/11/17/espanol/17haiti-assassination-pastor-zgtf-ES-copy1/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T14:31:24.118Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets",
+    "title": "Traders Cash In on Pricing Gaps in Anthropic’s Pre-IPO Contracts",
+    "titleZh": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets",
+    "image": null,
+    "pushedAt": "2026-11-17T14:31:54.498Z"
   }
 ]
