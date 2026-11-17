@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d309eebb-21b7-4b8e-bebd-83de96b0a184",
-    "title": "Does your child have a side hustle?",
-    "titleZh": "您的孩子有副業嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d309eebb-21b7-4b8e-bebd-83de96b0a184",
-    "image": null,
-    "pushedAt": "2026-11-15T15:00:06.314Z"
-  },
-  {
     "id": "https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821",
     "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
     "titleZh": "中國遭受重創的科技股可能會為人工智慧帶來較不戲劇性的影響",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round",
     "image": null,
     "pushedAt": "2026-11-17T11:52:33.129Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/the-opening-trade-11-17-2026-video",
+    "title": "Clampdown on China Chip Loophole; Nvidia Earnings Countdown",
+    "titleZh": "打擊中國晶片漏洞；英偉達獲利倒數計時",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-opening-trade-11-17-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-17T11:53:04.338Z"
   }
 ]
