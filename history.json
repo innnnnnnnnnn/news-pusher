@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
-    "title": "Bartleby newsletter: Can AI write newsletters",
-    "titleZh": "巴特比時事通訊：人工智慧可以撰寫時事通訊嗎",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
-    "image": null,
-    "pushedAt": "2026-11-16T14:15:17.390Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
     "title": "The War Room newsletter: How long will Pete Hegseth last?",
     "titleZh": "作戰室時事通訊：皮特·赫格斯還能撐多久？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
     "image": null,
     "pushedAt": "2026-11-17T06:11:24.099Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+    "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+    "titleZh": "洩漏的記錄顯示德意志銀行向俄羅斯寡頭示好",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T06:11:50.152Z"
   }
 ]
