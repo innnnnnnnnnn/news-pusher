@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/45684ea3-dba8-476b-8667-2cdbdb5dfd8d",
-    "title": "What Europe’s rising public debt means for your portfolio",
-    "titleZh": "歐洲不斷上升的公共債務對您的投資組合意味著什麼",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45684ea3-dba8-476b-8667-2cdbdb5dfd8d",
-    "image": null,
-    "pushedAt": "2026-11-15T02:04:22.383Z"
-  },
-  {
     "id": "https://www.ft.com/content/f86213c1-72a4-4928-bfa5-c2a80761f174",
     "title": "Composer Yudania Gómez Heredia’s guide to Nuremberg",
     "titleZh": "作曲家尤達尼亞·戈麥斯·埃雷迪亞的紐倫堡指南",
@@ -3156,7 +3147,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T09:50:03.494Z"
+    "pushedAt": "2026-11-17T12:11:40.399Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
@@ -6495,7 +6486,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/r3hx4i0t8?ref=rss",
     "image": "https://cdn.flipso.com/p/r3hx4i0t8_square.jpg",
-    "pushedAt": "2026-11-17T09:49:16.113Z"
+    "pushedAt": "2026-11-17T12:11:15.134Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
@@ -8326,12 +8317,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
-    "title": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
+    "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
     "titleZh": "德意志銀行處理與愛潑斯坦相關的付款：FT（影片）",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
     "image": null,
-    "pushedAt": "2026-11-17T09:51:13.856Z"
+    "pushedAt": "2026-11-17T12:12:06.577Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-trade-deal-with-thailand-is-not-a-done-deal",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-thailand-trade-vzqk/17trump-summits-thailand-trade-vzqk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T12:10:45.013Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker",
+    "title": "Anthropic IPO: Hedge Fund Coatue Has $10 Billion Stake in Claude Maker",
+    "titleZh": "Anthropic IPO：對沖基金 Coatue 持有 Claude Maker 價值 100 億美元的股份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker",
+    "image": null,
+    "pushedAt": "2026-11-17T12:12:35.236Z"
   }
 ]
