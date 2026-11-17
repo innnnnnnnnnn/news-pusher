@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-    "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-    "titleZh": "認識前往曼谷參加亞洲歐洲歌唱大賽的粉絲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T15:20:58.346Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
     "title": "How China’s Intelligence Operations Target Tech",
     "titleZh": "中國的情報行動如何瞄準科技",
@@ -1302,7 +1293,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T12:56:12.632Z"
+    "pushedAt": "2026-11-17T15:31:31.768Z"
   },
   {
     "id": "https://flipso.com/p/fhh1z8x21",
@@ -1311,7 +1302,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fhh1z8x21?ref=rss",
     "image": "https://cdn.flipso.com/p/fhh1z8x21_square.jpg",
-    "pushedAt": "2026-11-17T12:57:05.744Z"
+    "pushedAt": "2026-11-17T15:32:22.656Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video",
@@ -7143,7 +7134,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T12:56:39.852Z"
+    "pushedAt": "2026-11-17T15:31:57.628Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/ing-plans-to-break-into-etfs-with-two-debut-funds-in-germany",
@@ -8331,7 +8322,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/apollo-s-zelter-sees-nvidia-as-first-big-ai-stress-test-video",
     "image": null,
-    "pushedAt": "2026-11-17T12:58:27.241Z"
+    "pushedAt": "2026-11-17T15:32:47.900Z"
   },
   {
     "id": "https://flipso.com/p/poobeg83s",
@@ -8340,7 +8331,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/poobeg83s?ref=rss",
     "image": "https://cdn.flipso.com/p/poobeg83s_square.jpg",
-    "pushedAt": "2026-11-17T12:58:58.211Z"
+    "pushedAt": "2026-11-17T15:33:13.696Z"
   },
   {
     "id": "https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/hammack-says-fed-should-set-high-bar-for-interventions-video",
     "image": null,
     "pushedAt": "2026-11-17T15:25:55.709Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/jpmorgan-cuts-borrowing-costs-on-2-85-billion-ccc-debt-deal",
+    "title": "JPMorgan Cuts Borrowing Costs on $2.85 Billion CCC Debt Deal",
+    "titleZh": "摩根大通削減 28.5 億美元 CCC 債務交易的借貸成本",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/jpmorgan-cuts-borrowing-costs-on-2-85-billion-ccc-debt-deal",
+    "image": null,
+    "pushedAt": "2026-11-17T15:33:40.900Z"
   }
 ]
