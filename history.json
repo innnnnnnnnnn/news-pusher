@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
-    "title": "Transcript of an interview with Huw Pill",
-    "titleZh": "休皮爾 (Huw Pill) 訪談紀錄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
-    "image": null,
-    "pushedAt": "2026-11-17T06:48:23.900Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
-    "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
-    "titleZh": "她正在重寫墨西哥的歌謠，一次一個女人的故事",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-mexico-singer-profile01-photo-wmtz/11int-mexico-singer-profile01-photo-wmtz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T09:44:45.763Z"
-  },
-  {
     "id": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304",
     "title": "Manchester United: a fate worse than debt",
     "titleZh": "曼聯：比債務更糟糕的命運",
@@ -6090,7 +6072,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/3e5vf24a6?ref=rss",
     "image": "https://cdn.flipso.com/p/3e5vf24a6_square.jpg",
-    "pushedAt": "2026-11-17T10:49:38.297Z"
+    "pushedAt": "2026-11-17T13:23:12.846Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
@@ -6495,7 +6477,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/rba-s-bullock-says-inflation-risks-still-skewed-to-the-upside",
     "image": null,
-    "pushedAt": "2026-11-17T10:48:45.187Z"
+    "pushedAt": "2026-11-17T13:22:44.556Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-trump-asia-visual-stack-01-lkgb/17int-trump-asia-visual-stack-01-lkgb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T13:22:16.415Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
+    "title": "Fed’s Musalem Says Economy to Likely Require ‘Several’ Hikes by Spring",
+    "titleZh": "聯準會穆薩利姆表示，到春季經濟可能需要「幾次」升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
+    "image": null,
+    "pushedAt": "2026-11-17T13:23:42.513Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
+    "title": "Amazon, Google to Have About 28% of Anthropic Stock After IPO",
+    "titleZh": "IPO 後，亞馬遜與 Google 將持有約 28% 的 Anthropic 股份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
+    "image": null,
+    "pushedAt": "2026-11-17T13:23:48.221Z"
   }
 ]
