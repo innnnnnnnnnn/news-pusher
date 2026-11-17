@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d8dec32d-0110-49c8-8ab0-9f711a9c79f1",
-    "title": "Burnham thinks Britain should talk about Brexit — but are his constituents keen?",
-    "titleZh": "伯納姆認為英國應該談論英國脫歐——但他的選民熱衷於此嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d8dec32d-0110-49c8-8ab0-9f711a9c79f1",
-    "image": null,
-    "pushedAt": "2026-11-15T04:05:54.173Z"
-  },
-  {
     "id": "https://www.ft.com/content/d37b89e9-a473-46f2-8f99-48ae63cebe45",
     "title": "Marilynne Robinson: America’s new dawn",
     "titleZh": "瑪麗蓮羅賓遜：美國的新黎明",
@@ -7440,7 +7431,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T09:44:12.881Z"
+    "pushedAt": "2026-11-17T12:05:26.381Z"
   },
   {
     "id": "https://www.ft.com/content/83968c32-1002-407f-b5d5-fcd46f5fcf94",
@@ -7908,7 +7899,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
     "image": null,
-    "pushedAt": "2026-11-17T09:43:03.546Z"
+    "pushedAt": "2026-11-17T12:04:34.770Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
@@ -7917,7 +7908,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:43:26.728Z"
+    "pushedAt": "2026-11-17T12:04:59.956Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/musk-backer-antonio-gracias-takes-center-stage-at-tomorrowx",
     "image": null,
     "pushedAt": "2026-11-17T12:04:06.863Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
+    "title": "A New, Bold Antarctic Rescue: Bringing Shackleton’s Outpost Back to Life",
+    "titleZh": "新的、大膽的南極救援：讓沙克爾頓的前哨站恢復生機",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
+    "image": null,
+    "pushedAt": "2026-11-17T12:05:51.825Z"
   }
 ]
