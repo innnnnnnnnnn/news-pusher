@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/schmid-says-fed-has-more-work-to-do-to-bring-down-inflation",
-    "title": "Schmid Says Fed Has More Work to Do to Bring Down Inflation",
-    "titleZh": "施密德稱聯準會還有更多工作要做來降低通膨",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/schmid-says-fed-has-more-work-to-do-to-bring-down-inflation",
-    "image": null,
-    "pushedAt": "2026-11-16T12:19:18.632Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
     "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
     "titleZh": "接替黃仁勳的 Nvidia 臨時執行長 Colette Kress 是誰？",
@@ -6450,7 +6441,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46a32a7a-b6f1-4ede-bad4-a598e5a72220.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T21:39:09.112Z"
+    "pushedAt": "2026-11-17T23:56:12.085Z"
   },
   {
     "id": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0",
@@ -6459,7 +6450,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T21:39:33.097Z"
+    "pushedAt": "2026-11-17T23:56:35.588Z"
   },
   {
     "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
@@ -6468,7 +6459,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
     "image": null,
-    "pushedAt": "2026-11-17T21:39:56.365Z"
+    "pushedAt": "2026-11-17T23:56:58.873Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
@@ -7809,7 +7800,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
     "image": "https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T21:37:33.479Z"
+    "pushedAt": "2026-11-17T23:55:24.227Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/ferragu-sees-strong-case-to-buy-nvidia-shares-video",
@@ -8119,12 +8110,12 @@
   },
   {
     "id": "https://www.ft.com/content/c0a83bc0-ae08-4ca8-8d57-0a9a0f37cce5",
-    "title": "GSK wins approval for second lung cancer drug from $10.6bn Nuvalent deal",
+    "title": "GSK wins US approval for second lung cancer drug from $10.6bn Nuvalent deal",
     "titleZh": "GSK抗癌藥物獲美國監管機構核准",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c0a83bc0-ae08-4ca8-8d57-0a9a0f37cce5?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T21:37:58.236Z"
+    "pushedAt": "2026-11-17T23:55:48.522Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-tech-11-17-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
     "image": null,
     "pushedAt": "2026-11-17T23:53:22.030Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video",
+    "title": "Willy Shih on Risks With Nvidia’s Supply Chain",
+    "titleZh": "Willy Shih 談 Nvidia 供應鏈的風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video",
+    "image": null,
+    "pushedAt": "2026-11-17T23:57:23.902Z"
   }
 ]
