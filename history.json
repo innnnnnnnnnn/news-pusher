@@ -1,68 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
-    "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
-    "titleZh": "Rent the Runway 執行長 Paige Thomas 講述她的公司願景",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
-    "image": null,
-    "pushedAt": "2026-11-14T10:36:51.725Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
-    "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
-    "titleZh": "傑夫柯里表示，由於中國，他看空銅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
-    "image": null,
-    "pushedAt": "2026-11-14T13:25:09.833Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
-    "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-    "titleZh": "大觀點：氣候正在以模型無法預測的方式發生變化",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
-    "image": null,
-    "pushedAt": "2026-11-14T13:26:20.157Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
-    "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
-    "titleZh": "斯科特·科羅姆在密西西比州參議院競選中令人震驚的失利背後的數字",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13ea-ms-colom-win-top-ptlm/13ea-ms-colom-win-top-ptlm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T03:43:48.980Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
-    "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
-    "titleZh": "Exemplar Luxury 集團執行長談公司的第二次生命",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
-    "image": null,
-    "pushedAt": "2026-11-14T13:29:35.572Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
-    "title": "Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil",
-    "titleZh": "儘管人工智慧出現動盪，摩根士丹利的沙萊特仍「難以置信」地看好",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
-    "image": null,
-    "pushedAt": "2026-11-14T20:26:40.451Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
-    "title": "United Airlines Blocks A.I. Agents From Booking Flights",
-    "titleZh": "聯合航空阻止人工智慧預訂航班的代理商",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T22:35:43.326Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
     "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
     "titleZh": "川普政府延後執行醫療補助工作要求",
@@ -8998,5 +8935,68 @@
     "url": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
     "image": "https://static01.nyt.com/images/2026/11/17/opinion/17eks-sand-image01/17eks-sand-image01-mediumSquareAt3X.png",
     "pushedAt": "2026-11-17T10:06:52.477Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
+    "title": "There’s a New Push at COP31 in Turkey: Electrification",
+    "titleZh": "土耳其 COP31 有新推動：電氣化",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:07:21.022Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
+    "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+    "titleZh": "隨著川普訪問中國，A.I.間諜活動和安全擔憂導致緊張局勢加劇",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-china-ai-qblv/17dc-china-ai-qblv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:07:25.366Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+    "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+    "titleZh": "川普和習近平上台後，他們的政府正在武裝起來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-APEC-hostilities-01-mvtl/17biz-APEC-hostilities-01-mvtl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:07:30.684Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
+    "title": "How Democrats Winning in Texas Affects Musk",
+    "titleZh": "民主黨在德克薩斯州獲勝如何影響馬斯克",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
+    "image": null,
+    "pushedAt": "2026-11-17T10:07:35.526Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
+    "title": "Elon Musk’s Texas GOP Allies, Who Gave Him $1.7 Billion, Have Been Voted Out. What Now?",
+    "titleZh": "馬斯克 (Elon Musk) 的德州共和黨盟友曾為他提供 17 億美元，但已被投票淘汰。現在怎麼辦？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-musk-texas-06-hgkv-signs-mwgb/16biz-musk-texas-06-hgkv-signs-mwgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:07:40.619Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
+    "title": "Does This Man Have a Right to the Data From His Own Brain?",
+    "titleZh": "這個人有權利獲得自己大腦中的數據嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:07:44.921Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+    "title": "Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing",
+    "titleZh": "由於擔心中國競爭對手，美國生技採取新規範：不分享任何內容",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T10:07:49.715Z"
   }
 ]
