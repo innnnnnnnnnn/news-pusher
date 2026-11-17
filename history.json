@@ -1,131 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499",
-    "title": "Rolls-Royce puts new spin on razor-and-blade model",
-    "titleZh": "勞斯萊斯為剃刀和刀片模型注入新元素",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T04:51:21.043Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/dollar-poised-for-best-week-in-over-a-month-on-fed-hike-bets",
-    "title": "Dollar Wraps Best Week in Over a Month on Fed Rate Hike Bets",
-    "titleZh": "因聯準會升息押注，美元可望創一個多月來最佳單週表現",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/dollar-poised-for-best-week-in-over-a-month-on-fed-hike-bets",
-    "image": null,
-    "pushedAt": "2026-11-13T21:36:32.684Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/k-beauty-boom-becomes-wall-street-s-latest-investment-play",
-    "title": "K-Beauty Boom Becomes Wall Street’s Latest Investment Play",
-    "titleZh": "韓國美容熱潮成為華爾街最新的投資策略",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/k-beauty-boom-becomes-wall-street-s-latest-investment-play",
-    "image": null,
-    "pushedAt": "2026-11-13T19:27:57.094Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
-    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-    "titleZh": "Arm 老闆 Rene Haas 正在尋找 Nvidia 首席執行官",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfefd905-2f2c-4507-804d-be51de97ff0c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-14T16:58:29.595Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/the-billion-dollar-business-of-virtual-schools-video",
-    "title": "The Billion-Dollar Business of Virtual Schools",
-    "titleZh": "虛擬學校的價值數十億美元的業務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-billion-dollar-business-of-virtual-schools-video",
-    "image": null,
-    "pushedAt": "2026-11-13T19:30:36.471Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/ahead-of-grand-theft-auto-vi-rockstar-votes-on-unions",
-    "title": "Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions",
-    "titleZh": "在《俠盜獵車手 6》上映之前，Rockstar 對工會進行投票",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/ahead-of-grand-theft-auto-vi-rockstar-votes-on-unions",
-    "image": null,
-    "pushedAt": "2026-11-13T19:31:25.518Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-    "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-    "titleZh": "黃仁勳失業了。華爾街失去了最大的獎品。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T05:04:15.922Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-    "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-    "titleZh": "尋求擴大烏克蘭談判範圍，美國敦促俄羅斯將歐洲納入其中",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T18:56:48.647Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html",
-    "title": "The Boss, the Bribe and the Newspaper That Couldn’t Be Bought",
-    "titleZh": "老闆、賄賂和買不到的報紙",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html",
-    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf/00-PROJECTS-175-EYEWITNESS-BOSS-TWEED-cjkf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T02:50:11.055Z"
-  },
-  {
-    "id": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968",
-    "title": "AI believers hold the line after Nvidia ructions",
-    "titleZh": "英偉達發生騷亂後，人工智慧信徒堅守陣地",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F64eddb0c-d2a2-4ca3-af8c-c307ae39dac3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-14T05:04:39.588Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/cameron-says-brexit-did-not-cause-uk-s-problems-video",
-    "title": "Cameron says Brexit did not cause UK's problems",
-    "titleZh": "卡麥隆表示英國脫歐並未造成英國問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/cameron-says-brexit-did-not-cause-uk-s-problems-video",
-    "image": null,
-    "pushedAt": "2026-11-13T19:37:10.112Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
-    "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
-    "titleZh": "黃仁勳出局後，亞裔美國人失去了一顆明星，並擔心接下來會發生什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00nat-huang-asianamericans-clvp/00nat-huang-asianamericans-clvp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T03:03:29.001Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/west-african-oil-just-got-64-a-barrel-cheaper-for-some-buyers",
-    "title": "West African Oil Just Got $64 a Barrel Cheaper for Some Buyers",
-    "titleZh": "對一些買家來說，西非石油每桶便宜 64 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/west-african-oil-just-got-64-a-barrel-cheaper-for-some-buyers",
-    "image": null,
-    "pushedAt": "2026-11-13T19:41:55.830Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a",
-    "title": "Scott Colom: the Democrat who conquered the reddest of red states",
-    "titleZh": "斯科特·科洛姆（Scott Colom）：征服紅州中最紅色的民主黨人",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4077c45d-5fac-49c4-a320-b7a7b6d89a39.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-14T09:48:28.496Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/lutnick-under-pressure-as-nvidia-crisis-unfolds-video",
     "title": "Lutnick Under Pressure as Nvidia Crisis Unfolds",
     "titleZh": "英偉達危機爆發，盧特尼克面臨壓力",
@@ -5919,7 +5793,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-ukraine-winter-01-cjfl/16int-ukraine-winter-01-cjfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T02:50:29.529Z"
+    "pushedAt": "2026-11-17T05:05:42.858Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
@@ -5928,7 +5802,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T02:50:53.746Z"
+    "pushedAt": "2026-11-17T05:06:07.201Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/europe-s-top-pork-producer-ousts-ceo-amid-slump-restructuring",
@@ -8776,12 +8650,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
-    "title": "New Zealand Dollar Drops to Six-Year Low Against Greenback",
+    "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
     "titleZh": "紐西蘭元兌美元跌至六年低點",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
     "image": null,
-    "pushedAt": "2026-11-17T02:51:22.485Z"
+    "pushedAt": "2026-11-17T05:06:31.636Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
@@ -8998,5 +8872,131 @@
     "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T05:05:15.114Z"
+  },
+  {
+    "id": "https://www.ft.com/content/36bf11fe-19a9-4a5f-9c0b-9d06885a8aba",
+    "title": "Nvidia’s imperial palace intrigue",
+    "titleZh": "Nvidia的皇宮陰謀",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/36bf11fe-19a9-4a5f-9c0b-9d06885a8aba?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:06:57.982Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3b51a260-2e6c-452e-a109-ea7c1fe85b3a",
+    "title": "Jay-Z backed music rights firm raises nearly $700mn to expand portfolio",
+    "titleZh": "Jay-Z 支持的音樂版權公司籌集近 7 億美元以擴大投資組合",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3b51a260-2e6c-452e-a109-ea7c1fe85b3a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:01.918Z"
+  },
+  {
+    "id": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca",
+    "title": "Finland urges European leaders to talk to Putin directly",
+    "titleZh": "芬蘭敦促歐洲領導人直接與普丁對話",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:05.700Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d94f5378-ae95-4bfd-ac01-3a65b387d4cf",
+    "title": "The AI sell-off makes sense. Staying bearish may not",
+    "titleZh": "人工智慧的拋售是有道理的。保持看跌可能不會",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d94f5378-ae95-4bfd-ac01-3a65b387d4cf",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:09.851Z"
+  },
+  {
+    "id": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581",
+    "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
+    "titleZh": "「有很多煤氣燈」：為什麼美國的播客明星拋棄了川普",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:13.297Z"
+  },
+  {
+    "id": "https://www.ft.com/content/73490a82-b58e-4e95-b6bb-6434eea4406a",
+    "title": "Changing battlefield tactics hit Europe’s ammunition makers",
+    "titleZh": "不斷變化的戰場策略打擊了歐洲的彈藥製造商",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/73490a82-b58e-4e95-b6bb-6434eea4406a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:16.285Z"
+  },
+  {
+    "id": "https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6",
+    "title": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings",
+    "titleZh": "英偉達臨時執行長 Colette Kress 將在首次財報中首次亮相",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:19.410Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a",
+    "title": "Banks seek to curb AI debt exposure as backlash mounts",
+    "titleZh": "隨著強烈反對，銀行尋求遏制人工智慧債務風險",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:23.489Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b685c645-fad7-44a4-9881-3f1dbbe259a8",
+    "title": "Swiss defence group in US expansion push as drone demand soars",
+    "titleZh": "隨著無人機需求飆升，瑞士防務集團在美國擴張",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b685c645-fad7-44a4-9881-3f1dbbe259a8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:27.751Z"
+  },
+  {
+    "id": "https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d",
+    "title": "China’s robot makers have more to offer than viral backflip videos",
+    "titleZh": "中國的機器人製造商可以提供的不僅僅是病毒般的後空翻視頻",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:31.352Z"
+  },
+  {
+    "id": "https://www.ft.com/content/559c13f1-0888-47e5-b6ce-523309a37193",
+    "title": "Inside the $900bn data centre bet behind Anthropic’s IPO",
+    "titleZh": "Anthropic IPO背後的9000億美元資料中心賭注",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/559c13f1-0888-47e5-b6ce-523309a37193?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:34.867Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b35f6b13-12fb-4f9b-aa9a-c41aa49245b4",
+    "title": "The battle over fashion’s waste crisis",
+    "titleZh": "時尚界浪費危機之戰",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b35f6b13-12fb-4f9b-aa9a-c41aa49245b4",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:39.294Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f",
+    "title": "Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash",
+    "titleZh": "亞馬遜 170 億美元的俄亥俄州人工智慧資料中心賭注受到選民強烈反對的威脅",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:42.269Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f214db12-7c8a-4d54-8582-b57289513c29",
+    "title": "Rothschild & Co anchors Italy at heart of European growth plan",
+    "titleZh": "羅斯柴爾德公司將義大利置於歐洲成長計畫的核心",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f214db12-7c8a-4d54-8582-b57289513c29?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T05:07:46.689Z"
   }
 ]
