@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab",
-    "title": "Milburn review to call for tens of thousands of further education places",
-    "titleZh": "米爾本審查呼籲提供數以萬計的繼續教育名額",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T06:14:56.565Z"
-  },
-  {
     "id": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b",
     "title": "BoE chief economist says further rate rises needed to combat inflation",
     "titleZh": "英國央行首席經濟學家表示需要進一步升息以應對通膨",
@@ -5730,7 +5721,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
     "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:24:52.390Z"
+    "pushedAt": "2026-11-17T11:44:31.924Z"
   },
   {
     "id": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
     "image": null,
     "pushedAt": "2026-11-17T11:37:10.239Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+    "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
+    "titleZh": "川普的新人工智慧晶片規則擾亂東南亞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-data-centers-kjtv/17trump-summits-data-centers-kjtv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T11:44:59.119Z"
   }
 ]
