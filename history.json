@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-    "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
-    "titleZh": "抗議者在都柏林之行期間向拜登投擲彈丸",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-biden-topart-01-qkbf/11xp-biden-topart-01-qkbf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T14:35:00.904Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
     "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
     "titleZh": "為什麼 Anthropic 的 Dario Amodei 激怒了 OpenAI 和其他人工智慧公司同行",
@@ -2679,7 +2670,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T02:40:10.654Z"
+    "pushedAt": "2026-11-17T04:53:49.891Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
@@ -5379,7 +5370,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T02:39:21.647Z"
+    "pushedAt": "2026-11-17T04:53:01.168Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
@@ -7377,7 +7368,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a8f489b3-7cb1-4013-9b6b-d684a0c4fb6b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T02:39:46.025Z"
+    "pushedAt": "2026-11-17T04:53:25.415Z"
   },
   {
     "id": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F871c4f72-0468-4caa-8ca7-60833a90a59f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-17T04:52:33.469Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk",
+    "title": "Baidu’s Robin Li Says AI Needs Monetization to Avoid Bubble Risk",
+    "titleZh": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk",
+    "image": null,
+    "pushedAt": "2026-11-17T04:54:16.002Z"
   }
 ]
