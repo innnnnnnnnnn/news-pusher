@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html",
-    "title": "Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley",
-    "titleZh": "黃仁勳的倒台是矽谷正在發生的事情的黑暗後果",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/opinion/14seru-larcker/14seru-larcker-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T05:11:36.376Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
     "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
     "titleZh": "法官阻止川普高爾夫計畫立即關閉東波托馬克公園",
@@ -7647,7 +7638,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/012214bb-385b-45c1-aaee-bcaf5500746d",
     "image": null,
-    "pushedAt": "2026-11-17T13:43:11.627Z"
+    "pushedAt": "2026-11-17T16:27:41.643Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/how-china-and-us-clash-over-ai-risks-robots-and-chip-smuggling",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T16:27:14.337Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff",
+    "title": "Take-Two’s Firaxis, Maker of ‘Civilization,’ Cuts a Third of Its Staff",
+    "titleZh": "《文明》的製作者 Take-Two 的 Firaxis 裁員三分之一",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff",
+    "image": null,
+    "pushedAt": "2026-11-17T16:29:45.100Z"
   }
 ]
