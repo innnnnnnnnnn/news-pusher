@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
-    "title": "Nvidia Crisis Reshapes Washington’s Tech Debate",
-    "titleZh": "英偉達危機重塑華盛頓的科技辯論",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
-    "image": null,
-    "pushedAt": "2026-11-15T22:36:45.602Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/the-1973-oil-crisis-still-matters-today-video",
     "title": "The 1973 Oil Crisis Still Matters Today",
     "titleZh": "1973 年石油危機至今仍具有重要意義",
@@ -600,7 +591,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:07:08.587Z"
+    "pushedAt": "2026-11-17T21:34:18.818Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
@@ -6846,7 +6837,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-disney-earnings-klht/17biz-disney-earnings-klht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:05:31.358Z"
+    "pushedAt": "2026-11-17T21:32:43.984Z"
   },
   {
     "id": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5",
@@ -7440,7 +7431,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6d1efc79-8e86-475e-91da-4cf15fd50079?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T19:05:55.706Z"
+    "pushedAt": "2026-11-17T21:33:07.679Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
@@ -8169,16 +8160,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-nsa-hbgj/17dc-nsa-hbgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:06:19.647Z"
+    "pushedAt": "2026-11-17T21:33:31.391Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/opinion/measles-elimination-status-vaccines.html",
-    "title": "America Lost Its Measles Elimination Status. It’s a Tragedy.",
+    "title": "An Elegy for Americans Dying of Measles",
     "titleZh": "美國失去了消除麻疹的地位。這是一場悲劇。",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/opinion/measles-elimination-status-vaccines.html",
     "image": null,
-    "pushedAt": "2026-11-17T19:06:44.374Z"
+    "pushedAt": "2026-11-17T21:33:55.147Z"
   },
   {
     "id": "https://flipso.com/p/vzc5elb75",
@@ -8187,7 +8178,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vzc5elb75?ref=rss",
     "image": "https://cdn.flipso.com/p/vzc5elb75_square.jpg",
-    "pushedAt": "2026-11-17T19:07:32.420Z"
+    "pushedAt": "2026-11-17T21:34:41.901Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -8196,7 +8187,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fsgbqaa5f?ref=rss",
     "image": "https://cdn.flipso.com/p/fsgbqaa5f_square.jpg",
-    "pushedAt": "2026-11-17T19:07:56.515Z"
+    "pushedAt": "2026-11-17T21:35:05.252Z"
   },
   {
     "id": "https://flipso.com/p/k6nacrbia",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/looking-to-bring-more-finance-onchain-chakar-video",
     "image": null,
     "pushedAt": "2026-11-17T21:32:17.612Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870",
+    "title": "Nvidia sales doubled last quarter",
+    "titleZh": "英偉達上季度銷售額翻倍",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32966346-f6a6-4b73-88d7-cb4eb9423aa6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T21:35:34.181Z"
   }
 ]
