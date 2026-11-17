@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/jougckm25",
-    "title": "Magenta solar panels may be agrivoltaics’ cleverest trick yet",
-    "titleZh": "洋紅色太陽能板可能是農業光電迄今最聰明的伎倆",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/jougckm25?ref=rss",
-    "image": null,
-    "pushedAt": "2026-11-16T21:40:21.679Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
     "title": "Despite recent misses, political polling is more accurate than ever",
     "titleZh": "儘管最近出現了失誤，但政治民意調查比以往任何時候都更加準確",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/apple-watch-with-audio-intelligence-ai-and-amazon-bee-raise-privacy-concerns",
     "image": null,
     "pushedAt": "2026-11-17T11:30:25.231Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
+    "title": "Disney Plans to Finance Growth With $3 Billion in Cost Savings",
+    "titleZh": "迪士尼計劃透過節省 30 億美元的成本來實現成長",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-disney-earnings-klht/17biz-disney-earnings-klht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T11:30:58.590Z"
   }
 ]
