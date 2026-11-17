@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/paraguay-bank-scandal-corruption-charges-shakes-safe-haven-status",
-    "title": "Paraguay Bank Scandal, Corruption Charges Shakes Safe Haven Status",
-    "titleZh": "巴拉圭銀行醜聞和腐敗指控動搖了避風港地位",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/paraguay-bank-scandal-corruption-charges-shakes-safe-haven-status",
-    "image": null,
-    "pushedAt": "2026-11-15T12:32:10.935Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
     "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
     "titleZh": "隨著馬斯克推動特斯拉合併，SpaceX 的標普 500 指數競標獲得新生",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/banks-pause-480-million-chip-loan-tied-to-china-s-bytedance",
     "image": null,
     "pushedAt": "2026-11-17T15:08:32.877Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+    "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+    "titleZh": "在美國船隻襲擊中倖存的厄瓜多爾漁民起訴川普政府",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T15:18:23.734Z"
   }
 ]
