@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html",
-    "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-    "titleZh": "艾森科特指責內塔尼亞胡助長針對阿拉伯人的「種族主義」敵意",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T18:28:28.833Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/customers-buying-nvidia-dip-guild-video",
-    "title": "Customers Buying NVIDIA Dip: Guild",
-    "titleZh": "購買 NVIDIA Dip 的客戶：Guild",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/customers-buying-nvidia-dip-guild-video",
-    "image": null,
-    "pushedAt": "2026-11-13T21:09:40.652Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-tech-11-13-2026-video",
     "title": "Nvidia Fallout, Microsoft Outage and Anthropic’s IPO Push",
     "titleZh": "Nvidia 的影響、微軟的中斷和 Anthropic 的 IPO 推動",
@@ -3534,7 +3516,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
     "image": null,
-    "pushedAt": "2026-11-17T03:51:25.415Z"
+    "pushedAt": "2026-11-17T06:05:48.884Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
@@ -5379,7 +5361,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/pfg7lsyqk?ref=rss",
     "image": "https://cdn.flipso.com/p/pfg7lsyqk_square.jpg",
-    "pushedAt": "2026-11-17T03:51:49.539Z"
+    "pushedAt": "2026-11-17T06:06:13.823Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/the-impossible-trilemma-that-hangs-over-the-nvidia-crisis",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04b720a5-07f6-46ad-b25d-56d624bed67b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-17T06:05:22.974Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
+    "title": "Trump’s Ego Trip With Xi and Putin Will End Badly",
+    "titleZh": "川普與習近平和普丁的自我之旅將有糟糕的結局",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/opinion/17campbell-image/17campbell-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T06:06:38.321Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/opinion/ai-bubble-workers.html",
+    "title": "What If There Is No A.I. Bubble?",
+    "titleZh": "如果沒有人工智慧怎麼辦？氣泡？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/opinion/ai-bubble-workers.html",
+    "image": null,
+    "pushedAt": "2026-11-17T06:06:42.196Z"
   }
 ]
