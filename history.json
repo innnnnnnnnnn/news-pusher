@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
-    "title": "White House Braces for Democratic Investigations",
-    "titleZh": "白宮為民主調查做好準備",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
-    "image": null,
-    "pushedAt": "2026-11-15T23:45:15.397Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
     "title": "Nvidia Feels the Heat on CEO Search as Bessent Calls for Shakeup",
     "titleZh": "Bessent 表示 Nvidia 需要在黃宇斯特之後進行“戲劇性的改組”",
@@ -3093,7 +3084,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-killer-robots-cfgz/16int-killer-robots-cfgz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:34:42.230Z"
+    "pushedAt": "2026-11-17T21:59:17.368Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers-mwjdpb94",
@@ -5181,7 +5172,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-asean-trump-01-ptql/00int-asean-trump-01-ptql-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:34:18.677Z"
+    "pushedAt": "2026-11-17T21:58:54.231Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/17nvidia-earnings-live-jensen-version/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
     "pushedAt": "2026-11-17T21:58:27.397Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+    "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
+    "titleZh": "馬坦·卡哈納當選以色列議會議長",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T21:59:45.032Z"
   }
 ]
