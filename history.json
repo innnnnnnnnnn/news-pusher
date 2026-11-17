@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
-    "title": "Xi Jinping’s chief ideologue is worried",
-    "titleZh": "習近平的主要理論家感到擔憂",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
-    "image": null,
-    "pushedAt": "2026-11-17T08:33:55.303Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/world/americas/nationwide-ground-stop-flights-faa.html",
     "title": "F.A.A. Declares a Rare Nationwide Ground Stop",
     "titleZh": "美國聯邦航空管理局宣布罕見的全國性地面停留",
@@ -2697,7 +2688,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:27:52.350Z"
+    "pushedAt": "2026-11-17T08:43:46.357Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
@@ -4290,7 +4281,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ed1a39b6-15fc-45f5-8b31-2fe24a7cfa6b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T06:29:29.087Z"
+    "pushedAt": "2026-11-17T08:44:57.538Z"
   },
   {
     "id": "https://www.ft.com/content/74756c50-cedb-4ff9-9cad-43abd5b0646d",
@@ -6378,7 +6369,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-tesla-spacex-tesla-jmzp/00biz-tesla-spacex-tesla-jmzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:28:16.605Z"
+    "pushedAt": "2026-11-17T08:44:09.249Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
@@ -6387,7 +6378,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
     "image": "https://static01.nyt.com/images/2026/11/19/business/16biz-digital-conglomerates/16biz-digital-conglomerates-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:28:40.218Z"
+    "pushedAt": "2026-11-17T08:44:34.417Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-expect-from-trump-s-china-summit-video",
@@ -6873,7 +6864,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-china-general-01-lbjw/00int-china-general-01-lbjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:27:29.280Z"
+    "pushedAt": "2026-11-17T08:43:23.528Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/macquarie-warns-of-data-center-exuberance-amid-capex-super-cycle",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/kls7qm9ue?ref=rss",
     "image": "https://cdn.flipso.com/p/kls7qm9ue_square.jpg",
     "pushedAt": "2026-11-17T08:42:57.949Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-large-sums-linked-to-epstein-ft-video",
+    "title": "Deutsche Bank Processed Large Sums Linked to Epstein: FT (Video)",
+    "titleZh": "德意志銀行處理了與愛潑斯坦有關的大筆資金：《金融時報》（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-large-sums-linked-to-epstein-ft-video",
+    "image": null,
+    "pushedAt": "2026-11-17T08:45:21.070Z"
   }
 ]
