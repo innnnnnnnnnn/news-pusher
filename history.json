@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-    "title": "(Digital) SpaceX Catches Starship in Novel Landing",
-    "titleZh": "(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-    "image": null,
-    "pushedAt": "2026-11-15T17:43:53.973Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-    "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
-    "titleZh": "黃仁勳保守了一年多的秘密。這導致了他的垮台。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-16T10:57:49.720Z"
-  },
-  {
     "id": "https://flipso.com/p/pw3n037mu",
     "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring",
     "titleZh": "《灰色搖滾》：非常非常無聊的改善生活的力量",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video",
     "image": null,
     "pushedAt": "2026-11-17T16:16:25.968Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
+    "title": "Do You Need a Measles Booster?",
+    "titleZh": "您需要麻疹加強針嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
+    "image": "https://static01.nyt.com/images/2025/03/04/well/WELL-MEASLES-BOOSTER1/WELL-MEASLES-BOOSTER1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:16:57.790Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/arts/design/van-gogh-jewish-heirs-nazi-chestnut-trees-sothebys.html",
+    "title": "Jewish Heirs and Consignors Settle Claim Over $180 Million van Gogh Ahead of Sale",
+    "titleZh": "猶太繼承人和委託人在梵谷拍賣前就價值超過 1.8 億美元的索賠達成和解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/arts/design/van-gogh-jewish-heirs-nazi-chestnut-trees-sothebys.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-auction-settle-fmwz/17cul-auction-settle-fmwz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:17:07.522Z"
   }
 ]
