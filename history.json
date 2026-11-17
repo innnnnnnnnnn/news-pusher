@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd",
-    "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-    "titleZh": "官員稱川普不會在峰會上向習近平提出英偉達間諜問題",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T05:18:25.912Z"
-  },
-  {
-    "id": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97",
-    "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
-    "titleZh": "印度寄望於人工智慧新創公司避免成為“數位殖民地”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T05:29:36.066Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
     "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO",
     "titleZh": "英偉達股價暴跌，據稱董事會將考慮黃仁勳擔任執行長的未來",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-philippines-protest-tfvg/17trump-summits-philippines-protest-tfvg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T10:58:36.403Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
+    "title": "BofA Survey Shows Investors Cut Tech Exposure by Most Since 2006",
+    "titleZh": "美國銀行調查顯示，自 2006 年以來，投資人大幅削減了科技投資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
+    "image": null,
+    "pushedAt": "2026-11-17T11:04:16.949Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value",
+    "title": "AI Startup For Bankers Raises Funds at $1.5 Billion Value",
+    "titleZh": "銀行家的人工智慧新創公司籌集了價值 15 億美元的資金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value",
+    "image": null,
+    "pushedAt": "2026-11-17T11:04:18.970Z"
   }
 ]
