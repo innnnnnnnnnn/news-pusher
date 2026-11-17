@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
-    "title": "US Treasury Weighs Loan to Help Venezuela Pay Debt to IDB",
-    "titleZh": "美國財政部考慮提供貸款幫助委內瑞拉償還美洲開發銀行的債務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
-    "image": null,
-    "pushedAt": "2026-11-13T21:38:48.075Z"
-  },
-  {
-    "id": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
-    "title": "Democrats’ strategy for ending the war in Iran",
-    "titleZh": "民主黨結束伊朗戰爭的戰略",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
-    "image": null,
-    "pushedAt": "2026-11-17T06:58:25.136Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-end-week-higher-amid-tech-turmoil-closing-bell-video",
     "title": "Stocks End Week Higher Amid Tech Turmoil | Closing Bell",
     "titleZh": "科技動盪期間股市收高結束鐘聲",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T09:12:02.552Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3",
+    "title": "Mixed UK labour market in latest data",
+    "titleZh": "最新數據顯示英國勞動市場好壞參半",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3",
+    "image": null,
+    "pushedAt": "2026-11-17T09:12:30.583Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+    "image": null,
+    "pushedAt": "2026-11-17T09:12:33.276Z"
   }
 ]
