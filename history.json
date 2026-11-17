@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/congress-presses-nvidia-over-china-chip-access-video",
-    "title": "Congress Presses Nvidia Over China Chip Access",
-    "titleZh": "國會就中國晶片准入問題向英偉達施壓",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/congress-presses-nvidia-over-china-chip-access-video",
-    "image": null,
-    "pushedAt": "2026-11-15T23:17:18.964Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
     "title": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
     "titleZh": "英偉達就員工晶片走私案尋求台北的幫助",
@@ -8623,12 +8614,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage",
-    "title": "Apple Works to Restore Systems After Update Caused Outage",
+    "title": "Apple Works to Restore Systems After Internal Update Causes Outage",
     "titleZh": "Apple 致力於在更新導致中斷後恢復系統",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage",
     "image": null,
-    "pushedAt": "2026-11-17T19:28:15.639Z"
+    "pushedAt": "2026-11-17T21:51:57.900Z"
   },
   {
     "id": "https://www.ft.com/content/437d5cbb-ee07-43bd-8db6-e3c9cf8c8eb5",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
     "image": null,
     "pushedAt": "2026-11-17T21:51:29.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/kalshi-s-expansion-to-include-stock-trading-video",
+    "title": "Kalshi’s Expansion to Include Stock Trading",
+    "titleZh": "Kalshi 的業務擴展包括股票交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/kalshi-s-expansion-to-include-stock-trading-video",
+    "image": null,
+    "pushedAt": "2026-11-17T21:52:24.721Z"
   }
 ]
