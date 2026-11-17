@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
-    "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-    "titleZh": "地面站凸顯空中交通系統的長期漏洞",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T13:51:06.337Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "title": "South Sudan’s National Election, Its First, Will Be Delayed",
     "titleZh": "南蘇丹首次全國選舉將延後",
@@ -5442,7 +5433,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/3e5vf24a6?ref=rss",
     "image": "https://cdn.flipso.com/p/3e5vf24a6_square.jpg",
-    "pushedAt": "2026-11-17T13:23:12.846Z"
+    "pushedAt": "2026-11-17T15:56:11.651Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
@@ -8371,12 +8362,12 @@
   },
   {
     "id": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad",
-    "title": "Labour reforms risk harming job market for Britain’s young, says Milburn review",
+    "title": "Labour’s reforms risk harming job market for Britain’s young, says Milburn review",
     "titleZh": "米爾本評論稱，勞動改革可能會損害英國年輕人的就業市場",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T13:24:18.708Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ba36c23-9e0a-463b-a952-7444e115f5ec.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T15:56:42.360Z"
   },
   {
     "id": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/disney-s-adjusted-eps-beat-home-depot-down-on-guidance-video",
     "image": null,
     "pushedAt": "2026-11-17T15:55:42.476Z"
+  },
+  {
+    "id": "https://www.ft.com/content/af2519b0-d0de-409b-b2eb-3c6f2ff3caf1",
+    "title": "Nvidia’s crisis creates an opportunity for newbie chipmakers",
+    "titleZh": "英偉達的危機為新手晶片製造商創造了機會",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/af2519b0-d0de-409b-b2eb-3c6f2ff3caf1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T15:57:10.201Z"
   }
 ]
