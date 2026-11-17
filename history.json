@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
-    "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
-    "titleZh": "隨著系統從地面停止恢復，航班延誤和取消仍然存在",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T04:25:48.946Z"
-  },
-  {
     "id": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
     "title": "US and allies sign accord to protect AI supply chains from China",
     "titleZh": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
@@ -3777,7 +3768,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes",
     "image": null,
-    "pushedAt": "2026-11-17T21:16:18.844Z"
+    "pushedAt": "2026-11-17T23:31:41.472Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
@@ -7062,7 +7053,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/germany-corrects-october-inflation-data-showing-stronger-pace",
     "image": null,
-    "pushedAt": "2026-11-17T21:16:41.832Z"
+    "pushedAt": "2026-11-17T23:32:05.476Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
@@ -8151,7 +8142,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
     "image": null,
-    "pushedAt": "2026-11-17T21:15:30.624Z"
+    "pushedAt": "2026-11-17T23:30:54.514Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
@@ -8160,7 +8151,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
     "image": null,
-    "pushedAt": "2026-11-17T21:15:54.938Z"
+    "pushedAt": "2026-11-17T23:31:17.908Z"
   },
   {
     "id": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-iran-youssef-ibrahim-obit-1-whkt/17int-iran-youssef-ibrahim-obit-1-whkt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T23:29:38.700Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/briefing/us-measles-surge-nvidia-profit.html",
+    "title": "Measles Is Officially Back",
+    "titleZh": "麻疹正式捲土重來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/briefing/us-measles-surge-nvidia-profit.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17evening-nl-WELL-ELIMINATION-STATUS-MEASLES-mkpz/17evening-nl-WELL-ELIMINATION-STATUS-MEASLES-mkpz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T23:32:33.723Z"
   }
 ]
