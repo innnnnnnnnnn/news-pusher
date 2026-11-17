@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
-    "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
-    "titleZh": "來認識一下擊敗勞倫·博伯特 (Lauren Boebert) 的海軍退伍軍人艾琳·勞巴赫 (Eileen Laubacher)",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-laubacher-boebert-vhmj/10nat-laubacher-boebert-vhmj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T02:28:04.845Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs",
     "title": "Nvidia Crisis Spurs Scrutiny of Agency That Oversees Chip Curbs",
     "titleZh": "英偉達危機引發對晶片限制監督機構的審查",
@@ -7665,7 +7656,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/tripadvisor-loan-soars-as-600-million-payment-boosts-confidence",
     "image": null,
-    "pushedAt": "2026-11-17T07:00:54.763Z"
+    "pushedAt": "2026-11-17T09:16:09.930Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/uk-migration-advisers-reject-call-for-investor-visa",
@@ -8560,12 +8551,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/avio-gets-2-billion-takeover-bid-from-finland-s-iceye",
-    "title": "Avio Gets €2 Billion Takeover Bid From Finland’s Iceye",
+    "title": "Finland’s Iceye Bids €2 Billion for Rocket-Launch Firm Avio",
     "titleZh": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/avio-gets-2-billion-takeover-bid-from-finland-s-iceye",
     "image": null,
-    "pushedAt": "2026-11-17T07:00:02.958Z"
+    "pushedAt": "2026-11-17T09:15:46.912Z"
   },
   {
     "id": "https://www.ft.com/content/18d940b2-c869-475a-a8a4-934544d13618",
@@ -8574,7 +8565,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/18d940b2-c869-475a-a8a4-934544d13618?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T07:01:19.717Z"
+    "pushedAt": "2026-11-17T09:16:33.037Z"
   },
   {
     "id": "https://www.ft.com/content/2c8ebea3-f202-44b6-8319-e7a466c51981",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
     "image": null,
     "pushedAt": "2026-11-17T09:12:59.997Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-11-17T09:16:56.329Z"
   }
 ]
