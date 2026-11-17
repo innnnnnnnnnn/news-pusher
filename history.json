@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-makes-some-progress-on-outlook-outage-video",
-    "title": "Microsoft Makes Some Progress on Outlook Outage",
-    "titleZh": "微軟在 Outlook 中斷問題上取得了一些進展",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-makes-some-progress-on-outlook-outage-video",
-    "image": null,
-    "pushedAt": "2026-11-13T21:23:36.726Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
     "title": "Bartleby newsletter: Can AI write newsletters",
     "titleZh": "巴特比時事通訊：人工智慧可以撰寫時事通訊嗎",
@@ -2184,7 +2175,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/07pgqe1wu?ref=rss",
     "image": "https://cdn.flipso.com/p/07pgqe1wu_square.jpg",
-    "pushedAt": "2026-11-17T03:54:42.400Z"
+    "pushedAt": "2026-11-17T06:10:35.591Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
@@ -2499,7 +2490,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T03:54:17.731Z"
+    "pushedAt": "2026-11-17T06:10:11.327Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html",
@@ -2598,7 +2589,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T03:53:52.917Z"
+    "pushedAt": "2026-11-17T06:09:47.563Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
@@ -3633,7 +3624,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T03:53:27.176Z"
+    "pushedAt": "2026-11-17T06:09:24.490Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
@@ -5874,7 +5865,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
     "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T03:53:02.730Z"
+    "pushedAt": "2026-11-17T06:09:00.785Z"
   },
   {
     "id": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1",
@@ -8024,8 +8015,8 @@
     "titleZh": "CVC 計劃退出義大利與 Advent 的交易，引發潛在的法律衝突",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bd65d6e0-3ecb-498c-b684-c7e4c782a0ae?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd7b0e21-a655-440e-939f-cf695350fe78.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T03:55:07.245Z"
+    "image": null,
+    "pushedAt": "2026-11-17T06:10:58.978Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T06:08:34.382Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
+    "title": "China Stock Bull Sees Up to 15% Upside on Earnings, Valuation",
+    "titleZh": "中國股市牛市預計獲利和估值上漲高達 15%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
+    "image": null,
+    "pushedAt": "2026-11-17T06:11:24.099Z"
   }
 ]
