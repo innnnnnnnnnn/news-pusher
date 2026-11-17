@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/americas/nationwide-ground-stop-flights-faa.html",
-    "title": "F.A.A. Declares a Rare Nationwide Ground Stop",
-    "titleZh": "美國聯邦航空管理局宣布罕見的全國性地面停留",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/americas/nationwide-ground-stop-flights-faa.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-faa-groundstop-01/13dc-faa-groundstop-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T21:27:13.508Z"
-  },
-  {
     "id": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b",
     "title": "US aviation regulator lifts order that grounded thousands of flights",
     "titleZh": "美國聯邦航空監管機構停飛所有離港航班",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-large-sums-linked-to-epstein-ft-video",
     "image": null,
     "pushedAt": "2026-11-17T08:45:21.070Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
+    "title": "Xi Jinping’s chief ideologue is worried",
+    "titleZh": "習近平的主要理論家感到擔憂",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
+    "image": null,
+    "pushedAt": "2026-11-17T08:45:48.142Z"
   }
 ]
