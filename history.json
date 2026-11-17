@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
-    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-    "titleZh": "盧特尼克敦促削弱與其家族企業重疊的晶片規則",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T14:28:20.185Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
     "title": "Iran Attacks Bahrain for the Second Time in Days",
     "titleZh": "伊朗幾天內第二次襲擊巴林",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
     "pushedAt": "2026-11-17T20:46:33.520Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
+    "title": "Italy’s proposed exit tax causes ructions",
+    "titleZh": "義大利擬徵收退出稅引發爭議",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
+    "image": null,
+    "pushedAt": "2026-11-17T20:47:00.615Z"
   }
 ]
