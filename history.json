@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
-    "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
-    "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
-    "image": null,
-    "pushedAt": "2026-11-17T18:21:46.955Z"
-  },
-  {
     "id": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af",
     "title": "Anthropic’s IPO is the next big test for AI",
     "titleZh": "Anthropic 的 IPO 是人工智慧的下一個重大考驗",
@@ -4074,7 +4065,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T18:10:45.826Z"
+    "pushedAt": "2026-11-17T20:34:15.984Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics",
@@ -5811,7 +5802,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feca36a83-3540-4f68-89d7-62131f984359.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T18:11:10.791Z"
+    "pushedAt": "2026-11-17T20:34:39.775Z"
   },
   {
     "id": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1",
@@ -6783,7 +6774,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T18:12:24.846Z"
+    "pushedAt": "2026-11-17T20:35:50.743Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began",
@@ -8088,7 +8079,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
     "image": null,
-    "pushedAt": "2026-11-17T18:11:36.510Z"
+    "pushedAt": "2026-11-17T20:35:03.727Z"
   },
   {
     "id": "https://flipso.com/p/07pgqe1wu",
@@ -8097,7 +8088,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/07pgqe1wu?ref=rss",
     "image": "https://cdn.flipso.com/p/07pgqe1wu_square.jpg",
-    "pushedAt": "2026-11-17T18:12:00.752Z"
+    "pushedAt": "2026-11-17T20:35:27.319Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nuclear-thriller-puts-spotlight-on-french-presidential-campaign",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
     "image": null,
     "pushedAt": "2026-11-17T20:33:23.715Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value",
+    "title": "Coatue, Thrive in Talks to Lead Ramp Round at $70 Billion Value",
+    "titleZh": "Coatue 與 Thrive 就領投價值 700 億美元的斜坡融資進行談判",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value",
+    "image": null,
+    "pushedAt": "2026-11-17T20:36:17.875Z"
   }
 ]
