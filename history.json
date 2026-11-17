@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
-    "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
-    "titleZh": "這就是為什麼航班可能需要幾天才能恢復正常",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-bouncing-back-topart-ztjq/14faa-groundstop-bouncing-back-topart-ztjq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T22:16:58.785Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
     "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
     "titleZh": "也許民主消亡的傳言還為時過早",
@@ -8367,7 +8358,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
     "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T13:24:53.706Z"
+    "pushedAt": "2026-11-17T15:59:05.988Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/etf-cef-swap-perp-investors-get-slice-of-anthropic-before-ipo",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T15:58:37.530Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/cookie-maker-s-lenders-tap-advisers-as-liquidity-pressure-builds",
+    "title": "Cookie Maker’s Lenders Tap Advisers as Liquidity Pressure Builds",
+    "titleZh": "隨著流動性壓力的增大，Cookie Maker 的貸款機構聘請顧問",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/cookie-maker-s-lenders-tap-advisers-as-liquidity-pressure-builds",
+    "image": null,
+    "pushedAt": "2026-11-17T15:59:34.126Z"
   }
 ]
