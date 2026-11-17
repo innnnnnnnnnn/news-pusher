@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
-    "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
-    "titleZh": "儘管有中期選舉，資料中心仍將繼續建設",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T08:19:40.488Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
-    "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.",
-    "titleZh": "幫助！廁所壞了，我的飛機停飛了，航空公司不再承保飯店。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/travel/1112TrippedUp-illo/1112TrippedUp-illo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T08:20:05.695Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
     "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
     "titleZh": "想賣空股票嗎？ Kalshi 和 C.T.F.C.允許它作為「永續交易」。",
@@ -366,7 +348,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T16:32:17.031Z"
+    "pushedAt": "2026-11-17T18:51:41.195Z"
   },
   {
     "id": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9",
@@ -384,7 +366,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
     "image": null,
-    "pushedAt": "2026-11-17T16:32:41.355Z"
+    "pushedAt": "2026-11-17T18:52:04.987Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
@@ -393,7 +375,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-17T16:33:34.789Z"
+    "pushedAt": "2026-11-17T18:52:52.808Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
@@ -1122,7 +1104,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
     "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T16:33:58.518Z"
+    "pushedAt": "2026-11-17T18:53:16.738Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
@@ -5379,7 +5361,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/business/media/pentagon-media-restrictions-court-hearing.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-pentagon-press-ban-lqkh/16biz-pentagon-press-ban-lqkh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T16:34:22.408Z"
+    "pushedAt": "2026-11-17T18:53:40.228Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video",
@@ -8673,7 +8655,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/629eb12c-f200-486d-8c63-32e2ebf3d97e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T16:33:08.009Z"
+    "pushedAt": "2026-11-17T18:52:29.124Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/pjm-proposes-grid-overhaul-to-speed-up-data-center-connections",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T18:44:46.884Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+    "titleZh": "巴林人權活動家納比爾·拉賈布 (Nabeel Rajab) 去世，享年 62 歲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-bahrain-2-fqzp/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T18:54:20.192Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
+    "title": "Nvidia Scandal Has Raised ‘Red Flags,’ California AG Says",
+    "titleZh": "加州股份公司表示，英偉達醜聞已引發“危險信號”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
+    "image": null,
+    "pushedAt": "2026-11-17T18:54:27.407Z"
   }
 ]
