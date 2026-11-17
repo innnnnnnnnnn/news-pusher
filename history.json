@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
-    "title": "Meloni Keeps Hope of Italy Upgrade at S&P to Highest Since 2011",
-    "titleZh": "Meloni 希望標普將義大利評級上調至 2011 年以來最高水平",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
-    "image": null,
-    "pushedAt": "2026-11-14T21:14:25.540Z"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-    "title": "Here’s the latest.",
-    "titleZh": "美國聯邦航空管理局宣布罕見的全國性地面停留",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-    "image": null,
-    "pushedAt": "2026-11-17T09:04:45.476Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
     "title": "US Treasury Weighs Loan to Help Venezuela Pay Debt to IDB",
     "titleZh": "美國財政部考慮提供貸款幫助委內瑞拉償還美洲開發銀行的債務",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F74f1b8eb-1db0-45d5-9cbc-5c44b4d73642.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-17T09:11:32.196Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
+    "title": "Trump Has Praised Marcos’s Family Legacy. His Father Was a Dictator.",
+    "titleZh": "川普讚揚了馬可斯的家族遺產。他的父親是一位獨裁者。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-trump-marcos-kvfb/17trump-summits-trump-marcos-kvfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T09:12:00.120Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+    "titleZh": "微軟在全球停電後急於恢復線上的內部情況",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T09:12:02.552Z"
   }
 ]
