@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-    "titleZh": "新加坡稱美國沒有幫助調查 Alice Huang 和 Megaspeed",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T20:09:04.175Z"
-  },
-  {
     "id": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643",
     "title": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin",
     "titleZh": "Diamondback公司接近達成50億美元協議，擴大在石油豐富的二疊紀盆地的鑽探規模",
@@ -258,7 +249,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
     "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T21:21:54.540Z"
+    "pushedAt": "2026-11-17T23:38:40.829Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
@@ -8619,7 +8610,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-aibug-zfmc/17dc-aibug-zfmc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T21:22:20.015Z"
+    "pushedAt": "2026-11-17T23:39:05.222Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T23:38:15.067Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+    "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
+    "titleZh": "隨著加息壓力加大，金價穩定在 14 個月低點附近",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+    "image": null,
+    "pushedAt": "2026-11-17T23:39:31.421Z"
   }
 ]
