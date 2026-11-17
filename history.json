@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/reports/investing-america",
-    "title": "Investing in America",
-    "titleZh": "投資美國",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/reports/investing-america?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T06:21:03.474Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html",
     "title": "Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past",
     "titleZh": "教宗良十四世回到秘魯的家鄉，會見他過去的幽靈",
@@ -2427,7 +2418,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
     "image": null,
-    "pushedAt": "2026-11-17T10:08:15.610Z"
+    "pushedAt": "2026-11-17T12:34:59.160Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
@@ -2436,7 +2427,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
     "image": null,
-    "pushedAt": "2026-11-17T10:09:30.078Z"
+    "pushedAt": "2026-11-17T12:35:54.408Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
@@ -2445,7 +2436,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
     "image": null,
-    "pushedAt": "2026-11-17T10:09:55.193Z"
+    "pushedAt": "2026-11-17T12:36:19.705Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
@@ -8421,7 +8412,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T10:07:44.921Z"
+    "pushedAt": "2026-11-17T12:34:05.909Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
@@ -8430,7 +8421,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
     "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T10:07:49.715Z"
+    "pushedAt": "2026-11-17T12:34:33.043Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/unloved-30-year-bond-is-a-surprise-hit-with-uk-retail-investors",
@@ -8439,7 +8430,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/unloved-30-year-bond-is-a-surprise-hit-with-uk-retail-investors",
     "image": null,
-    "pushedAt": "2026-11-17T10:09:04.041Z"
+    "pushedAt": "2026-11-17T12:35:25.860Z"
   },
   {
     "id": "https://www.ft.com/content/08571146-1ade-440e-b3f8-c2c4c1a6b6e5",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/angola-cuts-key-rate-for-fourth-time-in-row-as-inflation-slows",
     "image": null,
     "pushedAt": "2026-11-17T12:33:35.669Z"
+  },
+  {
+    "id": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb",
+    "title": "AI grapples with the return of the Antichrist",
+    "titleZh": "人工智慧應對反基督者的回歸",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa66adb8-ce60-44c5-b8b3-26a9dbedf996.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T12:36:48.959Z"
   }
 ]
