@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/russia-struggles-to-restore-key-statistics-two-weeks-after-hack",
-    "title": "Russia Struggles to Restore Key Statistics Two Weeks After Hack",
-    "titleZh": "俄羅斯在駭客攻擊兩週後努力恢復關鍵統計數據",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/russia-struggles-to-restore-key-statistics-two-weeks-after-hack",
-    "image": null,
-    "pushedAt": "2026-11-15T09:42:05.717Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
     "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
     "titleZh": "米勒入主白宮令墨西哥貿易談判代表感到不安",
@@ -2976,7 +2967,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
     "image": null,
-    "pushedAt": "2026-11-17T12:18:02.454Z"
+    "pushedAt": "2026-11-17T14:52:18.879Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/goldman-traders-see-stocks-grinding-higher-despite-nvidia-risk",
     "image": null,
     "pushedAt": "2026-11-17T14:51:50.844Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+    "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+    "titleZh": "威廉王子乘坐電動人力車將氣候獎帶到印度",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-india-royals-01-jgqw/17int-india-royals-01-jgqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T14:52:47.747Z"
   }
 ]
