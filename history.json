@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
-    "title": "David Cameron Sees Hope in Alzheimer’s Research",
-    "titleZh": "大衛·卡梅倫在阿茲海默症研究中看到了希望",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
-    "image": null,
-    "pushedAt": "2026-11-15T11:40:30.984Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/russia-struggles-to-restore-key-statistics-two-weeks-after-hack",
     "title": "Russia Struggles to Restore Key Statistics Two Weeks After Hack",
     "titleZh": "俄羅斯在駭客攻擊兩週後努力恢復關鍵統計數據",
@@ -4596,7 +4587,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T12:17:10.023Z"
+    "pushedAt": "2026-11-17T14:51:22.324Z"
   },
   {
     "id": "https://www.ft.com/content/37f3b6e1-67f5-423e-8efd-538a2e68f86e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/danish-central-bank-denies-shift-in-fx-peg-after-krone-weakness",
     "image": null,
     "pushedAt": "2026-11-17T14:49:36.378Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/goldman-traders-see-stocks-grinding-higher-despite-nvidia-risk",
+    "title": "Goldman Traders See Stocks Grinding Higher Despite Nvidia Risk",
+    "titleZh": "儘管有英偉達風險，高盛交易員仍認為股市仍在走高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/goldman-traders-see-stocks-grinding-higher-despite-nvidia-risk",
+    "image": null,
+    "pushedAt": "2026-11-17T14:51:50.844Z"
   }
 ]
