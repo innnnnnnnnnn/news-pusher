@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-    "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-    "titleZh": "《聚焦倫敦》：伊朗特工如何攻擊歐洲目標",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T05:43:50.861Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
     "title": "Fed Set to Raise Interest Rates Next Month as Debate Moves to January",
     "titleZh": "聯準會將在下個月升息，爭論將持續至一月份",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/wise-sees-small-business-driving-asia-payments-growth-video",
     "image": null,
     "pushedAt": "2026-11-17T07:25:24.501Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
+    "title": "Indonesia’s vice-president resigns, escalating a destabilising feud",
+    "titleZh": "印尼副總統辭職，破壞穩定的不和升級",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
+    "image": null,
+    "pushedAt": "2026-11-17T07:25:52.547Z"
   }
 ]
