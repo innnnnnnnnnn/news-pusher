@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f86213c1-72a4-4928-bfa5-c2a80761f174",
-    "title": "Composer Yudania Gómez Heredia’s guide to Nuremberg",
-    "titleZh": "作曲家尤達尼亞·戈麥斯·埃雷迪亞的紐倫堡指南",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f86213c1-72a4-4928-bfa5-c2a80761f174",
-    "image": null,
-    "pushedAt": "2026-11-15T02:04:46.166Z"
-  },
-  {
     "id": "https://www.ft.com/content/dbf8d003-aa1d-4f23-9702-45fcff4360fd",
     "title": "The South African townships turning against the ANC",
     "titleZh": "南非鄉鎮反對非國大",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker",
     "image": null,
     "pushedAt": "2026-11-17T12:12:35.236Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
+    "title": "Swiss Pharma Employee Convicted Over $300,000 in Insider Trades",
+    "titleZh": "瑞士製藥公司員工因內線交易被判價值超過 30 萬美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
+    "image": null,
+    "pushedAt": "2026-11-17T12:13:09.446Z"
   }
 ]
