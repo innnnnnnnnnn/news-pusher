@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
-    "title": "Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars",
-    "titleZh": "內特·西爾弗 (Nate Silver) 選出 27 名值得關注的民主黨人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15silver-vfhb/15silver-vfhb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T12:24:23.295Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
-    "title": "Thoughts Near the End of a Life",
-    "titleZh": "晚年，這就是我所知道的",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
-    "image": null,
-    "pushedAt": "2026-11-15T10:21:50.431Z"
-  },
-  {
     "id": "https://www.ft.com/content/85b04bb4-1135-4cc7-a7d8-4e62ab9630db",
     "title": "Sadiq Khan backs keeping City of London police independent from the Met",
     "titleZh": "薩迪克汗支持讓倫敦市警察獨立於大都會",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
     "image": null,
     "pushedAt": "2026-11-17T17:49:59.251Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network",
+    "title": "US Electronic Spy Agency Suffers Outage of Classified Network",
+    "titleZh": "美國電子間諜機構機密網路中斷",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network",
+    "image": null,
+    "pushedAt": "2026-11-17T17:50:30.239Z"
+  },
+  {
+    "id": "https://flipso.com/p/h4unluxwb",
+    "title": "The Evolving Story of How Chemistry Became Biology",
+    "titleZh": "化學如何成為生物學的演變故事",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/h4unluxwb?ref=rss",
+    "image": "https://cdn.flipso.com/p/h4unluxwb_square.jpg",
+    "pushedAt": "2026-11-17T17:50:33.417Z"
   }
 ]
