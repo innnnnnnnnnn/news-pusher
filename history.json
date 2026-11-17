@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
-    "title": "Nvidia Looks for a New Era After Huang",
-    "titleZh": "Nvidia 尋找黃仁勳之後的新時代",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
-    "image": null,
-    "pushedAt": "2026-11-15T12:16:16.724Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
     "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
     "titleZh": "Bessent 和 Lutnick 因英偉達中國限製而發生衝突",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-homebuilder-sentiment-sags-to-fresh-14-year-low-on-high-rates",
     "image": null,
     "pushedAt": "2026-11-17T15:05:19.409Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
+    "title": "Asian love ballads test Eurovision’s winning song formula.",
+    "titleZh": "亞洲情歌考驗歐洲歌唱大賽的獲勝歌曲公式。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-ballads-kgqm/14asia-eurovision-ballads-kgqm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T15:05:48.882Z"
   }
 ]
