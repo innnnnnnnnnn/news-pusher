@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af",
-    "title": "Anthropic’s IPO is the next big test for AI",
-    "titleZh": "Anthropic 的 IPO 是人工智慧的下一個重大考驗",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T04:58:18.035Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
     "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
     "titleZh": "在歐洲，伊朗的膽大妄為加劇了焦慮感",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value",
     "image": null,
     "pushedAt": "2026-11-17T20:36:17.875Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+    "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
+    "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+    "image": null,
+    "pushedAt": "2026-11-17T20:36:46.271Z"
   }
 ]
