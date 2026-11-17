@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-    "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-    "titleZh": "經過數十年的血腥和不信任，人們懷疑誰該為以色列人質負責",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T18:21:22.576Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
     "title": "China’s Yoozoo Gets $214 Million Flash-Memory Components Order",
     "titleZh": "中國遊族網路獲得價值 2.14 億美元的快閃元件訂單",
@@ -2580,7 +2571,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-17T16:55:47.235Z"
+    "pushedAt": "2026-11-17T19:18:26.424Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform",
@@ -8664,7 +8655,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/ferragu-sees-strong-case-to-buy-nvidia-shares-video",
     "image": null,
-    "pushedAt": "2026-11-17T16:56:15.541Z"
+    "pushedAt": "2026-11-17T19:18:51.186Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/public-schools-closing-birth-rate-enrollment.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/states-press-for-scrutiny-in-sale-of-chatbot-said-to-harm-kids",
     "image": null,
     "pushedAt": "2026-11-17T19:16:16.401Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+    "title": "A.I.’s People-Pleasing Problem",
+    "titleZh": "人工智慧令人愉悅的問題",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T19:19:34.678Z"
   }
 ]
