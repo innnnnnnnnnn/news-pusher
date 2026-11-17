@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-    "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-    "titleZh": "人工智慧.武器需要資料進行訓練。烏克蘭有很多東西可以提供。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:43:36.690Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
     "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
     "titleZh": "儘管有中期選舉，資料中心仍將繼續建設",
@@ -4609,12 +4600,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes",
-    "title": "Fed’s Hammack Prefers Small Hikes, Sees Risk of Bigger Moves",
+    "title": "Fed’s Hammack Prefers Slow, Steady Interest-Rate Hikes",
     "titleZh": "聯準會哈馬克重申傾向小幅增量升息",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes",
     "image": null,
-    "pushedAt": "2026-11-17T13:54:05.943Z"
+    "pushedAt": "2026-11-17T18:43:56.043Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
@@ -7899,7 +7890,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/germany-corrects-october-inflation-data-showing-stronger-pace",
     "image": null,
-    "pushedAt": "2026-11-17T16:21:02.157Z"
+    "pushedAt": "2026-11-17T18:44:19.685Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
     "image": null,
     "pushedAt": "2026-11-17T18:43:28.970Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1",
+    "title": "Low pay on UK global talent visa is ‘concerning’, say migration advisers",
+    "titleZh": "移民顧問表示，英國全球人才簽證的低工資令人“擔憂”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T18:44:46.884Z"
   }
 ]
