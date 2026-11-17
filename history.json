@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a",
-    "title": "France signals support for Spain’s ECB presidential candidate",
-    "titleZh": "法國表示支持西班牙歐洲央行總裁候選人",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T11:25:25.235Z"
-  },
-  {
     "id": "https://www.ft.com/content/5f4e00d0-1ffd-4b3e-a510-d684eab64ac4",
     "title": "Chinese carmakers offer lifeline to Europe’s struggling steel industry",
     "titleZh": "中國汽車製造商為歐洲陷入困境的鋼鐵業提供生命線",
@@ -510,7 +501,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T11:19:12.899Z"
+    "pushedAt": "2026-11-17T13:51:06.337Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
@@ -1473,7 +1464,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
-    "pushedAt": "2026-11-17T11:18:46.471Z"
+    "pushedAt": "2026-11-17T13:50:41.171Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17haiti-assassination-pastor-zgtf/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T13:50:12.575Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video",
+    "title": "México enfrenta trabas para atraer centros de datos de IA",
+    "titleZh": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video",
+    "image": null,
+    "pushedAt": "2026-11-17T13:51:32.363Z"
   }
 ]
