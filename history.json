@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
-    "title": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
-    "titleZh": "華爾街的狂野之旅帶來了豐厚的回報和更大的挫傷",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
-    "image": null,
-    "pushedAt": "2026-11-13T21:30:24.723Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
     "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
     "titleZh": "微軟在全球停電後急於恢復線上的內部情況",
@@ -2427,7 +2418,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/00biz-tech-fragile-gclj/00biz-tech-fragile-gclj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:54:52.443Z"
+    "pushedAt": "2026-11-17T09:09:29.949Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/turkey-fund-assets-shrink-by-54-billion-amid-manipulation-probe",
     "image": null,
     "pushedAt": "2026-11-17T09:09:03.982Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/goldman-s-oppenheimer-sees-opportunity-to-diversify-video",
+    "title": "Goldman's Oppenheimer Sees Opportunity to Diversify (Video)",
+    "titleZh": "高盛的奧本海默看到多元化的機會（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/goldman-s-oppenheimer-sees-opportunity-to-diversify-video",
+    "image": null,
+    "pushedAt": "2026-11-17T09:09:54.005Z"
   }
 ]
