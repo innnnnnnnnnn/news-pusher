@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/ctf1tze6w",
-    "title": "New Units of Knowledge",
-    "titleZh": "新的知識單元",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ctf1tze6w?ref=rss",
-    "image": "https://cdn.flipso.com/p/ctf1tze6w_square.jpg",
-    "pushedAt": "2026-11-16T18:20:08.772Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-    "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-    "titleZh": "華爾街如何宣傳 Anthropic 的 IPO：“至關重要，不能失敗”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T07:56:55.296Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
     "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
     "titleZh": "Rent the Runway 執行長 Paige Thomas 講述她的公司願景",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-17T10:06:20.420Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a",
+    "title": "Brussels raises Eurozone growth forecasts as AI boom drives exports",
+    "titleZh": "人工智慧繁榮推動出口，布魯塞爾上調歐元區成長預測",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T10:06:49.360Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
+    "title": "The Winning Democrat Who Wants to Break Up Political Parties",
+    "titleZh": "想要分裂政黨的獲勝民主黨人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/opinion/17eks-sand-image01/17eks-sand-image01-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-17T10:06:52.477Z"
   }
 ]
