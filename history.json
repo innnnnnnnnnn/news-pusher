@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
-    "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
-    "titleZh": "巨浪衝擊加州海岸，衝浪之路一路上揚",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14wea-big-waves-topart-01-hbqw/14wea-big-waves-topart-01-hbqw-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-15T20:01:16.954Z"
-  },
-  {
     "id": "https://flipso.com/p/p3hcpjs4n",
     "title": "The lost medieval habit of biphasic sleep",
     "titleZh": "中世紀失去的雙相睡眠習慣",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/k6nacrbia?ref=rss",
     "image": "https://cdn.flipso.com/p/k6nacrbia_square.jpg",
     "pushedAt": "2026-11-17T16:48:42.918Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
+    "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
+    "titleZh": "一位墨西哥藝術家演唱了他的一些熱門歌曲。當局叫停了演出，然後逮捕了他。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
+    "image": "https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:49:11.477Z"
   }
 ]
