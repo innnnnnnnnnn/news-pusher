@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007",
-    "title": "When human judgment is not all it’s cracked up to be",
-    "titleZh": "黃的垮台顯示人類的判斷力並不像人們吹捧的那樣",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F171261cb-4b66-4a8d-b1f2-58a523bd7b85.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-15T16:05:48.151Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
     "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
     "titleZh": "他們離開了伊朗，但現在政權正在扣押他們的資產來壓制他們",
@@ -7710,7 +7701,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T14:39:13.806Z"
+    "pushedAt": "2026-11-17T17:20:35.562Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-trade-deal-with-thailand-is-not-a-done-deal",
@@ -8295,7 +8286,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-17T14:38:45.374Z"
+    "pushedAt": "2026-11-17T17:20:10.013Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
@@ -8304,7 +8295,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
     "image": null,
-    "pushedAt": "2026-11-17T14:39:40.851Z"
+    "pushedAt": "2026-11-17T17:21:00.603Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-largest-insurer-reports-sales-plunge-amid-us-probe",
     "image": null,
     "pushedAt": "2026-11-17T17:19:43.383Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
+    "title": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
+    "titleZh": "美國銀行表示美國利率將上升“直到經濟活動降溫”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
+    "image": null,
+    "pushedAt": "2026-11-17T17:21:27.405Z"
   }
 ]
