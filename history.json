@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
-    "title": "China’s Yoozoo Gets $214 Million Flash-Memory Components Order",
-    "titleZh": "中國遊族網路獲得價值 2.14 億美元的快閃元件訂單",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
-    "image": null,
-    "pushedAt": "2026-11-16T01:07:11.152Z"
-  },
-  {
     "id": "https://www.ft.com/content/fcce6df7-7040-4c83-84ea-30f8fbac1239",
     "title": "Pension funds raise alarm on systemic risk from climate events",
     "titleZh": "退休基金對氣候事件造成的系統性風險發出警報",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T19:19:34.678Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+    "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+    "titleZh": "以色列綁架伊朗將軍追捕羅恩·阿拉德",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T19:20:04.662Z"
   }
 ]
