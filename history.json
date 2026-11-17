@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/business/a-human-reads-the-anthropic-ipo-filing.html",
-    "title": "A Human Reads the Anthropic I.P.O. Filing",
-    "titleZh": "人類閱讀人類首次公開募股歸檔",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/a-human-reads-the-anthropic-ipo-filing.html",
-    "image": null,
-    "pushedAt": "2026-11-15T10:06:32.476Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
-    "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
-    "titleZh": "他們想成為醫生。學生貸款上限使他們的夢想變得複雜。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15Biz-Loan-Caps-01-lmgt/15Biz-Loan-Caps-01-lmgt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:01:19.958Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
     "title": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
     "titleZh": "美國拉爾夫勞倫 (Ralph Lauren) 品牌的背後是一位法國執行長。",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/96kssr0i2?ref=rss",
     "image": "https://cdn.flipso.com/p/96kssr0i2_square.jpg",
     "pushedAt": "2026-11-17T19:23:10.352Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+    "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
+    "titleZh": "Microsoft Outlook 中斷和 FAA Groundstop 表示對脆弱技術的依賴",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/00biz-tech-fragile-gclj/00biz-tech-fragile-gclj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T19:23:41.445Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+    "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
+    "titleZh": "黃仁勳的垮台讓台灣民眾難以置信",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T19:23:45.670Z"
   }
 ]
