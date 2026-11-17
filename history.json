@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-17T12:27:03.344Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
     "title": "5 Big Questions as C.E.O.s Meet in China",
     "titleZh": "執行長在中國會面的 5 大問題",
@@ -8421,7 +8412,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ea9051c2-cc56-46d5-b254-b13b484bc28a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T12:07:14.748Z"
+    "pushedAt": "2026-11-17T14:37:48.893Z"
   },
   {
     "id": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T14:35:37.856Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4",
+    "title": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
+    "titleZh": "聯準會麗莎庫克拒絕出席川普召集的聽證會",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T14:38:15.449Z"
   }
 ]
