@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data",
-    "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
-    "titleZh": "英國價格數據可能強化英國央行再次升息的理由",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data",
-    "image": null,
-    "pushedAt": "2026-11-16T12:06:06.483Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html",
     "title": "When Disaster Hit Next Door in Flatbush",
     "titleZh": "當災難襲擊隔壁的弗拉特布希時",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/de-nvidia-a-los-humanoides-ee-uu-vs-china-en-la-carrera-por-la-ia",
     "image": null,
     "pushedAt": "2026-11-17T16:12:38.893Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+    "title": "Why Some Flights Were Exempt From the Ground Stop",
+    "titleZh": "為什麼有些航班免於地面停留",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-airlines-explainer-topart-kmpz/14xp-airlines-explainer-topart-kmpz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:13:07.787Z"
   }
 ]
