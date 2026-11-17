@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
-    "title": "Router Failure Exposes Risks in FAA Network",
-    "titleZh": "路由器故障暴露 FAA 網路風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
-    "image": null,
-    "pushedAt": "2026-11-15T22:04:48.825Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/opinion/nvidia-spy-jensen-huang-national-security.html",
     "title": "The Nvidia Spy Case Is About Much More Than Sex",
     "titleZh": "Nvidia 間諜案不僅涉及性",
@@ -6252,7 +6243,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
     "image": null,
-    "pushedAt": "2026-11-17T19:03:20.257Z"
+    "pushedAt": "2026-11-17T21:30:53.402Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
@@ -8182,12 +8173,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
-    "title": "Treasuries Rise as Risk-Averse Investors Dump Stocks, Buy Bonds",
+    "title": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
     "titleZh": "由於規避風險的投資者拋售股票、購買債券，國債上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
     "image": null,
-    "pushedAt": "2026-11-17T19:02:32.505Z"
+    "pushedAt": "2026-11-17T21:30:29.671Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
     "image": null,
     "pushedAt": "2026-11-17T21:28:27.808Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+    "title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+    "titleZh": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+    "image": null,
+    "pushedAt": "2026-11-17T21:31:19.704Z"
   }
 ]
