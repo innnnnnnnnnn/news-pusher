@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/fhh1z8x21",
-    "title": "Handwritten 200-year-old dismissal letter found on Rugeley roof tile",
-    "titleZh": "魯吉利屋頂瓦片上發現 200 年前的手寫解僱信",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/fhh1z8x21?ref=rss",
-    "image": "https://cdn.flipso.com/p/fhh1z8x21_square.jpg",
-    "pushedAt": "2026-11-17T20:30:58.733Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video",
     "title": "By The Way: Headlines You May Have Missed",
     "titleZh": "順便說一句：您可能錯過的頭條新聞",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust",
     "image": null,
     "pushedAt": "2026-11-17T22:22:14.164Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+    "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+    "titleZh": "沙烏地阿拉伯支持的部隊在也門撤退，胡塞武裝控制了關鍵海峽",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T22:22:40.293Z"
   }
 ]
