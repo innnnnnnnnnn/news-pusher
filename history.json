@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
-    "title": "Despite recent misses, political polling is more accurate than ever",
-    "titleZh": "儘管最近出現了失誤，但政治民意調查比以往任何時候都更加準確",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
-    "image": null,
-    "pushedAt": "2026-11-17T11:08:33.707Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
-    "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
-    "titleZh": "央視稱中國將以清潔能源滿足所有新的電力需求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
-    "image": null,
-    "pushedAt": "2026-11-14T14:15:07.827Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
     "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
     "titleZh": "「世代衝突」正在加劇歐洲的抗議",
@@ -2751,7 +2733,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:14:35.272Z"
+    "pushedAt": "2026-11-17T11:31:26.449Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
@@ -4272,7 +4254,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
     "image": null,
-    "pushedAt": "2026-11-17T09:15:21.461Z"
+    "pushedAt": "2026-11-17T11:32:46.139Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/vujcic-says-bets-on-ecb-hike-next-year-don-t-seem-unreasonable",
@@ -5667,7 +5649,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-is-falling-behind-on-ai-buildout-needs-midha-video",
     "image": null,
-    "pushedAt": "2026-11-16T19:13:09.090Z"
+    "pushedAt": "2026-11-17T11:32:17.355Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/spain-hopes-for-quick-deal-on-de-cos-as-next-ecb-president",
@@ -5748,7 +5730,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/qompjwyvu?ref=rss",
     "image": "https://cdn.flipso.com/p/qompjwyvu_square.jpg",
-    "pushedAt": "2026-11-17T09:14:58.477Z"
+    "pushedAt": "2026-11-17T11:31:51.127Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/thoma-bravo-s-proofpoint-launches-2-billion-debt-deal-for-m-a",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-disney-earnings-klht/17biz-disney-earnings-klht-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T11:30:58.590Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5",
+    "title": "Alan Milburn’s review: the key points",
+    "titleZh": "艾倫·米爾本的評論：要點",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T11:33:14.009Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0",
+    "title": "UK imposes sanctions on companies building West Bank settlements",
+    "titleZh": "英國對建設西岸定居點的公司實施制裁",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T11:33:19.786Z"
   }
 ]
