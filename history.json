@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
-    "title": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
-    "titleZh": "美國拉爾夫勞倫 (Ralph Lauren) 品牌的背後是一位法國執行長。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/00bizsun-corneroffice-ralph-01-vlhz/00bizsun-corneroffice-ralph-01-vlhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:03:43.932Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html",
     "title": "In a Sloppified A.I. World, Only Humans Can Build ‘Ecosystems’",
     "titleZh": "在一個馬虎的人工智慧中世界，只有人類才能建構“生態系統”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T19:23:45.670Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
+    "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
+    "titleZh": "他們想成為醫生。學生貸款上限使他們的夢想變得複雜。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15Biz-Loan-Caps-01-lmgt/15Biz-Loan-Caps-01-lmgt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T19:24:13.968Z"
   }
 ]
