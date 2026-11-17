@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
-    "title": "Checks and Balance newsletter: What do ballot initiatives tell us about America?",
-    "titleZh": "制衡時事通訊：投票倡議告訴我們有關美國的哪些資訊？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
-    "image": null,
-    "pushedAt": "2026-11-17T13:20:54.526Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-14/how-global-services-may-be-the-new-protectionist-target-new-economy",
     "title": "How Global Services May Be the New Protectionist Target: New Economy",
     "titleZh": "全球服務業如何成為新的保護主義目標：新經濟",
@@ -8380,12 +8371,12 @@
   },
   {
     "id": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5",
-    "title": "Alan Milburn’s review: the key points",
+    "title": "In brief: Milburn’s 267-page report",
     "titleZh": "艾倫·米爾本的評論：要點",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T11:33:14.009Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46a32a7a-b6f1-4ede-bad4-a598e5a72220.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T14:06:07.550Z"
   },
   {
     "id": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0",
@@ -8394,7 +8385,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T11:33:19.786Z"
+    "pushedAt": "2026-11-17T14:06:32.677Z"
   },
   {
     "id": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
@@ -8403,7 +8394,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
     "image": null,
-    "pushedAt": "2026-11-17T11:33:50.546Z"
+    "pushedAt": "2026-11-17T14:06:57.468Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
@@ -8412,7 +8403,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T11:34:19.526Z"
+    "pushedAt": "2026-11-17T14:07:22.879Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
@@ -8421,7 +8412,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-17T11:34:49.037Z"
+    "pushedAt": "2026-11-17T14:07:47.417Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/exemplar-luxury-ceo-says-growth-plan-is-on-track-video",
     "image": null,
     "pushedAt": "2026-11-17T14:05:37.315Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue",
+    "title": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+    "titleZh": "中國警告美國對晶片限制進行報復，敦促對話",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue",
+    "image": null,
+    "pushedAt": "2026-11-17T14:08:14.712Z"
   }
 ]
