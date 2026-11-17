@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-    "title": "Donald Trump will get a warm welcome in the Philippines",
-    "titleZh": "唐納德·特朗普將在菲律賓受到熱烈歡迎",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-    "image": null,
-    "pushedAt": "2026-11-17T20:38:25.684Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
-    "title": "Bookmarked: News Stories On Our Reading List",
-    "titleZh": "已加書籤：我們的閱讀清單中的新聞報導",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
-    "image": null,
-    "pushedAt": "2026-11-16T00:28:00.812Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake",
     "title": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
     "titleZh": "麥當娜經理經營的創投公司擁有 70 億美元的 Anthropic 股份",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/fhh1z8x21?ref=rss",
     "image": "https://cdn.flipso.com/p/fhh1z8x21_square.jpg",
     "pushedAt": "2026-11-17T22:23:07.434Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+    "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
+    "titleZh": "黃仁勳的女兒是他的親密盟友，目前仍在 Nvidia 擔任高階職位。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/17nvidia-earnings-live-jensen-daughter-version/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X-v3.jpg",
+    "pushedAt": "2026-11-17T22:23:35.457Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
+    "titleZh": "亞洲股市下跌，英偉達銷售前景好於預期：市場結束",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "image": null,
+    "pushedAt": "2026-11-17T22:23:38.877Z"
   }
 ]
