@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-ceo-ai-infrastructure-opportunity-is-expanding-video",
-    "title": "Cerebras CEO: AI Infrastructure Opportunity Is Expanding",
-    "titleZh": "Cerebras 執行長：人工智慧基礎設施機會正在擴大",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-ceo-ai-infrastructure-opportunity-is-expanding-video",
-    "image": null,
-    "pushedAt": "2026-11-13T20:52:21.078Z"
-  },
-  {
-    "id": "https://www.ft.com/content/53df66de-ca12-4e1e-9e27-3d54c6f8dbc1",
-    "title": "Stockpickers: Fuller, Smith & Turner, Dialight, Vodafone",
-    "titleZh": "選股者：Fuller、Smith & Turner、Dialight、沃達豐",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/53df66de-ca12-4e1e-9e27-3d54c6f8dbc1",
-    "image": null,
-    "pushedAt": "2026-11-14T08:43:26.201Z"
-  },
-  {
-    "id": "https://www.ft.com/content/8e394812-5940-4187-8cbf-6cd597fb314c",
-    "title": "Tiny London quant fund emerges as one of the UK’s biggest corporate taxpayers",
-    "titleZh": "小型倫敦量化基金成為英國最大的企業納稅人之一",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8e394812-5940-4187-8cbf-6cd597fb314c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T08:45:05.840Z"
-  },
-  {
-    "id": "https://www.ft.com/content/8f50369d-725b-40ac-a72a-306e25f9e76f",
-    "title": "Three tremors have shaken AI",
-    "titleZh": "三震撼動AI",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8f50369d-725b-40ac-a72a-306e25f9e76f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-14T04:05:00.389Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html",
     "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
     "titleZh": "艾森科特指責內塔尼亞胡助長針對阿拉伯人的「種族主義」敵意",
@@ -1851,7 +1815,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T03:50:11.534Z"
+    "pushedAt": "2026-11-17T06:03:56.822Z"
   },
   {
     "id": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33",
@@ -2643,7 +2607,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T03:51:01.027Z"
+    "pushedAt": "2026-11-17T06:04:44.913Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
@@ -7269,7 +7233,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T03:49:47.031Z"
+    "pushedAt": "2026-11-17T06:03:32.978Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics",
@@ -7728,7 +7692,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
     "image": null,
-    "pushedAt": "2026-11-17T03:50:36.163Z"
+    "pushedAt": "2026-11-17T06:04:20.786Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/braskem-creditors-shun-company-s-latest-offer-discuss-new-plan",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/nbim-gic-blackrock-fmr-capital-icici-hdfc-invest-bajaj-finance-share-sale",
     "image": null,
     "pushedAt": "2026-11-17T06:03:05.040Z"
+  },
+  {
+    "id": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003",
+    "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+    "titleZh": "德意志銀行 1500 萬份文件外洩揭露系統性故障",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feca36a83-3540-4f68-89d7-62131f984359.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T06:05:09.978Z"
+  },
+  {
+    "id": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1",
+    "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
+    "titleZh": "洩露川普稅務報表的“可怕錯誤”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2c7fc82-c567-4714-958f-21665270cb37.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T06:05:14.072Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e",
+    "title": "How DB lost its bet on Putin’s Russia",
+    "titleZh": "DB如何在普丁的俄羅斯身上輸掉了賭注",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8760829f-823b-4474-a35c-075d7630d9f6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T06:05:18.854Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538",
+    "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+    "titleZh": "「災難」：德國最大銀行的混亂內部",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04b720a5-07f6-46ad-b25d-56d624bed67b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T06:05:22.974Z"
   }
 ]
