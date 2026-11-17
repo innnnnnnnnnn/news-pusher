@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/australia-auction-clearances-slump-to-six-year-low-as-rates-rise",
-    "title": "Australia Auction Clearances Slump to Six-Year Low as Rates Rise",
-    "titleZh": "隨著利率上升，澳洲拍賣清盤率跌至六年低點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/australia-auction-clearances-slump-to-six-year-low-as-rates-rise",
-    "image": null,
-    "pushedAt": "2026-11-16T00:21:32.861Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/opinion/talarico-midterms-trump-washington.html",
-    "title": "Talarico Wants to Transcend the Pettiness of Modern Politics. Can He?",
-    "titleZh": "塔拉里科想要超越現代政治的瑣碎。他可以嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/opinion/talarico-midterms-trump-washington.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14goldberg-mzvl/14goldberg-mzvl-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-15T05:11:10.911Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html",
     "title": "Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley",
     "titleZh": "黃仁勳的倒台是矽谷正在發生的事情的黑暗後果",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/compute-futures-aim-to-hedge-ai-risks-video",
     "image": null,
     "pushedAt": "2026-11-17T16:26:40.916Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
+    "title": "Measles Is Officially Back in the United States. What Now?",
+    "titleZh": "麻疹正式回歸美國。現在怎麼辦？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:27:10.368Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+    "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+    "titleZh": "SpaceX 在德克薩斯州成功捕獲火箭，創造歷史",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:27:14.337Z"
   }
 ]
