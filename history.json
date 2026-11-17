@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-    "title": "Iran Attacks Bahrain for the Second Time in Days",
-    "titleZh": "伊朗幾天內第二次襲擊巴林",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-    "image": null,
-    "pushedAt": "2026-11-17T18:58:29.247Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
-    "title": "Emerging-Market Bond Drought Lifts Prices as Sales Slump 41%",
-    "titleZh": "新興市場債券荒導致物價上漲，銷量下滑 41%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
-    "image": null,
-    "pushedAt": "2026-11-16T11:34:09.790Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
     "title": "Trump Heads to Asia With Trade, Security at Stake",
     "titleZh": "川普前往亞洲，貿易和安全受到威脅",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
     "pushedAt": "2026-11-17T20:47:00.615Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
+    "title": "Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up",
+    "titleZh": "隨著避險買盤的上升，國債的大空頭造成“痛苦交易”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
+    "image": null,
+    "pushedAt": "2026-11-17T20:47:29.028Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/stan-druckenmiller-says-he-s-short-copper-neutral-on-equities",
+    "title": "Stan Druckenmiller Says He’s Short Copper, Neutral on Stocks",
+    "titleZh": "史丹‧德魯肯米勒 (Stan Druckenmiller) 表示，他做空銅，對股票持中性態度",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/stan-druckenmiller-says-he-s-short-copper-neutral-on-equities",
+    "image": null,
+    "pushedAt": "2026-11-17T20:47:32.391Z"
   }
 ]
