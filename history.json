@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
-    "title": "US Flights Grounded Over Air Traffic Communication Issue",
-    "titleZh": "美國航班因空中交通通訊問題停飛",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
-    "image": null,
-    "pushedAt": "2026-11-14T14:35:15.593Z"
-  },
-  {
     "id": "https://www.ft.com/content/ed6db87e-829a-41b4-a687-554847d6f904",
     "title": "Colorado Democrat beats Maga firebrand Lauren Boebert in House race",
     "titleZh": "科羅拉多州民主黨人在眾議院競選中擊敗馬加煽動者勞倫·博伯特",
@@ -834,7 +825,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "image": null,
-    "pushedAt": "2026-11-17T08:32:45.720Z"
+    "pushedAt": "2026-11-17T10:47:35.929Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-14/how-global-services-may-be-the-new-protectionist-target-new-economy",
@@ -6279,7 +6270,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
     "image": null,
-    "pushedAt": "2026-11-17T08:33:09.022Z"
+    "pushedAt": "2026-11-17T10:47:58.848Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
@@ -6693,7 +6684,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/business/trump-gao-watchdog-nominee-eric-ueland.html",
     "image": "https://static01.nyt.com/images/2026/11/16/business/16DC-GAO-NOMINEE-2/16DC-GAO-NOMINEE-2-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T08:33:31.951Z"
+    "pushedAt": "2026-11-17T10:48:21.736Z"
   },
   {
     "id": "https://flipso.com/p/3e5vf24a6",
@@ -7107,7 +7098,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/rba-s-bullock-says-inflation-risks-still-skewed-to-the-upside",
     "image": null,
-    "pushedAt": "2026-11-17T08:34:18.371Z"
+    "pushedAt": "2026-11-17T10:48:45.187Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
@@ -7489,12 +7480,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows",
-    "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
+    "title": "Pimco Sees Data Center Spreads Tightening Versus Tech Debt",
     "titleZh": "Pimco表示，隨著資料中心繁榮放緩，人工智慧債券利差可能收緊",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows",
     "image": null,
-    "pushedAt": "2026-11-17T08:32:22.503Z"
+    "pushedAt": "2026-11-17T10:47:12.986Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html",
@@ -8394,7 +8385,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
     "image": null,
-    "pushedAt": "2026-11-17T08:31:32.965Z"
+    "pushedAt": "2026-11-17T10:46:47.628Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value",
     "image": null,
     "pushedAt": "2026-11-17T10:46:21.451Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/unicredit-sees-up-to-2-billion-value-from-generali-cooperation",
+    "title": "UniCredit Sees Up to €2 Billion Value from Generali Cooperation",
+    "titleZh": "聯合信貸銀行 (UniCredit) 預計忠利合作 (Generali Partnership) 的價值將高達 20 億歐元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/unicredit-sees-up-to-2-billion-value-from-generali-cooperation",
+    "image": null,
+    "pushedAt": "2026-11-17T10:49:12.265Z"
   }
 ]
