@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
-    "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
-    "titleZh": "勞倫·博伯特 (Lauren Boebert) 在科羅拉多州眾議院競選中輸給艾琳·勞巴赫 (Eileen Laubacher)",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
-    "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-boebert-loses-tjkf/03hfo-pol-boebert-loses-tjkf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T10:30:12.775Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
     "title": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
     "titleZh": "黃仁勳的退出讓矽谷對人工智慧繁榮的未來感到不確定",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
     "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-17T07:26:18.553Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
+    "title": "UK Stocks, AI Adoption Drive FTSE 250 Gains as Oil Drops 20%",
+    "titleZh": "英國股市、人工智慧採用推動 FTSE 250 指數上漲，油價下跌 20%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
+    "image": null,
+    "pushedAt": "2026-11-17T07:27:12.122Z"
   }
 ]
