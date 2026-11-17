@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
-    "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
-    "titleZh": "英偉達領導層換屆考驗AI晶片巨頭",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
-    "image": null,
-    "pushedAt": "2026-11-15T10:49:00.256Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
     "pushedAt": "2026-11-17T14:35:08.856Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+    "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+    "titleZh": "澤倫斯基稱烏克蘭的星盾進入再次受到限制",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T14:35:37.856Z"
   }
 ]
