@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e",
-    "title": "The 20-day odyssey to get cheese to Dubai",
-    "titleZh": "通往杜拜超市貨架的漫長而曲折的道路",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T12:16:18.630Z"
-  },
-  {
     "id": "https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8",
     "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
     "titleZh": "Brookfield 和 KKR 爭奪超過 7 億美元的海灣零售商 Eyewa 交易",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
     "image": null,
     "pushedAt": "2026-11-17T17:57:21.611Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/17/does-donald-trump-care-about-the-economy",
+    "title": "Does Donald Trump care about the economy?",
+    "titleZh": "唐納德·川普關心經濟嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/17/does-donald-trump-care-about-the-economy",
+    "image": null,
+    "pushedAt": "2026-11-17T17:57:51.605Z"
   }
 ]
