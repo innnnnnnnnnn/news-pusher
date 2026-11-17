@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
-    "title": "Kenya Starts Countdown to End of Ebola Outbreak",
-    "titleZh": "肯亞開始伊波拉疫情結束倒數計時",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T04:17:25.218Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
     "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
     "titleZh": "氣候科學報告的發佈時機在聯合國會談中引發激烈爭論",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faee0117a-cee8-4be8-8c86-2618d052105b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-17T05:54:08.228Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+    "title": "Microsoft’s Global Outage and Fixes: What We Know",
+    "titleZh": "微軟的全球中斷與修復：我們所知道的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T05:54:35.925Z"
   }
 ]
