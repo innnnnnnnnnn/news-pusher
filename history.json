@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
-    "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
-    "titleZh": "也許民主消亡的傳言還為時過早",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/magazine/00mag-democracy/00mag-democracy-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-15T09:39:31.939Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
     "title": "Tech Leaders Rally Behind Jensen Huang",
     "titleZh": "科技領袖齊心支持黃仁勳",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/cookie-maker-s-lenders-tap-advisers-as-liquidity-pressure-builds",
     "image": null,
     "pushedAt": "2026-11-17T15:59:34.126Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+    "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
+    "titleZh": "森林裡藏著現金？匈牙利在歐爾班領導下嚴厲打擊腐敗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-hungary-corruption-wzfv/17int-hungary-corruption-wzfv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T16:05:11.745Z"
   }
 ]
