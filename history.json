@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
-    "title": "Inside India’s $130 Billion Wedding Economy",
-    "titleZh": "印度 1300 億美元的婚禮經濟揭秘",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
-    "image": null,
-    "pushedAt": "2026-11-15T23:33:25.809Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
     "title": "White House Braces for Democratic Investigations",
     "titleZh": "白宮為民主調查做好準備",
@@ -4398,7 +4389,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
     "image": null,
-    "pushedAt": "2026-11-17T19:33:55.265Z"
+    "pushedAt": "2026-11-17T21:58:03.819Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount",
@@ -4866,7 +4857,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/8jtuk93ab?ref=rss",
     "image": "https://cdn.flipso.com/p/8jtuk93ab_square.jpg",
-    "pushedAt": "2026-11-17T19:33:31.503Z"
+    "pushedAt": "2026-11-17T21:57:40.641Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
@@ -6207,7 +6198,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-17T19:33:07.561Z"
+    "pushedAt": "2026-11-17T21:57:17.191Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
@@ -8196,7 +8187,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
     "image": null,
-    "pushedAt": "2026-11-17T19:31:54.614Z"
+    "pushedAt": "2026-11-17T21:56:53.895Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/read-jensen-huang-s-statement-offering-a-return-as-nvidia-ceo",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-gives-solid-outlook-in-first-post-huang-earnings-video",
     "image": null,
     "pushedAt": "2026-11-17T21:56:27.476Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+    "title": "Jensen Huang carried a secret for more than a year. It led to his downfall.",
+    "titleZh": "黃仁勳背負了一年多的秘密。這導致了他的垮台。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/17nvidia-earnings-live-jensen-version/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
+    "pushedAt": "2026-11-17T21:58:27.397Z"
   }
 ]
