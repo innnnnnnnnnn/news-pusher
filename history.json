@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
-    "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
-    "titleZh": "在倒塌建築的廢墟中，他救出了一名2歲的孩子",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
-    "image": null,
-    "pushedAt": "2026-11-15T10:12:59.603Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
-    "title": "This Is How Democrats Won the Midterms",
-    "titleZh": "這就是民主黨贏得中期選舉的方式",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/09politics-editorial-vtbj/09politics-editorial-vtbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-15T00:28:01.097Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
     "title": "(Digital) SpaceX Catches Starship in Novel Landing",
     "titleZh": "(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
@@ -2454,7 +2436,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5a606609-fcf0-419b-9d67-5c31320632fc?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T13:34:41.821Z"
+    "pushedAt": "2026-11-17T16:15:17.086Z"
   },
   {
     "id": "https://www.ft.com/content/85183619-921b-45b9-9b19-c2b90956207a",
@@ -2499,7 +2481,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/45fcd5a0-54d2-4178-ac05-0171ae8b5a35?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T13:35:06.839Z"
+    "pushedAt": "2026-11-17T16:15:41.376Z"
   },
   {
     "id": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e",
@@ -7692,7 +7674,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-philippines-protest-tfvg/17trump-summits-philippines-protest-tfvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T13:34:16.904Z"
+    "pushedAt": "2026-11-17T16:14:52.205Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it",
     "image": null,
     "pushedAt": "2026-11-17T16:14:25.196Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda",
+    "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
+    "titleZh": "黃仁勳表示他準備重新擔任英偉達首席執行官",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04edf6b5-18cb-44e4-b282-74dccae98155.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T16:16:21.549Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video",
+    "title": "2026 is Year Where the 'AI Boom Became Debt Finance,' Says Wigglesworth",
+    "titleZh": "Wigglesworth 表示，2026 年是「人工智慧繁榮成為債務融資」的一年",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video",
+    "image": null,
+    "pushedAt": "2026-11-17T16:16:25.968Z"
   }
 ]
