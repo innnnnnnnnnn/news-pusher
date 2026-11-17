@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council",
-    "title": "China, US Discuss Tariffs in First Meeting of Trade Council",
-    "titleZh": "中美貿易理事會第一次會議討論關稅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council",
-    "image": null,
-    "pushedAt": "2026-11-15T06:59:07.445Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9",
-    "title": "The citizens of nowhere won in the end",
-    "titleZh": "無處可去的公民最終獲勝",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F635f7fd1-57ff-45de-84f6-28f86e22fa28.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-15T03:04:52.480Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
-    "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
-    "titleZh": "儘管油輪遭到攻擊，石油市場仍充滿原油",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
-    "image": null,
-    "pushedAt": "2026-11-15T05:26:01.206Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
     "title": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
     "titleZh": "奇怪的事：華爾街與後黃英偉時代（播客）",
@@ -6540,7 +6513,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-de-la-espriella-vows-spending-cuts-in-investor-pitch",
     "image": null,
-    "pushedAt": "2026-11-17T10:31:54.450Z"
+    "pushedAt": "2026-11-17T13:04:56.255Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/rba-s-bullock-says-inflation-risks-still-skewed-to-the-upside",
@@ -7422,7 +7395,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04b720a5-07f6-46ad-b25d-56d624bed67b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T10:32:17.818Z"
+    "pushedAt": "2026-11-17T13:05:22.486Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-holds-key-interest-rate-as-global-risks-support-caution",
     "image": null,
     "pushedAt": "2026-11-17T13:03:06.246Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+    "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
+    "titleZh": "Nvidia 的財報電話會議是一個利害攸關的時刻",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17db-nvda-qwbk/17db-nvda-qwbk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T13:05:52.894Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
+    "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
+    "titleZh": "瑪莎·史都華 (Martha Stewart) 的卡爾什 (Kalshi) 廣告警告反對內幕交易",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/business/17db-martha-kalshi/17db-martha-kalshi-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-17T13:05:56.083Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/private-equity-finds-a-year-end-window-to-take-cash-out-of-firms",
+    "title": "Private Equity Finds a Year-End Window to Take Cash Out of Firms",
+    "titleZh": "私募股權趁著年底時機從企業提領現金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/private-equity-finds-a-year-end-window-to-take-cash-out-of-firms",
+    "image": null,
+    "pushedAt": "2026-11-17T13:06:01.323Z"
   }
 ]
