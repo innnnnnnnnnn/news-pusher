@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-    "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-    "titleZh": "Nvidia 醜聞讓黃仁勳的妻子 Lori Huang 成為人們關注的焦點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T11:06:46.519Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
     "title": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
     "titleZh": "據說來自中國的 Anthropic IPO 股票訂單被拒絕",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-close-11-16-2026-video",
     "image": null,
     "pushedAt": "2026-11-17T00:55:11.945Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
+    "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+    "titleZh": "美國與以色列的關係破裂。以下是 Eisenkot 解決此問題的方法。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-Israel-US-Challenge-cfgw/13int-Israel-US-Challenge-cfgw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T00:55:40.659Z"
   }
 ]
