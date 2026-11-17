@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-    "title": "How China’s Intelligence Operations Target Tech",
-    "titleZh": "中國的情報行動如何瞄準科技",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-    "image": null,
-    "pushedAt": "2026-11-15T13:27:25.140Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
     "title": "Anthropic IPO Tests Investor Appetite for AI",
     "titleZh": "Anthropic IPO 考驗投資人對人工智慧的興趣",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/jpmorgan-cuts-borrowing-costs-on-2-85-billion-ccc-debt-deal",
     "image": null,
     "pushedAt": "2026-11-17T15:33:40.900Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+    "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+    "titleZh": "認識前往曼谷參加亞洲歐洲歌唱大賽的粉絲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T15:34:10.908Z"
   }
 ]
