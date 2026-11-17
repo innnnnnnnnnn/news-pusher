@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
-    "title": "Couples Are Bringing AI Into Their Arguments",
-    "titleZh": "夫妻們正在將人工智慧帶入他們的爭論中",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
-    "image": null,
-    "pushedAt": "2026-11-15T11:48:59.030Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
     "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
     "titleZh": "科技巨頭在民主黨大勝中面臨更大的電網成本壓力",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-growth-guidance-is-pivotal-point-to-watch-luria-video",
     "image": null,
     "pushedAt": "2026-11-17T14:58:48.594Z"
+  },
+  {
+    "id": "https://www.ft.com/content/115eeb4e-4d7c-468b-968d-0bbb74a229b1",
+    "title": "Financing for next year’s AI build-out is looking increasingly funky",
+    "titleZh": "明年人工智慧興建的融資看起來越來越時髦",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/115eeb4e-4d7c-468b-968d-0bbb74a229b1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff9da2de9-0645-41a6-a21c-21dc1d209616.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-17T14:59:26.610Z"
   }
 ]
