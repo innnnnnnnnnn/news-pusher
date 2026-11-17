@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html",
-    "title": "A Nationwide Ground Stop",
-    "titleZh": "全國範圍內的地面站",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13evening-nl-airports-vwbl/13evening-nl-airports-vwbl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-13T23:31:01.312Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
     "title": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
     "titleZh": "川普官員在跛腳鴨會議上敦促國會更新間諜法",
@@ -4425,7 +4416,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/pfg7lsyqk?ref=rss",
     "image": "https://cdn.flipso.com/p/pfg7lsyqk_square.jpg",
-    "pushedAt": "2026-11-17T08:16:26.343Z"
+    "pushedAt": "2026-11-17T10:33:33.052Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/the-impossible-trilemma-that-hangs-over-the-nvidia-crisis",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began",
     "image": null,
     "pushedAt": "2026-11-17T10:33:06.707Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-forms-export-control-board-committee-after-chip-curbs",
+    "title": "Nvidia Forms Export Control Board Committee After Chip Curbs",
+    "titleZh": "晶片限制後英偉達成立出口管制委員會",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-forms-export-control-board-committee-after-chip-curbs",
+    "image": null,
+    "pushedAt": "2026-11-17T10:34:00.284Z"
   }
 ]
