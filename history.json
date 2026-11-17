@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5",
-    "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
-    "titleZh": "貝森特表示英偉達需要與外部執行長進行“重組”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T10:35:39.609Z"
-  },
-  {
     "id": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99",
     "title": "US regulator rejects cancer drug invented in China in blow to Beijing’s biotech sector",
     "titleZh": "FDA拒絕中國發明的抗癌藥物，對北京的生物技術產業造成打擊",
@@ -4110,7 +4101,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T20:54:54.449Z"
+    "pushedAt": "2026-11-17T23:16:43.406Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
@@ -4902,7 +4893,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/lp73o7fjh?ref=rss",
     "image": "https://cdn.flipso.com/p/lp73o7fjh_square.jpg",
-    "pushedAt": "2026-11-17T20:55:18.009Z"
+    "pushedAt": "2026-11-17T23:17:06.792Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video",
     "image": null,
     "pushedAt": "2026-11-17T23:16:17.339Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
+    "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
+    "titleZh": "美國失去消除麻疹地位後民主黨人攻擊小羅伯特甘迺迪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-measles-reax-tzcj/17pol-measles-reax-tzcj-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-17T23:17:32.567Z"
   }
 ]
