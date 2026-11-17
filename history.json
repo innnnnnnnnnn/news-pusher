@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304",
-    "title": "Manchester United: a fate worse than debt",
-    "titleZh": "曼聯：比債務更糟糕的命運",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-15T16:49:07.372Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-    "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-    "titleZh": "川普在委內瑞拉的石油掠奪正在考驗該國的民族認同",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T12:21:53.059Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
     "title": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
     "titleZh": "警方稱，這名男子在上西區偷走了價值 900 萬美元的金條",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
     "image": null,
     "pushedAt": "2026-11-17T13:23:48.221Z"
+  },
+  {
+    "id": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad",
+    "title": "Labour reforms risk harming job market for Britain’s young, says Milburn review",
+    "titleZh": "米爾本評論稱，勞動改革可能會損害英國年輕人的就業市場",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T13:24:18.708Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a",
+    "title": "Iran attacks US air base in Bahrain",
+    "titleZh": "伊朗攻擊位於巴林的美國空軍基地",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-17T13:24:23.545Z"
   }
 ]
