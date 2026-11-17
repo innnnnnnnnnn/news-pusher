@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
-    "title": "The Nvidia board’s artificial independence",
-    "titleZh": "英偉達董事會的人為獨立性",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
-    "image": null,
-    "pushedAt": "2026-11-15T16:54:37.425Z"
-  },
-  {
     "id": "https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04",
     "title": "Nvidia’s cult of personality was bound to end badly",
     "titleZh": "英偉達的個人崇拜注定不會有好結果",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
     "pushedAt": "2026-11-17T11:34:49.037Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+    "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+    "titleZh": "兩起名人案件讓英國法院的禁言令備受關注",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T11:35:19.865Z"
   }
 ]
