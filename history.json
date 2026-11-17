@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-    "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO",
-    "titleZh": "英偉達股價暴跌，據稱董事會將考慮黃仁勳擔任執行長的未來",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-    "image": null,
-    "pushedAt": "2026-11-15T09:49:37.222Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
-    "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-    "titleZh": "Nvidia 醜聞引發人們對間諜意味著什麼的疑問",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-14T21:11:26.644Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
     "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
     "titleZh": "川普將在中國會見普丁和習近平，核擴散問題將提上議程",
@@ -3831,7 +3813,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T08:50:10.937Z"
+    "pushedAt": "2026-11-17T11:04:48.528Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
@@ -6666,7 +6648,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
     "image": null,
-    "pushedAt": "2026-11-17T08:50:34.255Z"
+    "pushedAt": "2026-11-17T11:05:13.648Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/hedge-funds-slash-bullish-bets-on-us-diesel-to-january-low",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value",
     "image": null,
     "pushedAt": "2026-11-17T11:04:18.970Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+    "title": "Tracking China’s War of Words Against Japan",
+    "titleZh": "追蹤中國對日口水戰",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-17T11:05:41.607Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
+    "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
+    "titleZh": "民主黨承諾降低價格。他們實際上能做什麼？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00daily-dems-affordability-copy/00daily-dems-affordability-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-17T11:05:46.131Z"
   }
 ]
