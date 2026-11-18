@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
-    "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
-    "titleZh": "Sam Bankman-Fried 如何輸掉 Anthropic 的 350 億美元大獎",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-18T07:29:26.875Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/16/business/retromobile-classic-car-show-nyc.html",
-    "title": "A Classic Car Show From Paris Aims to Turn Heads in Manhattan",
-    "titleZh": "巴黎老爺車展力爭在曼哈頓引人注目",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/business/retromobile-classic-car-show-nyc.html",
-    "image": null,
-    "pushedAt": "2026-11-18T07:35:33.478Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
     "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
     "titleZh": "蘋果在視訊播客方面遲到了。現在它正在努力追趕。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T09:46:48.171Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
+    "title": "As Phillips Scales Back, the ‘Big Two’ Auction Houses Seem to Stand Alone",
+    "titleZh": "隨著富藝斯縮減規模，「兩大」拍賣行似乎孤立無援",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-phillips-auction-zghc/16cul-phillips-auction-zghc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T09:47:17.046Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
+    "title": "Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week",
+    "titleZh": "梵谷的拍賣目標是每週 28 億美元，疑點籠罩",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
+    "image": null,
+    "pushedAt": "2026-11-18T09:47:19.059Z"
   }
 ]
