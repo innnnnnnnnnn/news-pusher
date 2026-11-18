@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-    "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
-    "titleZh": "黃仁勳顛覆 Nvidia 的事件：事件時間表",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T09:52:15.588Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "title": "Anthropic’s giant IPO puts the heat on OpenAI",
     "titleZh": "Anthropic 的大規模 IPO 為 OpenAI 帶來了熱度",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
     "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T00:10:52.950Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+    "title": "Too Many Chips in One Basket?",
+    "titleZh": "一籃裡的薯片太多？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:11:20.606Z"
   }
 ]
