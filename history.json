@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
-    "title": "The Enraging Hypocrisy at the Heart of the Nvidia Scandal",
-    "titleZh": "英偉達醜聞揭露政府願意背叛美國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16goldberg-zplt/16goldberg-zplt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T05:56:16.442Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
     "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
     "titleZh": "日本央行尹：人工智慧擔憂加劇韓國股市波動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T21:50:33.372Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/grand-theft-auto-vi-lives-up-to-hype-video",
+    "title": "Grand Theft Auto VI Lives Up To Hype",
+    "titleZh": "Grand Theft Auto VI 不負眾望",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/grand-theft-auto-vi-lives-up-to-hype-video",
+    "image": null,
+    "pushedAt": "2026-11-18T21:51:05.743Z"
   }
 ]
