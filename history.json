@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
-    "title": "China's AI² Robotics On Business Strategy",
-    "titleZh": "中國AI²機器人商業策略",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
-    "image": null,
-    "pushedAt": "2026-11-17T06:58:00.770Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
     "titleZh": "美國採取措施限制中國遠端存取英偉達人工智慧晶片",
@@ -3129,7 +3120,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17haiti-assassination-pastor-zgtf/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T20:38:30.012Z"
+    "pushedAt": "2026-11-18T23:15:48.619Z"
   },
   {
     "id": "https://www.ft.com/content/edb10f04-3c15-4d86-ae3d-b70ca57d36df",
@@ -7881,7 +7872,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
     "image": null,
-    "pushedAt": "2026-11-18T20:36:47.827Z"
+    "pushedAt": "2026-11-18T23:14:58.439Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
@@ -7890,7 +7881,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "image": null,
-    "pushedAt": "2026-11-18T20:37:14.276Z"
+    "pushedAt": "2026-11-18T23:15:24.313Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures",
@@ -8457,7 +8448,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/germany-austria-propose-trump-style-takeover-of-tiktok-s-eu-ops",
     "image": null,
-    "pushedAt": "2026-11-18T20:38:58.621Z"
+    "pushedAt": "2026-11-18T23:16:14.903Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/arm-ceo-approached-by-nvidia-board-s-recruitment-firm-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feaf46cfc-87ad-44e5-86b8-3a499f6c14af.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-18T23:06:25.127Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
+    "titleZh": "CATL執行長提出將資料中心作為新成長引擎的計劃",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "image": null,
+    "pushedAt": "2026-11-18T23:16:43.411Z"
   }
 ]
