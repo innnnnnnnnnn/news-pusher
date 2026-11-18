@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/dod-s-feinberg-said-to-steer-firms-to-goldman-banker-video",
-    "title": "Pentagon Deputy Steered Defense Deals to His Goldman Banker",
-    "titleZh": "據說五角大廈的范伯格已將公司引向高盛銀行家",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/dod-s-feinberg-said-to-steer-firms-to-goldman-banker-video",
-    "image": null,
-    "pushedAt": "2026-11-16T18:08:46.844Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
     "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
     "titleZh": "新詹姆斯龐德又來了。最後的表現如何？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-said-to-guide-ipo-pricing-above-market-range-video",
     "image": null,
     "pushedAt": "2026-11-18T14:08:44.950Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
+    "titleZh": "巴特比時事通訊：為什麼你沒有被邀請參加那次會議",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "image": null,
+    "pushedAt": "2026-11-18T14:09:14.564Z"
   }
 ]
