@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
-    "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
-    "titleZh": "奧地利可能剝奪前外交部長卡琳·克奈塞爾的公民身份",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-austria-1-wzpc/16int-austria-1-wzpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T15:29:13.080Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
     "title": "Uruguay Central Bank Keeps Interest Rate at 6%, Maintains Expansive Policy",
     "titleZh": "烏拉圭央行將利率維持在 6%，維持擴張性政策",
@@ -4614,7 +4605,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-18T16:03:22.847Z"
+    "pushedAt": "2026-11-18T18:43:29.597Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
@@ -8362,12 +8353,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-low-profile-cfo-guides-firm-through-cone-of-uncertainty",
-    "title": "Anthropic’s Low-Profile CFO Guides Firm Through ‘Cone of Uncertainty’",
+    "title": "Anthropic IPO: CFO Krishna Rao Helps Grow Startup Into AI Powerhouse",
     "titleZh": "Anthropic 低調的財務長引導公司度過“不確定性錐體”",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-low-profile-cfo-guides-firm-through-cone-of-uncertainty",
     "image": null,
-    "pushedAt": "2026-11-18T16:02:54.332Z"
+    "pushedAt": "2026-11-18T18:43:04.646Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/credit-selloff-lures-bargain-hunters-to-stock-picker-s-market",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
     "image": null,
     "pushedAt": "2026-11-18T18:42:34.817Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
+    "title": "Trump Arrives in China Focused on Friendship, Not Spy Scandal",
+    "titleZh": "川普抵達中國聚焦友誼而非間諜醜聞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-top-1-hqjl/18int-trump-top-1-hqjl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T18:43:56.403Z"
   }
 ]
