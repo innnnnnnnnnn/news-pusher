@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
-    "title": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
-    "titleZh": "皮特·布蒂吉格 (Pete Buttigieg) 在 2026 年中期選舉中的賭注對 2028 年意味著什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16pol-onpolitics-newsletter-01-wtmp/16pol-onpolitics-newsletter-01-wtmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T10:50:25.415Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
-    "title": "Gold Steadies as Dip Buyers Cushion Slump Driven by Fed Concerns",
-    "titleZh": "通膨壓力持續，金價穩定在 14 個月低點附近",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
-    "image": null,
-    "pushedAt": "2026-11-17T19:05:04.786Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
     "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
     "titleZh": "在全國航班停飛期間，飛行員與管制員保持聯繫",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers",
     "image": null,
     "pushedAt": "2026-11-18T20:53:01.025Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/carney-canada-trade-deal-trump.html",
+    "title": "Watch: Canada’s Prime Minister on Negotiating With President Trump",
+    "titleZh": "觀看：加拿大總理與川普總統談判",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/carney-canada-trade-deal-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-summit-vid-carney-PROMO-zchb/18DB-summit-vid-carney-PROMO-zchb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T20:56:09.442Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html",
+    "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+    "titleZh": "觀看：OpenAI 的高層談論流氓代理和人工智慧安全",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/us/00altman-play/00altman-play-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-18T20:56:14.177Z"
   }
 ]
