@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-    "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-    "titleZh": "川普政府在訪中前採取行動，以堵住人工智慧晶片的漏洞",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T23:37:48.313Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
     "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
     "titleZh": "Raye、Rosalía 和 Ella Langley 在女性主導的 2027 年格萊美頒獎典禮上登頂",
@@ -6774,7 +6765,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
     "image": null,
-    "pushedAt": "2026-11-18T10:33:34.729Z"
+    "pushedAt": "2026-11-18T13:03:33.106Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/the-close-11-17-2026-video",
@@ -7854,7 +7845,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/uk-energy-bills-seen-rising-26-biggest-hike-since-2022",
     "image": null,
-    "pushedAt": "2026-11-18T10:33:59.967Z"
+    "pushedAt": "2026-11-18T13:03:58.657Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T13:03:04.106Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/edward-yardeni-on-ai-trade-normal-for-longer-rates-video",
+    "title": "Edward Yardeni on AI Trade, ‘Normal for Longer’ Rates",
+    "titleZh": "愛德華·亞德尼 (Edward Yardeni) 談人工智慧貿易，「長期正常」利率",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/edward-yardeni-on-ai-trade-normal-for-longer-rates-video",
+    "image": null,
+    "pushedAt": "2026-11-18T13:04:27.708Z"
   }
 ]
