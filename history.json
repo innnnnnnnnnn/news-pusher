@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed",
-    "title": "Ukraine strikes Crimean Bridge in record drone attack",
-    "titleZh": "烏克蘭無人機襲擊克里米亞大橋創紀錄",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf8c8439-4979-4556-ba82-60b215d2d948.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T03:25:09.793Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/modi-arrives-in-manila-for-asean-summit-video",
-    "title": "Modi Arrives in Manila for Asean Summit",
-    "titleZh": "莫迪抵達馬尼拉出席東協峰會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/modi-arrives-in-manila-for-asean-summit-video",
-    "image": null,
-    "pushedAt": "2026-11-16T13:05:56.739Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/insight-with-haslinda-amin-11-16-2026-video",
     "title": "Nvidia Fallout Puts ASEAN's Tech Boom in Focus",
     "titleZh": "英偉達的影響讓東協科技繁榮成為焦點",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T10:14:26.507Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+    "title": "The Anthropic I.P.O. Will Change the Future of A.I.",
+    "titleZh": "人擇IPO將改變人工智慧的未來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+    "image": null,
+    "pushedAt": "2026-11-18T10:14:56.911Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/opinion/trump-iran-us-foreign-policy.html",
+    "title": "‘Send Iran a Clear Message That the War Is Over’: 3 Opinion Writers on How to Check Trump on Foreign Policy",
+    "titleZh": "「向伊朗發出戰爭已經結束的明確訊息」：三位評論家探討如何制衡川普的外交政策",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/opinion/trump-iran-us-foreign-policy.html",
+    "image": null,
+    "pushedAt": "2026-11-18T10:15:01.445Z"
   }
 ]
