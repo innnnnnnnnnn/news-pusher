@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
-    "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
-    "titleZh": "新詹姆斯龐德又來了。最後的表現如何？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
-    "image": "https://static01.nyt.com/images/2025/08/22/arts/00cul-bond-predecessors/00cul-bond-predecessors-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T22:51:52.493Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-brief-11-16-2026-video",
     "title": "Stocks Fall Ahead of Nvidia, Trump-Xi-Putin Summit; Huang’s Potential Return to Nvidia",
     "titleZh": "英偉達、川普-習近平-普丁峰會之前股市下跌；黃仁勳有可能重返英偉達",
@@ -789,7 +780,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "image": null,
-    "pushedAt": "2026-11-18T11:29:27.845Z"
+    "pushedAt": "2026-11-18T14:10:59.094Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/trump-duffy-deflect-responsibility-for-faa-groundstop-video",
@@ -2886,7 +2877,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-trump-marcos-kvfb/17trump-summits-trump-marcos-kvfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T11:29:53.098Z"
+    "pushedAt": "2026-11-18T14:11:24.694Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
@@ -5658,7 +5649,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-nc-recount-wptg/17pol-nc-recount-wptg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T11:27:13.278Z"
+    "pushedAt": "2026-11-18T14:09:43.065Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
@@ -5667,7 +5658,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
     "image": null,
-    "pushedAt": "2026-11-18T11:27:38.133Z"
+    "pushedAt": "2026-11-18T14:10:08.493Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
@@ -8394,7 +8385,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/nvidia-earnings-colette-kress-tightens-ai-spending-after-jensen-huang-s-exit",
     "image": null,
-    "pushedAt": "2026-11-18T11:28:34.669Z"
+    "pushedAt": "2026-11-18T14:10:33.377Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/dongfeng-s-first-egypt-built-electric-car-to-go-on-sale-in-2027",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
     "image": null,
     "pushedAt": "2026-11-18T14:09:14.564Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
+    "title": "US Housing Starts Climb on Multifamily Construction Rebound",
+    "titleZh": "美國新屋開工率因多戶住宅建設反彈而攀升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
+    "image": null,
+    "pushedAt": "2026-11-18T14:11:51.607Z"
   }
 ]
