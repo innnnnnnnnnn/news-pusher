@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/pizza-hut-sells-1-billion-of-bonds-tied-to-franchise-agreements",
-    "title": "Pizza Hut Sells $1 Billion of Bonds Tied to Franchise Agreements",
-    "titleZh": "必勝客出售 10 億美元與特許經營協議相關的債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/pizza-hut-sells-1-billion-of-bonds-tied-to-franchise-agreements",
-    "image": null,
-    "pushedAt": "2026-11-16T22:21:20.951Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/business/united-halts-flights-as-it-addresses-widespread-system-outage.html",
     "title": "United Halts Flights as It Addresses ‘Widespread System Outage’",
     "titleZh": "美聯航因解決「廣泛的系統中斷」問題而暫停航班",
@@ -1743,7 +1734,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-18T17:06:50.327Z"
+    "pushedAt": "2026-11-18T19:40:30.754Z"
   },
   {
     "id": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869",
@@ -8394,7 +8385,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
     "image": null,
-    "pushedAt": "2026-11-18T17:05:49.520Z"
+    "pushedAt": "2026-11-18T19:39:28.886Z"
   },
   {
     "id": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9",
@@ -8402,8 +8393,8 @@
     "titleZh": "民主黨提名哈基姆·傑弗里斯為美國眾議院議長",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T17:06:21.704Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01bec3ae-a55d-4c96-b947-ba005cdd6126.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T19:40:05.600Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/trump-set-to-meet-with-xi-and-putin-in-china-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers",
     "image": null,
     "pushedAt": "2026-11-18T19:38:59.573Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
+    "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
+    "titleZh": "傑夫貝佐斯表示他幫助挑選羅伯特帕丁森作為新詹姆斯龐德",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cul-bond-bezos-jvcg/18cul-bond-bezos-jvcg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T19:40:58.390Z"
   }
 ]
