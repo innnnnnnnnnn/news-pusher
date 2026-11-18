@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/nyregion/building-collapse-cat-rescue.html",
-    "title": "Zariah, 13, and Her Cat Are Reunited After Building Collapse",
-    "titleZh": "13 歲的 Zariah 和她的貓在大樓倒塌後重聚",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/nyregion/building-collapse-cat-rescue.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/nyregion/15met-collapse-cat-02/15met-collapse-cat-02-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T04:39:42.917Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
-    "title": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
-    "titleZh": "高盛和摩根士丹利對日元前景看法分歧",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
-    "image": null,
-    "pushedAt": "2026-11-16T02:37:38.096Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
     "title": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
     "titleZh": "川普、習近平和普丁將舉行罕見的亞太經合組織三邊會談",
@@ -8520,7 +8502,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17met-measles-nys-bwfc/17met-measles-nys-bwfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T00:07:33.682Z"
+    "pushedAt": "2026-11-18T02:23:42.926Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/japanese-restaurant-skylark-eyes-more-m-a-after-ramen-chain-deal",
     "image": null,
     "pushedAt": "2026-11-18T02:23:15.885Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee",
+    "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+    "titleZh": "「見證奇蹟」：中國為川普高峰會吹捧奇蹟之城",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6cb62c7f-849b-411a-bfb4-13cc43be8663.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T02:24:09.778Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419",
+    "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+    "titleZh": "美國網路安全機構對 Oracle Java 漏洞發出警告",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7a72f63-cde3-46b3-9d49-7ba0ce41299d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T02:24:16.487Z"
   }
 ]
