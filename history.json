@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
-    "title": "A Flurry of Thanksgiving Travel Deals for Vacation Shoppers",
-    "titleZh": "為度假購物者提供一系列感恩節旅遊優惠",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
-    "image": null,
-    "pushedAt": "2026-11-18T00:13:43.329Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
     "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
     "titleZh": "對烏克蘭電網的無情攻擊可能使城市變得不適合居住",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-pokemon-02/00xp-pokemon-02-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T09:44:19.531Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+    "title": "Billions in Insurance Money Is Being Bet on AI Debt, and Analysts Are Nervous",
+    "titleZh": "數十億保險資金押注人工智慧債務，分析師感到緊張",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-ai-insurance-02-cgtq/11biz-ai-insurance-02-cgtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T09:44:47.478Z"
   }
 ]
