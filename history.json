@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
-    "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says",
-    "titleZh": "英國《金融時報》稱，美國及其盟友同意保護人工智慧供應鏈免受中國侵害",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
-    "image": null,
-    "pushedAt": "2026-11-16T07:21:55.048Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-    "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
-    "titleZh": "FDA拒絕來自中國的備受關注的肺癌藥物",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T23:38:40.829Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
     "title": "Too Many Chips in One Basket?",
     "titleZh": "一籃裡的薯片太多？",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/ehfrs9r34?ref=rss",
     "image": "https://cdn.flipso.com/p/ehfrs9r34_square.jpg",
     "pushedAt": "2026-11-18T00:09:54.613Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
+    "title": "Can anyone fix the China-Japan relationship?",
+    "titleZh": "誰能修復中日關係？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
+    "image": null,
+    "pushedAt": "2026-11-18T00:10:22.652Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
+    "title": "The Japanese region where “eight-testicle women” outdo men",
+    "titleZh": "日本地區「八睪女」勝過男性",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
+    "image": null,
+    "pushedAt": "2026-11-18T00:10:25.602Z"
   }
 ]
