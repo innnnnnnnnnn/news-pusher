@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/ta8vqbsew",
-    "title": "We need more goat sacrifices",
-    "titleZh": "我們需要更多的山羊祭品",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ta8vqbsew?ref=rss",
-    "image": "https://cdn.flipso.com/p/ta8vqbsew_square.jpg",
-    "pushedAt": "2026-11-17T17:05:27.583Z"
-  },
-  {
     "id": "https://flipso.com/p/8jtuk93ab",
     "title": "Chemistry is Actually Geometry",
     "titleZh": "化學其實是幾何",
@@ -6720,7 +6711,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b36bf99b-e7b9-4591-aedb-5aa2b82bdf37?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T19:04:24.040Z"
+    "pushedAt": "2026-11-18T21:36:05.524Z"
   },
   {
     "id": "https://www.ft.com/content/47973475-36b8-4e46-8f2d-0c04de23b6db",
@@ -6729,7 +6720,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/47973475-36b8-4e46-8f2d-0c04de23b6db?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T19:04:49.090Z"
+    "pushedAt": "2026-11-18T21:36:30.913Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/crypto-futures-point-to-a-big-pop-for-anthropic-stock",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/s-p-falls-to-lowest-since-july-closing-bell-video",
     "image": null,
     "pushedAt": "2026-11-18T21:29:42.126Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/alberta-bans-ai-data-centers-on-irrigated-land-sets-600-meter-rule",
+    "title": "Alberta Bans AI Data Centers on Irrigated Land, Sets 600-Meter Rule",
+    "titleZh": "艾伯塔省禁止在灌溉土地上建立人工智慧資料中心，制定 600 公尺規則",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/alberta-bans-ai-data-centers-on-irrigated-land-sets-600-meter-rule",
+    "image": null,
+    "pushedAt": "2026-11-18T21:36:59.741Z"
   }
 ]
