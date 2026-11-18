@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/movies/james-bond.html",
-    "title": "Robert Pattinson Named as the Next James Bond",
-    "titleZh": "羅伯派汀森被任命為下一個詹姆斯龐德",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/movies/james-bond.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/world/00cul-james-bond-hfo/00cul-james-bond-hfo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T15:08:07.306Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-dispara-su-deuda-ante-creciente-deficit-presupuestario",
     "title": "Colombia dispara su deuda ante creciente déficit presupuestario",
     "titleZh": "哥倫比亞 dispara su deuda ante creciente deficit presupuestario",
@@ -4128,7 +4119,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
     "image": null,
-    "pushedAt": "2026-11-18T11:18:10.060Z"
+    "pushedAt": "2026-11-18T13:56:26.413Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/us-retail-sales-rise-0-2-amid-mixed-demand-for-merchandise",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/alaska-s-oil-renaissance-dawns-after-decades-of-decline",
     "image": null,
     "pushedAt": "2026-11-18T13:55:57.649Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+    "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
+    "titleZh": "麻薩諸塞州的一個小鎮抗議亞馬遜的無人機送貨",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T13:56:53.495Z"
   }
 ]
