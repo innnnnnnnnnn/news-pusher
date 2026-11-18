@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-    "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-    "titleZh": "夾在殺手之間：一邊是伊波拉，一邊是伊斯蘭國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-ebola-biakato-promo-mzqw/13int-ebola-biakato-promo-mzqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T08:40:51.367Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
     "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
     "titleZh": "努力學習、就業並取得進步？它不再是以前的樣子了。",
@@ -1311,7 +1302,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-france-leaders-01-gcvm/17int-france-leaders-01-gcvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T14:42:37.306Z"
+    "pushedAt": "2026-11-18T17:28:12.373Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
@@ -1320,7 +1311,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-global-debt-01-mpfv/16biz-global-debt-01-mpfv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T14:43:02.488Z"
+    "pushedAt": "2026-11-18T17:28:37.706Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
@@ -1329,7 +1320,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T14:43:27.916Z"
+    "pushedAt": "2026-11-18T17:29:03.282Z"
   },
   {
     "id": "https://www.ft.com/content/36bf11fe-19a9-4a5f-9c0b-9d06885a8aba",
@@ -5127,7 +5118,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T14:42:12.393Z"
+    "pushedAt": "2026-11-18T17:27:47.332Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption3-vqwl/18cli-cop31-disruption3-vqwl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T17:27:18.767Z"
+  },
+  {
+    "id": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56",
+    "title": "Israeli attorney-general freezes key West Bank settlement project",
+    "titleZh": "以色列總檢察長凍結西岸主要定居點項目",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T17:29:32.514Z"
   }
 ]
