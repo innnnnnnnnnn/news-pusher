@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/tripadvisor-loan-soars-as-600-million-payment-boosts-confidence",
-    "title": "Tripadvisor Loan Soars as $600 Million Payment Boosts Confidence",
-    "titleZh": "Tripadvisor 貸款飆漲 6 億美元付款提振信心",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/tripadvisor-loan-soars-as-600-million-payment-boosts-confidence",
-    "image": null,
-    "pushedAt": "2026-11-17T09:16:09.930Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/uk-migration-advisers-reject-call-for-investor-visa",
     "title": "UK Migration Advisers Reject Call for Investor Visa",
     "titleZh": "英國移民顧問拒絕投資者簽證要求",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
     "image": null,
     "pushedAt": "2026-11-18T21:27:37.951Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+    "title": "Corporate spin-offs are getting out of control",
+    "titleZh": "企業分拆正在失控",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+    "image": null,
+    "pushedAt": "2026-11-18T21:28:12.337Z"
   }
 ]
