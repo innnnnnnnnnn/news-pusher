@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html",
-    "title": "Grammy Nominations 2027: See the Full List",
-    "titleZh": "2027 年格萊美提名：查看完整列表",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-grammy-list-1-wvfz/16cul-grammy-list-1-wvfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:39:54.179Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/new-dependencies-in-the-us-and-china-s-trade-relationship",
     "title": "New dependencies in the US and China’s trade relationship",
     "titleZh": "中美貿易關係的新依賴",
@@ -4546,12 +4537,12 @@
   },
   {
     "id": "https://www.ft.com/deutsche-q&a",
-    "title": "Behind the Deutsche Bank investigation: Ask a question",
+    "title": "Behind the investigation: Submit a question",
     "titleZh": "德意志銀行調查背後：提出問題",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/deutsche-q&a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T04:20:57.176Z"
+    "pushedAt": "2026-11-18T12:15:16.381Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-cook-wont-attend-white-house-hearing-without-changes.html",
@@ -8430,7 +8421,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/pony-ai-s-sales-beat-estimates-as-robotaxi-business-expands",
     "image": null,
-    "pushedAt": "2026-11-18T09:53:01.582Z"
+    "pushedAt": "2026-11-18T12:15:41.135Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
     "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T12:14:46.490Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+    "title": "Fried Chicken and a Chat With an Old Friend: How Marcos Catered to Trump",
+    "titleZh": "炸雞和老朋友聊天：馬科斯如何迎合川普",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+    "image": "https://static01.nyt.com/images/2026/11/18/world/asia/18vid-trump-jollibee-COVER/18vid-trump-jollibee-COVER-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T12:16:08.074Z"
   }
 ]
