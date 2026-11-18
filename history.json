@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5a606609-fcf0-419b-9d67-5c31320632fc",
-    "title": "‘White elephant’ Brexit border checkpoints face demolition as UK-EU reset looms",
-    "titleZh": "隨著英歐重置迫在眉睫，「白象」脫歐邊境檢查站面臨拆除",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5a606609-fcf0-419b-9d67-5c31320632fc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T03:59:54.351Z"
-  },
-  {
-    "id": "https://www.ft.com/content/85183619-921b-45b9-9b19-c2b90956207a",
-    "title": "The ex-journalist trying to fix Europe’s worst deficit",
-    "titleZh": "這位前記者正試圖解決歐洲最嚴重的赤字問題",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/85183619-921b-45b9-9b19-c2b90956207a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T11:47:01.538Z"
-  },
-  {
     "id": "https://www.ft.com/content/21f7921d-8878-4ed0-8d77-df2c29cb8716",
     "title": "East meets north: how Copenhagen’s dining scene is moving towards Asia",
     "titleZh": "東方與北方的相遇：哥本哈根的餐飲業如何走向亞洲",
@@ -4929,7 +4911,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
     "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T03:08:40.348Z"
+    "pushedAt": "2026-11-18T05:27:52.851Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
@@ -4938,7 +4920,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T03:09:04.771Z"
+    "pushedAt": "2026-11-18T05:28:16.059Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/sap-executive-board-member-saueressig-quits-to-become-ionos-ceo",
@@ -8610,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/kbra-plans-first-japan-rating-in-2027-expands-tokyo-team",
     "image": null,
-    "pushedAt": "2026-11-18T03:09:34.179Z"
+    "pushedAt": "2026-11-18T05:28:39.367Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
@@ -8619,7 +8601,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T03:10:34.563Z"
+    "pushedAt": "2026-11-18T05:29:02.662Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp",
     "image": null,
     "pushedAt": "2026-11-18T05:27:27.064Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/smaller-tankers--hormuz-shuttle-trade-oil-flows-wti-brent-crude",
+    "title": "Smaller Tankers Join Hormuz Shuttle Trade to Keep Oil Flowing",
+    "titleZh": "小型油輪加入霍爾木茲穿梭貿易以維持石油流動",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/smaller-tankers--hormuz-shuttle-trade-oil-flows-wti-brent-crude",
+    "image": null,
+    "pushedAt": "2026-11-18T05:29:29.263Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
+    "title": "Copper Extends Fall to Near Five-Month Low as Dollar Strengthens",
+    "titleZh": "隨著美元走強，銅價延續跌勢至近五個月低點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
+    "image": null,
+    "pushedAt": "2026-11-18T05:29:34.260Z"
   }
 ]
