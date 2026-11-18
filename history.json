@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/korea-zinc-010130-ks-solarcycle-form-us-critical-minerals-recycling-venture",
-    "title": "Korea Zinc (010130 KS), Solarcycle Form US Critical Minerals Recycling Venture",
-    "titleZh": "韓國鋅業 (010130 KS) 與 Solarcycle 組成美國關鍵礦物回收企業",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/korea-zinc-010130-ks-solarcycle-form-us-critical-minerals-recycling-venture",
-    "image": null,
-    "pushedAt": "2026-11-16T13:06:55.536Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/tyson-sees-beef-woes-easing-as-cattle-supplies-improve",
-    "title": "Tyson Shares Climb as Meatpacker Sees Beef Woes Easing",
-    "titleZh": "泰森認為，隨著牛隻供應的改善，牛肉問題有所緩解",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/tyson-sees-beef-woes-easing-as-cattle-supplies-improve",
-    "image": null,
-    "pushedAt": "2026-11-16T15:42:37.772Z"
-  },
-  {
-    "id": "https://www.ft.com/content/675941c1-d4e9-4407-8d1f-1ea8d358522a",
-    "title": "Bahrain condemns dozens of Shia clerics over purported Iran links",
-    "titleZh": "巴林譴責數十名什葉派神職人員涉嫌與伊朗有聯繫",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/675941c1-d4e9-4407-8d1f-1ea8d358522a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T03:29:17.307Z"
-  },
-  {
     "id": "https://www.ft.com/content/5dfa6759-407c-4166-b221-802a5f5b936a",
     "title": "Weak growth casts further doubt on Bank of Japan’s December rate rise",
     "titleZh": "疲軟的成長讓日本央行12月升息進一步受到質疑",
@@ -8998,5 +8971,32 @@
     "url": "https://flipso.com/p/kcmjcx47c?ref=rss",
     "image": "https://cdn.flipso.com/p/kcmjcx47c_square.jpg",
     "pushedAt": "2026-11-18T12:16:39.793Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0199a289-6f9d-4a9b-bbb8-dc738b3deb60",
+    "title": "The best business books to read this year",
+    "titleZh": "今年最值得閱讀的商業書籍",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0199a289-6f9d-4a9b-bbb8-dc738b3deb60?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F614b50a4-adda-4351-ae84-d202e3748778.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T12:26:19.295Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/arts/gta-6-hacker-guilty.html",
+    "title": "Grand Theft Auto VI Hacker Pleads Guilty to Cybercrimes",
+    "titleZh": "Grand Theft Auto VI 駭客承認網路犯罪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/arts/gta-6-hacker-guilty.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-gta-hacker-wzgj/17xp-gta-hacker-wzgj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T12:26:24.946Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/xi-jinping-china-sanae-takaichi-japan",
+    "title": "Xi greets Japan’s leader amid a diplomatic feud.",
+    "titleZh": "習近平在外交爭端中向日本領導人致意。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/xi-jinping-china-sanae-takaichi-japan",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T12:26:28.842Z"
   }
 ]
