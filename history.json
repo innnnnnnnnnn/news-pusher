@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-ai-highflier-crashes-85-as-chip-fears-hit-model-makers",
-    "title": "China AI Star Sinks 85% From Peak as Chip Fears Hit Model Makers",
-    "titleZh": "模型製造商受晶片恐懼影響，中國 AI Highflier 股價暴跌 85%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-ai-highflier-crashes-85-as-chip-fears-hit-model-makers",
-    "image": null,
-    "pushedAt": "2026-11-17T08:29:07.203Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows",
     "title": "Pimco Sees Data Center Spreads Tightening Versus Tech Debt",
     "titleZh": "Pimco表示，隨著資料中心繁榮放緩，人工智慧債券利差可能收緊",
@@ -4497,7 +4488,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-china-xi-apec-01-hbcz/18int-china-xi-apec-01-hbcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T19:53:30.384Z"
+    "pushedAt": "2026-11-18T22:35:38.374Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
@@ -4506,7 +4497,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
-    "pushedAt": "2026-11-18T19:54:30.409Z"
+    "pushedAt": "2026-11-18T22:36:04.422Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/kpmg-canada-clients-tax-data-accessed-amid-spate-of-hacks",
     "image": null,
     "pushedAt": "2026-11-18T22:34:43.758Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/moody-s-lowers-nvidia-s-ratings-outlook-to-stable-from-positive",
+    "title": "Moody’s Lowers Nvidia’s Ratings Outlook to Stable From Positive",
+    "titleZh": "穆迪將英偉達的評級展望從正面下調至穩定",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/moody-s-lowers-nvidia-s-ratings-outlook-to-stable-from-positive",
+    "image": null,
+    "pushedAt": "2026-11-18T22:36:30.239Z"
   }
 ]
