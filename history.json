@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/india-faces-a-more-painful-return-to-higher-interest-rates",
-    "title": "India Faces a More Painful Return to Higher Interest Rates",
-    "titleZh": "印度面臨更高利率的更痛苦回歸",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/india-faces-a-more-painful-return-to-higher-interest-rates",
-    "image": null,
-    "pushedAt": "2026-11-16T03:25:20.416Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-teapot-refiners-turn-to-trading-giants-as-iran-oil-ebbs",
-    "title": "China’s Teapot Refiners Turn to Trading Giants as Iran Oil Ebbs",
-    "titleZh": "隨著伊朗石油衰退，中國茶壺煉油廠轉向貿易巨頭",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-teapot-refiners-turn-to-trading-giants-as-iran-oil-ebbs",
-    "image": null,
-    "pushedAt": "2026-11-16T03:29:43.952Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
     "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
     "titleZh": "黃仁勳從英偉達辭職可能會使數十億美元的慈善捐贈變得複雜",
@@ -2157,7 +2139,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T00:15:49.617Z"
+    "pushedAt": "2026-11-18T02:34:20.664Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-delaying-some-deals-moynihan-says-video",
@@ -7269,7 +7251,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
     "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T00:17:29.460Z"
+    "pushedAt": "2026-11-18T02:35:08.152Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
@@ -8646,16 +8628,16 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
-    "pushedAt": "2026-11-18T00:15:23.361Z"
+    "pushedAt": "2026-11-18T02:33:57.281Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
-    "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China",
+    "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
     "titleZh": "英偉達臨時執行長表示不再向中國出口人工智慧晶片",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
     "image": null,
-    "pushedAt": "2026-11-18T00:16:16.039Z"
+    "pushedAt": "2026-11-18T02:34:43.746Z"
   },
   {
     "id": "https://www.ft.com/content/52c034e5-ec65-4aa1-b693-77705c57ec23",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/stats-nz-corrects-producer-price-data-back-to-march-2021",
     "image": null,
     "pushedAt": "2026-11-18T02:33:29.291Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/iron-ore-likely-to-find-a-floor-near-80-chinese-analysts-say",
+    "title": "Iron Ore Likely to Find a Floor Near $80, Chinese Analysts Say",
+    "titleZh": "中國分析師表示，鐵礦石價格可能會跌至 80 美元附近",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/iron-ore-likely-to-find-a-floor-near-80-chinese-analysts-say",
+    "image": null,
+    "pushedAt": "2026-11-18T02:35:34.040Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/boj-s-ueda-says-food-sales-tax-cut-likely-to-help-spur-growth",
+    "title": "BOJ’s Ueda Says Food Sales Tax Cut Likely to Help Spur Growth",
+    "titleZh": "日本央行總裁上田表示，食品銷售稅削減可能有助於刺激經濟成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/boj-s-ueda-says-food-sales-tax-cut-likely-to-help-spur-growth",
+    "image": null,
+    "pushedAt": "2026-11-18T02:35:37.750Z"
   }
 ]
