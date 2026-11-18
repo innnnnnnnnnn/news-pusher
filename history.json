@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
-    "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
-    "titleZh": "馬斯克 (Elon Musk) 夢想合併特斯拉 (Tesla) 和 SpaceX，邁向科技霸主地位",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/business/16biz-digital-conglomerates/16biz-digital-conglomerates-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T13:46:38.704Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-expect-from-trump-s-china-summit-video",
     "title": "What to Expect From Trump’s China Summit",
     "titleZh": "川普對華峰會有何期待",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/lagarde-says-role-at-wef-is-an-option-after-leaving-the-ecb",
     "image": null,
     "pushedAt": "2026-11-18T15:14:05.816Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
+    "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
+    "titleZh": "伊隆馬斯克希望合併特斯拉和 SpaceX。他們的業務已經重疊。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-tesla-spacex-tesla-jmzp/00biz-tesla-spacex-tesla-jmzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T15:14:34.330Z"
   }
 ]
