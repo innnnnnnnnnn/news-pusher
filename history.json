@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/odd-lots-the-trilemma-behind-us-china-ai-arms-race-video",
-    "title": "Odd Lots: The “Trilemma” Behind the US-China AI Arms Race",
-    "titleZh": "奇怪的事：美中人工智慧軍備競賽背後的“三難困境”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/odd-lots-the-trilemma-behind-us-china-ai-arms-race-video",
-    "image": null,
-    "pushedAt": "2026-11-16T18:29:02.998Z"
-  },
-  {
     "id": "https://www.ft.com/content/6ff2e9ce-fade-4f0f-8591-08b765eea589",
     "title": "What the west gets wrong about AI safety in China",
     "titleZh": "西方對中國人工智慧安全的誤解",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/putin-renews-his-warm-bond-with-xi",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-PUTIN-SHENZHEN-tgbm/18trump-summits-PUTIN-SHENZHEN-tgbm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T14:16:51.579Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+    "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+    "titleZh": "歐洲五國計劃將移民驅逐至盧安達",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+    "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T14:17:20.279Z"
   }
 ]
