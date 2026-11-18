@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/15/anthropics-ipo-marks-a-new-phase-in-the-rivalry-among-ai-labs",
-    "title": "Anthropic’s IPO marks a new phase in the rivalry among AI labs",
-    "titleZh": "Anthropic 的 IPO 標誌著人工智慧實驗室競爭進入新階段",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/15/anthropics-ipo-marks-a-new-phase-in-the-rivalry-among-ai-labs",
-    "image": null,
-    "pushedAt": "2026-11-15T19:56:33.162Z"
-  },
-  {
-    "id": "https://flipso.com/p/ehfrs9r34",
-    "title": "Why did some Apollo missions carry a grenade launcher?",
-    "titleZh": "為什麼有些阿波羅任務會攜帶榴彈發射器？",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ehfrs9r34?ref=rss",
-    "image": "https://cdn.flipso.com/p/ehfrs9r34_square.jpg",
-    "pushedAt": "2026-11-17T23:02:05.239Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
-    "title": "Roughed-Up Bond Traders Eye Fedspeak, Minutes for Next Move",
-    "titleZh": "粗暴的債券交易員期待聯準會的演講和會議記錄以了解下一步行動",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
-    "image": null,
-    "pushedAt": "2026-11-16T12:41:30.645Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/airlines-work-to-restore-flights-as-faa-probes-cause-of-stoppage",
-    "title": "US Airlines Race to Recover From Longest Shutdown in Decades",
-    "titleZh": "美國聯邦航空管理局 (FAA) 調查路由器故障，航空公司努力恢復航班",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/airlines-work-to-restore-flights-as-faa-probes-cause-of-stoppage",
-    "image": null,
-    "pushedAt": "2026-11-16T07:03:45.624Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
     "title": "Can anyone fix the China-Japan relationship?",
     "titleZh": "誰能修復中日關係？",
@@ -8998,5 +8962,41 @@
     "url": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
     "image": null,
     "pushedAt": "2026-11-18T00:08:45.595Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
+    "title": "An emerging consensus on trans politics",
+    "titleZh": "關於跨性別政治的新共識",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
+    "image": null,
+    "pushedAt": "2026-11-18T00:09:12.066Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
+    "title": "How Florida withstood a blue wave",
+    "titleZh": "佛羅裡達州如何抵禦藍色浪潮",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
+    "image": null,
+    "pushedAt": "2026-11-18T00:09:14.773Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/indonesia-rate-decision-seen-as-close-call-on-weak-rupiah-growth-concerns",
+    "title": "Indonesia Rate Decision Seen as Close Call on Weak Rupiah, Growth Concerns",
+    "titleZh": "印尼利率決定被視為盧比疲軟和成長擔憂的千鈞一發",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/indonesia-rate-decision-seen-as-close-call-on-weak-rupiah-growth-concerns",
+    "image": null,
+    "pushedAt": "2026-11-18T00:09:19.516Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/japan-s-trade-gap-narrows-even-as-energy-imports-stay-elevated",
+    "title": "Japan’s Trade Gap Narrows Even as Energy Imports Stay Elevated",
+    "titleZh": "儘管能源進口持續增加，但日本的貿易逆差仍在縮小",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/japan-s-trade-gap-narrows-even-as-energy-imports-stay-elevated",
+    "image": null,
+    "pushedAt": "2026-11-18T00:09:24.068Z"
   }
 ]
