@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/colombian-president-backs-down-on-plans-to-expand-vat-amid-fiscal-crisis",
-    "title": "Colombian President Backs Down on Plans to Expand VAT Amid Fiscal Crisis",
-    "titleZh": "哥倫比亞總統在財政危機中放棄了擴大增值稅的計劃",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/colombian-president-backs-down-on-plans-to-expand-vat-amid-fiscal-crisis",
-    "image": null,
-    "pushedAt": "2026-11-16T13:49:54.946Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/thai-gdp-growth-accelerates-to-2-9-on-ai-missing-estimates",
     "title": "Thai Economy Picks Up on AI as Ekniti Warns of K-Shaped Recovery",
     "titleZh": "人工智慧推動投資和出口，泰國 GDP 成長反彈",
@@ -4497,7 +4488,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feca36a83-3540-4f68-89d7-62131f984359.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T01:16:19.001Z"
+    "pushedAt": "2026-11-18T03:34:45.582Z"
   },
   {
     "id": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/marcos-is-hosting-trump-on-grounds-where-he-spent-much-of-his-childhood",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-palace-zgqw/18trump-summits-palace-zgqw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T03:29:59.344Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/m.html",
+    "title": "Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood",
+    "titleZh": "馬可斯在川普度過大部分童年時光的地方接待他",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/m.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-palace-zgqw/18trump-summits-palace-zgqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T03:35:10.111Z"
   }
 ]
