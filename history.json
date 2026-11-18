@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/insight-with-haslinda-amin-11-16-2026-video",
-    "title": "Nvidia Fallout Puts ASEAN's Tech Boom in Focus",
-    "titleZh": "英偉達的影響讓東協科技繁榮成為焦點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/insight-with-haslinda-amin-11-16-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-16T10:45:11.764Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/the-china-show-11-16-2026-video",
     "title": "US Reportedly Eyeing Tougher Curbs on China Chip Access",
     "titleZh": "據報道美國計劃對中國晶片准入實施更嚴格的限制",
@@ -3939,7 +3930,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-ltwc/17int-russia-ukraine-bridges-ltwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:43:10.051Z"
+    "pushedAt": "2026-11-18T10:15:29.219Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/opinion/trump-iran-us-foreign-policy.html",
     "image": null,
     "pushedAt": "2026-11-18T10:15:01.445Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn",
+    "title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn",
+    "titleZh": "科技股動盪後，Anthropic 逼近 IPO 的最後障礙",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn",
+    "image": null,
+    "pushedAt": "2026-11-18T10:15:56.708Z"
   }
 ]
