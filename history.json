@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
-    "title": "Affordability or Antifascism Is a False Choice",
-    "titleZh": "負擔能力或反法西斯主義是錯誤的選擇",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/opinion/affordability-midterms-voters.html",
-    "image": null,
-    "pushedAt": "2026-11-16T15:08:35.722Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
     "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
     "titleZh": "Nvidia 醜聞引發大量人工智慧生成的表情包",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-trump-imelda-zkmt/18trump-summits-trump-imelda-zkmt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T09:57:19.785Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+    "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+    "titleZh": "隨著槓桿率和流動性的減弱，比特幣抹去了貝森特的反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+    "image": null,
+    "pushedAt": "2026-11-18T09:57:49.760Z"
   }
 ]
