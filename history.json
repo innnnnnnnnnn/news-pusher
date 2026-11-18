@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video",
-    "title": "Big Take: All Eyes on Anthropic’s IPO",
-    "titleZh": "大趨勢：所有人都在關注 Anthropic 的 IPO",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video",
-    "image": null,
-    "pushedAt": "2026-11-17T09:03:59.006Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
     "title": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
     "titleZh": "中國的回購推動股市難以支撐",
@@ -4983,7 +4974,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:47:06.385Z"
+    "pushedAt": "2026-11-18T21:20:28.451Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
@@ -6666,7 +6657,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18db-summit-bpfg/18db-summit-bpfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:47:31.495Z"
+    "pushedAt": "2026-11-18T21:20:53.340Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
@@ -7800,7 +7791,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/boe-s-bailey-says-more-rate-hikes-needed-if-iran-conflict-lasts",
     "image": null,
-    "pushedAt": "2026-11-18T18:46:14.287Z"
+    "pushedAt": "2026-11-18T21:19:37.286Z"
   },
   {
     "id": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691",
@@ -7809,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T18:46:40.991Z"
+    "pushedAt": "2026-11-18T21:20:02.243Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/was-jensen-huang-s-exit-premature-video",
@@ -8434,12 +8425,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
-    "title": "Arm CEO Rene Haas Approached by Nvidia Board’s Recruitment Firm",
+    "title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
     "titleZh": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
     "image": null,
-    "pushedAt": "2026-11-18T18:48:31.884Z"
+    "pushedAt": "2026-11-18T21:21:19.788Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/barclays-deutsche-bank-see-ai-boom-extending-dollar-strength",
     "image": null,
     "pushedAt": "2026-11-18T21:19:09.228Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/canadian-stocks-sink-to-june-low-as-metals-oil-losses-mount",
+    "title": "Canadian Stocks Sink to June Low as Metals, Oil Losses Mount",
+    "titleZh": "由於金屬和石油損失增加，加拿大股市跌至六月低點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/canadian-stocks-sink-to-june-low-as-metals-oil-losses-mount",
+    "image": null,
+    "pushedAt": "2026-11-18T21:21:47.707Z"
   }
 ]
