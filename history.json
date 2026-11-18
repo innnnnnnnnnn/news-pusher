@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
-    "title": "They Defeated a Strongman. But Can They Run a Country?",
-    "titleZh": "他們擊敗了強人。但他們能管理一個國家嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-serbia-students-01-hlvg/00int-serbia-students-01-hlvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T04:13:46.176Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
     "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
     "titleZh": "聯準會不會在 2027 年 10 月會議上舉行政策投票",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T05:41:10.975Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+    "title": "Searching for the Last Stoats of Waiheke Island",
+    "titleZh": "尋找懷赫科島最後的白鼬",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-nz-stoats-top-clpm/00int-nz-stoats-top-clpm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T05:41:38.648Z"
   }
 ]
