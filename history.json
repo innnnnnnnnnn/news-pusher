@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
-    "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
-    "titleZh": "Bessent 指責商務部未能將 Megaspeed 列入黑名單",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T04:15:34.827Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/apec-s-pedrosa-on-shenzhen-summit-expectations-video",
     "title": "APEC's Pedrosa on Shenzhen Summit Expectations",
     "titleZh": "APEC佩德羅薩談深圳峰會期待",
@@ -5118,7 +5109,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Japan-Steel_Video-still-cvbq/Biz-Japan-Steel_Video-still-cvbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T20:07:01.432Z"
+    "pushedAt": "2026-11-18T22:47:59.754Z"
   },
   {
     "id": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e",
@@ -6666,7 +6657,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T20:06:36.314Z"
+    "pushedAt": "2026-11-18T22:47:33.705Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/lp73o7fjh?ref=rss",
     "image": "https://cdn.flipso.com/p/lp73o7fjh_square.jpg",
     "pushedAt": "2026-11-18T22:47:05.419Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-tells-employees-that-company-is-moving-on-from-huang-era",
+    "title": "Nvidia Tells Employees That Company Is Moving On From Huang Era",
+    "titleZh": "英偉達告訴員工公司正在擺脫黃時代",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-tells-employees-that-company-is-moving-on-from-huang-era",
+    "image": null,
+    "pushedAt": "2026-11-18T22:48:27.171Z"
   }
 ]
