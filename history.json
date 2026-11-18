@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
-    "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
-    "titleZh": "羅伯派汀森成為亞馬遜重啟後的新詹姆士龐德",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
-    "image": null,
-    "pushedAt": "2026-11-17T19:02:56.352Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-pushing-for-new-etif-hybrid-video",
-    "title": "BlackRock Pushing For New 'ETIF' Hybrid",
-    "titleZh": "貝萊德推動新的「ETIF」混合動力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-pushing-for-new-etif-hybrid-video",
-    "image": null,
-    "pushedAt": "2026-11-16T20:05:12.854Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
     "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
     "titleZh": "大通銀行報告技術問題幹擾交易",
@@ -2319,7 +2301,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
     "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T15:41:31.382Z"
+    "pushedAt": "2026-11-18T18:21:30.597Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
@@ -6720,7 +6702,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-african-inflation-heats-up-on-eve-of-interest-rate-verdict",
     "image": null,
-    "pushedAt": "2026-11-18T15:41:06.523Z"
+    "pushedAt": "2026-11-18T18:21:04.955Z"
   },
   {
     "id": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video",
     "image": null,
     "pushedAt": "2026-11-18T18:20:37.060Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
+    "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
+    "titleZh": "馬克沃特 (Mark Walter) 保險公司的調查凸顯了監管拼湊的漏洞",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
+    "image": null,
+    "pushedAt": "2026-11-18T18:21:59.037Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
+    "title": "Fed’s Daly Urges Rate Hikes With a Thoughtful, Measured Approach",
+    "titleZh": "聯準會戴利敦促以深思熟慮、謹慎的方式升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
+    "image": null,
+    "pushedAt": "2026-11-18T18:22:05.808Z"
   }
 ]
