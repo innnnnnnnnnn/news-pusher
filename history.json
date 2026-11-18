@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
-    "title": "How Could a Router Lead to a Nationwide Ground Stop?",
-    "titleZh": "路由器如何導致全國停飛？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
-    "image": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T14:14:52.549Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/philippines-seeks-new-equilibrium-with-china-video",
-    "title": "Philippines Seeks New Equilibrium With China",
-    "titleZh": "菲律賓尋求與中國的新平衡",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/philippines-seeks-new-equilibrium-with-china-video",
-    "image": null,
-    "pushedAt": "2026-11-16T07:21:04.505Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/eqt-sees-wave-of-take-private-opportunities-in-japan-video",
     "title": "EQT Sees “Wave” of Take-Private Opportunities in Japan",
     "titleZh": "EQT 看好日本的「私有化」商機浪潮",
@@ -1401,7 +1383,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/2u4fmllp0?ref=rss",
     "image": "https://cdn.flipso.com/p/2u4fmllp0_square.jpg",
-    "pushedAt": "2026-11-18T03:42:04.086Z"
+    "pushedAt": "2026-11-18T05:59:58.692Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
@@ -4119,7 +4101,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T03:41:40.881Z"
+    "pushedAt": "2026-11-18T05:59:35.379Z"
   },
   {
     "id": "https://www.ft.com/content/f263fbf0-e0cc-48dd-b6be-d28b9ce45dd7",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-serbia-students-01-hlvg/00int-serbia-students-01-hlvg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T05:42:05.502Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
+    "title": "A tropical Chinese city is half-empty and ready for the summit.",
+    "titleZh": "一座半空的中國熱帶城市正準備登頂。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-apec-scene-fzgh/18trump-summits-apec-scene-fzgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T06:00:25.811Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-11-18T06:00:29.289Z"
   }
 ]
