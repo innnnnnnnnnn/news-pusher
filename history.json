@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
-    "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
-    "titleZh": "美國準備晶片限制之際，中國科技領袖齊聚一堂",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
-    "image": null,
-    "pushedAt": "2026-11-17T05:14:41.114Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-etfs-rise-for-2nd-week-in-982-mln-streak",
     "title": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
     "titleZh": "隨著人工智慧潰敗加深，交易員將現金投入貝萊德的印度 ETF",
@@ -1176,7 +1167,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T19:43:34.145Z"
+    "pushedAt": "2026-11-18T22:15:34.051Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/insight-with-haslinda-amin-11-17-2026-video",
@@ -4425,7 +4416,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
     "image": null,
-    "pushedAt": "2026-11-18T19:43:58.876Z"
+    "pushedAt": "2026-11-18T22:15:59.809Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
@@ -7296,7 +7287,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-genz-callout-2-fpbk/18int-genz-callout-2-fpbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T19:44:23.925Z"
+    "pushedAt": "2026-11-18T22:16:25.246Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/hyperscalers-could-learn-from-banks-on-issuance-mfs-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe4aaa5c0-ffe8-493a-bfe5-6f2f08bb81d9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-18T22:09:58.985Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html",
+    "title": "Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’",
+    "titleZh": "帕爾默·拉基警告美國面臨人工智慧威脅“不匹配”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-luckey-ctzl/18dealbook-summit-luckey-ctzl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T22:16:55.120Z"
   }
 ]
