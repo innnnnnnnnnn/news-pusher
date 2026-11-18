@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
-    "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
-    "titleZh": "紐西蘭元兌美元跌至六年低點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
-    "image": null,
-    "pushedAt": "2026-11-17T07:17:06.785Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
     "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
     "titleZh": "美國準備晶片限制之際，中國科技領袖齊聚一堂",
@@ -1833,7 +1824,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-18T19:35:52.125Z"
+    "pushedAt": "2026-11-18T22:08:39.797Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -2427,7 +2418,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "image": null,
-    "pushedAt": "2026-11-18T19:36:43.019Z"
+    "pushedAt": "2026-11-18T22:09:05.339Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation",
@@ -7800,7 +7791,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-altman-brockman-promo/18dealbook-summit-altman-brockman-promo-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-18T19:37:07.974Z"
+    "pushedAt": "2026-11-18T22:09:30.043Z"
   },
   {
     "id": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gta-america-fmvw/18int-gta-america-fmvw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T22:08:11.417Z"
+  },
+  {
+    "id": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
+    "title": "Anthropic prices blockbuster IPO at $83 a share",
+    "titleZh": "Anthropic 將重磅 IPO 定價為每股 83 美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe4aaa5c0-ffe8-493a-bfe5-6f2f08bb81d9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T22:09:58.985Z"
   }
 ]
