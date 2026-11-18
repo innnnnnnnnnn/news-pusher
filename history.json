@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/uk-migration-advisers-reject-call-for-investor-visa",
-    "title": "UK Migration Advisers Reject Call for Investor Visa",
-    "titleZh": "英國移民顧問拒絕投資者簽證要求",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/uk-migration-advisers-reject-call-for-investor-visa",
-    "image": null,
-    "pushedAt": "2026-11-17T11:40:14.365Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
     "title": "China AI Stocks Drop as US Chip Curbs Hit Labs and Hyperscalers",
     "titleZh": "美國對中國運算存取設定新限制，晶片股下跌",
@@ -5730,7 +5721,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T18:55:10.704Z"
+    "pushedAt": "2026-11-18T21:28:40.321Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
     "image": null,
     "pushedAt": "2026-11-18T21:28:12.337Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b",
+    "title": "US and Venezuela to expand military co-operation to target drug trafficking",
+    "titleZh": "美國和委內瑞拉擴大軍事合作打擊販毒",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f646150-9611-4914-a6fa-4748e4c59e88.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T21:29:10.692Z"
   }
 ]
