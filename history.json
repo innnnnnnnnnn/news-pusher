@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/pictet-adds-japan-stocks-in-diversification-push-after-midterms",
-    "title": "Pictet Adds Japan Stocks in Diversification Push After Midterms",
-    "titleZh": "百達集團在中期選舉後加入日本股票以推動多元化",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/pictet-adds-japan-stocks-in-diversification-push-after-midterms",
-    "image": null,
-    "pushedAt": "2026-11-16T01:34:00.235Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
     "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
     "titleZh": "在蘇富比，冒險讓價值 1.8 億美元的梵谷陷入困境",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-china-xi-apec-01-hbcz/18int-china-xi-apec-01-hbcz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T00:14:56.377Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+    "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+    "titleZh": "Anthropic 的大規模 IPO 為 OpenAI 帶來了熱度",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+    "image": null,
+    "pushedAt": "2026-11-18T00:15:23.361Z"
   }
 ]
