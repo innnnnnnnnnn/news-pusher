@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
-    "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
-    "titleZh": "在蘇富比，冒險讓價值 1.8 億美元的梵谷陷入困境",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-cul-van-gogh-chestnut-print01-pjwl/15int-cul-van-gogh-chestnut-print01-pjwl-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-15T23:28:26.811Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
     "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
     "titleZh": "約旦因希臘東正教教堂襲擊事件判處 3 人死刑",
@@ -2508,7 +2499,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-17T21:54:52.833Z"
+    "pushedAt": "2026-11-18T00:15:49.617Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-delaying-some-deals-moynihan-says-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
     "pushedAt": "2026-11-18T00:15:23.361Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+    "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China",
+    "titleZh": "英偉達臨時執行長表示不再向中國出口人工智慧晶片",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+    "image": null,
+    "pushedAt": "2026-11-18T00:16:16.039Z"
   }
 ]
