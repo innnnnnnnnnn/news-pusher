@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
-    "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "titleZh": "聯準會主席強調人工智慧的經濟不確定性繁榮",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T15:51:06.169Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
     "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
     "titleZh": "蘋果將允許用戶透過臉部解鎖 iPhone Duo，解決主要缺陷",
@@ -3057,7 +3048,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-18T14:23:56.681Z"
+    "pushedAt": "2026-11-18T17:02:22.217Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/adler-s-ex-legal-chief-settles-criminal-case-amid-ongoing-probe",
     "image": null,
     "pushedAt": "2026-11-18T17:01:53.129Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal",
+    "title": "Thoma Bravo’s Proofpoint Cuts Costs on $2 Billion Debt Deal",
+    "titleZh": "Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易的成本",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal",
+    "image": null,
+    "pushedAt": "2026-11-18T17:02:50.044Z"
   }
 ]
