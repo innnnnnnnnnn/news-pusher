@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount",
-    "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount",
-    "titleZh": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount",
-    "image": null,
-    "pushedAt": "2026-11-17T07:13:32.010Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
     "title": "Why Robert Pattinson Could Be a Great James Bond",
     "titleZh": "為什麼羅伯派汀森可以成為偉大的詹姆士龐德",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
     "pushedAt": "2026-11-18T19:33:39.903Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+    "title": "Trump Inc is in free fall",
+    "titleZh": "川普公司正在自由落體",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+    "image": null,
+    "pushedAt": "2026-11-18T19:34:08.465Z"
   }
 ]
