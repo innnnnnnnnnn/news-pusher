@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-    "title": "Microsoft Says Outage Disrupting Outlook Is Improving",
-    "titleZh": "微軟表示 Outlook 中斷情況正在改善",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:32:12.460Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
     "title": "BlackRock Sees Risk of AI Buildout 'Slowdown' Impacting US Growth",
     "titleZh": "貝萊德認為人工智慧「放緩」的風險影響美國經濟成長（影片）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/business/retromobile-classic-car-show-nyc.html",
     "image": null,
     "pushedAt": "2026-11-18T09:47:49.514Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
+    "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
+    "titleZh": "蘋果在視訊播客熱潮中姍姍來遲。現在它正在努力追趕。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-18T09:48:17.903Z"
   }
 ]
