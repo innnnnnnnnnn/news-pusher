@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8919e96e-df3d-41b8-99fa-b8ebcab5e99a",
-    "title": "Tiny quant fund joins UK tax giants",
-    "titleZh": "小型量化基金加入英國稅務巨頭行列",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8919e96e-df3d-41b8-99fa-b8ebcab5e99a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-16T20:06:06.092Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/uk-rate-hike-bets-are-picking-up-with-key-inflation-data-due",
     "title": "UK Rate-Hike Bets Are Picking Up With Key Inflation Data Due",
     "titleZh": "隨著關鍵通膨數據到期，英國升息押注正在升溫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18a2_insider-ny-at-work-pmcb/18a2_insider-ny-at-work-pmcb-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-18T08:06:35.879Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-banks-seek-chip-curbs-clause-on-loan-to-bain-data-center-firm",
+    "title": "US Banks Seek Chip-Curbs Clause on Loan to Bain Data Center Firm",
+    "titleZh": "美國銀行尋求向貝恩資料中心公司提供貸款的晶片限制條款",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-banks-seek-chip-curbs-clause-on-loan-to-bain-data-center-firm",
+    "image": null,
+    "pushedAt": "2026-11-18T08:07:06.258Z"
   }
 ]
