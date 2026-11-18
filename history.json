@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/8x0pfylzb",
-    "title": "Research taste in history: the importance of learning Sumerian math",
-    "titleZh": "歷史研究品味：學習蘇美數學的重要性",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/8x0pfylzb?ref=rss",
-    "image": "https://cdn.flipso.com/p/8x0pfylzb_square.jpg",
-    "pushedAt": "2026-11-18T01:03:21.386Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup",
-    "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
-    "titleZh": "英偉達 CEO 搜尋因 Bessent 呼籲「改組」而引發爭議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup",
-    "image": null,
-    "pushedAt": "2026-11-16T10:47:22.520Z"
-  },
-  {
     "id": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135",
     "title": "Johnson & Johnson buys eye disease biotech for up to $3.3bn",
     "titleZh": "強生擬斥資 34 億美元收購眼疾生技公司",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
     "image": null,
     "pushedAt": "2026-11-18T01:41:33.338Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand",
+    "title": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
+    "titleZh": "由於記憶體晶片成本影響小工具需求，鈷的前景黯淡",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand",
+    "image": null,
+    "pushedAt": "2026-11-18T01:45:36.411Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/quant-trader-graviton-expands-office-space-in-india-singapore",
+    "title": "Quant Trader Graviton Expands Office Space in India, Singapore",
+    "titleZh": "Quant Trader Graviton 擴大在印度和新加坡的辦公空間",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/quant-trader-graviton-expands-office-space-in-india-singapore",
+    "image": null,
+    "pushedAt": "2026-11-18T01:45:40.597Z"
   }
 ]
