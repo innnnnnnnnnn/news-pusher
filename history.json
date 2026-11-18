@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-short-sellers-reap-24-billion-as-stock-extends-slide",
-    "title": "Nvidia Short Sellers Reap $24 Billion as Stock Extends Slide",
-    "titleZh": "英偉達股價持續下滑，賣空者獲利 240 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-short-sellers-reap-24-billion-as-stock-extends-slide",
-    "image": null,
-    "pushedAt": "2026-11-17T06:54:06.602Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/jetblue-rushes-to-calm-workers-spooked-by-bankruptcy-fears",
-    "title": "JetBlue Rushes to Calm Workers Spooked by Bankruptcy Fears",
-    "titleZh": "捷藍航空緊急安撫因破產憂慮而驚恐的員工",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/jetblue-rushes-to-calm-workers-spooked-by-bankruptcy-fears",
-    "image": null,
-    "pushedAt": "2026-11-16T22:01:09.622Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
     "title": "Trump Inc is in free fall",
     "titleZh": "川普公司正在自由落體",
@@ -6603,7 +6585,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28c44b38-32a5-4366-bc07-4fb8626b9b19.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T16:51:30.812Z"
+    "pushedAt": "2026-11-18T19:28:24.701Z"
   },
   {
     "id": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/need-accountability-transparency-in-faa-funding-capito-video",
     "image": null,
     "pushedAt": "2026-11-18T19:27:55.624Z"
+  },
+  {
+    "id": "https://www.ft.com/content/877e946c-606c-4f8c-baa1-ea07b0f67e4c",
+    "title": "Hybrid theory prevailed at the FT Alphaville Pub Quiz in New York City",
+    "titleZh": "混合理論盛行",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/877e946c-606c-4f8c-baa1-ea07b0f67e4c",
+    "image": null,
+    "pushedAt": "2026-11-18T19:28:52.842Z"
+  },
+  {
+    "id": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb",
+    "title": "BAE set to cut more than 1,000 jobs",
+    "titleZh": "BAE計劃裁員1000多人",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T19:28:57.582Z"
   }
 ]
