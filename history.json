@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
-    "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-    "titleZh": "紐西蘭出現兩年來最好的季度人口成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
-    "image": null,
-    "pushedAt": "2026-11-17T05:41:24.219Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
     "title": "The Enraging Hypocrisy at the Heart of the Nvidia Scandal",
     "titleZh": "英偉達醜聞揭露政府願意背叛美國",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-one-opening-address-video",
     "image": null,
     "pushedAt": "2026-11-18T21:50:02.675Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a",
+    "title": "Russian accused of spying on Palantir over assistance to Ukraine",
+    "titleZh": "俄羅斯被指控因向烏克蘭提供援助而監視 Palantir",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T21:50:33.372Z"
   }
 ]
