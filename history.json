@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/goldman-warns-oil-market-faces-sizable-2027-surplus-video",
-    "title": "Goldman Warns Oil Market Faces ‘Sizable’ 2027 Surplus",
-    "titleZh": "高盛警告石油市場2027年將面臨「大規模」過剩",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/goldman-warns-oil-market-faces-sizable-2027-surplus-video",
-    "image": null,
-    "pushedAt": "2026-11-16T13:53:06.947Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/the-pulse-with-francine-lacqua-11-16-2026-video",
-    "title": "Trump, Xi, Putin To Meet as Jensen Huang Reportedly Eyes Nvidia Comeback",
-    "titleZh": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-pulse-with-francine-lacqua-11-16-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-16T16:26:48.785Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-ipo-tests-whether-ai-models-can-rival-nvidia-s-rich-valuation",
-    "title": "Anthropic IPO Tests Whether AI Models Can Rival Nvidia’s Rich Valuation",
-    "titleZh": "Anthropic IPO 測試人工智慧模型能否與英偉達的高估值相媲美",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-ipo-tests-whether-ai-models-can-rival-nvidia-s-rich-valuation",
-    "image": null,
-    "pushedAt": "2026-11-16T16:28:56.777Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/flagship-s-afeyan-sees-uk-bet-creating-next-moderna-video",
-    "title": "Flagship’s Afeyan Sees UK Bet Creating Next Moderna",
-    "titleZh": "Flagship 的 Afeyan 認為英國將打造下一個 Moderna",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/flagship-s-afeyan-sees-uk-bet-creating-next-moderna-video",
-    "image": null,
-    "pushedAt": "2026-11-16T16:37:14.320Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/william-and-kate-begin-india-tour-with-cricket-and-climate",
-    "title": "William and Kate Begin India Tour With Cricket and Climate",
-    "titleZh": "威廉和凱特以板球和氣候開始印度之旅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/william-and-kate-begin-india-tour-with-cricket-and-climate",
-    "image": null,
-    "pushedAt": "2026-11-16T11:38:52.308Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/why-hong-kong-developer-new-world-is-struggling-with-debt",
     "title": "Why Hong Kong Developer New World Is Struggling With Debt",
     "titleZh": "香港開發商新世界為何陷入債務困境",
@@ -8052,7 +8007,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T08:36:11.376Z"
+    "pushedAt": "2026-11-18T11:04:46.409Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
@@ -8998,5 +8953,50 @@
     "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
     "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T11:03:49.149Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html",
+    "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska’s Senate Race",
+    "titleZh": "科技中斷擾亂美國，民主黨贏得阿拉斯加參議院競選",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18theheadlines-rubio-ztpl/18theheadlines-rubio-ztpl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T11:05:14.222Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+    "title": "Grand Theft Auto VI Review: It Will Steal Your Heart",
+    "titleZh": "俠盜獵車手 VI 評論：它會偷走你的心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+    "image": null,
+    "pushedAt": "2026-11-18T11:05:17.638Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-miami-florida.html",
+    "title": "The Real-Life City That Inspires Grand Theft Auto VI",
+    "titleZh": "為《俠盜獵車手 VI》提供靈感的現實城市",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-miami-florida.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-gta-florida-print-jqmt/22cul-gta-florida-print-jqmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T11:05:23.244Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
+    "title": "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds",
+    "titleZh": "美國人工智慧研究發現，模型有可能被用來對抗美國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-aiterror-cblz/18dc-aiterror-cblz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-18T11:05:26.654Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
+    "title": "How the Measles Virus Makes Your Immune System Forget",
+    "titleZh": "麻疹病毒如何讓您的免疫系統忘記",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
+    "image": null,
+    "pushedAt": "2026-11-18T11:05:32.275Z"
   }
 ]
