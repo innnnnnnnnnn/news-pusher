@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-    "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
-    "titleZh": "關於《紐約時報》新聞和人工智慧，你想了解什麼？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-    "image": "https://static01.nyt.com/images/2021/04/22/business/trust-aicallout/22NYT-TECH-01-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T09:30:29.025Z"
-  },
-  {
     "id": "https://flipso.com/p/t5lh7g4zl",
     "title": "Climate-displaced community in Mexico struggles to adapt after relocation",
     "titleZh": "墨西哥因氣候變遷而流離失所的社區在搬遷後難以適應",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/45fcd5a0-54d2-4178-ac05-0171ae8b5a35?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T05:35:47.913Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e",
+    "title": "Japan’s economy contracts for the first time in a year",
+    "titleZh": "日本經濟一年來首次出現收縮",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T05:36:15.296Z"
   }
 ]
