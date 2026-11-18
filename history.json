@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bd65d6e0-3ecb-498c-b684-c7e4c782a0ae",
-    "title": "CVC plans to back out of Italian deal with Advent, triggering potential legal clash",
-    "titleZh": "CVC 計劃退出義大利與 Advent 的交易，引發潛在的法律衝突",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bd65d6e0-3ecb-498c-b684-c7e4c782a0ae?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T08:23:43.060Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
     "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
     "titleZh": "川普政府旨在打擊人工智慧晶片漏洞",
@@ -6162,7 +6153,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18a2_insider-ny-at-work-pmcb/18a2_insider-ny-at-work-pmcb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-18T18:18:44.653Z"
+    "pushedAt": "2026-11-18T20:48:44.202Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-banks-seek-chip-curbs-clause-on-loan-to-bain-data-center-firm",
@@ -6773,8 +6764,8 @@
     "titleZh": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1138e74b-c384-42ba-9edd-c17c8beb4546?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feaacbba1-4ea1-4aae-9276-a960991a22b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T18:19:17.925Z"
+    "image": null,
+    "pushedAt": "2026-11-18T20:49:09.533Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
     "image": null,
-    "pushedAt": "2026-11-18T18:17:51.248Z"
+    "pushedAt": "2026-11-18T20:48:18.799Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share",
     "image": null,
     "pushedAt": "2026-11-18T20:47:49.234Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/seeing-more-asset-management-consolidation-nachmann-video",
+    "title": "Seeing More Asset-Management Consolidation: Goldman’s Nachmann",
+    "titleZh": "看到更多的資產管理整合：高盛的納赫曼",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/seeing-more-asset-management-consolidation-nachmann-video",
+    "image": null,
+    "pushedAt": "2026-11-18T20:49:39.190Z"
   }
 ]
