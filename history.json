@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/gsa-buys-600-million-student-housing-portfolio-from-sanctuary",
-    "title": "GSA, Calpers Buy £600 Million Student Housing Portfolio",
-    "titleZh": "GSA 從 Sanctuary 購買價值 6 億英鎊的學生住房組合",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/gsa-buys-600-million-student-housing-portfolio-from-sanctuary",
-    "image": null,
-    "pushedAt": "2026-11-16T18:37:24.797Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-    "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-    "titleZh": "對伊朗飛彈發射場的空襲可能揭示建造水壩的合理性",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T15:11:51.260Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs",
-    "title": "Fed’s Barr Says AI Agents Could Fuel Future Bank Runs",
-    "titleZh": "聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs",
-    "image": null,
-    "pushedAt": "2026-11-16T15:13:41.621Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/denmark-s-leo-pharma-delays-ipo-plans-beyond-2026-ceo-says",
-    "title": "Denmark’s Leo Pharma Delays IPO Plans Beyond 2026, CEO Says",
-    "titleZh": "丹麥 Leo Pharma 執行長表示將 IPO 計畫推遲到 2026 年後",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/denmark-s-leo-pharma-delays-ipo-plans-beyond-2026-ceo-says",
-    "image": null,
-    "pushedAt": "2026-11-16T12:42:21.149Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
     "title": "Paul Barril, French ‘Supergendarme’ Turned Mercenary, Has Died",
     "titleZh": "法國「超級憲兵」變身僱傭兵保羅·巴里爾去世",
@@ -2175,7 +2139,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/r3hx4i0t8?ref=rss",
     "image": "https://cdn.flipso.com/p/r3hx4i0t8_square.jpg",
-    "pushedAt": "2026-11-18T07:38:06.996Z"
+    "pushedAt": "2026-11-18T10:07:50.431Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
@@ -4677,7 +4641,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-trade-deal-with-thailand-is-not-a-done-deal",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-thailand-trade-vzqk/17trump-summits-thailand-trade-vzqk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:37:41.269Z"
+    "pushedAt": "2026-11-18T10:07:25.556Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker",
@@ -8070,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ed1a39b6-15fc-45f5-8b31-2fe24a7cfa6b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T07:37:16.295Z"
+    "pushedAt": "2026-11-18T10:07:00.556Z"
   },
   {
     "id": "https://www.ft.com/content/7aea68e4-0164-4324-b66f-43ab1a24337d",
@@ -8998,5 +8962,41 @@
     "url": "https://www.ft.com/content/8eab26fa-ca90-42b7-9158-7aa5368bc758?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T10:06:32.490Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+    "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+    "titleZh": "情報稱，儘管計劃與川普會面，普丁仍將繼續烏克蘭戰爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/18dc-trump-putin/28int-ukraine-pipes-grid-hp-02-mgvl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T10:08:19.016Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "title": "What to Know About the Myanmar Genocide Case at the World Court",
+    "titleZh": "關於世界法院緬甸種族滅絕案的了解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-myanmar-icj-wtk-mtwg/18int-myanmar-icj-wtk-mtwg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T10:08:25.328Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+    "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+    "titleZh": "鮑里斯·格雷本什奇科夫（Boris Grebenshchikov），一位「需要反叛」的俄羅斯搖滾音樂家",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/world/13russia-musician-profle/13russia-musician-profle-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T10:08:28.581Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+    "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+    "titleZh": "選民正在懲罰獨裁者。但許多人仍然擁抱它們。為什麼？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11authoritarian-heirarchy-01-vctz/11authoritarian-heirarchy-01-vctz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T10:08:32.065Z"
   }
 ]
