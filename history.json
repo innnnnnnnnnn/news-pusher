@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/1e16i9wl8",
-    "title": "How do you Wash a Kimono?",
-    "titleZh": "如何洗和服？",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/1e16i9wl8?ref=rss",
-    "image": "https://cdn.flipso.com/p/1e16i9wl8_square.jpg",
-    "pushedAt": "2026-11-18T01:32:06.037Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/coal-india-unit-mcl-seeks-as-much-as-953-million-in-mumbai-ipo",
     "title": "Coal India Unit MCL Seeks as Much as $953 Million in Mumbai IPO",
     "titleZh": "印度煤炭公司 MCL 在孟買 IPO 尋求高達 9.53 億美元的融資",
@@ -3642,7 +3633,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-faa-pilots-lqjw/16biz-faa-pilots-lqjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T01:32:29.538Z"
+    "pushedAt": "2026-11-18T03:51:00.043Z"
   },
   {
     "id": "https://www.ft.com/content/d6a8f196-fe95-4480-9c36-283b79b7cf33",
@@ -6152,8 +6143,8 @@
     "titleZh": "伊朗攻擊位於巴林的美國空軍基地",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4f67513a-c12e-4a9b-88bb-cff373f466b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T01:31:42.203Z"
+    "image": null,
+    "pushedAt": "2026-11-18T03:50:12.238Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
     "image": null,
     "pushedAt": "2026-11-18T03:49:46.177Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025",
+    "title": "South Korea’s Household Loan Growth Slows to Lowest Since 2025",
+    "titleZh": "韓國家庭貸款增速放緩至 2025 年以來最低水平",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025",
+    "image": null,
+    "pushedAt": "2026-11-18T03:51:25.346Z"
   }
 ]
