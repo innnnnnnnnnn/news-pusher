@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year",
-    "title": "Global Banks Back AI-Linked Asia Currencies to Lead Next Year",
-    "titleZh": "全球銀行看好與人工智慧相關的亞洲貨幣將在明年領漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year",
-    "image": null,
-    "pushedAt": "2026-11-16T13:48:10.763Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
-    "title": "ECB’s Vujcic Warns AI and High Debt Threaten Financial Stability",
-    "titleZh": "歐洲央行武伊契奇警告人工智慧和高債務威脅金融穩定",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability",
-    "image": null,
-    "pushedAt": "2026-11-16T23:29:41.269Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/how-china-plans-to-turn-its-factories-green-video",
     "title": "How China Plans to Turn Its Factories Green",
     "titleZh": "中國如何規劃讓工廠轉型為綠色工廠",
@@ -7350,7 +7332,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
     "image": null,
-    "pushedAt": "2026-11-18T06:33:16.039Z"
+    "pushedAt": "2026-11-18T09:04:31.872Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
@@ -7359,7 +7341,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
     "image": null,
-    "pushedAt": "2026-11-18T06:33:39.455Z"
+    "pushedAt": "2026-11-18T09:04:56.626Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
@@ -7872,7 +7854,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/rubio-says-recent-us-tech-outages-unrelated-not-hostile-acts",
     "image": null,
-    "pushedAt": "2026-11-18T06:34:03.095Z"
+    "pushedAt": "2026-11-18T09:05:22.705Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/japan-panel-said-to-warn-takaichi-that-market-trust-is-paramount",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/pfg7lsyqk?ref=rss",
     "image": "https://cdn.flipso.com/p/pfg7lsyqk_square.jpg",
     "pushedAt": "2026-11-18T08:58:50.161Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1",
+    "title": "Trump arrives in China ahead of summit with Putin and Xi",
+    "titleZh": "川普在與普丁和習近平舉行峰會前抵達中國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T09:05:49.716Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9",
+    "title": "AI debt spree has ‘historic parallels’ with subprime bubble, says ECB",
+    "titleZh": "歐洲央行表示，人工智慧債務熱潮與次貸泡沫具有“歷史相似之處”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T09:05:54.141Z"
   }
 ]
