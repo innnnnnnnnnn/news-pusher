@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/spain-hopes-for-quick-deal-on-de-cos-as-next-ecb-president",
-    "title": "Spain Hopes for Quick Deal on De Cos as Next ECB President",
-    "titleZh": "西班牙希望盡快就德科斯出任下一任歐洲央行行長一致",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/spain-hopes-for-quick-deal-on-de-cos-as-next-ecb-president",
-    "image": null,
-    "pushedAt": "2026-11-17T10:58:10.037Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/think-twice-bloomberg-s-new-daily-trivia-game-video",
     "title": "Think Twice, Bloomberg’s New Daily Trivia Game",
     "titleZh": "三思而後行，彭博社的新每日問答遊戲",
@@ -7881,7 +7872,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-labor-market-shows-signs-of-revival-as-job-postings-rise",
     "image": null,
-    "pushedAt": "2026-11-18T12:45:39.301Z"
+    "pushedAt": "2026-11-18T15:21:28.387Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
@@ -7890,7 +7881,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
     "image": null,
-    "pushedAt": "2026-11-18T12:46:35.899Z"
+    "pushedAt": "2026-11-18T15:22:19.171Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
@@ -7908,7 +7899,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
     "image": null,
-    "pushedAt": "2026-11-18T12:47:28.305Z"
+    "pushedAt": "2026-11-18T15:22:45.346Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/opinion/trump-iran-us-foreign-policy.html",
@@ -8434,12 +8425,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-    "title": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
+    "title": "Stocks Waver After Nvidia Results as Anthropic IPO Test Looms",
     "titleZh": "英偉達業績緩解人工智慧貿易擔憂，美國股指期貨上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
     "image": null,
-    "pushedAt": "2026-11-18T12:46:06.489Z"
+    "pushedAt": "2026-11-18T15:21:53.913Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/the-opening-trade-11-18-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/iran-has-targeted-us-energy-and-finance-networks-mullin-says",
     "image": null,
     "pushedAt": "2026-11-18T15:20:59.608Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
+    "title": "Fans Flock to This Famous Sign. Neighbors Say, Get Off My Road.",
+    "titleZh": "粉絲們湧向這個著名的標誌。鄰居說，別走我的路。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T15:23:13.288Z"
   }
 ]
