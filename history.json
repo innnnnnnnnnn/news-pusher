@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-    "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
-    "titleZh": "儘管美國鎮壓，美國公雞仍在菲律賓打架",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-roosters-gztb/00xp-roosters-gztb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T12:11:05.508Z"
-  },
-  {
     "id": "https://www.ft.com/content/2c96466e-a37d-42b3-b5e7-a617bfa31666",
     "title": "ANC fights for power in South Africa’s cities after election drubbing",
     "titleZh": "選舉慘敗後，非洲人國民大會在南非各城市爭奪權力",
@@ -4875,7 +4866,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summit-ledeall-01-gcjb/17trump-summit-ledeall-01-gcjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T11:14:15.932Z"
+    "pushedAt": "2026-11-18T13:51:54.768Z"
   },
   {
     "id": "https://flipso.com/p/pw3n037mu",
@@ -6999,7 +6990,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-warns-of-risks-to-ai-demand-as-quarterly-growth-beats-initial-estimates",
     "image": null,
-    "pushedAt": "2026-11-18T11:15:31.904Z"
+    "pushedAt": "2026-11-18T13:52:20.066Z"
   },
   {
     "id": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240",
@@ -7008,7 +6999,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32e6fd6c-2484-4446-afd0-717f50fe7e2c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T11:16:26.443Z"
+    "pushedAt": "2026-11-18T13:53:11.439Z"
   },
   {
     "id": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a",
@@ -7768,12 +7759,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push",
-    "title": "Tencent’s AI Spending Squeezes Profit While Revenue Disappoints",
+    "title": "Tencent’s Profit Squeeze Exposes China’s AI Spending Dilemma",
     "titleZh": "方正人工智慧推動受挫，騰訊銷售額未達預期",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push",
     "image": null,
-    "pushedAt": "2026-11-18T11:13:50.979Z"
+    "pushedAt": "2026-11-18T13:51:29.219Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/eurobank-to-buy-65-stake-in-bulgaria-s-fibank-for-650-million",
@@ -8475,7 +8466,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/crypto-futures-point-to-a-big-pop-for-anthropic-stock",
     "image": null,
-    "pushedAt": "2026-11-18T11:15:57.484Z"
+    "pushedAt": "2026-11-18T13:52:45.830Z"
   },
   {
     "id": "https://www.ft.com/content/126e72a1-cde1-4f21-8494-6db7f8a1cb0a",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-killer-robots-cfgz/16int-killer-robots-cfgz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T13:48:26.010Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/more-us-lng-cargoes-divert-to-europe-in-relief-for-tight-market",
+    "title": "More US LNG Cargoes Divert to Europe in Relief for Tight Market",
+    "titleZh": "更多美國液化天然氣貨物轉向歐洲以緩解市場緊張",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/more-us-lng-cargoes-divert-to-europe-in-relief-for-tight-market",
+    "image": null,
+    "pushedAt": "2026-11-18T13:53:38.794Z"
   }
 ]
