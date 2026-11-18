@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/business/media/pentagon-media-restrictions-court-hearing.html",
-    "title": "Appeals Court Weighs Pentagon’s Media Restrictions",
-    "titleZh": "上訴法院權衡五角大廈的媒體限制",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/business/media/pentagon-media-restrictions-court-hearing.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-pentagon-press-ban-lqkh/16biz-pentagon-press-ban-lqkh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:40:12.530Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video",
     "title": "Big Take: All Eyes on Anthropic’s IPO",
     "titleZh": "大趨勢：所有人都在關注 Anthropic 的 IPO",
@@ -8430,7 +8421,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:45:46.148Z"
+    "pushedAt": "2026-11-18T21:18:16.230Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-rivals-seek-its-tech-through-m-a-vc-mullin-video",
     "image": null,
     "pushedAt": "2026-11-18T21:17:48.308Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/barclays-deutsche-bank-see-ai-boom-extending-dollar-strength",
+    "title": "Barclays, Deutsche Bank See AI Boom Extending Dollar Strength",
+    "titleZh": "巴克萊銀行和德意志銀行認為人工智慧的繁榮將擴大美元的強勢",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/barclays-deutsche-bank-see-ai-boom-extending-dollar-strength",
+    "image": null,
+    "pushedAt": "2026-11-18T21:19:09.228Z"
   }
 ]
