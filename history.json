@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/ai-and-24-hour-trading-test-rules-governing-currency-markets",
-    "title": "AI and 24-Hour Trading Test Rules Governing Currency Markets",
-    "titleZh": "人工智慧和24小時交易測試規則管理貨幣市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ai-and-24-hour-trading-test-rules-governing-currency-markets",
-    "image": null,
-    "pushedAt": "2026-11-16T19:51:24.112Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
     "title": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders",
     "titleZh": "Tradeweb 正在為美國國債交易員推出人工智慧助手",
@@ -8412,7 +8403,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
     "image": null,
-    "pushedAt": "2026-11-18T15:36:14.934Z"
+    "pushedAt": "2026-11-18T18:15:14.841Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/recent-tech-outages-disruptions-not-related-us-says-video",
     "image": null,
     "pushedAt": "2026-11-18T18:14:46.271Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+    "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+    "titleZh": "紐約市、洛杉磯市和芝加哥學區正在考慮與人工智慧搜尋分道揚鑣",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T18:15:46.616Z"
   }
 ]
