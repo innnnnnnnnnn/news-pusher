@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
-    "title": "Athleisure Faces Price Pressures",
-    "titleZh": "運動休閒面臨價格壓力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
-    "image": null,
-    "pushedAt": "2026-11-16T19:41:22.594Z"
-  },
-  {
     "id": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc",
     "title": "Russia’s richest woman hit by EU sanctions",
     "titleZh": "俄羅斯女首富遭遇歐盟制裁",
@@ -8447,8 +8438,8 @@
     "titleZh": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T13:03:04.106Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe13c88c4-9e60-43cc-addb-3f81919db693.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T15:36:43.858Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/edward-yardeni-on-ai-trade-normal-for-longer-rates-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
     "image": null,
     "pushedAt": "2026-11-18T15:36:14.934Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
+    "title": "Just how central should one person be to an organisation?",
+    "titleZh": "一個人對於一個組織應該有多重要？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
+    "image": null,
+    "pushedAt": "2026-11-18T15:37:10.526Z"
   }
 ]
