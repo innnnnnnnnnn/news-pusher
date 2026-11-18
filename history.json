@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-earnings-to-test-ai-boom-as-hike-looms-video",
-    "title": "Nvidia Earnings to Test AI Boom as Hike Looms",
-    "titleZh": "隨著健行的臨近，英偉達的獲利測試了人工智慧的繁榮",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-earnings-to-test-ai-boom-as-hike-looms-video",
-    "image": null,
-    "pushedAt": "2026-11-16T19:05:15.394Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
     "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
     "titleZh": "英偉達 CEO 搜尋因 Bessent 的人事變動而引起關注",
@@ -5639,8 +5630,8 @@
     "titleZh": "海灣地區的震驚和恐懼",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17friedman-vmzk/17friedman-vmzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T09:40:00.850Z"
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17friedman-vmzk/17friedman-vmzk-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-18T15:04:40.402Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/turkey-slaps-main-erdogan-rival-imamoglu-with-political-ban",
     "image": null,
     "pushedAt": "2026-11-18T15:04:11.880Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-pending-home-sales-fall-to-new-record-low-on-high-rates",
+    "title": "US Pending Home Sales Fall to New Record Low on High Rates",
+    "titleZh": "由於高利率，美國待售房屋銷售量跌至歷史新低",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-pending-home-sales-fall-to-new-record-low-on-high-rates",
+    "image": null,
+    "pushedAt": "2026-11-18T15:05:33.499Z"
   }
 ]
