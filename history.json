@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
-    "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
-    "titleZh": "美國的全球健康援助並未消亡。它正在改變。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:19:21.576Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/europe-s-top-pork-producer-ousts-ceo-amid-slump-restructuring",
     "title": "Europe’s Top Pork Producer Ousts CEO Amid Slump, Restructuring",
     "titleZh": "歐洲頂級豬肉生產商在經濟衰退和重組中罷免首席執行官",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T09:45:42.799Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+    "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+    "titleZh": "隨著俄羅斯的無情打擊，烏克蘭的冬季噩夢提前來臨",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-ukraine-winter-01-cjfl/16int-ukraine-winter-01-cjfl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T09:46:10.797Z"
   }
 ]
