@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
-    "title": "International Students Are Turning Away From U.S. Universities",
-    "titleZh": "國際學生正在遠離美國大學",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T20:21:07.313Z"
-  },
-  {
     "id": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b",
     "title": "US allies sign accord to keep China out of AI supply chains",
     "titleZh": "美國盟友簽署協議，將中國排除在人工智慧供應鏈之外",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F81b65284-be6f-4b4a-a09a-91013b6b7db5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-18T06:07:44.174Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855",
+    "title": "FirstFT: Jensen Huang talks about Nvidia comeback with allies",
+    "titleZh": "FirstFT：黃仁勳與盟友談論英偉達的復興",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T06:08:11.902Z"
   }
 ]
