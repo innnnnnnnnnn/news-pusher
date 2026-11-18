@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/stock-selloff-intensifies-closing-bell-video",
-    "title": "Stock Selloff Intensifies | Closing Bell",
-    "titleZh": "股票拋售加劇|結束鐘聲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/stock-selloff-intensifies-closing-bell-video",
-    "image": null,
-    "pushedAt": "2026-11-16T21:51:18.722Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/ex-bank-of-canada-deputy-beaudry-weighs-applying-for-governor",
     "title": "Ex-Bank of Canada Deputy Beaudry Weighs Applying for Governor",
     "titleZh": "加拿大央行前副行長博德里考慮申請總裁",
@@ -1770,7 +1761,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-trump-marcos-kvfb/17trump-summits-trump-marcos-kvfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:47:42.265Z"
+    "pushedAt": "2026-11-18T19:23:48.502Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
@@ -7881,7 +7872,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
     "image": null,
-    "pushedAt": "2026-11-18T16:46:26.879Z"
+    "pushedAt": "2026-11-18T19:23:23.839Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
@@ -7890,7 +7881,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
     "image": null,
-    "pushedAt": "2026-11-18T16:48:32.117Z"
+    "pushedAt": "2026-11-18T19:24:13.767Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-mortgage-rates-increase-for-first-time-in-five-weeks",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/opinion-is-anthropic-overvalued-video",
     "image": null,
     "pushedAt": "2026-11-18T19:22:55.630Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
+    "title": "The return of measles in America",
+    "titleZh": "麻疹在美國捲土重來",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
+    "image": null,
+    "pushedAt": "2026-11-18T19:24:43.926Z"
   }
 ]
