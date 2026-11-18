@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-    "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-    "titleZh": "黃仁勳的女兒麥迪遜·黃 (Madison Huang) 成為 Nvidia 的一股強大力量",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-17T13:46:14.452Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/business/media/pentagon-media-restrictions-court-hearing.html",
     "title": "Appeals Court Weighs Pentagon’s Media Restrictions",
     "titleZh": "上訴法院權衡五角大廈的媒體限制",
@@ -2409,7 +2400,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T18:45:15.455Z"
+    "pushedAt": "2026-11-18T21:17:19.170Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
@@ -4038,7 +4029,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-18T18:43:29.597Z"
+    "pushedAt": "2026-11-18T21:16:03.480Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
@@ -4047,7 +4038,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
-    "pushedAt": "2026-11-18T18:44:24.474Z"
+    "pushedAt": "2026-11-18T21:16:54.151Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
@@ -8425,12 +8416,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
-    "title": "Trump Arrives in China Focused on Friendship, Not Spy Scandal",
+    "title": "Trump Arrives in China Focused on Friendship With Xi, Not Nvidia Spy Scandal",
     "titleZh": "川普抵達中國聚焦友誼而非間諜醜聞",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-top-1-hqjl/18int-trump-top-1-hqjl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:43:56.403Z"
+    "pushedAt": "2026-11-18T21:16:29.065Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/lilly-buying-spree-surpasses-32b-video",
     "image": null,
     "pushedAt": "2026-11-18T21:15:35.240Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/us-rivals-seek-its-tech-through-m-a-vc-mullin-video",
+    "title": "US Rivals Seek Its Tech Through M&A, VC: Mullin",
+    "titleZh": "美國競爭對手透過併購、創投尋求技術：穆林",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-rivals-seek-its-tech-through-m-a-vc-mullin-video",
+    "image": null,
+    "pushedAt": "2026-11-18T21:17:48.308Z"
   }
 ]
