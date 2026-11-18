@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-    "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-    "titleZh": "在莫斯科，威特科夫和庫許納要求普丁將歐洲納入和平談判",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T12:34:29.019Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-    "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
-    "titleZh": "由於負擔能力挑戰持續存在，抵押貸款利率仍然很高",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-mortgage-rates-pkzb/12biz-mortgage-rates-pkzb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T07:50:37.842Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/investors-return-to-jgbs-as-rate-outlook-shifts-smbc-nikko-says",
     "title": "Investors Return to JGBs as Rate Outlook Shifts, SMBC Nikko Says",
     "titleZh": "SMBC日興表示，隨著利率前景變化，投資人重返日本國債",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-warns-of-risks-to-ai-demand-as-quarterly-growth-beats-initial-estimates",
     "image": null,
     "pushedAt": "2026-11-18T04:05:35.950Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240",
+    "title": "Democrats win Alaska Senate seat",
+    "titleZh": "民主黨贏得阿拉斯加參議院席位",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe19e339b-4b40-4b10-875c-52f4ab01dfc1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T04:06:05.151Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a",
+    "title": "China’s economic activity slows more than expected in October",
+    "titleZh": "中國10月經濟活動放緩幅度超乎預期",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T04:06:07.889Z"
   }
 ]
