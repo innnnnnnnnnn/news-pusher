@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/podcasts/the-headlines/faa-microsoft-outage.html",
-    "title": "What’s Behind Back-to-Back Meltdowns at the F.A.A. and Microsoft",
-    "titleZh": "F.A.A.連續兩次崩潰的背後是什麼？和微軟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/podcasts/the-headlines/faa-microsoft-outage.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16themorning-newsletter-FAA-hcmt/16themorning-newsletter-FAA-hcmt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T16:04:46.955Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22",
     "title": "Canada’s Carney Faces Meta, Google, Apple Backlash Over Lawful Access Bill C-22",
     "titleZh": "加拿大卡尼面臨 Meta、谷歌、蘋果對合法訪問法案 C-22 的強烈反對",
@@ -1401,7 +1392,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
     "image": null,
-    "pushedAt": "2026-11-18T08:32:31.976Z"
+    "pushedAt": "2026-11-18T10:58:34.591Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
@@ -1815,7 +1806,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/business/trump-gao-watchdog-nominee-eric-ueland.html",
     "image": "https://static01.nyt.com/images/2026/11/16/business/16DC-GAO-NOMINEE-2/16DC-GAO-NOMINEE-2-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T08:32:57.435Z"
+    "pushedAt": "2026-11-18T10:58:59.898Z"
   },
   {
     "id": "https://flipso.com/p/3e5vf24a6",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18db-summit-bpfg/18db-summit-bpfg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T10:58:06.549Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
+    "title": "In a Rare Move, Xi Greets Trump as He Lands in China",
+    "titleZh": "習近平罕見地在川普抵達中國時向他致意",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-xi-greeting-gpvt/18trump-summits-xi-greeting-gpvt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T10:59:31.109Z"
   }
 ]
