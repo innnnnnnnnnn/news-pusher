@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68",
-    "title": "The delicate balance in America’s AI chip war with China",
-    "titleZh": "美國與中國人工智慧晶片大戰的微妙平衡",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T15:53:38.500Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics",
     "title": "America does not produce world-beating statistics",
     "titleZh": "美國沒有產生世界一流的統計數據",
@@ -3633,7 +3624,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "image": null,
-    "pushedAt": "2026-11-18T14:24:47.462Z"
+    "pushedAt": "2026-11-18T17:04:13.066Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation",
@@ -7224,7 +7215,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8a46c15b-3671-49fc-b367-a7ddd5b1a4f4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T14:24:21.751Z"
+    "pushedAt": "2026-11-18T17:03:47.334Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/kenya-parks-1-9-billion-vodacom-safaricom-cash-in-bonds-pending-court-ruling",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T17:03:18.483Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+    "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+    "titleZh": "OpenAI 高層表示，他們必須在人工智慧與人工智慧之間取得平衡安全與進步",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-altman-brockman-promo/18dealbook-summit-altman-brockman-promo-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-18T17:04:45.358Z"
   }
 ]
