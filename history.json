@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/europe-s-top-pork-producer-ousts-ceo-amid-slump-restructuring",
-    "title": "Europe’s Top Pork Producer Ousts CEO Amid Slump, Restructuring",
-    "titleZh": "歐洲頂級豬肉生產商在經濟衰退和重組中罷免首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/europe-s-top-pork-producer-ousts-ceo-amid-slump-restructuring",
-    "image": null,
-    "pushedAt": "2026-11-16T10:07:20.578Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
-    "title": "As Phillips Scales Back, the ‘Big Two’ Auction Houses Seem to Stand Alone",
-    "titleZh": "隨著富藝斯縮減規模，「兩大」拍賣行似乎孤立無援",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-phillips-auction-zghc/16cul-phillips-auction-zghc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:25:25.713Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
-    "title": "Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week",
-    "titleZh": "梵谷的拍賣目標是每週 28 億美元，疑點籠罩",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
-    "image": null,
-    "pushedAt": "2026-11-18T07:29:01.941Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
     "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
     "titleZh": "Sam Bankman-Fried 如何輸掉 Anthropic 的 350 億美元大獎",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-ukraine-winter-01-cjfl/16int-ukraine-winter-01-cjfl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T09:46:10.797Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30",
+    "title": "Live US midterm elections results",
+    "titleZh": "美國中期選舉即時結果",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T09:46:43.001Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50",
+    "title": "Russian petrol imports hit record as Ukraine strikes refineries",
+    "titleZh": "烏克蘭襲擊煉油廠，俄羅斯汽油進口量創歷史新高",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T09:46:46.142Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
+    "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
+    "titleZh": "美國的全球健康援助並未消亡。它正在改變。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T09:46:48.171Z"
   }
 ]
