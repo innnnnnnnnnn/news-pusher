@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
-    "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
-    "titleZh": "川普政府旨在打擊人工智慧晶片漏洞",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16evening-nl-trump-chips-jmtk/16evening-nl-trump-chips-jmtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T03:55:31.757Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/billionaire-cheng-family-bankrolls-risky-new-world-rescue-plan",
     "title": "Billionaire Cheng Family Bankrolls Risky New World Rescue Plan",
     "titleZh": "億萬富翁鄭氏家族為危險的新世界救援計畫提供資金",
@@ -6774,7 +6765,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
     "image": null,
-    "pushedAt": "2026-11-18T18:20:09.006Z"
+    "pushedAt": "2026-11-18T20:50:07.677Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video",
     "image": null,
-    "pushedAt": "2026-11-18T18:20:37.060Z"
+    "pushedAt": "2026-11-18T20:50:32.723Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
@@ -8466,7 +8457,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
     "image": null,
-    "pushedAt": "2026-11-18T18:22:05.808Z"
+    "pushedAt": "2026-11-18T20:50:58.309Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/seeing-more-asset-management-consolidation-nachmann-video",
     "image": null,
     "pushedAt": "2026-11-18T20:49:39.190Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
+    "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
+    "titleZh": "觀看：大衛·埃里森談埃隆·馬斯克對 Skydance 的投資",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-ellison-vid-PROMO-kbwj/18DB-ellison-vid-PROMO-kbwj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T20:51:27.764Z"
   }
 ]
