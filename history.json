@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
-    "title": "Uruguay Central Bank Keeps Interest Rate at 6%, Maintains Expansive Policy",
-    "titleZh": "烏拉圭央行將利率維持在 6%，維持擴張性政策",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
-    "image": null,
-    "pushedAt": "2026-11-16T20:41:10.173Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
     "title": "The Death of ‘Keep 1.5 Alive’",
     "titleZh": "「Keep 1.5 Alive」之死",
@@ -2976,7 +2967,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T16:05:19.221Z"
+    "pushedAt": "2026-11-18T18:45:15.455Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
@@ -4614,7 +4605,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
-    "pushedAt": "2026-11-18T16:03:49.530Z"
+    "pushedAt": "2026-11-18T18:44:24.474Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
@@ -8371,12 +8362,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/opinion/ground-stop-airplanes-sean-duffy.html",
-    "title": "Do Not Give Sean Duffy $50 Billion",
+    "title": "$50 Billion Won’t Fix Air Traffic Control. It Needs to Be Scrapped.",
     "titleZh": "不要給肖恩達菲 500 億美元",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/opinion/ground-stop-airplanes-sean-duffy.html",
     "image": "https://static01.nyt.com/images/2026/11/18/opinion/18boyd-ATC-ATC-ATC/18boyd-ATC-ATC-ATC--mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:04:51.060Z"
+    "pushedAt": "2026-11-18T18:44:50.503Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/boe-s-bailey-says-more-rate-hikes-needed-if-iran-conflict-lasts",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-top-1-hqjl/18int-trump-top-1-hqjl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T18:43:56.403Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+    "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+    "titleZh": "黃仁勳辭職後，英偉達臨時執行長科萊特·克雷斯 (Colette Kress) 對員工說的話",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T18:45:46.148Z"
   }
 ]
