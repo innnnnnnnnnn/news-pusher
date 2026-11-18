@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
-    "title": "Permitting Bill Would Charge Data Centers Billions for Power",
-    "titleZh": "允許法案將向資料中心收取數十億美元的電費",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T18:32:24.459Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html",
     "title": "What Nithya Raman Plans to Do First as L.A. Mayor",
     "titleZh": "拉曼有很多計劃。洛杉磯有很多障礙。",
@@ -3993,7 +3984,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-musk-texas-06-hgkv-signs-mwgb/16biz-musk-texas-06-hgkv-signs-mwgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T08:09:19.020Z"
+    "pushedAt": "2026-11-18T10:36:13.492Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
@@ -8079,7 +8070,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T08:07:59.697Z"
+    "pushedAt": "2026-11-18T10:35:48.622Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1138e74b-c384-42ba-9edd-c17c8beb4546?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T10:35:20.420Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "title": "Nvidia’s roaring results can’t hide its troubles",
+    "titleZh": "英偉達的驕人業績並不能掩飾其困境",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "image": null,
+    "pushedAt": "2026-11-18T10:36:41.635Z"
   }
 ]
