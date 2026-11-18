@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/obituaries/tetsuya-chiba-dead.html",
-    "title": "Tetsuya Chiba Has Died. He Drew Some of the Greatest Manga of All Time.",
-    "titleZh": "千葉哲也去世了。他畫了一些有史以來最偉大的漫畫。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/obituaries/tetsuya-chiba-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/00obit-chiba-pgbw/00obit-chiba-pgbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T00:17:29.073Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/tripadvisor-loan-soars-as-600-million-payment-boosts-confidence",
     "title": "Tripadvisor Loan Soars as $600 Million Payment Boosts Confidence",
     "titleZh": "Tripadvisor 貸款飆漲 6 億美元付款提振信心",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal",
     "image": null,
     "pushedAt": "2026-11-18T21:27:05.835Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
+    "title": "Patching the AI Trade",
+    "titleZh": "修補人工智慧貿易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-18T21:27:37.951Z"
   }
 ]
