@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-    "title": "Too Many Chips in One Basket?",
-    "titleZh": "一籃裡的薯片太多？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T23:50:13.161Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
     "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
     "titleZh": "黃仁勳顛覆 Nvidia 的事件：事件時間表",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
     "image": null,
     "pushedAt": "2026-11-18T00:10:25.602Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+    "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+    "titleZh": "FDA拒絕來自中國的備受關注的肺癌藥物",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:10:52.950Z"
   }
 ]
