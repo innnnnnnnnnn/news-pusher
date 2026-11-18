@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd",
-    "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-    "titleZh": "OpenAI 被加州起訴超過 80 起「失控」事件",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bad1a7f-59b6-418a-aaba-d67813460285.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T05:58:17.267Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
     "title": "10 Numbers That Might Change How You See Asia",
     "titleZh": "可能改變您對亞洲看法的 10 個數字",
@@ -5041,12 +5032,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
-    "title": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+    "title": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
     "titleZh": "隨著加息壓力加大，金價穩定在 14 個月低點附近",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
     "image": null,
-    "pushedAt": "2026-11-18T16:10:12.697Z"
+    "pushedAt": "2026-11-18T18:49:00.414Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/nothing-to-nitpick-with-nvidia-results-erika-klauer-video",
@@ -7233,7 +7224,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-carousel-zzz-qglk/18trump-summits-carousel-zzz-qglk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:10:38.878Z"
+    "pushedAt": "2026-11-18T18:49:25.520Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/how-gta-vi-became-the-most-expensive-video-game-ever-made-mwm0far3",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
     "image": null,
     "pushedAt": "2026-11-18T18:48:31.884Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
+    "title": "Trump’s Board of Peace Warns Gaza Ceasefire Could Collapse",
+    "titleZh": "川普和平委員會警告加薩停火可能會崩潰",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
+    "image": null,
+    "pushedAt": "2026-11-18T18:49:54.354Z"
   }
 ]
