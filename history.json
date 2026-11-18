@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
-    "title": "Searching for the Last Stoats of Waiheke Island",
-    "titleZh": "尋找懷赫科島最後的白鼬",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-nz-stoats-top-clpm/00int-nz-stoats-top-clpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T04:13:00.123Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
     "title": "They Defeated a Strongman. But Can They Run a Country?",
     "titleZh": "他們擊敗了強人。但他們能管理一個國家嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T05:40:45.334Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+    "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+    "titleZh": "加拿大領導人曾經是亞洲峰會的焦點，現在是明星",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T05:41:10.975Z"
   }
 ]
