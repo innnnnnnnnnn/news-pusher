@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-    "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
-    "titleZh": "大通銀行報告技術問題幹擾交易",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:50:26.836Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
     "title": "Active Delivering Alpha In Bond Fund: Vanguard's Righi",
     "titleZh": "積極交付債券基金阿爾法：先鋒集團的 Righi",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
     "image": null,
     "pushedAt": "2026-11-18T18:22:05.808Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video",
+    "title": "Apollo Sees Huge Europe Finance Demand for AI, Defense",
+    "titleZh": "阿波羅看到歐洲對人工智慧和國防的巨大金融需求",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video",
+    "image": null,
+    "pushedAt": "2026-11-18T18:22:37.191Z"
   }
 ]
