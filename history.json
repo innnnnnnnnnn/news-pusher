@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/45fcd5a0-54d2-4178-ac05-0171ae8b5a35",
-    "title": "Martin Wolf’s best books on economics to read this year",
-    "titleZh": "馬丁沃爾夫今年最值得一讀的經濟學書籍",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45fcd5a0-54d2-4178-ac05-0171ae8b5a35?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T04:00:17.644Z"
-  },
-  {
     "id": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e",
     "title": "Japan’s economy contracts for the first time in a year",
     "titleZh": "日本經濟一年來首次萎縮",
@@ -4920,7 +4911,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T03:14:20.445Z"
+    "pushedAt": "2026-11-18T05:34:09.708Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
@@ -4938,7 +4929,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T03:15:31.167Z"
+    "pushedAt": "2026-11-18T05:34:55.805Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
@@ -5865,7 +5856,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
     "image": null,
-    "pushedAt": "2026-11-18T03:13:57.050Z"
+    "pushedAt": "2026-11-18T05:33:46.377Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-video",
@@ -6225,7 +6216,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-homebuilder-sentiment-sags-to-fresh-14-year-low-on-high-rates",
     "image": null,
-    "pushedAt": "2026-11-18T03:14:43.586Z"
+    "pushedAt": "2026-11-18T05:34:32.789Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/rahul-gandhi-warns-india-economy-youth-unemployment-education-modi",
     "image": null,
     "pushedAt": "2026-11-18T05:33:19.018Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+    "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
+    "titleZh": "儘管 AI 潰敗，人為加密貨幣押注仍意味著價值 1.7 兆美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+    "image": null,
+    "pushedAt": "2026-11-18T05:35:21.741Z"
   }
 ]
