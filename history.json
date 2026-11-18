@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
-    "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-    "titleZh": "美國採取措施限制中國遠端存取英偉達人工智慧晶片",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-17T07:00:31.026Z"
-  },
-  {
     "id": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60",
     "title": "US tech stocks slide ahead of Nvidia results",
     "titleZh": "隨著英偉達業績臨近，亞洲科技股追隨華爾街走低",
@@ -5271,7 +5262,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c9edda0a-b10b-4dd6-b598-1cdf98e4337b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T20:39:26.973Z"
+    "pushedAt": "2026-11-18T23:17:12.343Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/rahul-gandhi-warns-india-economy-youth-unemployment-education-modi",
@@ -6243,7 +6234,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
     "image": null,
-    "pushedAt": "2026-11-18T20:39:51.688Z"
+    "pushedAt": "2026-11-18T23:17:36.513Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-2026-speaker-lineup.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
     "image": null,
     "pushedAt": "2026-11-18T23:16:43.411Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html",
+    "title": "Watch: Zohran Mamdani on Finding Common Ground With Trump",
+    "titleZh": "觀看：佐蘭馬姆達尼 (Zohran Mamdani) 與川普尋找共同點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-mandani-vid-PROMO-lqfm/18DB-mandani-vid-PROMO-lqfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T23:18:02.611Z"
   }
 ]
