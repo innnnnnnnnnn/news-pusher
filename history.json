@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
-    "title": "Impact of US Move to Curb Chip Access",
-    "titleZh": "美國限制晶片准入的影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
-    "image": null,
-    "pushedAt": "2026-11-17T08:55:01.382Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio",
     "title": "Anthropic Frenzy Echoes Dot-Com Bubble, AustralianSuper CIO Says",
     "titleZh": "AustralianSuper 資訊長表示，人為狂熱與網路泡沫相呼應",
@@ -7827,7 +7818,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-nsf-nominee-wqzh/18dc-nsf-nominee-wqzh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T20:21:10.690Z"
+    "pushedAt": "2026-11-18T23:02:01.683Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-trump-policy-decisions-not-midterms-will-shape-canada-trade",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
     "image": null,
     "pushedAt": "2026-11-18T22:58:04.058Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/opinion-how-anthropic-can-capture-30-trillion-video",
+    "title": "How Anthropic Can Capture $30 Trillion",
+    "titleZh": "Anthropic 如何獲得 30 兆美元的收入",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/opinion-how-anthropic-can-capture-30-trillion-video",
+    "image": null,
+    "pushedAt": "2026-11-18T23:02:29.194Z"
   }
 ]
