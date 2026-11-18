@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas",
-    "title": "Uber Starts Offering Amazon’s Driverless Zoox Rides in Las Vegas",
-    "titleZh": "Uber 開始在拉斯維加斯提供亞馬遜的無人駕駛 Zoox 乘車服務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas",
-    "image": null,
-    "pushedAt": "2026-11-16T15:34:16.847Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html",
     "title": "Grammy Nominations 2027: See the Full List",
     "titleZh": "2027 年格萊美提名：查看完整列表",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/europe-s-next-crisis-fighting-team-takes-shape",
     "image": null,
     "pushedAt": "2026-11-18T12:14:17.878Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+    "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+    "titleZh": "巴林在全面恐怖主義審判中對數十名什葉派神職人員定罪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T12:14:46.490Z"
   }
 ]
