@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5dfa6759-407c-4166-b221-802a5f5b936a",
-    "title": "Weak growth casts further doubt on Bank of Japan’s December rate rise",
-    "titleZh": "疲軟的成長讓日本央行12月升息進一步受到質疑",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5dfa6759-407c-4166-b221-802a5f5b936a",
-    "image": null,
-    "pushedAt": "2026-11-17T03:29:41.375Z"
-  },
-  {
     "id": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4",
     "title": "The rich find ways to escape climate change. Their emissions have not.",
     "titleZh": "富人找到了逃避氣候變遷的方法。他們的排放量卻沒有。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/xi-jinping-china-sanae-takaichi-japan",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T12:26:28.842Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-anniversary-history.html",
+    "title": "DealBook Has Covered Wall Street and the World for a Quarter Century",
+    "titleZh": "DealBook 已涵蓋華爾街和世界四分之一個世紀",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-anniversary-history.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-about-dealbook-pkbg/18dealbook-summit-about-dealbook-pkbg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T12:32:34.513Z"
   }
 ]
