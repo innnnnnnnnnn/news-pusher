@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/arts/music/ella-langley-raye-2027-grammy-nominations.html",
-    "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-    "titleZh": "Raye、Rosalía 和 Ella Langley 在女性主導的 2027 年格萊美頒獎典禮上登頂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/arts/music/ella-langley-raye-2027-grammy-nominations.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-grammy-noms-ella2-cfvl/16cul-grammy-noms-ella2-cfvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T13:52:08.421Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
     "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
     "titleZh": "川普政府在訪中前採取行動，以堵住人工智慧晶片的漏洞",
@@ -6765,7 +6756,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-MULLINS-FLIGHT-qhtv/17DC-MULLINS-FLIGHT-qhtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T10:32:44.288Z"
+    "pushedAt": "2026-11-18T13:02:37.113Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/inside-netflix-s-fight-to-keep-the-streaming-crown-video",
     "image": null,
     "pushedAt": "2026-11-18T13:02:07.279Z"
+  },
+  {
+    "id": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208",
+    "title": "US tech outages blamed on rush to fix bugs found by AI",
+    "titleZh": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T13:03:04.106Z"
   }
 ]
