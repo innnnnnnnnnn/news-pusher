@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/warsh-says-fed-staff-are-sketching-out-ai-contingencies-video",
-    "title": "Fed's Warsh Says Staff Are Sketching Out AI Contingencies",
-    "titleZh": "聯準會沃什表示，工作人員正在製定人工智慧應急方案",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/warsh-says-fed-staff-are-sketching-out-ai-contingencies-video",
-    "image": null,
-    "pushedAt": "2026-11-16T22:40:07.699Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster",
     "title": "Altman Says AI Industry ‘Will Be Fine’ After Huang’s Ouster",
     "titleZh": "奧特曼表示，黃蜂下台後，人工智慧產業“會好起來”",
@@ -7863,7 +7854,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/apple-s-haven-status-makes-it-one-of-priciest-stocks-in-market",
     "image": null,
-    "pushedAt": "2026-11-18T13:36:26.007Z"
+    "pushedAt": "2026-11-18T16:16:06.816Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
     "image": null,
     "pushedAt": "2026-11-18T16:15:38.049Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html",
+    "title": "ECB President Christine Lagarde on Why She’s Stepping Down Early",
+    "titleZh": "歐洲央行總裁克里斯蒂娜·拉加德談為何提前卸任",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-lagarde-gpfm/18dealbook-summit-lagarde-gpfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T16:16:34.931Z"
   }
 ]
