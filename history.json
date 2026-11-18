@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/73490a82-b58e-4e95-b6bb-6434eea4406a",
-    "title": "Changing battlefield tactics hit Europe’s ammunition makers",
-    "titleZh": "不斷變化的戰場策略打擊了歐洲的彈藥製造商",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/73490a82-b58e-4e95-b6bb-6434eea4406a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T11:59:33.802Z"
-  },
-  {
     "id": "https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6",
     "title": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings",
     "titleZh": "英偉達臨時執行長 Colette Kress 將在首次財報中首次亮相",
@@ -1914,7 +1905,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T21:17:19.170Z"
+    "pushedAt": "2026-11-18T23:53:50.544Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
@@ -3543,7 +3534,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-18T21:16:03.480Z"
+    "pushedAt": "2026-11-18T23:53:00.864Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
@@ -3552,7 +3543,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
     "image": null,
-    "pushedAt": "2026-11-18T21:16:54.151Z"
+    "pushedAt": "2026-11-18T23:53:26.300Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
@@ -7944,7 +7935,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T21:18:16.230Z"
+    "pushedAt": "2026-11-18T23:54:15.220Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-s-mcbee-favors-data-center-spending-over-repaying-debt",
     "image": null,
     "pushedAt": "2026-11-18T23:52:33.016Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+    "title": "A.I. Makes More Tech Outages Likely, Microsoft’s Chief Warns",
+    "titleZh": "人工智慧.微軟執行長警告稱，可能會造成更多技術中斷",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-nadella-lllw/18dealbook-summit-nadella-lllw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T23:54:44.668Z"
   }
 ]
