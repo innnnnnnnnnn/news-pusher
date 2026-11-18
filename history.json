@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers-mwjdpb94",
-    "title": "US Moves to Tighten Rules for Firms Sponsoring Foreign Workers",
-    "titleZh": "美國採取行動收緊對贊助外國工人的公司的規則",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers-mwjdpb94",
-    "image": null,
-    "pushedAt": "2026-11-16T14:53:22.393Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
     "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
     "titleZh": "儘管美國鎮壓，美國公雞仍在菲律賓打架",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-jphl/18biz-java-response-jphl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T13:47:57.540Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+    "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+    "titleZh": "聯合國開始採取不確定的措施來監管致命自主武器",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-killer-robots-cfgz/16int-killer-robots-cfgz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T13:48:26.010Z"
   }
 ]
