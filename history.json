@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
-    "title": "The Joyful Nerdiness of a 66-Hour, Nonstop Reading of ‘The Power Broker’",
-    "titleZh": "66 小時不間斷閱讀《權力掮客》的快樂書呆子",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/nyregion/power-broker-marathon-reading-robert-moses-caro.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-power-broker-top-klht/15met-power-broker-top-klht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T09:04:00.722Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
-    "title": "Nvidia Shares Steady After Report on Jensen Huang Comeback Talks",
-    "titleZh": "投資人關注復甦報告，英偉達股價有望反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
-    "image": null,
-    "pushedAt": "2026-11-16T05:09:22.515Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/india-faces-a-more-painful-return-to-higher-interest-rates",
     "title": "India Faces a More Painful Return to Higher Interest Rates",
     "titleZh": "印度面臨更高利率的更痛苦回歸",
@@ -2688,7 +2670,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T00:14:06.750Z"
+    "pushedAt": "2026-11-18T02:32:33.968Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/lilly-pushes-buying-spree-beyond-32b-with-calytrix-deal-video",
@@ -8655,7 +8637,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-china-xi-apec-01-hbcz/18int-china-xi-apec-01-hbcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T00:14:56.377Z"
+    "pushedAt": "2026-11-18T02:32:58.034Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/rupee-forwards-turn-more-bullish-than-currency-forecasters",
     "image": null,
     "pushedAt": "2026-11-18T02:31:19.779Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
+    "title": "Xi Warns Against ‘Rampant’ Protectionism Ahead of Trump Talks",
+    "titleZh": "習近平在川普會談前警告保護主義“猖獗”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
+    "image": null,
+    "pushedAt": "2026-11-18T02:33:24.479Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/stats-nz-corrects-producer-price-data-back-to-march-2021",
+    "title": "Stats NZ Corrects Producer Price Data Back to March 2021",
+    "titleZh": "紐西蘭統計局將生產者價格數據修正至 2021 年 3 月",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/stats-nz-corrects-producer-price-data-back-to-march-2021",
+    "image": null,
+    "pushedAt": "2026-11-18T02:33:29.291Z"
   }
 ]
