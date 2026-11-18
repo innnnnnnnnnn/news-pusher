@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-brief-11-16-2026-video",
-    "title": "Stocks Fall Ahead of Nvidia, Trump-Xi-Putin Summit; Huang’s Potential Return to Nvidia",
-    "titleZh": "英偉達、川普-習近平-普丁峰會之前股市下跌；黃仁勳有可能重返英偉達",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-brief-11-16-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-16T18:18:03.607Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
     "title": "Five European Countries Plan to Deport Migrants to Rwanda",
     "titleZh": "歐洲五國計劃將移民驅逐至盧安達",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
     "image": null,
     "pushedAt": "2026-11-18T14:11:51.607Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-mortgage-rates-increase-for-first-time-in-five-weeks",
+    "title": "US Mortgage Rates Rise to 7.35%, Halting Home-Purchase Rebound",
+    "titleZh": "美國抵押貸款利率升至 7.35%，購屋反彈停止",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-mortgage-rates-increase-for-first-time-in-five-weeks",
+    "image": null,
+    "pushedAt": "2026-11-18T14:12:24.136Z"
   }
 ]
