@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250",
-    "title": "Estonia to close border with Russia after second alleged sabotage attempt",
-    "titleZh": "愛沙尼亞在第二次涉嫌破壞企圖後關閉與俄羅斯的邊境",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe442704d-2577-423a-8b24-f702b492e738.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-16T08:49:56.296Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
     "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
     "titleZh": "亞洲股市面臨人工智慧壓力和數據轉儲：市場總結",
@@ -6787,12 +6778,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue",
-    "title": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+    "title": "China Warns US of Retaliation Over New AI Chip Restrictions",
     "titleZh": "中國警告美國對晶片限制進行報復，敦促對話",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue",
     "image": null,
-    "pushedAt": "2026-11-17T16:52:06.005Z"
+    "pushedAt": "2026-11-18T00:26:06.268Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
     "image": null,
     "pushedAt": "2026-11-18T00:25:39.987Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-boosts-forecast-quashes-huang-s-return-video",
+    "title": "Nvidia Boosts Forecast, Quashes Huang’s Return",
+    "titleZh": "英偉達提高預測，取消黃仁勳的回歸",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-boosts-forecast-quashes-huang-s-return-video",
+    "image": null,
+    "pushedAt": "2026-11-18T00:26:31.841Z"
   }
 ]
