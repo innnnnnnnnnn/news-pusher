@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
-    "title": "The Best Thanksgiving Menu Is a Southern Buffet",
-    "titleZh": "最好的感恩節菜單是南方自助餐",
-    "source": "紐約時報 New York Times",
-    "url": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09FD-BIG-MENU-promo-pclj/09FD-BIG-MENU-promo-pclj-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T17:23:55.919Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html",
     "title": "The Blue Wave Lifted Democrats. But Not All Progressives Rose as High.",
     "titleZh": "藍色浪潮鼓舞了民主黨人。但並非所有進步人士都升得那麼高。",
@@ -5244,7 +5235,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
     "image": null,
-    "pushedAt": "2026-11-18T13:27:32.321Z"
+    "pushedAt": "2026-11-18T16:02:26.497Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/blackstone-s-jon-gray-calls-concerns-about-ai-bubble-overblown",
     "image": null,
     "pushedAt": "2026-11-18T16:01:57.207Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-low-profile-cfo-guides-firm-through-cone-of-uncertainty",
+    "title": "Anthropic’s Low-Profile CFO Guides Firm Through ‘Cone of Uncertainty’",
+    "titleZh": "Anthropic 低調的財務長引導公司度過“不確定性錐體”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-low-profile-cfo-guides-firm-through-cone-of-uncertainty",
+    "image": null,
+    "pushedAt": "2026-11-18T16:02:54.332Z"
   }
 ]
