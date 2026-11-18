@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1",
-    "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
-    "titleZh": "由於英偉達的影響，美國科技股開盤走低",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T08:24:52.187Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/goldman-warns-oil-market-faces-sizable-2027-surplus-video",
     "title": "Goldman Warns Oil Market Faces ‘Sizable’ 2027 Surplus",
     "titleZh": "高盛警告石油市場2027年將面臨「大規模」過剩",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/apple-s-haven-status-makes-it-one-of-priciest-stocks-in-market",
     "image": null,
     "pushedAt": "2026-11-18T11:03:16.268Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
+    "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
+    "titleZh": "韓國將調查韓國流行音樂產業如何對待未成年表演者",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T11:03:49.149Z"
   }
 ]
