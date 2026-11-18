@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/norway-s-imports-hit-record-on-data-center-equipment-cars",
-    "title": "Norway’s Imports Hit Record on Data Center Equipment, Cars",
-    "titleZh": "挪威資料中心設備與汽車進口量創歷史新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/norway-s-imports-hit-record-on-data-center-equipment-cars",
-    "image": null,
-    "pushedAt": "2026-11-17T03:02:11.923Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/snb-interest-rate-forecasters-now-anticipate-hike-in-mid-2027",
     "title": "SNB Interest-Rate Forecasters Now Anticipate Hike in Mid-2027",
     "titleZh": "瑞士央行利率預測者現預計 2027 年中期升息",
@@ -474,7 +465,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3c355db7-8b89-4727-8b44-0acd67a7e657?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T07:36:23.626Z"
+    "pushedAt": "2026-11-18T10:05:08.234Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/china-s-steel-mills-brace-for-a-bitter-winter",
@@ -6369,7 +6360,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
     "image": "https://static01.nyt.com/images/2026/07/29/multimedia/17xp-apple/17xp-apple-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:34:41.410Z"
+    "pushedAt": "2026-11-18T10:04:18.262Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
@@ -6783,7 +6774,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-iran-intel-mbjf/17dc-iran-intel-mbjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:35:08.331Z"
+    "pushedAt": "2026-11-18T10:04:43.627Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-issues-may-be-tip-of-iceberg-great-hill-s-hayes-video",
@@ -7701,7 +7692,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/asics-coo-business-growth-outlook-video",
     "image": null,
-    "pushedAt": "2026-11-18T07:33:51.110Z"
+    "pushedAt": "2026-11-18T10:03:26.804Z"
   },
   {
     "id": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b",
@@ -7710,7 +7701,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T07:34:15.927Z"
+    "pushedAt": "2026-11-18T10:03:52.839Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
@@ -8043,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f1b92c66-8010-4c91-9510-af037de10f20?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T07:32:04.507Z"
+    "pushedAt": "2026-11-18T10:02:36.722Z"
   },
   {
     "id": "https://www.ft.com/content/a5e0e84d-a782-47e3-abcb-3dff1bf4e835",
@@ -8070,7 +8061,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c20be3a9-1735-41da-bee5-57a0d2799472?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T07:33:24.864Z"
+    "pushedAt": "2026-11-18T10:03:01.668Z"
   },
   {
     "id": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/adults-want-kids-toys-this-holiday-season",
     "image": null,
     "pushedAt": "2026-11-18T10:02:08.819Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video",
+    "title": "Xi, Trump Begin Summit With Warm Embrace",
+    "titleZh": "習近平與川普熱情擁抱開啟高峰會",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video",
+    "image": null,
+    "pushedAt": "2026-11-18T10:05:36.891Z"
   }
 ]
