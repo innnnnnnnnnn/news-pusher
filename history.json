@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-    "title": "Nasdaq 100 Tumbles as Nvidia Earnings, Anthropic IPO Loom",
-    "titleZh": "Nvidia 財報和 Anthropic IPO 即將到來，納斯達克 100 指數暴跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-    "image": null,
-    "pushedAt": "2026-11-16T21:16:58.732Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video",
     "title": "Nvidia Bull: AI Growth Story Remains Intact",
     "titleZh": "Nvidia Bull：人工智慧成長故事保持不變",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-vance-ltzv/18dc-vance-ltzv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T17:05:18.318Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
+    "title": "Newsmax Sues to Block Fox From Integrating With Roku",
+    "titleZh": "Newsmax 起訴阻止 Fox 與 Roku 集成",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
+    "image": null,
+    "pushedAt": "2026-11-18T17:05:49.520Z"
   }
 ]
