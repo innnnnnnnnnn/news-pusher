@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
-    "title": "Bangladesh is no longer a development superstar",
-    "titleZh": "孟加拉不再是發展超級明星",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
-    "image": null,
-    "pushedAt": "2026-11-18T16:08:54.838Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
     "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
     "titleZh": "Nvidia 的決定性一週：CEO 搜尋、獲利與中國",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/42fff936-c901-4d5e-974d-21ba400e7ab9?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T17:17:12.249Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/stocks-fall-as-nvidia-s-earnings-rally-sputters-video",
+    "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters",
+    "titleZh": "英偉達獲利反彈放緩，股市下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/stocks-fall-as-nvidia-s-earnings-rally-sputters-video",
+    "image": null,
+    "pushedAt": "2026-11-18T17:22:20.164Z"
   }
 ]
