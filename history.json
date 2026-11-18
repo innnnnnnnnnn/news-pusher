@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-    "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
-    "titleZh": "韓國將調查韓國流行音樂產業如何對待未成年表演者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T10:52:59.569Z"
-  },
-  {
     "id": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1",
     "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
     "titleZh": "由於英偉達的影響，美國科技股開盤走低",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-investigate-vtkq/18dc-investigate-vtkq-mediumSquareAt3X-v3.jpg",
     "pushedAt": "2026-11-18T11:02:43.868Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/apple-s-haven-status-makes-it-one-of-priciest-stocks-in-market",
+    "title": "Apple’s Haven Status Makes It One of Priciest Stocks in Market",
+    "titleZh": "蘋果的避風港地位使其成為市場上最昂貴的股票之一",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/apple-s-haven-status-makes-it-one-of-priciest-stocks-in-market",
+    "image": null,
+    "pushedAt": "2026-11-18T11:03:16.268Z"
   }
 ]
