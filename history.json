@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/asean-leaders-gather-at-philippines-summit-video",
-    "title": "Asean Leaders Gather at Philippines Summit",
-    "titleZh": "東協領導人齊聚菲律賓峰會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/asean-leaders-gather-at-philippines-summit-video",
-    "image": null,
-    "pushedAt": "2026-11-16T17:48:33.245Z"
-  },
-  {
     "id": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89",
     "title": "UK short-term borrowing costs hit three-year high",
     "titleZh": "英國短期借貸成本創三年新高",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
     "image": null,
     "pushedAt": "2026-11-18T14:03:35.742Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
+    "title": "Robert Pattinson Named as the Next James Bond",
+    "titleZh": "羅伯派汀森被任命為下一個詹姆斯龐德",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/world/16cul-james-bond-hfo-bbb/16cul-james-bond-hfo-bbb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T14:04:06.177Z"
   }
 ]
