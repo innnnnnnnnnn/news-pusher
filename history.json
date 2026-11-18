@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-fallout-anthropic-listing-squeeze-asian-chip-stocks-anew",
-    "title": "Nvidia Fallout, Anthropic IPO Squeeze Asian Chip Stocks Anew",
-    "titleZh": "英偉達的影響和 Anthropic 的上市再次擠壓亞洲晶片股",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-fallout-anthropic-listing-squeeze-asian-chip-stocks-anew",
-    "image": null,
-    "pushedAt": "2026-11-16T09:21:03.026Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/malaysia-ytl-power-scrutinized-amid-nvidia-turmoil-alleged-china-links",
     "title": "YTL Power Scrutinized Amid Nvidia Turmoil, Alleged China Links",
     "titleZh": "楊忠禮電力因英偉達動盪而受到審查，據稱與中國有聯繫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
     "image": null,
     "pushedAt": "2026-11-18T07:48:02.393Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
+    "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
+    "titleZh": "力拓將支付 2.5 億美元解決礦場環境破壞問題",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-png-mine-mwpq/18int-png-mine-mwpq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T07:48:33.555Z"
   }
 ]
