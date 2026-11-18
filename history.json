@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
-    "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
-    "titleZh": "Nvidia 的決定性一週：CEO 搜尋、獲利與中國",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-17T01:51:44.553Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/hadrian-targets-critical-bottleneck-in-us-shipbuilding-video",
     "title": "Hadrian Targets Critical Bottleneck in US Shipbuilding",
     "titleZh": "哈德良瞄準美國造船業的關鍵瓶頸",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/stocks-fall-as-nvidia-s-earnings-rally-sputters-video",
     "image": null,
     "pushedAt": "2026-11-18T17:22:20.164Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+    "title": "Bangladesh is no longer a development superstar",
+    "titleZh": "孟加拉不再是發展超級明星",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+    "image": null,
+    "pushedAt": "2026-11-18T17:22:50.612Z"
   }
 ]
