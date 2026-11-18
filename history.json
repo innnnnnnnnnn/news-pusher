@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade",
-    "title": "Anthropic Holds the Key to the Future of the AI Trade",
-    "titleZh": "人擇掌握著人工智慧產業未來的關鍵",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-16T13:02:58.410Z"
-  },
-  {
     "id": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed",
     "title": "Ukraine strikes Crimean Bridge in record drone attack",
     "titleZh": "烏克蘭無人機襲擊克里米亞大橋創紀錄",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
     "image": null,
     "pushedAt": "2026-11-18T10:13:54.881Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+    "title": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
+    "titleZh": "川普將在亞洲之行期間與習近平和普丁舉行會晤：需要了解什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T10:14:26.507Z"
   }
 ]
