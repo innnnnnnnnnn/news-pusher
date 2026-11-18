@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
-    "title": "Huang and Lutnick Summoned to Testify Before Congress",
-    "titleZh": "黃和盧特尼克被傳喚到國會作證",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-16T14:37:11.490Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/revolut-under-italian-court-oversight-on-laundering-weaknesses",
     "title": "Revolut Ordered to Improve Money Laundering Controls in Italy",
     "titleZh": "Revolut 因洗錢缺陷受到義大利法院監督",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/boe-to-test-how-private-credit-market-could-amplify-shocks",
     "image": null,
     "pushedAt": "2026-11-18T11:49:31.743Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a",
+    "title": "Wall Street set to open higher after Nvidia results reassure investors",
+    "titleZh": "英偉達業績讓投資人放心後，華爾街將高開",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-18T11:50:02.919Z"
   }
 ]
