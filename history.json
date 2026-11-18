@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a",
-    "title": "Banks seek to curb AI debt exposure as backlash mounts",
-    "titleZh": "隨著強烈反對，銀行尋求遏制人工智慧債務風險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T12:02:45.880Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b685c645-fad7-44a4-9881-3f1dbbe259a8",
-    "title": "Swiss defence group in US expansion push as drone demand soars",
-    "titleZh": "隨著無人機需求飆升，瑞士防務集團在美國擴張",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b685c645-fad7-44a4-9881-3f1dbbe259a8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T12:03:11.607Z"
-  },
-  {
     "id": "https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d",
     "title": "China’s robot makers have more to offer than viral backflip videos",
     "titleZh": "中國的機器人製造商可以提供的不僅僅是病毒般的後空翻視頻",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout",
     "image": null,
     "pushedAt": "2026-11-18T23:56:32.281Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
+    "title": "Trump, Putin and Xi to Meet for the First Time",
+    "titleZh": "川普、普丁和習近平首次會面",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18evening-nl-trump-putin-xi-fvwp/18evening-nl-trump-putin-xi-fvwp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T23:57:55.416Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+    "title": "How We Broke Open the Nvidia Investigation",
+    "titleZh": "我們如何揭開 Nvidia 的調查",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T23:58:00.808Z"
   }
 ]
