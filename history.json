@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
-    "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
-    "titleZh": "英偉達 CEO 搜尋因 Bessent 的人事變動而引起關注",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
-    "image": null,
-    "pushedAt": "2026-11-16T19:05:39.955Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/miners-discuss-cross-border-tie-ups-to-tap-argentina-s-40-billion-copper-belt",
     "title": "Miners Discuss Cross-Border Tie-ups to Tap Argentina’s $40 Billion Copper Belt",
     "titleZh": "礦商討論跨境合作以開發阿根廷價值 400 億美元的銅礦帶",
@@ -6576,7 +6567,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T12:35:09.544Z"
+    "pushedAt": "2026-11-18T15:08:31.603Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
@@ -6909,7 +6900,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f1b92c66-8010-4c91-9510-af037de10f20?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T12:34:19.358Z"
+    "pushedAt": "2026-11-18T15:06:27.583Z"
   },
   {
     "id": "https://www.ft.com/content/a5e0e84d-a782-47e3-abcb-3dff1bf4e835",
@@ -8466,16 +8457,16 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
     "image": null,
-    "pushedAt": "2026-11-18T12:35:37.146Z"
+    "pushedAt": "2026-11-18T15:08:57.183Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/rand-leads-emerging-market-losses-as-gold-drops-below-3-800",
-    "title": "Rand Leads Emerging-Market Losses as Gold Drops Below $3,800",
+    "title": "South African Rand Hits Eight-Month Low on Gold, Fed Hike Bets",
     "titleZh": "金價跌破 3,800 美元，蘭特領跌新興市場",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/rand-leads-emerging-market-losses-as-gold-drops-below-3-800",
     "image": null,
-    "pushedAt": "2026-11-18T12:35:41.672Z"
+    "pushedAt": "2026-11-18T15:09:23.679Z"
   },
   {
     "id": "https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-pending-home-sales-fall-to-new-record-low-on-high-rates",
     "image": null,
     "pushedAt": "2026-11-18T15:05:33.499Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-18/odd-lots-gta-vi-is-the-most-expensive-game-ever-made-is-it-worth-it",
+    "title": "Odd Lots: GTA VI Is the Most Expensive Game Ever Made. Is It Worth It?",
+    "titleZh": "奇怪的很多：GTA VI 是有史以來最昂貴的遊戲。值得嗎？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/odd-lots-gta-vi-is-the-most-expensive-game-ever-made-is-it-worth-it",
+    "image": null,
+    "pushedAt": "2026-11-18T15:09:52.709Z"
   }
 ]
