@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/todo-lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-mwjde71y",
-    "title": "Todo lo que debe saber sobre la salida a bolsa de Anthropic",
-    "titleZh": "Todo lo que debe saber sobre la salida a bolsa de Anthropic",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/todo-lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-mwjde71y",
-    "image": null,
-    "pushedAt": "2026-11-16T14:41:31.321Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/us-airlines-race-to-recover-from-shutdown-video",
     "title": "US Airlines Race to Recover From Shutdown",
     "titleZh": "美國航空公司競相從停擺中恢復過來",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/physical-ai-startup-humyn-raises-47-million-from-accel-prosus",
     "image": null,
     "pushedAt": "2026-11-18T13:32:48.707Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-what-to-watch.html",
+    "title": "Economic and Political Uncertainty Will Be Focus of DealBook Summit",
+    "titleZh": "經濟和政治不確定性將成為 DealBook 高峰會的焦點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-what-to-watch.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-what-to-watch-gzqp/18dealbook-summit-what-to-watch-gzqp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T13:33:19.745Z"
   }
 ]
