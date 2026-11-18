@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
-    "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-    "titleZh": "紐西蘭通膨預期維持在 2% 以上",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
-    "image": null,
-    "pushedAt": "2026-11-17T04:45:50.524Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/more-volatility-forecast-for-ai-as-nvidia-earnings-loom-video",
     "title": "More Volatility Forecast for AI as Nvidia Earnings Loom",
     "titleZh": "隨著英偉達獲利臨近，人工智慧的波動性預測更大",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/farm-group-says-ex-ceo-misused-funds-for-vacation-home-and-plane",
     "image": null,
     "pushedAt": "2026-11-18T22:01:36.529Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
+    "title": "AI Is Making China’s Jobs Slump Even Worse",
+    "titleZh": "人工智慧正使中國的就業下滑更加嚴重",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
+    "image": null,
+    "pushedAt": "2026-11-18T22:02:09.074Z"
   }
 ]
