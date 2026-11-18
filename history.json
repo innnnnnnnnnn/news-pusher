@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-    "titleZh": "隨著要求加強控制的呼聲日益高漲，霍華德·盧特尼克 (Howard Lutnick) 對 Nvidia 採取了溫和的立場",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T06:50:26.388Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap",
-    "title": "AI Startup Dreamteam Raises Capital to Challenge Salesforce, SAP",
-    "titleZh": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap",
-    "image": null,
-    "pushedAt": "2026-11-16T14:35:00.114Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/israel-uae-discuss-measures-to-resume-flydubai-s-tel-aviv-route",
     "title": "Israel, UAE Discuss Measures to Resume FlyDubai’s Tel Aviv Route",
     "titleZh": "以色列和阿聯酋討論恢復 FlyDubai 特拉維夫航線的措施",
@@ -7197,7 +7179,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/japan-panel-said-to-warn-takaichi-that-market-trust-is-paramount",
     "image": null,
-    "pushedAt": "2026-11-18T09:06:23.373Z"
+    "pushedAt": "2026-11-18T11:35:12.117Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/infratil-ceo-optimistic-on-long-term-demand-for-data-centers",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-history.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-lookback-zjwv/18dealbook-summit-lookback-zjwv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T11:34:43.723Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+    "title": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit",
+    "titleZh": "卡尼和川普將在亞洲峰會上舉行臨時貿易會議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-canada-carney-wrap-mjhp/18int-canada-carney-wrap-mjhp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T11:35:39.493Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/india-says-us-trade-deal-nearly-ready-signing-may-take-time",
+    "title": "India Says US Trade Deal Nearly Ready, Signing May Take Time",
+    "titleZh": "印度稱美國貿易協定即將準備就緒，簽署可能需要時間",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/india-says-us-trade-deal-nearly-ready-signing-may-take-time",
+    "image": null,
+    "pushedAt": "2026-11-18T11:35:45.151Z"
   }
 ]
