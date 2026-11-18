@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
-    "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
-    "titleZh": "蘋果將允許用戶透過臉部解鎖 iPhone Duo，解決主要缺陷",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
-    "image": null,
-    "pushedAt": "2026-11-16T23:19:13.647Z"
-  },
-  {
     "id": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68",
     "title": "The delicate balance in America’s AI chip war with China",
     "titleZh": "美國與中國人工智慧晶片大戰的微妙平衡",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal",
     "image": null,
     "pushedAt": "2026-11-18T17:02:50.044Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+    "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "titleZh": "聯準會主席強調人工智慧的經濟不確定性繁榮",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T17:03:18.483Z"
   }
 ]
