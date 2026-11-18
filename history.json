@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/horizons-middle-east-africa-11-16-2026-video",
-    "title": "Horizons Middle East & Africa 11/16/2026 (Video)",
-    "titleZh": "中東與非洲展望 2026 年 11 月 16 日（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/horizons-middle-east-africa-11-16-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-16T07:39:09.380Z"
-  },
-  {
     "id": "https://www.ft.com/content/8919e96e-df3d-41b8-99fa-b8ebcab5e99a",
     "title": "Tiny quant fund joins UK tax giants",
     "titleZh": "小型量化基金加入英國稅務巨頭行列",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/uk-energy-bills-seen-rising-26-biggest-hike-since-2022",
     "image": null,
     "pushedAt": "2026-11-18T08:06:05.747Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html",
+    "title": "Capturing the Hustle of Unsung Jobs in New York City",
+    "titleZh": "捕捉紐約市喧囂的無名工作",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18a2_insider-ny-at-work-pmcb/18a2_insider-ny-at-work-pmcb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-18T08:06:35.879Z"
   }
 ]
