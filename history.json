@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89",
-    "title": "UK short-term borrowing costs hit three-year high",
-    "titleZh": "英國短期借貸成本創三年新高",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T12:44:47.747Z"
-  },
-  {
     "id": "https://www.ft.com/content/37f3b6e1-67f5-423e-8efd-538a2e68f86e",
     "title": "Why older voters powered the Democrats’ blue wave",
     "titleZh": "為什麼年長選民推動了民主黨的藍色浪潮",
@@ -3552,7 +3543,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/lh4bzoeu5?ref=rss",
     "image": "https://cdn.flipso.com/p/lh4bzoeu5_square.jpg",
-    "pushedAt": "2026-11-18T11:24:15.272Z"
+    "pushedAt": "2026-11-18T14:05:07.086Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
     "image": "https://static01.nyt.com/images/2026/11/17/world/16cul-james-bond-hfo-bbb/16cul-james-bond-hfo-bbb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T14:04:06.177Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/jpmorgan-adds-dallas-hub-for-private-bank-unit-catering-to-funds",
+    "title": "JPMorgan Adds Dallas Hub for Private Bank Unit Catering to Funds",
+    "titleZh": "摩根大通增設達拉斯中心，為私人銀行部門提供基金服務",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/jpmorgan-adds-dallas-hub-for-private-bank-unit-catering-to-funds",
+    "image": null,
+    "pushedAt": "2026-11-18T14:05:34.733Z"
   }
 ]
