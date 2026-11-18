@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
-    "title": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom",
-    "titleZh": "Anthropic 的 IPO 讓 Dario Amodei 成為人工智慧熱潮的新面孔",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
-    "image": null,
-    "pushedAt": "2026-11-16T01:33:12.892Z"
-  },
-  {
-    "id": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-    "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-    "titleZh": "黃仁勳與盟友討論重新擔任英偉達首席執行官",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4147425d-589e-4196-83a7-198e7fdd797d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-16T17:54:34.444Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
-    "title": "Nvidia’s Jensen Huang in Talks With Allies Over CEO Comeback, Report Says",
-    "titleZh": "英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
-    "image": null,
-    "pushedAt": "2026-11-16T06:05:10.375Z"
-  },
-  {
-    "id": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
-    "title": "China's emissions are falling. Thank self-interest",
-    "titleZh": "中國的排放量正在下降。感謝自利",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
-    "image": null,
-    "pushedAt": "2026-11-17T22:29:14.767Z"
-  },
-  {
-    "id": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
-    "title": "To triumph in show business, take a lo-fi or hi-fi approach",
-    "titleZh": "要在演藝界取得勝利，請採取低保真或高保真方法",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
-    "image": null,
-    "pushedAt": "2026-11-17T22:30:01.268Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
     "title": "South Africans are giving up on Nelson Mandela’s party. Good",
     "titleZh": "南非人正在放棄納爾遜·曼德拉的政黨。好的",
@@ -8998,5 +8953,50 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo",
     "image": null,
     "pushedAt": "2026-11-18T00:06:13.485Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
+    "title": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
+    "titleZh": "美國聯邦航空管理局像連接到全國地面站的路由器一樣擱置路由器",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-faa-routers-tmwk/17xp-faa-routers-tmwk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:07:29.653Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html",
+    "title": "26 More Measles Cases in New York, but Outbreak Appears to Be Easing",
+    "titleZh": "紐約新增 26 例麻疹病例，但疫情似乎正在緩解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17met-measles-nys-bwfc/17met-measles-nys-bwfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:07:33.682Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
+    "title": "Trump Administration Says It Will Not Use Ships to Deport Migrants",
+    "titleZh": "川普政府表示不會使用船隻驅逐移民",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-deport-tcjb/17dc-deport-tcjb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:07:37.642Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/arts/design/frida-kahlo-painting-auction-christies.html",
+    "title": "Contested Frida Kahlo Painting Is Withdrawn Hours Before Auction",
+    "titleZh": "有爭議的弗里達卡羅畫作在拍賣前幾小時被撤回",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/arts/design/frida-kahlo-painting-auction-christies.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-frida-kahlo-auction-ctbg/17cul-frida-kahlo-auction-ctbg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:07:41.765Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-17/australia-revamps-pension-fund-test-to-unlock-new-investment",
+    "title": "Australia Revamps Pension Fund Test to Unlock New Investment",
+    "titleZh": "澳洲修改退休基金測試以釋放新投資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/australia-revamps-pension-fund-test-to-unlock-new-investment",
+    "image": null,
+    "pushedAt": "2026-11-18T00:07:45.412Z"
   }
 ]
