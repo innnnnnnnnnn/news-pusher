@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
-    "title": "Why Robert Pattinson Could Be a Great James Bond",
-    "titleZh": "為什麼羅伯派汀森可以成為偉大的詹姆士龐德",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
-    "image": null,
-    "pushedAt": "2026-11-17T09:31:21.264Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
     "title": "Stocks Fall on Tech Disruptions as Nvidia in Focus: Markets Wrap",
     "titleZh": "亞洲股市將先於英偉達、Anthropic 下跌：市場結束",
@@ -2418,7 +2409,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
     "image": null,
-    "pushedAt": "2026-11-18T17:02:22.217Z"
+    "pushedAt": "2026-11-18T19:35:52.125Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -3012,7 +3003,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "image": null,
-    "pushedAt": "2026-11-18T17:04:13.066Z"
+    "pushedAt": "2026-11-18T19:36:43.019Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation",
@@ -8367,7 +8358,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal",
     "image": null,
-    "pushedAt": "2026-11-18T17:02:50.044Z"
+    "pushedAt": "2026-11-18T19:36:18.261Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
@@ -8385,7 +8376,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-altman-brockman-promo/18dealbook-summit-altman-brockman-promo-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-18T17:04:45.358Z"
+    "pushedAt": "2026-11-18T19:37:07.974Z"
   },
   {
     "id": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
     "image": null,
     "pushedAt": "2026-11-18T19:34:08.465Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/colombia-touts-43-billion-investment-haul-amid-fiscal-strain",
+    "title": "Colombia Touts $43 Billion Investment Haul Amid Fiscal Strain",
+    "titleZh": "哥倫比亞在財政緊張之際尋求 430 億美元投資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/colombia-touts-43-billion-investment-haul-amid-fiscal-strain",
+    "image": null,
+    "pushedAt": "2026-11-18T19:37:37.296Z"
   }
 ]
