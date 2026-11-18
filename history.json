@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-    "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-    "titleZh": "Nvidia 被罷免的執行長 Jensen Huang 是人工智慧的代言人。繁榮為美國經濟提供動力",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T08:28:52.352Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-    "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
-    "titleZh": "英偉達的影響力籠罩在川普與習近平的會面上",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-16T13:23:52.637Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
     "title": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
     "titleZh": "Diamondback 正在洽談以約 50 億美元收購 Double Eagle",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-18T00:24:16.327Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+    "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+    "titleZh": "約旦因希臘東正教教堂襲擊事件判處 3 人死刑",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-jordan-execution-1-kwqf/15int-jordan-execution-1-kwqf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:24:44.263Z"
+  },
+  {
+    "id": "https://flipso.com/p/lyoq3jqck",
+    "title": "Your room can be as bright as the outdoors",
+    "titleZh": "您的房間可以像室外一樣明亮",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/lyoq3jqck?ref=rss",
+    "image": "https://cdn.flipso.com/p/lyoq3jqck_square.jpg",
+    "pushedAt": "2026-11-18T00:24:48.750Z"
   }
 ]
