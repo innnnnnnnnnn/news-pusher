@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
-    "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
-    "titleZh": "通膨和關稅上漲導致鞋履價格創歷史新高",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T17:29:03.282Z"
-  },
-  {
-    "id": "https://www.ft.com/content/36bf11fe-19a9-4a5f-9c0b-9d06885a8aba",
-    "title": "Nvidia’s imperial palace intrigue",
-    "titleZh": "Nvidia的皇宮陰謀",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/36bf11fe-19a9-4a5f-9c0b-9d06885a8aba?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T14:26:15.959Z"
-  },
-  {
     "id": "https://www.ft.com/content/3b51a260-2e6c-452e-a109-ea7c1fe85b3a",
     "title": "Jay-Z backed music rights firm raises nearly $700mn to expand portfolio",
     "titleZh": "Jay-Z 支持的音樂版權公司籌集近 7 億美元以擴大投資組合",
@@ -6783,7 +6765,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d6faebd0-2690-4e2b-af7b-35fc7643808d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T20:54:20.553Z"
+    "pushedAt": "2026-11-18T23:33:20.226Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/don-t-yet-know-the-ai-model-as-credit-investors-carlyle-video",
@@ -8322,7 +8304,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/new-members-congress.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-freshmen-01-czfj/18dc-freshmen-01-czfj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T20:24:15.311Z"
+    "pushedAt": "2026-11-18T23:32:54.710Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/18/science/inca-children-drugs-cocaine-ayahuasca-sacrifices.html",
     "image": null,
     "pushedAt": "2026-11-18T23:32:23.710Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+    "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+    "titleZh": "聯準會暗示將進一步升息 金價穩定在 14 個月低點附近",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+    "image": null,
+    "pushedAt": "2026-11-18T23:33:48.068Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
+    "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
+    "titleZh": "由於戰爭導致市場緊張，貝恩將液化天然氣供應過剩前景推遲至 2030 年",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
+    "image": null,
+    "pushedAt": "2026-11-18T23:33:52.415Z"
   }
 ]
