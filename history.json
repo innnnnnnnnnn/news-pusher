@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2c96466e-a37d-42b3-b5e7-a617bfa31666",
-    "title": "ANC fights for power in South Africa’s cities after election drubbing",
-    "titleZh": "選舉慘敗後，非洲人國民大會在南非各城市爭奪權力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2c96466e-a37d-42b3-b5e7-a617bfa31666?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T02:56:45.330Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b7655aab-8a43-4046-ab61-d56ec4843006",
-    "title": "Jefferies fund eased lending checks on iron ore traders accused of fraud",
-    "titleZh": "傑富瑞基金放寬了對被指控詐欺的鐵礦石交易商的貸款檢查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b7655aab-8a43-4046-ab61-d56ec4843006?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T02:57:40.365Z"
-  },
-  {
     "id": "https://www.ft.com/content/d08ee4e3-210d-45d2-92be-2b98a8b150b6",
     "title": "Six-year-olds: Novo’s new frontier for weight-loss drugs",
     "titleZh": "六歲的孩子。 Novo 的減肥藥新領域",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/more-us-lng-cargoes-divert-to-europe-in-relief-for-tight-market",
     "image": null,
     "pushedAt": "2026-11-18T13:53:38.794Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+    "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+    "titleZh": "檢察官稱愛爾蘭男子用斧頭和化學品破壞美國軍用飛機",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+    "image": null,
+    "pushedAt": "2026-11-18T13:54:08.786Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+    "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
+    "titleZh": "儘管美國鎮壓，美國公雞仍在菲律賓打架",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-roosters-gztb/00xp-roosters-gztb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T13:54:10.747Z"
   }
 ]
