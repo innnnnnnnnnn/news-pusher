@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
-    "title": "Anthropic Fervor, Vanguard's 'Hot Sauce,' \"ETIFs\" Emerge",
-    "titleZh": "人類熱情、先鋒集團的「辣醬」、「ETIF」出現",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-16T21:29:04.917Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
     "title": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Stock",
     "titleZh": "黃仁勳下台迫在眉睫，英偉達財報成為餘興節目",
@@ -4083,7 +4074,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
     "image": null,
-    "pushedAt": "2026-11-18T16:35:26.494Z"
+    "pushedAt": "2026-11-18T19:11:40.959Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
@@ -4092,7 +4083,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
     "image": null,
-    "pushedAt": "2026-11-18T16:36:16.875Z"
+    "pushedAt": "2026-11-18T19:12:31.730Z"
   },
   {
     "id": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1",
@@ -6279,7 +6270,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/whixozkc3?ref=rss",
     "image": "https://cdn.flipso.com/p/whixozkc3_square.jpg",
-    "pushedAt": "2026-11-18T16:35:51.515Z"
+    "pushedAt": "2026-11-18T19:12:06.696Z"
   },
   {
     "id": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2",
@@ -7854,7 +7845,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:35:01.333Z"
+    "pushedAt": "2026-11-18T19:11:15.394Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/lombard-odier-almost-all-in-on-us-stocks-especially-tech",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-fed-minutes-lkbf/18dc-fed-minutes-lkbf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T19:10:46.191Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html",
+    "title": "The Anti-A.I. Campus Movement Is Growing",
+    "titleZh": "反人工智慧校園運動不斷成長",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-luddites-01-jzqc/00nat-luddites-01-jzqc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T19:13:00.652Z"
   }
 ]
