@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-    "title": "Ted Plafker, a stalwart of our China coverage, has died",
-    "titleZh": "我們中國報道的堅定支持者特德·普拉夫克去世",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-    "image": null,
-    "pushedAt": "2026-11-17T23:05:11.937Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
     "title": "China’s exports of clean tech to South-East Asia are soaring",
     "titleZh": "中國對東南亞的清潔技術出口激增",
@@ -1527,7 +1518,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16cul-phillips-auction-zghc/16cul-phillips-auction-zghc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T22:10:06.069Z"
+    "pushedAt": "2026-11-18T00:33:18.765Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
@@ -6900,7 +6891,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
     "image": null,
-    "pushedAt": "2026-11-17T22:09:42.695Z"
+    "pushedAt": "2026-11-18T00:32:55.368Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T00:32:27.702Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+    "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+    "titleZh": "英偉達沒有計劃召回黃仁勳",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-nvidia-04-vtqg/17biz-nvidia-04-vtqg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-18T00:33:43.166Z"
   }
 ]
