@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc",
-    "title": "Russia’s richest woman hit by EU sanctions",
-    "titleZh": "俄羅斯女首富遭遇歐盟制裁",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73504949-dd3b-428a-b55b-cf11fe858fde.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T04:45:26.182Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
     "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.",
     "titleZh": "這種癌症在一年內殺死了兒童。研究已停滯一年。",
@@ -6216,7 +6207,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
     "image": null,
-    "pushedAt": "2026-11-18T13:03:33.106Z"
+    "pushedAt": "2026-11-18T15:37:38.916Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/the-close-11-17-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
     "image": null,
     "pushedAt": "2026-11-18T15:37:10.526Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/nike-bets-on-cricket-to-triple-india-sales-as-china-sputters",
+    "title": "Nike Bets on Cricket to Triple India Sales as China Sputters",
+    "titleZh": "隨著中國市場的下滑，耐吉押注板球使印度銷售額增加三倍",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/nike-bets-on-cricket-to-triple-india-sales-as-china-sputters",
+    "image": null,
+    "pushedAt": "2026-11-18T15:38:06.466Z"
   }
 ]
