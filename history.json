@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
-    "title": "10 Numbers That Might Change How You See Asia",
-    "titleZh": "可能改變您對亞洲看法的 10 個數字",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-Asia-Index-kqmp/16int-Asia-Index-kqmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:32:57.931Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
     "title": "MIT Brothers Cleared of Charges in $25 Million Crypto Case",
     "titleZh": "麻省理工兄弟在價值 2500 萬美元的加密案件中被判無罪，避免重審",
@@ -2949,7 +2940,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-asia-visual-stack-ckfp/18int-trump-asia-visual-stack-ckfp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:11:05.510Z"
+    "pushedAt": "2026-11-18T18:50:22.354Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
@@ -7809,7 +7800,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-what-to-watch.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-what-to-watch-gzqp/18dealbook-summit-what-to-watch-gzqp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:11:31.105Z"
+    "pushedAt": "2026-11-18T18:50:47.181Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-brief-11-18-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
     "image": null,
     "pushedAt": "2026-11-18T18:49:54.354Z"
+  },
+  {
+    "id": "https://www.ft.com/content/88e0019a-b49b-4c20-bef2-3f504b94e313",
+    "title": "Russian oligarch offers ex-wife 1% of her £2.2bn divorce demand",
+    "titleZh": "俄羅斯寡頭向前妻提出22億英鎊離婚要求的1%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/88e0019a-b49b-4c20-bef2-3f504b94e313?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bb869dd-1bc4-40e3-817a-a7f074eed967.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T18:51:18.233Z"
   }
 ]
