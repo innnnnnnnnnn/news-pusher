@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/congo-ebola-outbreak-2026-record-crisis-defies-control-six-months-in",
-    "title": "Congo Ebola Outbreak 2026: Record Crisis Defies Control Six Months In",
-    "titleZh": "2026 年剛果伊波拉疫情：創紀錄的危機六個月後仍未能控制",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/congo-ebola-outbreak-2026-record-crisis-defies-control-six-months-in",
-    "image": null,
-    "pushedAt": "2026-11-16T06:52:02.446Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-16/india-to-benefit-from-unwinding-of-ai-trade-top-official-says",
-    "title": "India to Benefit From Unwinding of AI Trade, Top Official Says",
-    "titleZh": "高級官員稱印度將從人工智慧貿易的放鬆中受益",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/india-to-benefit-from-unwinding-of-ai-trade-top-official-says",
-    "image": null,
-    "pushedAt": "2026-11-16T11:26:48.146Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-16/the-asia-trade-11-16-2026-video",
     "title": "The Asia Trade (11/16/2026)",
     "titleZh": "Anthropic IPO，Nvidia 的影響成為焦點；世界領導人齊聚亞洲",
@@ -4137,7 +4119,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T02:48:30.633Z"
+    "pushedAt": "2026-11-18T05:04:33.909Z"
   },
   {
     "id": "https://www.ft.com/content/83968c32-1002-407f-b5d5-fcd46f5fcf94",
@@ -4605,7 +4587,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
     "image": null,
-    "pushedAt": "2026-11-18T02:48:06.932Z"
+    "pushedAt": "2026-11-18T05:04:10.527Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
@@ -6279,7 +6261,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
-    "pushedAt": "2026-11-18T02:47:43.316Z"
+    "pushedAt": "2026-11-18T05:03:47.420Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
@@ -8727,7 +8709,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-calls-for-deeper-cooperation-and-free-trade-video",
     "image": null,
-    "pushedAt": "2026-11-18T02:47:17.205Z"
+    "pushedAt": "2026-11-18T05:03:24.461Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/asics-coo-business-growth-outlook-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Japan-Steel_Video-still-cvbq/Biz-Japan-Steel_Video-still-cvbq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-18T05:02:58.496Z"
+  },
+  {
+    "id": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e",
+    "title": "The good and the bad of climate policy",
+    "titleZh": "氣候政策的好與壞",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e7c826f-4c64-4572-b699-f98d05120e64.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T05:05:00.658Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
+    "title": "Getting sucked back into the Brexit debate will not help growth",
+    "titleZh": "捲入英國脫歐辯論無助於經濟成長",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1171709d-569c-46f6-95f5-b199d27e4242.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-18T05:05:18.955Z"
   }
 ]
