@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
-    "title": "US Gas Pump Price Hits 8-Month Low to Ease Inflation Worries",
-    "titleZh": "隨著石油供應恢復，美國汽油泵價格跌至三月以來的最低水平",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
-    "image": null,
-    "pushedAt": "2026-11-17T12:48:34.368Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-plan-for-ai-supremacy-fuels-resistance-in-the-philippines",
     "title": "Trump’s plan for A.I. supremacy fuels resistance in the Philippines.",
     "titleZh": "川普的人工智慧計畫霸權助長了菲律賓的抵抗。",
@@ -4947,7 +4938,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
     "image": null,
-    "pushedAt": "2026-11-19T04:15:29.765Z"
+    "pushedAt": "2026-11-19T06:29:26.075Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
@@ -4956,7 +4947,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
     "image": null,
-    "pushedAt": "2026-11-19T04:18:37.960Z"
+    "pushedAt": "2026-11-19T06:31:32.220Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense",
@@ -6639,7 +6630,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
     "image": null,
-    "pushedAt": "2026-11-19T04:15:54.828Z"
+    "pushedAt": "2026-11-19T06:29:51.809Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video",
@@ -7179,7 +7170,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-ellison-vid-PROMO-kbwj/18DB-ellison-vid-PROMO-kbwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T04:16:21.460Z"
+    "pushedAt": "2026-11-19T06:30:16.554Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-s-valuation-seems-justified-thakker-video",
@@ -7710,7 +7701,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-trump-iran-bqfp/18dc-trump-iran-bqfp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T04:17:45.685Z"
+    "pushedAt": "2026-11-19T06:30:41.455Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
@@ -7732,12 +7723,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-    "title": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
+    "title": "Gold Wavers Near 14-Month Low as Market Tracks Hawkish Fed",
     "titleZh": "聯準會暗示將進一步升息 金價穩定在 14 個月低點附近",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
     "image": null,
-    "pushedAt": "2026-11-19T04:18:10.877Z"
+    "pushedAt": "2026-11-19T06:31:07.278Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/meta-looks-to-hire-new-india-policy-chief-to-repair-frayed-ties",
     "image": null,
     "pushedAt": "2026-11-19T06:18:31.399Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59",
+    "title": "Anthropic revenue target: $600bn, soonish",
+    "titleZh": "人為收入目標：6000 億美元，很快",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T06:31:59.410Z"
   }
 ]
