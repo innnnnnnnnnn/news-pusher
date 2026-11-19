@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-tech-11-17-2026-video",
-    "title": "Jensen Huang Signals He’s Ready for Nvidia Comeback",
-    "titleZh": "黃仁勳表示他已準備好迎接 Nvidia 的東山再起",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-tech-11-17-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-17T21:38:21.777Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/genesis-ai-hits-3-5b-valuation-in-robotics-bet-video",
-    "title": "Genesis AI Hits $3.5B Valuation in Robotics Bet",
-    "titleZh": "Genesis AI 在機器人賭注中估值達到 $3.5B",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/genesis-ai-hits-3-5b-valuation-in-robotics-bet-video",
-    "image": null,
-    "pushedAt": "2026-11-17T21:41:13.449Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/states-press-for-scrutiny-in-sale-of-chatbot-said-to-harm-kids",
-    "title": "States Press for Scrutiny in Sale of Chatbot Said to Harm Kids",
-    "titleZh": "各國要求嚴格審查販賣據稱傷害兒童的聊天機器人",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/states-press-for-scrutiny-in-sale-of-chatbot-said-to-harm-kids",
-    "image": null,
-    "pushedAt": "2026-11-17T21:42:51.255Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
     "title": "A.I.’s People-Pleasing Problem",
     "titleZh": "人工智慧令人愉悅的問題",
@@ -8335,12 +8308,12 @@
   },
   {
     "id": "https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9",
-    "title": "France and UK at loggerheads over food rules ahead of key EU summit",
+    "title": "France and UK at loggerheads ahead of key EU summit",
     "titleZh": "歐盟高峰會前夕，法國和英國就食品規則發生爭執",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T13:07:20.946Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F315a86dc-7578-4ed0-af65-18997ac8b6c5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T15:38:54.635Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T15:35:48.714Z"
+  },
+  {
+    "id": "https://www.ft.com/content/18735981-fabf-41a7-a9c4-ed9f1002b8e9",
+    "title": "Going to university is not just about money",
+    "titleZh": "上大學不只是為了錢",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/18735981-fabf-41a7-a9c4-ed9f1002b8e9",
+    "image": null,
+    "pushedAt": "2026-11-19T15:39:23.490Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731",
+    "title": "Milbank swoops on Weil Paris office as US law firms target European growth",
+    "titleZh": "美國律師事務所瞄準歐洲成長，米爾班克收購威爾巴黎辦事處",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T15:39:28.035Z"
+  },
+  {
+    "id": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2",
+    "title": "Putin invites European leaders to Moscow",
+    "titleZh": "普丁邀請歐洲領導人訪問莫斯科",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T15:39:31.278Z"
   }
 ]
