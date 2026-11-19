@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-    "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
-    "titleZh": "墨西哥毒梟米格爾·安赫爾·費利克斯·加拉多在獄中去世",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T07:53:51.216Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
     "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
     "titleZh": "瑪麗·佩爾托拉 (Mary Peltola) 將阿拉斯加參議院席位讓給民主黨",
@@ -5802,7 +5793,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T20:28:25.220Z"
+    "pushedAt": "2026-11-19T22:45:46.354Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
@@ -5811,7 +5802,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-19T20:28:49.994Z"
+    "pushedAt": "2026-11-19T22:46:10.682Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video",
@@ -6189,7 +6180,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-19T20:29:14.446Z"
+    "pushedAt": "2026-11-19T22:46:35.076Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -6198,7 +6189,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-19T20:30:28.827Z"
+    "pushedAt": "2026-11-19T22:47:24.116Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -6207,7 +6198,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-19T20:30:53.223Z"
+    "pushedAt": "2026-11-19T22:47:48.741Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
@@ -8088,7 +8079,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fhh1z8x21?ref=rss",
     "image": "https://cdn.flipso.com/p/fhh1z8x21_square.jpg",
-    "pushedAt": "2026-11-19T20:30:04.246Z"
+    "pushedAt": "2026-11-19T22:46:59.689Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/lyft-airport-pickups-saw-double-digit-gain-during-us-ground-stop",
     "image": null,
     "pushedAt": "2026-11-19T22:44:52.872Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
+    "title": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
+    "titleZh": "財政部官員再次對節稅交易浪潮發出警告",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
+    "image": null,
+    "pushedAt": "2026-11-19T22:48:15.016Z"
   }
 ]
