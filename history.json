@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-    "title": "Donald Trump will get a warm welcome in the Philippines",
-    "titleZh": "唐納德·特朗普將在菲律賓受到熱烈歡迎",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-    "image": null,
-    "pushedAt": "2026-11-19T11:11:13.879Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
     "title": "Putin Arrives in China for Trump, Xi Meeting",
     "titleZh": "普丁抵達中國出席川普、習近平會晤",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video",
     "image": null,
     "pushedAt": "2026-11-19T18:08:40.489Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+    "title": "Myanmar’s regime is convicted of genocide",
+    "titleZh": "緬甸政權被判種族滅絕罪",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+    "image": null,
+    "pushedAt": "2026-11-19T18:29:41.712Z"
   }
 ]
