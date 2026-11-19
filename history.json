@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
-    "title": "SQM Is Expanding Into a Lithium Glut on Price-Recovery Bet",
-    "titleZh": "儘管價格下滑，SQM 仍看到積極的鋰需求前景",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
-    "image": null,
-    "pushedAt": "2026-11-18T16:55:10.108Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand",
     "title": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
     "titleZh": "由於記憶體晶片成本影響小工具需求，鈷的前景黯淡",
@@ -4848,7 +4839,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
     "image": null,
-    "pushedAt": "2026-11-19T18:16:10.440Z"
+    "pushedAt": "2026-11-19T21:57:57.784Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
@@ -8538,7 +8529,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T19:41:52.074Z"
+    "pushedAt": "2026-11-19T21:57:08.942Z"
   },
   {
     "id": "https://www.ft.com/content/e444203b-c639-4cb5-b35a-75829d2d62de",
@@ -8547,7 +8538,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e444203b-c639-4cb5-b35a-75829d2d62de?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T19:41:55.601Z"
+    "pushedAt": "2026-11-19T21:57:33.293Z"
   },
   {
     "id": "https://www.ft.com/content/81b74d04-1289-4e87-8777-9eec66d9ae10",
@@ -8556,7 +8547,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/81b74d04-1289-4e87-8777-9eec66d9ae10?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T19:41:59.603Z"
+    "pushedAt": "2026-11-19T21:58:22.244Z"
   },
   {
     "id": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19anthropic-ipo-markets-reaction-pvht/19anthropic-ipo-markets-reaction-pvht-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T21:56:41.442Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+    "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+    "titleZh": "這位億萬富翁剛從人工智慧中賺了一大筆錢但它本來可以更多。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T21:58:46.898Z"
   }
 ]
