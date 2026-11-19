@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4",
-    "title": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
-    "titleZh": "聯準會麗莎庫克拒絕出席川普召集的聽證會",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T05:06:08.023Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
     "pushedAt": "2026-11-19T11:48:26.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video",
+    "title": "Trump, Xi & Putin Hold ‘Groundbreaking’ China Summit",
+    "titleZh": "川普、習近平和普丁舉行「開創性」中國峰會",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-19T11:48:57.205Z"
   }
 ]
