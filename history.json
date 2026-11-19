@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
-    "title": "An emerging consensus on trans politics",
-    "titleZh": "關於跨性別政治的新共識",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
-    "image": null,
-    "pushedAt": "2026-11-19T12:51:40.423Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
     "title": "How Florida withstood a blue wave",
     "titleZh": "佛羅裡達州如何抵禦藍色浪潮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
     "image": null,
     "pushedAt": "2026-11-19T20:05:54.377Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html",
+    "title": "Senate Republicans Block Bid to Rein in Trump on Iran War",
+    "titleZh": "參議院共和黨人阻止川普在伊朗戰爭問題上遏制川普的努力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-warpowers-tkfq/19dc-warpowers-tkfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T20:06:23.089Z"
   }
 ]
