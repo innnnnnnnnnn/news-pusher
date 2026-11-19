@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
-    "title": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
-    "titleZh": "美國拉爾夫勞倫 (Ralph Lauren) 品牌的背後是一位法國執行長。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/00bizsun-corneroffice-ralph-01-vlhz/00bizsun-corneroffice-ralph-01-vlhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T19:24:41.541Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html",
     "title": "In a Sloppified A.I. World, Only Humans Can Build ‘Ecosystems’",
     "titleZh": "在一個馬虎的人工智慧中世界，只有人類才能建構“生態系統”",
@@ -4371,7 +4362,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:16:25.245Z"
+    "pushedAt": "2026-11-19T15:49:05.402Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
@@ -7242,7 +7233,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:18:47.561Z"
+    "pushedAt": "2026-11-19T15:50:21.136Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
@@ -7251,7 +7242,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-19T13:19:12.592Z"
+    "pushedAt": "2026-11-19T15:50:45.473Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video",
@@ -7620,7 +7611,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T13:18:22.499Z"
+    "pushedAt": "2026-11-19T15:49:56.522Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
@@ -7629,7 +7620,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-19T13:19:37.628Z"
+    "pushedAt": "2026-11-19T15:51:34.443Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -8272,12 +8263,12 @@
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
-    "title": "Some World Leaders Flew Private to APEC. Not Mexico’s President.",
+    "title": "Some leaders flew private to the APEC summit in Manila, but not Mexico’s president.",
     "titleZh": "一些世界領導人乘坐私人飛機前往亞太經合組織。不是墨西哥總統。",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:17:17.781Z"
+    "pushedAt": "2026-11-19T15:49:31.196Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/96kssr0i2?ref=rss",
     "image": "https://cdn.flipso.com/p/96kssr0i2_square.jpg",
     "pushedAt": "2026-11-19T15:48:36.789Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/opinion-gta-blurs-fiction-and-reality-video",
+    "title": "“Grand Theft Auto VI” Blurs Fiction and Reality",
+    "titleZh": "《俠盜獵車手 VI》模糊了虛構與現實",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/opinion-gta-blurs-fiction-and-reality-video",
+    "image": null,
+    "pushedAt": "2026-11-19T15:52:02.538Z"
   }
 ]
