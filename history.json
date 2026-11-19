@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
-    "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
-    "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
-    "image": null,
-    "pushedAt": "2026-11-19T09:09:02.271Z"
-  },
-  {
     "id": "https://flipso.com/p/sysc76w07",
     "title": "350 years ago, Ole Rømer showed that light has a finite speed",
     "titleZh": "350 年前，Ole Rømer 證明光速有限",
@@ -1698,7 +1689,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c9edda0a-b10b-4dd6-b598-1cdf98e4337b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T13:45:16.308Z"
+    "pushedAt": "2026-11-19T16:09:41.406Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/rahul-gandhi-warns-india-economy-youth-unemployment-education-modi",
@@ -3759,7 +3750,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
     "image": null,
-    "pushedAt": "2026-11-19T13:46:30.347Z"
+    "pushedAt": "2026-11-19T16:10:30.470Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
@@ -5433,7 +5424,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-mandani-vid-PROMO-lqfm/18DB-mandani-vid-PROMO-lqfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:46:05.766Z"
+    "pushedAt": "2026-11-19T16:10:05.638Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
@@ -5442,7 +5433,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
     "image": null,
-    "pushedAt": "2026-11-19T13:46:56.198Z"
+    "pushedAt": "2026-11-19T16:11:19.963Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal",
@@ -6045,7 +6036,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-skorea-exam-klmw/18int-skorea-exam-klmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:48:10.642Z"
+    "pushedAt": "2026-11-19T16:11:44.623Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/trump-hails-great-ties-with-xi-downplays-nvidia-spy-scandal",
@@ -7656,7 +7647,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19theheadlines-PT-01-jmgb/19theheadlines-PT-01-jmgb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:44:51.527Z"
+    "pushedAt": "2026-11-19T16:09:16.875Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/coreweave-s-venturo-says-he-bought-30-million-of-firm-s-bonds",
     "image": null,
     "pushedAt": "2026-11-19T16:08:48.938Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
+    "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
+    "titleZh": "在羅辛亞難民營，歡欣鼓舞，但也充滿憂慮",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-camps-reax-gwpz/19myanmar-icj-camps-reax-gwpz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T16:12:14.004Z"
   }
 ]
