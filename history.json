@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a",
-    "title": "US strikes Qeshm Island after Iran targets American base in Bahrain",
-    "titleZh": "伊朗攻擊位於巴林的美國空軍基地",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T03:50:12.238Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
     "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
     "titleZh": "川普在委內瑞拉的石油掠奪正在考驗該國的國家認同",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
     "pushedAt": "2026-11-19T10:58:29.493Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
+    "title": "IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go",
+    "titleZh": "國際貨幣基金組織總裁警告人工智慧糾正還有“一點進步”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
+    "image": null,
+    "pushedAt": "2026-11-19T10:59:01.900Z"
   }
 ]
