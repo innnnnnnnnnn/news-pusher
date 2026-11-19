@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
-    "title": "China Stock Bull Sees Up to 15% Upside on Earnings, Valuation",
-    "titleZh": "中國股市牛市預計獲利和估值上漲高達 15%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
-    "image": null,
-    "pushedAt": "2026-11-17T08:24:06.322Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
     "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
     "titleZh": "洩漏的記錄顯示德意志銀行向俄羅斯寡頭示好",
@@ -7827,7 +7818,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-18T22:20:11.530Z"
+    "pushedAt": "2026-11-19T00:59:52.705Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages",
@@ -8412,7 +8403,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/citi-ceo-looks-forward-to-working-with-sen-warren-video",
     "image": null,
-    "pushedAt": "2026-11-18T22:19:43.613Z"
+    "pushedAt": "2026-11-19T00:59:26.669Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-ipo-signals-strong-ai-appetite-harbor-capital-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-lagarde-vid-PROMO-tlfz/18DB-lagarde-vid-PROMO-tlfz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T00:58:58.870Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+    "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+    "titleZh": "伊隆馬斯克淡化共和黨中期虧損後的支持",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-musk-vltw/18dealbook-summit-musk-vltw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T01:00:21.310Z"
   }
 ]
