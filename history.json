@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-    "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-    "titleZh": "艾森科特指責內塔尼亞胡助長針對阿拉伯人的「種族主義」敵意",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T10:39:27.338Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
     "title": "China Stock Bull Sees Up to 15% Upside on Earnings, Valuation",
     "titleZh": "中國股市牛市預計獲利和估值上漲高達 15%",
@@ -3831,7 +3822,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
     "image": null,
-    "pushedAt": "2026-11-18T22:18:24.742Z"
+    "pushedAt": "2026-11-19T00:57:38.824Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
@@ -3840,7 +3831,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
     "image": null,
-    "pushedAt": "2026-11-18T22:18:50.089Z"
+    "pushedAt": "2026-11-19T00:58:04.772Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
@@ -3849,7 +3840,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
     "image": null,
-    "pushedAt": "2026-11-18T22:19:14.690Z"
+    "pushedAt": "2026-11-19T00:58:30.212Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
@@ -8407,12 +8398,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap",
+    "title": "US Stock Futures Climb on Anthropic IPO Pricing: Markets Wrap",
     "titleZh": "亞洲股市將在人類首次亮相之前下跌：市場總結",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-18T22:17:56.784Z"
+    "pushedAt": "2026-11-19T00:57:13.113Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/citi-ceo-looks-forward-to-working-with-sen-warren-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/top-australia-bank-cba-invests-in-own-compute-power-for-ai-push",
     "image": null,
     "pushedAt": "2026-11-19T00:56:44.379Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html",
+    "title": "Watch: Christine Lagarde Wants to Fight Fake News",
+    "titleZh": "觀看：克里斯蒂娜·拉加德想要打擊假新聞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-lagarde-vid-PROMO-tlfz/18DB-lagarde-vid-PROMO-tlfz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:58:58.870Z"
   }
 ]
