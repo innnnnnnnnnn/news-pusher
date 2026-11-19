@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-    "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
-    "titleZh": "人工智慧.協助尋找對互聯網至關重要的軟體平台 Java 中的主要安全漏洞",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-aibug-zfmc/17dc-aibug-zfmc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T04:16:56.401Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
     "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
     "titleZh": "隨著眾議院民主黨多數席位仍在增長，重新計票將在最接近的競選中開始",
@@ -5018,8 +5009,8 @@
     "titleZh": "Anthropic 的公開亮相為企業權力搭建了“實驗”",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-governance-bvmc/18biz-anthropic-governance-bvmc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T14:32:22.478Z"
+    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/18biz-anthropic-governance/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T16:53:23.629Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-one-opening-address-video",
@@ -7080,7 +7071,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/california-faces-2-billion-deficit-as-budget-overextended",
     "image": null,
-    "pushedAt": "2026-11-19T14:32:47.911Z"
+    "pushedAt": "2026-11-19T16:53:48.020Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-1-1-billion-of-shares-sold-to-european-retail-investors",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/zino-anthropic-is-most-important-ipo-that-i-ve-seen-video",
     "image": null,
     "pushedAt": "2026-11-19T16:52:55.471Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
+    "title": "Central banks ❤️ US dollars",
+    "titleZh": "各國央行❤️美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
+    "image": null,
+    "pushedAt": "2026-11-19T16:54:16.314Z"
   }
 ]
