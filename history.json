@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
-    "title": "Fed Governor Cook Won’t Attend White House Hearing Without Changes",
-    "titleZh": "聯準會理事庫克 (Lisa Cook) 表示，若無變動，她將不會出席白宮聽證會",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-TRUMP-COOK-vbcz/17DC-TRUMP-COOK-vbcz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T20:25:48.127Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
-    "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
-    "titleZh": "地緣政治籠罩著歐洲歌唱大賽，但亞洲版卻不受影響",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T17:29:33.026Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/danish-central-bank-denies-shift-in-fx-peg-after-krone-weakness",
     "title": "Danish Central Bank Denies Shift in FX Peg After Krone Weakness",
     "titleZh": "丹麥央行否認克朗疲軟後改變匯率掛鉤",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022",
     "image": null,
     "pushedAt": "2026-11-19T12:02:05.812Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/nvidia-moves-ousted-ceo-jensen-huang-out-of-the-spotlight",
+    "title": "Nvidia Moves Ousted CEO Jensen Huang Out of the Spotlight",
+    "titleZh": "英偉達將被罷黜的執行長黃仁勳從聚光燈下趕走",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/nvidia-moves-ousted-ceo-jensen-huang-out-of-the-spotlight",
+    "image": null,
+    "pushedAt": "2026-11-19T12:02:37.012Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/-grand-theft-auto-vi-debut-spurs-livestream-influencer-marathons",
+    "title": "‘Grand Theft Auto VI’ Debut Spurs Livestream Influencer Marathons",
+    "titleZh": "《俠盜獵車手 VI》首秀刺激直播影響力馬拉松",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/-grand-theft-auto-vi-debut-spurs-livestream-influencer-marathons",
+    "image": null,
+    "pushedAt": "2026-11-19T12:02:42.299Z"
   }
 ]
