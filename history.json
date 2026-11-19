@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
-    "title": "Late Night Flies High on the F.A.A. Ground Stop",
-    "titleZh": "深夜在聯邦航空管理局 (F.A.A.) 上度過了愉快的時光地面停止",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
-    "image": null,
-    "pushedAt": "2026-11-17T15:53:28.985Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
     "title": "European Stocks Extend Fall as Tech Drags; Deutsche Bank Slides",
     "titleZh": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-hugging-topart-jmkw/19trump-summits-hugging-topart-jmkw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T03:48:46.034Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/gftn-s-mohanty-on-fintech-anthropic-ipo-video",
+    "title": "GFTN's Mohanty on Fintech, Anthropic IPO",
+    "titleZh": "GFTN 的 Mohanty 談金融科技和 Anthropic IPO",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/gftn-s-mohanty-on-fintech-anthropic-ipo-video",
+    "image": null,
+    "pushedAt": "2026-11-19T03:49:17.471Z"
   }
 ]
