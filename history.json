@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/waller-says-fed-open-to-responsible-innovation-in-payments",
-    "title": "Waller Says Fed Open to ‘Responsible Innovation’ in Payments",
-    "titleZh": "沃勒表示聯準會對支付領域的「負責任的創新」持開放態度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/waller-says-fed-open-to-responsible-innovation-in-payments",
-    "image": null,
-    "pushedAt": "2026-11-18T06:43:15.269Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video",
-    "title": "Anthropic Is Said to Guide IPO Price to Top of Range",
-    "titleZh": "據稱，Anthropic 將引導 IPO 價格至區間頂部",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video",
-    "image": null,
-    "pushedAt": "2026-11-17T17:13:23.071Z"
-  },
-  {
     "id": "https://www.nytimes.com/es/2026/11/17/espanol/america-latina/christian-sanon-juicio-haiti-asesinato-presidente.html",
     "title": "¿Quién es el hombre acusado de asesinar al presidente de Haití?",
     "titleZh": "你是海地總統的朋友嗎？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/citi-sees-romanian-carry-appeal-with-budget-key-for-bond-rally",
     "image": null,
     "pushedAt": "2026-11-19T11:29:52.747Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+    "title": "A new axis of malice threatens the global order",
+    "titleZh": "新的惡意軸心威脅全球秩序",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+    "image": null,
+    "pushedAt": "2026-11-19T11:30:21.190Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
+    "title": "Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow",
+    "titleZh": "俄羅斯對日本菸草公司的收購造成 86 億美元的打擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Russia-JapanTobacco-bplv/19Biz-Russia-JapanTobacco-bplv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T11:30:25.883Z"
   }
 ]
