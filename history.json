@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
-    "title": "Trump Administration Says It Will Not Use Ships to Deport Migrants",
-    "titleZh": "川普政府表示不會使用船隻驅逐移民",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-deport-tcjb/17dc-deport-tcjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T00:07:37.642Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/arts/design/frida-kahlo-painting-auction-christies.html",
     "title": "Contested Frida Kahlo Painting Is Withdrawn Hours Before Auction",
     "titleZh": "有爭議的弗里達卡羅畫作在拍賣前幾小時被撤回",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
     "image": null,
     "pushedAt": "2026-11-19T19:44:18.913Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/ai-safety-framework-bill-teased-by-bipartisan-house-lawmakers",
+    "title": "AI Safety Framework Bill Teased by Bipartisan House Lawmakers",
+    "titleZh": "兩黨眾議員嘲笑人工智慧安全框架法案",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ai-safety-framework-bill-teased-by-bipartisan-house-lawmakers",
+    "image": null,
+    "pushedAt": "2026-11-19T19:44:48.366Z"
   }
 ]
