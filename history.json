@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/galp83x2o",
-    "title": "Making the Iron Giant Live",
-    "titleZh": "讓鋼鐵巨人活下去",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/galp83x2o?ref=rss",
-    "image": "https://cdn.flipso.com/p/galp83x2o_square.jpg",
-    "pushedAt": "2026-11-17T17:54:16.613Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/chile-central-bank-says-new-rules-eased-fallout-from-swap-losses",
-    "title": "Chile Central Bank Says New Rules Eased Fallout From Swap Losses",
-    "titleZh": "智利央行表示新規則緩解了掉期損失的影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/chile-central-bank-says-new-rules-eased-fallout-from-swap-losses",
-    "image": null,
-    "pushedAt": "2026-11-18T01:03:44.983Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/opinion/canada-trump-america-midterms.html",
     "title": "Welcome Back, America! It’s Your Turn to Be Sorry.",
     "titleZh": "好吧，美國，我們仍然可以成為朋友",
@@ -8223,7 +8205,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T07:35:29.946Z"
+    "pushedAt": "2026-11-19T10:05:49.534Z"
   },
   {
     "id": "https://www.ft.com/content/cebcc448-bbff-4779-bd52-4c8911b107cb",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/s7o73jmp0?ref=rss",
     "image": "https://cdn.flipso.com/p/s7o73jmp0_square.jpg",
     "pushedAt": "2026-11-19T10:05:21.544Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+    "title": "Colombia’s President Is Acquiring a Reputation for Courting Controversy",
+    "titleZh": "哥倫比亞總統因引發爭議而聲名大噪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-colombia-president-pjvz/19int-colombia-president-pjvz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T10:06:17.482Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+    "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+    "titleZh": "COP31 內部：部分貿易展，部分氣候治療會議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T10:06:22.306Z"
   }
 ]
