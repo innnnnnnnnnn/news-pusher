@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
-    "title": "Jensen Huang must go",
-    "titleZh": "黃仁勳必須走",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
-    "image": null,
-    "pushedAt": "2026-11-18T15:33:03.439Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
-    "title": "Trump Prepares for Power Flex at Putin-Xi Summit",
-    "titleZh": "川普為普丁-習峰會上的權力彈性做準備",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
-    "image": null,
-    "pushedAt": "2026-11-17T22:36:20.729Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
     "title": "B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market",
     "titleZh": "B3 將增加在海外上市的巴西股票以援助陷入困境的當地市場",
@@ -4362,7 +4344,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
     "image": null,
-    "pushedAt": "2026-11-19T13:42:46.576Z"
+    "pushedAt": "2026-11-19T16:05:50.558Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
@@ -4371,7 +4353,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "image": null,
-    "pushedAt": "2026-11-19T13:43:10.889Z"
+    "pushedAt": "2026-11-19T16:06:15.375Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/walmart-forecast-bath-body-works-beats-estimates-video",
     "image": null,
     "pushedAt": "2026-11-19T16:00:47.550Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+    "title": "Drone Hits Dutch Embassy Compound in Kyiv, Ukrainian Officials Say",
+    "titleZh": "烏克蘭官員稱，無人機襲擊了荷蘭駐基輔大使館大院",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-fpwt/19int-ukraine-embassy-fpwt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T16:06:42.495Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-may-be-takeover-proof-video",
+    "title": "Why Anthropic May Be Takeover-Proof",
+    "titleZh": "為什麼 Anthropic 可以防止被收購",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-may-be-takeover-proof-video",
+    "image": null,
+    "pushedAt": "2026-11-19T16:06:47.086Z"
   }
 ]
