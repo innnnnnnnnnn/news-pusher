@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
-    "title": "European Gas Fluctuates as Traders Weigh Iran Mediation Efforts",
-    "titleZh": "歐洲天然氣因中東緊張局勢和天氣前景而走高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
-    "image": null,
-    "pushedAt": "2026-11-17T11:35:49.631Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video",
     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
     "titleZh": "美國採取措施限制中國遠端存取 Nvidia 晶片（視訊）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5ed2e6f5-80b9-4f51-a442-c88eb4ad615f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T03:17:23.968Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea",
+    "title": "UK jobs market stalled ahead of October Budget",
+    "titleZh": "英國就業市場在十月預算案公佈前陷入停滯",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T03:17:52.838Z"
   }
 ]
