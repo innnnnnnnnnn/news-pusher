@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-    "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
-    "titleZh": "洩漏的記錄顯示德意志銀行向俄羅斯寡頭示好",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T23:47:38.263Z"
-  },
-  {
     "id": "https://www.ft.com/content/f263fbf0-e0cc-48dd-b6be-d28b9ce45dd7",
     "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
     "titleZh": "德意志銀行 1500 萬份文件外洩揭露系統性故障",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-musk-vltw/18dealbook-summit-musk-vltw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T01:00:21.310Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
+    "title": "The Biggest Winners in Anthropic’s Landmark Public Offering",
+    "titleZh": "Anthropic 劃時代公開發行中的最大贏家",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
+    "image": null,
+    "pushedAt": "2026-11-19T01:00:52.481Z"
   }
 ]
