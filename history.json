@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
-    "title": "China Sets Strongest Yuan Fixing Since 2022 as APEC Begins",
-    "titleZh": "中國人民銀行設定自 2022 年以來最強勁的人民幣匯率以允許進一步升值",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
-    "image": null,
-    "pushedAt": "2026-11-18T04:01:30.326Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
     "title": "SQM Is Expanding Into a Lithium Glut on Price-Recovery Bet",
     "titleZh": "儘管價格下滑，SQM 仍看到積極的鋰需求前景",
@@ -1194,7 +1185,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T19:39:24.105Z"
+    "pushedAt": "2026-11-19T21:55:02.291Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/iceland-holds-key-rate-at-8-signals-no-rush-to-start-easing",
@@ -4722,7 +4713,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18vid-db-summit-coplan-vid-cover-gkcz/18vid-db-summit-coplan-vid-cover-gkcz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-19T19:41:26.182Z"
+    "pushedAt": "2026-11-19T21:56:14.877Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
@@ -5568,7 +5559,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-central-bank-rates-oil-2027--lesetja-kganyago",
     "image": null,
-    "pushedAt": "2026-11-19T19:39:48.352Z"
+    "pushedAt": "2026-11-19T21:55:26.528Z"
   },
   {
     "id": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a",
@@ -6279,7 +6270,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
     "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:38:29.024Z"
+    "pushedAt": "2026-11-19T21:54:13.504Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/imf-chief-little-bit-more-ai-correction-debt-risk-rise-video",
@@ -6297,7 +6288,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/senegal-parliament-rejects-2027-budget-in-setback-for-imf-deal",
     "image": null,
-    "pushedAt": "2026-11-19T19:41:01.923Z"
+    "pushedAt": "2026-11-19T21:55:50.741Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom",
@@ -8538,7 +8529,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-tech-11-19-2026-video",
     "image": null,
-    "pushedAt": "2026-11-19T19:38:56.555Z"
+    "pushedAt": "2026-11-19T21:54:37.988Z"
   },
   {
     "id": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion",
     "image": null,
     "pushedAt": "2026-11-19T21:52:30.331Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+    "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+    "titleZh": "Anthropic IPO成功後為何股市下跌？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19anthropic-ipo-markets-reaction-pvht/19anthropic-ipo-markets-reaction-pvht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T21:56:41.442Z"
   }
 ]
