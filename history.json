@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/consumer-strain-meets-ai-s-reality-check-video",
-    "title": "Consumer Strain Meets AI’s Reality Check",
-    "titleZh": "消費者壓力遭遇人工智慧的現實檢驗",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/consumer-strain-meets-ai-s-reality-check-video",
-    "image": null,
-    "pushedAt": "2026-11-17T18:25:33.047Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-    "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-    "titleZh": "南蘇丹首次全國選舉將延後",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T23:14:16.683Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/cookie-maker-s-lenders-tap-advisers-as-liquidity-pressure-builds",
     "title": "Cookie Maker’s Lenders Tap Advisers as Liquidity Pressure Builds",
     "titleZh": "隨著流動性壓力的增大，Cookie Maker 的貸款機構聘請顧問",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T13:17:17.781Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
+    "title": "Argentina’s $24 Billion LNG Dream Bets On Milei's Model Enduring",
+    "titleZh": "阿根廷 240 億美元的液化天然氣夢想押注於 Milei 的持久模式",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
+    "image": null,
+    "pushedAt": "2026-11-19T13:17:48.859Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/turkish-fund-investors-protest-in-ankara-over-trapped-savings",
+    "title": "Turkey Fund Investors Protest in Ankara Over Trapped Savings",
+    "titleZh": "土耳其基金投資者因儲蓄被困在安卡拉抗議",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/turkish-fund-investors-protest-in-ankara-over-trapped-savings",
+    "image": null,
+    "pushedAt": "2026-11-19T13:17:54.435Z"
   }
 ]
