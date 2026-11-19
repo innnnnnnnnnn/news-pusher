@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82",
-    "title": "Ukraine destroys section of Crimea bridge in fierce exchange",
-    "titleZh": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T04:22:31.099Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
     "title": "Trump Has Praised Marcos’s Family Legacy. His Father Was a Dictator.",
     "titleZh": "川普讚揚了馬可斯的家族遺產。他的父親是一位獨裁者。",
@@ -636,7 +627,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/lh4bzoeu5?ref=rss",
     "image": "https://cdn.flipso.com/p/lh4bzoeu5_square.jpg",
-    "pushedAt": "2026-11-19T02:38:23.942Z"
+    "pushedAt": "2026-11-19T05:04:59.878Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
@@ -2301,7 +2292,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T02:37:33.187Z"
+    "pushedAt": "2026-11-19T05:04:06.722Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
@@ -6072,7 +6063,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T02:37:58.180Z"
+    "pushedAt": "2026-11-19T05:04:31.527Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T05:03:38.627Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+    "titleZh": "村莊被燒毀，人們被殺害或流放。這是種族滅絕嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T05:05:29.232Z"
   }
 ]
