@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
-    "title": "Does This Man Have a Right to the Data From His Own Brain?",
-    "titleZh": "這個人有權利獲得自己大腦中的數據嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:21:30.597Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
     "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
     "titleZh": "由於擔心中國競爭對手，美國生技採取新規範：不分享任何內容",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/danamon-s-kawasaki-stays-bullish-on-indonesia-growth-video",
     "image": null,
     "pushedAt": "2026-11-19T05:40:17.440Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/ripple-s-garlinghouse-sees-crypto-assets-diverging-video",
+    "title": "Ripple’s Garlinghouse Sees Crypto Assets Diverging",
+    "titleZh": "Ripple 的 Garlinghouse 認為加密資產出現分化",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/ripple-s-garlinghouse-sees-crypto-assets-diverging-video",
+    "image": null,
+    "pushedAt": "2026-11-19T05:40:49.021Z"
   }
 ]
