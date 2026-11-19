@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
-    "title": "One of the Biggest Weeks in the AI Industry’s History",
-    "titleZh": "人工智慧產業歷史上最重要的一周之一",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
-    "image": null,
-    "pushedAt": "2026-11-17T22:30:24.289Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move",
-    "title": "Fed Officials Debate Pace of Rate Hikes as Williams Urges Measured Action",
-    "titleZh": "威廉斯敦促採取謹慎行動，聯準會官員討論升息步伐",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move",
-    "image": null,
-    "pushedAt": "2026-11-18T08:02:29.561Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
     "title": "Barclays Sees 2027 Muni Bond Supply Reaching Up to $600 Billion",
     "titleZh": "巴克萊預計 2027 年市政債券供應量將達到 6,000 億美元",
@@ -6351,7 +6333,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/boj-s-ueda-unfazed-by-consumption-drop-stays-open-to-rate-hike",
     "image": null,
-    "pushedAt": "2026-11-19T13:23:23.455Z"
+    "pushedAt": "2026-11-19T15:57:38.475Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/trump-warns-against-regulations-that-would-stifle-ai-industry",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-decided-to-go-public-now-video",
     "image": null,
     "pushedAt": "2026-11-19T15:57:10.267Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+    "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fires",
+    "titleZh": "橋樑襲擊後普丁表示他不會「談判」烏克蘭停火",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T15:58:05.845Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
+    "title": "Anthropic IPO: What to Know About the Share Price and Trading Debut",
+    "titleZh": "人為 IPO：如何了解股價和交易首次亮相",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
+    "image": null,
+    "pushedAt": "2026-11-19T15:58:09.779Z"
   }
 ]
