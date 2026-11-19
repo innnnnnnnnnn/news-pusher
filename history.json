@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-18T23:41:15.143Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
-    "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
-    "titleZh": "英偉達財報發布前夕股價下跌",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
-    "image": null,
-    "pushedAt": "2026-11-18T21:02:42.750Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value",
-    "title": "Coatue, Thrive in Talks to Value Ramp Up to $75 Billion",
-    "titleZh": "Coatue 與 Thrive 就領投價值 700 億美元的斜坡融資進行談判",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value",
-    "image": null,
-    "pushedAt": "2026-11-18T01:18:38.580Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
     "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
     "titleZh": "黃仁勳的魯莽讓英偉達別無選擇",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
     "image": null,
     "pushedAt": "2026-11-19T16:08:08.483Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/how-anthropic-plans-to-use-ipo-proceeds-video",
+    "title": "How Anthropic Plans to Use IPO Proceeds",
+    "titleZh": "Anthropic 計劃如何使用 IPO 收益",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/how-anthropic-plans-to-use-ipo-proceeds-video",
+    "image": null,
+    "pushedAt": "2026-11-19T16:08:38.424Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-delivers-wall-street-windfall-video",
+    "title": "Anthropic IPO Delivers Wall Street Windfall",
+    "titleZh": "人類首次公開募股為華爾街帶來意外之財",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-delivers-wall-street-windfall-video",
+    "image": null,
+    "pushedAt": "2026-11-19T16:08:43.394Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/coreweave-s-venturo-says-he-bought-30-million-of-firm-s-bonds",
+    "title": "CoreWeave’s Venturo Says He Bought $30 Million of Firm’s Bonds",
+    "titleZh": "CoreWeave 的 Venturo 表示他購買了 3,000 萬美元的公司債",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/coreweave-s-venturo-says-he-bought-30-million-of-firm-s-bonds",
+    "image": null,
+    "pushedAt": "2026-11-19T16:08:48.938Z"
   }
 ]
