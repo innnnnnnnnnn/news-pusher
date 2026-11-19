@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-    "title": "Measles Is Officially Back in the United States. What Now?",
-    "titleZh": "麻疹正式回歸美國。現在怎麼辦？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T23:36:30.447Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
-    "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
-    "titleZh": "SpaceX 在德克薩斯州成功捕獲火箭，創造歷史",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T18:49:38.852Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff",
-    "title": "Take-Two’s Firaxis, Maker of ‘Civilization,’ Cuts a Third of Its Staff",
-    "titleZh": "《文明》的製作者 Take-Two 的 Firaxis 裁員三分之一",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff",
-    "image": null,
-    "pushedAt": "2026-11-17T18:50:28.203Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/optimum-nears-deal-with-creditors-to-slash-26-billion-debt-pile",
     "title": "Optimum Nears Deal With Creditors to Slash $26 Billion Debt Pile",
     "titleZh": "Optimum 即將與債權人達成削減 260 億美元債務的協議",
@@ -6333,7 +6306,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T11:44:36.997Z"
+    "pushedAt": "2026-11-19T14:16:44.532Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
@@ -6801,7 +6774,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:43:39.353Z"
+    "pushedAt": "2026-11-19T14:15:53.001Z"
   },
   {
     "id": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2",
@@ -8457,7 +8430,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/laprophan-raises-223-million-in-africa-s-largest-pharma-ipo",
     "image": null,
-    "pushedAt": "2026-11-19T11:44:08.963Z"
+    "pushedAt": "2026-11-19T14:16:18.672Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/zimbabwe-asks-lenders-for-grants-to-repay-what-it-owes-them",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/1e114e7d-59b4-4642-b720-c3e706d9a5c1?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T14:15:25.287Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c",
+    "title": "Trump, Putin and Xi in historic trilateral meeting",
+    "titleZh": "川普、普丁和習近平舉行歷史性三邊會議",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T14:17:11.089Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c39c29f8-3141-423e-b6b9-674e40be1e66",
+    "title": "UK revamps renewable energy auctions in move to bring down costs",
+    "titleZh": "英國改革再生能源拍賣以降低成本",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c39c29f8-3141-423e-b6b9-674e40be1e66?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T14:17:14.470Z"
+  },
+  {
+    "id": "https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab",
+    "title": "Kenya awards prized rare earth deposit to US group",
+    "titleZh": "肯亞將珍貴的稀土礦授予美國集團",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T14:17:18.225Z"
   }
 ]
