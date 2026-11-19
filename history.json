@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
-    "title": "B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market",
-    "titleZh": "B3 將增加在海外上市的巴西股票以援助陷入困境的當地市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
-    "image": null,
-    "pushedAt": "2026-11-17T22:50:49.703Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/business/economy/stocks-slump-ahead-of-nvidia-earnings-report.html",
-    "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
-    "titleZh": "英偉達財報發布前夕股價下跌",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/economy/stocks-slump-ahead-of-nvidia-earnings-report.html",
-    "image": null,
-    "pushedAt": "2026-11-17T20:28:06.738Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -7179,7 +7161,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
     "image": null,
-    "pushedAt": "2026-11-19T13:44:25.943Z"
+    "pushedAt": "2026-11-19T16:07:39.672Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart",
@@ -7692,7 +7674,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/german-growth-to-accelerate-in-fourth-quarter-bundesbank-says",
     "image": null,
-    "pushedAt": "2026-11-19T13:43:35.754Z"
+    "pushedAt": "2026-11-19T16:07:14.833Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-may-be-takeover-proof-video",
     "image": null,
     "pushedAt": "2026-11-19T16:06:47.086Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion",
+    "title": "Meet Anthropic’s seven founders. Each is now worth about $20 billion.",
+    "titleZh": "來認識 Anthropic 的七位創辦人。目前每項資產的價值約為 200 億美元。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion",
+    "image": null,
+    "pushedAt": "2026-11-19T16:08:04.633Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
+    "title": "Putin Basks in Spotlight With Trump, Xi as War in Ukraine Grinds On",
+    "titleZh": "烏克蘭戰爭愈演愈烈，普丁與川普、習近平成為焦點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
+    "image": null,
+    "pushedAt": "2026-11-19T16:08:08.483Z"
   }
 ]
