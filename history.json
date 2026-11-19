@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
-    "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
-    "titleZh": "瑪莎·史都華 (Martha Stewart) 的卡爾什 (Kalshi) 廣告警告反對內幕交易",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/business/17db-martha-kalshi/17db-martha-kalshi-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-18T21:08:05.366Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/private-equity-finds-a-year-end-window-to-take-cash-out-of-firms",
     "title": "Private Equity Finds a Year-End Window to Take Cash Out of Firms",
     "titleZh": "私募股權趁著年底時機從企業提領現金",
@@ -2364,7 +2355,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ehfrs9r34?ref=rss",
     "image": "https://cdn.flipso.com/p/ehfrs9r34_square.jpg",
-    "pushedAt": "2026-11-19T08:05:23.388Z"
+    "pushedAt": "2026-11-19T10:35:23.948Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/mike-lynch-yacht-crew-unaware-of-wind-risks-uk-probe-finds",
     "image": null,
     "pushedAt": "2026-11-19T10:32:49.301Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/ubs-plans-to-shift-hundreds-of-roles-to-india-in-offshoring-push",
+    "title": "UBS Plans to Shift Hundreds of Roles to India in Offshoring Push",
+    "titleZh": "瑞銀計劃將數百個角色轉移到印度以推動離岸外包",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ubs-plans-to-shift-hundreds-of-roles-to-india-in-offshoring-push",
+    "image": null,
+    "pushedAt": "2026-11-19T10:35:51.973Z"
   }
 ]
