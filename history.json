@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage",
-    "title": "Apple Works to Restore Systems After Internal Update Causes Outage",
-    "titleZh": "Apple 致力於在更新導致中斷後恢復系統",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage",
-    "image": null,
-    "pushedAt": "2026-11-17T21:51:57.900Z"
-  },
-  {
-    "id": "https://www.ft.com/content/437d5cbb-ee07-43bd-8db6-e3c9cf8c8eb5",
-    "title": "An old-school mission to Mercury",
-    "titleZh": "前往水星的老式任務",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/437d5cbb-ee07-43bd-8db6-e3c9cf8c8eb5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T07:04:06.877Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
     "title": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
     "titleZh": "德意志銀行尋求遏制資料外洩的影響",
@@ -2688,7 +2670,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/18dc-trump-putin/28int-ukraine-pipes-grid-hp-02-mgvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:21:43.287Z"
+    "pushedAt": "2026-11-19T15:55:10.319Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
@@ -2697,7 +2679,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-myanmar-icj-wtk-mtwg/18int-myanmar-icj-wtk-mtwg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:22:33.224Z"
+    "pushedAt": "2026-11-19T15:55:36.669Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/walmart-benefits-from-e-commerce-video",
     "image": null,
     "pushedAt": "2026-11-19T15:54:42.110Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/cfos-face-rising-costs-reluctant-consumers-video",
+    "title": "CFOs Face Rising Costs, Reluctant Consumers",
+    "titleZh": "財務長面臨成本上升和消費者的不情願",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/cfos-face-rising-costs-reluctant-consumers-video",
+    "image": null,
+    "pushedAt": "2026-11-19T15:56:02.003Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real",
+    "title": "Brazil Central Bank Steps Into Markets as Fiscal Woes Hit Real",
+    "titleZh": "財政困境襲來，巴西央行介入市場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real",
+    "image": null,
+    "pushedAt": "2026-11-19T15:56:05.519Z"
   }
 ]
