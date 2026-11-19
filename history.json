@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-    "title": "Jensen Huang is out. His successor has the toughest job in tech",
-    "titleZh": "黃仁勳出局了。他的繼任者從事科技領域最艱難的工作",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-    "image": null,
-    "pushedAt": "2026-11-19T13:49:00.291Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/the-close-11-17-2026-video",
     "title": "Stocks End Lower For A 4th Straight Session, Nvidia Earnings",
     "titleZh": "英偉達財報顯示，股市連續第四個交易日收低",
@@ -2472,7 +2463,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:15:20.942Z"
+    "pushedAt": "2026-11-19T21:28:48.081Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
@@ -5397,7 +5388,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T19:14:55.799Z"
+    "pushedAt": "2026-11-19T21:28:23.598Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
@@ -5406,7 +5397,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:16:10.103Z"
+    "pushedAt": "2026-11-19T21:29:12.851Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
@@ -5415,7 +5406,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:16:34.844Z"
+    "pushedAt": "2026-11-19T21:29:37.593Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
@@ -8196,7 +8187,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-count-gvbq/18pol-alaska-count-gvbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:16:59.373Z"
+    "pushedAt": "2026-11-19T21:30:02.549Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/podcasts/rats-real-estate-serial-new-york.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
     "image": null,
     "pushedAt": "2026-11-19T21:26:14.694Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video",
+    "title": "Anthropic Jumps 17% in Record IPO as Broader Tech Market Sells Off | Closing Bell",
+    "titleZh": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video",
+    "image": null,
+    "pushedAt": "2026-11-19T21:30:28.668Z"
   }
 ]
