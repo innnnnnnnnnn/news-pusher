@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa",
-    "title": "Cassava Seeks $1 Billion for Nvidia Chips to Power AI in Africa",
-    "titleZh": "Cassava 尋求 10 億美元購買 Nvidia 晶片，為非洲的人工智慧提供動力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa",
-    "image": null,
-    "pushedAt": "2026-11-17T11:11:19.343Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/turkey-fund-assets-shrink-by-54-billion-amid-manipulation-probe",
     "title": "Turkey Fund Assets Shrink by $54 Billion Amid Manipulation Probe",
     "titleZh": "土耳其基金資產因操縱調查縮水 540 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
     "image": null,
     "pushedAt": "2026-11-19T05:02:30.709Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+    "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
+    "titleZh": "高油價是否讓您改變了駕駛方式？告訴我們吧。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-driving-callout-fblq/19biz-driving-callout-fblq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T05:03:04.456Z"
   }
 ]
