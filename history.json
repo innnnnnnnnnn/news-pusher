@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b",
-    "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-    "titleZh": "雅爾塔2.0？川普、習近平和普丁引領亞洲一週高風險外交",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T08:43:17.997Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
     "title": "China a 'Supersized' Testing Ground for Technology: Xi",
     "titleZh": "習近平：中國是「超大型」技術試驗場",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
     "image": null,
     "pushedAt": "2026-11-19T22:36:57.350Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
+    "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.",
+    "titleZh": "加州風暴席捲南部，引發洛杉磯一些疏散警告",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
+    "image": null,
+    "pushedAt": "2026-11-19T22:37:28.599Z"
   }
 ]
