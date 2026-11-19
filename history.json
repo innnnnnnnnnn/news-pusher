@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
-    "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-    "titleZh": "英偉達臨時執行長表示不再向中國出口人工智慧晶片",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
-    "image": null,
-    "pushedAt": "2026-11-18T11:56:56.781Z"
-  },
-  {
     "id": "https://www.ft.com/content/52c034e5-ec65-4aa1-b693-77705c57ec23",
     "title": "Climate adviser urges UK government to ‘stand firm’ on electric vehicle targets",
     "titleZh": "氣候顧問敦促英國政府在電動車目標上“堅定立場”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
     "image": null,
     "pushedAt": "2026-11-19T20:26:15.004Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+    "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+    "titleZh": "Anthropic 的大規模 IPO 為 OpenAI 帶來了熱度",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+    "image": null,
+    "pushedAt": "2026-11-19T20:26:43.948Z"
   }
 ]
