@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/de-nvidia-a-los-humanoides-ee-uu-vs-china-en-la-carrera-por-la-ia",
-    "title": "De Nvidia a los humanoides: EE.UU. vs. China: en la carrera por la IA",
-    "titleZh": "Nvidia 是個類人動物：EE.UU。對中國：en la carrera por la IA",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/de-nvidia-a-los-humanoides-ee-uu-vs-china-en-la-carrera-por-la-ia",
-    "image": null,
-    "pushedAt": "2026-11-17T18:35:14.881Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
     "title": "Why Some Flights Were Exempt From the Ground Stop",
     "titleZh": "為什麼有些航班免於地面停留",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T13:56:22.173Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/tech-leaders-experts-question-anthropic-safety-pledges-video",
+    "title": "Anthropic’s Safety Pledges Questioned by Tech Leaders, Scientists",
+    "titleZh": "Anthropic 的安全承諾受到技術領袖和科學家的質疑",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/tech-leaders-experts-question-anthropic-safety-pledges-video",
+    "image": null,
+    "pushedAt": "2026-11-19T13:56:51.703Z"
   }
 ]
