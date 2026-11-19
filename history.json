@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites",
-    "title": "Mexico Is Missing Out on AI Data Center Boom as Energy Crunch Bites",
-    "titleZh": "由於能源危機的影響，墨西哥錯過了人工智慧資料中心的蓬勃發展",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites",
-    "image": null,
-    "pushedAt": "2026-11-17T15:37:49.825Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/features/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-de-ia",
     "title": "México enfrenta trabas para atraer centros de datos de IA",
     "titleZh": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/advent-is-said-in-talks-to-buy-business-services-firm-boardroom",
     "image": null,
     "pushedAt": "2026-11-19T10:20:44.656Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
+    "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
+    "titleZh": "一個村莊被燒毀，人們被殺害或流放。這是種族滅絕的一部分嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-version-grid/19int-rohingya-camps-version-grid-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-19T10:21:14.377Z"
   }
 ]
