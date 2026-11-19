@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-    "title": "A Visual Tour of President Trump’s Visits to Asia",
-    "titleZh": "川普總統亞洲之行視覺之旅",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-trump-asia-visual-stack-ckfp/18int-trump-asia-visual-stack-ckfp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T06:52:49.236Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
     "title": "Fed’s Musalem Says Economy to Likely Require ‘Several’ Hikes by Spring",
     "titleZh": "聯準會穆薩利姆表示，到春季經濟可能需要「幾次」升息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/jack-ma-backed-ant-s-profit-rose-27-after-fair-value-gains",
     "image": null,
     "pushedAt": "2026-11-19T10:56:34.926Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614",
+    "title": "A misty outlook for rates",
+    "titleZh": "利率前景不明朗",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T10:57:03.349Z"
   }
 ]
