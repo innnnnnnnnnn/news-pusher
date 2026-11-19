@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
-    "title": "Fed’s Musalem Says Economy to Likely Require ‘Several’ Hikes by Spring",
-    "titleZh": "聯準會穆薩利姆表示，到春季經濟可能需要「幾次」升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
-    "image": null,
-    "pushedAt": "2026-11-17T13:23:42.513Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
-    "title": "Amazon, Google to Have About 28% of Anthropic Stock After IPO",
-    "titleZh": "IPO 後，亞馬遜與 Google 將持有約 28% 的 Anthropic 股份",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
-    "image": null,
-    "pushedAt": "2026-11-17T13:23:48.221Z"
-  },
-  {
-    "id": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad",
-    "title": "Burnham pledges sweeping overhaul of welfare for young Britons",
-    "titleZh": "米爾本評論稱，勞動改革可能會損害英國年輕人的就業市場",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ba36c23-9e0a-463b-a952-7444e115f5ec.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T08:34:14.702Z"
-  },
-  {
     "id": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a",
     "title": "US strikes Qeshm Island after Iran targets American base in Bahrain",
     "titleZh": "伊朗攻擊位於巴林的美國空軍基地",
@@ -8619,7 +8592,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T08:41:08.410Z"
+    "pushedAt": "2026-11-19T10:57:31.029Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
@@ -8628,7 +8601,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-19T08:41:10.301Z"
+    "pushedAt": "2026-11-19T10:57:55.817Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T10:57:03.349Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+    "title": "Bond yields are rising everywhere—except China",
+    "titleZh": "除中國外，世界各地的債券殖利率都在上升",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+    "image": null,
+    "pushedAt": "2026-11-19T10:58:22.048Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+    "title": "Europe tightens sanctions on Russia. America loosens them",
+    "titleZh": "歐洲加強對俄羅斯的製裁。美國放鬆了他們",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+    "image": null,
+    "pushedAt": "2026-11-19T10:58:26.127Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "title": "AI is swallowing maths. Is economics next?",
+    "titleZh": "人工智慧正在吞噬數學。接下來是經濟學嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "image": null,
+    "pushedAt": "2026-11-19T10:58:29.493Z"
   }
 ]
