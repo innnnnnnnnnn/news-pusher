@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6",
-    "title": "Britain’s self-inflicted housebuilding crunch",
-    "titleZh": "英國自找的房屋建設緊縮",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T03:44:04.153Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
     "title": "A Human Reads the Anthropic I.P.O. Filing",
     "titleZh": "人類閱讀人類首次公開募股歸檔",
@@ -2661,7 +2652,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
     "image": null,
-    "pushedAt": "2026-11-19T13:49:24.912Z"
+    "pushedAt": "2026-11-19T16:14:37.387Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
@@ -4893,7 +4884,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-ellison-vid-PROMO-kbwj/18DB-ellison-vid-PROMO-kbwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:49:49.151Z"
+    "pushedAt": "2026-11-19T16:15:02.709Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-s-valuation-seems-justified-thakker-video",
@@ -8124,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/ai-financing-shifts-from-hyperscalers-to-chips-berro-video",
     "image": null,
-    "pushedAt": "2026-11-19T13:50:43.744Z"
+    "pushedAt": "2026-11-19T16:15:27.716Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-19/anthropic-trading-debut-live-updates",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/jetour-vai-investir-r-400-mi-para-produzir-no-brasil-video",
     "image": null,
     "pushedAt": "2026-11-19T16:14:09.002Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
+    "title": "AMD Slides After Hunterbrook Shorts Stock, Cites Circular Deals",
+    "titleZh": "亨特布魯克 (Hunterbrook) 因循環交易而賣空股票後，AMD 股價下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
+    "image": null,
+    "pushedAt": "2026-11-19T16:15:55.341Z"
   }
 ]
