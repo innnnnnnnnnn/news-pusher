@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/stan-druckenmiller-says-he-s-short-copper-neutral-on-equities",
-    "title": "Stan Druckenmiller Says He’s Short Copper, Neutral on Stocks",
-    "titleZh": "史丹‧德魯肯米勒 (Stan Druckenmiller) 表示，他做空銅，對股票持中性態度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/stan-druckenmiller-says-he-s-short-copper-neutral-on-equities",
-    "image": null,
-    "pushedAt": "2026-11-17T20:47:32.391Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
     "title": "Iran Attacks Bahrain for the Second Time in Days",
     "titleZh": "伊朗幾天內第二次襲擊巴林",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video",
     "image": null,
     "pushedAt": "2026-11-19T16:33:49.152Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+    "title": "Major Powers Vow to Increase Oil Supply Amid Global Energy Transition",
+    "titleZh": "主要大國誓言在全球能源轉型中增加石油供應",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+    "image": null,
+    "pushedAt": "2026-11-19T16:34:19.830Z"
   }
 ]
