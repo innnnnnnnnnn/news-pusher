@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
-    "title": "Shock and Dread in the Gulf",
-    "titleZh": "海灣地區的震驚和恐懼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17friedman-vmzk/17friedman-vmzk-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-18T15:04:40.402Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html",
     "title": "Waymo Pulls Its Driverless Taxis From All U.S. Highways Temporarily",
     "titleZh": "Waymo 暫時從美國所有高速公路撤下其無人駕駛計程車",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/tech-giants-will-reap-giant-paydays-from-anthropics-ipo-but-a-fraudsters-shares-are-long-gone",
     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/19anthropic-ipo-amazon-version/00biz-anthropic-amazon-tfkl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T17:34:21.630Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access",
+    "title": "BlackRock’s New Proposal Looks to Mix Ease of Trading With Private Market Access",
+    "titleZh": "貝萊德的新提案旨在將交易便利性與私募市場准入結合起來",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access",
+    "image": null,
+    "pushedAt": "2026-11-19T17:36:05.253Z"
   }
 ]
