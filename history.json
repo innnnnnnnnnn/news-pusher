@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/boj-s-ueda-says-food-sales-tax-cut-likely-to-help-spur-growth",
-    "title": "BOJ’s Ueda Says Food Sales Tax Cut Likely to Help Spur Growth",
-    "titleZh": "日本央行總裁上田表示，食品銷售稅削減可能有助於刺激經濟成長",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/boj-s-ueda-says-food-sales-tax-cut-likely-to-help-spur-growth",
-    "image": null,
-    "pushedAt": "2026-11-18T11:57:23.162Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/singapore-to-deploy-ai-to-fight-scams-boost-business-lending",
     "title": "Singapore to Deploy AI to Fight Scams, Boost Business Lending",
     "titleZh": "新加坡將部署人工智慧打擊詐騙，促進商業貸款",
@@ -1842,7 +1833,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T20:17:40.419Z"
+    "pushedAt": "2026-11-19T22:32:34.924Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video",
     "image": null,
     "pushedAt": "2026-11-19T22:30:52.003Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video-mwo4hdqb",
+    "title": "Menlo Makes First-Ever IPO Investment With Anthropic",
+    "titleZh": "Menlo 與 Anthropic 進行首次 IPO 投資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video-mwo4hdqb",
+    "image": null,
+    "pushedAt": "2026-11-19T22:32:59.634Z"
   }
 ]
