@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/pjm-proposes-grid-overhaul-to-speed-up-data-center-connections",
-    "title": "Big US Grid Proposes Overhaul to Speed Data Center Hook Ups",
-    "titleZh": "PJM 提議電網檢修以加快資料中心連線速度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/pjm-proposes-grid-overhaul-to-speed-up-data-center-connections",
-    "image": null,
-    "pushedAt": "2026-11-17T21:27:07.080Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
-    "title": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
-    "titleZh": "由於規避風險的投資者拋售股票、購買債券，國債上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
-    "image": null,
-    "pushedAt": "2026-11-17T23:47:05.912Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
     "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
     "titleZh": "國家安全局機密網路故障，導致工作中斷",
@@ -7521,7 +7503,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T11:50:14.806Z"
+    "pushedAt": "2026-11-19T14:24:12.291Z"
   },
   {
     "id": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb",
@@ -7530,7 +7512,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T11:50:39.271Z"
+    "pushedAt": "2026-11-19T14:24:38.274Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-19/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/senado-aprova-fiscal-em-meio-a-pressoes-nos-ativos-video",
     "image": null,
     "pushedAt": "2026-11-19T14:23:44.226Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
+    "title": "America’s neglect of global science is backfiring",
+    "titleZh": "美國對全球科學的忽視適得其反",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
+    "image": null,
+    "pushedAt": "2026-11-19T14:25:07.865Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
+    "title": "Can Britannia rule the waves again?",
+    "titleZh": "不列顛尼亞能否再次統治海浪？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
+    "image": null,
+    "pushedAt": "2026-11-19T14:25:13.317Z"
   }
 ]
