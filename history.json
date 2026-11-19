@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9df59321-a7a0-4ed7-b02f-60cfc5fdcb2e",
-    "title": "Do we really want to make our work machine-readable?",
-    "titleZh": "我們真的想讓我們的作品成為機器可讀的嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9df59321-a7a0-4ed7-b02f-60cfc5fdcb2e?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3522d6f-e45c-4f8d-98b8-c3bc65ebe5e4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-17T05:17:10.102Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
-    "title": "Aluminum Squeeze Intensifies With Traders Scrambling for Metal",
-    "titleZh": "貿易商爭奪金屬，鋁擠型加劇",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
-    "image": null,
-    "pushedAt": "2026-11-17T07:44:58.861Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
-    "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
-    "titleZh": "面對批評，川普政府表示正在調查 Megaspeed",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
-    "image": "https://static01.nyt.com/images/2026/11/15/multimedia/16dc-megaspeed-1/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T18:05:03.061Z"
-  },
-  {
     "id": "https://flipso.com/p/786eml3vp",
     "title": "Sheep grazing in solar fields offers farmers economic, ecological gains",
     "titleZh": "在太陽能田放牧的羊可以為農民帶來經濟和生態收益",
@@ -5514,7 +5487,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T21:53:22.222Z"
+    "pushedAt": "2026-11-19T00:28:23.754Z"
   },
   {
     "id": "https://www.ft.com/content/7e21a3af-94eb-4f89-8549-71f032b2215b",
@@ -5523,7 +5496,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7e21a3af-94eb-4f89-8549-71f032b2215b",
     "image": null,
-    "pushedAt": "2026-11-18T21:53:47.892Z"
+    "pushedAt": "2026-11-19T00:28:49.328Z"
   },
   {
     "id": "https://flipso.com/p/pfg7lsyqk",
@@ -6783,7 +6756,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5789cfd1-1041-454f-b450-ae2015d7c6ff?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-18T21:52:56.992Z"
+    "pushedAt": "2026-11-19T00:27:58.784Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-said-to-guide-ipo-pricing-above-market-range-video",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-18/the-close-11-18-2026-video",
     "image": null,
     "pushedAt": "2026-11-19T00:27:29.939Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
+    "title": "Florida’s El Niño Rains Bring Hail and High Water",
+    "titleZh": "佛羅裡達州厄爾尼諾降雨帶來冰雹和高水位",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-florida-weatherscene-mtpv/18nat-florida-weatherscene-mtpv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:29:16.504Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
+    "title": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
+    "titleZh": "風暴為舊金山灣區帶來暴雨和洪水",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
+    "image": null,
+    "pushedAt": "2026-11-19T00:29:21.505Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
+    "title": "U.S. Catholic Bishops Are Discussing A.I. at Annual Meeting",
+    "titleZh": "美國天主教主教正在討論人工智慧年會上",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17nat-ai-bishops-bzvp/17nat-ai-bishops-bzvp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:29:25.850Z"
   }
 ]
