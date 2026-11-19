@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-    "title": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
-    "titleZh": "新證據顯示學校電話禁令正在逐漸提高考試成績",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17up-phone-pouch1-jlkf/17up-phone-pouch1-jlkf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T16:10:22.022Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
     "title": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
     "titleZh": "Grand Theft Auto VI 加速全球收購",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/taiwan-tightens-short-selling-curbs-to-help-support-stock-market",
     "image": null,
     "pushedAt": "2026-11-19T07:03:58.660Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
+    "title": "Trump Argues Against Global Regulation of AI (Video)",
+    "titleZh": "川普反對人工智慧的全球監管（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
+    "image": null,
+    "pushedAt": "2026-11-19T07:04:27.806Z"
   }
 ]
