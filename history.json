@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release",
-    "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release",
-    "titleZh": "OpenAI 放棄先前版本後推出新的 Astra AI 模型",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release",
-    "image": null,
-    "pushedAt": "2026-11-17T20:18:40.829Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717",
-    "title": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
-    "titleZh": "瑪麗娜·勒龐提議將法國退休年齡降至60歲",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T05:45:37.093Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
     "title": "Disney Profit Beats With Marvel Films Powering Streaming",
     "titleZh": "迪士尼利潤因漫威電影推動串流媒體而成長",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
     "image": null,
     "pushedAt": "2026-11-19T14:57:57.991Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/dario-amodei-says-safety-is-in-anthropic-s-dna-video",
+    "title": "Dario Amodei Says Safety Is Part of Anthropic's DNA",
+    "titleZh": "Dario Amodei 表示安全是 Anthropic DNA 的一部分",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/dario-amodei-says-safety-is-in-anthropic-s-dna-video",
+    "image": null,
+    "pushedAt": "2026-11-19T14:58:29.573Z"
+  },
+  {
+    "id": "https://flipso.com/p/h4unluxwb",
+    "title": "The Evolving Story of How Chemistry Became Biology",
+    "titleZh": "化學如何成為生物學的演變故事",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/h4unluxwb?ref=rss",
+    "image": "https://cdn.flipso.com/p/h4unluxwb_square.jpg",
+    "pushedAt": "2026-11-19T14:58:32.426Z"
   }
 ]
