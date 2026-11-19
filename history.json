@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419",
-    "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
-    "titleZh": "美國網路安全機構對 Oracle Java 漏洞發出警告",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7a72f63-cde3-46b3-9d49-7ba0ce41299d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T22:13:27.461Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/rupee-forwards-turn-more-bullish-than-currency-forecasters",
-    "title": "Rupee Forwards Turn More Bullish Than Currency Forecasters",
-    "titleZh": "盧比遠期匯率比貨幣預測者更看漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/rupee-forwards-turn-more-bullish-than-currency-forecasters",
-    "image": null,
-    "pushedAt": "2026-11-18T04:48:07.213Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
     "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump",
     "titleZh": "習近平在川普會談前警告保護主義“猖獗”",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/gic-anthropic-is-building-intelligence-factories-video",
     "image": null,
     "pushedAt": "2026-11-19T22:16:53.269Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
+    "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
+    "titleZh": "無論您認為德克薩斯州是什麼，它都比那更大、更藍",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-TX-postelex-culture-1b-kclp/19nat-TX-postelex-culture-1b-kclp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T22:17:23.974Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
+    "title": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
+    "titleZh": "前拜登執行長在亞歷克斯索羅斯的幫助下將召集 2028 年候選人的助手",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T22:17:29.134Z"
   }
 ]
