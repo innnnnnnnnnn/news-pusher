@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-    "title": "A Human Reads the Anthropic I.P.O. Filing",
-    "titleZh": "人類閱讀人類首次公開募股歸檔",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-    "image": null,
-    "pushedAt": "2026-11-17T20:45:09.882Z"
-  },
-  {
     "id": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3",
     "title": "Will Nvidia earnings steady the AI sell-off?",
     "titleZh": "英偉達的獲利能否穩定人工智慧的拋售潮？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
     "image": null,
     "pushedAt": "2026-11-19T16:15:55.341Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
+    "title": "Anthropic Employees Work Hard, but Don’t Expect Them to Play Hard",
+    "titleZh": "人性化的員工工作努力，但不要指望他們玩得努力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-anthropic-goldrush-pqcw/19nat-anthropic-goldrush-pqcw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T16:19:22.231Z"
   }
 ]
