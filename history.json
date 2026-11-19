@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
-    "title": "Asics Steps Up China Push With Goal to More Than Double Stores",
-    "titleZh": "亞瑟士 (Asics) 加大中國市場拓展力度，目標門市數量增加一倍以上",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
-    "image": null,
-    "pushedAt": "2026-11-18T06:21:09.300Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/xi-pitches-china-as-open-ahead-of-trump-meeting-video",
-    "title": "Xi Pitches China as Open Ahead of Trump Meeting",
-    "titleZh": "習近平在川普會議前表示中國開放",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-pitches-china-as-open-ahead-of-trump-meeting-video",
-    "image": null,
-    "pushedAt": "2026-11-18T06:27:50.815Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
     "title": "Anthropic-Backer CBA Says Australia More Attractive on Compute",
     "titleZh": "Anthropic 支持者 CBA 表示澳洲在計算方面更具吸引力",
@@ -4965,7 +4947,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T21:28:23.598Z"
+    "pushedAt": "2026-11-19T23:49:50.630Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
@@ -6423,7 +6405,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-s-already-weakened-job-market-starts-to-the-feel-impact-of-ai",
     "image": null,
-    "pushedAt": "2026-11-19T21:27:33.818Z"
+    "pushedAt": "2026-11-19T23:49:00.926Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022",
@@ -6432,7 +6414,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022",
     "image": null,
-    "pushedAt": "2026-11-19T21:27:58.033Z"
+    "pushedAt": "2026-11-19T23:49:27.084Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/nvidia-moves-ousted-ceo-jensen-huang-out-of-the-spotlight",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T23:48:33.877Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
+    "title": "Anthropic’s Value Surges in Public Debut",
+    "titleZh": "Anthropic 首次公開亮相價值飆升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19evening-nl-anthropic-ipo-pjml/19evening-nl-anthropic-ipo-pjml-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T23:50:17.005Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-paulson-says-clear-communication-can-guide-rates",
+    "title": "Fed’s Paulson Says Clear Communication Can Guide Rates",
+    "titleZh": "聯準會保爾森表示清晰的溝通可以指導利率",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-paulson-says-clear-communication-can-guide-rates",
+    "image": null,
+    "pushedAt": "2026-11-19T23:50:21.824Z"
   }
 ]
