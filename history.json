@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
-    "title": "Home Depot Names McPhail CEO With Decker Back as Chairman",
-    "titleZh": "德克爾重新擔任董事長，家得寶任命麥克菲爾為首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
-    "image": null,
-    "pushedAt": "2026-11-17T14:10:01.638Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
     "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
     "titleZh": "川普的新人工智慧晶片規則擾亂東南亞",
@@ -2274,7 +2265,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
     "image": null,
-    "pushedAt": "2026-11-19T06:20:39.865Z"
+    "pushedAt": "2026-11-19T08:51:51.731Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
@@ -8160,7 +8151,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-warns-against-regulations-that-would-stifle-ai-industry",
     "image": null,
-    "pushedAt": "2026-11-19T06:21:05.148Z"
+    "pushedAt": "2026-11-19T08:52:16.536Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/xi-pledges-20-million-for-apec-cooperation-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom",
     "image": null,
     "pushedAt": "2026-11-19T08:48:01.304Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade",
+    "title": "European Stocks Rebound as Anthropic IPO Revives the AI Trade",
+    "titleZh": "Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-19T08:52:44.216Z"
   }
 ]
