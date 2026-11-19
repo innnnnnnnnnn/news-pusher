@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
-    "title": "Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54",
-    "titleZh": "歐巴馬抨擊川普演講的撰稿人凱文布萊爾去世，享年 54 歲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
-    "image": null,
-    "pushedAt": "2026-11-18T09:06:49.030Z"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job",
-    "title": "Trump had urged Jensen Huang to fight for his job.",
-    "titleZh": "川普曾敦促黃仁勳為自己的職位而奮鬥。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/17nvidia-earnings-live-trump-version/13DC-TRUMP-HUANG-fwzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T23:43:46.748Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
     "title": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
     "titleZh": "Apollo 的 Rowan 表示保險將為價值 8 兆美元的人工智慧熱潮提供動力",
@@ -8425,12 +8407,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/tod-s-nears-400-million-debt-refinance-backed-by-group-s-owners",
-    "title": "Tod’s Nears €400 Million Debt Refinance Backed by Group’s Owners",
+    "title": "Tod’s Nears €400 Million Refinance Backed by Owners",
     "titleZh": "Tod’s 集團所有者支持的債務再融資接近 4 億歐元",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/tod-s-nears-400-million-debt-refinance-backed-by-group-s-owners",
     "image": null,
-    "pushedAt": "2026-11-19T15:54:11.471Z"
+    "pushedAt": "2026-11-19T18:44:07.252Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/walmart-benefits-from-e-commerce-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-affordability-earnings-01-bvjf/19biz-affordability-earnings-01-bvjf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T18:43:38.171Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video",
+    "title": "Anthropic Makes Trading Debut With Record Breaking IPO",
+    "titleZh": "Anthropic 以破紀錄的 IPO 首次亮相",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video",
+    "image": null,
+    "pushedAt": "2026-11-19T18:44:34.869Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/-doomsday-prepping-spikes-as-tech-outages-drive-shopper-paranoia",
+    "title": "‘Doomsday Prepping’ Spikes as Tech Outages Drive Shopper Paranoia",
+    "titleZh": "科技中斷導致購物者偏執，「末日準備」激增",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/-doomsday-prepping-spikes-as-tech-outages-drive-shopper-paranoia",
+    "image": null,
+    "pushedAt": "2026-11-19T18:44:39.605Z"
   }
 ]
