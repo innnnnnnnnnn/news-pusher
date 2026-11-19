@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
-    "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-    "titleZh": "森林裡藏著現金？匈牙利在歐爾班領導下嚴厲打擊腐敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-hungary-corruption-wzfv/17int-hungary-corruption-wzfv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:42:19.130Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/us-retail-sales-growth-slows-big-ticket-purchases-slip-video",
     "title": "US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
     "titleZh": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
@@ -1212,7 +1203,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fhh1z8x21?ref=rss",
     "image": "https://cdn.flipso.com/p/fhh1z8x21_square.jpg",
-    "pushedAt": "2026-11-19T11:10:48.980Z"
+    "pushedAt": "2026-11-19T13:41:00.689Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
@@ -5109,7 +5100,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-carney-wzfc/18dealbook-summit-carney-wzfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:10:23.991Z"
+    "pushedAt": "2026-11-19T13:40:35.888Z"
   },
   {
     "id": "https://www.ft.com/content/e4198781-9e89-4195-b20e-c21b1dd6aaf1",
@@ -5694,7 +5685,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:09:26.485Z"
+    "pushedAt": "2026-11-19T13:40:11.458Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/ai-forces-firms-to-fix-flaws-faster-worsening-digital-outages",
@@ -7966,12 +7957,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade",
-    "title": "European Stocks Rebound as Anthropic IPO Revives the AI Trade",
+    "title": "European Stocks Flat as Anthropic IPO Revives the AI Trade",
     "titleZh": "Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-19T11:11:38.760Z"
+    "pushedAt": "2026-11-19T13:41:26.295Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/dollar-and-commodities-hint-at-cooler-growth-ahead-mliv-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fee983059-dd6a-44a6-9971-c54a816deffa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-19T13:34:24.240Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
+    "title": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+    "titleZh": "油價下滑之際伊朗加劇霍爾木茲油輪攻擊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
+    "image": null,
+    "pushedAt": "2026-11-19T13:41:54.120Z"
   }
 ]
