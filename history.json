@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee",
-    "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
-    "titleZh": "「見證奇蹟」：中國為川普高峰會吹捧奇蹟之城",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6cb62c7f-849b-411a-bfb4-13cc43be8663.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T11:45:13.865Z"
-  },
-  {
     "id": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419",
     "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
     "titleZh": "美國網路安全機構對 Oracle Java 漏洞發出警告",
@@ -3579,7 +3570,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-19T19:59:30.778Z"
+    "pushedAt": "2026-11-19T22:16:25.360Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages",
@@ -4155,7 +4146,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-19T19:58:41.563Z"
+    "pushedAt": "2026-11-19T22:15:36.130Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/citi-ceo-looks-forward-to-working-with-sen-warren-video",
@@ -4713,7 +4704,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-PUTIN-SHENZHEN-tgbm/18trump-summits-PUTIN-SHENZHEN-tgbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:57:50.581Z"
+    "pushedAt": "2026-11-19T22:15:11.713Z"
   },
   {
     "id": "https://www.ft.com/content/e3364118-7282-4faa-9686-e56e854dab7d",
@@ -4749,7 +4740,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-lagarde-vid-PROMO-tlfz/18DB-lagarde-vid-PROMO-tlfz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:59:06.521Z"
+    "pushedAt": "2026-11-19T22:16:00.584Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
@@ -6873,7 +6864,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e3135e3a-32f6-408f-9519-4f60d275f485?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T19:57:25.560Z"
+    "pushedAt": "2026-11-19T22:14:47.160Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/nick-candy-uk-seeing-wealth-exodus-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable",
     "image": null,
     "pushedAt": "2026-11-19T22:14:19.416Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/gic-anthropic-is-building-intelligence-factories-video",
+    "title": "Investor GIC Says Anthropic Is Building Intelligence Factories",
+    "titleZh": "投資者 GIC 表示 Anthropic 正在建造智慧工廠",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/gic-anthropic-is-building-intelligence-factories-video",
+    "image": null,
+    "pushedAt": "2026-11-19T22:16:53.269Z"
   }
 ]
