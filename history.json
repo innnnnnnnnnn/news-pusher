@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/opinion/canada-trump-america-midterms.html",
-    "title": "Welcome Back, America! It’s Your Turn to Be Sorry.",
-    "titleZh": "好吧，美國，我們仍然可以成為朋友",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/opinion/canada-trump-america-midterms.html",
-    "image": null,
-    "pushedAt": "2026-11-17T15:18:51.633Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2bd39e07-effd-4582-9760-573c0df841a9",
-    "title": "TG Jones put up for sale by private equity firm after less than 18 months",
-    "titleZh": "不到 18 個月後，TG Jones 就被私募股權公司出售",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2bd39e07-effd-4582-9760-573c0df841a9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T03:26:39.262Z"
-  },
-  {
     "id": "https://www.ft.com/content/ed1b0afe-c22e-43c6-b708-0eb7c55f067c",
     "title": "Trump influence feared in bankruptcy investigations",
     "titleZh": "破產調查中擔心川普的影響力",
@@ -8268,7 +8250,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4a1c18f2-697f-43f1-a708-f0d305922d75",
     "image": null,
-    "pushedAt": "2026-11-19T07:39:03.039Z"
+    "pushedAt": "2026-11-19T10:09:25.520Z"
   },
   {
     "id": "https://www.ft.com/content/2aed7c7a-4ee6-40c9-a8b5-803b88bd1179",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T10:06:22.306Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+    "title": "Anthropic I.P.O. Highlights How Washington Has Fallen Behind",
+    "titleZh": "人為首次公開募股凸顯華盛頓如何落後",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T10:09:53.394Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+    "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+    "titleZh": "早期 Anthropic 投資者達斯汀莫斯科維茨 (Dustin Moskovitz) 對 IPO 感到有點不安",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T10:09:57.674Z"
   }
 ]
