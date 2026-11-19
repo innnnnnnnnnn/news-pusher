@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-    "title": "Anthropic’s giant IPO puts the heat on OpenAI",
-    "titleZh": "Anthropic 的大規模 IPO 為 OpenAI 帶來了熱度",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-    "image": null,
-    "pushedAt": "2026-11-19T20:02:46.697Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
     "titleZh": "英偉達臨時執行長表示不再向中國出口人工智慧晶片",
@@ -7971,7 +7962,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6kuc57jt4?ref=rss",
     "image": "https://cdn.flipso.com/p/6kuc57jt4_square.jpg",
-    "pushedAt": "2026-11-19T18:02:41.041Z"
+    "pushedAt": "2026-11-19T20:24:35.354Z"
   },
   {
     "id": "https://www.ft.com/content/d7f7ed3f-3399-4db4-a8d4-1e48f0ed0a15",
@@ -7980,7 +7971,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d7f7ed3f-3399-4db4-a8d4-1e48f0ed0a15?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T18:03:05.694Z"
+    "pushedAt": "2026-11-19T20:24:59.946Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-indicated-to-open-25-above-ipo-video",
@@ -7998,7 +7989,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ulrwti10q?ref=rss",
     "image": "https://cdn.flipso.com/p/ulrwti10q_square.jpg",
-    "pushedAt": "2026-11-19T18:03:30.674Z"
+    "pushedAt": "2026-11-19T20:25:24.274Z"
   },
   {
     "id": "https://flipso.com/p/96kssr0i2",
@@ -8007,7 +7998,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/96kssr0i2?ref=rss",
     "image": "https://cdn.flipso.com/p/96kssr0i2_square.jpg",
-    "pushedAt": "2026-11-19T18:03:56.106Z"
+    "pushedAt": "2026-11-19T20:25:48.656Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/opinion-gta-blurs-fiction-and-reality-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T20:22:51.181Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
+    "title": "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
+    "titleZh": "格林將英國央行寬鬆政策歸咎於通膨失誤並非運氣不佳",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
+    "image": null,
+    "pushedAt": "2026-11-19T20:26:15.004Z"
   }
 ]
