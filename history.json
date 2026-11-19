@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html",
-    "title": "She Was a CBS News Producer When Few Women Were",
-    "titleZh": "當很少有女性成為哥倫比亞廣播公司新聞製片人時，她是哥倫比亞廣播公司新聞製片人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html",
-    "image": null,
-    "pushedAt": "2026-11-17T16:12:34.079Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/de-nvidia-a-los-humanoides-ee-uu-vs-china-en-la-carrera-por-la-ia",
     "title": "De Nvidia a los humanoides: EE.UU. vs. China: en la carrera por la IA",
     "titleZh": "Nvidia 是個類人動物：EE.UU。對中國：en la carrera por la IA",
@@ -402,7 +393,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/h4unluxwb?ref=rss",
     "image": "https://cdn.flipso.com/p/h4unluxwb_square.jpg",
-    "pushedAt": "2026-11-19T11:25:00.337Z"
+    "pushedAt": "2026-11-19T13:54:41.055Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release",
@@ -1824,7 +1815,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vo68xupzj?ref=rss",
     "image": "https://cdn.flipso.com/p/vo68xupzj_square.jpg",
-    "pushedAt": "2026-11-19T11:25:25.682Z"
+    "pushedAt": "2026-11-19T13:55:06.078Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/ambani-seeks-to-build-satellite-capacity-for-starlink-challenge",
@@ -5802,7 +5793,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/rbnz-sees-signs-of-higher-fuel-costs-adding-to-broader-inflation",
     "image": null,
-    "pushedAt": "2026-11-19T11:26:15.240Z"
+    "pushedAt": "2026-11-19T13:55:56.530Z"
   },
   {
     "id": "https://www.ft.com/content/444ff3e0-08b9-4a48-b935-a8cf65311ea0",
@@ -7584,7 +7575,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-family-photo-lqjb/19trump-summits-family-photo-lqjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:25:50.435Z"
+    "pushedAt": "2026-11-19T13:55:32.032Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/india-customs-dispute-holds-up-66-million-of-scotch-whisky",
     "image": null,
     "pushedAt": "2026-11-19T13:54:13.316Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
+    "title": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
+    "titleZh": "孟加拉羅辛亞難民營的生活變得更加不穩定。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T13:56:22.173Z"
   }
 ]
