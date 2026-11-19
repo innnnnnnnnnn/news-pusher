@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
-    "title": "Does Donald Trump care about the economy?",
-    "titleZh": "唐納德·川普關心經濟嗎？",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
-    "image": null,
-    "pushedAt": "2026-11-19T14:31:57.320Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1",
-    "title": "Up to one-fifth of UK ‘global talent’ visa holders earn too little to pay income tax",
-    "titleZh": "移民顧問表示，英國全球人才簽證的低工資令人“擔憂”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f23d1a9-4987-422d-b5be-400024b8d2e3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T04:11:51.181Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
     "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
     "titleZh": "巴林人權活動家納比爾·拉賈布 (Nabeel Rajab) 去世，享年 62 歲",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed",
     "image": null,
     "pushedAt": "2026-11-19T15:14:12.359Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+    "title": "Why startups still go public, eventually",
+    "titleZh": "為什麼新創公司最終仍然要上市",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+    "image": null,
+    "pushedAt": "2026-11-19T15:15:05.148Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/eu-executive-branch-suffered-ai-driven-cyber-attack-in-october",
+    "title": "EU Executive Branch Suffered AI-Driven Cyber-Attack in October",
+    "titleZh": "歐盟行政部門 10 月遭受人工智慧驅動的網路攻擊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/eu-executive-branch-suffered-ai-driven-cyber-attack-in-october",
+    "image": null,
+    "pushedAt": "2026-11-19T15:15:09.604Z"
   }
 ]
