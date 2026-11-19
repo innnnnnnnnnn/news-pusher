@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f",
-    "title": "Trump arrives in Asia ahead of Xi and Putin summit",
-    "titleZh": "川普在習近平和普丁峰會之前抵達亞洲",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T20:05:49.979Z"
-  },
-  {
     "id": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a",
     "title": "Brussels raises Eurozone growth forecasts as AI boom drives exports",
     "titleZh": "人工智慧繁榮推動出口，布魯塞爾上調歐元區成長預測",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
     "image": null,
     "pushedAt": "2026-11-19T05:24:48.445Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+    "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+    "titleZh": "剛果伊波拉疫情：恐懼與不信任如何推動社區傳播",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T05:25:18.348Z"
   }
 ]
