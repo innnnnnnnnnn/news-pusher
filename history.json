@@ -1,104 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/turkish-households-buckle-under-gold-price-slide-funds-crisis",
-    "title": "Turkish Households Buckle Under Gold-Price Slide, Funds Crisis",
-    "titleZh": "土耳其家庭因金價下滑和資金危機而陷入困境",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/turkish-households-buckle-under-gold-price-slide-funds-crisis",
-    "image": null,
-    "pushedAt": "2026-11-17T11:58:42.387Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c3d0ca80-b3a3-4404-9c91-87b2fdee3d83",
-    "title": "Milburn is selling welfare reform with an old New Labour trick",
-    "titleZh": "米爾本用新工黨的老把戲兜售福利改革",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c3d0ca80-b3a3-4404-9c91-87b2fdee3d83?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T14:29:12.150Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d",
-    "title": "Satellite group Iceye launches €2bn bid for Italian rocket maker Avio",
-    "titleZh": "衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T05:02:03.711Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
-    "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
-    "titleZh": "教宗良的另一個家齊克拉約盛大歡迎羅伯特神父",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-chiclayo-wvlk/13int-pope-chiclayo-wvlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T14:32:22.768Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
-    "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
-    "titleZh": "德意志銀行處理與愛潑斯坦相關的付款：FT（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
-    "image": null,
-    "pushedAt": "2026-11-17T12:12:06.577Z"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-    "title": "Trump Meets Philippine Leader Before Flying to China",
-    "titleZh": "即時更新：川普旋風亞洲之行從菲律賓開始",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-    "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo2315/17trump-summits-promo2315-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T10:09:00.419Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-    "title": "Carney and Xi Announce Canada-China Trade Pact",
-    "titleZh": "卡尼和習近平宣布加中貿易協定",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-canada-china-trade-qwgf/17int-canada-china-trade-qwgf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T01:32:45.050Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-    "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-    "titleZh": "烏克蘭襲擊連接俄羅斯和被佔領克里米亞的刻赤大橋",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-ltwc/17int-russia-ukraine-bridges-ltwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T01:37:02.326Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
-    "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
-    "titleZh": "這些烏克蘭人沒有參加戰鬥。但他們每天都在應付戰爭。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
-    "image": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T01:40:02.869Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-    "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-    "titleZh": "剛果伊波拉疫情：恐懼與不信任如何推動社區傳播",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T04:04:06.111Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/sap-executive-board-member-saueressig-quits-to-become-ionos-ceo",
-    "title": "SAP Executive Saueressig Quits to Become Ionos CEO",
-    "titleZh": "SAP 高階主管 Thomas Saueressig 辭職出任 Ionos 首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/sap-executive-board-member-saueressig-quits-to-become-ionos-ceo",
-    "image": null,
-    "pushedAt": "2026-11-17T14:57:53.916Z"
-  },
-  {
     "id": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f",
     "title": "Trump arrives in Asia ahead of Xi and Putin summit",
     "titleZh": "川普在習近平和普丁峰會之前抵達亞洲",
@@ -8998,5 +8899,104 @@
     "url": "https://www.ft.com/content/2ada41cc-5198-4cae-8521-6401e8c610e8?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9742cadc-5fe7-4ad7-8a19-ba7e1e3b9592.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-19T05:20:02.514Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad",
+    "title": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
+    "titleZh": "國際能源總署表示，能源市場可以「在沒有」霍爾木茲海峽的情況下進行管理",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:06.379Z"
+  },
+  {
+    "id": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1",
+    "title": "Anthropic’s magnificent IPO",
+    "titleZh": "Anthropic 華麗的 IPO",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:09.583Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cebcc448-bbff-4779-bd52-4c8911b107cb",
+    "title": "A Nordic plot to raise European competitiveness",
+    "titleZh": "北歐計劃提高歐洲競爭力",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cebcc448-bbff-4779-bd52-4c8911b107cb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:13.658Z"
+  },
+  {
+    "id": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32",
+    "title": "Gold loses its lustre for investors",
+    "titleZh": "黃金對投資者失去吸引力",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:18.336Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208",
+    "title": "Palm oil’s rise will put packaged-food producers in the shade",
+    "titleZh": "棕櫚油的上漲將使包裝食品生產商黯然失色",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:24.530Z"
+  },
+  {
+    "id": "https://www.ft.com/content/295c180f-05a4-477e-bbfa-ee6532ec070f",
+    "title": "How real is Britain’s productivity revival?",
+    "titleZh": "英國生產力復甦有多真實？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/295c180f-05a4-477e-bbfa-ee6532ec070f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:29.344Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66",
+    "title": "Adani: the billionaire at the heart of Modi’s India",
+    "titleZh": "阿達尼：莫迪印度核心的億萬富翁",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:33.328Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9c5f63b2-7a72-4c35-8a88-e3b28b5b099e",
+    "title": "Gen Z protesters inspired by growing revolt across Europe",
+    "titleZh": "Z世代抗議者受到歐洲各地日益增長的反抗的啟發",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9c5f63b2-7a72-4c35-8a88-e3b28b5b099e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:37.427Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4a1c18f2-697f-43f1-a708-f0d305922d75",
+    "title": "What a new US social contract with tech could look like",
+    "titleZh": "美國與科技的新社會契約會是什麼樣子",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4a1c18f2-697f-43f1-a708-f0d305922d75",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:41.789Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2aed7c7a-4ee6-40c9-a8b5-803b88bd1179",
+    "title": "The best fiction and fiction in translation to read this year",
+    "titleZh": "今年最值得閱讀的小說和翻譯小說",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2aed7c7a-4ee6-40c9-a8b5-803b88bd1179?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:44.135Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
+    "title": "French Risks Have Traders Betting Euro’s Slide Is Far From Over",
+    "titleZh": "法國風險令交易員押注歐元下滑遠未結束",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
+    "image": null,
+    "pushedAt": "2026-11-19T05:24:48.445Z"
   }
 ]
