@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-    "title": "Too Many Chips in One Basket?",
-    "titleZh": "一籃裡的薯片太多？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T09:28:53.905Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
     "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
     "titleZh": "間諜醜聞、貿易摩擦和意外客人會毀掉習近平的重要時刻嗎？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
     "image": null,
     "pushedAt": "2026-11-19T20:18:11.576Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-a-once-in-a-lifetime-investment-says-dholakia-video",
+    "title": "Anthropic a 'Once In a Lifetime' Investment, Says Sameer Dholakia",
+    "titleZh": "Sameer Dholakia 表示，Anthropic 是「一生一次」的投資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-a-once-in-a-lifetime-investment-says-dholakia-video",
+    "image": null,
+    "pushedAt": "2026-11-19T20:18:41.518Z"
   }
 ]
