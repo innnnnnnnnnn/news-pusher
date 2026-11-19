@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-    "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
-    "titleZh": "民主黨承諾降低價格。他們實際上能做什麼？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00daily-dems-affordability-copy/00daily-dems-affordability-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-18T19:14:19.955Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/the-pulse-with-francine-lacqua-11-17-2026-video",
     "title": "Trump Kicks of Asia Visit in Manila Ahead of Xi, Putin Talks",
     "titleZh": "川普在習近平和普丁會談之前開始亞洲之行",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/traders-relief-on-uk-inflation-may-prove-short-lived-as-price-woes-mount",
     "image": null,
     "pushedAt": "2026-11-19T07:31:51.406Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+    "title": "Tracking China’s Intensifying War of Words Against Japan",
+    "titleZh": "追蹤中國對日愈演愈烈的口水戰",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T07:32:19.421Z"
   }
 ]
