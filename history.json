@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
-    "title": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
-    "titleZh": "美國聯邦航空管理局像連接到全國地面站的路由器一樣擱置路由器",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-faa-routers-tmwk/17xp-faa-routers-tmwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T00:07:29.653Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html",
-    "title": "26 More Measles Cases in New York, but Outbreak Appears to Be Easing",
-    "titleZh": "紐約新增 26 例麻疹病例，但疫情似乎正在緩解",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17met-measles-nys-bwfc/17met-measles-nys-bwfc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T04:41:01.529Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
     "title": "Trump Administration Says It Will Not Use Ships to Deport Migrants",
     "titleZh": "川普政府表示不會使用船隻驅逐移民",
@@ -4020,7 +4002,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
-    "pushedAt": "2026-11-19T17:26:10.198Z"
+    "pushedAt": "2026-11-19T19:43:49.065Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
@@ -5145,7 +5127,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T17:25:45.107Z"
+    "pushedAt": "2026-11-19T19:43:24.913Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
@@ -7980,7 +7962,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T17:25:20.730Z"
+    "pushedAt": "2026-11-19T19:43:00.397Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade",
     "image": null,
     "pushedAt": "2026-11-19T19:42:32.669Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
+    "title": "Big Checks and Big Blobs of Compute",
+    "titleZh": "大檢查和大計算",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
+    "image": null,
+    "pushedAt": "2026-11-19T19:44:15.615Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
+    "title": "Crunch Fitness Sells $800 Million of ABS Tied to Franchise Deals",
+    "titleZh": "Crunch Fitness 出售 8 億美元與特許經營交易相關的 ABS",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
+    "image": null,
+    "pushedAt": "2026-11-19T19:44:18.913Z"
   }
 ]
