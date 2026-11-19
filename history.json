@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003",
-    "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
-    "titleZh": "德意志銀行 1500 萬份文件外洩揭露系統性故障",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feca36a83-3540-4f68-89d7-62131f984359.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T03:34:45.582Z"
-  },
-  {
     "id": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1",
     "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
     "titleZh": "洩露川普稅務報表的“可怕錯誤”",
@@ -7872,7 +7863,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
-    "pushedAt": "2026-11-18T22:06:03.578Z"
+    "pushedAt": "2026-11-19T00:43:39.266Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T00:43:11.821Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
+    "title": "Australian Unemployment Jumps to 4.9% Following RBA Rate Hikes",
+    "titleZh": "澳洲央行升息後澳洲失業率躍升至 4.9%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
+    "image": null,
+    "pushedAt": "2026-11-19T00:44:06.434Z"
   }
 ]
