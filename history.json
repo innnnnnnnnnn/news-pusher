@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1c64f910-14f9-41fc-880e-3acf673f4993",
-    "title": "A bluffer’s guide to data centre moratorium litigation",
-    "titleZh": "資料中心暫停訴訟的虛張聲勢指南",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1c64f910-14f9-41fc-880e-3acf673f4993",
-    "image": null,
-    "pushedAt": "2026-11-17T15:46:52.693Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
     "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
     "titleZh": "艾森科特指責內塔尼亞胡助長針對阿拉伯人的「種族主義」敵意",
@@ -3831,7 +3822,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
     "image": null,
-    "pushedAt": "2026-11-18T22:17:23.048Z"
+    "pushedAt": "2026-11-19T00:56:17.251Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
     "image": null,
     "pushedAt": "2026-11-19T00:55:49.146Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/top-australia-bank-cba-invests-in-own-compute-power-for-ai-push",
+    "title": "Top Australia Bank CBA Invests In Own Compute Power For AI Push",
+    "titleZh": "澳洲頂級銀行 CBA 投資自有運算能力以推動人工智慧發展",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/top-australia-bank-cba-invests-in-own-compute-power-for-ai-push",
+    "image": null,
+    "pushedAt": "2026-11-19T00:56:44.379Z"
   }
 ]
