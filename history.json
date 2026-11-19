@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
-    "title": "Big Money, Existential Risks",
-    "titleZh": "大筆資金，有風險",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-theworld-anthropic-ipo-01-pklv-promo/18int-theworld-anthropic-ipo-01-pklv-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:35:37.018Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
     "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
     "titleZh": "在歐洲，伊朗的膽大妄為加劇了焦慮感",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/nvidia-is-least-of-ai-bulls-problems-says-noble-video",
     "image": null,
     "pushedAt": "2026-11-19T16:12:43.172Z"
+  },
+  {
+    "id": "https://flipso.com/p/sysc76w07",
+    "title": "350 years ago, Ole Rømer showed that light has a finite speed",
+    "titleZh": "350 年前，Ole Rømer 證明光速有限",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/sysc76w07?ref=rss",
+    "image": "https://cdn.flipso.com/p/sysc76w07_square.jpg",
+    "pushedAt": "2026-11-19T16:13:12.743Z"
   }
 ]
