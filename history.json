@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
-    "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
-    "titleZh": "馬克韋恩·穆林 (Markwayne Mullin) 在地面停留後為飛往路易斯安那州立大學 - 德克薩斯州比賽的航班辯護",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-MULLINS-FLIGHT-qhtv/17DC-MULLINS-FLIGHT-qhtv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T15:35:15.768Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
     "title": "Jensen Huang’s departure will cause lasting damage to Nvidia",
     "titleZh": "黃仁勳的離開將對英偉達造成持久損害",
@@ -7440,7 +7431,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vzc5elb75?ref=rss",
     "image": "https://cdn.flipso.com/p/vzc5elb75_square.jpg",
-    "pushedAt": "2026-11-19T19:03:35.275Z"
+    "pushedAt": "2026-11-19T21:19:08.562Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -7449,7 +7440,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fsgbqaa5f?ref=rss",
     "image": "https://cdn.flipso.com/p/fsgbqaa5f_square.jpg",
-    "pushedAt": "2026-11-19T19:04:32.562Z"
+    "pushedAt": "2026-11-19T21:19:32.938Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
@@ -7458,7 +7449,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
     "image": null,
-    "pushedAt": "2026-11-19T19:04:56.973Z"
+    "pushedAt": "2026-11-19T21:19:57.301Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
@@ -7467,7 +7458,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
     "image": null,
-    "pushedAt": "2026-11-19T19:05:21.794Z"
+    "pushedAt": "2026-11-19T21:20:22.065Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
@@ -7476,7 +7467,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
     "image": null,
-    "pushedAt": "2026-11-19T19:05:47.280Z"
+    "pushedAt": "2026-11-19T21:20:46.435Z"
   },
   {
     "id": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
@@ -7484,8 +7475,8 @@
     "titleZh": "人工智慧「交接主義」的危險",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa5f463c0-fafc-432d-aa64-c976665b589f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T19:06:36.144Z"
+    "image": null,
+    "pushedAt": "2026-11-19T21:21:10.657Z"
   },
   {
     "id": "https://flipso.com/p/k6nacrbia",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T21:18:40.843Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+    "title": "Fiona the Hippo, Whose Stardom Extended Well Beyond Cincinnati, Has Died",
+    "titleZh": "河馬菲奧娜去世了，她的明星地位遠遠超出了辛辛那提",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-khzg/19xp-fiona-khzg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T21:21:39.907Z"
   }
 ]
