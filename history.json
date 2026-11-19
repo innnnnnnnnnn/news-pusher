@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
-    "title": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
-    "titleZh": "Apollo 的 Rowan 表示保險將為價值 8 兆美元的人工智慧熱潮提供動力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
-    "image": null,
-    "pushedAt": "2026-11-18T01:23:26.917Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video",
     "title": "Nvidia Does Not Intend to Bring Back Huang as CEO, Chair Says",
     "titleZh": "英偉達董事長稱黃仁勳不會重新擔任首席執行官",
@@ -8641,12 +8632,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
-    "title": "Alphabet to Raise at Least $3.5 Billion With Canadian Debt Sale",
+    "title": "Alphabet to Raise Up to $4.2 Billion in Latest Canada Bond Sale",
     "titleZh": "Alphabet 將透過出售加拿大債務籌集至少 35 億美元",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
     "image": null,
-    "pushedAt": "2026-11-19T16:32:03.531Z"
+    "pushedAt": "2026-11-19T18:45:09.377Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/-doomsday-prepping-spikes-as-tech-outages-drive-shopper-paranoia",
     "image": null,
     "pushedAt": "2026-11-19T18:44:39.605Z"
+  },
+  {
+    "id": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562",
+    "title": "Burnham’s EU reset hit by last-minute tensions with France",
+    "titleZh": "伯納姆的歐盟重置受到與法國最後一刻緊張局勢的打擊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f829e8f-eadc-4885-b947-64965ab49309.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T18:45:38.188Z"
   }
 ]
