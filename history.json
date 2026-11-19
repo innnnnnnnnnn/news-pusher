@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/old-mutual-sells-1-billion-of-south-africa-malls-to-vukile",
-    "title": "Old Mutual Sells $1 Billion of South Africa Malls to Vukile",
-    "titleZh": "Old Mutual 將價值 10 億美元的南非購物中心出售給 Vukile",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/old-mutual-sells-1-billion-of-south-africa-malls-to-vukile",
-    "image": null,
-    "pushedAt": "2026-11-17T10:59:26.030Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/barclays-rajadhayaksha-nvidia-market-angst-overdone-video",
-    "title": "Barclays’ Rajadhayaksha Says Nvidia Market Angst Overdone",
-    "titleZh": "巴克萊銀行 (Barclays) 的 Rajadhayaksha 表示 Nvidia 市場焦慮過度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/barclays-rajadhayaksha-nvidia-market-angst-overdone-video",
-    "image": null,
-    "pushedAt": "2026-11-17T11:10:29.119Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa",
     "title": "Cassava Seeks $1 Billion for Nvidia Chips to Power AI in Africa",
     "titleZh": "Cassava 尋求 10 億美元購買 Nvidia 晶片，為非洲的人工智慧提供動力",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/is-china-winning-the-artificial-intelligence-race-that-matters",
     "image": null,
     "pushedAt": "2026-11-19T05:01:55.243Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+    "title": "How the War in Iran Will Remake the Global Energy Order",
+    "titleZh": "伊朗戰爭將如何重塑全球能源秩序",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T05:02:26.587Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
+    "title": "Inside Google's AI Race with Ruth Porat",
+    "titleZh": "與 Ruth Porat 一起深入了解 Google 的人工智慧競賽",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
+    "image": null,
+    "pushedAt": "2026-11-19T05:02:30.709Z"
   }
 ]
