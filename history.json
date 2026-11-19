@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-results-show-resilience-analyst-chkaiban-says-video",
-    "title": "Nvidia Results Show Resilience, New Street's Chkaiban Says",
-    "titleZh": "New Street 的 Chkaiban 表示，Nvidia 的業績顯示出韌性",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-results-show-resilience-analyst-chkaiban-says-video",
-    "image": null,
-    "pushedAt": "2026-11-17T23:57:50.092Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video",
     "title": "Traders Exploiting Pricing Gaps In Pre-IPO Contracts",
     "titleZh": "交易員利用首次公開募股前合約中的定價差距",
@@ -8331,7 +8322,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "image": null,
-    "pushedAt": "2026-11-19T14:45:52.568Z"
+    "pushedAt": "2026-11-19T17:07:12.577Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-provides-cash-to-continue-r-d-spending-cfo-says",
     "image": null,
     "pushedAt": "2026-11-19T17:06:45.206Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+    "title": "Trump Seeks to Project Power Abroad While Forced to Share It at Home",
+    "titleZh": "川普尋求在海外投射權力，同時被迫在國內分享權力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T17:07:40.356Z"
   }
 ]
