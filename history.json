@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12",
-    "title": "EU considers banning Chinese companies found in breach of subsidy rules",
-    "titleZh": "歐盟考慮禁止違反補貼規定的中國企業",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T22:51:05.452Z"
-  },
-  {
     "id": "https://www.ft.com/content/83968c32-1002-407f-b5d5-fcd46f5fcf94",
     "title": "‘Nobody got back to me’: on the frontline of the UK’s youth jobs crisis",
     "titleZh": "「沒有人回覆我」：處於英國青年就業危機的前線",
@@ -4740,7 +4731,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-rubio-systems-qlkb/18int-rubio-systems-qlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T21:34:23.476Z"
+    "pushedAt": "2026-11-19T00:08:50.793Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/ubs-group-sees-yuan-rising-to-6-25-in-most-bullish-market-call",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/bccbf72c-c7ea-4774-ab92-96b7138a79bd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T00:08:20.848Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/opinion/trump-xi-putin-china-nuclear.html",
+    "title": "How Trump Can Avoid a Global Nuclear Arms Race",
+    "titleZh": "川普如何避免全球核武軍備競賽",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/opinion/trump-xi-putin-china-nuclear.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18hennigan-mpcf/18hennigan-mpcf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:09:18.768Z"
   }
 ]
