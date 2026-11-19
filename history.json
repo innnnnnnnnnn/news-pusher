@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b35f6b13-12fb-4f9b-aa9a-c41aa49245b4",
-    "title": "The battle over fashion’s waste crisis",
-    "titleZh": "時尚界浪費危機之戰",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b35f6b13-12fb-4f9b-aa9a-c41aa49245b4",
-    "image": null,
-    "pushedAt": "2026-11-17T09:41:30.812Z"
-  },
-  {
     "id": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f",
     "title": "Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash",
     "titleZh": "亞馬遜 170 億美元的俄亥俄州人工智慧資料中心賭注受到選民強烈反對的威脅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-18/texas-regulators-resuming-data-center-environmental-permits",
     "image": null,
     "pushedAt": "2026-11-19T00:02:01.202Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
+    "title": "Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares",
+    "titleZh": "英偉達的動盪促使人們重新思考日本人工智慧股票的估值",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
+    "image": null,
+    "pushedAt": "2026-11-19T00:02:32.633Z"
   }
 ]
