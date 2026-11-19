@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-    "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-    "titleZh": "經過幾天的數字中斷後，美國人想知道這個國家是否正在崩潰",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T14:56:15.581Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
-    "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
-    "titleZh": "英偉達沒有計劃召回黃仁勳",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-nvidia-04-vtqg/17biz-nvidia-04-vtqg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T22:52:52.202Z"
-  },
-  {
-    "id": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-    "title": "Ted Plafker, a stalwart of our China coverage, has died",
-    "titleZh": "我們中國報道的堅定支持者特德·普拉夫克去世",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-    "image": null,
-    "pushedAt": "2026-11-19T13:13:05.925Z"
-  },
-  {
-    "id": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
-    "title": "China’s exports of clean tech to South-East Asia are soaring",
-    "titleZh": "中國對東南亞的清潔技術出口激增",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
-    "image": null,
-    "pushedAt": "2026-11-19T13:13:30.762Z"
-  },
-  {
     "id": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
     "title": "China’s carbon-dioxide emissions have begun to fall",
     "titleZh": "中國二氧化碳排放量開始下降",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/joanna-stern-on-siri-s-ios-27-issues-and-her-viral-apple-dad-review",
     "image": null,
     "pushedAt": "2026-11-19T21:05:16.018Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22",
+    "title": "Australian PM to meet Xi Jinping as iron ore tensions loom",
+    "titleZh": "鐵礦緊張局勢迫在眉睫，澳洲總理將與習近平會面",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T21:05:46.766Z"
+  },
+  {
+    "id": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675",
+    "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
+    "titleZh": "自盧拉連任以來巴西央行介入遏制雷亞爾貶值",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T21:05:50.248Z"
+  },
+  {
+    "id": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7",
+    "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
+    "titleZh": "習近平、川普、普丁會晤和後西方世界的黎明",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T21:05:54.558Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd",
+    "title": "Anthropic shares jump 17% after record Wall Street listing",
+    "titleZh": "創紀錄的華爾街上市後 Anthropic 股價上漲 17%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T21:05:57.926Z"
   }
 ]
