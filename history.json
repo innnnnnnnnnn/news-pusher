@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba",
-    "title": "US dollar rally erases ‘liberation day’ losses as rate expectations rise",
-    "titleZh": "隨著利率預期上升，美元反彈抹去了「解放日」的損失",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T01:28:01.476Z"
-  },
-  {
     "id": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614",
     "title": "A misty outlook for rates",
     "titleZh": "利率前景不明朗",
@@ -339,7 +330,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
-    "pushedAt": "2026-11-19T08:18:45.435Z"
+    "pushedAt": "2026-11-19T10:48:31.772Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
@@ -3066,7 +3057,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T08:20:25.544Z"
+    "pushedAt": "2026-11-19T10:50:11.861Z"
   },
   {
     "id": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
@@ -4605,7 +4596,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T08:18:20.642Z"
+    "pushedAt": "2026-11-19T10:48:06.694Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -4623,7 +4614,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/europe-s-next-crisis-fighting-team-takes-shape",
     "image": null,
-    "pushedAt": "2026-11-19T08:19:10.291Z"
+    "pushedAt": "2026-11-19T10:48:56.675Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
@@ -4641,7 +4632,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
     "image": "https://static01.nyt.com/images/2026/11/18/world/asia/18vid-trump-jollibee-COVER/18vid-trump-jollibee-COVER-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T08:19:35.715Z"
+    "pushedAt": "2026-11-19T10:49:21.414Z"
   },
   {
     "id": "https://flipso.com/p/kcmjcx47c",
@@ -4650,7 +4641,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/kcmjcx47c?ref=rss",
     "image": "https://cdn.flipso.com/p/kcmjcx47c_square.jpg",
-    "pushedAt": "2026-11-19T08:20:00.611Z"
+    "pushedAt": "2026-11-19T10:49:46.638Z"
   },
   {
     "id": "https://www.ft.com/content/0199a289-6f9d-4a9b-bbb8-dc738b3deb60",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nuclear-02-tpbq/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T10:46:21.204Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal",
+    "title": "ECB’s Nagel Says December Rate Hike Would Send Clear Signal",
+    "titleZh": "歐洲央行內格爾表示 12 月升息將發出明確訊號",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal",
+    "image": null,
+    "pushedAt": "2026-11-19T10:50:39.528Z"
   }
 ]
