@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
-    "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
-    "titleZh": "SpaceX 的人工智慧晶片債務最快將於本週上市",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
-    "image": null,
-    "pushedAt": "2026-11-17T22:30:47.437Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/kazakhstan-has-given-over-1-billion-of-loans-lending-to-emerging-metal-tycoon",
-    "title": "Kazakhstan Has Given Over $1 Billion of Loans Lending to emerging metal tycoon",
-    "titleZh": "哈薩克已向新興金屬大亨提供超過10億美元的貸款",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/kazakhstan-has-given-over-1-billion-of-loans-lending-to-emerging-metal-tycoon",
-    "image": null,
-    "pushedAt": "2026-11-17T15:05:13.569Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/us-homebuilder-sentiment-sags-to-fresh-14-year-low-on-high-rates",
-    "title": "US Homebuilder Sentiment Sags to Fresh 14-Year Low on Rates",
-    "titleZh": "高利率導緻美國房屋建築商信心跌至 14 年來新低",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-homebuilder-sentiment-sags-to-fresh-14-year-low-on-high-rates",
-    "image": null,
-    "pushedAt": "2026-11-18T07:59:26.277Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
     "title": "Asian love ballads test Eurovision’s winning song formula.",
     "titleZh": "亞洲情歌考驗歐洲歌唱大賽的獲勝歌曲公式。",
@@ -483,7 +456,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vzc5elb75?ref=rss",
     "image": "https://cdn.flipso.com/p/vzc5elb75_square.jpg",
-    "pushedAt": "2026-11-19T09:59:07.417Z"
+    "pushedAt": "2026-11-19T12:16:34.453Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -5721,7 +5694,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-19T09:58:42.309Z"
+    "pushedAt": "2026-11-19T12:16:09.299Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/need-accountability-transparency-in-faa-funding-capito-video",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
     "image": null,
     "pushedAt": "2026-11-19T12:15:40.989Z"
+  },
+  {
+    "id": "https://www.ft.com/content/55ca051f-af14-48e9-94cc-b700b3097e2f",
+    "title": "Walmart boosted by grocery sales as US consumers search for lower prices",
+    "titleZh": "由於美國消費者尋求更低的價格，沃爾瑪因食品雜貨銷售而提振",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/55ca051f-af14-48e9-94cc-b700b3097e2f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T12:17:02.688Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+    "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+    "titleZh": "即時更新：聯合國法院裁定緬甸對羅興亞人實施種族滅絕",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/live-blog-20261119-myanmar-icj-ruling-genocide-header-ghjq/live-blog-20261119-myanmar-icj-ruling-genocide-header-ghjq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T12:17:07.683Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+    "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+    "titleZh": "胡塞武裝襲擊利雅德 沙烏地阿拉伯主權財富基金塔受損",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-saudi-pif-attack-wpcj/19int-saudi-pif-attack-wpcj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T12:17:12.621Z"
   }
 ]
