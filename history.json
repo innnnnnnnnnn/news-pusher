@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
-    "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
-    "titleZh": "菲律賓年輕人在川普和馬可斯會面前抗議",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
-    "image": null,
-    "pushedAt": "2026-11-19T04:50:49.012Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
     "title": "BofA Survey Shows Investors Cut Tech Exposure by Most Since 2006",
     "titleZh": "美國銀行調查顯示，自 2006 年以來，投資人大幅削減了科技投資",
@@ -8484,7 +8475,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T05:05:29.232Z"
+    "pushedAt": "2026-11-19T07:16:18.463Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
@@ -8493,7 +8484,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T05:06:00.970Z"
+    "pushedAt": "2026-11-19T07:16:43.513Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/tiger-backed-razorpay-said-to-near-public-filing-for-india-ipo",
     "image": null,
     "pushedAt": "2026-11-19T07:15:50.303Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/wallenberg-investments-takes-minority-stake-in-ai-firm-algoryx",
+    "title": "Wallenberg Investments Takes Minority Stake in AI Firm Algoryx",
+    "titleZh": "Wallenberg Investments 持有人工智慧公司 Algoryx 少數股權",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/wallenberg-investments-takes-minority-stake-in-ai-firm-algoryx",
+    "image": null,
+    "pushedAt": "2026-11-19T07:17:11.868Z"
   }
 ]
