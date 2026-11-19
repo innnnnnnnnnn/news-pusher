@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
-    "title": "Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe",
-    "titleZh": "烏克蘭談判遭遇俄羅斯與歐洲之間的深仇大恨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-trump-russia-kftm/17dc-trump-russia-kftm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T21:50:40.832Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage",
     "title": "Apple Works to Restore Systems After Internal Update Causes Outage",
     "titleZh": "Apple 致力於在更新導致中斷後恢復系統",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/tod-s-nears-400-million-debt-refinance-backed-by-group-s-owners",
     "image": null,
     "pushedAt": "2026-11-19T15:54:11.471Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/walmart-benefits-from-e-commerce-video",
+    "title": "Walmart Benefits from E-Commerce",
+    "titleZh": "沃爾瑪從電子商務中受益",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/walmart-benefits-from-e-commerce-video",
+    "image": null,
+    "pushedAt": "2026-11-19T15:54:42.110Z"
   }
 ]
