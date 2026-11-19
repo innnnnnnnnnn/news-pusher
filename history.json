@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
-    "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
-    "titleZh": "川普總統開始亞洲之行並在馬尼拉短暫停留",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summit-ledeall-01-gcjb/17trump-summit-ledeall-01-gcjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T11:45:51.930Z"
-  },
-  {
     "id": "https://flipso.com/p/pw3n037mu",
     "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring",
     "titleZh": "《灰色搖滾》：非常非常無聊的改善生活的力量",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/gytoio04l?ref=rss",
     "image": "https://cdn.flipso.com/p/gytoio04l_square.jpg",
     "pushedAt": "2026-11-19T14:10:22.535Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading",
+    "title": "When will Anthropic shares start trading?",
+    "titleZh": "Anthropic 股票什麼時候開始交易？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19anthropic-ipo-trading-begins-vwzf/19anthropic-ipo-trading-begins-vwzf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T14:10:52.636Z"
   }
 ]
