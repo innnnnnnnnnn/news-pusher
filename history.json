@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network",
-    "title": "US Electronic Spy Agency Suffers Classified Network Outage",
-    "titleZh": "美國電子間諜機構機密網路中斷",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network",
-    "image": null,
-    "pushedAt": "2026-11-17T22:38:42.997Z"
-  },
-  {
     "id": "https://flipso.com/p/h4unluxwb",
     "title": "The Evolving Story of How Chemistry Became Biology",
     "titleZh": "化學如何成為生物學的演變故事",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T14:55:17.016Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
+    "title": "The incredible shrinking legacy of Donald J. Trump",
+    "titleZh": "唐納德·J·特朗普的遺產令人難以置信地萎縮",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
+    "image": null,
+    "pushedAt": "2026-11-19T14:55:45.518Z"
   }
 ]
