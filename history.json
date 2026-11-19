@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html",
-    "title": "Another Storm Is Bearing Down on California",
-    "titleZh": "另一場風暴正在襲擊加州",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18wea-CAstorms-qfjm/18wea-CAstorms-qfjm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T10:48:45.482Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
     "title": "Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54",
     "titleZh": "歐巴馬抨擊川普演講的撰稿人凱文布萊爾去世，享年 54 歲",
@@ -3480,7 +3471,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "image": null,
-    "pushedAt": "2026-11-19T16:30:18.255Z"
+    "pushedAt": "2026-11-19T18:42:21.448Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
@@ -6387,7 +6378,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/india-official-calls-for-higher-wages-to-spur-household-spending",
     "image": null,
-    "pushedAt": "2026-11-19T16:29:53.901Z"
+    "pushedAt": "2026-11-19T18:41:56.881Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/australia-to-allow-pension-funds-to-offer-more-targeted-advice",
@@ -7836,7 +7827,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/gytoio04l?ref=rss",
     "image": "https://cdn.flipso.com/p/gytoio04l_square.jpg",
-    "pushedAt": "2026-11-19T16:31:35.950Z"
+    "pushedAt": "2026-11-19T18:43:10.287Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading",
@@ -8664,7 +8655,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/opinion/the-tuners-international-chopin-piano-competition.html",
     "image": null,
-    "pushedAt": "2026-11-19T16:31:07.914Z"
+    "pushedAt": "2026-11-19T18:42:45.652Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-panetta-says-inflation-mustn-t-be-allowed-to-take-root",
     "image": null,
     "pushedAt": "2026-11-19T18:38:10.858Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
+    "title": "Holiday Shoppers Seek Affordability at Walmart, Target and Other Retailers",
+    "titleZh": "假日購物者在沃爾瑪、塔吉特和其他零售商處尋求實惠",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-affordability-earnings-01-bvjf/19biz-affordability-earnings-01-bvjf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T18:43:38.171Z"
   }
 ]
