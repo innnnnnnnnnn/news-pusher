@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f547570b-306f-45a9-a321-a3919650240d",
-    "title": "Obsessed with: Chicago’s legendary sandwich scene",
-    "titleZh": "著迷：芝加哥傳奇的三明治場景",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f547570b-306f-45a9-a321-a3919650240d",
-    "image": null,
-    "pushedAt": "2026-11-17T07:30:02.830Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9af1c511-4bf7-45c0-9b13-255fe3be62dd",
-    "title": "The secret war between al-Qaeda and Islamic State",
-    "titleZh": "蓋達組織與伊斯蘭國之間的秘密戰爭",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9af1c511-4bf7-45c0-9b13-255fe3be62dd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-17T05:10:02.463Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
     "title": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
     "titleZh": "全球風險支撐謹慎態度，匈牙利將維持利率不變",
@@ -1338,7 +1320,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/lh4bzoeu5?ref=rss",
     "image": "https://cdn.flipso.com/p/lh4bzoeu5_square.jpg",
-    "pushedAt": "2026-11-18T21:49:09.568Z"
+    "pushedAt": "2026-11-19T00:23:48.543Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
@@ -3003,7 +2985,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-bahrain-2-fqzp/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T21:48:18.201Z"
+    "pushedAt": "2026-11-19T00:22:56.983Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
@@ -6774,7 +6756,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T21:48:43.025Z"
+    "pushedAt": "2026-11-19T00:23:21.715Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
@@ -7926,7 +7908,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
     "image": null,
-    "pushedAt": "2026-11-18T21:47:53.487Z"
+    "pushedAt": "2026-11-19T00:22:32.191Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/carlyle-s-jenkins-warns-on-rush-to-fund-ai-data-centers-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/trade-and-ai-rivalry-to-dominate-apec-summit-video",
     "image": null,
     "pushedAt": "2026-11-19T00:22:02.872Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/watch-palmer-luckey-ai-dealbook-summit.html",
+    "title": "Watch: Palmer Luckey Warns of Falling Behind in A.I. Race",
+    "titleZh": "觀看：帕爾默·拉基警告人工智慧領域的落後種族",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/watch-palmer-luckey-ai-dealbook-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-luckey-vid-PROMO-qvbj/18DB-luckey-vid-PROMO-qvbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:24:17.356Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html",
+    "title": "Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure",
+    "titleZh": "觀看：薩蒂亞·納德拉 (Satya Nadella) 談人工智慧對全球基礎設施的威脅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18vid-db-summit-nadella-promo/18vid-db-summit-nadella-cover-cptg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:24:22.555Z"
   }
 ]
