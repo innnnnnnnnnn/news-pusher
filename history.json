@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-holds-key-interest-rate-as-global-risks-support-caution",
-    "title": "Hungary Keeps Interest Rate-Cut Window Open Citing Euro Path",
-    "titleZh": "全球風險支撐謹慎，匈牙利維持關鍵利率",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-holds-key-interest-rate-as-global-risks-support-caution",
-    "image": null,
-    "pushedAt": "2026-11-17T15:39:40.462Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
     "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
     "titleZh": "Nvidia 的財報電話會議是一個利害攸關的時刻",
@@ -1392,7 +1383,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/6kuc57jt4?ref=rss",
     "image": "https://cdn.flipso.com/p/6kuc57jt4_square.jpg",
-    "pushedAt": "2026-11-19T07:54:23.825Z"
+    "pushedAt": "2026-11-19T10:24:18.445Z"
   },
   {
     "id": "https://flipso.com/p/ulrwti10q",
@@ -1401,7 +1392,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ulrwti10q?ref=rss",
     "image": "https://cdn.flipso.com/p/ulrwti10q_square.jpg",
-    "pushedAt": "2026-11-19T07:54:49.007Z"
+    "pushedAt": "2026-11-19T10:24:43.212Z"
   },
   {
     "id": "https://flipso.com/p/96kssr0i2",
@@ -1410,7 +1401,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/96kssr0i2?ref=rss",
     "image": "https://cdn.flipso.com/p/96kssr0i2_square.jpg",
-    "pushedAt": "2026-11-19T07:55:13.774Z"
+    "pushedAt": "2026-11-19T10:25:07.782Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
@@ -2301,7 +2292,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
     "image": null,
-    "pushedAt": "2026-11-19T07:56:29.622Z"
+    "pushedAt": "2026-11-19T10:25:57.709Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
@@ -7773,7 +7764,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
     "image": "https://static01.nyt.com/images/2026/11/19/19visualUploader-43868-cover/19visualUploader-43868-cover-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-19T07:56:54.444Z"
+    "pushedAt": "2026-11-19T10:26:23.193Z"
   },
   {
     "id": "https://www.ft.com/content/82e63f96-3a5e-47d1-9fca-9f3401903abe",
@@ -8295,7 +8286,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/ripple-s-garlinghouse-sees-crypto-assets-diverging-video",
     "image": null,
-    "pushedAt": "2026-11-19T07:56:04.648Z"
+    "pushedAt": "2026-11-19T10:25:33.036Z"
   },
   {
     "id": "https://www.ft.com/content/31447aee-2e10-4170-8792-bd7d60d5bc40",
@@ -8601,7 +8592,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7196517d-ad99-4436-af89-787214b35d2c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T07:57:22.189Z"
+    "pushedAt": "2026-11-19T10:26:48.177Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-holds-soybean-imports-at-ports-as-domestic-supplies-swell",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/former-brexit-negotiator-welcomes-uk-eu-cooperation-video",
     "image": null,
     "pushedAt": "2026-11-19T10:23:50.182Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74",
+    "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
+    "titleZh": "台積電和三星暫停向中國客戶供應部分晶片",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T10:27:16.470Z"
   }
 ]
