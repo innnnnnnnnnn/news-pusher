@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-    "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-    "titleZh": "威廉王子乘坐電動人力車將氣候獎帶到印度",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-india-royals-01-jgqw/17int-india-royals-01-jgqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T08:50:09.577Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-growth-guidance-is-pivotal-point-to-watch-luria-video",
     "title": "Nvidia Growth Guidance Is Pivotal Point to Watch, Luria Says",
     "titleZh": "Luria 表示，Nvidia 的成長指引是關鍵觀察指標",
@@ -7530,7 +7521,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2e5c47c-2ba7-42e4-ae0c-1860fc37dd69.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T09:48:58.983Z"
+    "pushedAt": "2026-11-19T12:07:32.179Z"
   },
   {
     "id": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/briefing/grand-theft-auto-vi.html",
     "image": null,
     "pushedAt": "2026-11-19T12:04:56.798Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-oil-demand-rebound-pivots-on-two-crucial-factors-stockpiling-and-exports",
+    "title": "China Oil Demand Rebound Pivots on Two Crucial Factors, Stockpiling and Exports",
+    "titleZh": "中國石油需求反彈取決於兩個關鍵因素：庫存和出口",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-oil-demand-rebound-pivots-on-two-crucial-factors-stockpiling-and-exports",
+    "image": null,
+    "pushedAt": "2026-11-19T12:07:58.890Z"
   }
 ]
