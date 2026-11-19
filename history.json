@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/the-bank-of-nvidia-is-becoming-more-disciplined-and-selective",
-    "title": "The Bank of Nvidia Is Getting More ‘Disciplined,’ Selective",
-    "titleZh": "英偉達銀行正變得更加「自律」和挑剔",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/the-bank-of-nvidia-is-becoming-more-disciplined-and-selective",
-    "image": null,
-    "pushedAt": "2026-11-18T19:19:48.737Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/rubio-says-recent-us-tech-outages-unrelated-not-hostile-acts",
-    "title": "Rubio Says Recent US Tech Outages Unrelated, Not Hostile Acts",
-    "titleZh": "盧比歐稱最近美國科技中斷無關，並非敵對行為",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/rubio-says-recent-us-tech-outages-unrelated-not-hostile-acts",
-    "image": null,
-    "pushedAt": "2026-11-18T09:05:22.705Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/japan-panel-said-to-warn-takaichi-that-market-trust-is-paramount",
     "title": "Japan Panel Said to Warn Takaichi That Market Trust Is Paramount",
     "titleZh": "據說日本專家小組警告高市市場信任至關重要",
@@ -4164,7 +4146,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gta-america-fmvw/18int-gta-america-fmvw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:47:51.877Z"
+    "pushedAt": "2026-11-19T22:04:24.219Z"
   },
   {
     "id": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
@@ -4713,7 +4695,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-vid-musk-ckzj/18dealbook-summit-vid-musk-ckzj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:48:43.394Z"
+    "pushedAt": "2026-11-19T22:04:48.631Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
@@ -7539,7 +7521,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-archival-tbmv/19myanmar-icj-archival-tbmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:49:08.082Z"
+    "pushedAt": "2026-11-19T22:05:13.270Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-executive-team-rings-nasdaq-opening-bell-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar",
     "image": null,
     "pushedAt": "2026-11-19T22:03:56.551Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+    "titleZh": "Anthropic 的 IPO讓科技研究人員一夕之間成為百萬富翁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T22:05:44.237Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
+    "title": "Should You Invest in Anthropic? Here’s What to Consider.",
+    "titleZh": "你該投資人類嗎？以下是需要考慮的事項。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/business/00money-ipo/00money-ipo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T22:05:49.929Z"
   }
 ]
