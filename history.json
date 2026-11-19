@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-    "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-    "titleZh": "在美國船隻襲擊中倖存的厄瓜多爾漁民起訴川普政府",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T09:06:08.242Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/disney-tops-profit-estimates-on-streaming-tv-growth-video",
-    "title": "Disney Tops Profit Estimates on Streaming TV Growth",
-    "titleZh": "迪士尼因串流電視成長而超越利潤預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/disney-tops-profit-estimates-on-streaming-tv-growth-video",
-    "image": null,
-    "pushedAt": "2026-11-17T15:21:25.868Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle",
     "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
     "titleZh": "美國10年期公債殖利率將在聯準會利率週期內歷史性地突破5%",
@@ -843,7 +825,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/96kssr0i2?ref=rss",
     "image": "https://cdn.flipso.com/p/96kssr0i2_square.jpg",
-    "pushedAt": "2026-11-19T10:25:07.782Z"
+    "pushedAt": "2026-11-19T12:42:28.286Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
@@ -1734,7 +1716,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
     "image": null,
-    "pushedAt": "2026-11-19T10:25:57.709Z"
+    "pushedAt": "2026-11-19T12:42:54.449Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/jjm2btdfl?ref=rss",
     "image": "https://cdn.flipso.com/p/jjm2btdfl_square.jpg",
     "pushedAt": "2026-11-19T12:41:59.699Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bc4ffdc7-667b-4333-b054-1b341345f715",
+    "title": "European tech bosses urge Brussels to unlock €12tn in household savings",
+    "titleZh": "歐洲科技巨頭敦促布魯塞爾釋放 12 兆歐元的家庭儲蓄",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bc4ffdc7-667b-4333-b054-1b341345f715?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T12:43:24.320Z"
+  },
+  {
+    "id": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8",
+    "title": "More than 100,000 UK retail investors rush to buy Anthropic shares in IPO",
+    "titleZh": "超過10萬英國散戶爭取購買Anthropic IPO股票",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T12:43:27.708Z"
   }
 ]
