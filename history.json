@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/medline-s-backers-raise-2-1-billion-in-stock-offering",
-    "title": "Medline’s Backers Raise $2.1 Billion in Stock Offering",
-    "titleZh": "Medline 的支持者透過股票發行籌集了 21 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/medline-s-backers-raise-2-1-billion-in-stock-offering",
-    "image": null,
-    "pushedAt": "2026-11-18T06:39:46.871Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/citi-sees-africa-s-bond-sales-topping-2026-record-next-year",
     "title": "Citi Sees Africa’s Bond Sales Topping 2026 Record Next Year",
     "titleZh": "花旗預計明年非洲債券銷售將突破 2026 年紀錄",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-city-at-the-center-of-ai-video",
     "image": null,
     "pushedAt": "2026-11-19T23:50:49.363Z"
+  },
+  {
+    "id": "https://flipso.com/p/c9v71ka1h",
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "titleZh": "三名患者註射病毒阻止了胰臟癌",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/c9v71ka1h?ref=rss",
+    "image": "https://cdn.flipso.com/p/c9v71ka1h_square.jpg",
+    "pushedAt": "2026-11-19T23:51:19.629Z"
   }
 ]
