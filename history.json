@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c",
-    "title": "Anthropic IPO to further fuel the AI news cycle",
-    "titleZh": "人類首次公開募股進一步推動人工智慧新聞週期",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T09:04:05.037Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
     "title": "The panic over personalised pricing is overdone",
     "titleZh": "對個人化定價的恐慌有些過頭了",
@@ -8641,12 +8632,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
-    "title": "Trump Seeks to Project Power Abroad While Forced to Share It at Home",
+    "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
     "titleZh": "川普尋求在海外投射權力，同時被迫在國內分享權力",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T17:07:40.356Z"
+    "pushedAt": "2026-11-19T19:25:27.331Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/uber-tests-rides-for-10-to-12-year-olds-in-three-us-cities",
     "image": null,
     "pushedAt": "2026-11-19T19:24:59.854Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
+    "title": "Anthropic Leveraged ETF Race Heats Up",
+    "titleZh": "Anthropic 槓桿 ETF 競賽愈演愈烈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
+    "image": null,
+    "pushedAt": "2026-11-19T19:25:54.974Z"
   }
 ]
