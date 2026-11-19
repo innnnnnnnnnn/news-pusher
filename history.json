@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
-    "title": "How Democrats Winning in Texas Affects Musk",
-    "titleZh": "民主黨在德克薩斯州獲勝如何影響馬斯克",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
-    "image": null,
-    "pushedAt": "2026-11-18T18:12:53.492Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
     "title": "Elon Musk’s Texas GOP Allies, Who Gave Him $1.7 Billion, Have Been Voted Out. What Now?",
     "titleZh": "馬斯克 (Elon Musk) 的德州共和黨盟友曾為他提供 17 億美元，但已被投票淘汰。現在怎麼辦？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/lores-says-ai-commerce-is-an-opportunity-for-paypal-video",
     "image": null,
     "pushedAt": "2026-11-19T05:36:42.750Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/how-trump-is-approaching-the-xi-putin-trilateral-video",
+    "title": "How Trump Is Approaching the Xi-Putin Trilateral",
+    "titleZh": "川普如何接近習普丁三邊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/how-trump-is-approaching-the-xi-putin-trilateral-video",
+    "image": null,
+    "pushedAt": "2026-11-19T05:38:06.430Z"
   }
 ]
