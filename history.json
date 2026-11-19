@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video",
-    "title": "Traders Exploiting Pricing Gaps In Pre-IPO Contracts",
-    "titleZh": "交易員利用首次公開募股前合約中的定價差距",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video",
-    "image": null,
-    "pushedAt": "2026-11-17T23:59:22.908Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
     "title": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
     "titleZh": "隨著穆迪上調前景，巴拿馬從垃圾級邊緣拉回來",
@@ -7035,7 +7026,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "image": null,
-    "pushedAt": "2026-11-19T14:50:35.749Z"
+    "pushedAt": "2026-11-19T17:10:37.409Z"
   },
   {
     "id": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T17:07:40.356Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
+    "title": "Intolerance of Uncertainty Is Rising in Young Adults",
+    "titleZh": "年輕人對不確定性的不容忍度正在上升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/WELL-UNCERTAINTY-ANXIETY1-jvzm/WELL-UNCERTAINTY-ANXIETY1-jvzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T17:11:04.417Z"
   }
 ]
