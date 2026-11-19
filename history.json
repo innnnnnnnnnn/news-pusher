@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
-    "title": "The Japanese region where “eight-testicle women” outdo men",
-    "titleZh": "日本地區「八睪女」勝過男性",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
-    "image": null,
-    "pushedAt": "2026-11-19T12:57:10.249Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-    "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
-    "titleZh": "FDA拒絕來自中國的備受關注的肺癌藥物",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T00:10:52.950Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
     "title": "Too Many Chips in One Basket?",
     "titleZh": "一籃裡的薯片太多？",
@@ -2247,7 +2229,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T17:56:36.220Z"
+    "pushedAt": "2026-11-19T20:17:40.419Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -7966,12 +7948,12 @@
   },
   {
     "id": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2",
-    "title": "Putin invites European leaders to Moscow",
+    "title": "Putin invites European leaders to Moscow for talks on Ukraine",
     "titleZh": "普丁邀請歐洲領導人訪問莫斯科",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5886a3b8-6350-4598-a41d-92f5007d75b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T17:56:10.951Z"
+    "pushedAt": "2026-11-19T20:17:16.350Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/ehfrs9r34?ref=rss",
     "image": "https://cdn.flipso.com/p/ehfrs9r34_square.jpg",
     "pushedAt": "2026-11-19T20:16:48.934Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
+    "title": "Food Delivery Is Making a Killing on Grand Theft Auto",
+    "titleZh": "食物配送正在《俠盜獵車手》中大放異彩",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19FD-gta-food-delivery1-hwvj/19FD-gta-food-delivery1-hwvj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T20:18:07.687Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
+    "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
+    "titleZh": "美國銀行表示，戰爭驅動的成本擠壓給公司敲響了警鐘",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
+    "image": null,
+    "pushedAt": "2026-11-19T20:18:11.576Z"
   }
 ]
