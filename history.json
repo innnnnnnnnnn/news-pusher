@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-17T17:20:10.013Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
     "title": "Fed’s Hammack Proposes Principles for Market Interventions",
     "titleZh": "聯準會哈馬克提出市場幹預原則",
@@ -6873,7 +6864,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/zohran-mamdani-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-mamdani-wfvz/18dealbook-summit-mamdani-wfvz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T09:34:38.612Z"
+    "pushedAt": "2026-11-19T11:51:03.728Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/trade-and-ai-rivalry-to-dominate-apec-summit-video",
@@ -8043,7 +8034,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/arts/television/late-night-trump-xi-putin.html",
     "image": null,
-    "pushedAt": "2026-11-19T09:31:35.573Z"
+    "pushedAt": "2026-11-19T11:49:24.848Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/zkh-s-wang-on-earnings-video",
@@ -8070,7 +8061,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
     "image": null,
-    "pushedAt": "2026-11-19T09:32:53.686Z"
+    "pushedAt": "2026-11-19T11:49:49.748Z"
   },
   {
     "id": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe",
@@ -8079,7 +8070,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T09:33:19.148Z"
+    "pushedAt": "2026-11-19T11:50:14.806Z"
   },
   {
     "id": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb",
@@ -8088,7 +8079,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T09:33:45.211Z"
+    "pushedAt": "2026-11-19T11:50:39.271Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-19/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video",
     "image": null,
     "pushedAt": "2026-11-19T11:48:57.205Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1",
+    "title": "Ukraine’s western allies meet in Berlin to counter Yalta 2.0 optics",
+    "titleZh": "烏克蘭西方盟國在柏林舉行會議，對抗雅爾達2.0光學",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T11:51:31.232Z"
   }
 ]
