@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
-    "title": "Anthropic-Backer CBA Says Australia More Attractive on Compute",
-    "titleZh": "Anthropic 支持者 CBA 表示澳洲在計算方面更具吸引力",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
-    "image": null,
-    "pushedAt": "2026-11-18T11:55:40.752Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/medline-s-backers-raise-2-1-billion-in-stock-offering",
     "title": "Medline’s Backers Raise $2.1 Billion in Stock Offering",
     "titleZh": "Medline 的支持者透過股票發行籌集了 21 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-paulson-says-clear-communication-can-guide-rates",
     "image": null,
     "pushedAt": "2026-11-19T23:50:21.824Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-city-at-the-center-of-ai-video",
+    "title": "The City at the Center of AI",
+    "titleZh": "人工智慧中心的城市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-city-at-the-center-of-ai-video",
+    "image": null,
+    "pushedAt": "2026-11-19T23:50:49.363Z"
   }
 ]
