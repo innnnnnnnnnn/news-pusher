@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb",
-    "title": "Nvidia creates committee to oversee compliance with US chip export controls",
-    "titleZh": "英偉達成立委員會來監督美國晶片出口管制的遵守情況",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T03:37:12.013Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began",
     "title": "German Investor Outlook Jumps to Highest Since Iran War Began",
     "titleZh": "德國投資者前景躍升至伊朗戰爭爆發以來最高",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-family-photo-lqjb/19trump-summits-family-photo-lqjb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T06:36:01.071Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+    "title": "Anthropic Raises $107.3 Billion in Watershed AI Debut",
+    "titleZh": "Anthropic 首次亮相分水嶺 AI 融資 1,073 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+    "image": null,
+    "pushedAt": "2026-11-19T06:42:26.684Z"
   }
 ]
