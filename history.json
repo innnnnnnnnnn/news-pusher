@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
-    "title": "Japan 20-Year Bond Sale Demand Is Weaker Than 12-Month Average",
-    "titleZh": "日本 20 年期公債發行需求弱於 12 個月平均水平",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
-    "image": null,
-    "pushedAt": "2026-11-18T03:49:46.177Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025",
     "title": "South Korea’s Household Loan Growth Slows to Lowest Since 2025",
     "titleZh": "韓國家庭貸款增速放緩至 2025 年以來最低水平",
@@ -4191,7 +4182,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T20:52:31.476Z"
+    "pushedAt": "2026-11-19T23:09:48.400Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-s-mcbee-favors-data-center-spending-over-repaying-debt",
@@ -6882,7 +6873,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F977fb242-f3ba-40c2-acaf-d80b84b9217a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T20:52:06.720Z"
+    "pushedAt": "2026-11-19T23:09:23.713Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years",
@@ -6891,7 +6882,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years",
     "image": null,
-    "pushedAt": "2026-11-19T20:52:55.929Z"
+    "pushedAt": "2026-11-19T23:10:12.927Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/propagate-co-ceo-on-new-sam-bankman-fried-docuseries-video",
     "image": null,
     "pushedAt": "2026-11-19T23:08:55.953Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/catl-innolight-may-join-hong-kong-tech-index-in-major-ai-revamp",
+    "title": "CATL, Innolight May Join Hong Kong Tech Index in Major AI Revamp",
+    "titleZh": "寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/catl-innolight-may-join-hong-kong-tech-index-in-major-ai-revamp",
+    "image": null,
+    "pushedAt": "2026-11-19T23:10:41.922Z"
   }
 ]
