@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
-    "titleZh": "巴林人權活動家納比爾·拉賈布 (Nabeel Rajab) 去世，享年 62 歲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T12:04:05.442Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
     "title": "Nvidia Scandal Has Raised ‘Red Flags,’ California AG Says",
     "titleZh": "加州股份公司表示，英偉達醜聞已引發“危險信號”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/eu-executive-branch-suffered-ai-driven-cyber-attack-in-october",
     "image": null,
     "pushedAt": "2026-11-19T15:15:09.604Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+    "title": "Does Donald Trump care about the economy?",
+    "titleZh": "唐納德·川普關心經濟嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+    "image": null,
+    "pushedAt": "2026-11-19T15:15:36.931Z"
   }
 ]
