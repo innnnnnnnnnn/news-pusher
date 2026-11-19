@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
-    "title": "A New, Bold Antarctic Rescue: Bringing Shackleton’s Outpost Back to Life",
-    "titleZh": "新的、大膽的南極救援：讓沙克爾頓的前哨站恢復生機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
-    "image": null,
-    "pushedAt": "2026-11-17T17:17:53.768Z"
-  },
-  {
     "id": "https://www.ft.com/content/ea9051c2-cc56-46d5-b254-b13b484bc28a",
     "title": "Exxon’s Guyana oil boom sparks a return to frontier drilling",
     "titleZh": "埃克森美孚圭亞那石油繁榮引發邊境鑽探回歸",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
     "image": null,
     "pushedAt": "2026-11-19T09:30:09.802Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5edb7461-40b5-456d-9fda-928227b7028e",
+    "title": "Mahmood’s policing numbers do not add up",
+    "titleZh": "馬哈茂德的治安人數不符",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5edb7461-40b5-456d-9fda-928227b7028e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T09:30:40.353Z"
   }
 ]
