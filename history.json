@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
-    "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
-    "titleZh": "澤倫斯基稱烏克蘭的星盾進入再次受到限制",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-ukraine-starshield-wqlc/14int-ukraine-starshield-wqlc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T14:35:37.856Z"
-  },
-  {
     "id": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4",
     "title": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
     "titleZh": "聯準會麗莎庫克拒絕出席川普召集的聽證會",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/zimbabwe-asks-lenders-for-grants-to-repay-what-it-owes-them",
     "image": null,
     "pushedAt": "2026-11-19T11:47:59.010Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+    "title": "The Bottom Line newsletter: Nvidia will never be the same",
+    "titleZh": "底線通訊：Nvidia 永遠不會一樣",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+    "image": null,
+    "pushedAt": "2026-11-19T11:48:26.642Z"
   }
 ]
