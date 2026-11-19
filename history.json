@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-warns-of-risks-to-ai-demand-as-quarterly-growth-beats-initial-estimates",
-    "title": "Malaysia Warns of Risks to AI Demand as Quarterly Growth Beats Initial Estimates",
-    "titleZh": "馬來西亞警告人工智慧需求面臨風險，季度成長超出最初預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-warns-of-risks-to-ai-demand-as-quarterly-growth-beats-initial-estimates",
-    "image": null,
-    "pushedAt": "2026-11-18T16:31:00.746Z"
-  },
-  {
     "id": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240",
     "title": "Democrats win Alaska Senate seat to complete midterms victory",
     "titleZh": "民主黨贏得阿拉斯加參議院席位",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
     "image": null,
     "pushedAt": "2026-11-19T23:27:59.807Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
+    "title": "In Florida, More Rain Threatens Flooded Areas and Roads",
+    "titleZh": "在佛羅裡達州，更多的降雨威脅著洪水地區和道路",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T23:35:33.195Z"
   }
 ]
