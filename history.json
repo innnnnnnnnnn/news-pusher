@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
-    "title": "Donald Trump has an unusual chance to make progress",
-    "titleZh": "唐納德·特朗普有一個不同尋常的取得進步的機會",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
-    "image": null,
-    "pushedAt": "2026-11-19T12:51:14.215Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
     "title": "An emerging consensus on trans politics",
     "titleZh": "關於跨性別政治的新共識",
@@ -2265,7 +2256,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T17:47:00.447Z"
+    "pushedAt": "2026-11-19T20:05:03.493Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
@@ -5226,7 +5217,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T17:47:24.859Z"
+    "pushedAt": "2026-11-19T20:05:28.169Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
@@ -8592,7 +8583,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/apple-has-a-software-problem-nvidia-s-ceo-crisis-with-joanna-stern",
     "image": null,
-    "pushedAt": "2026-11-19T17:46:32.434Z"
+    "pushedAt": "2026-11-19T20:04:39.010Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
     "image": null,
     "pushedAt": "2026-11-19T20:04:11.272Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
+    "title": "Fed's Barr Says Inflation Calls for Further Policy Adjustment",
+    "titleZh": "聯準會巴爾稱通膨需要進一步調整政策",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
+    "image": null,
+    "pushedAt": "2026-11-19T20:05:54.377Z"
   }
 ]
