@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
-    "title": "UK Stocks, AI Adoption Drive FTSE 250 Gains as Oil Drops 20%",
-    "titleZh": "英國股市、人工智慧採用推動 FTSE 250 指數上漲，油價下跌 20%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
-    "image": null,
-    "pushedAt": "2026-11-17T07:27:12.122Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/the-china-show-11-17-2026-video",
     "title": "US Targets China's Remote Chip Access With New Curbs",
     "titleZh": "美國針對中國遠端晶片存取實施新限制",
@@ -8529,7 +8520,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T00:09:45.974Z"
+    "pushedAt": "2026-11-19T02:25:44.796Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T02:25:17.324Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2",
+    "title": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
+    "titleZh": "馬斯克表示，他為共和黨捐贈近 5 億美元感到“愚蠢”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8393a4fc-e24f-4bcc-9afe-6d860e8e72da.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T02:26:12.440Z"
   }
 ]
