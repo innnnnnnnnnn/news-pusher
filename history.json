@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/read-jensen-huang-s-statement-offering-a-return-as-nvidia-ceo",
-    "title": "Read Jensen Huang’s Statement Offering a Return as Nvidia CEO",
-    "titleZh": "閱讀黃仁勳關於提供 Nvidia 首席執行官回報的聲明",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/read-jensen-huang-s-statement-offering-a-return-as-nvidia-ceo",
-    "image": null,
-    "pushedAt": "2026-11-17T19:32:18.964Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
     "title": "Sellas Life Sciences Surges 156% After Cancer Vaccine Data",
     "titleZh": "癌症疫苗數據公佈後，塞拉斯生命科學股票增加兩倍",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/kalshi-novig-asks-states-to-help-bar-problem-gamblers-from-prediction-markets",
     "image": null,
     "pushedAt": "2026-11-19T14:33:42.910Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/opinion/hillary-clinton-trump-putin-ukraine.html",
+    "title": "Hillary Clinton: Trump Should Stop Appeasing Putin",
+    "titleZh": "希拉蕊·柯林頓：川普應該停止綏靖普京",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/opinion/hillary-clinton-trump-putin-ukraine.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19clinton-zfkh/19clinton-zfkh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T14:34:14.274Z"
   }
 ]
