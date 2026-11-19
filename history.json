@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/truist-says-tech-stocks-poised-to-rebound-after-valuation-rout",
-    "title": "Truist Says Tech Stocks Poised to Rebound After Valuation Rout",
-    "titleZh": "Truist 稱科技股在估值暴跌後有望反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/truist-says-tech-stocks-poised-to-rebound-after-valuation-rout",
-    "image": null,
-    "pushedAt": "2026-11-18T00:42:33.030Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust",
     "title": "Tech Paranoia Intensifies After Outages Roil Public Trust",
     "titleZh": "停電擾亂民眾信任後科技偏執加劇",
@@ -2715,7 +2706,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T15:41:18.418Z"
+    "pushedAt": "2026-11-19T17:56:36.220Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -7782,7 +7773,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-hawkishly-holds-rates-as-inflation-risks-widen",
     "image": null,
-    "pushedAt": "2026-11-19T15:41:43.963Z"
+    "pushedAt": "2026-11-19T17:57:00.949Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
@@ -8421,7 +8412,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/18735981-fabf-41a7-a9c4-ed9f1002b8e9",
     "image": null,
-    "pushedAt": "2026-11-19T15:39:23.490Z"
+    "pushedAt": "2026-11-19T17:55:20.077Z"
   },
   {
     "id": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731",
@@ -8430,7 +8421,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T15:39:28.035Z"
+    "pushedAt": "2026-11-19T17:55:45.520Z"
   },
   {
     "id": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2",
@@ -8438,8 +8429,8 @@
     "titleZh": "普丁邀請歐洲領導人訪問莫斯科",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T15:39:31.278Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5886a3b8-6350-4598-a41d-92f5007d75b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T17:56:10.951Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
@@ -8452,12 +8443,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
-    "title": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets",
+    "title": "Mexican Peso Rout Deepens as Banxico, Fed Policies Diverge",
     "titleZh": "聯準會前景令市場不安，墨西哥比索觸及 17 個月低點",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
     "image": null,
-    "pushedAt": "2026-11-19T15:42:13.632Z"
+    "pushedAt": "2026-11-19T17:57:26.610Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-gray-markets-indicate-first-day-pop-after-ipo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video",
     "image": null,
     "pushedAt": "2026-11-19T17:54:51.755Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropic-sold-itself-to-investors-ahead-of-its-ipo",
+    "title": "How Anthropic sold itself to investors ahead of its I.P.O.",
+    "titleZh": "Anthropic 如何在 IPO 之前向投資者推銷自己？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropic-sold-itself-to-investors-ahead-of-its-ipo",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/19anthropic-ipo-roadshow-version/12biz-anthropic-reality-kzlm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T17:57:53.323Z"
   }
 ]
