@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/012214bb-385b-45c1-aaee-bcaf5500746d",
-    "title": "An argument for AI eyewear",
-    "titleZh": "AI眼鏡的爭論",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/012214bb-385b-45c1-aaee-bcaf5500746d",
-    "image": null,
-    "pushedAt": "2026-11-18T04:15:19.059Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/how-china-and-us-clash-over-ai-risks-robots-and-chip-smuggling",
     "title": "How China and US Clash Over AI Risks, Robots and Chip Smuggling",
     "titleZh": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
@@ -8556,7 +8547,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T05:24:06.379Z"
+    "pushedAt": "2026-11-19T07:35:04.540Z"
   },
   {
     "id": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1",
@@ -8565,7 +8556,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T05:24:09.583Z"
+    "pushedAt": "2026-11-19T07:35:29.946Z"
   },
   {
     "id": "https://www.ft.com/content/cebcc448-bbff-4779-bd52-4c8911b107cb",
@@ -8574,7 +8565,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cebcc448-bbff-4779-bd52-4c8911b107cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T05:24:13.658Z"
+    "pushedAt": "2026-11-19T07:35:55.422Z"
   },
   {
     "id": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32",
@@ -8582,8 +8573,8 @@
     "titleZh": "黃金對投資者失去吸引力",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T05:24:18.336Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80d46f25-fa13-44bf-bf4f-6ec5bb0190d7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T07:36:23.088Z"
   },
   {
     "id": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208",
@@ -8592,7 +8583,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T05:24:24.530Z"
+    "pushedAt": "2026-11-19T07:36:48.334Z"
   },
   {
     "id": "https://www.ft.com/content/295c180f-05a4-477e-bbfa-ee6532ec070f",
@@ -8601,7 +8592,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/295c180f-05a4-477e-bbfa-ee6532ec070f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T05:24:29.344Z"
+    "pushedAt": "2026-11-19T07:37:14.356Z"
   },
   {
     "id": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66",
@@ -8609,8 +8600,8 @@
     "titleZh": "阿達尼：莫迪印度核心的億萬富翁",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T05:24:33.328Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb31e3591-28bc-4aae-9429-91e0949c5e42.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T07:37:40.711Z"
   },
   {
     "id": "https://www.ft.com/content/9c5f63b2-7a72-4c35-8a88-e3b28b5b099e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/the-path-to-a-year-end-rally-looks-clearer-taking-stock",
     "image": null,
     "pushedAt": "2026-11-19T07:34:09.409Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-china-show-11-19-2026-video",
+    "title": "Xi Hosts Trump at APEC Summit in Shenzhen",
+    "titleZh": "習近平在深圳亞太經合組織高峰會上接待川普",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-china-show-11-19-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-19T07:38:07.451Z"
   }
 ]
