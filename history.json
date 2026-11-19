@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
-    "title": "The Winning Democrat Who Wants to Break Up Political Parties",
-    "titleZh": "想要分裂政黨的獲勝民主黨人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/opinion/17eks-sand-image01/17eks-sand-image01-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-17T22:31:35.641Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
     "title": "There’s a New Push at COP31 in Turkey: Electrification",
     "titleZh": "土耳其 COP31 有新推動：電氣化",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-central-bank-rates-oil-2027--lesetja-kganyago",
     "image": null,
     "pushedAt": "2026-11-19T05:26:15.059Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a",
+    "title": "Brussels raises Eurozone growth forecasts as AI boom drives exports",
+    "titleZh": "人工智慧繁榮推動出口，布魯塞爾上調歐元區成長預測",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T05:26:43.515Z"
   }
 ]
