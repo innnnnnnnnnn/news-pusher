@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-    "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-    "titleZh": "以色列綁架伊朗將軍追捕羅恩·阿拉德",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-    "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T04:34:25.184Z"
-  },
-  {
     "id": "https://flipso.com/p/6kuc57jt4",
     "title": "Witches, vampires, ancient aliens—you'll find them all in Malta",
     "titleZh": "女巫、吸血鬼、古代外星人——你都能在馬耳他找到它們",
@@ -3264,7 +3255,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T13:09:12.255Z"
+    "pushedAt": "2026-11-19T15:41:18.418Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
@@ -6936,7 +6927,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b33cab8-69d4-48c3-9948-1d9777be9be8",
     "image": null,
-    "pushedAt": "2026-11-19T13:08:47.240Z"
+    "pushedAt": "2026-11-19T15:40:54.146Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/opinion/zvyagintsev-russia-minotaur-putin.html",
@@ -8326,12 +8317,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-hawkishly-holds-rates-as-inflation-risks-widen",
-    "title": "South Africa Hawkishly Holds Rates as Inflation Risks Widen",
+    "title": "Rand Dips After South Africa’s Split Decision to Hold Rates",
     "titleZh": "通膨風險擴大，南非鷹派維持利率不變",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-hawkishly-holds-rates-as-inflation-risks-widen",
     "image": null,
-    "pushedAt": "2026-11-19T13:10:05.279Z"
+    "pushedAt": "2026-11-19T15:41:43.963Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
     "image": null,
     "pushedAt": "2026-11-19T15:40:25.767Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
+    "title": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets",
+    "titleZh": "聯準會前景令市場不安，墨西哥比索觸及 17 個月低點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
+    "image": null,
+    "pushedAt": "2026-11-19T15:42:13.632Z"
   }
 ]
