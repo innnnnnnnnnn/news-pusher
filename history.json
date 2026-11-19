@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538",
-    "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
-    "titleZh": "「災難」：德國最大銀行的混亂內部",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04b720a5-07f6-46ad-b25d-56d624bed67b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T03:37:58.851Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
     "title": "Trump’s Ego Trip With Xi and Putin Will End Badly",
     "titleZh": "川普與習近平和普丁的自我之旅將有糟糕的結局",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
     "image": null,
     "pushedAt": "2026-11-19T00:49:52.117Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-the-biggest-interviews-at-the-dealbook-summit.html",
+    "title": "Watch the Biggest Interviews at the DealBook Summit",
+    "titleZh": "觀賞 DealBook 高峰會上最盛大的採訪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-the-biggest-interviews-at-the-dealbook-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18db-mamdani-sorkin-stage-pqhf/18db-mamdani-sorkin-stage-pqhf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T00:50:23.158Z"
   }
 ]
