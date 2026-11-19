@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/jpmorgan-cuts-borrowing-costs-on-2-85-billion-ccc-debt-deal",
-    "title": "JPMorgan Cuts Borrowing Costs on $2.85 Billion CCC Debt Deal",
-    "titleZh": "摩根大通削減 28.5 億美元 CCC 債務交易的借貸成本",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/jpmorgan-cuts-borrowing-costs-on-2-85-billion-ccc-debt-deal",
-    "image": null,
-    "pushedAt": "2026-11-17T15:33:40.900Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-    "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-    "titleZh": "認識前往曼谷參加亞洲歐洲歌唱大賽的粉絲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-fans-001-plbm/14asia-eurovision-fans-001-plbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T20:31:46.704Z"
-  },
-  {
     "id": "https://www.ft.com/content/d83f2a71-aea1-4654-a89a-84ad203f6646",
     "title": "How Paris and Berlin sealed the ECB succession",
     "titleZh": "巴黎和柏林如何確定歐洲央行繼任者",
@@ -3948,7 +3930,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T10:40:55.802Z"
+    "pushedAt": "2026-11-19T12:59:49.225Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
@@ -6909,7 +6891,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T10:41:20.558Z"
+    "pushedAt": "2026-11-19T13:00:14.719Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-s-record-breaking-ipo-what-comes-next-video",
     "image": null,
     "pushedAt": "2026-11-19T12:58:54.064Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/us-was-warned-of-telecoms-risk-years-before-salt-typhoon-hack",
+    "title": "US Was Warned of Telecoms Risk Years Before Salt Typhoon Hack",
+    "titleZh": "在鹽颱風襲擊發生前幾年，美國就已收到電信風險警告",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-was-warned-of-telecoms-risk-years-before-salt-typhoon-hack",
+    "image": null,
+    "pushedAt": "2026-11-19T13:00:43.457Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video",
+    "title": "Anthropic Investor Says IPO Sets New Benchmark for AI",
+    "titleZh": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video",
+    "image": null,
+    "pushedAt": "2026-11-19T13:00:48.519Z"
   }
 ]
