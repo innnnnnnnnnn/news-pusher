@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/singapore-to-deploy-ai-to-fight-scams-boost-business-lending",
-    "title": "Singapore to Deploy AI to Fight Scams, Boost Business Lending",
-    "titleZh": "新加坡將部署人工智慧打擊詐騙，促進商業貸款",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/singapore-to-deploy-ai-to-fight-scams-boost-business-lending",
-    "image": null,
-    "pushedAt": "2026-11-18T09:43:12.414Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/xi-calls-for-deeper-cooperation-and-free-trade-video",
     "title": "Xi Calls for Deeper Cooperation and Free Trade",
     "titleZh": "習近平呼籲深化合作與自由貿易",
@@ -8587,12 +8578,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
-    "title": "Food Delivery Is Making a Killing on Grand Theft Auto",
+    "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
     "titleZh": "食物配送正在《俠盜獵車手》中大放異彩",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19FD-gta-food-delivery1-hwvj/19FD-gta-food-delivery1-hwvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T20:18:07.687Z"
+    "pushedAt": "2026-11-19T22:33:27.261Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video-mwo4hdqb",
     "image": null,
     "pushedAt": "2026-11-19T22:32:59.634Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+    "titleZh": "Nvidia 被要求向與中國軍方和 Megaspeed 相關的公司出售晶片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T22:33:54.390Z"
   }
 ]
