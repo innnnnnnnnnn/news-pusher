@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
-    "title": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
-    "titleZh": "德意志銀行尋求遏制資料外洩的影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
-    "image": null,
-    "pushedAt": "2026-11-17T22:09:19.021Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-    "titleZh": "Apple 解決了影響 Apple Pay、iCloud 和應用程式的中斷問題",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-    "image": "https://static01.nyt.com/images/2026/07/29/multimedia/17xp-apple/17xp-apple-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T22:59:22.577Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
-    "title": "Fed's Williams Doesn't See Need for 'Dramatic Action' on Rates",
-    "titleZh": "聯準會威廉斯認為沒有必要對利率採取“重大行動”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
-    "image": null,
-    "pushedAt": "2026-11-17T22:19:50.946Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
     "title": "One of the Biggest Weeks in the AI Industry’s History",
     "titleZh": "人工智慧產業歷史上最重要的一周之一",
@@ -2688,7 +2661,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
     "image": "https://static01.nyt.com/images/2026/11/13/world/13russia-musician-profle/13russia-musician-profle-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:22:57.913Z"
+    "pushedAt": "2026-11-19T15:56:33.488Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real",
     "image": null,
     "pushedAt": "2026-11-19T15:56:05.519Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
+    "title": "They’re Prepping for a World Where the Internet Doesn’t Work",
+    "titleZh": "他們正在為一個網路無法運作的世界做準備",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/ST-PREPPERS-01-wkqv/ST-PREPPERS-01-wkqv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T15:57:01.071Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
+    "title": "Tech Outages May Become Routine. Experts Say Don’t Panic, but Prepare.",
+    "titleZh": "技術中斷可能會成為常態。專家表示不要驚慌，但要做好準備。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T15:57:06.088Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-decided-to-go-public-now-video",
+    "title": "Why Anthropic Decided to Go Public Now",
+    "titleZh": "為什麼 Anthropic 決定現在上市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-decided-to-go-public-now-video",
+    "image": null,
+    "pushedAt": "2026-11-19T15:57:10.267Z"
   }
 ]
