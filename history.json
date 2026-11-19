@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
-    "title": "Foreign Investors Pour Record $9.6 Billion Into Indian Stocks in November",
-    "titleZh": "11 月外國投資者向印度股市注入創紀錄的 96 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
-    "image": null,
-    "pushedAt": "2026-11-18T05:33:46.377Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-video",
-    "title": "Todo lo que debe saber sobre la salida a bolsa de Anthropic",
-    "titleZh": "Todo lo que debe saber sobre la salida a bolsa de Anthropic",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-video",
-    "image": null,
-    "pushedAt": "2026-11-17T13:41:29.252Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/russia-s-oil-exports-hit-their-highest-since-july-as-drones-hit-refineries",
     "title": "Russia's Oil Exports Hit Their Highest Since July as Drones Hit Refineries",
     "titleZh": "隨著無人機襲擊煉油廠，俄羅斯的石油出口量創下 7 月以來的最高紀錄",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-lawfirms-zvkt/19dc-lawfirms-zvkt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T11:05:06.248Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
+    "title": "Asia Bulletin newsletter: Xi, Trump, Putin and a theme park",
+    "titleZh": "《亞洲公報》時事通訊：習近平、川普、普丁與主題樂園",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
+    "image": null,
+    "pushedAt": "2026-11-19T11:05:34.227Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+    "title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
+    "titleZh": "「A.I. 是嗎？」破壞網路嗎？ 」以及本週我們擔心的其他事情",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19daily-digital-outage/19daily-aviation-safety-kpvh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T11:05:38.044Z"
   }
 ]
