@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240",
-    "title": "Democrats win Alaska Senate seat to complete midterms victory",
-    "titleZh": "民主黨贏得阿拉斯加參議院席位",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32e6fd6c-2484-4446-afd0-717f50fe7e2c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T16:31:26.788Z"
-  },
-  {
     "id": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a",
     "title": "China’s economic activity slows more than expected in October",
     "titleZh": "中國10月經濟活動放緩幅度超乎預期",
@@ -2013,7 +2004,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
     "image": null,
-    "pushedAt": "2026-11-19T21:13:42.130Z"
+    "pushedAt": "2026-11-19T23:35:59.425Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
@@ -7656,7 +7647,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
     "image": null,
-    "pushedAt": "2026-11-19T21:14:06.757Z"
+    "pushedAt": "2026-11-19T23:36:22.784Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T23:35:33.195Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/ai-cloud-ceo-hits-rock-bottom-in-race-to-survive-chip-crisis",
+    "title": "AI Cloud CEO Hits ‘Rock Bottom’ in Race to Survive Chip Crisis",
+    "titleZh": "AI Cloud CEO在晶片危機中陷入“谷底”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ai-cloud-ceo-hits-rock-bottom-in-race-to-survive-chip-crisis",
+    "image": null,
+    "pushedAt": "2026-11-19T23:36:48.858Z"
   }
 ]
