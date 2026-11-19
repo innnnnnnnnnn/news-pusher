@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
-    "title": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
-    "titleZh": "在加拿大，觀看 N.H.L.變得昂貴且麻煩",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
-    "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-canada-letter-wtlb/14int-canada-letter-wtlb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T14:03:16.182Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above",
     "title": "Anthropic Said to Guide IPO Price to Top of Range or Above",
     "titleZh": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
@@ -8484,7 +8475,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
     "image": null,
-    "pushedAt": "2026-11-19T08:55:25.157Z"
+    "pushedAt": "2026-11-19T11:14:14.580Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/german-growth-to-accelerate-in-fourth-quarter-bundesbank-says",
     "image": null,
     "pushedAt": "2026-11-19T11:13:46.741Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
+    "title": "Trump Greets Putin as ‘My Friend,’ and the Rise of GLP-1s for Children",
+    "titleZh": "川普將普丁視為“我的朋友”，以及兒童 GLP-1 的興起",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19theheadlines-PT-01-jmgb/19theheadlines-PT-01-jmgb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T11:14:44.171Z"
   }
 ]
