@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video",
-    "title": "2026 is Year Where the 'AI Boom Became Debt Finance,' Says Wigglesworth",
-    "titleZh": "Wigglesworth 表示，2026 年是「人工智慧繁榮成為債務融資」的一年",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video",
-    "image": null,
-    "pushedAt": "2026-11-17T18:38:58.412Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
-    "title": "Do You Need a Measles Booster?",
-    "titleZh": "您需要麻疹加強針嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
-    "image": "https://static01.nyt.com/images/2025/03/04/well/WELL-MEASLES-BOOSTER1/WELL-MEASLES-BOOSTER1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:21:22.773Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/arts/design/van-gogh-jewish-heirs-nazi-chestnut-trees-sothebys.html",
     "title": "Jewish Heirs and Consignors Settle Claim Over $180 Million van Gogh Ahead of Sale",
     "titleZh": "猶太繼承人和委託人在梵谷拍賣前就價值超過 1.8 億美元的索賠達成和解",
@@ -5235,7 +5217,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
     "image": null,
-    "pushedAt": "2026-11-19T11:36:02.838Z"
+    "pushedAt": "2026-11-19T14:06:01.393Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years",
     "image": null,
     "pushedAt": "2026-11-19T14:03:48.648Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+    "title": "Inside a Rohingya Camp After a Genocide Ruling",
+    "titleZh": "種族滅絕裁決後的羅辛亞營地內部",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+    "image": null,
+    "pushedAt": "2026-11-19T14:06:29.088Z"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
+    "title": "Here’s the latest.",
+    "titleZh": "這是最新的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
+    "image": null,
+    "pushedAt": "2026-11-19T14:06:30.978Z"
   }
 ]
