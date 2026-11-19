@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
-    "title": "Trump Has Praised Marcos’s Family Legacy. His Father Was a Dictator.",
-    "titleZh": "川普讚揚了馬可斯的家族遺產。他的父親是一位獨裁者。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-trump-marcos-kvfb/17trump-summits-trump-marcos-kvfb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T00:30:46.365Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-    "titleZh": "微軟在全球停電後急於恢復線上的內部情況",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-17T09:12:02.552Z"
-  },
-  {
     "id": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3",
     "title": "Mixed UK labour market in latest data",
     "titleZh": "最新數據顯示英國勞動市場好壞參半",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T05:05:29.232Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+    "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
+    "titleZh": "火車相撞事故後，西班牙質疑高鐵發展是否太快",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T05:06:00.970Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+    "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+    "titleZh": "內塔尼亞胡同夥承認在選舉日逮捕中發揮了作用",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T05:06:06.030Z"
   }
 ]
