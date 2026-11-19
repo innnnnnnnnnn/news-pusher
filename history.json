@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
-    "title": "US and allies sign accord to protect AI supply chains from China",
-    "titleZh": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T04:16:33.179Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
     "title": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
     "titleZh": "隨著加息壓力加大，金價穩定在 14 個月低點附近",
@@ -5811,7 +5802,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T16:56:46.229Z"
+    "pushedAt": "2026-11-19T19:11:59.004Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
@@ -5829,7 +5820,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-driving-callout-fblq/19biz-driving-callout-fblq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T16:57:11.045Z"
+    "pushedAt": "2026-11-19T19:12:23.520Z"
   },
   {
     "id": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340",
@@ -5837,8 +5828,8 @@
     "titleZh": "美國企業轉向機器人緩解勞動力短缺危機",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T16:57:36.979Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b848898-6fdd-48b9-96c5-fd5f2ab71ed2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-19T19:12:48.305Z"
   },
   {
     "id": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38",
@@ -7287,7 +7278,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/470d7273-7356-48d5-9709-d9d8169d1d94",
     "image": null,
-    "pushedAt": "2026-11-19T16:56:22.060Z"
+    "pushedAt": "2026-11-19T19:11:34.861Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/citi-sees-africa-bond-sales-topping-2026-record-video",
@@ -7305,7 +7296,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-s-already-weakened-job-market-starts-to-the-feel-impact-of-ai",
     "image": null,
-    "pushedAt": "2026-11-19T16:58:31.920Z"
+    "pushedAt": "2026-11-19T19:13:36.745Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022",
@@ -8637,7 +8628,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/banks-swap-battered-brazil-for-mexico-in-regional-equity-picks",
     "image": null,
-    "pushedAt": "2026-11-19T16:58:04.498Z"
+    "pushedAt": "2026-11-19T19:13:12.594Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-19T19:11:07.509Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
+    "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
+    "titleZh": "人為 IPO 支持私人估值：Schlossman",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
+    "image": null,
+    "pushedAt": "2026-11-19T19:14:03.987Z"
   }
 ]
