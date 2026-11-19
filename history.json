@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
-    "title": "Nvidia Argues to Wary Investors That It Can Thrive Without Huang",
-    "titleZh": "英偉達在黃後的首個財報中展現了穩健的前景",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
-    "image": null,
-    "pushedAt": "2026-11-18T16:46:51.817Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
-    "title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
-    "titleZh": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
-    "image": null,
-    "pushedAt": "2026-11-17T23:47:52.986Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-17/offering-anthropic-access-outside-us-wheeler-video",
-    "title": "Offering Anthropic Access Outside US: Wheeler",
-    "titleZh": "在美國境外提供人類訪問：惠勒",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-17/offering-anthropic-access-outside-us-wheeler-video",
-    "image": null,
-    "pushedAt": "2026-11-17T23:48:16.425Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-17/looking-to-bring-more-finance-onchain-chakar-video",
     "title": "Looking To Bring More Finance Onchain: Chakar",
     "titleZh": "希望在鏈上帶來更多融資：Chakar",
@@ -3282,7 +3255,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T14:41:15.152Z"
+    "pushedAt": "2026-11-19T16:59:44.804Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
@@ -6207,7 +6180,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T14:40:25.857Z"
+    "pushedAt": "2026-11-19T16:59:20.476Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
@@ -6216,16 +6189,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T14:42:05.695Z"
+    "pushedAt": "2026-11-19T17:00:34.395Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
-    "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
+    "title": "After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?",
     "titleZh": "火車相撞事故後，西班牙質疑高鐵發展是否太快",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T14:42:30.636Z"
+    "pushedAt": "2026-11-19T17:00:58.986Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
@@ -7665,7 +7638,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-s-already-weakened-job-market-starts-to-the-feel-impact-of-ai",
     "image": null,
-    "pushedAt": "2026-11-19T14:38:08.870Z"
+    "pushedAt": "2026-11-19T16:58:31.920Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022",
@@ -7674,7 +7647,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022",
     "image": null,
-    "pushedAt": "2026-11-19T14:38:34.713Z"
+    "pushedAt": "2026-11-19T16:58:55.945Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/nvidia-moves-ousted-ceo-jensen-huang-out-of-the-spotlight",
@@ -7710,7 +7683,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/briefing/grand-theft-auto-vi.html",
     "image": null,
-    "pushedAt": "2026-11-19T14:41:40.308Z"
+    "pushedAt": "2026-11-19T17:00:09.758Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-oil-demand-rebound-pivots-on-two-crucial-factors-stockpiling-and-exports",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/banks-swap-battered-brazil-for-mexico-in-regional-equity-picks",
     "image": null,
     "pushedAt": "2026-11-19T16:58:04.498Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
+    "title": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
+    "titleZh": "阿拉斯加參議院投票結束後，最後的邊境接下來會發生什麼事？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-count-gvbq/18pol-alaska-count-gvbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T17:01:25.698Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/podcasts/rats-real-estate-serial-new-york.html",
+    "title": "Death and Taxes. Rats and Real Estate.",
+    "titleZh": "死亡和稅收。老鼠和房地產。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/podcasts/rats-real-estate-serial-new-york.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/podcasts/19serial-metro-rats-photo-1/19serial-metro-rats-photo-1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T17:01:29.086Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/nyregion/data-centers-opposition-towns.html",
+    "title": "A Data Center Was Coming. The Town Had a Message: Stay Out.",
+    "titleZh": "數據中心即將到來。鎮上傳達了一則訊息：遠離。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/nyregion/data-centers-opposition-towns.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/met-data-centers--04-bztv/met-data-centers--04-bztv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-19T17:01:33.373Z"
   }
 ]
