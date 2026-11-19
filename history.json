@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
-    "title": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
-    "titleZh": "Grand Theft Auto VI 加速全球收購",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17cul-gta-blockbuster-jwvp/17cul-gta-blockbuster-jwvp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-17T16:10:46.151Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/17/science/a-new-bold-antarctic-rescue-bringing-shackletons-outpost-back-to-life.html",
-    "title": "A New, Bold Antarctic Rescue: Bringing Shackleton’s Outpost Back to Life",
-    "titleZh": "新的、大膽的南極救援：讓沙克爾頓的前哨站恢復生機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/science/a-new-bold-antarctic-rescue-bringing-shackletons-outpost-back-to-life.html",
-    "image": null,
-    "pushedAt": "2026-11-17T10:56:47.797Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/arts/design/trump-congress-smithsonian-kennedy-center.html",
     "title": "Trump’s Culture War, Amid Setbacks, Will Soon Face a Hostile Congress",
     "titleZh": "川普的文化戰爭遭遇挫折，很快就會面臨充滿敵意的國會",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
     "image": null,
     "pushedAt": "2026-11-19T07:04:27.806Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe",
+    "title": "EU delays methane emission rules on fossil fuel imports",
+    "titleZh": "歐盟延後化石燃料進口甲烷排放規定",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T07:04:57.534Z"
+  },
+  {
+    "id": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb",
+    "title": "Agnelli family doubles stake in French diagnostics company BioMérieux",
+    "titleZh": "阿涅利家族將法國診斷公司 BioMérieux 的股份增加一倍",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-19T07:05:02.927Z"
   }
 ]
