@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ea9051c2-cc56-46d5-b254-b13b484bc28a",
-    "title": "Exxon’s Guyana oil boom sparks a return to frontier drilling",
-    "titleZh": "埃克森美孚圭亞那石油繁榮引發邊境鑽探回歸",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ea9051c2-cc56-46d5-b254-b13b484bc28a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T05:05:44.839Z"
-  },
-  {
     "id": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac",
     "title": "Disney turns to job cuts in latest cost blitz",
     "titleZh": "迪士尼在最新的成本閃電戰中轉向裁員",
@@ -1068,7 +1059,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/pw3n037mu?ref=rss",
     "image": "https://cdn.flipso.com/p/pw3n037mu_square.jpg",
-    "pushedAt": "2026-11-19T07:03:23.306Z"
+    "pushedAt": "2026-11-19T09:31:08.330Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
@@ -8637,7 +8628,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/arts/television/late-night-trump-xi-putin.html",
     "image": null,
-    "pushedAt": "2026-11-19T07:03:50.408Z"
+    "pushedAt": "2026-11-19T09:31:35.573Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/zkh-s-wang-on-earnings-video",
@@ -8646,25 +8637,25 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/zkh-s-wang-on-earnings-video",
     "image": null,
-    "pushedAt": "2026-11-19T07:03:54.548Z"
+    "pushedAt": "2026-11-19T09:32:01.810Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/taiwan-tightens-short-selling-curbs-to-help-support-stock-market",
-    "title": "Taiwan Tightens Short Selling Curbs to Help Support Stock Market",
+    "title": "Taiwan Tightens Short Selling Curbs to Support Stock Market",
     "titleZh": "台灣收緊賣空限制以幫助支撐股市",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/taiwan-tightens-short-selling-curbs-to-help-support-stock-market",
     "image": null,
-    "pushedAt": "2026-11-19T07:03:58.660Z"
+    "pushedAt": "2026-11-19T09:32:27.812Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
-    "title": "Trump Argues Against Global Regulation of AI (Video)",
+    "title": "Trump Argues Against Global Regulation of AI",
     "titleZh": "川普反對人工智慧的全球監管（影片）",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
     "image": null,
-    "pushedAt": "2026-11-19T07:04:27.806Z"
+    "pushedAt": "2026-11-19T09:32:53.686Z"
   },
   {
     "id": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe",
@@ -8673,7 +8664,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T07:04:57.534Z"
+    "pushedAt": "2026-11-19T09:33:19.148Z"
   },
   {
     "id": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb",
@@ -8682,7 +8673,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/51ff14c8-5482-4be3-9579-bd96d29624cb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T07:05:02.927Z"
+    "pushedAt": "2026-11-19T09:33:45.211Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-19/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5edb7461-40b5-456d-9fda-928227b7028e?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-19T09:30:40.353Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-18/ghana-surprises-with-rate-cut-to-11-to-align-policy-with-market",
+    "title": "Ghana Unexpectedly Resets Key Rate to 11% to Align With Market",
+    "titleZh": "加納意外地將關鍵利率重置為 11% 以與市場保持一致",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/ghana-surprises-with-rate-cut-to-11-to-align-policy-with-market",
+    "image": null,
+    "pushedAt": "2026-11-19T09:34:10.980Z"
   }
 ]
