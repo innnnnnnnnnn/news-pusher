@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-    "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-    "titleZh": "尼泊爾在迫切需要的情況下參加了 COP31。這是對世界的考驗。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:24:58.696Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/bank-of-canada-says-april-scenario-analysis-telegraphed-hike",
     "title": "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
     "titleZh": "加拿大央行稱四月情境分析電報升息",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/bank-stocks-set-for-worst-week-since-april-2025-as-rout-deepens",
     "image": null,
     "pushedAt": "2026-11-20T17:10:17.879Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/france-picks-boone-to-run-markets-at-ecb-in-pivotal-crisis-role",
+    "title": "France Picks Boone to Run Markets at ECB in Pivotal Crisis Role",
+    "titleZh": "法國任命布恩在歐洲央行管理市場，在危機中發揮關鍵作用",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/france-picks-boone-to-run-markets-at-ecb-in-pivotal-crisis-role",
+    "image": null,
+    "pushedAt": "2026-11-20T17:10:46.670Z"
   }
 ]
