@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
-    "title": "Anthropic raises $81bn in record IPO",
-    "titleZh": "Anthropic 將重磅 IPO 定價為每股 83 美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T17:30:34.209Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html",
     "title": "Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’",
     "titleZh": "帕爾默·拉基警告美國面臨人工智慧威脅“不匹配”",
@@ -8124,7 +8115,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/afa3f80c-1893-4b94-ac3e-d5a702882dcf",
     "image": null,
-    "pushedAt": "2026-11-20T20:27:05.855Z"
+    "pushedAt": "2026-11-20T22:39:58.682Z"
   },
   {
     "id": "https://www.ft.com/content/eb859639-46ce-4399-adb0-dd0b442ca151",
@@ -8133,7 +8124,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/eb859639-46ce-4399-adb0-dd0b442ca151",
     "image": null,
-    "pushedAt": "2026-11-20T20:27:29.398Z"
+    "pushedAt": "2026-11-20T22:40:21.970Z"
   },
   {
     "id": "https://www.ft.com/content/fb459525-6978-40f3-a079-4e59047858bd",
@@ -8142,7 +8133,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb459525-6978-40f3-a079-4e59047858bd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T20:27:53.222Z"
+    "pushedAt": "2026-11-20T22:40:46.104Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
     "image": null,
     "pushedAt": "2026-11-20T22:38:21.369Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
+    "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
+    "titleZh": "Scribe 執行長 Jennifer Smith 談人工智慧在工作場所的使用",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
+    "image": null,
+    "pushedAt": "2026-11-20T22:41:12.824Z"
   }
 ]
