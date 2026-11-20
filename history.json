@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208",
-    "title": "US tech outages blamed on rush to fix bugs found by AI",
-    "titleZh": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T08:59:12.777Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/edward-yardeni-on-ai-trade-normal-for-longer-rates-video",
     "title": "Edward Yardeni on AI Trade, ‘Normal for Longer’ Rates",
     "titleZh": "愛德華·亞德尼 (Edward Yardeni) 談人工智慧貿易，「長期正常」利率",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/jpmorgan-s-dudley-sees-opportunities-beyond-big-tech-video",
     "image": null,
     "pushedAt": "2026-11-20T11:28:40.007Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-20/anthropic-s-record-ipo-isn-t-enough-to-save-the-ai-trade",
+    "title": "Anthropic’s Record IPO Isn’t Enough to Save the AI Trade",
+    "titleZh": "Anthropic 創紀錄的 IPO 不足以拯救人工智慧產業",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/anthropic-s-record-ipo-isn-t-enough-to-save-the-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-20T11:29:08.336Z"
   }
 ]
