@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-    "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
-    "titleZh": "儘管美國鎮壓，美國公雞仍在菲律賓打架",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-roosters-gztb/00xp-roosters-gztb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T13:54:10.747Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/alaska-s-oil-renaissance-dawns-after-decades-of-decline",
     "title": "Alaska’s Oil Renaissance Dawns After Decades of Decline",
     "titleZh": "阿拉斯加石油復興在數十年衰退後迎來曙光",
@@ -4128,7 +4119,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Iran-Attacks-phjw/19Biz-Iran-Attacks-phjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T10:14:52.472Z"
+    "pushedAt": "2026-11-20T12:31:30.335Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
@@ -4173,7 +4164,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
     "image": null,
-    "pushedAt": "2026-11-20T10:15:16.964Z"
+    "pushedAt": "2026-11-20T12:31:54.483Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
@@ -5514,7 +5505,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T10:13:14.774Z"
+    "pushedAt": "2026-11-20T12:30:41.399Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
@@ -8209,12 +8200,12 @@
   },
   {
     "id": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
-    "title": "Burnham to agree Brexit ‘reset’ deal in push for closer EU ties",
+    "title": "UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
     "titleZh": "伯納姆將在布魯塞爾簽署歐盟重置協議",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d08201b-1bef-448d-9d46-fe07faa8fe5b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T10:14:03.135Z"
+    "pushedAt": "2026-11-20T12:31:06.225Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/business/china-economy-pensions.html",
     "image": "https://static01.nyt.com/images/2026/11/18/business/18biz-newworldmoney/18biz-newworldmoney-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-20T12:29:48.417Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/lagarde-warns-europe-is-hesitant-responding-to-crises-video",
+    "title": "Lagarde Warns Europe is Too Hesitant Responding to Crises",
+    "titleZh": "拉加德警告歐洲應對危機過於猶豫",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/lagarde-warns-europe-is-hesitant-responding-to-crises-video",
+    "image": null,
+    "pushedAt": "2026-11-20T12:32:21.800Z"
   }
 ]
