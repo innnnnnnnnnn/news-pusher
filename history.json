@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-    "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
-    "titleZh": "韓國將調查韓國流行音樂產業如何對待未成年表演者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T13:36:52.822Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html",
-    "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska’s Senate Race",
-    "titleZh": "科技中斷擾亂美國，民主黨贏得阿拉斯加參議院競選",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18theheadlines-rubio-ztpl/18theheadlines-rubio-ztpl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T16:17:32.332Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
     "title": "G.T.A. 6 Review: This Release Will Steal Your Heart",
     "titleZh": "俠盜獵車手 VI 評論：它會偷走你的心",
@@ -3633,7 +3615,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-20T06:32:58.998Z"
+    "pushedAt": "2026-11-20T08:53:27.278Z"
   },
   {
     "id": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a",
@@ -5730,7 +5712,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T06:33:24.337Z"
+    "pushedAt": "2026-11-20T08:53:52.209Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
     "image": null,
     "pushedAt": "2026-11-20T08:42:08.209Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
+    "title": "Anthropic Pop Is Followed By a Fizzle: Market Analysis",
+    "titleZh": "人為流行隨之而來的是失敗：市場分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
+    "image": null,
+    "pushedAt": "2026-11-20T08:54:19.570Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/poland-probes-blast-near-ukraine-border-after-airspace-violation",
+    "title": "Poland Probes Blast Near Ukraine Border After Airspace Violation",
+    "titleZh": "波蘭探測器在侵犯領空後在烏克蘭邊境附近爆炸",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/poland-probes-blast-near-ukraine-border-after-airspace-violation",
+    "image": null,
+    "pushedAt": "2026-11-20T08:54:23.763Z"
   }
 ]
