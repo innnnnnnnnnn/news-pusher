@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
-    "title": "AI Is Making China’s Jobs Slump Even Worse",
-    "titleZh": "人工智慧正使中國的就業下滑更加嚴重",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
-    "image": null,
-    "pushedAt": "2026-11-19T19:40:12.928Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
     "title": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
     "titleZh": "川普在 2025 年「失踪」了他們。我找到了他們，他們被鎖起來，而且已經挨餓了。",
@@ -2544,7 +2535,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "image": null,
-    "pushedAt": "2026-11-20T20:10:03.324Z"
+    "pushedAt": "2026-11-20T22:29:04.797Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video",
@@ -3120,7 +3111,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
     "image": null,
-    "pushedAt": "2026-11-20T20:10:26.753Z"
+    "pushedAt": "2026-11-20T22:29:28.111Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
@@ -3129,7 +3120,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
     "image": null,
-    "pushedAt": "2026-11-20T20:10:49.913Z"
+    "pushedAt": "2026-11-20T22:29:51.646Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
@@ -3138,7 +3129,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:13:57.377Z"
+    "pushedAt": "2026-11-20T22:31:02.530Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
@@ -6468,7 +6459,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
     "image": null,
-    "pushedAt": "2026-11-20T20:09:39.985Z"
+    "pushedAt": "2026-11-20T22:28:41.557Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
@@ -6495,7 +6486,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
     "image": null,
-    "pushedAt": "2026-11-20T20:11:13.317Z"
+    "pushedAt": "2026-11-20T22:30:14.995Z"
   },
   {
     "id": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5",
@@ -8088,7 +8079,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
     "image": null,
-    "pushedAt": "2026-11-20T20:11:37.460Z"
+    "pushedAt": "2026-11-20T22:30:38.580Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
     "image": null,
     "pushedAt": "2026-11-20T22:28:15.384Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
+    "title": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
+    "titleZh": "新罕布夏州高級選舉官員重申打算保留全國首個初選",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T22:31:30.449Z"
   }
 ]
