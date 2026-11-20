@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
-    "title": "Leaders of China and Japan Meet Amid Political Feud",
-    "titleZh": "中日領導人在政治恩怨中會面",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T03:30:33.744Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-activism-could-bring-huang-back-as-ceo-ives-says-video",
     "title": "Nvidia Activism Could Bring Huang Back as CEO, Ives Says",
     "titleZh": "艾夫斯表示，英偉達的激進主義可能會讓黃仁勳重新擔任首席執行官",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
     "image": null,
     "pushedAt": "2026-11-20T11:50:28.335Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/briefing/the-most-important-days.html",
+    "title": "The Most Important Days",
+    "titleZh": "最重要的日子",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/briefing/the-most-important-days.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20themorning-nl-10days-01/20themorning-nl-10days-01-mediumSquareAt3X-v3.jpg",
+    "pushedAt": "2026-11-20T11:50:59.935Z"
   }
 ]
