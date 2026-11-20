@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/recent-tech-outages-disruptions-not-related-us-says-video",
-    "title": "Recent Tech Outages, Disruptions Not Related, US Says",
-    "titleZh": "美國稱最近的技術中斷和中斷無關",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/recent-tech-outages-disruptions-not-related-us-says-video",
-    "image": null,
-    "pushedAt": "2026-11-18T20:44:35.975Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
     "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
     "titleZh": "紐約市、洛杉磯市和芝加哥學區正在考慮與人工智慧搜尋分道揚鑣",
@@ -4038,7 +4029,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T15:27:59.318Z"
+    "pushedAt": "2026-11-20T17:52:46.800Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
     "image": null,
     "pushedAt": "2026-11-20T17:52:20.512Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/europe-retail-traders-bid-seven-times-anthropic-s-ipo-allocation",
+    "title": "Europe Retail Traders Bid Seven Times Anthropic’s IPO Allocation",
+    "titleZh": "歐洲零售交易商出價是 Anthropic IPO 分配的七倍",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/europe-retail-traders-bid-seven-times-anthropic-s-ipo-allocation",
+    "image": null,
+    "pushedAt": "2026-11-20T17:53:13.718Z"
   }
 ]
