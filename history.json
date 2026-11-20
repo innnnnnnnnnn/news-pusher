@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/barclays-deutsche-bank-see-ai-boom-extending-dollar-strength",
-    "title": "Barclays, Deutsche Bank See AI Boom Extending Dollar Strength",
-    "titleZh": "巴克萊銀行和德意志銀行認為人工智慧的繁榮將擴大美元的強勢",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/barclays-deutsche-bank-see-ai-boom-extending-dollar-strength",
-    "image": null,
-    "pushedAt": "2026-11-18T23:55:13.161Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/canadian-stocks-sink-to-june-low-as-metals-oil-losses-mount",
-    "title": "Canadian Stocks Sink to June Low as Metals, Oil Losses Mount",
-    "titleZh": "由於金屬和石油損失增加，加拿大股市跌至六月低點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/canadian-stocks-sink-to-june-low-as-metals-oil-losses-mount",
-    "image": null,
-    "pushedAt": "2026-11-18T21:21:47.707Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/credit-selloff-could-be-a-stock-picker-s-market-video",
     "title": "Credit Selloff Lures Bargain Hunters to ‘Stock Picker’s Market’",
     "titleZh": "信貸拋售吸引逢低買入者進入“選股市場”",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
     "image": null,
     "pushedAt": "2026-11-20T21:25:50.465Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/trumps-asia-fact-check.html",
+    "title": "Fact-Checking Trump’s News Conference After His Asia Trip",
+    "titleZh": "川普亞洲之行後舉行的記者會事實查核",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/trumps-asia-fact-check.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20DC-TRUMP-FACTCHECK-fbhc/20DC-TRUMP-FACTCHECK-fbhc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T21:26:18.881Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/vix-hits-highest-level-since-2025-tariff-turmoil-as-volatility-warning-flash",
+    "title": "VIX Hits Highest Level Since 2025 Tariff Turmoil as Volatility Warning Flash",
+    "titleZh": "VIX 觸及 2025 年關稅動盪以來的最高水平，發出波動警告",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/vix-hits-highest-level-since-2025-tariff-turmoil-as-volatility-warning-flash",
+    "image": null,
+    "pushedAt": "2026-11-20T21:26:23.155Z"
   }
 ]
