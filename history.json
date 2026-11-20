@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
-    "title": "Anthropic IPO Puts Wall Street’s Speculation Factory on Display",
-    "titleZh": "人為 IPO 展示華爾街的投機工廠",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
-    "image": null,
-    "pushedAt": "2026-11-18T15:08:57.183Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/rand-leads-emerging-market-losses-as-gold-drops-below-3-800",
-    "title": "South African Rand Hits Eight-Month Low on Gold, Fed Hike Bets",
-    "titleZh": "金價跌破 3,800 美元，蘭特領跌新興市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/rand-leads-emerging-market-losses-as-gold-drops-below-3-800",
-    "image": null,
-    "pushedAt": "2026-11-18T15:09:23.679Z"
-  },
-  {
     "id": "https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8",
     "title": "Ukraine’s ‘flying modems’ helped take down Putin’s bridge",
     "titleZh": "烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
@@ -3237,7 +3219,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-driving-callout-fblq/19biz-driving-callout-fblq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T08:48:23.960Z"
+    "pushedAt": "2026-11-20T11:03:03.237Z"
   },
   {
     "id": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340",
@@ -3246,7 +3228,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T08:48:48.727Z"
+    "pushedAt": "2026-11-20T11:03:27.008Z"
   },
   {
     "id": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38",
@@ -7287,7 +7269,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T08:49:14.099Z"
+    "pushedAt": "2026-11-20T11:03:50.942Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
@@ -7818,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T08:47:34.800Z"
+    "pushedAt": "2026-11-20T11:02:39.008Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ai-spurs-funding-needs-as-top-japan-power-producer-weighs-ipo",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/kcmjcx47c?ref=rss",
     "image": "https://cdn.flipso.com/p/kcmjcx47c_square.jpg",
     "pushedAt": "2026-11-20T10:56:53.613Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ced898eb-d752-414e-aeba-c85ce9717677",
+    "title": "General strike hits Italy as anger at Meloni grows",
+    "titleZh": "隨著對梅洛尼的憤怒加劇，義大利發生總罷工",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ced898eb-d752-414e-aeba-c85ce9717677?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-20T11:04:18.932Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3556ef23-2df0-4546-89a3-be0323cd32e4",
+    "title": "Babe, a new gilet just dropped",
+    "titleZh": "寶貝，一件新馬甲剛掉下來",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3556ef23-2df0-4546-89a3-be0323cd32e4",
+    "image": null,
+    "pushedAt": "2026-11-20T11:04:22.921Z"
   }
 ]
