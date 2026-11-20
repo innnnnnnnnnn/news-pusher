@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/was-jensen-huang-s-exit-premature-video",
-    "title": "Was Jensen Huang’s Exit Premature?",
-    "titleZh": "黃仁勳的退出是否為時過早？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/was-jensen-huang-s-exit-premature-video",
-    "image": null,
-    "pushedAt": "2026-11-18T16:11:57.908Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/viral-patel-on-ai-s-investment-boom-video",
     "title": "Viral Patel on AI’s Investment Boom",
     "titleZh": "Viral Patel 談人工智慧投資熱潮",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
     "image": null,
     "pushedAt": "2026-11-20T15:45:11.393Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+    "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+    "titleZh": "伊拉克軍隊進入伊朗支持的強大民兵據點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T15:50:28.311Z"
   }
 ]
