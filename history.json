@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e",
-    "title": "The good and the bad of climate policy",
-    "titleZh": "氣候政策的好與壞",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T22:36:24.460Z"
-  },
-  {
     "id": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
     "title": "Getting sucked back into the Brexit debate will not help growth",
     "titleZh": "捲入英國脫歐辯論無助於經濟成長",
@@ -3174,7 +3165,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
-    "pushedAt": "2026-11-19T22:00:53.915Z"
+    "pushedAt": "2026-11-20T00:20:32.700Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
@@ -3183,7 +3174,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
     "image": null,
-    "pushedAt": "2026-11-19T22:01:42.857Z"
+    "pushedAt": "2026-11-20T00:20:57.138Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/colombia-touts-43-billion-investment-haul-amid-fiscal-strain",
@@ -4299,7 +4290,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T22:00:29.540Z"
+    "pushedAt": "2026-11-20T00:20:07.995Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
@@ -5154,7 +5145,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-19T22:02:07.568Z"
+    "pushedAt": "2026-11-20T00:21:22.003Z"
   },
   {
     "id": "https://www.ft.com/content/2af3765e-d689-4418-bdd2-5b34042df396",
@@ -8601,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar",
     "image": null,
-    "pushedAt": "2026-11-19T22:03:56.551Z"
+    "pushedAt": "2026-11-20T00:21:46.659Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
     "image": null,
     "pushedAt": "2026-11-20T00:07:56.738Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "titleZh": "由於鷹派聯準會和人工智慧拋售，金價將迎來三月以來最糟糕的一周",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "image": null,
+    "pushedAt": "2026-11-20T00:22:12.431Z"
   }
 ]
