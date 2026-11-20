@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/pony-ai-s-sales-beat-estimates-as-robotaxi-business-expands",
-    "title": "Pony AI’s Sales Beat Estimates as Robotaxi Business Expands",
-    "titleZh": "隨著Robotaxi業務的擴張，Pony AI的銷售額超出預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/pony-ai-s-sales-beat-estimates-as-robotaxi-business-expands",
-    "image": null,
-    "pushedAt": "2026-11-18T12:15:41.135Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
     "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
     "titleZh": "川普在馬尼拉短暫會見了一位老朋友：伊梅爾達·馬科斯",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-posts-smaller-than-forecast-budget-deficit-for-october",
     "image": null,
     "pushedAt": "2026-11-20T07:16:55.618Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/the-china-show-11-20-2026-video",
+    "title": "Asia Stocks Drop in Wake of Anthropic's Record Debut",
+    "titleZh": "Anthropic 創紀錄的首次公開募股後，亞洲股市下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-china-show-11-20-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-20T07:22:29.611Z"
   }
 ]
