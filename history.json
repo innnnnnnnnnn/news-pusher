@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
-    "title": "Japan Attempts to Revive U.S. Steel",
-    "titleZh": "日本試圖重振美國鋼鐵業",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Japan-Steel_Video-still-cvbq/Biz-Japan-Steel_Video-still-cvbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T22:47:59.754Z"
-  },
-  {
     "id": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e",
     "title": "The good and the bad of climate policy",
     "titleZh": "氣候政策的好與壞",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-20T00:00:31.818Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
+    "title": "Nintendo Gains as ‘Roaring Kitty’ Posts Mario Character on X",
+    "titleZh": "任天堂因《Roaring Kitty》在 X 上發布馬裡奧角色而獲利",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
+    "image": null,
+    "pushedAt": "2026-11-20T00:07:56.738Z"
   }
 ]
