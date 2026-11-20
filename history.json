@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
-    "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
-    "titleZh": "哥倫比亞拒絕與美國聯合打擊販毒集團",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T17:21:26.995Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/ai-forces-firms-to-fix-flaws-faster-worsening-digital-outages",
-    "title": "AI Forces Firms to Fix Flaws Faster, Worsening Digital Outages",
-    "titleZh": "人工智慧迫使公司更快修復缺陷，加劇數位中斷",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/ai-forces-firms-to-fix-flaws-faster-worsening-digital-outages",
-    "image": null,
-    "pushedAt": "2026-11-18T20:28:54.892Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-trims-costs-on-2-billion-debt-deal",
     "title": "Thoma Bravo’s Proofpoint Trims Costs on $2 Billion Debt Deal",
     "titleZh": "Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易的成本",
@@ -735,7 +717,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T17:38:00.847Z"
+    "pushedAt": "2026-11-20T19:57:34.982Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
@@ -3399,7 +3381,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
     "image": null,
-    "pushedAt": "2026-11-20T17:37:13.816Z"
+    "pushedAt": "2026-11-20T19:56:48.933Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
@@ -3408,7 +3390,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-20T17:37:37.301Z"
+    "pushedAt": "2026-11-20T19:57:12.006Z"
   },
   {
     "id": "https://flipso.com/p/gytoio04l",
@@ -5532,7 +5514,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/1e16i9wl8?ref=rss",
     "image": "https://cdn.flipso.com/p/1e16i9wl8_square.jpg",
-    "pushedAt": "2026-11-20T17:38:24.320Z"
+    "pushedAt": "2026-11-20T19:57:58.237Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/weather/tropical-storm-kyle-florida-rain-thanksgiving.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-flooding-fmkq/19xp-flooding-fmkq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-20T19:56:22.613Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/canada-stocks-eye-longest-losing-streak-since-2023-on-tech-rout",
+    "title": "Canada Stocks Eye Longest Losing Streak Since 2023 on Tech Rout",
+    "titleZh": "科技股潰敗，加拿大股市將出現自 2023 年以來最長的連續下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/canada-stocks-eye-longest-losing-streak-since-2023-on-tech-rout",
+    "image": null,
+    "pushedAt": "2026-11-20T19:58:23.517Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/omers-private-capital-chief-exits-to-lead-pension-owned-teranet",
+    "title": "Omers Private Capital Chief Exits to Lead Pension-Owned Teranet",
+    "titleZh": "奧默斯私人資本執行長退出，領導退休金擁有的 Teranet",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/omers-private-capital-chief-exits-to-lead-pension-owned-teranet",
+    "image": null,
+    "pushedAt": "2026-11-20T19:58:28.548Z"
   }
 ]
