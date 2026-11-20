@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89",
-    "title": "UK short-term borrowing costs hit three-year high",
-    "titleZh": "英國短期借貸成本創三年新高",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T12:10:33.291Z"
-  },
-  {
     "id": "https://www.ft.com/content/5789cfd1-1041-454f-b450-ae2015d7c6ff",
     "title": "A Russian oligarch and the suspect money that flowed through Deutsche Bank",
     "titleZh": "俄羅斯寡頭、布里斯托地址以及流經德意志銀行的可疑資金",
@@ -3786,7 +3777,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "image": null,
-    "pushedAt": "2026-11-20T11:20:51.844Z"
+    "pushedAt": "2026-11-20T13:32:53.773Z"
   },
   {
     "id": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8",
@@ -7341,7 +7332,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target",
     "image": null,
-    "pushedAt": "2026-11-20T11:20:03.543Z"
+    "pushedAt": "2026-11-20T13:32:29.474Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-20/rising-bond-yields-may-pose-a-challenge-to-nifty-s-sharp-rebound",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/mmg-faces-beefed-up-eu-evidence-citing-concerns-over-anglo-deal",
     "image": null,
     "pushedAt": "2026-11-20T13:12:30.174Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
+    "title": "US Stock Futures Dip as Anthropic Premiere Disappoints Investors",
+    "titleZh": "由於《人類》首映令投資人失望，美國股指期貨下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
+    "image": null,
+    "pushedAt": "2026-11-20T13:33:20.736Z"
   }
 ]
