@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-    "title": "How Mary Peltola Triumphed in Alaska’s Senate Race",
-    "titleZh": "瑪麗·佩爾托拉如何在阿拉斯加參議員競選中獲勝",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-analysis-HFO-hjwm/18pol-alaska-analysis-HFO-hjwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T23:30:05.059Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-is-more-than-one-person-coreweave-says-video",
     "title": "Nvidia Is More Than One Person, CoreWeave Says",
     "titleZh": "CoreWeave 表示，Nvidia 不僅僅是一個人（影片）",
@@ -2571,7 +2562,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T09:14:06.004Z"
+    "pushedAt": "2026-11-20T11:32:04.846Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
@@ -5406,7 +5397,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T09:13:41.046Z"
+    "pushedAt": "2026-11-20T11:31:40.117Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
@@ -8596,12 +8587,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/lagarde-tells-europe-to-head-off-threats-before-they-materialize",
-    "title": "Lagarde Tells Europe to Head Off Threats Before They Materialize",
+    "title": "Lagarde Tells Europe to Tackle Risks Before They Materialize",
     "titleZh": "拉加德告訴歐洲在威脅成為現實之前要阻止",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/lagarde-tells-europe-to-head-off-threats-before-they-materialize",
     "image": null,
-    "pushedAt": "2026-11-20T09:14:32.435Z"
+    "pushedAt": "2026-11-20T11:32:29.961Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/france-needs-at-least-6-billion-more-2027-savings-amiel-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/h-1b-visa-delays-and-trump-rules-force-tech-workers-to-leave-us",
     "image": null,
     "pushedAt": "2026-11-20T11:31:13.308Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/worldline-sinks-on-financial-times-report-on-cash-advances",
+    "title": "Worldline Sinks on Financial Times Report on Cash Advances",
+    "titleZh": "Worldline 因《金融時報》現金墊款報告而陷入困境",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/worldline-sinks-on-financial-times-report-on-cash-advances",
+    "image": null,
+    "pushedAt": "2026-11-20T11:32:55.614Z"
   }
 ]
