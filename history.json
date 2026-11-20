@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
-    "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
-    "titleZh": "蘋果在視訊播客熱潮中姍姍來遲。現在它正在努力追趕。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-18T09:48:17.903Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/pony-ai-s-sales-beat-estimates-as-robotaxi-business-expands",
     "title": "Pony AI’s Sales Beat Estimates as Robotaxi Business Expands",
     "titleZh": "隨著Robotaxi業務的擴張，Pony AI的銷售額超出預期",
@@ -8016,7 +8007,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
     "image": null,
-    "pushedAt": "2026-11-20T04:46:37.959Z"
+    "pushedAt": "2026-11-20T07:16:27.821Z"
   },
   {
     "id": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e",
@@ -8663,8 +8654,8 @@
     "titleZh": "重新加入歐盟對英國經濟的提振作用是瑞士式協議的兩倍",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T05:02:22.777Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe27c06f9-c13b-492c-8152-982074cf667a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T07:15:12.741Z"
   },
   {
     "id": "https://www.ft.com/content/9b60a6d4-7dab-44f5-8848-d01fd3f1bb2d",
@@ -8673,7 +8664,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9b60a6d4-7dab-44f5-8848-d01fd3f1bb2d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T05:02:27.158Z"
+    "pushedAt": "2026-11-20T07:15:37.726Z"
   },
   {
     "id": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3",
@@ -8681,8 +8672,8 @@
     "titleZh": "退休金如何吞噬國家",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T05:02:33.689Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0fd8bc9-9aeb-4a6e-8f51-5b8a09582caa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T07:16:02.937Z"
   },
   {
     "id": "https://www.ft.com/content/bc88b8d1-8531-42e8-b2d9-5072578e825e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-retail-sales-rebound-as-brits-stock-up-on-emergency-supplies",
     "image": null,
     "pushedAt": "2026-11-20T07:14:44.214Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/uk-posts-smaller-than-forecast-budget-deficit-for-october",
+    "title": "UK Posts Smaller-Than-Forecast Budget Deficit for October",
+    "titleZh": "英國公佈 10 月預算赤字低於預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-posts-smaller-than-forecast-budget-deficit-for-october",
+    "image": null,
+    "pushedAt": "2026-11-20T07:16:55.618Z"
   }
 ]
