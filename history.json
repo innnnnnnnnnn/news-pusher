@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
-    "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
-    "titleZh": "普丁抵達亞洲展示武力：核轟炸機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
-    "image": null,
-    "pushedAt": "2026-11-19T18:26:05.457Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense",
     "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense",
     "titleZh": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
     "image": null,
     "pushedAt": "2026-11-20T08:33:04.113Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "title": "Nvidia’s roaring results can’t hide its troubles",
+    "titleZh": "英偉達的驕人業績並不能掩飾其困境",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "image": null,
+    "pushedAt": "2026-11-20T08:33:32.281Z"
   }
 ]
