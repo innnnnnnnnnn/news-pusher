@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-    "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
-    "titleZh": "麻薩諸塞州的一個小鎮抗議亞馬遜的無人機送貨",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T04:58:00.822Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/lombard-odier-almost-all-in-on-us-stocks-especially-tech",
     "title": "Lombard Odier ‘Almost All In’ on US Stocks, Especially Tech",
     "titleZh": "Lombard Odier「幾乎全押」美國股市，尤其是科技股",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers",
     "image": null,
     "pushedAt": "2026-11-20T12:36:26.593Z"
+  },
+  {
+    "id": "https://flipso.com/p/ma259pu0k",
+    "title": "The Making of Oxygene",
+    "titleZh": "氧氣的製造",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/ma259pu0k?ref=rss",
+    "image": "https://cdn.flipso.com/p/ma259pu0k_square.jpg",
+    "pushedAt": "2026-11-20T12:36:56.918Z"
   }
 ]
