@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-12/why-gta-6-took-13-years-and-1-billion-to-make",
-    "title": "Why GTA VI Took 13 Years and $1 Billion to Make",
-    "titleZh": "為什麼《GTA VI》需要 13 年和 10 億美元製作",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/why-gta-6-took-13-years-and-1-billion-to-make",
-    "image": null,
-    "pushedAt": "2026-11-18T17:38:26.309Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/nyc-comptroller-says-pensions-are-ready-to-fight-for-ai-safety",
-    "title": "NYC Comptroller Says Pensions Are Ready to Fight for AI Safety",
-    "titleZh": "紐約市審計長稱退休金已準備好為人工智慧安全而戰",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/nyc-comptroller-says-pensions-are-ready-to-fight-for-ai-safety",
-    "image": null,
-    "pushedAt": "2026-11-18T17:40:31.319Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-    "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
-    "titleZh": "雅爾塔的陰影籠罩在川普中國峰會上",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-yalta/18xp-yalta-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T07:53:37.127Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/turkey-slaps-main-erdogan-rival-imamoglu-with-political-ban",
     "title": "Turkey Slaps Main Erdogan Rival Imamoglu With Political Ban",
     "titleZh": "土耳其對艾爾段的主要競爭對手伊瑪莫格魯實施政治禁令",
@@ -6090,7 +6063,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/the-close-ties-between-nvidia-and-anthropic",
     "image": null,
-    "pushedAt": "2026-11-20T12:04:08.949Z"
+    "pushedAt": "2026-11-20T14:21:32.467Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
@@ -6990,7 +6963,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T12:05:01.422Z"
+    "pushedAt": "2026-11-20T14:22:20.691Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
@@ -8691,7 +8664,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/stock-rout-s-spread-beyond-tech-carries-warning-from-dotcom-era",
     "image": null,
-    "pushedAt": "2026-11-20T12:04:34.045Z"
+    "pushedAt": "2026-11-20T14:21:56.463Z"
   },
   {
     "id": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6101597a-99bc-4007-916d-823a89155827.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-20T14:21:05.250Z"
+  },
+  {
+    "id": "https://www.ft.com/content/71d49bc4-76df-4f0b-bb49-5db49b77aceb",
+    "title": "France’s de Villepin launches presidential bid in crowded race",
+    "titleZh": "法國德維爾潘在擁擠的競選中發起總統競選",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/71d49bc4-76df-4f0b-bb49-5db49b77aceb?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-20T14:22:47.898Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742",
+    "title": "Maga dealmaking threatens US-brokered peace in the Balkans",
+    "titleZh": "馬加交易威脅美國斡旋的巴爾幹和平",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-20T14:22:51.390Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028",
+    "title": "Is Trump stuck with Iran forever?",
+    "titleZh": "川普會永遠與伊朗糾纏不休嗎？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-20T14:22:54.338Z"
   }
 ]
