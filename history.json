@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-opening-welcome-remarks-video",
-    "title": "Bloomberg New Economy Forum Opening Welcome Remarks",
-    "titleZh": "彭博新經濟論壇開幕歡迎辭",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-opening-welcome-remarks-video",
-    "image": null,
-    "pushedAt": "2026-11-19T00:35:17.131Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-positive-for-ipo-market-fraser-says-video",
-    "title": "Anthropic Is Positive for IPO Market, Fraser Says",
-    "titleZh": "弗雷澤表示，Anthropic 對 IPO 市場有利",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-positive-for-ipo-market-fraser-says-video",
-    "image": null,
-    "pushedAt": "2026-11-19T00:37:47.936Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/farm-group-says-ex-ceo-misused-funds-for-vacation-home-and-plane",
     "title": "Farm Group Says Ex-CEO Misused Funds for Vacation Home and Plane",
     "titleZh": "Farm Group 稱前執行長濫用度假屋和飛機資金",
@@ -3048,7 +3030,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19anthropic-ipo-trading-begins-zhck/19anthropic-ipo-trading-begins-zhck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:00:52.485Z"
+    "pushedAt": "2026-11-20T22:21:19.028Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
@@ -7602,7 +7584,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/nyregion/nyc-fire-deaths-city-council-hearing.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20met-fires-01-btcm/20met-fires-01-btcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:00:28.723Z"
+    "pushedAt": "2026-11-20T22:20:55.900Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/turkey-asks-hundreds-to-return-gains-from-fund-crisis",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/fiber-network-operator-zayo-delays-public-abs-sale-until-2027",
     "image": null,
     "pushedAt": "2026-11-20T22:20:29.399Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
+    "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+    "titleZh": "史蒂維旺德演奏《生命的鑰匙》，邀請大家一起分享他的喜悅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-stevie-wonder-tvqw/20cul-stevie-wonder-tvqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T22:21:44.348Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+    "title": "Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem",
+    "titleZh": "人擇數學家聲稱已經解決了數學最著名的問題",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T22:21:53.523Z"
   }
 ]
