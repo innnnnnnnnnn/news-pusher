@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
-    "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
-    "titleZh": "49 年後，航海家 1 號與地球一光日的距離令人驚嘆",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
-    "image": null,
-    "pushedAt": "2026-11-18T20:43:45.288Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/recent-tech-outages-disruptions-not-related-us-says-video",
     "title": "Recent Tech Outages, Disruptions Not Related, US Says",
     "titleZh": "美國稱最近的技術中斷和中斷無關",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
     "image": null,
     "pushedAt": "2026-11-20T17:51:51.444Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
+    "title": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
+    "titleZh": "克勞迪婭·薩姆 (Claudia Sahm) 表示，人工智慧正在為白宮的經濟學家帶來幫助",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
+    "image": null,
+    "pushedAt": "2026-11-20T17:52:20.512Z"
   }
 ]
