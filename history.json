@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/hailey-bieber-rhode-social-media.html",
-    "title": "Hailey Bieber Says Social Media Fueled Rhode but Took a Toll on Her Mental Health",
-    "titleZh": "海莉·比伯表示社群媒體為羅德帶來了動力，但也損害了她的心理健康",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/hailey-bieber-rhode-social-media.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-bieber-fwgq/18dealbook-summit-bieber-fwgq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T16:55:08.150Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/aclara-ceo-weighs-brazil-rare-earth-plant-says-incentives-crucial",
     "title": "Aclara CEO Says Brazil Incentives Key as Firm Weighs Rare-Earth Plant Investment",
     "titleZh": "Aclara 執行長表示，公司考慮稀土工廠投資時，巴西激勵措施至關重要",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video",
     "image": null,
     "pushedAt": "2026-11-20T18:45:03.799Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+    "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+    "titleZh": "川普威脅禁止美國科技公司在海外建設資料中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-20T18:55:45.665Z"
   }
 ]
