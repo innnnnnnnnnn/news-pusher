@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-mortgage-rates-increase-for-first-time-in-five-weeks",
-    "title": "US Mortgage Rates Rise to 7.35%, Halting Home-Purchase Rebound",
-    "titleZh": "美國抵押貸款利率升至 7.35%，購屋反彈停止",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-mortgage-rates-increase-for-first-time-in-five-weeks",
-    "image": null,
-    "pushedAt": "2026-11-18T14:12:24.136Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/putin-renews-his-warm-bond-with-xi",
     "title": "Putin renews his warm bond with Xi.",
     "titleZh": "普丁與習近平重修舊好。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
     "image": null,
     "pushedAt": "2026-11-20T13:44:34.805Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
+    "titleZh": "巴特比時事通訊：為什麼你沒有被邀請參加那次會議",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "image": null,
+    "pushedAt": "2026-11-20T13:45:05.355Z"
   }
 ]
