@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video",
-    "title": "Fortress’s Burton: Investors More Discerning on AI",
-    "titleZh": "Fortress 的伯頓：投資者對人工智慧更加挑剔",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video",
-    "image": null,
-    "pushedAt": "2026-11-18T20:50:32.723Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-    "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
-    "titleZh": "馬克沃特 (Mark Walter) 保險公司的調查凸顯了監管拼湊的漏洞",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-    "image": null,
-    "pushedAt": "2026-11-19T01:38:25.175Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
     "title": "Fed’s Daly Urges Rate Hikes With a Thoughtful, Measured Approach",
     "titleZh": "聯準會戴利敦促以深思熟慮、謹慎的方式升息",
@@ -4038,7 +4020,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vzc5elb75?ref=rss",
     "image": "https://cdn.flipso.com/p/vzc5elb75_square.jpg",
-    "pushedAt": "2026-11-20T15:32:07.296Z"
+    "pushedAt": "2026-11-20T17:57:24.417Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -4047,7 +4029,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fsgbqaa5f?ref=rss",
     "image": "https://cdn.flipso.com/p/fsgbqaa5f_square.jpg",
-    "pushedAt": "2026-11-20T15:32:30.872Z"
+    "pushedAt": "2026-11-20T17:57:48.471Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
@@ -7710,7 +7692,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T15:33:46.583Z"
+    "pushedAt": "2026-11-20T17:58:36.106Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
@@ -8484,7 +8466,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d0fa98a-b575-4358-a8f4-7202a224128c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T15:33:19.953Z"
+    "pushedAt": "2026-11-20T17:58:12.398Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/ubs-s-lovell-sees-ai-capex-at-risk-of-5-10-cut-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/jpmorgan-visa-warn-of-cyberattack-on-outside-vendor-video",
     "image": null,
     "pushedAt": "2026-11-20T17:56:57.671Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims",
+    "title": "YouTube Finalizing Multibillion-Dollar Schools Settlement Over Addiction Claims",
+    "titleZh": "YouTube 與學校達成數十億美元的成癮索賠和解協議",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims",
+    "image": null,
+    "pushedAt": "2026-11-20T17:59:02.779Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/apple-working-on-own-ai-agent-to-rival-anthropic-video",
+    "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
+    "titleZh": "蘋果正在開發自己的 AI 代理來對抗 OpenAI 和 Anthropic",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/apple-working-on-own-ai-agent-to-rival-anthropic-video",
+    "image": null,
+    "pushedAt": "2026-11-20T17:59:06.229Z"
   }
 ]
