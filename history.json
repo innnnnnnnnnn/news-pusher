@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
-    "title": "Barack Obama’s acolytes are coming to power",
-    "titleZh": "巴拉克·歐巴馬的追隨者即將上台",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
-    "image": null,
-    "pushedAt": "2026-11-20T17:21:50.412Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "title": "America does not produce world-beating statistics. Who does?",
     "titleZh": "美國並沒有產生世界一流的統計數據。誰做的？",
@@ -1815,7 +1806,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T15:21:27.157Z"
+    "pushedAt": "2026-11-20T17:45:34.120Z"
   },
   {
     "id": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2",
@@ -3984,7 +3975,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
-    "pushedAt": "2026-11-20T15:20:38.649Z"
+    "pushedAt": "2026-11-20T17:44:47.440Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
@@ -3993,7 +3984,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
     "image": null,
-    "pushedAt": "2026-11-20T15:21:03.056Z"
+    "pushedAt": "2026-11-20T17:45:10.713Z"
   },
   {
     "id": "https://flipso.com/p/pw3n037mu",
@@ -5190,7 +5181,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T15:21:50.653Z"
+    "pushedAt": "2026-11-20T17:45:57.851Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/on-books-what-food-writing-can-teach-us-all-video",
     "image": null,
     "pushedAt": "2026-11-20T17:44:21.078Z"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
+    "title": "Sheet-Pan Recipes for Friendsgiving",
+    "titleZh": "友誼平底鍋食譜",
+    "source": "紐約時報 New York Times",
+    "url": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T17:46:25.150Z"
   }
 ]
