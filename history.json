@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
-    "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
-    "titleZh": "眾議院民主黨人在準備川普調查時撒下了廣泛的網絡",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-investigate-vtkq/18dc-investigate-vtkq-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-18T18:53:52.206Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/apple-s-haven-status-makes-it-one-of-priciest-stocks-in-market",
     "title": "Apple’s Haven Status Makes It One of Priciest Stocks in Market",
     "titleZh": "蘋果的避風港地位使其成為市場上最昂貴的股票之一",
@@ -5658,7 +5649,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fsgbqaa5f?ref=rss",
     "image": "https://cdn.flipso.com/p/fsgbqaa5f_square.jpg",
-    "pushedAt": "2026-11-20T06:18:55.116Z"
+    "pushedAt": "2026-11-20T08:40:44.470Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
     "image": null,
     "pushedAt": "2026-11-20T08:39:23.802Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
+    "title": "Ex-Alibaba Star’s AI Startup Doubles Valuation to $5 Billion",
+    "titleZh": "前阿里巴巴之星的人工智慧新創公司估值翻倍至 50 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
+    "image": null,
+    "pushedAt": "2026-11-20T08:41:10.798Z"
   }
 ]
