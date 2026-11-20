@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/open-interest-11-18-2026-video",
-    "title": "Anthropic Takes Center Stage After Nvidia",
-    "titleZh": "Anthropic 繼 Nvidia 之後佔據舞台中心",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/open-interest-11-18-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-18T18:24:52.926Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html",
     "title": "Elon Musk Invested in Skydance, CEO David Ellison Confirms",
     "titleZh": "大衛·艾里森證實伊隆·馬斯克投資 Skydance",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fb459525-6978-40f3-a079-4e59047858bd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-20T18:04:04.548Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
+    "title": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
+    "titleZh": "Robinhood 對 ETF 和下一代投資者的怪癖",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
+    "image": null,
+    "pushedAt": "2026-11-20T18:04:35.315Z"
   }
 ]
