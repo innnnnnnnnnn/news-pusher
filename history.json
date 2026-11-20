@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
-    "title": "ECB's Vujcic Says December Rate Hike Looks 'Very Likely' (Video)",
-    "titleZh": "歐洲央行的 Vujcic 表示 12 月升息看起來「非常有可能」（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
-    "image": null,
-    "pushedAt": "2026-11-18T12:01:52.990Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/apec-talks-in-china",
-    "title": "APEC Talks in China",
-    "titleZh": "APEC在華會談",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/apec-talks-in-china",
-    "image": null,
-    "pushedAt": "2026-11-19T03:37:13.247Z"
-  },
-  {
     "id": "https://www.ft.com/content/3c355db7-8b89-4727-8b44-0acd67a7e657",
     "title": "The second-strike trade weapon Brussels hopes will scare Beijing",
     "titleZh": "布魯塞爾希望的第二次貿易武器會嚇到北京",
@@ -4092,7 +4074,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-20T07:51:32.863Z"
+    "pushedAt": "2026-11-20T10:09:46.333Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video",
@@ -4470,7 +4452,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-20T07:51:57.543Z"
+    "pushedAt": "2026-11-20T10:10:34.589Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -7665,7 +7647,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T07:51:08.224Z"
+    "pushedAt": "2026-11-20T10:09:22.404Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-20T10:08:54.792Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/opinion/elon-musk-regrets-moderate.html",
+    "title": "Elon Musk’s $500 Million Mistake",
+    "titleZh": "馬斯克 (Elon Musk) 犯下的 5 億美元錯誤",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/opinion/elon-musk-regrets-moderate.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20goldberg-tgbj/20goldberg-tgbj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T10:11:03.785Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
+    "title": "Gen Z-ers Are Rising Up. This Mayor Is Joining Them.",
+    "titleZh": "Z 世代正在崛起。這位市長也加入了他們的行列。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
+    "image": null,
+    "pushedAt": "2026-11-20T10:11:08.748Z"
   }
 ]
