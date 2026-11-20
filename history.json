@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share",
-    "title": "Anthropic Said to Be Weighing IPO Price as High as $85 Per Share",
-    "titleZh": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share",
-    "image": null,
-    "pushedAt": "2026-11-18T20:47:49.234Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/seeing-more-asset-management-consolidation-nachmann-video",
     "title": "Seeing More Asset-Management Consolidation: Goldman’s Nachmann",
     "titleZh": "看到更多的資產管理整合：高盛的納赫曼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
     "image": null,
     "pushedAt": "2026-11-20T20:30:23.567Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+    "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+    "titleZh": "中國出生的神經科學家在參加會議後被 ICE 拘留",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T20:30:52.397Z"
   }
 ]
