@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
-    "title": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
-    "titleZh": "川普在 2025 年「失踪」了他們。我找到了他們，他們被鎖起來，而且已經挨餓了。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/18kristof-zvlc/18kristof-zvlc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T12:32:11.971Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
     "title": "Grand Theft Auto: An American Icon, Born in Scotland",
     "titleZh": "俠盜獵車手：誕生於英國的美國偶像",
@@ -3138,7 +3129,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
     "image": null,
-    "pushedAt": "2026-11-20T20:17:54.020Z"
+    "pushedAt": "2026-11-20T22:33:06.787Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
@@ -3147,7 +3138,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "image": null,
-    "pushedAt": "2026-11-20T20:18:40.993Z"
+    "pushedAt": "2026-11-20T22:33:54.954Z"
   },
   {
     "id": "https://flipso.com/p/vzc5elb75",
@@ -6495,7 +6486,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T20:17:06.642Z"
+    "pushedAt": "2026-11-20T22:32:19.887Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
@@ -7206,7 +7197,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20db-amodei-wqtg/20db-amodei-wqtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:17:30.055Z"
+    "pushedAt": "2026-11-20T22:32:43.224Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
@@ -7214,8 +7205,8 @@
     "titleZh": "約翰‧格里沙姆：史考特‧科羅姆讓我為密西西比州感到驕傲",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20grisham-kwgv/20grisham-kwgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:18:17.682Z"
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/20grisham-kwgv/20grisham-kwgv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T22:33:31.789Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/mmg-faces-beefed-up-eu-evidence-citing-concerns-over-anglo-deal",
@@ -7593,7 +7584,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/brits-should-have-to-complete-mandatory-surveys-uk-stats-body-suggests",
     "image": null,
-    "pushedAt": "2026-11-20T20:15:55.510Z"
+    "pushedAt": "2026-11-20T22:31:56.560Z"
   },
   {
     "id": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-20T22:31:30.449Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
+    "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+    "titleZh": "川普稱黃在「重大道歉」後應重返英偉達",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
+    "image": null,
+    "pushedAt": "2026-11-20T22:34:20.288Z"
   }
 ]
