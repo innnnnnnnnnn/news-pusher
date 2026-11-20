@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
-    "title": "Senator Bill Cassidy Blocks Trump Pick to Head Science Agency",
-    "titleZh": "參議員比爾·卡西迪阻止川普提名科學機構負責人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-nsf-nominee-wqzh/18dc-nsf-nominee-wqzh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T01:30:40.382Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-trump-policy-decisions-not-midterms-will-shape-canada-trade",
     "title": "Carney Says Trump Policy Decisions, Not Midterms, Will Shape Canada Trade",
     "titleZh": "卡尼表示，影響加拿大貿易的是川普的政策決定，而不是中期選舉",
@@ -3309,7 +3300,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Iran-Attacks-phjw/19Biz-Iran-Attacks-phjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:51:15.091Z"
+    "pushedAt": "2026-11-20T17:18:37.884Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
@@ -3354,7 +3345,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
     "image": null,
-    "pushedAt": "2026-11-20T14:51:38.638Z"
+    "pushedAt": "2026-11-20T17:19:01.125Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
@@ -3363,7 +3354,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19daily-digital-outage/19daily-aviation-safety-kpvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:52:27.527Z"
+    "pushedAt": "2026-11-20T17:19:24.826Z"
   },
   {
     "id": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
@@ -8484,7 +8475,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-on-chip-curbs-rare-earths-us-china-trade-video",
     "image": null,
-    "pushedAt": "2026-11-20T14:52:53.448Z"
+    "pushedAt": "2026-11-20T17:19:47.997Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/new-opportunities-in-fixed-income-etfs-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-surveillance-11-20-2026-video",
     "image": null,
     "pushedAt": "2026-11-20T17:18:10.807Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
+    "title": "AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips",
+    "titleZh": "隨著美元貶值，人工智慧拋售提振了日圓和法郎的避險需求",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
+    "image": null,
+    "pushedAt": "2026-11-20T17:20:13.648Z"
   }
 ]
