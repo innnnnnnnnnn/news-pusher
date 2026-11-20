@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-    "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-    "titleZh": "氣候變遷的「令人震驚」跡象增加了 COP31 會談的緊迫性",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T09:49:38.334Z"
-  },
-  {
-    "id": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56",
-    "title": "Israeli attorney-general freezes key West Bank settlement project",
-    "titleZh": "以色列總檢察長凍結西岸主要定居點項目",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T03:38:55.303Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/credit-chiefs-warn-of-fear-factor-with-debt-repricing-video",
     "title": "Credit Chiefs Warn of ‘Fear Factor’ With Debt Repricing",
     "titleZh": "信貸主管警告債務重新定價存在“恐懼因素”",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
     "image": "https://static01.nyt.com/images/2026/11/18/us/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-20T17:06:20.870Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+    "title": "Bangladesh is no longer a development superstar",
+    "titleZh": "孟加拉不再是發展超級明星",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+    "image": null,
+    "pushedAt": "2026-11-20T17:06:48.647Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/romania-needs-further-deficit-cuts-to-boost-confidence-imf-says",
+    "title": "Romania Needs Further Deficit Cuts to Boost Confidence, IMF Says",
+    "titleZh": "國際貨幣基金組織表示羅馬尼亞需要進一步削減赤字以提振信心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/romania-needs-further-deficit-cuts-to-boost-confidence-imf-says",
+    "image": null,
+    "pushedAt": "2026-11-20T17:06:53.526Z"
   }
 ]
