@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html",
-    "title": "Elon Musk Invested in Skydance, CEO David Ellison Confirms",
-    "titleZh": "大衛·艾里森證實伊隆·馬斯克投資 Skydance",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-ellison-qfbt/18dealbook-summit-ellison-qfbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:58:38.517Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-tech-11-18-2026-video",
     "title": "Nvidia Moves On From Huang as Anthropic IPO Looms",
     "titleZh": "隨著 Anthropic IPO 的臨近，英偉達將放棄黃仁勳",
@@ -6522,7 +6513,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T15:40:37.579Z"
+    "pushedAt": "2026-11-20T18:06:40.327Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ai-spurs-funding-needs-as-top-japan-power-producer-weighs-ipo",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
     "image": null,
     "pushedAt": "2026-11-20T18:04:35.315Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video",
+    "title": "Trump Vows to Tax US Companies Building Data Centers Abroad",
+    "titleZh": "川普誓言對在海外建造資料中心的美國公司徵稅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video",
+    "image": null,
+    "pushedAt": "2026-11-20T18:07:07.520Z"
   }
 ]
