@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8",
-    "title": "Ukraine’s ‘flying modems’ helped take down Putin’s bridge",
-    "titleZh": "烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T01:34:31.495Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/lithium-miner-warns-of-perils-facing-us-critical-minerals-push",
     "title": "Lithium CEO Warns of Perils Facing US Critical Minerals Push",
     "titleZh": "鋰礦商警告美國關鍵礦產開發面臨危險",
@@ -3237,7 +3228,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c8be5131-b39a-4507-a5ca-9cedb07f7d38?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T08:49:39.381Z"
+    "pushedAt": "2026-11-20T11:04:49.946Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
@@ -7305,7 +7296,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/c9v71ka1h?ref=rss",
     "image": "https://cdn.flipso.com/p/c9v71ka1h_square.jpg",
-    "pushedAt": "2026-11-20T08:50:29.238Z"
+    "pushedAt": "2026-11-20T11:05:15.961Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
@@ -7642,12 +7633,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
-    "title": "AI Trade Buckles as Taiwan Stocks Suffer Worst Week in 35 Years",
+    "title": "AI Trade Buckles as Anthropic Bets Fizzle After Record IPO",
     "titleZh": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
     "image": null,
-    "pushedAt": "2026-11-20T08:50:54.047Z"
+    "pushedAt": "2026-11-20T11:05:41.399Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/frasers-cfo-unleashes-on-accent-as-australian-bid-turns-personal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3556ef23-2df0-4546-89a3-be0323cd32e4",
     "image": null,
     "pushedAt": "2026-11-20T11:04:22.921Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/podcasts/the-headlines/fear-humiliation-nvidia-google-spirit-airlines-data-quiz.html",
+    "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
+    "titleZh": "Nvidia 的恐懼和羞辱，以及谷歌為何購買 Spirit Airlines 數據",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/podcasts/the-headlines/fear-humiliation-nvidia-google-spirit-airlines-data-quiz.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20theheadlines-huang-wclj/20theheadlines-huang-wclj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T11:06:09.364Z"
   }
 ]
