@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-    "title": "America must get serious about Chinese chip spying",
-    "titleZh": "美國必須認真對待中國芯片間諜活動",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-    "image": null,
-    "pushedAt": "2026-11-20T18:54:54.670Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages",
-    "title": "AI is Forcing Firms to Fix Cyber Flaws Faster, Worsening Outages",
-    "titleZh": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages",
-    "image": null,
-    "pushedAt": "2026-11-18T22:20:36.718Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/fed-minutes-leave-door-open-to-larger-december-rate-hike-video",
     "title": "Fed Minutes Leave Door Open to Larger December Rate Hike",
     "titleZh": "聯準會會議紀要為12月更大規模升息敞開大門",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
     "image": null,
     "pushedAt": "2026-11-20T19:32:21.366Z"
+  },
+  {
+    "id": "https://www.ft.com/content/aa21ce02-f438-4aa2-820c-f4efbc46859f",
+    "title": "It’s tough out there",
+    "titleZh": "外面很難",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/aa21ce02-f438-4aa2-820c-f4efbc46859f",
+    "image": null,
+    "pushedAt": "2026-11-20T19:32:49.960Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e",
+    "title": "’Tis the season to be grateful to China",
+    "titleZh": "這是感恩中國的季節",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-20T19:32:54.649Z"
   }
 ]
