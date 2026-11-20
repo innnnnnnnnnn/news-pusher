@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b",
-    "title": "US and Venezuela to expand military co-operation to target drug trafficking",
-    "titleZh": "美國和委內瑞拉擴大軍事合作打擊販毒",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T04:44:42.438Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/s-p-falls-to-lowest-since-july-closing-bell-video",
     "title": "S&P Falls to Lowest Since July | Closing Bell",
     "titleZh": "標準普爾跌至七月以來最低 |結束鐘聲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/victor-peng-sees-ai-quantum-as-long-term-opportunities-video",
     "image": null,
     "pushedAt": "2026-11-20T21:42:55.566Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+    "title": "Corporate spin-offs are getting out of control",
+    "titleZh": "企業分拆正在失控",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+    "image": null,
+    "pushedAt": "2026-11-20T21:43:21.399Z"
   }
 ]
