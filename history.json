@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
-    "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
-    "titleZh": "巴特比時事通訊：為什麼你沒有被邀請參加那次會議",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
-    "image": null,
-    "pushedAt": "2026-11-20T13:34:36.575Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
-    "title": "US Housing Starts Climb on Multifamily Construction Rebound",
-    "titleZh": "美國新屋開工率因多戶住宅建設反彈而攀升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
-    "image": null,
-    "pushedAt": "2026-11-19T07:28:52.966Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-mortgage-rates-increase-for-first-time-in-five-weeks",
     "title": "US Mortgage Rates Rise to 7.35%, Halting Home-Purchase Rebound",
     "titleZh": "美國抵押貸款利率升至 7.35%，購屋反彈停止",
@@ -2292,7 +2274,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T11:32:04.846Z"
+    "pushedAt": "2026-11-20T13:44:06.367Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
@@ -5127,7 +5109,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T11:31:40.117Z"
+    "pushedAt": "2026-11-20T13:43:42.185Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
@@ -8718,7 +8700,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/h-1b-visa-delays-and-trump-rules-force-tech-workers-to-leave-us",
     "image": null,
-    "pushedAt": "2026-11-20T11:31:13.308Z"
+    "pushedAt": "2026-11-20T13:43:17.265Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/worldline-sinks-on-financial-times-report-on-cash-advances",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-opening-trade-11-20-2026-video",
     "image": null,
     "pushedAt": "2026-11-20T13:42:48.476Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/s-p-500-faces-technical-make-or-break-moment-below-7-200-line",
+    "title": "S&P 500 Faces Technical Make-or-Break Moment Below 7,200 Line",
+    "titleZh": "標準普爾 500 指數面臨低於 7,200 點線的技術成敗時刻",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/s-p-500-faces-technical-make-or-break-moment-below-7-200-line",
+    "image": null,
+    "pushedAt": "2026-11-20T13:44:32.717Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+    "title": "Anthropic IPO Live Updates: AI Trade Fears Rattle Markets, Stocks Fall",
+    "titleZh": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+    "image": null,
+    "pushedAt": "2026-11-20T13:44:34.805Z"
   }
 ]
