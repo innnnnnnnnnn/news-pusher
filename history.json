@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
-    "title": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
-    "titleZh": "瑞典頂尖律師事務所 Vinge 看到私募股權交易有所回升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
-    "image": null,
-    "pushedAt": "2026-11-18T07:48:02.393Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
     "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
     "titleZh": "力拓將支付 2.5 億美元解決礦場環境破壞問題",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
     "image": null,
     "pushedAt": "2026-11-20T04:54:25.464Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/uscc-on-us-china-competition-trade-tensions-video",
+    "title": "USCC on US-China Competition, Trade Tensions",
+    "titleZh": "USCC 關於美中競爭和貿易緊張局勢",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/uscc-on-us-china-competition-trade-tensions-video",
+    "image": null,
+    "pushedAt": "2026-11-20T04:54:55.559Z"
   }
 ]
