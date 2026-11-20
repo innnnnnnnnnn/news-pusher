@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
-    "title": "Patching the AI Trade",
-    "titleZh": "修補人工智慧貿易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-18T21:27:37.951Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
     "title": "Corporate spin-offs are getting out of control",
     "titleZh": "企業分拆正在失控",
@@ -4758,7 +4749,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
-    "pushedAt": "2026-11-20T19:16:47.984Z"
+    "pushedAt": "2026-11-20T21:39:36.904Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-goolsbee-says-all-options-on-fomc-table-amid-hot-inflation",
@@ -5176,12 +5167,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "title": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
+    "title": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap",
     "titleZh": "隨著人工智慧熱情消退，亞洲股市將下跌：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-20T19:17:36.563Z"
+    "pushedAt": "2026-11-20T21:40:01.253Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/lyft-airport-pickups-saw-double-digit-gain-during-us-ground-stop",
@@ -8560,12 +8551,12 @@
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
-    "title": "The Democrats’ Plan for Investigating Trump",
+    "title": "How Do You Investigate a President This Corrupt?",
     "titleZh": "民主黨調查川普的計劃",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
     "image": "https://static01.nyt.com/images/2026/11/20/opinion/20eks-garcia-image01/20eks-garcia-image01-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-20T19:16:21.909Z"
+    "pushedAt": "2026-11-20T21:39:13.333Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/market-calm-hid-widespread-losses-schwab-s-sonders-says-video",
     "image": null,
     "pushedAt": "2026-11-20T21:28:32.902Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video",
+    "title": "Anthropic IPO Could Mark End of the AI Trade",
+    "titleZh": "Anthropic IPO 可能標誌著人工智慧產業的終結",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video",
+    "image": null,
+    "pushedAt": "2026-11-20T21:40:28.322Z"
   }
 ]
