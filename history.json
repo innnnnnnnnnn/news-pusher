@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/arm-ceo-approached-by-nvidia-board-s-recruitment-firm-video",
-    "title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
-    "titleZh": "Nvidia 董事會招聘公司接洽 Arm 執行長哈斯",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/arm-ceo-approached-by-nvidia-board-s-recruitment-firm-video",
-    "image": null,
-    "pushedAt": "2026-11-18T20:42:01.349Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/citi-s-raghavan-says-ai-faces-survival-of-the-fittest-on-funding",
     "title": "Citi’s Raghavan Says AI Faces Survival of the Fittest on Funding",
     "titleZh": "花旗的 Raghavan 表示人工智慧在融資方面面臨優勝劣汰",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-s-ipo-drew-more-retail-investor-demand-than-spacex",
     "image": null,
     "pushedAt": "2026-11-20T20:20:18.566Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+    "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+    "titleZh": "許多 Etsy 賣家因該網站的新人工智慧而關閉商店政策",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/arts/20cul-etsy-ai/20cul-etsy-ai-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T20:20:50.810Z"
   }
 ]
