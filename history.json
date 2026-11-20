@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb",
-    "title": "BAE set to cut more than 1,000 jobs",
-    "titleZh": "BAE計劃裁員1000多人",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T05:23:10.162Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "title": "Meet the European Central Bank’s new squad",
     "titleZh": "認識歐洲央行的新陣容",
@@ -3462,7 +3453,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T17:05:03.245Z"
+    "pushedAt": "2026-11-20T19:18:00.074Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
@@ -5190,7 +5181,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
-    "pushedAt": "2026-11-20T17:03:46.659Z"
+    "pushedAt": "2026-11-20T19:16:47.984Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-goolsbee-says-all-options-on-fomc-table-amid-hot-inflation",
@@ -5613,7 +5604,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-20T17:04:39.641Z"
+    "pushedAt": "2026-11-20T19:17:36.563Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/lyft-airport-pickups-saw-double-digit-gain-during-us-ground-stop",
@@ -6684,7 +6675,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T17:05:27.142Z"
+    "pushedAt": "2026-11-20T19:18:23.829Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/israel-cheaper-air-defense-david-sling-iran-stunner-interceptor-patriot-rafael-rtx",
@@ -7269,7 +7260,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T17:05:51.202Z"
+    "pushedAt": "2026-11-20T19:18:47.108Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
@@ -8475,7 +8466,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/donald-trump-s-tariffs-can-t-kill-globalization-video",
     "image": null,
-    "pushedAt": "2026-11-20T17:04:11.730Z"
+    "pushedAt": "2026-11-20T19:17:11.412Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
     "image": "https://static01.nyt.com/images/2026/11/20/opinion/20eks-garcia-image01/20eks-garcia-image01-mediumSquareAt3X.png",
     "pushedAt": "2026-11-20T19:16:21.909Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video",
+    "title": "Odd Lots: Minerva Co-Founder on the Risks of “Abliterated” Models",
+    "titleZh": "奇怪的事情：Minerva 聯合創始人談「被廢除」模型的風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video",
+    "image": null,
+    "pushedAt": "2026-11-20T19:19:13.234Z"
   }
 ]
