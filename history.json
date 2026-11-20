@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/lilly-buying-spree-surpasses-32b-video",
-    "title": "Lilly Buying Spree Surpasses $32B",
-    "titleZh": "禮來公司收購狂潮超過 $32B",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/lilly-buying-spree-surpasses-32b-video",
-    "image": null,
-    "pushedAt": "2026-11-18T21:15:35.240Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/us-rivals-seek-its-tech-through-m-a-vc-mullin-video",
     "title": "US Rivals Seek Its Tech Through M&A, VC: Mullin",
     "titleZh": "美國競爭對手透過併購、創投尋求技術：穆林",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-of-missing-out-driving-young-investors-chaudhuri-video",
     "image": null,
     "pushedAt": "2026-11-20T21:10:19.874Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7",
+    "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
+    "titleZh": "Grand Theft Auto VI 銷售額突破 38 億美元記錄",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60683e61-113c-4716-9eea-af49cf1d6eb2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T21:15:08.145Z"
   }
 ]
