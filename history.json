@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
-    "title": "Bangladesh is no longer a development superstar",
-    "titleZh": "孟加拉不再是發展超級明星",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
-    "image": null,
-    "pushedAt": "2026-11-20T16:44:03.270Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/structured-deals-fit-for-insurance-money-blackstone-md-video",
-    "title": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money",
-    "titleZh": "黑石集團口號稱結構性交易適合保險資金",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/structured-deals-fit-for-insurance-money-blackstone-md-video",
-    "image": null,
-    "pushedAt": "2026-11-18T17:25:56.372Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
     "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
     "titleZh": "氣候變遷的「令人震驚」跡象增加了 COP31 會談的緊迫性",
@@ -3984,7 +3966,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:41:51.828Z"
+    "pushedAt": "2026-11-20T17:05:03.245Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
@@ -6130,12 +6112,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "title": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap",
+    "title": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
     "titleZh": "隨著人工智慧熱情消退，亞洲股市將下跌：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-20T14:41:28.202Z"
+    "pushedAt": "2026-11-20T17:04:39.641Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/lyft-airport-pickups-saw-double-digit-gain-during-us-ground-stop",
@@ -7206,7 +7188,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T14:42:15.981Z"
+    "pushedAt": "2026-11-20T17:05:27.142Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/israel-cheaper-air-defense-david-sling-iran-stunner-interceptor-patriot-rafael-rtx",
@@ -7791,7 +7773,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:42:40.695Z"
+    "pushedAt": "2026-11-20T17:05:51.202Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/donald-trump-s-tariffs-can-t-kill-globalization-video",
     "image": null,
     "pushedAt": "2026-11-20T17:04:11.730Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html",
+    "title": "A Supermodel Will Finally Get Her Day in Court",
+    "titleZh": "超級名模終於要上法庭了",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/fashion/20MARIE-OTIS-v/20MARIE-OTIS-v-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T17:06:16.780Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
+    "title": "New Ph.D. Enrollment in the Sciences Dropped 10 Percent Under Trump",
+    "titleZh": "川普新博士任內科學專業入學率下降 10%",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/us/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T17:06:20.870Z"
   }
 ]
