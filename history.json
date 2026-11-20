@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-19T14:02:26.868Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/18/opinion/midterms-millennials-boomers-talarico.html",
-    "title": "OK, Boomer. At Long Last the Millennials Have Vanquished You.",
-    "titleZh": "我們期待已久的青年運動終於到來",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/opinion/midterms-millennials-boomers-talarico.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18twenge-hklv/18twenge-hklv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T08:30:49.719Z"
-  },
-  {
     "id": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847",
     "title": "Deutsche Bank hired a Qatari royal. Why?",
     "titleZh": "德意志銀行聘請了一位卡達王室成員。為什麼？",
@@ -4686,7 +4668,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-20T00:01:49.010Z"
+    "pushedAt": "2026-11-20T02:16:27.820Z"
   },
   {
     "id": "https://www.ft.com/content/b9f515c3-28c5-4227-bae5-1dd80f86e4c2",
@@ -6099,7 +6081,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-media-01-tqhf/19trump-summits-media-01-tqhf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T00:02:13.511Z"
+    "pushedAt": "2026-11-20T02:16:50.937Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
@@ -8205,7 +8187,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/2026-11-19-anthropic-index-funds-index/2026-11-19-anthropic-index-funds-index-mediumSquareAt3X-v3.png",
-    "pushedAt": "2026-11-20T00:02:38.369Z"
+    "pushedAt": "2026-11-20T02:17:14.207Z"
   },
   {
     "id": "https://flipso.com/p/vo68xupzj",
@@ -8214,7 +8196,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vo68xupzj?ref=rss",
     "image": "https://cdn.flipso.com/p/vo68xupzj_square.jpg",
-    "pushedAt": "2026-11-20T00:03:02.404Z"
+    "pushedAt": "2026-11-20T02:17:39.983Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/frasers-cfo-unleashes-on-accent-as-australian-bid-turns-personal",
     "image": null,
     "pushedAt": "2026-11-20T02:16:01.354Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+    "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+    "titleZh": "Anthropic (ANT) 在納斯達克首次公開募股克服了人工智慧的恐懼和警告",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+    "image": null,
+    "pushedAt": "2026-11-20T02:18:06.805Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target",
+    "title": "Sri Lanka Raises Policy Rate to Ensure Inflation Reaches Target",
+    "titleZh": "斯里蘭卡提高政策利率以確保通膨達到目標",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target",
+    "image": null,
+    "pushedAt": "2026-11-20T02:18:11.174Z"
   }
 ]
