@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-    "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-    "titleZh": "隨著槓桿率和流動性的減弱，比特幣抹去了貝森特的反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-    "image": null,
-    "pushedAt": "2026-11-19T03:13:59.846Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/adults-want-kids-toys-this-holiday-season",
     "title": "Adults Want Kids’ Toys This Holiday Season",
     "titleZh": "成年人在這個假期想要兒童玩具",
@@ -3390,7 +3381,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-musk-vltw/18dealbook-summit-musk-vltw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T05:07:15.003Z"
+    "pushedAt": "2026-11-20T07:25:11.256Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
@@ -8088,7 +8079,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/thailand-opens-door-to-us-pork-raising-risks-for-farmers",
     "image": null,
-    "pushedAt": "2026-11-20T05:07:41.256Z"
+    "pushedAt": "2026-11-20T07:25:36.091Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-is-the-best-house-in-a-bad-neighborhood-ubs-wealth-says",
     "image": null,
     "pushedAt": "2026-11-20T07:24:42.949Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7",
+    "title": "Russian missile barrage damages Kyiv bridges",
+    "titleZh": "俄羅斯飛彈攻擊摧毀基輔橋樑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb89d0bee-fe11-4c1e-8675-62845dd0f853.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T07:26:04.416Z"
   }
 ]
