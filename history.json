@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-deals-11-18-2026-video",
-    "title": "Justifying Anthropic’s Valuation, The Bank of Nvidia",
-    "titleZh": "英偉達銀行證明 Anthropic 估值合理",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-deals-11-18-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-18T21:09:52.940Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
-    "title": "Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut",
-    "titleZh": "據稱，Anthropic 的 IPO 定價為每股 83 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
-    "image": null,
-    "pushedAt": "2026-11-19T11:32:33.624Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/lilly-buying-spree-surpasses-32b-video",
     "title": "Lilly Buying Spree Surpasses $32B",
     "titleZh": "禮來公司收購狂潮超過 $32B",
@@ -2391,7 +2373,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T18:46:17.149Z"
+    "pushedAt": "2026-11-20T21:09:02.160Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/mike-lynch-yacht-crew-unaware-of-wind-risks-uk-probe-finds",
@@ -2994,7 +2976,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T18:47:04.132Z"
+    "pushedAt": "2026-11-20T21:09:48.815Z"
   },
   {
     "id": "https://www.ft.com/content/e3135e3a-32f6-408f-9519-4f60d275f485",
@@ -7539,7 +7521,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3b6e5e8d-c7d1-4093-9187-45e37a2d3af4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T18:46:40.406Z"
+    "pushedAt": "2026-11-20T21:09:25.525Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/nasdaq-100-just-had-one-of-its-most-extreme-intraday-swings-ever",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/new-zealand-dollar-hits-lowest-since-global-financial-crisis",
     "image": null,
     "pushedAt": "2026-11-20T21:08:36.161Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+    "title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
+    "titleZh": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+    "image": null,
+    "pushedAt": "2026-11-20T21:10:15.211Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/fear-of-missing-out-driving-young-investors-chaudhuri-video",
+    "title": "Fear of Missing Out Driving Young Investors: Chaudhuri",
+    "titleZh": "害怕錯過推動年輕投資者的機會：Chaudhuri",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-of-missing-out-driving-young-investors-chaudhuri-video",
+    "image": null,
+    "pushedAt": "2026-11-20T21:10:19.874Z"
   }
 ]
