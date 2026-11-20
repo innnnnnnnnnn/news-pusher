@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
-    "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
-    "titleZh": "傑夫貝佐斯表示他幫助挑選羅伯特帕丁森作為新詹姆斯龐德",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cul-bond-bezos-jvcg/18cul-bond-bezos-jvcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T17:33:54.777Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/microsoft-says-copilot-is-beating-anthropic-openai-on-price",
     "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
     "titleZh": "微軟表示 Copilot 在價格上擊敗了 Anthropic 和 OpenAI",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html",
     "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-attygen-sweep-01-qclg/07nat-attygen-sweep-01-qclg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-20T19:26:38.900Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+    "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+    "titleZh": "《俠盜獵車手 VI》售出 37.9 億美元，成為史上最大的娛樂發行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+    "image": null,
+    "pushedAt": "2026-11-20T19:27:08.864Z"
   }
 ]
