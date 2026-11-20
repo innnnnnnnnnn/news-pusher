@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
-    "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
-    "titleZh": "Anthropic 將最終確定重磅炸彈 IPO 的定價",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:03:22.022Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
     "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
     "titleZh": "尼泊爾在迫切需要的情況下參加了 COP31。這是對世界的考驗。",
@@ -2904,7 +2895,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:43:53.567Z"
+    "pushedAt": "2026-11-20T17:09:02.999Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
@@ -7755,7 +7746,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:43:05.405Z"
+    "pushedAt": "2026-11-20T17:07:49.826Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
@@ -7764,7 +7755,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:43:29.777Z"
+    "pushedAt": "2026-11-20T17:08:38.936Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
@@ -7773,7 +7764,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
     "image": null,
-    "pushedAt": "2026-11-20T14:44:47.255Z"
+    "pushedAt": "2026-11-20T17:09:50.791Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
@@ -7998,7 +7989,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/cocoa-pricier-in-europe-as-traders-brace-for-deforestation-rules",
     "image": null,
-    "pushedAt": "2026-11-20T13:27:12.531Z"
+    "pushedAt": "2026-11-20T17:08:15.002Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/galliard-ceo-sold-flat-before-london-s-royal-gateway-evacuated-in-safety-crisis",
@@ -8520,7 +8511,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/state-street-s-hung-on-trump-accounts-private-markets-video",
     "image": null,
-    "pushedAt": "2026-11-20T14:44:19.698Z"
+    "pushedAt": "2026-11-20T17:09:27.071Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-on-chip-curbs-rare-earths-us-china-trade-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/ai-speeds-patching-raises-outage-risks-expert-video",
     "image": null,
     "pushedAt": "2026-11-20T17:07:22.571Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/bank-stocks-set-for-worst-week-since-april-2025-as-rout-deepens",
+    "title": "Bank Stocks Set for Worst Week Since April 2025 as Rout Deepens",
+    "titleZh": "隨著潰敗加劇，銀行股將迎來 2025 年 4 月以來最糟糕的一周",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/bank-stocks-set-for-worst-week-since-april-2025-as-rout-deepens",
+    "image": null,
+    "pushedAt": "2026-11-20T17:10:17.879Z"
   }
 ]
