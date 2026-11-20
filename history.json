@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-    "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-    "titleZh": "檢察官稱愛爾蘭男子用斧頭和化學品破壞美國軍用飛機",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-    "image": null,
-    "pushedAt": "2026-11-20T03:54:37.184Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
     "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
     "titleZh": "儘管美國鎮壓，美國公雞仍在菲律賓打架",
@@ -3696,7 +3687,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-20T10:09:46.333Z"
+    "pushedAt": "2026-11-20T12:27:45.648Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video",
@@ -4074,7 +4065,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-20T10:10:34.589Z"
+    "pushedAt": "2026-11-20T12:28:10.030Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -4083,7 +4074,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-20T10:11:35.862Z"
+    "pushedAt": "2026-11-20T12:29:23.387Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -7269,7 +7260,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T10:09:22.404Z"
+    "pushedAt": "2026-11-20T12:27:21.431Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video",
@@ -8601,25 +8592,25 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T10:08:54.792Z"
+    "pushedAt": "2026-11-20T12:26:57.337Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/elon-musk-regrets-moderate.html",
-    "title": "Elon Musk’s $500 Million Mistake",
+    "title": "Elon Musk Has Regrets",
     "titleZh": "馬斯克 (Elon Musk) 犯下的 5 億美元錯誤",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/opinion/elon-musk-regrets-moderate.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20goldberg-tgbj/20goldberg-tgbj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T10:11:03.785Z"
+    "pushedAt": "2026-11-20T12:28:34.195Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
-    "title": "Gen Z-ers Are Rising Up. This Mayor Is Joining Them.",
+    "title": "Gen Z-ers Love This Mayor. Let Him Tell You Why.",
     "titleZh": "Z 世代正在崛起。這位市長也加入了他們的行列。",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
     "image": null,
-    "pushedAt": "2026-11-20T10:11:08.748Z"
+    "pushedAt": "2026-11-20T12:28:58.401Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9cb11330-d7b0-43e8-a43e-8b7eb983b9bb?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-20T12:26:29.907Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/china-economy-pensions.html",
+    "title": "From Gig Workers to Tycoons, China Is Reaching Into Every Pocket",
+    "titleZh": "從零工到大亨，中國正在觸及每個人的口袋",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/china-economy-pensions.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/business/18biz-newworldmoney/18biz-newworldmoney-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T12:29:48.417Z"
   }
 ]
