@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-    "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
-    "titleZh": "紐約市、洛杉磯市和芝加哥學區正在考慮與人工智慧搜尋分道揚鑣",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T13:47:20.879Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
     "title": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
     "titleZh": "從 Anthropic 的 IPO 數據來看：挑戰 SpaceX 的首次亮相紀錄",
@@ -7395,7 +7386,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1daf0509-230a-48da-b344-79d4b26fffb9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T15:28:53.437Z"
+    "pushedAt": "2026-11-20T17:54:05.223Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/europe-retail-traders-bid-seven-times-anthropic-s-ipo-allocation",
     "image": null,
     "pushedAt": "2026-11-20T17:53:13.718Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/inflation-lifts-trip-spending-as-consumers-cut-extras-video",
+    "title": "BI Survey: Budgetary Constraints for 2027 Travel",
+    "titleZh": "BI 調查：2027 年旅行的預算限制",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/inflation-lifts-trip-spending-as-consumers-cut-extras-video",
+    "image": null,
+    "pushedAt": "2026-11-20T17:54:30.604Z"
   }
 ]
