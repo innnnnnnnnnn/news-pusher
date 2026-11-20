@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-    "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-    "titleZh": "以色列坦克罕見入侵加薩停火線",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T10:04:32.269Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
     "title": "That ‘SNL’ Sister Sketch: It’s More Like Nonfiction",
     "titleZh": "《SNL》姊妹素描：它更像是非小說類作品",
@@ -3273,7 +3264,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-20T14:49:15.048Z"
+    "pushedAt": "2026-11-20T17:15:38.904Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -3282,7 +3273,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-20T14:50:02.065Z"
+    "pushedAt": "2026-11-20T17:16:26.413Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
@@ -5442,7 +5433,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade",
     "image": null,
-    "pushedAt": "2026-11-20T14:48:51.867Z"
+    "pushedAt": "2026-11-20T17:15:14.509Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
@@ -7809,7 +7800,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
     "image": null,
-    "pushedAt": "2026-11-20T14:48:26.765Z"
+    "pushedAt": "2026-11-20T17:14:50.857Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising",
@@ -8196,7 +8187,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/china-economy-pensions.html",
     "image": "https://static01.nyt.com/images/2026/11/18/business/18biz-newworldmoney/18biz-newworldmoney-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:49:38.229Z"
+    "pushedAt": "2026-11-20T17:16:02.853Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/lagarde-warns-europe-is-hesitant-responding-to-crises-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/a-week-for-big-questions-on-the-ai-buildout",
     "image": null,
     "pushedAt": "2026-11-20T17:14:24.540Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a",
+    "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
+    "titleZh": "傑米戴蒙發誓要收回「不公平」的英國銀行稅",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F929b722c-5092-4882-ac41-294124a572b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T17:16:54.599Z"
   }
 ]
