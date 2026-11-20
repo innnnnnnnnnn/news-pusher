@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-    "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
-    "titleZh": "這些村民想知道他們是否處於俄羅斯影子戰爭的前線",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00int-germany-leipzig-airport-wb-qgkh/00int-germany-leipzig-airport-wb-qgkh-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-19T13:04:12.454Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
     "title": "Japan Attempts to Revive U.S. Steel",
     "titleZh": "日本試圖重振美國鋼鐵業",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
     "image": null,
     "pushedAt": "2026-11-20T00:00:03.395Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+    "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+    "titleZh": "Anthropic 以價值 2 兆美元的公司身分登陸華爾街",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-20T00:00:31.818Z"
   }
 ]
