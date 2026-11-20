@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
-    "title": "What to Expect at Today’s DealBook Summit",
-    "titleZh": "今天的 DealBook 高峰會有哪些值得期待的內容",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18db-summit-bpfg/18db-summit-bpfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T23:57:26.361Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
     "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
     "titleZh": "習近平罕見地在川普抵達中國時向他致意",
@@ -2949,7 +2940,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/zohran-mamdani-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-mamdani-wfvz/18dealbook-summit-mamdani-wfvz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T06:15:45.090Z"
+    "pushedAt": "2026-11-20T08:35:45.290Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/trade-and-ai-rivalry-to-dominate-apec-summit-video",
@@ -5640,7 +5631,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
     "image": null,
-    "pushedAt": "2026-11-20T06:14:54.193Z"
+    "pushedAt": "2026-11-20T08:34:55.142Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
@@ -5649,7 +5640,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
     "image": null,
-    "pushedAt": "2026-11-20T06:15:20.040Z"
+    "pushedAt": "2026-11-20T08:35:20.095Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
     "image": null,
     "pushedAt": "2026-11-20T08:34:26.916Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/south-africa-s-richards-bay-terminal-loads-record-chrome-cargo",
+    "title": "South Africa’s Richards Bay Terminal Loads Record Chrome Cargo",
+    "titleZh": "南非理查茲灣 (Richards Bay) 碼頭裝載創紀錄的鉻貨物",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/south-africa-s-richards-bay-terminal-loads-record-chrome-cargo",
+    "image": null,
+    "pushedAt": "2026-11-20T08:36:14.270Z"
   }
 ]
