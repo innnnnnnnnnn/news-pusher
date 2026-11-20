@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
-    "title": "Gen Z: Tell Us Your Political Hopes",
-    "titleZh": "Z 世代：告訴我們您的政治希望",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-genz-callout-2-fpbk/18int-genz-callout-2-fpbk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T09:23:28.910Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/hyperscalers-could-learn-from-banks-on-issuance-mfs-video",
     "title": "Hyperscalers Could Learn From Banks on Debt Issuance, MFS Says",
     "titleZh": "超大規模企業可以向銀行學習發行：MFS（影片）",
@@ -4443,7 +4434,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T11:42:58.208Z"
+    "pushedAt": "2026-11-20T13:58:11.089Z"
   },
   {
     "id": "https://www.ft.com/content/e3135e3a-32f6-408f-9519-4f60d275f485",
@@ -8691,7 +8682,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-s-torrent-power-plans-third-rupee-bond-sale-this-year",
     "image": null,
-    "pushedAt": "2026-11-20T11:42:31.130Z"
+    "pushedAt": "2026-11-20T13:57:46.357Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/the-pulse-with-francine-lacqua-11-20-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/nasdaq-100-just-had-one-of-its-most-extreme-intraday-swings-ever",
     "image": null,
     "pushedAt": "2026-11-20T13:57:18.855Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
+    "title": "India Seeks to Scrap Key Disclosure to Draw Foreign Money",
+    "titleZh": "印度尋求廢除關鍵資訊揭露以吸引外國資金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
+    "image": null,
+    "pushedAt": "2026-11-20T13:58:37.651Z"
   }
 ]
