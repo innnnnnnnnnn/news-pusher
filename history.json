@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-    "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
-    "titleZh": "粉絲們湧向這個著名的標誌。鄰居說，別走我的路。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-19T13:36:54.030Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
     "title": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.",
     "titleZh": "谷歌在新市場從 Spirit Airlines 購買員工數據，為人工智慧提供數據",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-lines-up-takeover-target-to-fix-pharma-s-lowest-valuation",
     "image": null,
     "pushedAt": "2026-11-20T14:58:18.643Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/polish-stocks-lead-european-losses-after-russian-airspace-breach",
+    "title": "Polish Stocks Lead European Losses After Russian Airspace Breach",
+    "titleZh": "俄羅斯領空入侵後波蘭股市領跌歐洲股市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/polish-stocks-lead-european-losses-after-russian-airspace-breach",
+    "image": null,
+    "pushedAt": "2026-11-20T15:01:35.087Z"
   }
 ]
