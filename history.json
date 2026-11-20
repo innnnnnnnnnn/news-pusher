@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
-    "title": "German Government Nominates Brunnermeier for ECB Board Seat",
-    "titleZh": "德國政府提名布倫納邁爾擔任歐洲央行董事會席位",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
-    "image": null,
-    "pushedAt": "2026-11-19T01:36:36.914Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-    "title": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
-    "titleZh": "川普將在亞洲之行期間與習近平和普丁舉行會晤：需要了解什麼",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-18T12:47:02.800Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
     "title": "The Anthropic I.P.O. Will Change the Future of A.I.",
     "titleZh": "人擇IPO將改變人工智慧的未來",
@@ -4911,7 +4893,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html",
     "image": null,
-    "pushedAt": "2026-11-20T05:37:21.714Z"
+    "pushedAt": "2026-11-20T07:55:52.214Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
@@ -6270,7 +6252,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real",
     "image": null,
-    "pushedAt": "2026-11-20T05:36:04.250Z"
+    "pushedAt": "2026-11-20T07:54:36.232Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
@@ -6306,7 +6288,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T05:36:56.008Z"
+    "pushedAt": "2026-11-20T07:55:27.019Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
@@ -8061,7 +8043,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video",
     "image": null,
-    "pushedAt": "2026-11-20T05:36:30.369Z"
+    "pushedAt": "2026-11-20T07:55:01.609Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/insight-with-haslinda-amin-11-20-2026-video",
     "image": null,
     "pushedAt": "2026-11-20T07:54:07.909Z"
+  },
+  {
+    "id": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+    "title": "Burnham to sign EU reset deal in Brussels",
+    "titleZh": "伯納姆將在布魯塞爾簽署歐盟重置協議",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d08201b-1bef-448d-9d46-fe07faa8fe5b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T07:56:21.257Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
+    "title": "Castleberry-Hernandez: Saudi Action on Houthis Into 2027",
+    "titleZh": "Castleberry-Hernandez：沙烏地阿拉伯 2027 年對胡塞武裝採取的行動",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
+    "image": null,
+    "pushedAt": "2026-11-20T07:56:27.600Z"
   }
 ]
