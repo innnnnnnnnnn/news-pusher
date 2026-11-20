@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-    "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
-    "titleZh": "Anthropic 的公開亮相為企業權力搭建了“實驗”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/18biz-anthropic-governance/00biz-anthropic-finances-hfo-2-mjwl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T21:23:21.209Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-one-opening-address-video",
     "title": "Bloomberg New Economy Forum Day One Opening Address",
     "titleZh": "彭博新經濟論壇第一天開幕致辭",
@@ -2436,7 +2427,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a691cd4f-e6c5-4f8f-94e6-d32ae99ae705?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T19:34:59.209Z"
+    "pushedAt": "2026-11-20T22:00:04.663Z"
   },
   {
     "id": "https://www.ft.com/content/2166766c-b821-420b-b1e0-4e1cd481fcea",
@@ -8056,12 +8047,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
-    "title": "AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips",
+    "title": "AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips",
     "titleZh": "隨著美元貶值，人工智慧拋售提振了日圓和法郎的避險需求",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
     "image": null,
-    "pushedAt": "2026-11-20T19:34:35.548Z"
+    "pushedAt": "2026-11-20T21:59:40.627Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-drives-internet-providers-to-busiest-day-ever",
     "image": null,
     "pushedAt": "2026-11-20T21:59:14.551Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
+    "title": "Wall Street Nears Breaking Point as Fear Grips Global Markets",
+    "titleZh": "恐懼籠罩全球市場，華爾街接近崩盤點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
+    "image": null,
+    "pushedAt": "2026-11-20T22:00:33.244Z"
   }
 ]
