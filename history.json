@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-    "titleZh": "即時更新：習近平以罕見的姿態迎接川普抵達中國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T05:56:55.768Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
     "title": "ECB's Vujcic Says December Rate Hike Looks 'Very Likely' (Video)",
     "titleZh": "歐洲央行的 Vujcic 表示 12 月升息看起來「非常有可能」（影片）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/rand-poised-for-worst-week-since-march-as-carry-appeal-fades",
     "image": null,
     "pushedAt": "2026-11-20T10:08:27.249Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7",
+    "title": "UK plans to resist EU request to match tariffs on Chinese goods",
+    "titleZh": "英國計劃抵制歐盟對中國商品徵收關稅的要求",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-20T10:08:54.792Z"
   }
 ]
