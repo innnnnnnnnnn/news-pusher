@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
-    "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
-    "titleZh": "民主黨提名傑弗里斯為議長，創造歷史",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-jeffries-tfpq/18dc-jeffries-tfpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T02:00:31.246Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/brookfield-bets-110-million-that-rv-resorts-have-staying-power",
     "title": "Brookfield Bets $110 Million That RV Resorts Have Staying Power",
     "titleZh": "布魯克菲爾德押注 1.1 億美元，確保房車度假村具有持久力",
@@ -1734,7 +1725,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T12:44:15.235Z"
+    "pushedAt": "2026-11-20T15:08:52.179Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-s-mcbee-favors-data-center-spending-over-repaying-debt",
@@ -2526,7 +2517,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/cl3sj395w?ref=rss",
     "image": "https://cdn.flipso.com/p/cl3sj395w_square.jpg",
-    "pushedAt": "2026-11-20T12:45:28.330Z"
+    "pushedAt": "2026-11-20T15:10:02.634Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/new-world-shares-tank-54-to-head-for-worst-week-on-rights-issue",
@@ -3948,7 +3939,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "image": null,
-    "pushedAt": "2026-11-20T12:44:39.400Z"
+    "pushedAt": "2026-11-20T15:09:15.388Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/15/donald-trump-gets-a-warm-welcome-in-the-philippines",
@@ -3957,7 +3948,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/15/donald-trump-gets-a-warm-welcome-in-the-philippines",
     "image": null,
-    "pushedAt": "2026-11-20T12:45:03.810Z"
+    "pushedAt": "2026-11-20T15:09:38.606Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-needs-december-rate-hike-into-restrictive-zone-nagel-says",
     "image": null,
     "pushedAt": "2026-11-20T15:08:25.952Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
+    "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
+    "titleZh": "C.F.T.C.官員考慮調查川普的迷因幣，然後遭到打擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T15:10:29.790Z"
   }
 ]
