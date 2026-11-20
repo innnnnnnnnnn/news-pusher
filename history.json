@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/colombia-touts-43-billion-investment-haul-amid-fiscal-strain",
-    "title": "Colombia Touts $43 Billion in Investments Amid Fiscal Strain",
-    "titleZh": "哥倫比亞在財政緊張之際尋求 430 億美元投資",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/colombia-touts-43-billion-investment-haul-amid-fiscal-strain",
-    "image": null,
-    "pushedAt": "2026-11-19T22:06:43.490Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers",
-    "title": "Microsoft Vows to Pay Own Way to Power Data Centers",
-    "titleZh": "微軟誓言以自己的方式為資料中心供電",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers",
-    "image": null,
-    "pushedAt": "2026-11-18T19:38:59.573Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
     "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
     "titleZh": "傑夫貝佐斯表示他幫助挑選羅伯特帕丁森作為新詹姆斯龐德",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
     "pushedAt": "2026-11-20T19:26:06.460Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+    "title": "Trump Inc is in free fall",
+    "titleZh": "川普公司正在自由落體",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+    "image": null,
+    "pushedAt": "2026-11-20T19:26:33.939Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html",
+    "title": "Democrats Strengthen the Legal Line With Attorneys General Triumphs",
+    "titleZh": "民主黨憑藉總檢察長的勝利加強了法律防線",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html",
+    "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-attygen-sweep-01-qclg/07nat-attygen-sweep-01-qclg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T19:26:38.900Z"
   }
 ]
