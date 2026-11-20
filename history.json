@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1e37b3de-6691-4edc-a3d3-e96eb73affed",
-    "title": "Citi settles sex harassment case alleging threats to managing director",
-    "titleZh": "花旗就董事總經理受到威脅的性騷擾案達成和解",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1e37b3de-6691-4edc-a3d3-e96eb73affed?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbac76426-2f4f-4e8f-91e0-691f4119838b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-18T22:46:09.545Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/opinion/greed-youth-sports.html",
     "title": "The Greed of Youth Sports Has No Limits",
     "titleZh": "青少年運動貪婪無極限",
@@ -8484,7 +8475,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
     "image": null,
-    "pushedAt": "2026-11-20T17:32:18.582Z"
+    "pushedAt": "2026-11-20T19:50:03.036Z"
   },
   {
     "id": "https://www.ft.com/content/688949b0-f395-4d56-82ea-b55789849c33",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-high-conviction-through-novel-strategies-video",
     "image": null,
     "pushedAt": "2026-11-20T19:46:26.649Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video",
+    "title": "How Tokenization Could Change the ETF Market",
+    "titleZh": "代幣化如何改變 ETF 市場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video",
+    "image": null,
+    "pushedAt": "2026-11-20T19:50:28.938Z"
   }
 ]
