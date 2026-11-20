@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/alstom-falls-after-expectations-of-equity-raise-to-reduce-debt",
-    "title": "Alstom Falls on Expectations of Equity Raise to Reduce Debt",
-    "titleZh": "阿爾斯通因增股減少債務預期而股價下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/alstom-falls-after-expectations-of-equity-raise-to-reduce-debt",
-    "image": null,
-    "pushedAt": "2026-11-18T11:24:40.591Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be",
-    "title": "British energy price cap set to rise to over £2,000 in January",
-    "titleZh": "英國能源價格上限將於 1 月提高至 2,000 英鎊以上",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T04:23:34.788Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7e21a3af-94eb-4f89-8549-71f032b2215b",
-    "title": "UK’s October inflation rise remains largely energy related",
-    "titleZh": "英國 10 月通膨上升主要與能源相關",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7e21a3af-94eb-4f89-8549-71f032b2215b",
-    "image": null,
-    "pushedAt": "2026-11-20T04:23:58.474Z"
-  },
-  {
     "id": "https://flipso.com/p/pfg7lsyqk",
     "title": "The Lasting Influence of John Berger",
     "titleZh": "約翰·伯傑的持久影響",
@@ -2517,7 +2490,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-20T02:47:26.538Z"
+    "pushedAt": "2026-11-20T05:03:49.856Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages",
@@ -8385,7 +8358,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd76f56c3-41d4-4080-82dc-3dc865575c36.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T02:47:03.116Z"
+    "pushedAt": "2026-11-20T05:03:24.892Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/thailand-opens-door-to-us-pork-raising-risks-for-farmers",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-20T05:02:55.438Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+    "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+    "titleZh": "峰會讓普丁贏得他渴望的勝利：與超級大國平起平坐",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T05:04:20.226Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+    "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
+    "titleZh": "Z 世代正在推動全球政治變革，為極左派和極右派提供協助",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T05:04:24.126Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+    "title": "Easing Back From Brexit: What to Expect at U.K. Summit With E.U.",
+    "titleZh": "放鬆脫歐：英國與歐盟高峰會的預期",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-02-jkvb/20int-eu-uk-summit-02-jkvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-20T05:04:27.310Z"
   }
 ]
