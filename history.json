@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
-    "title": "That ‘SNL’ Sister Sketch: It’s More Like Nonfiction",
-    "titleZh": "《SNL》姊妹素描：它更像是非小說類作品",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
-    "image": null,
-    "pushedAt": "2026-11-19T11:00:22.165Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
     "title": "Senator Bill Cassidy Blocks Trump Pick to Head Science Agency",
     "titleZh": "參議員比爾·卡西迪阻止川普提名科學機構負責人",
@@ -4704,7 +4695,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T14:50:26.305Z"
+    "pushedAt": "2026-11-20T17:17:21.343Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
@@ -7403,8 +7394,8 @@
     "titleZh": "伯納姆將在布魯塞爾簽署歐盟重置協議",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa253ca11-63d0-4500-b5a3-a867b6805c63.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T14:50:50.951Z"
+    "image": null,
+    "pushedAt": "2026-11-20T17:17:45.011Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F929b722c-5092-4882-ac41-294124a572b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-20T17:16:54.599Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-surveillance-11-20-2026-video",
+    "title": "Global Stocks Fall as Anthropic IPO Fails to Revive AI Trade",
+    "titleZh": "由於 Anthropic IPO 未能重振人工智慧貿易，全球股市下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-surveillance-11-20-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-20T17:18:10.807Z"
   }
 ]
