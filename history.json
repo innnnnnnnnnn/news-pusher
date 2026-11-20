@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share-video",
-    "title": "Anthropic Is Said to Price IPO at $83 Per Share",
-    "titleZh": "據稱，Anthropic 的 IPO 定價為每股 83 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share-video",
-    "image": null,
-    "pushedAt": "2026-11-19T00:15:39.240Z"
-  },
-  {
     "id": "https://flipso.com/p/8jtuk93ab",
     "title": "Chemistry is Actually Geometry",
     "titleZh": "化學其實是幾何",
@@ -2400,7 +2391,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Iran-Attacks-phjw/19Biz-Iran-Attacks-phjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T19:31:54.893Z"
+    "pushedAt": "2026-11-20T21:55:20.714Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
@@ -3786,7 +3777,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T19:31:08.402Z"
+    "pushedAt": "2026-11-20T21:54:34.287Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
@@ -6486,7 +6477,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "image": null,
-    "pushedAt": "2026-11-20T19:31:31.615Z"
+    "pushedAt": "2026-11-20T21:54:57.289Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
@@ -8592,7 +8583,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aa21ce02-f438-4aa2-820c-f4efbc46859f",
     "image": null,
-    "pushedAt": "2026-11-20T19:32:49.960Z"
+    "pushedAt": "2026-11-20T21:55:43.953Z"
   },
   {
     "id": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e",
@@ -8600,8 +8591,8 @@
     "titleZh": "這是感恩中國的季節",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T19:32:54.649Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0efab913-9da5-4976-be72-a31e40b1c16e.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T21:56:10.112Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-20T21:54:08.306Z"
+  },
+  {
+    "id": "https://www.nytimes.com/article/stock-market-correction.html",
+    "title": "What Is a Stock Market Correction?",
+    "titleZh": "什麼是股市調整？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/article/stock-market-correction.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-correction-explainer-promo/20biz-correction-explainer-promo-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-20T21:56:40.757Z"
   }
 ]
