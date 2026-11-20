@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html",
-    "title": "ECB President Christine Lagarde on Why She’s Stepping Down Early",
-    "titleZh": "歐洲央行總裁克里斯蒂娜·拉加德談為何提前卸任",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-lagarde-gpfm/18dealbook-summit-lagarde-gpfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T04:43:23.665Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/business/dealbook/ai-bubble-dealbook-summit.html",
     "title": "A.I. Bubble Talk Enters the Conversation at DealBook Summit",
     "titleZh": "人工智慧. Bubble Talk 进入 DealBook 峰会对话",
@@ -1878,7 +1869,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18vid-db-summit-coplan-vid-cover-gkcz/18vid-db-summit-coplan-vid-cover-gkcz-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-20T13:41:56.800Z"
+    "pushedAt": "2026-11-20T16:03:27.026Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
@@ -3426,7 +3417,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T13:40:19.216Z"
+    "pushedAt": "2026-11-20T16:02:39.488Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
@@ -3435,7 +3426,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
     "image": "https://static01.nyt.com/images/2026/11/20/business/00anthropic-MOSKOVITZ/00anthropic-MOSKOVITZ-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T13:41:32.724Z"
+    "pushedAt": "2026-11-20T16:03:03.094Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/imf-chief-little-bit-more-ai-correction-debt-risk-rise-video",
@@ -6171,7 +6162,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
     "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T13:42:21.134Z"
+    "pushedAt": "2026-11-20T16:03:50.877Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-china-is-still-winning-the-export-race-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "image": null,
     "pushedAt": "2026-11-20T15:56:15.198Z"
+  },
+  {
+    "id": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60",
+    "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
+    "titleZh": "安迪·伯納姆開始透過具有里程碑意義的歐盟協議來撤銷英國脫歐",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd72f2ef8-4328-4e22-9ed5-9f4b65c69245.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-20T16:04:17.888Z"
   }
 ]
