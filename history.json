@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7aea68e4-0164-4324-b66f-43ab1a24337d",
-    "title": "Asda explores deals as UK supermarkets brace for merger wave",
-    "titleZh": "超市為合併浪潮做準備之際，阿斯達探索收購",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7aea68e4-0164-4324-b66f-43ab1a24337d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-18T15:24:06.487Z"
-  },
-  {
     "id": "https://www.ft.com/content/4395fce6-500b-4161-a078-9e9affca435f",
     "title": "Julius Baer faces renewed legal battle after ex-banker’s fraud conviction",
     "titleZh": "前銀行家詐欺定罪後，瑞士寶盛面臨新的法律訴訟",
@@ -2535,7 +2526,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T22:24:33.832Z"
+    "pushedAt": "2026-11-20T00:46:12.677Z"
   },
   {
     "id": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56",
@@ -7089,7 +7080,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-Rohingya-Photos-01-cpzw/19int-Rohingya-Photos-01-cpzw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T22:23:45.370Z"
+    "pushedAt": "2026-11-20T00:45:24.983Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-china-hong-kong.html",
@@ -7098,7 +7089,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-china-hong-kong.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-china-fgbw/19biz-anthropic-china-fgbw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T22:24:09.571Z"
+    "pushedAt": "2026-11-20T00:45:49.163Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
     "image": null,
     "pushedAt": "2026-11-20T00:44:08.011Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+    "title": "Anthropic Shares Drop Post-Market on Apple’s AI Agent Plans",
+    "titleZh": "蘋果人工智慧代理計畫上市後，Anthropic 股價下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+    "image": null,
+    "pushedAt": "2026-11-20T00:46:37.710Z"
   }
 ]
