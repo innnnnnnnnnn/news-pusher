@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
-    "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
-    "titleZh": "觀看：大衛·埃里森談埃隆·馬斯克對 Skydance 的投資",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-ellison-vid-PROMO-kbwj/18DB-ellison-vid-PROMO-kbwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T20:45:47.346Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-s-valuation-seems-justified-thakker-video",
-    "title": "Anthropic’s Valuation Seems Justified: Thakker",
-    "titleZh": "Anthropic 的估值似乎合理：Thakker",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-s-valuation-seems-justified-thakker-video",
-    "image": null,
-    "pushedAt": "2026-11-18T20:51:59.506Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-18/flight-to-quality-in-ai-financing-raghavan-video",
     "title": "Flight To Quality in AI Financing: Raghavan",
     "titleZh": "追求人工智慧融資的品質：Raghavan",
@@ -6018,7 +6000,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T18:06:40.327Z"
+    "pushedAt": "2026-11-20T20:31:48.122Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ai-spurs-funding-needs-as-top-japan-power-producer-weighs-ipo",
@@ -8502,7 +8484,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video",
     "image": null,
-    "pushedAt": "2026-11-20T18:07:07.520Z"
+    "pushedAt": "2026-11-20T20:32:11.220Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14bd0d8b-a71f-4179-98fd-99aa51694bce.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-20T20:31:22.216Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
+    "title": "SEC Moves to Directly Oversee Database Criticized by Wall Street",
+    "titleZh": "美國證券交易委員會直接監管受到華爾街批評的資料庫",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
+    "image": null,
+    "pushedAt": "2026-11-20T20:32:36.440Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/trillions-podcast-live-etfs-in-depth-the-big-three-video",
+    "title": "Trillions Podcast Live From Bloomberg ETFs in Depth: The Big Three",
+    "titleZh": "彭博 ETF 深度直播播客：三巨頭",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trillions-podcast-live-etfs-in-depth-the-big-three-video",
+    "image": null,
+    "pushedAt": "2026-11-20T20:32:40.653Z"
   }
 ]
