@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/lithium-miner-warns-of-perils-facing-us-critical-minerals-push",
-    "title": "Lithium CEO Warns of Perils Facing US Critical Minerals Push",
-    "titleZh": "鋰礦商警告美國關鍵礦產開發面臨危險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/lithium-miner-warns-of-perils-facing-us-critical-minerals-push",
-    "image": null,
-    "pushedAt": "2026-11-18T15:18:01.816Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
     "title": "Tech Stocks Advance as Investors Look to Anthropic IPO Test",
     "titleZh": "英偉達業績緩解人工智慧貿易擔憂，美國股指期貨上漲",
@@ -3237,7 +3228,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T08:51:18.743Z"
+    "pushedAt": "2026-11-20T11:06:36.524Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
@@ -3246,7 +3237,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T08:51:43.506Z"
+    "pushedAt": "2026-11-20T11:07:00.952Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
@@ -7305,7 +7296,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
     "image": null,
-    "pushedAt": "2026-11-20T08:52:09.199Z"
+    "pushedAt": "2026-11-20T11:07:25.367Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
@@ -7314,7 +7305,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "image": null,
-    "pushedAt": "2026-11-20T08:52:34.479Z"
+    "pushedAt": "2026-11-20T11:07:50.305Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/podcasts/the-headlines/fear-humiliation-nvidia-google-spirit-airlines-data-quiz.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20theheadlines-huang-wclj/20theheadlines-huang-wclj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-20T11:06:09.364Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
+    "title": "How the U.S. Economy Is Tied to A.I.",
+    "titleZh": "美國經濟如何與人工智慧連結在一起",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
+    "image": null,
+    "pushedAt": "2026-11-20T11:08:17.647Z"
   }
 ]
