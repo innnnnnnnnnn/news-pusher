@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-18/credit-selloff-could-be-a-stock-picker-s-market-video",
-    "title": "Credit Selloff Lures Bargain Hunters to ‘Stock Picker’s Market’",
-    "titleZh": "信貸拋售吸引逢低買入者進入“選股市場”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-18/credit-selloff-could-be-a-stock-picker-s-market-video",
-    "image": null,
-    "pushedAt": "2026-11-18T21:23:34.050Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal",
-    "title": "Palo Alto Networks Buys Applied Compute in $4.5 Billion Deal",
-    "titleZh": "Palo Alto Networks 將以 45 億美元收購 Applied Compute",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal",
-    "image": null,
-    "pushedAt": "2026-11-19T14:54:24.627Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
     "title": "Patching the AI Trade",
     "titleZh": "修補人工智慧貿易",
@@ -879,7 +861,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T19:04:49.386Z"
+    "pushedAt": "2026-11-20T21:27:38.895Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
@@ -3642,7 +3624,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-Rohingya-Photos-01-cpzw/19int-Rohingya-Photos-01-cpzw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T19:05:12.537Z"
+    "pushedAt": "2026-11-20T21:28:02.177Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-china-hong-kong.html",
@@ -7575,7 +7557,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-20T19:04:26.233Z"
+    "pushedAt": "2026-11-20T21:27:15.465Z"
   },
   {
     "id": "https://www.ft.com/content/42f825e9-3ee1-4285-8194-3445517e8c14",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/vix-hits-highest-level-since-2025-tariff-turmoil-as-volatility-warning-flash",
     "image": null,
     "pushedAt": "2026-11-20T21:26:23.155Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
+    "title": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum",
+    "titleZh": "高盛表示，隨著恐慌指數接近最高點，股票拋售仍持續",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
+    "image": null,
+    "pushedAt": "2026-11-20T21:28:28.566Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-20/market-calm-hid-widespread-losses-schwab-s-sonders-says-video",
+    "title": "Market Calm Hid Widespread Losses Under Surface, Schwab's Sonders Says",
+    "titleZh": "施瓦布的桑德斯表示，市場平靜掩蓋了廣泛的損失",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/market-calm-hid-widespread-losses-schwab-s-sonders-says-video",
+    "image": null,
+    "pushedAt": "2026-11-20T21:28:32.902Z"
   }
 ]
