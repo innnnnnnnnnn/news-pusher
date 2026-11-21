@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-    "title": "How the War in Iran Will Remake the Global Energy Order",
-    "titleZh": "伊朗戰爭將如何重塑全球能源秩序",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T09:42:55.367Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
     "title": "Inside Google's AI Race with Ruth Porat",
     "titleZh": "與 Ruth Porat 一起深入了解 Google 的人工智慧競賽",
@@ -744,7 +735,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T13:02:57.855Z"
+    "pushedAt": "2026-11-21T15:10:42.849Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
@@ -5595,7 +5586,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T13:02:08.294Z"
+    "pushedAt": "2026-11-21T15:09:53.641Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
@@ -5604,7 +5595,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T13:02:33.197Z"
+    "pushedAt": "2026-11-21T15:10:18.306Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
     "image": null,
     "pushedAt": "2026-11-21T14:53:30.017Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-21/gta-6-the-blockbuster-that-is-changing-gaming-forever-video",
+    "title": "GTA 6: The Blockbuster That is Changing Gaming Forever",
+    "titleZh": "GTA 6：永遠改變遊戲界的大作",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/gta-6-the-blockbuster-that-is-changing-gaming-forever-video",
+    "image": null,
+    "pushedAt": "2026-11-21T15:11:09.843Z"
   }
 ]
