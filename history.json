@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-    "title": "China Sells $2 Billion Bonds at Same Yield as US Treasuries",
-    "titleZh": "中國在香港發行高達20億美元的債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-    "image": null,
-    "pushedAt": "2026-11-20T03:19:38.390Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
-    "title": "Copper Rebounds After Rout as Physical Tightness Persists",
-    "titleZh": "由於實物緊張持續，銅價在暴跌後反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
-    "image": null,
-    "pushedAt": "2026-11-19T19:48:19.083Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi",
     "title": "China Airport Greetings Show How Xi Views Trump, Putin, Takaichi",
     "titleZh": "中國機場問候顯示習近平如何看待川普、普丁、高市",
@@ -6954,7 +6936,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "image": null,
-    "pushedAt": "2026-11-21T07:56:22.930Z"
+    "pushedAt": "2026-11-21T10:04:23.325Z"
   },
   {
     "id": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
     "image": null,
     "pushedAt": "2026-11-21T10:03:56.013Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+    "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
+    "titleZh": "馬爾登鹽的真實性受到質疑，令美食家震驚",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-salt-02-tjmz/20xp-salt-02-tjmz-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-21T10:04:49.435Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
+    "title": "A Butler School in the Netherlands Offers Entry Into a Gilded World",
+    "titleZh": "荷蘭的一所管家學校提供進入鍍金世界的機會",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-butlerschool-promo-jvwm/00xp-butlerschool-promo-jvwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T10:04:54.330Z"
   }
 ]
