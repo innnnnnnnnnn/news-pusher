@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b9f515c3-28c5-4227-bae5-1dd80f86e4c2",
-    "title": "Burnham heading for battle with Brexit ‘zombies’ over move to adopt EU laws",
-    "titleZh": "伯納姆因採取歐盟法律而與英國脫歐「殭屍」展開鬥爭",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b9f515c3-28c5-4227-bae5-1dd80f86e4c2?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa292b400-7c46-4fc0-980e-05402afc0b66.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T17:09:22.466Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-asia-trade-11-19-2026-video",
     "title": "Anthropic IPO Raises $107.3B to Top SpaceX's Record Debut",
     "titleZh": "Anthropic IPO 籌集 107.3B 美元，創下 SpaceX 首次亮相紀錄",
@@ -1743,7 +1734,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
     "image": null,
-    "pushedAt": "2026-11-21T15:49:57.586Z"
+    "pushedAt": "2026-11-21T17:57:11.467Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
@@ -1752,7 +1743,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
     "image": null,
-    "pushedAt": "2026-11-21T15:50:22.100Z"
+    "pushedAt": "2026-11-21T17:57:37.061Z"
   },
   {
     "id": "https://flipso.com/p/gytoio04l",
@@ -3390,7 +3381,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
     "image": null,
-    "pushedAt": "2026-11-21T15:51:17.076Z"
+    "pushedAt": "2026-11-21T17:58:27.533Z"
   },
   {
     "id": "https://flipso.com/p/lyoq3jqck",
@@ -8907,7 +8898,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
     "image": null,
-    "pushedAt": "2026-11-21T15:50:48.948Z"
+    "pushedAt": "2026-11-21T17:58:02.059Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/2026-11-19-up-transit-grants-index/2026-11-19-up-transit-grants-index-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T17:56:43.294Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+    "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+    "titleZh": "Anthropic 未能平息人工智慧的不安，放棄廚房過感恩節",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-21T17:58:55.475Z"
   }
 ]
