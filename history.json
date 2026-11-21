@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
-    "title": "Putin renews his warm bond with Xi.",
-    "titleZh": "普丁與習近平重修舊好。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-PUTIN-SHENZHEN-tgbm/18trump-summits-PUTIN-SHENZHEN-tgbm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T07:09:15.330Z"
-  },
-  {
     "id": "https://www.ft.com/content/e3364118-7282-4faa-9686-e56e854dab7d",
     "title": "FirstFT: Leak of 15mn Deutsche Bank files exposes systemic failures",
     "titleZh": "FirstFT：德意志銀行 1,500 萬份文件外洩揭露系統性故障",
@@ -2706,7 +2697,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai",
     "image": "https://static01.nyt.com/images/2026/11/07/business/07evening-nl-amodei-inyt/00biz-amodei-profile-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-21T05:34:40.236Z"
+    "pushedAt": "2026-11-21T07:58:03.127Z"
   },
   {
     "id": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/germany-s-brunnermeier-to-start-at-ecb-in-june-klingbeil-says",
     "image": null,
     "pushedAt": "2026-11-21T07:42:44.562Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-21/paschi-deems-intesa-s-offer-fair-yet-value-not-fully-reflected",
+    "title": "Paschi Deems Intesa’s Offer Fair Yet Value Not Fully Reflected",
+    "titleZh": "Paschi 認為 Intesa 的報價公平，但價值並未充分體現",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/paschi-deems-intesa-s-offer-fair-yet-value-not-fully-reflected",
+    "image": null,
+    "pushedAt": "2026-11-21T07:58:28.641Z"
   }
 ]
