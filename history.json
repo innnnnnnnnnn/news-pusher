@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
-    "title": "French Risks Have Traders Betting Euro Fall Is Far From Over",
-    "titleZh": "法國風險令交易員押注歐元下滑遠未結束",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
-    "image": null,
-    "pushedAt": "2026-11-19T13:14:45.602Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
     "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
     "titleZh": "剛果伊波拉疫情：恐懼與不信任如何推動社區傳播",
@@ -699,7 +690,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/s7o73jmp0?ref=rss",
     "image": "https://cdn.flipso.com/p/s7o73jmp0_square.jpg",
-    "pushedAt": "2026-11-21T21:04:57.141Z"
+    "pushedAt": "2026-11-21T23:03:51.933Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
@@ -708,7 +699,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-colombia-president-pjvz/19int-colombia-president-pjvz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T21:05:46.871Z"
+    "pushedAt": "2026-11-21T23:04:16.596Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
@@ -717,7 +708,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T21:06:11.704Z"
+    "pushedAt": "2026-11-21T23:04:40.956Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
     "image": null,
     "pushedAt": "2026-11-21T21:09:07.354Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+    "title": "What to Know About the Planned Explosion in Iowa",
+    "titleZh": "關於愛荷華州計劃爆炸的了解",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21CLI-IOWA-FAQ-tpqc/21CLI-IOWA-FAQ-tpqc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T23:05:09.019Z"
   }
 ]
