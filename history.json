@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
-    "title": "‘I’m Not MAGA’: Musk Plays Down G.O.P. Support After Midterm Loss",
-    "titleZh": "伊隆馬斯克淡化共和黨中期虧損後的支持",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-musk-vltw/18dealbook-summit-musk-vltw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T01:49:15.392Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
     "title": "The Biggest Winners in Anthropic’s Landmark Public Offering",
     "titleZh": "Anthropic 劃時代公開發行中的最大贏家",
@@ -3066,7 +3057,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion",
     "image": null,
-    "pushedAt": "2026-11-21T06:52:30.033Z"
+    "pushedAt": "2026-11-21T08:59:21.777Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
@@ -6531,7 +6522,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ma259pu0k?ref=rss",
     "image": "https://cdn.flipso.com/p/ma259pu0k_square.jpg",
-    "pushedAt": "2026-11-21T06:52:54.503Z"
+    "pushedAt": "2026-11-21T08:59:45.635Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video",
@@ -7863,7 +7854,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/r3hx4i0t8?ref=rss",
     "image": "https://cdn.flipso.com/p/r3hx4i0t8_square.jpg",
-    "pushedAt": "2026-11-21T06:52:06.265Z"
+    "pushedAt": "2026-11-21T08:58:57.986Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
@@ -8898,7 +8889,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89f61703-abb6-42c6-8046-92cc485967fe.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-21T06:53:21.592Z"
+    "pushedAt": "2026-11-21T09:00:10.233Z"
   },
   {
     "id": "https://www.ft.com/content/0258acaf-1a0b-4fc9-86dc-77d5d00c722d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
     "image": null,
     "pushedAt": "2026-11-21T08:58:31.290Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
+    "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
+    "titleZh": "奇怪的事：人工智慧如何重塑中國產業政策（Podcast）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
+    "image": null,
+    "pushedAt": "2026-11-21T09:00:38.426Z"
   }
 ]
