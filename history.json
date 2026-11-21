@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452",
-    "title": "Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses",
-    "titleZh": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T12:08:27.233Z"
-  },
-  {
     "id": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d",
     "title": "Apollo scraps planned $2bn loan to Man City owner after rule breaches",
     "titleZh": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
@@ -4047,7 +4038,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "image": null,
-    "pushedAt": "2026-11-21T14:14:16.700Z"
+    "pushedAt": "2026-11-21T16:28:16.775Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
@@ -5739,7 +5730,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
     "image": null,
-    "pushedAt": "2026-11-21T14:14:41.320Z"
+    "pushedAt": "2026-11-21T16:28:42.265Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ivory-coast-to-raise-mineral-royalty-rates-before-imf-talks",
@@ -8007,7 +7998,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T14:15:06.530Z"
+    "pushedAt": "2026-11-21T16:29:07.103Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
@@ -8295,7 +8286,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2006ed77-856d-441e-a877-5f8125b75e95?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T14:13:02.613Z"
+    "pushedAt": "2026-11-21T16:27:02.285Z"
   },
   {
     "id": "https://www.ft.com/content/b647fcba-e5e6-4ca2-8417-8c9146eac39e",
@@ -8304,7 +8295,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b647fcba-e5e6-4ca2-8417-8c9146eac39e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T14:13:27.325Z"
+    "pushedAt": "2026-11-21T16:27:26.822Z"
   },
   {
     "id": "https://www.ft.com/content/67adfdc6-4cf9-4f7b-b751-f631535862d8",
@@ -8313,7 +8304,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/67adfdc6-4cf9-4f7b-b751-f631535862d8?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T14:13:51.900Z"
+    "pushedAt": "2026-11-21T16:27:51.449Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects",
@@ -8736,7 +8727,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
     "image": null,
-    "pushedAt": "2026-11-21T14:12:37.172Z"
+    "pushedAt": "2026-11-21T16:26:37.431Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T16:26:08.693Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+    "titleZh": "在法國憤怒的秋天，電視新聞頻道被指責攪局",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T16:29:32.138Z"
   }
 ]
