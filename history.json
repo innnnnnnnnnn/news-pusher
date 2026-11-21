@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32",
-    "title": "Gold loses its lustre for investors",
-    "titleZh": "黃金對投資者失去吸引力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80d46f25-fa13-44bf-bf4f-6ec5bb0190d7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T17:20:48.093Z"
-  },
-  {
     "id": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208",
     "title": "Palm oil’s rise will put packaged-food producers in the shade",
     "titleZh": "棕櫚油的上漲將使包裝食品生產商黯然失色",
@@ -1572,7 +1563,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T17:18:58.803Z"
+    "pushedAt": "2026-11-21T19:21:19.116Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
@@ -3300,7 +3291,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "image": null,
-    "pushedAt": "2026-11-21T17:18:32.783Z"
+    "pushedAt": "2026-11-21T19:20:53.670Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-goolsbee-says-all-options-on-fomc-table-amid-hot-inflation",
@@ -4794,7 +4785,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T17:19:24.012Z"
+    "pushedAt": "2026-11-21T19:21:43.920Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/israel-cheaper-air-defense-david-sling-iran-stunner-interceptor-patriot-rafael-rtx",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
     "image": null,
     "pushedAt": "2026-11-21T19:13:20.966Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
+    "title": "The Army Plans to Blow Up Tons of Toxic Explosives. It Rejected a Safer Option.",
+    "titleZh": "陸軍計劃引爆大量有毒炸藥。它拒絕了更安全的選擇。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-21T19:22:13.213Z"
   }
 ]
