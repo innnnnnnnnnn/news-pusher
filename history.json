@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a",
-    "title": "Angry America and its housing market",
-    "titleZh": "憤怒的美國及其房地產市場",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2e5c47c-2ba7-42e4-ae0c-1860fc37dd69.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-19T21:35:01.848Z"
-  },
-  {
     "id": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452",
     "title": "Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses",
     "titleZh": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T16:25:38.920Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+    "titleZh": "誰是墨西哥毒梟「矮子伊西德羅」？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T16:26:08.693Z"
   }
 ]
