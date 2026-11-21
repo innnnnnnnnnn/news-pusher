@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff",
-    "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
-    "titleZh": "由於人工智慧暴露了漏洞，城市公司被要求加強網路防禦",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T09:25:50.899Z"
-  },
-  {
     "id": "https://www.ft.com/content/d6f65483-2c8f-46eb-89d2-c98270ad4c88",
     "title": "‘GTA VI’ shows the power of a blockbuster",
     "titleZh": "《GTA VI》展現了大片的力量",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
     "image": null,
     "pushedAt": "2026-11-21T05:18:30.981Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-21/s-p-upgrades-zambia-as-robust-growth-narrower-fiscal-gaps-seen",
+    "title": "S&P Upgrades Zambia as Robust Growth, Narrower Fiscal Gaps Seen",
+    "titleZh": "標準普爾升級贊比亞經濟強勁、財政缺口縮小",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/s-p-upgrades-zambia-as-robust-growth-narrower-fiscal-gaps-seen",
+    "image": null,
+    "pushedAt": "2026-11-21T05:19:00.451Z"
   }
 ]
