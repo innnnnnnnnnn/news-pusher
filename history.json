@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d",
-    "title": "Apollo scraps planned $2bn loan to Man City owner after rule breaches",
-    "titleZh": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T14:46:22.432Z"
-  },
-  {
     "id": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619",
     "title": "AI advances at Anthropic trigger new safety fears on eve of IPO",
     "titleZh": "Anthropic 的人工智慧進步在 IPO 前夕引發新的安全擔憂",
@@ -2076,7 +2067,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T14:15:31.770Z"
+    "pushedAt": "2026-11-21T16:30:00.772Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
@@ -2085,7 +2076,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
     "image": null,
-    "pushedAt": "2026-11-21T14:16:21.927Z"
+    "pushedAt": "2026-11-21T16:30:50.766Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
@@ -2094,7 +2085,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "image": null,
-    "pushedAt": "2026-11-21T14:16:46.904Z"
+    "pushedAt": "2026-11-21T16:31:15.314Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
@@ -2103,7 +2094,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
     "image": null,
-    "pushedAt": "2026-11-21T14:17:12.057Z"
+    "pushedAt": "2026-11-21T16:31:39.986Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
@@ -6450,7 +6441,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T14:15:56.728Z"
+    "pushedAt": "2026-11-21T16:30:26.041Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/what-caused-the-us-tech-outages-why-experts-expect-more",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T16:29:32.138Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
+    "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+    "titleZh": "法官批准農達致癌索賠 70 億美元和解金",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T16:32:04.840Z"
   }
 ]
