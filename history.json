@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
-    "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
-    "titleZh": "MTA 巴士的影片捕捉了致命的布魯克林大樓倒塌前的瞬間",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
-    "image": null,
-    "pushedAt": "2026-11-19T14:50:09.691Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/science/inca-children-drugs-cocaine-ayahuasca-sacrifices.html",
     "title": "Inca Children Were Given Cocaine and Ayahuasca Before Being Sacrificed",
     "titleZh": "印加兒童在犧牲前被給予可卡因和死藤水",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/us/fbi-investigation-fulton-county-2020-election.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-fulton-election-doj-SWAP-qjph/20pol-fulton-election-doj-SWAP-qjph-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T01:36:53.416Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+    "title": "Takeaways From Trump’s Post-Trip News Conference",
+    "titleZh": "川普出訪後記者會的要點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T01:51:42.417Z"
   }
 ]
