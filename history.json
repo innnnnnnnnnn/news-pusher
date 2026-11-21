@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-    "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
-    "titleZh": "阿拉斯加州共和黨以微弱優勢擊敗獨立眾議院候選人",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-alaska-at-large-hfo-cpml/00pol-alaska-at-large-hfo-cpml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T09:54:51.117Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/rakuten-bond-spreads-widen-on-data-leak-ahead-of-new-debt-sale",
     "title": "Rakuten Bond Spreads Widen on Data Leak Ahead of Debt Sale",
     "titleZh": "新債發售前資料外洩導致樂天債券利差擴大",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F318aa50a-ecb3-422c-893e-fd7f208ededf.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-21T11:46:46.742Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-21/new-us-ai-chip-rules-against-china-threaten-pain-for-southeast-asia",
+    "title": "New US AI Chip Rules Against China Threaten Pain for Southeast Asia",
+    "titleZh": "美國針對中國的新人工智慧晶片規則可能為東南亞帶來痛苦",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-21/new-us-ai-chip-rules-against-china-threaten-pain-for-southeast-asia",
+    "image": null,
+    "pushedAt": "2026-11-21T11:47:16.539Z"
   }
 ]
