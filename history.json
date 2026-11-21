@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
-    "title": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
-    "titleZh": "RRJ 領導的財團購買澳洲煤礦公司 6.19 億美元的債務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
-    "image": null,
-    "pushedAt": "2026-11-19T05:37:37.266Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
-    "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
-    "titleZh": "中國是否在歡迎APEC期間向日本高市傳遞了音樂訊息？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/19visualUploader-43868-cover/19visualUploader-43868-cover-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-21T08:16:13.729Z"
-  },
-  {
     "id": "https://www.ft.com/content/82e63f96-3a5e-47d1-9fca-9f3401903abe",
     "title": "Hong Kong trading house Jardines weighs first private equity fund",
     "titleZh": "香港怡和貿易公司考慮推出首支私募股權基金",
@@ -1743,7 +1725,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-media-01-tqhf/19trump-summits-media-01-tqhf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T10:01:28.411Z"
+    "pushedAt": "2026-11-21T12:12:05.643Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
@@ -7305,7 +7287,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
     "image": null,
-    "pushedAt": "2026-11-21T10:01:04.499Z"
+    "pushedAt": "2026-11-21T12:11:40.543Z"
   },
   {
     "id": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87",
@@ -8133,7 +8115,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T10:01:52.587Z"
+    "pushedAt": "2026-11-21T12:12:30.638Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/weather/california-thanksgiving-storm-king-tides.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
     "image": null,
     "pushedAt": "2026-11-21T12:04:57.761Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
+    "title": "The Sisterhood Rocks!",
+    "titleZh": "姐妹情誼震撼！",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/opinion/21dowd-temp/21dowd-temp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T12:12:57.492Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
+    "title": "Trump, Xi and Putin’s New World Order",
+    "titleZh": "川普、習近平和普丁的世界新秩序",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/opinion/21opinions-roundtable-image/21opinions-roundtable-image-mediumSquareAt3X-v2.png",
+    "pushedAt": "2026-11-21T12:13:02.155Z"
   }
 ]
