@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
-    "title": "The Biggest Winners in Anthropic’s Landmark Public Offering",
-    "titleZh": "Anthropic 劃時代公開發行中的最大贏家",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
-    "image": null,
-    "pushedAt": "2026-11-20T03:14:35.649Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
     "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
     "titleZh": "Blue Owl 計劃為亞馬遜租賃的資料中心發行 5.13 億美元的商業不動產抵押擔保證券 (CMBS)",
@@ -3102,7 +3093,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-camps-reax-gwpz/19myanmar-icj-camps-reax-gwpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T06:53:49.218Z"
+    "pushedAt": "2026-11-21T09:01:06.224Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/nvidia-is-least-of-ai-bulls-problems-says-noble-video",
@@ -3120,7 +3111,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/sysc76w07?ref=rss",
     "image": "https://cdn.flipso.com/p/sysc76w07_square.jpg",
-    "pushedAt": "2026-11-21T06:54:15.708Z"
+    "pushedAt": "2026-11-21T09:01:30.427Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/jetour-vai-investir-r-400-mi-para-produzir-no-brasil-video",
@@ -3480,7 +3471,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
     "image": null,
-    "pushedAt": "2026-11-21T06:54:39.530Z"
+    "pushedAt": "2026-11-21T09:01:54.985Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-surveillance-11-19-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
     "image": null,
     "pushedAt": "2026-11-21T09:00:38.426Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+    "title": "How AI Is Forcing China to Reshape Industrial Policy",
+    "titleZh": "人工智慧如何迫使中國重塑產業政策",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+    "image": null,
+    "pushedAt": "2026-11-21T09:02:22.331Z"
   }
 ]
