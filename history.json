@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
-    "title": "Trump, Putin and Xi to Meet for the First Time",
-    "titleZh": "川普、普丁和習近平首次會面",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18evening-nl-trump-putin-xi-fvwp/18evening-nl-trump-putin-xi-fvwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T02:14:19.469Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
-    "title": "How We Broke Open the Nvidia Investigation",
-    "titleZh": "我們如何揭開 Nvidia 的調查",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T22:18:08.057Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
-    "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
-    "titleZh": "前Google工程師可能因押注 Gemini 3.0 面臨新指控",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
-    "image": null,
-    "pushedAt": "2026-11-19T02:18:41.585Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/texas-regulators-resuming-data-center-environmental-permits",
-    "title": "Texas Resumes Data Center Environmental Permits After Pause",
-    "titleZh": "德克薩斯州在暫停後恢復資料中心環境許可",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/texas-regulators-resuming-data-center-environmental-permits",
-    "image": null,
-    "pushedAt": "2026-11-19T00:02:01.202Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
     "title": "Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares",
     "titleZh": "英偉達的動盪促使人們重新思考日本人工智慧股票的估值",
@@ -2868,7 +2832,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
     "image": null,
-    "pushedAt": "2026-11-21T03:04:17.392Z"
+    "pushedAt": "2026-11-21T05:08:39.223Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
@@ -2877,7 +2841,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
     "image": null,
-    "pushedAt": "2026-11-21T03:05:28.503Z"
+    "pushedAt": "2026-11-21T05:09:49.214Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
@@ -2886,7 +2850,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
     "image": null,
-    "pushedAt": "2026-11-21T03:05:52.139Z"
+    "pushedAt": "2026-11-21T05:10:12.842Z"
   },
   {
     "id": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
@@ -2904,7 +2868,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/k6nacrbia?ref=rss",
     "image": "https://cdn.flipso.com/p/k6nacrbia_square.jpg",
-    "pushedAt": "2026-11-21T03:06:16.186Z"
+    "pushedAt": "2026-11-21T05:10:36.405Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/kalshi-novig-asks-states-to-help-bar-problem-gamblers-from-prediction-markets",
@@ -6216,7 +6180,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
     "image": null,
-    "pushedAt": "2026-11-21T03:04:40.697Z"
+    "pushedAt": "2026-11-21T05:09:02.494Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
@@ -7836,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/afa3f80c-1893-4b94-ac3e-d5a702882dcf",
     "image": null,
-    "pushedAt": "2026-11-21T03:06:39.759Z"
+    "pushedAt": "2026-11-21T05:10:59.641Z"
   },
   {
     "id": "https://www.ft.com/content/eb859639-46ce-4399-adb0-dd0b442ca151",
@@ -7845,7 +7809,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/eb859639-46ce-4399-adb0-dd0b442ca151",
     "image": null,
-    "pushedAt": "2026-11-21T03:07:03.394Z"
+    "pushedAt": "2026-11-21T05:11:22.901Z"
   },
   {
     "id": "https://www.ft.com/content/fb459525-6978-40f3-a079-4e59047858bd",
@@ -7854,7 +7818,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb459525-6978-40f3-a079-4e59047858bd?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T03:07:27.067Z"
+    "pushedAt": "2026-11-21T05:11:46.281Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
@@ -8709,7 +8673,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
     "image": null,
-    "pushedAt": "2026-11-21T03:05:04.966Z"
+    "pushedAt": "2026-11-21T05:09:25.797Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/vietnam-amends-laws-to-speed-land-clearance-development-of-new-projects",
     "image": null,
     "pushedAt": "2026-11-21T05:08:12.608Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b",
+    "title": "The AI cyber threat is already here",
+    "titleZh": "人工智慧網路威脅已經來臨",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbec13cf7-7bf7-4acf-8240-7f1ba329d078.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-21T05:12:13.040Z"
+  },
+  {
+    "id": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97",
+    "title": "The manufacturing of novelty",
+    "titleZh": "新奇的製造",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ab1827b-7b0f-4d6c-807d-a71826c6be32.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-21T05:12:17.069Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5",
+    "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+    "titleZh": "隨著伊朗罷工增加，透過霍爾木茲運輸的石油減少",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b8ebb64-44e4-47bd-a715-b91a160b942a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-21T05:12:22.030Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3",
+    "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’",
+    "titleZh": "Sam Houser，《俠盜獵車手》背後的 Rockstar 玩家",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffa629d0f-8f81-4679-9dd3-8321c3c9b76c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-21T05:12:28.028Z"
   }
 ]
