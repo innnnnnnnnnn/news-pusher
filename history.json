@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
-    "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
-    "titleZh": "摩根士丹利的霍恩巴赫表示，Rogue AI 是被低估的最大風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
-    "image": null,
-    "pushedAt": "2026-11-19T03:22:25.693Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
     "title": "India is not in the room in Shenzhen, but it’s watching closely.",
     "titleZh": "印度不在深圳的現場，但正在密切關注。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
     "image": null,
     "pushedAt": "2026-11-21T09:29:04.862Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+    "title": "Takeaways From the 2026 DealBook Summit",
+    "titleZh": "2026 年 DealBook 高峰會要點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-takeaways-vfbq/18dealbook-summit-takeaways-vfbq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T09:29:32.016Z"
   }
 ]
