@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-    "title": "Gold Set for Longest Losing Streak Since May on AI, Fed Fears",
-    "titleZh": "聯準會暗示將進一步升息 金價穩定在 14 個月低點附近",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-    "image": null,
-    "pushedAt": "2026-11-19T23:53:50.497Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
     "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
     "titleZh": "由於戰爭導致市場緊張，貝恩將液化天然氣供應過剩前景推遲至 2030 年",
@@ -834,7 +825,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/cl3sj395w?ref=rss",
     "image": "https://cdn.flipso.com/p/cl3sj395w_square.jpg",
-    "pushedAt": "2026-11-21T00:22:14.239Z"
+    "pushedAt": "2026-11-21T02:41:10.803Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/new-world-shares-tank-54-to-head-for-worst-week-on-rights-issue",
@@ -2256,7 +2247,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "image": null,
-    "pushedAt": "2026-11-21T00:21:27.362Z"
+    "pushedAt": "2026-11-21T02:40:22.640Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/15/donald-trump-gets-a-warm-welcome-in-the-philippines",
@@ -2265,7 +2256,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/15/donald-trump-gets-a-warm-welcome-in-the-philippines",
     "image": null,
-    "pushedAt": "2026-11-21T00:21:50.800Z"
+    "pushedAt": "2026-11-21T02:40:46.852Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo",
@@ -5892,7 +5883,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-21T00:20:40.880Z"
+    "pushedAt": "2026-11-21T02:39:35.502Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/australian-stocks-asx200-worst-week-since-2022-as-miners-tumble",
@@ -7305,7 +7296,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-needs-december-rate-hike-into-restrictive-zone-nagel-says",
     "image": null,
-    "pushedAt": "2026-11-21T00:21:04.257Z"
+    "pushedAt": "2026-11-21T02:39:58.902Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
@@ -7314,7 +7305,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T00:22:37.386Z"
+    "pushedAt": "2026-11-21T02:41:34.789Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/relax-it-s-probably-not-a-cyberattack-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/climate/iowa-lead-plume-ammunition-explosion.html",
     "image": "https://static01.nyt.com/images/2026/11/20/climate/20cli-lead-iowa/20cli-lead-iowa-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T02:31:56.318Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+    "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+    "titleZh": "法官批准農達致癌索賠 70 億美元和解金",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T02:42:01.551Z"
   }
 ]
