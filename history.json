@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html",
-    "title": "Watch: Zohran Mamdani on Finding Common Ground With Trump",
-    "titleZh": "觀看：佐蘭馬姆達尼 (Zohran Mamdani) 與川普尋找共同點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18DB-mandani-vid-PROMO-lqfm/18DB-mandani-vid-PROMO-lqfm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T23:00:28.571Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
     "title": "Latest Oil Market News and Analysis for Nov. 19",
     "titleZh": "11 月 19 日最新石油市場新聞與分析",
@@ -3111,7 +3102,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-20T22:54:35.879Z"
+    "pushedAt": "2026-11-21T01:15:35.275Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
@@ -3120,7 +3111,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "image": null,
-    "pushedAt": "2026-11-20T22:54:59.283Z"
+    "pushedAt": "2026-11-21T01:15:58.916Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai",
@@ -3795,7 +3786,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T22:55:22.417Z"
+    "pushedAt": "2026-11-21T01:16:22.870Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-21T01:11:57.962Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
+    "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
+    "titleZh": "河馬菲奧娜吃了帽子後死了。有些人想要正義。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-21T01:16:49.312Z"
   }
 ]
