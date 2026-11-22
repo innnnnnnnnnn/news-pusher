@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
-    "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
-    "titleZh": "一個村莊被燒毀，人們被殺害或流放。這是種族滅絕的一部分嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-version-grid/19int-rohingya-camps-version-grid-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-22T05:02:25.437Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/former-brexit-negotiator-welcomes-uk-eu-cooperation-video",
     "title": "Former Brexit Negotiator Barnier Welcomes UK-EU Cooperation",
     "titleZh": "前脫歐談判代表歡迎英國與歐盟合作（影片）",
@@ -1131,7 +1122,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
     "image": null,
-    "pushedAt": "2026-11-22T12:37:23.211Z"
+    "pushedAt": "2026-11-22T14:28:13.453Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
     "image": null,
     "pushedAt": "2026-11-22T14:22:36.240Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+    "title": "GTA VI Takes Over Thanksgiving Week",
+    "titleZh": "GTA VI 接手感恩節週",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+    "image": null,
+    "pushedAt": "2026-11-22T14:28:41.188Z"
   }
 ]
