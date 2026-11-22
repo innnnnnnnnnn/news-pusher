@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
-    "title": "IMF’s Chief Warns AI Correction Has ‘Little Bit More’ to Go",
-    "titleZh": "國際貨幣基金組織總裁警告人工智慧糾正還有“一點進步”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
-    "image": null,
-    "pushedAt": "2026-11-20T10:12:24.365Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
     "title": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
     "titleZh": "川普、習近平和普丁舉行史無前例的三邊會晤",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
     "pushedAt": "2026-11-22T15:21:55.879Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "title": "AI is swallowing maths. Is economics next?",
+    "titleZh": "人工智慧正在吞噬數學。接下来是经济学吗？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "image": null,
+    "pushedAt": "2026-11-22T15:22:22.797Z"
   }
 ]
