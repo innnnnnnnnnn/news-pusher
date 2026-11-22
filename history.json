@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537",
-    "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
-    "titleZh": "FirstFT：Anthropic 創紀錄 IPO 融資 810 億美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T01:06:58.328Z"
-  },
-  {
     "id": "https://www.ft.com/content/2af3765e-d689-4418-bdd2-5b34042df396",
     "title": "Private equity’s liquidity cure needs a better formula",
     "titleZh": "私募股權的流動性解決方案需要更好的方案",
@@ -789,7 +780,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nuclear-02-tpbq/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T23:25:44.970Z"
+    "pushedAt": "2026-11-22T01:22:03.531Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal",
@@ -3111,7 +3102,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
     "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T23:26:35.884Z"
+    "pushedAt": "2026-11-22T01:22:53.637Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
@@ -5694,7 +5685,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T23:27:00.802Z"
+    "pushedAt": "2026-11-22T01:23:18.388Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
@@ -6999,7 +6990,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-21T23:27:25.841Z"
+    "pushedAt": "2026-11-22T01:23:43.814Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
@@ -8898,7 +8889,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
     "image": null,
-    "pushedAt": "2026-11-21T23:26:09.840Z"
+    "pushedAt": "2026-11-22T01:22:28.498Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
     "image": null,
     "pushedAt": "2026-11-22T00:49:00.632Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
+    "title": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations",
+    "titleZh": "24 億美元的拍賣週：大拍賣，更大期望",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
+    "image": null,
+    "pushedAt": "2026-11-22T01:24:10.663Z"
   }
 ]
