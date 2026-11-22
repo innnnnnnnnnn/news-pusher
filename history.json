@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/meta-looks-to-hire-new-india-policy-chief-to-repair-frayed-ties",
-    "title": "Meta to Hire New India Policy Chief to Repair Frayed Ties",
-    "titleZh": "Meta 希望聘請新的印度政策負責人來修復緊張的關係",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/meta-looks-to-hire-new-india-policy-chief-to-repair-frayed-ties",
-    "image": null,
-    "pushedAt": "2026-11-19T11:09:00.809Z"
-  },
-  {
-    "id": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59",
-    "title": "Anthropic revenue target: $600bn, soonish",
-    "titleZh": "人為收入目標：6000 億美元，很快",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T18:26:31.604Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
     "title": "Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders",
     "titleZh": "普丁重返亞太經合組織“全家福”，考驗西方領導人",
@@ -1221,7 +1203,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/jjm2btdfl?ref=rss",
     "image": "https://cdn.flipso.com/p/jjm2btdfl_square.jpg",
-    "pushedAt": "2026-11-22T03:15:36.615Z"
+    "pushedAt": "2026-11-22T05:04:51.960Z"
   },
   {
     "id": "https://www.ft.com/content/bc4ffdc7-667b-4333-b054-1b341345f715",
@@ -1266,7 +1248,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T03:16:02.288Z"
+    "pushedAt": "2026-11-22T05:05:15.367Z"
   },
   {
     "id": "https://www.ft.com/content/e3135e3a-32f6-408f-9519-4f60d275f485",
@@ -3390,7 +3372,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T03:16:26.571Z"
+    "pushedAt": "2026-11-22T05:05:38.502Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable",
@@ -4335,7 +4317,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/91cee968-66d0-4c48-b453-47b17f7443d2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-22T03:16:50.870Z"
+    "pushedAt": "2026-11-22T05:06:02.182Z"
   },
   {
     "id": "https://www.ft.com/content/44370d09-92cd-4a84-890f-4d0f0d046d96",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/popcast-jlo-promo-cjgk/popcast-jlo-promo-cjgk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-22T05:04:25.077Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+    "titleZh": "美國麻將與中國麻將：為何競爭引發爭議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T05:06:27.343Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+    "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+    "titleZh": "台灣喜劇演員因嘲笑習近平而吸引大批觀眾",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T05:06:30.367Z"
   }
 ]
