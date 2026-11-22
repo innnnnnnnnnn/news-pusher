@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/the-path-to-a-year-end-rally-looks-clearer-taking-stock",
-    "title": "Path to a Year-End Stock Rally Looks Clearer After Anthropic",
-    "titleZh": "在人為之後，年底股市上漲的道路看起來更加清晰",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/the-path-to-a-year-end-rally-looks-clearer-taking-stock",
-    "image": null,
-    "pushedAt": "2026-11-19T10:02:59.327Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-china-show-11-19-2026-video",
-    "title": "Xi Hosts Trump at APEC Summit in Shenzhen",
-    "titleZh": "習近平在深圳亞太經合組織高峰會上接待川普",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-china-show-11-19-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-19T07:38:07.451Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies",
-    "title": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
-    "titleZh": "石油貿易商與卡達能源公司就長期供應進行談判",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies",
-    "image": null,
-    "pushedAt": "2026-11-19T07:42:01.878Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/philippines-returns-to-retail-dollar-bond-sale-as-peso-rebounds",
-    "title": "Philippines Returns to Retail Dollar Bonds as Peso Rebounds",
-    "titleZh": "隨著比索反彈，菲律賓重返零售美元債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/philippines-returns-to-retail-dollar-bond-sale-as-peso-rebounds",
-    "image": null,
-    "pushedAt": "2026-11-19T10:13:24.682Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7196517d-ad99-4436-af89-787214b35d2c",
-    "title": "Virtual ‘Jensanity’ rocks Taipei in support for Nvidia chief",
-    "titleZh": "虛擬「Jensanity」震撼台北，支持英偉達首席執行官",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7196517d-ad99-4436-af89-787214b35d2c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T17:36:57.189Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-holds-soybean-imports-at-ports-as-domestic-supplies-swell",
     "title": "China Holds Soybean Imports at Ports as Domestic Supplies Swell",
     "titleZh": "隨著國內供應增加，中國在港口保留大豆進口",
@@ -1320,7 +1275,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
-    "pushedAt": "2026-11-22T08:09:47.856Z"
+    "pushedAt": "2026-11-22T10:05:35.277Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
@@ -1329,7 +1284,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
     "image": null,
-    "pushedAt": "2026-11-22T08:10:14.412Z"
+    "pushedAt": "2026-11-22T10:06:00.477Z"
   },
   {
     "id": "https://flipso.com/p/pw3n037mu",
@@ -8998,5 +8953,50 @@
     "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-22T10:05:07.392Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+    "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+    "titleZh": "寶潔公司將增加工廠無人值守班次以削減成本",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T10:06:27.852Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+    "title": "The Case of the Idle Assistants",
+    "titleZh": "無所事事的助理案",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22SunBiz-WORKFRIEND-kwtq/22SunBiz-WORKFRIEND-kwtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T10:06:33.140Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+    "title": "Looking for the Formula to Stop an Apocalypse",
+    "titleZh": "尋找阻止世界末日的方法",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T10:06:38.926Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
+    "title": "Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise",
+    "titleZh": "隨著螺旋蟲病例增加，農業部長宣布美國牛隻供應安全",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00biz-screwworm-cases-01-jpfh/00biz-screwworm-cases-01-jpfh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T10:06:44.094Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+    "title": "Rather Than Sell Their House, They Became Landlords Instead",
+    "titleZh": "他們沒有賣掉房子，而是成為了房東",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T10:06:48.886Z"
   }
 ]
