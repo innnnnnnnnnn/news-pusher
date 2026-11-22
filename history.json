@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
-    "title": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
-    "titleZh": "距離海牙半個地球​​的羅興亞難民對種族滅絕審判一無所知。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T23:37:57.059Z"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-21T17:30:30.600Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video",
     "title": "Amundi CIO Mortier Shifts 2027 Strategy Away From Big Tech",
     "titleZh": "Amundi 的 Mortier 改變 2027 年策略，遠離大型科技公司（影片）",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-22T11:12:14.360Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+    "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+    "titleZh": "Anthropic 及其銀行家在首次公開發行後是否做出了重大決策錯誤？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+    "image": null,
+    "pushedAt": "2026-11-22T11:12:44.752Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
+    "titleZh": "中國將保證金要求降至 80% 以增加股票流動性",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "image": null,
+    "pushedAt": "2026-11-22T11:12:50.655Z"
   }
 ]
