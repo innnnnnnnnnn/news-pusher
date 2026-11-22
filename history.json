@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
-    "title": "Bangladesh, an underappreciated success, faces an economic crisis",
-    "titleZh": "孟加拉國，一個被低估的成功，面臨經濟危機",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
-    "image": null,
-    "pushedAt": "2026-11-22T12:42:39.006Z"
-  },
-  {
     "id": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8",
     "title": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
     "titleZh": "沙烏地阿拉伯主權財富基金總部遭空襲",
@@ -825,7 +816,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-22T11:06:35.089Z"
+    "pushedAt": "2026-11-22T13:12:30.127Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
@@ -3381,7 +3372,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/p9fw7ozh5?ref=rss",
     "image": "https://cdn.flipso.com/p/p9fw7ozh5_square.jpg",
-    "pushedAt": "2026-11-22T11:06:10.203Z"
+    "pushedAt": "2026-11-22T13:12:06.807Z"
   },
   {
     "id": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483",
@@ -3606,7 +3597,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/whixozkc3?ref=rss",
     "image": "https://cdn.flipso.com/p/whixozkc3_square.jpg",
-    "pushedAt": "2026-11-22T11:07:00.349Z"
+    "pushedAt": "2026-11-22T13:12:54.320Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/honda-debuts-hybrid-suv-for-asia-in-pivot-from-failed-ev-bet",
@@ -5082,7 +5073,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T11:04:23.480Z"
+    "pushedAt": "2026-11-22T13:10:55.285Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
@@ -6387,7 +6378,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-22T11:05:19.647Z"
+    "pushedAt": "2026-11-22T13:11:43.482Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
@@ -8799,7 +8790,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
     "image": null,
-    "pushedAt": "2026-11-22T11:04:51.912Z"
+    "pushedAt": "2026-11-22T13:11:20.193Z"
   },
   {
     "id": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/why-your-health-insurance-keeps-getting-more-expensive-video",
     "image": null,
     "pushedAt": "2026-11-22T13:10:28.777Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
+    "title": "Tech Outages Fuel a New Prepping Boom",
+    "titleZh": "技術中斷助長了新的準備熱潮",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
+    "image": null,
+    "pushedAt": "2026-11-22T13:13:20.493Z"
   }
 ]
