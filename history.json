@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
-    "title": "Investec Retreats as UK Costs Offset First-Half Profit Gains",
-    "titleZh": "南非業務抵銷英國疲軟，天達利潤攀升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
-    "image": null,
-    "pushedAt": "2026-11-19T14:33:13.793Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/the-path-to-a-year-end-rally-looks-clearer-taking-stock",
     "title": "Path to a Year-End Stock Rally Looks Clearer After Anthropic",
     "titleZh": "在人為之後，年底股市上漲的道路看起來更加清晰",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
     "image": null,
     "pushedAt": "2026-11-22T10:04:35.452Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+    "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+    "titleZh": "伐木和氣候變遷重塑了加拿大的北方森林",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T10:05:07.392Z"
   }
 ]
