@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-    "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-    "titleZh": "人為首次公開募股凸顯華盛頓如何落後",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-anthropic-policy-01-vzgq/19dc-anthropic-policy-01-vzgq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T08:03:00.553Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
     "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
     "titleZh": "早期 Anthropic 投資者達斯汀莫斯科維茨 (Dustin Moskovitz) 對 IPO 感到有點不安",
@@ -1617,7 +1608,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T11:39:11.915Z"
+    "pushedAt": "2026-11-22T13:44:08.141Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-may-be-takeover-proof-video",
@@ -6432,7 +6423,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/r3hx4i0t8?ref=rss",
     "image": "https://cdn.flipso.com/p/r3hx4i0t8_square.jpg",
-    "pushedAt": "2026-11-22T11:40:02.318Z"
+    "pushedAt": "2026-11-22T13:44:31.475Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
@@ -6828,7 +6819,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/8jtuk93ab?ref=rss",
     "image": "https://cdn.flipso.com/p/8jtuk93ab_square.jpg",
-    "pushedAt": "2026-11-22T11:36:34.130Z"
+    "pushedAt": "2026-11-22T13:42:56.783Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-drives-internet-providers-to-busiest-day-ever",
@@ -8034,7 +8025,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
     "image": null,
-    "pushedAt": "2026-11-22T11:37:57.000Z"
+    "pushedAt": "2026-11-22T13:43:44.377Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
@@ -8790,7 +8781,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5959e87a-72ef-4dfb-97ea-04f9bac2add0.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-22T11:37:04.749Z"
+    "pushedAt": "2026-11-22T13:43:20.854Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
     "image": null,
     "pushedAt": "2026-11-22T13:42:30.050Z"
+  },
+  {
+    "id": "https://flipso.com/p/m94g97kr8",
+    "title": "Getting the mind to steer the body",
+    "titleZh": "讓思想引導身體",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/m94g97kr8?ref=rss",
+    "image": "https://cdn.flipso.com/p/m94g97kr8_square.jpg",
+    "pushedAt": "2026-11-22T13:44:58.061Z"
   }
 ]
