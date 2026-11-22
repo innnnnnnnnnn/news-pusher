@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/china-holds-soybean-imports-at-ports-as-domestic-supplies-swell",
-    "title": "China Holds Soybean Imports at Ports as Domestic Supplies Swell",
-    "titleZh": "隨著國內供應增加，中國在港口保留大豆進口",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-holds-soybean-imports-at-ports-as-domestic-supplies-swell",
-    "image": null,
-    "pushedAt": "2026-11-19T08:05:51.515Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
     "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
     "titleZh": "即時更新：川普在三方峰會前與普丁和習近平進行一對一會談",
@@ -1392,7 +1383,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "image": null,
-    "pushedAt": "2026-11-22T08:16:39.805Z"
+    "pushedAt": "2026-11-22T10:12:43.126Z"
   },
   {
     "id": "https://flipso.com/p/vzc5elb75",
@@ -1401,7 +1392,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vzc5elb75?ref=rss",
     "image": "https://cdn.flipso.com/p/vzc5elb75_square.jpg",
-    "pushedAt": "2026-11-22T08:17:55.357Z"
+    "pushedAt": "2026-11-22T10:13:57.362Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -2958,7 +2949,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T08:17:29.872Z"
+    "pushedAt": "2026-11-22T10:13:32.586Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
@@ -6882,7 +6873,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
     "image": "https://static01.nyt.com/images/2026/11/23/arts/20cul-etsy-ai/20cul-etsy-ai-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T08:18:19.857Z"
+    "pushedAt": "2026-11-22T10:14:22.380Z"
   },
   {
     "id": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240",
@@ -7530,7 +7521,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-22T08:17:04.673Z"
+    "pushedAt": "2026-11-22T10:13:07.832Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
@@ -8925,7 +8916,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
     "image": null,
-    "pushedAt": "2026-11-22T08:18:49.220Z"
+    "pushedAt": "2026-11-22T10:14:47.216Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-22T10:06:48.886Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
+    "title": "Tower Records Becomes Latest Japan Retailer Hit by Data Breach",
+    "titleZh": "Tower Records 成為最新一家遭受資料外洩攻擊的日本零售商",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
+    "image": null,
+    "pushedAt": "2026-11-22T10:15:15.119Z"
   }
 ]
