@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart",
-    "title": "This Is The Problem With AI's Most Bullish Chart",
-    "titleZh": "這就是人工智慧最看漲圖表的問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart",
-    "image": null,
-    "pushedAt": "2026-11-19T11:21:39.194Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/audio/2026-11-19/odd-lots-ai-s-credit-crunch-moment-podcast",
     "title": "Odd Lots: AI’s Credit Crunch Moment (Podcast)",
     "titleZh": "奇怪的事：人工智慧的信貸緊縮時刻（播客）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
     "image": null,
     "pushedAt": "2026-11-22T12:01:12.546Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
+    "title": "Deeper collusion between hostile powers threatens the West",
+    "titleZh": "敵對勢力之間更深層的勾結威脅西方",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
+    "image": null,
+    "pushedAt": "2026-11-22T12:01:40.077Z"
   }
 ]
