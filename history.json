@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5edb7461-40b5-456d-9fda-928227b7028e",
-    "title": "Mahmood’s policing numbers do not add up",
-    "titleZh": "馬哈茂德的治安人數不符",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5edb7461-40b5-456d-9fda-928227b7028e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-19T14:21:04.676Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-18/ghana-surprises-with-rate-cut-to-11-to-align-policy-with-market",
     "title": "Ghana Unexpectedly Resets Key Rate to 11% to Align With Market",
     "titleZh": "加納意外地將關鍵利率重置為 11% 以與市場保持一致",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
     "image": null,
-    "pushedAt": "2026-11-22T10:34:30.656Z"
+    "pushedAt": "2026-11-22T12:39:21.929Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f2f31d4-ca08-4a62-9634-c4f7c36d2ad7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-22T12:36:33.532Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html",
+    "title": "What Machines Love",
+    "titleZh": "機器喜歡什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22themorning-nl-lead-02/22themorning-nl-lead-02-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T12:39:48.970Z"
   }
 ]
