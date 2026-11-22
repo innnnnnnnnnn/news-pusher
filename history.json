@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-    "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-    "titleZh": "胡塞武裝襲擊利雅德 沙烏地阿拉伯主權財富基金塔受損",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-saudi-pif-attack-wpcj/19int-saudi-pif-attack-wpcj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T10:41:59.807Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html",
     "title": "Mamdani, Musk, Altman, A.I. and Other DealBook Summit Highlights",
     "titleZh": "馬姆達尼、馬斯克、奧特曼、A.I.和其他 DealBook 高峰會亮點",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
     "image": null,
     "pushedAt": "2026-11-22T23:30:38.376Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-22/chinese-dramas-are-starting-to-take-over-the-world",
+    "title": "Chinese Dramas Are Starting to Take Over the World",
+    "titleZh": "中國電視劇開始風靡世界",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-22/chinese-dramas-are-starting-to-take-over-the-world",
+    "image": null,
+    "pushedAt": "2026-11-22T23:31:07.445Z"
   }
 ]
