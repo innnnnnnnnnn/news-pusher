@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
-    "title": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
-    "titleZh": "人為 IPO 讓股市多頭夢想年底反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
-    "image": null,
-    "pushedAt": "2026-11-19T13:45:41.147Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/investor-nick-candy-says-uk-rules-are-fueling-exodus-of-the-rich",
     "title": "Reform’s Nick Candy Says UK Rules Are Fueling Exodus of the Rich",
     "titleZh": "Reform 的 Nick Candy 表示，英國的規定正在助長富人外流",
@@ -879,7 +870,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-22T16:19:40.498Z"
+    "pushedAt": "2026-11-22T18:17:52.590Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
@@ -888,7 +879,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "image": null,
-    "pushedAt": "2026-11-22T16:21:16.863Z"
+    "pushedAt": "2026-11-22T18:19:31.959Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai",
@@ -1563,7 +1554,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T16:21:40.572Z"
+    "pushedAt": "2026-11-22T18:19:56.986Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
@@ -7872,7 +7863,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T16:20:53.187Z"
+    "pushedAt": "2026-11-22T18:19:07.241Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
@@ -7980,7 +7971,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
     "image": null,
-    "pushedAt": "2026-11-22T16:20:04.835Z"
+    "pushedAt": "2026-11-22T18:18:17.533Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
@@ -8538,7 +8529,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22themorning-nl-lead-02/22themorning-nl-lead-02-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T16:20:29.561Z"
+    "pushedAt": "2026-11-22T18:18:42.584Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-22T18:17:24.414Z"
+  },
+  {
+    "id": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346",
+    "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+    "titleZh": "Bessent 不排除黃重返 Nvidia",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcaeee57e-d750-41af-961b-d8fa6e0f119b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-22T18:20:24.707Z"
   }
 ]
