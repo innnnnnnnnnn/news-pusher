@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8",
-    "title": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
-    "titleZh": "沙烏地阿拉伯主權財富基金總部遭空襲",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T04:29:26.663Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/sify-infinit-said-to-revive-396-million-india-ipo-plan",
     "title": "Sify Infinit Said to Revive $396 Million India IPO Plan",
     "titleZh": "Sify Infinit 據稱將重啟印度 3.96 億美元的 IPO 計劃",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
     "image": null,
     "pushedAt": "2026-11-22T13:13:20.493Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
+    "title": "Bangladesh, an underappreciated success, faces an economic crisis",
+    "titleZh": "孟加拉國，一個被低估的成功，面臨經濟危機",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
+    "image": null,
+    "pushedAt": "2026-11-22T13:13:47.254Z"
   }
 ]
