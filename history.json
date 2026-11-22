@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-    "title": "The Bottom Line newsletter: Nvidia will never be the same",
-    "titleZh": "底線通訊：Nvidia 永遠不會一樣",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-    "image": null,
-    "pushedAt": "2026-11-21T11:38:24.702Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video",
     "title": "Trump, Xi & Putin Hold ‘Groundbreaking’ China Summit",
     "titleZh": "川普、習近平和普丁舉行「開創性」中國峰會",
@@ -2229,7 +2220,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/2026-11-19-anthropic-index-funds-index/2026-11-19-anthropic-index-funds-index-mediumSquareAt3X-v3.png",
-    "pushedAt": "2026-11-22T18:21:17.582Z"
+    "pushedAt": "2026-11-22T20:20:10.125Z"
   },
   {
     "id": "https://flipso.com/p/vo68xupzj",
@@ -5685,7 +5676,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
     "image": null,
-    "pushedAt": "2026-11-22T18:20:52.678Z"
+    "pushedAt": "2026-11-22T20:19:45.201Z"
   },
   {
     "id": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87",
@@ -8754,7 +8745,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
     "image": null,
-    "pushedAt": "2026-11-22T18:21:42.448Z"
+    "pushedAt": "2026-11-22T20:20:35.603Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
     "image": null,
     "pushedAt": "2026-11-22T20:19:16.534Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+    "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+    "titleZh": "股市回落擾亂債券市場的聯準會升息首選交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+    "image": null,
+    "pushedAt": "2026-11-22T20:21:02.821Z"
   }
 ]
