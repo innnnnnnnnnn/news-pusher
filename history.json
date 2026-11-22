@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/zimbabwe-asks-lenders-for-grants-to-repay-what-it-owes-them",
-    "title": "Zimbabwe Asks Lenders for Grants to Repay What it Owes Them",
-    "titleZh": "津巴布韋請求貸款人提供贈款以償還欠款",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/zimbabwe-asks-lenders-for-grants-to-repay-what-it-owes-them",
-    "image": null,
-    "pushedAt": "2026-11-19T14:21:29.900Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
     "title": "The Bottom Line newsletter: Nvidia will never be the same",
     "titleZh": "底線通訊：Nvidia 永遠不會一樣",
@@ -780,7 +771,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "image": null,
-    "pushedAt": "2026-11-22T18:19:31.959Z"
+    "pushedAt": "2026-11-22T20:17:56.810Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai",
@@ -1455,7 +1446,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T18:19:56.986Z"
+    "pushedAt": "2026-11-22T20:18:22.078Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
@@ -8898,7 +8889,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcaeee57e-d750-41af-961b-d8fa6e0f119b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-22T18:20:24.707Z"
+    "pushedAt": "2026-11-22T20:18:47.875Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/san-francisco-faces-historic-flood-threat-as-major-storm-nears",
     "image": null,
     "pushedAt": "2026-11-22T20:17:28.765Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+    "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+    "titleZh": "OpenAI首席科學家敦促產業限制人工智慧發展",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+    "image": null,
+    "pushedAt": "2026-11-22T20:19:16.534Z"
   }
 ]
