@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ebe66b87-63b8-42d1-8f7a-8272127e8f1e",
-    "title": "Librairie Galignani — a fabled Paris bookshop for Anglophiles",
-    "titleZh": "Librairie Galignani－一家著名的巴黎親英書店",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ebe66b87-63b8-42d1-8f7a-8272127e8f1e",
-    "image": null,
-    "pushedAt": "2026-11-19T16:03:43.350Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07",
-    "title": "US stocks end more than 2% lower in wake of Anthropic debut",
-    "titleZh": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T03:21:35.876Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/koenigsegg-stake-sale-values-hyper-car-maker-at-1-3-billion",
     "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
     "titleZh": "超級汽車製造商 Koenigsegg 股權出售估值達 13 億歐元",
@@ -771,7 +753,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
     "image": null,
-    "pushedAt": "2026-11-22T16:01:37.653Z"
+    "pushedAt": "2026-11-22T17:56:48.821Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
@@ -780,7 +762,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "image": null,
-    "pushedAt": "2026-11-22T16:02:01.430Z"
+    "pushedAt": "2026-11-22T17:57:14.556Z"
   },
   {
     "id": "https://flipso.com/p/vzc5elb75",
@@ -2346,7 +2328,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T16:02:48.897Z"
+    "pushedAt": "2026-11-22T17:58:04.513Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
@@ -6918,7 +6900,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-22T16:02:24.980Z"
+    "pushedAt": "2026-11-22T17:57:39.342Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/22/opinion/gop-midterms-wipeout-movies.html",
     "image": null,
     "pushedAt": "2026-11-22T17:21:56.038Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+    "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+    "titleZh": "貝森特呼籲英偉達就向中國銷售晶片提供答案",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T17:58:32.885Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
+    "title": "‘Hunger Games’ Rebounds With $120 Million Opening",
+    "titleZh": "《飢餓遊戲》首映票房1.2億美元反彈",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
+    "image": null,
+    "pushedAt": "2026-11-22T17:58:38.001Z"
   }
 ]
