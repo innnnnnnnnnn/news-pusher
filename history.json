@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-    "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-    "titleZh": "COP31 內部：部分貿易展，部分氣候治療會議",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T03:06:45.988Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
     "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
     "titleZh": "人為首次公開募股凸顯華盛頓如何落後",
@@ -168,7 +159,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-22T11:33:40.112Z"
+    "pushedAt": "2026-11-22T13:40:04.682Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
@@ -258,7 +249,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
     "image": null,
-    "pushedAt": "2026-11-22T11:36:09.308Z"
+    "pushedAt": "2026-11-22T13:42:04.227Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
@@ -1599,7 +1590,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T11:34:54.310Z"
+    "pushedAt": "2026-11-22T13:40:51.975Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
@@ -4299,7 +4290,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "image": null,
-    "pushedAt": "2026-11-22T11:35:19.100Z"
+    "pushedAt": "2026-11-22T13:41:17.056Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
@@ -6423,7 +6414,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-22T11:35:44.546Z"
+    "pushedAt": "2026-11-22T13:41:40.603Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
@@ -7773,7 +7764,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-letter-wqmp/21int-canada-letter-wqmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T11:34:29.519Z"
+    "pushedAt": "2026-11-22T13:40:28.464Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/s7o73jmp0?ref=rss",
     "image": "https://cdn.flipso.com/p/s7o73jmp0_square.jpg",
     "pushedAt": "2026-11-22T13:27:23.752Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
+    "title": "Governors Push States to Lead on AI",
+    "titleZh": "州長們推動各州在人工智慧領域發揮領導作用",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
+    "image": null,
+    "pushedAt": "2026-11-22T13:42:30.050Z"
   }
 ]
