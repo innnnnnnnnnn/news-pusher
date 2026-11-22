@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
-    "title": "Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow",
-    "titleZh": "俄羅斯對日本菸草公司的收購造成 86 億美元的打擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19Biz-Russia-JapanTobacco-bplv/19Biz-Russia-JapanTobacco-bplv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T22:03:04.058Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "title": "India feeds the world, but its methane emissions are heating it",
     "titleZh": "印度養活了世界，但其甲烷排放卻讓其升溫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/opinion/war-hbo-divorce-tech-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22givhan-bjvc/22givhan-bjvc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-22T19:32:28.759Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+    "title": "A new axis of malice threatens the global order",
+    "titleZh": "新的惡意軸心威脅全球秩序",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+    "image": null,
+    "pushedAt": "2026-11-22T19:32:56.869Z"
   }
 ]
