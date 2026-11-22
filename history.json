@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/470d7273-7356-48d5-9709-d9d8169d1d94",
-    "title": "Fed’s October minutes confirm December increase and float faster tightening",
-    "titleZh": "聯準會 10 月會議紀要確認 12 月升息並加快緊縮步伐",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/470d7273-7356-48d5-9709-d9d8169d1d94",
-    "image": null,
-    "pushedAt": "2026-11-22T10:21:07.554Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/citi-sees-africa-bond-sales-topping-2026-record-video",
     "title": "Citi Sees Africa Bond Sales Topping 2026 Record",
     "titleZh": "花旗預計非洲債券銷售將突破 2026 年紀錄（影片）",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
     "image": null,
     "pushedAt": "2026-11-22T21:27:00.121Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+    "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
+    "titleZh": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+    "image": null,
+    "pushedAt": "2026-11-22T22:01:47.444Z"
   }
 ]
