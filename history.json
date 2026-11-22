@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-19/us-economy-struggles-to-measure-ai-s-true-gdp-impact-in-real-time",
-    "title": "US Economy Struggles to Measure AI’s True GDP Impact in Real Time",
-    "titleZh": "美國經濟難以即時衡量人工智慧對 GDP 的真實影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/us-economy-struggles-to-measure-ai-s-true-gdp-impact-in-real-time",
-    "image": null,
-    "pushedAt": "2026-11-19T13:59:29.212Z"
-  },
-  {
-    "id": "https://www.ft.com/content/345e8aaf-e6ff-4dc3-a550-dc80ecf268ea",
-    "title": "Burnham faces the hard reality of Brexit",
-    "titleZh": "伯納姆面臨英國脫歐的嚴峻現實",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/345e8aaf-e6ff-4dc3-a550-dc80ecf268ea?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5f5b9769-2ad0-4c1e-87e0-3414d9efa42d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T03:30:57.500Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
     "title": "Checks and Balance newsletter: What do ballot initiatives tell us about America?",
     "titleZh": "制衡時事通訊：投票倡議告訴我們有關美國的哪些資訊？",
@@ -7287,7 +7269,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-butlerschool-promo-jvwm/00xp-butlerschool-promo-jvwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T16:26:18.692Z"
+    "pushedAt": "2026-11-22T18:26:02.970Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
@@ -7503,7 +7485,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-22T16:25:31.347Z"
+    "pushedAt": "2026-11-22T18:25:12.100Z"
   },
   {
     "id": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98",
@@ -8529,7 +8511,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
     "image": null,
-    "pushedAt": "2026-11-22T16:25:54.776Z"
+    "pushedAt": "2026-11-22T18:25:38.187Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
@@ -8718,7 +8700,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/46e64bab-5444-484e-b735-d693c7e3f37e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F346c9afb-943c-4280-ad04-0e49d9db9797.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-22T16:26:42.439Z"
+    "pushedAt": "2026-11-22T18:26:29.736Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/iqvia-closes-in-on-1-1-billion-takeover-of-uk-drug-services-group-quotient",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
     "image": null,
     "pushedAt": "2026-11-22T18:24:43.768Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+    "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+    "titleZh": "民主黨人查克·哈伯德 (Chuck Hubbard) 在北卡羅來納州擊敗連任 11 屆的共和黨人弗吉尼亞·福克斯 (Virginia Foxx)",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T18:26:56.860Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+    "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+    "titleZh": "事實查核新任白宮辦公廳主任史蒂芬米勒",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-22T18:26:59.331Z"
   }
 ]
