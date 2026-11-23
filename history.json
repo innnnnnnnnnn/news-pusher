@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment",
-    "title": "South Africa Port Operator Blames Delays on Old Equipment",
-    "titleZh": "南非港口營運商將延誤歸咎於舊設備",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment",
-    "image": null,
-    "pushedAt": "2026-11-19T18:54:39.218Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/nasdaq-expects-smooth-anthropic-ipo-griggs-says-video",
     "title": "Nasdaq Expects Smooth Anthropic IPO, Griggs Says",
     "titleZh": "格里格斯表示，納斯達克預計 Anthro IPO 會順利進行",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/shoprite-investec-deepen-retail-banking-mobile-bets-with-dni",
     "image": null,
     "pushedAt": "2026-11-23T07:17:15.236Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+    "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+    "titleZh": "在亞太經合組織高峰會上，美國、中國和俄羅斯誓言在全球能源轉型中增加石油供應",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T07:17:44.905Z"
   }
 ]
