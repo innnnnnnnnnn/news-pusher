@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe",
-    "title": "Why Britons can feel smugger than the French",
-    "titleZh": "為什麼英國人會比法國人感到自鳴得意",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T12:40:12.976Z"
-  },
-  {
-    "id": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea",
-    "title": "Can Nvidia learn from AIG’s mistakes?",
-    "titleZh": "Nvidia 能從 AIG 的錯誤中學到教訓嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T18:52:08.698Z"
-  },
-  {
     "id": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635",
     "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
     "titleZh": "重新加入歐盟對英國經濟的提振作用是瑞士式協議的兩倍",
@@ -5361,7 +5343,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-23T15:20:41.126Z"
+    "pushedAt": "2026-11-23T17:48:28.044Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -5784,7 +5766,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ogk1wbqld?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-23T15:20:16.005Z"
+    "pushedAt": "2026-11-23T17:48:01.519Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
@@ -8070,7 +8052,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
     "image": null,
-    "pushedAt": "2026-11-23T15:19:50.834Z"
+    "pushedAt": "2026-11-23T17:47:36.518Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
     "image": null,
     "pushedAt": "2026-11-23T17:47:08.037Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
+    "title": "Jeff Currie Sees a Liquidity Crisis Behind Copper Selloff",
+    "titleZh": "傑夫柯里 (Jeff Currie) 認為銅拋售背後存在流動性危機",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
+    "image": null,
+    "pushedAt": "2026-11-23T17:48:56.968Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/goldman-s-trivedi-says-dollar-has-some-fight-left-on-rate-path",
+    "title": "Goldman’s Trivedi Says Dollar ‘Has Some Fight’ Left on Rate Path",
+    "titleZh": "高盛特里維迪稱美元在利率路徑上“還有一些掙扎”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/goldman-s-trivedi-says-dollar-has-some-fight-left-on-rate-path",
+    "image": null,
+    "pushedAt": "2026-11-23T17:49:03.059Z"
   }
 ]
