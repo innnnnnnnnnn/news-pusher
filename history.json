@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e",
-    "title": "Germany hit by AI-driven surge in cyber attacks",
-    "titleZh": "德國揭示人工智慧驅動的網路攻擊激增",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T05:15:28.381Z"
-  },
-  {
     "id": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a",
     "title": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
     "titleZh": "習近平、川普和普丁歡呼「開創性」會面",
@@ -573,7 +564,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T22:37:58.096Z"
+    "pushedAt": "2026-11-23T00:43:30.748Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
@@ -2022,7 +2013,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
     "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T22:37:32.152Z"
+    "pushedAt": "2026-11-23T00:43:06.666Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-china-is-still-winning-the-export-race-video",
@@ -4470,7 +4461,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
     "image": null,
-    "pushedAt": "2026-11-22T22:39:15.315Z"
+    "pushedAt": "2026-11-23T00:44:43.514Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/novartis-ceo-says-us-china-biotech-curbs-risk-drug-development",
@@ -4866,7 +4857,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00-AI-token-callout-01-bwlm/00-AI-token-callout-01-bwlm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T22:38:49.868Z"
+    "pushedAt": "2026-11-23T00:44:19.314Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
@@ -7548,7 +7539,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
     "image": null,
-    "pushedAt": "2026-11-22T22:38:23.708Z"
+    "pushedAt": "2026-11-23T00:43:54.887Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
     "image": null,
     "pushedAt": "2026-11-23T00:32:52.083Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
+    "title": "AI Investment Adding to Inflation: Jain",
+    "titleZh": "人工智慧投資加劇通膨：Jain",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
+    "image": null,
+    "pushedAt": "2026-11-23T00:45:11.211Z"
   }
 ]
