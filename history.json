@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-    "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-    "titleZh": "黃仁勳如何在 Nvidia 中羞辱",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T09:35:39.006Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
     "title": "A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.",
     "titleZh": "這些失敗者剛剛當選。沒有人比他們更驚訝。",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/d683b6ce30535906a349c5a9c831a366",
     "image": null,
     "pushedAt": "2026-11-23T23:11:08.136Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek",
+    "title": "The Chinese AI Aspirants Drawing Big Bets to Take on DeepSeek",
+    "titleZh": "中國人工智慧雄心勃勃的豪賭與 DeepSeek 較量",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek",
+    "image": null,
+    "pushedAt": "2026-11-23T23:11:40.217Z"
   }
 ]
