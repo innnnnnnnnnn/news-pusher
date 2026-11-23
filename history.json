@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ef9b45d6-2348-44ce-bafe-0f1d5d5e0498",
-    "title": "Federica Formilli Fendi’s Roman home is triple the fun",
-    "titleZh": "Federica Formilli Fendi 的羅馬住宅充滿三倍樂趣",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ef9b45d6-2348-44ce-bafe-0f1d5d5e0498",
-    "image": null,
-    "pushedAt": "2026-11-20T16:38:21.998Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
     "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
     "titleZh": "億萬富翁為 Megha 收購籌集 7.2 億美元私人信貸",
@@ -2535,7 +2526,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
     "image": null,
-    "pushedAt": "2026-11-21T22:22:30.338Z"
+    "pushedAt": "2026-11-23T22:22:31.182Z"
   },
   {
     "id": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df",
@@ -4605,7 +4596,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-23T20:00:08.668Z"
+    "pushedAt": "2026-11-23T22:22:55.993Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -7323,7 +7314,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
     "image": null,
-    "pushedAt": "2026-11-23T20:00:58.955Z"
+    "pushedAt": "2026-11-23T22:23:45.886Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
@@ -8245,12 +8236,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
-    "title": "Nvidia’s Comeback Exposes the Trap Gripping Stock Investors",
+    "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
     "titleZh": "英偉達的捲土重來揭露了股票投資人的陷阱",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
     "image": null,
-    "pushedAt": "2026-11-23T20:00:33.982Z"
+    "pushedAt": "2026-11-23T22:23:20.798Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
     "image": null,
     "pushedAt": "2026-11-23T22:22:01.568Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/belton-this-volatility-isn-t-healthy-for-the-market-video",
+    "title": "John Belton: This Volatility Isn’t Healthy for the Market",
+    "titleZh": "約翰貝爾頓：這種波動對市場不利",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/belton-this-volatility-isn-t-healthy-for-the-market-video",
+    "image": null,
+    "pushedAt": "2026-11-23T22:24:14.298Z"
   }
 ]
