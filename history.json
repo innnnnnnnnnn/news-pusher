@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
-    "title": "Holiday Shoppers Seek Affordability at Walmart, Target and Other Retailers",
-    "titleZh": "假日購物者在沃爾瑪、塔吉特和其他零售商處尋求實惠",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/target-walmart-retail-affordability-holiday.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-affordability-earnings-01-bvjf/19biz-affordability-earnings-01-bvjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T04:01:46.582Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video",
     "title": "Anthropic Makes Trading Debut With Record Breaking IPO",
     "titleZh": "Anthropic 以破紀錄的 IPO 首次亮相",
@@ -1806,7 +1797,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:11:42.646Z"
+    "pushedAt": "2026-11-23T09:33:20.363Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
@@ -4173,7 +4164,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-23T07:11:17.858Z"
+    "pushedAt": "2026-11-23T09:32:55.266Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/cloud-infrastructure-firm-cloudferro-is-said-to-weigh-warsaw-ipo",
@@ -6504,7 +6495,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:10:53.397Z"
+    "pushedAt": "2026-11-23T09:32:30.721Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
@@ -7809,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T07:10:04.161Z"
+    "pushedAt": "2026-11-23T09:31:40.942Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
@@ -8173,12 +8164,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
-    "title": "Singapore Core Inflation Eases to 1.5% as Electricity Rates Cut",
+    "title": "Singapore Core Inflation Eases to 1.5%, Giving MAS Room to Pause",
     "titleZh": "隨著電費下調，新加坡核心通膨率降至 1.5%",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
     "image": null,
-    "pushedAt": "2026-11-23T07:10:28.825Z"
+    "pushedAt": "2026-11-23T09:32:05.986Z"
   },
   {
     "id": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/0c67d60c-d3e9-46b2-9c5e-5ed1f690d362?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-23T09:31:12.702Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
+    "title": "The messy breakdown of the UN’s climate conference",
+    "titleZh": "聯合國氣候會議的混亂局面",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
+    "image": null,
+    "pushedAt": "2026-11-23T09:33:47.596Z"
   }
 ]
