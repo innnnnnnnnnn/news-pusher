@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/propagate-co-ceo-on-new-sam-bankman-fried-docuseries-video",
-    "title": "Propagate Co-CEO on New Sam Bankman-Fried Docuseries",
-    "titleZh": "在新的薩姆·班克曼-弗里德系列紀錄片中宣傳聯合首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/propagate-co-ceo-on-new-sam-bankman-fried-docuseries-video",
-    "image": null,
-    "pushedAt": "2026-11-20T05:53:32.128Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/catl-innolight-may-join-hong-kong-tech-index-in-major-ai-revamp",
     "title": "CATL, Innolight May Join Hong Kong Tech Index in Major AI Revamp",
     "titleZh": "寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
@@ -87,7 +78,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T11:14:36.673Z"
+    "pushedAt": "2026-11-23T13:49:37.185Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
@@ -5388,7 +5379,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-23T11:15:01.534Z"
+    "pushedAt": "2026-11-23T13:50:02.072Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/thailand-plans-to-ban-exports-of-chemicals-as-it-tackles-pollution",
@@ -6499,12 +6490,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-    "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap",
+    "title": "US Stock Futures Bounce on Wall Street Buy Calls: Markets Wrap",
     "titleZh": "美國拋售後，亞洲準備迎接更大的波動：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
     "image": null,
-    "pushedAt": "2026-11-23T11:12:00.247Z"
+    "pushedAt": "2026-11-23T13:48:20.009Z"
   },
   {
     "id": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9",
@@ -7971,7 +7962,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-am-says-ai-borrowing-binge-is-holding-back-bond-rally",
     "image": null,
-    "pushedAt": "2026-11-23T11:14:11.905Z"
+    "pushedAt": "2026-11-23T13:49:11.685Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/stock-rotation-will-go-international-3-minutes-mliv-video",
@@ -8457,7 +8448,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T11:12:28.764Z"
+    "pushedAt": "2026-11-23T13:48:46.058Z"
   },
   {
     "id": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T13:47:50.460Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+    "title": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images",
+    "titleZh": "俄勒岡州和維吉尼亞州因人工智慧產生的色情圖片而起訴 SpaceX",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23BIZ-GROK-LAWSUIT-qtmp/23BIZ-GROK-LAWSUIT-qtmp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T13:50:31.609Z"
   }
 ]
