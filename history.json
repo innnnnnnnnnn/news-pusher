@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/yen-outperforms-g-10-peers-as-tech-selloff-fuels-haven-demand",
-    "title": "Yen Outperforms G-10 Peers as Tech Selloff Fuels Haven Demand",
-    "titleZh": "科技股拋售推動避險需求，日圓表現優於 G-10 貨幣",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/yen-outperforms-g-10-peers-as-tech-selloff-fuels-haven-demand",
-    "image": null,
-    "pushedAt": "2026-11-20T06:55:41.874Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/malaysia-exports-hit-record-high-in-october-on-ai-related-demand",
     "title": "Malaysia Exports Hit Record High in October on AI-Related Demand",
     "titleZh": "人工智慧相關需求推動馬來西亞 10 月出口創歷史新高",
@@ -231,7 +222,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T14:34:45.614Z"
+    "pushedAt": "2026-11-23T17:06:32.401Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
@@ -7431,7 +7422,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
     "image": null,
-    "pushedAt": "2026-11-23T14:35:10.381Z"
+    "pushedAt": "2026-11-23T17:06:57.467Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/what-a-town-of-vibecoders-says-about-the-chinese-economy-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/ST-RIVETER-FOUNDER-01-kzpj/ST-RIVETER-FOUNDER-01-kzpj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T17:06:02.365Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/we-re-not-making-rash-decisions-says-yoshioka-video",
+    "title": "Return of Huang to Nvidia Raises More Questions, Says Investor Yoshioka",
+    "titleZh": "投資者吉岡表示，黃仁勳重返英偉達引發了更多問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/we-re-not-making-rash-decisions-says-yoshioka-video",
+    "image": null,
+    "pushedAt": "2026-11-23T17:07:26.791Z"
   }
 ]
