@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/64822545-cd35-44d0-b267-b6231893666b",
-    "title": "UK’s long-delayed pensions dashboard now due to launch next year",
-    "titleZh": "英國拖延已久的退休金儀表板將於明年推出",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/64822545-cd35-44d0-b267-b6231893666b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T04:58:50.966Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/apple-has-a-software-problem-nvidia-s-ceo-crisis-with-joanna-stern",
     "title": "Apple Has a Software Problem + Nvidia’s CEO Crisis with Joanna Stern",
     "titleZh": "蘋果有軟體問題+英偉達執行長與喬安娜·史特恩的危機",
@@ -1113,7 +1104,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:33:54.972Z"
+    "pushedAt": "2026-11-23T08:51:10.535Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
@@ -1149,7 +1140,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/c9v71ka1h?ref=rss",
     "image": "https://cdn.flipso.com/p/c9v71ka1h_square.jpg",
-    "pushedAt": "2026-11-23T06:35:08.679Z"
+    "pushedAt": "2026-11-23T08:52:24.684Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
@@ -6009,7 +6000,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:34:44.029Z"
+    "pushedAt": "2026-11-23T08:51:59.564Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
@@ -6414,7 +6405,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-23T06:34:19.521Z"
+    "pushedAt": "2026-11-23T08:51:35.112Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/thailand-plans-to-ban-exports-of-chemicals-as-it-tackles-pollution",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-am-says-ai-borrowing-binge-is-holding-back-bond-rally",
     "image": null,
     "pushedAt": "2026-11-23T08:50:42.034Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/stock-rotation-will-go-international-3-minutes-mliv-video",
+    "title": "Stock Rotation Will Go International: Market Analysis",
+    "titleZh": "庫存輪換將走向國際化：市場分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/stock-rotation-will-go-international-3-minutes-mliv-video",
+    "image": null,
+    "pushedAt": "2026-11-23T08:52:51.223Z"
   }
 ]
