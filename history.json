@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-tech-11-19-2026-video",
-    "title": "Anthropic Makes Historic Debut on Nasdaq",
-    "titleZh": "Anthropic 在納斯達克歷史性地首次亮相",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-tech-11-19-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-19T21:54:37.988Z"
-  },
-  {
-    "id": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50",
-    "title": "Sage maps out the attractions of the UK’s tech hinterland",
-    "titleZh": "Sage 繪製了英國科技腹地的吸引力圖",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T06:51:55.219Z"
-  },
-  {
     "id": "https://www.ft.com/content/e444203b-c639-4cb5-b35a-75829d2d62de",
     "title": "Leaked files shine a harsh light on Deutsche Bank",
     "titleZh": "洩漏的文件為德意志銀行帶來了刺眼的光芒",
@@ -2364,7 +2346,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20FD-sourdough-shortcut-promo1-fcwp/20FD-sourdough-shortcut-promo1-fcwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:55:48.761Z"
+    "pushedAt": "2026-11-23T10:19:05.506Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
     "image": null,
     "pushedAt": "2026-11-23T10:18:37.227Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html",
+    "title": "The National Popular Vote and the End of the Electoral College as We Know It",
+    "titleZh": "全國普選和我們所知的選舉團制度的終結",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/opinion/23wegman-image/23wegman-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T10:19:35.647Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html",
+    "title": "China’s A.I. Freakout Is Coming. Just Wait.",
+    "titleZh": "中国的人工智能疯狂即将来临。等等。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/opinion/23wang/23wang-mediumSquareAt3X-v2.png",
+    "pushedAt": "2026-11-23T10:19:44.484Z"
   }
 ]
