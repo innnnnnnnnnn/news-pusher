@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
-    "title": "Anthropic IPO’s Australia Tranche Said About 10 Times Subscribed",
-    "titleZh": "Anthropic IPO 僅從澳洲投資者籌集 1.1 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
-    "image": null,
-    "pushedAt": "2026-11-20T04:18:47.145Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
     "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
     "titleZh": "Anthropic 以價值 2 兆美元的公司身分登陸華爾街",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/forint-jumps-after-hungary-softens-interest-rate-guidance",
     "image": null,
     "pushedAt": "2026-11-23T14:31:03.437Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+    "title": "Anthropic soars, but it may soon be back, cap in hand",
+    "titleZh": "人類猛增，但它可能很快就會捲土重來",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+    "image": null,
+    "pushedAt": "2026-11-23T14:31:32.595Z"
   }
 ]
