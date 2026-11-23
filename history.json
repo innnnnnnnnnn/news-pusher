@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-    "title": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
-    "titleZh": "羅恩·德桑蒂斯思考後川普時代的總統競選",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-desantis-01-qtlc/20pol-desantis-01-qtlc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T17:59:56.018Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
-    "title": "The Race to Build a Quantum Computer Has Become a Sprint",
-    "titleZh": "打造量子電腦的競賽已成為衝刺賽",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:23:13.993Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html",
     "title": "Quantum Computing Is Even Weirder Than You Think",
     "titleZh": "量子計算比你想像的還要奇怪",
@@ -1824,7 +1806,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
     "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:56:18.057Z"
+    "pushedAt": "2026-11-23T23:18:35.066Z"
   },
   {
     "id": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
@@ -4920,7 +4902,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/uk-workers-stay-put-as-safety-trumps-pay-in-perilous-jobs-market",
     "image": null,
-    "pushedAt": "2026-11-23T20:55:28.025Z"
+    "pushedAt": "2026-11-23T23:18:10.328Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
@@ -5388,7 +5370,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:56:42.982Z"
+    "pushedAt": "2026-11-23T23:19:00.088Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/ing-s-sareen-asia-ai-chip-demand-unlikely-to-crash-video",
@@ -7233,7 +7215,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:57:08.455Z"
+    "pushedAt": "2026-11-23T23:19:25.466Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
     "image": null,
     "pushedAt": "2026-11-23T23:17:41.978Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html",
+    "title": "With Jensen Huang, Trump Strikes Another Blow for Billionaire Impunity",
+    "titleZh": "川普與黃仁勳一起再次打擊億萬富翁有罪不罰的現象",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23goldberg-vlph/23goldberg-vlph-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-23T23:19:52.836Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
+    "title": "Startup Options Exchange Asks SEC to Approve Two New Venues",
+    "titleZh": "新創期權交易所要求 SEC 批准兩個新場地",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
+    "image": null,
+    "pushedAt": "2026-11-23T23:19:57.872Z"
   }
 ]
