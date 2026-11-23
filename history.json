@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/cf6e81b6-e3aa-4475-8d5b-04eb8809d5ce",
-    "title": "The rift between the US and EU on banks is widening",
-    "titleZh": "美國和歐盟在銀行問題上的分歧正在擴大",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/cf6e81b6-e3aa-4475-8d5b-04eb8809d5ce?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T21:13:51.131Z"
-  },
-  {
     "id": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe",
     "title": "Why Britons can feel smugger than the French",
     "titleZh": "為什麼英國人會比法國人感到自鳴得意",
@@ -816,7 +807,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T15:18:33.502Z"
+    "pushedAt": "2026-11-23T17:45:48.762Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
@@ -825,7 +816,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T15:18:59.182Z"
+    "pushedAt": "2026-11-23T17:46:13.805Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
@@ -5361,7 +5352,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-23T15:19:24.198Z"
+    "pushedAt": "2026-11-23T17:46:39.659Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
     "image": null,
     "pushedAt": "2026-11-23T17:45:20.578Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+    "title": "Nvidia’s Comeback Exposes the Trap Gripping Stock Investors",
+    "titleZh": "英偉達的捲土重來揭露了股票投資人的陷阱",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+    "image": null,
+    "pushedAt": "2026-11-23T17:47:08.037Z"
   }
 ]
