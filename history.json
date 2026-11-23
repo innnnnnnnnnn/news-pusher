@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
-    "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
-    "titleZh": "食物配送正在《俠盜獵車手》中大放異彩",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19FD-gta-food-delivery1-hwvj/19FD-gta-food-delivery1-hwvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T09:59:08.369Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
     "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
     "titleZh": "美國銀行表示，戰爭驅動的成本擠壓給公司敲響了警鐘",
@@ -654,7 +645,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/c9v71ka1h?ref=rss",
     "image": "https://cdn.flipso.com/p/c9v71ka1h_square.jpg",
-    "pushedAt": "2026-11-23T08:52:24.684Z"
+    "pushedAt": "2026-11-23T11:16:21.327Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
@@ -3642,7 +3633,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T08:53:19.325Z"
+    "pushedAt": "2026-11-23T11:16:46.178Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/musk-ally-akis-joins-board-of-doge-alumni-firm-after-new-round",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd3ff7b5e-d1fa-4133-8d82-b8b1efd244d5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-23T11:15:53.275Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/crowdstrike-to-acquire-zscaler-in-44-billion-deal-video",
+    "title": "CrowdStrike to Acquire Zscaler in $44 Billion CyberSecurity Deal",
+    "titleZh": "CrowdStrike 將以 440 億美元的網路安全交易收購 Zscaler",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/crowdstrike-to-acquire-zscaler-in-44-billion-deal-video",
+    "image": null,
+    "pushedAt": "2026-11-23T11:17:12.342Z"
   }
 ]
