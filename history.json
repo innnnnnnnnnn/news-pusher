@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/lyoq3jqck",
-    "title": "Your room can be as bright as the outdoors",
-    "titleZh": "您的房間可以像室外一樣明亮",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/lyoq3jqck?ref=rss",
-    "image": "https://cdn.flipso.com/p/lyoq3jqck_square.jpg",
-    "pushedAt": "2026-11-20T12:49:06.595Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/joanna-stern-on-siri-s-ios-27-issues-and-her-viral-apple-dad-review",
     "title": "Joanna Stern on Siri’s iOS 27 Issues and Her Viral ‘Apple Dad’ Review",
     "titleZh": "Joanna Stern 談 Siri 的 iOS 27 問題以及她的“蘋果爸爸”評論",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack",
     "image": null,
     "pushedAt": "2026-11-23T11:46:47.422Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+    "title": "Love and Carjackings in a Video Game",
+    "titleZh": "電子遊戲中的愛情與劫車",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+    "image": null,
+    "pushedAt": "2026-11-23T11:47:16.430Z"
   }
 ]
