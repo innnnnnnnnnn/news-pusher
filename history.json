@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
-    "title": "Thailand’s fertility rate is collapsing",
-    "titleZh": "泰國的生育率正在崩潰",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
-    "image": null,
-    "pushedAt": "2026-11-23T02:06:07.792Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "title": "China is kicking up a fuss over a Japanese spy show",
     "titleZh": "中國對日本間諜節目大驚小怪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
     "image": null,
     "pushedAt": "2026-11-23T04:09:58.723Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+    "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
+    "titleZh": "普丁、川普和習近平譴責核戰，歐洲密切關注",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T04:10:28.334Z"
   }
 ]
