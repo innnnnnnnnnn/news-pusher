@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5",
-    "title": "White House replaces top cyber security official",
-    "titleZh": "白宮更換最高網路安全官員",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T05:01:41.514Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
     "title": "Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’",
     "titleZh": "吉米·金梅爾回顧川普的“大暗峰會”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/ex-volkswagen-engineer-admits-to-insider-trading-on-rivian-deal",
     "image": null,
     "pushedAt": "2026-11-23T21:27:11.085Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
+    "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
+    "titleZh": "澳洲建造的第一艘軍艦沉沒 128 年後殘骸被發現",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
+    "image": null,
+    "pushedAt": "2026-11-23T21:27:39.341Z"
   }
 ]
