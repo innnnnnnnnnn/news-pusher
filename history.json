@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a",
-    "title": "The key to Anthropic’s value",
-    "titleZh": "Anthropic價值的關鍵",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F977fb242-f3ba-40c2-acaf-d80b84b9217a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T03:34:27.112Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years",
     "title": "Traders Are Betting on Interest Rates Staying High for Years",
     "titleZh": "交易員押注利率將持續多年維持高位",
@@ -474,7 +465,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
     "image": null,
-    "pushedAt": "2026-11-23T00:48:12.064Z"
+    "pushedAt": "2026-11-23T02:47:30.385Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/protesters-converge-on-nasdaq-for-anthropic-ipo-video",
@@ -8646,7 +8637,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/video/06206392-4100-4aa2-86e7-e38e4ceb9138?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T00:49:07.365Z"
+    "pushedAt": "2026-11-23T02:48:20.170Z"
   },
   {
     "id": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
@@ -8866,12 +8857,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-    "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+    "title": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
     "titleZh": "隨著交易員減少對近期聯準會升息的押注，金價反彈",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
     "image": null,
-    "pushedAt": "2026-11-23T00:48:40.204Z"
+    "pushedAt": "2026-11-23T02:47:55.981Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
     "image": null,
     "pushedAt": "2026-11-23T02:36:49.842Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+    "title": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
+    "titleZh": "MSCI 與 Prabowo、Dalio 討論避免印尼評級下調",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+    "image": null,
+    "pushedAt": "2026-11-23T02:48:46.654Z"
   }
 ]
