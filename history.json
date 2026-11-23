@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
-    "title": "US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show",
-    "titleZh": "數據顯示，美國批准向中國騰訊、阿里巴巴銷售人工智慧晶片",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
-    "image": null,
-    "pushedAt": "2026-11-19T22:36:57.350Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
     "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.",
     "titleZh": "加州風暴席捲南部，引發洛杉磯一些疏散警告",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T12:57:22.802Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+    "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
+    "titleZh": "兩家主要網路安全公司將以 440 億美元的交易合併",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/biz-crowdstrike-zscaler-cwpb/biz-crowdstrike-zscaler-cwpb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T13:09:51.197Z"
   }
 ]
