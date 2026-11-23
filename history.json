@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
-    "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
-    "titleZh": "參議院通過加快能源項目的主要許可法案",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T08:47:09.796Z"
-  },
-  {
     "id": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c",
     "title": "UK inflation rose to one-year high of 3.6% in October",
     "titleZh": "英國10月份通膨率升至一年高點3.6%",
@@ -5307,7 +5298,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22DB-mamdani-kmcp/22DB-mamdani-kmcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T14:25:33.136Z"
+    "pushedAt": "2026-11-23T16:56:35.501Z"
   },
   {
     "id": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-23T16:55:40.243Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
+    "title": "Nvidia Rehires Huang in Stunning Comeback",
+    "titleZh": "Nvidia 重新聘用黃仁勳，令人驚嘆的東山再起",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
+    "image": null,
+    "pushedAt": "2026-11-23T16:57:02.209Z"
   }
 ]
