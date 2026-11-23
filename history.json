@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/the-asia-trade-11-20-2026-video",
-    "title": "Global Stocks Set for Worst Run Since 2023 as AI Enthusiasm Fades",
-    "titleZh": "隨著人工智慧熱情消退，全球股市將錄得 2023 年以來最差表現",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-asia-trade-11-20-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-20T06:28:08.128Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/lenovo-cfo-winston-cheng-on-earnings-video",
     "title": "Lenovo CFO Winston Cheng On Earnings",
     "titleZh": "聯想財務長鄭溫斯頓談盈利",
@@ -7458,7 +7449,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/briefing/nvidia-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23themorning-nl-fmhk/23themorning-nl-fmhk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T16:48:18.386Z"
+    "pushedAt": "2026-11-23T19:10:34.653Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack",
@@ -8448,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-seeks-to-recover-more-than-1-billion-from-binance-hack",
     "image": null,
-    "pushedAt": "2026-11-23T16:47:19.162Z"
+    "pushedAt": "2026-11-23T19:10:08.997Z"
   },
   {
     "id": "https://flipso.com/p/whixozkc3",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-23T19:09:39.388Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
+    "title": "In Iowa, Chaos and Confusion Over Planned Ammunition Explosion",
+    "titleZh": "在愛荷華州，計劃中的彈藥爆炸造成混亂和混亂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T19:11:03.348Z"
   }
 ]
