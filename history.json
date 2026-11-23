@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video",
-    "title": "Anthropic Begins Trading on Nasdaq at $111.50",
-    "titleZh": "Anthropic 開始在納斯達克交易，價格為 111.50 美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video",
-    "image": null,
-    "pushedAt": "2026-11-19T20:31:17.518Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
     "title": "Myanmar’s regime is convicted of genocide",
     "titleZh": "緬甸政權被判種族滅絕罪",
@@ -708,7 +699,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
     "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:55:25.478Z"
+    "pushedAt": "2026-11-23T09:14:37.988Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-china-is-still-winning-the-export-race-video",
@@ -735,7 +726,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:57:54.945Z"
+    "pushedAt": "2026-11-23T09:17:07.753Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
@@ -3156,7 +3147,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
     "image": null,
-    "pushedAt": "2026-11-23T06:56:39.654Z"
+    "pushedAt": "2026-11-23T09:15:52.936Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/novartis-ceo-says-us-china-biotech-curbs-risk-drug-development",
@@ -3552,7 +3543,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00-AI-token-callout-01-bwlm/00-AI-token-callout-01-bwlm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:56:14.676Z"
+    "pushedAt": "2026-11-23T09:15:28.018Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
@@ -5514,7 +5505,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/uolcmtnzk?ref=rss",
     "image": "https://cdn.flipso.com/p/uolcmtnzk_square.jpg",
-    "pushedAt": "2026-11-23T06:57:30.471Z"
+    "pushedAt": "2026-11-23T09:16:42.345Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
@@ -6234,7 +6225,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
     "image": null,
-    "pushedAt": "2026-11-23T06:55:50.082Z"
+    "pushedAt": "2026-11-23T09:15:03.042Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
@@ -7692,7 +7683,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
     "image": null,
-    "pushedAt": "2026-11-23T06:57:05.727Z"
+    "pushedAt": "2026-11-23T09:16:17.465Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/euro-zone-activity-holds-steady-as-germany-offsets-french-slump",
     "image": null,
     "pushedAt": "2026-11-23T09:06:40.893Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/futures-rally-following-ai-selloff-havens-decline",
+    "title": "Futures Rally Following AI Selloff, Havens Decline",
+    "titleZh": "人工智慧拋售後期貨反彈，避風港下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/futures-rally-following-ai-selloff-havens-decline",
+    "image": null,
+    "pushedAt": "2026-11-23T09:17:34.722Z"
   }
 ]
