@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
-    "title": "Tinto Brass Has Died. He Directed the Erotic Epic ‘Caligula.’",
-    "titleZh": "廷托黃銅去世了。他執導了情色史詩《卡利古拉》。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19obits-brass-hqcl/19obits-brass-hqcl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T12:43:51.276Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
     "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
     "titleZh": "技術承諾輕鬆。停電讓許多美國人感到不安。",
@@ -987,7 +978,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
     "image": null,
-    "pushedAt": "2026-11-23T13:35:50.008Z"
+    "pushedAt": "2026-11-23T16:02:34.304Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
@@ -5451,7 +5442,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T13:36:15.088Z"
+    "pushedAt": "2026-11-23T16:02:59.060Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-soar-as-huang-s-nvidia-return-fuels-ai-bets-video",
     "image": null,
     "pushedAt": "2026-11-23T16:01:11.564Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/odd-lots-can-huawei-challenge-nvidia-in-the-ai-arms-race",
+    "title": "Odd Lots: Can Huawei Challenge Nvidia in the AI Arms Race?",
+    "titleZh": "奇怪的事：華為能否在人工智慧軍備競賽中挑戰英偉達？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/odd-lots-can-huawei-challenge-nvidia-in-the-ai-arms-race",
+    "image": null,
+    "pushedAt": "2026-11-23T16:03:27.986Z"
   }
 ]
