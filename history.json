@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
-    "title": "Here’s the latest.",
-    "titleZh": "這是最新的。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
-    "image": null,
-    "pushedAt": "2026-11-22T09:57:42.397Z"
-  },
-  {
     "id": "https://flipso.com/p/gytoio04l",
     "title": "A weird medieval gift guide, volume II",
     "titleZh": "奇怪的中世紀禮物指南，第二卷",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
     "image": null,
     "pushedAt": "2026-11-23T03:00:47.946Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+    "title": "Inside a Rohingya Camp After a Genocide Ruling",
+    "titleZh": "種族滅絕裁決後的羅辛亞營地內部",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+    "image": null,
+    "pushedAt": "2026-11-23T03:01:19.541Z"
   }
 ]
