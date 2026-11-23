@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
-    "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
-    "titleZh": "川普會晤背後，習近平和普丁都有篡奪美國權力的願景",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T20:36:18.656Z"
-  },
-  {
     "id": "https://www.ft.com/content/e3135e3a-32f6-408f-9519-4f60d275f485",
     "title": "China nears a nuclear energy milestone",
     "titleZh": "中國接近核能里程碑",
@@ -411,7 +402,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fsgbqaa5f?ref=rss",
     "image": "https://cdn.flipso.com/p/fsgbqaa5f_square.jpg",
-    "pushedAt": "2026-11-22T22:06:44.255Z"
+    "pushedAt": "2026-11-23T00:12:57.860Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
@@ -7926,7 +7917,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
     "image": null,
-    "pushedAt": "2026-11-22T22:05:31.264Z"
+    "pushedAt": "2026-11-23T00:11:43.968Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
@@ -8007,7 +7998,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
     "image": null,
-    "pushedAt": "2026-11-22T22:05:55.782Z"
+    "pushedAt": "2026-11-23T00:12:08.257Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
@@ -8367,7 +8358,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
     "image": null,
-    "pushedAt": "2026-11-22T22:06:19.908Z"
+    "pushedAt": "2026-11-23T00:12:33.081Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-s-early-exports-gain-after-1-trillion-milestone",
     "image": null,
     "pushedAt": "2026-11-23T00:11:16.308Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/uk-workers-stay-put-as-safety-trumps-pay-in-perilous-jobs-market",
+    "title": "UK Workers Stay Put as Safety Trumps Pay in Perilous Jobs Market",
+    "titleZh": "在危險的就業市場中，安全勝過報酬，英國工人留在原地",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/uk-workers-stay-put-as-safety-trumps-pay-in-perilous-jobs-market",
+    "image": null,
+    "pushedAt": "2026-11-23T00:13:26.757Z"
   }
 ]
