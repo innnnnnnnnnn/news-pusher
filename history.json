@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
-    "title": "Intolerance of Uncertainty Is Rising in Young Adults",
-    "titleZh": "年輕人對不確定性的不容忍度正在上升",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/WELL-UNCERTAINTY-ANXIETY1-jvzm/WELL-UNCERTAINTY-ANXIETY1-jvzm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T00:05:28.357Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/life-insurers-lagging-in-private-market-risk-assessments-video",
     "title": "Life Insurers Are Lagging in Private Markets Risk Assessments, ex-Athora CRO Says",
     "titleZh": "人壽保險公司在私人市場風險評估方面落後",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/france-s-private-sector-weakens-on-election-budget-concerns",
     "image": null,
     "pushedAt": "2026-11-23T08:27:04.528Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+    "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
+    "titleZh": "在與習近平和普丁的峰會上，川普尋求在國內分享權力的同時向海外投射權力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T08:27:33.541Z"
   }
 ]
