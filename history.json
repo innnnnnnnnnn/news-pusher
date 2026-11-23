@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html",
-    "title": "Quantum Computing Is Even Weirder Than You Think",
-    "titleZh": "量子計算比你想像的還要奇怪",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-CONTEXTUALITY-fwhv/19SCI-QUANTUM-CONTEXTUALITY-fwhv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:23:37.299Z"
-  },
-  {
     "id": "https://flipso.com/p/kcmjcx47c",
     "title": "Photos of the Barbican in Its Early Days",
     "titleZh": "巴比肯早期的照片",
@@ -6675,7 +6666,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:58:06.097Z"
+    "pushedAt": "2026-11-23T23:20:51.861Z"
   },
   {
     "id": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb",
@@ -7674,7 +7665,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:58:32.185Z"
+    "pushedAt": "2026-11-23T23:21:17.055Z"
   },
   {
     "id": "https://flipso.com/p/kak95rc8t",
@@ -8533,12 +8524,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
-    "title": "US to Blacklist Megaspeed, the Firm at Center of Nvidia Scandal",
+    "title": "US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis",
     "titleZh": "美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
     "image": null,
-    "pushedAt": "2026-11-23T20:57:36.210Z"
+    "pushedAt": "2026-11-23T23:20:26.570Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/fed-s-watchdog-probes-whether-bowman-broke-communications-rules",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
     "image": null,
     "pushedAt": "2026-11-23T23:19:57.872Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+    "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+    "titleZh": "英偉達為何恢復黃仁勳擔任執行長？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+    "image": null,
+    "pushedAt": "2026-11-23T23:21:43.908Z"
   }
 ]
