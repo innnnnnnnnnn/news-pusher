@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/pakistan-minister-makes-rare-india-visit-for-regional-forum",
-    "title": "Pakistan Minister Makes Rare India Visit for Regional Forum",
-    "titleZh": "巴基斯坦部長罕見訪問印度參加地區論壇",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/pakistan-minister-makes-rare-india-visit-for-regional-forum",
-    "image": null,
-    "pushedAt": "2026-11-20T07:01:38.048Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
     "title": "China Has Capacity, But Maybe Not the Will to Boost Fuel Exports",
     "titleZh": "中國有能力，但可能沒有增加燃料出口的意願",
@@ -6729,7 +6720,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/32f7f678-1037-4922-860b-4b7f3c9f6de7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T14:46:09.936Z"
+    "pushedAt": "2026-11-23T17:15:12.437Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
@@ -7116,7 +7107,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T14:46:35.148Z"
+    "pushedAt": "2026-11-23T17:15:37.902Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/amjad-dubai-s-property-boom-strategic-with-vision-2040-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-state-support-measures",
     "image": null,
     "pushedAt": "2026-11-23T17:14:44.156Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+    "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
+    "titleZh": "據說川普已指示努力恢復英偉達執行長的職位",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-Trump-interview-gwmt/23nvidia-Trump-interview-gwmt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T17:16:04.647Z"
   }
 ]
