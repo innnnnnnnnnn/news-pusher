@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-    "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-    "titleZh": "土耳其的貨車貓與氣溫上升作鬥爭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:19:55.218Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-    "titleZh": "戰爭也正在破壞烏克蘭的野生動物",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:21:05.137Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-    "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-    "titleZh": "在執行長突然上任後，股票通常會上漲出口。英偉達有什麼不同嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-    "image": null,
-    "pushedAt": "2026-11-23T22:27:46.439Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
     "title": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
     "titleZh": "是「A.I.」特工來買我們的酵母發酵劑嗎？",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/zoom-projects-revenue-that-misses-estimates-on-stagnant-growth",
     "image": null,
     "pushedAt": "2026-11-23T22:29:50.150Z"
+  },
+  {
+    "id": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763",
+    "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+    "titleZh": "黃仁勳回歸後，川普買進英偉達股票高達 1,500 萬美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T22:30:22.920Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514",
+    "title": "FirstFT: Nvidia adds nearly $1tn in value after Jensen Huang reinstated",
+    "titleZh": "FirstFT：黃仁勳復職後，Nvidia 的價值增加了近 1 兆美元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T22:30:28.221Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+    "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+    "titleZh": "神職人員性虐待的受害者希望教宗利奧更多參與",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T22:30:30.995Z"
   }
 ]
