@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e",
-    "title": "The good and the bad of climate policy",
-    "titleZh": "氣候政策的好與壞",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T06:56:06.621Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/currency-playbook-gets-rewritten-in-asia-as-losers-bounce-back",
     "title": "Currency Playbook Gets Rewritten in Asia as Losers Bounce Back",
     "titleZh": "隨著輸家反彈，亞洲貨幣劇本被改寫",
@@ -6481,12 +6472,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
-    "title": "Treasuries Decline as Haven Demand Wanes on Stock Market Gains",
+    "title": "Treasuries Drop as Huang’s Nvidia Return Bruises Haven Trade",
     "titleZh": "由於股票期貨上漲抑制避險需求，國債期貨下跌",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
     "image": null,
-    "pushedAt": "2026-11-23T10:20:38.087Z"
+    "pushedAt": "2026-11-23T14:37:23.816Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-s-early-exports-gain-after-1-trillion-milestone",
@@ -7116,7 +7107,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/54b6f97e-7818-4902-9755-63d9a4867a2d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T11:59:42.728Z"
+    "pushedAt": "2026-11-23T14:37:48.690Z"
   },
   {
     "id": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd",
@@ -7124,8 +7115,8 @@
     "titleZh": "循環人工智慧經濟的問題",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8dca86f2-7a3a-403a-a586-cdaf6aa59adc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T12:00:07.594Z"
+    "image": null,
+    "pushedAt": "2026-11-23T14:38:13.700Z"
   },
   {
     "id": "https://www.ft.com/content/a216892d-190c-41dd-8473-03643a8c5350",
@@ -7134,7 +7125,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a216892d-190c-41dd-8473-03643a8c5350?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T12:00:32.237Z"
+    "pushedAt": "2026-11-23T14:38:38.514Z"
   },
   {
     "id": "https://www.ft.com/content/78b01bf4-3550-41cb-ac52-2f3426b58232",
@@ -8421,7 +8412,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh",
     "image": null,
-    "pushedAt": "2026-11-23T12:01:02.934Z"
+    "pushedAt": "2026-11-23T14:39:03.684Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/ai-slump-export-controls-and-economic-security",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
     "image": null,
     "pushedAt": "2026-11-23T14:36:54.724Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-reinstates-jensen-huang-as-ceo-video",
+    "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+    "titleZh": "Nvidia 董事會恢復黃仁勳擔任首席執行官",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-reinstates-jensen-huang-as-ceo-video",
+    "image": null,
+    "pushedAt": "2026-11-23T14:39:30.953Z"
   }
 ]
