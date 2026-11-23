@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/uk-retail-sales-rebound-as-brits-stock-up-on-emergency-supplies",
-    "title": "UK Retail Sales Jump as Brits Stock Up on Emergency Supplies",
-    "titleZh": "英國人囤積緊急物資，英國零售銷售額回升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-retail-sales-rebound-as-brits-stock-up-on-emergency-supplies",
-    "image": null,
-    "pushedAt": "2026-11-21T06:09:45.181Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/uk-posts-smaller-than-forecast-budget-deficit-for-october",
     "title": "UK Posts Smaller-Than-Forecast Budget Deficit as Taxes Hold Up",
     "titleZh": "英國公佈 10 月預算赤字低於預期",
@@ -4767,7 +4758,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
     "image": null,
-    "pushedAt": "2026-11-23T17:16:32.891Z"
+    "pushedAt": "2026-11-23T19:36:39.532Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/why-your-health-insurance-keeps-getting-more-expensive-video",
@@ -6647,8 +6638,8 @@
     "titleZh": "南韓部長辭職，稱自己太老了，無法解決人工智慧考試作弊問題",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T17:15:37.902Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12f752f8-18cd-40c6-9391-db6d287a1ccb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T19:35:49.168Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/amjad-dubai-s-property-boom-strategic-with-vision-2040-video",
@@ -8538,7 +8529,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-Trump-interview-gwmt/23nvidia-Trump-interview-gwmt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T17:16:04.647Z"
+    "pushedAt": "2026-11-23T19:36:14.625Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/gold-s-rebound-technical-bounce-or-opportunity-video",
@@ -8547,7 +8538,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/gold-s-rebound-technical-bounce-or-opportunity-video",
     "image": null,
-    "pushedAt": "2026-11-23T17:17:27.293Z"
+    "pushedAt": "2026-11-23T19:37:05.080Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/port-authority-eyes-1-billion-muni-sale-as-cost-pressures-mount",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/lawmakers-demand-answers-as-huang-returns-to-nvidia-video",
     "image": null,
     "pushedAt": "2026-11-23T19:35:20.343Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
+    "title": "The world’s back office aims to become a “deep-tech” powerhouse",
+    "titleZh": "全球後台立志成為「深科技」強國",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
+    "image": null,
+    "pushedAt": "2026-11-23T19:37:33.864Z"
   }
 ]
