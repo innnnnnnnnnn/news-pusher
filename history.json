@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/tech-leaders-experts-question-anthropic-safety-pledges-video",
-    "title": "Anthropic’s Safety Pledges Questioned by Tech Leaders, Scientists",
-    "titleZh": "Anthropic 的安全承諾受到技術領袖和科學家的質疑",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/tech-leaders-experts-question-anthropic-safety-pledges-video",
-    "image": null,
-    "pushedAt": "2026-11-19T18:32:20.696Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/ninety-one-s-cheveley-sees-commodities-rebound-on-supply-woes",
-    "title": "Ninety One’s Cheveley Sees Commodities Rebound on Supply Woes",
-    "titleZh": "九十號的切維利認為大宗商品因供應困境而反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ninety-one-s-cheveley-sees-commodities-rebound-on-supply-woes",
-    "image": null,
-    "pushedAt": "2026-11-19T13:57:46.307Z"
-  },
-  {
     "id": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a",
     "title": "The key to Anthropic’s value",
     "titleZh": "Anthropic價值的關鍵",
@@ -1824,7 +1806,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vo68xupzj?ref=rss",
     "image": "https://cdn.flipso.com/p/vo68xupzj_square.jpg",
-    "pushedAt": "2026-11-23T00:35:22.246Z"
+    "pushedAt": "2026-11-23T02:35:06.049Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
@@ -4713,7 +4695,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "image": null,
-    "pushedAt": "2026-11-23T00:36:10.999Z"
+    "pushedAt": "2026-11-23T02:35:54.481Z"
   },
   {
     "id": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60",
@@ -6756,7 +6738,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
     "image": null,
-    "pushedAt": "2026-11-23T00:35:46.495Z"
+    "pushedAt": "2026-11-23T02:35:30.215Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
@@ -6765,7 +6747,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T00:36:35.275Z"
+    "pushedAt": "2026-11-23T02:36:18.573Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
     "image": null,
     "pushedAt": "2026-11-23T02:14:32.772Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
+    "title": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
+    "titleZh": "印度的 Nifty 在全球股市和黃金罕見的共同拋售中脫穎而出",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
+    "image": null,
+    "pushedAt": "2026-11-23T02:36:45.721Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+    "title": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
+    "titleZh": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+    "image": null,
+    "pushedAt": "2026-11-23T02:36:49.842Z"
   }
 ]
