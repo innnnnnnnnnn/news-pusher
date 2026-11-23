@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2",
-    "title": "Putin invites European leaders to Moscow for talks on Ukraine",
-    "titleZh": "普丁邀請歐洲領導人訪問莫斯科",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5886a3b8-6350-4598-a41d-92f5007d75b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T05:21:50.152Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
     "title": "Anthropic Set for Historic Debut on the Nasdaq",
     "titleZh": "Anthropic 將在納斯達克歷史性地首次亮相",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T05:12:58.284Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
+    "title": "The Rohingya Crisis Over the Years",
+    "titleZh": "多年來的羅辛亞危機",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-Rohingya-Photos-01-cpzw/19int-Rohingya-Photos-01-cpzw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T05:13:28.169Z"
   }
 ]
