@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/uk-consumers-become-more-willing-to-spend-gfk-survey-finds",
-    "title": "UK Consumers Become More Willing to Spend, GfK Survey Finds",
-    "titleZh": "GfK 調查發現英國消費者變得更願意消費",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-consumers-become-more-willing-to-spend-gfk-survey-finds",
-    "image": null,
-    "pushedAt": "2026-11-20T09:24:19.496Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/could-a-jensen-huang-style-scandal-happen-at-apple-video",
     "title": "Could a Jensen Huang-Style Scandal Happen at Apple?",
     "titleZh": "蘋果會發生黃仁勳式的醜聞嗎？",
@@ -8565,7 +8556,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T12:23:20.111Z"
+    "pushedAt": "2026-11-23T14:59:28.025Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/stellantis-pulls-out-of-auto-racing-as-ceo-ramps-up-cost-cuts",
     "image": null,
     "pushedAt": "2026-11-23T14:58:59.226Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+    "title": "Wall Street Surges After Jensen Huang’s Return to Nvidia",
+    "titleZh": "黃仁勳重返英偉達後，華爾街股市飆升",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-markets-jvtl/22biz-markets-jvtl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T14:59:55.790Z"
   }
 ]
