@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3",
-    "title": "Pensions: unjust and unsustainable?",
-    "titleZh": "退休金如何吞噬國家",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0fd8bc9-9aeb-4a6e-8f51-5b8a09582caa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T16:35:34.545Z"
-  },
-  {
     "id": "https://www.ft.com/content/bc88b8d1-8531-42e8-b2d9-5072578e825e",
     "title": "Gideon Rachman’s best books on politics to read this year",
     "titleZh": "吉迪恩拉赫曼今年最值得一讀的政治書籍",
@@ -5334,7 +5325,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-23T15:21:33.492Z"
+    "pushedAt": "2026-11-23T17:50:08.195Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
@@ -5973,7 +5964,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/p1gp9olds?ref=rss",
     "image": "https://cdn.flipso.com/p/p1gp9olds_square.jpg",
-    "pushedAt": "2026-11-23T15:21:58.877Z"
+    "pushedAt": "2026-11-23T17:50:33.194Z"
   },
   {
     "id": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-23T17:49:39.228Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+    "title": "Have You Worked With Nvidia? We Want to Hear From You.",
+    "titleZh": "您與 Nvidia 合作過嗎？我們希望收到您的來信。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+    "image": null,
+    "pushedAt": "2026-11-23T17:51:02.240Z"
   }
 ]
