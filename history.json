@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
-    "title": "What is causing America’s recent outages",
-    "titleZh": "是什麼導致了美國最近的停電",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
-    "image": null,
-    "pushedAt": "2026-11-23T04:40:29.229Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai",
     "title": "How Anthropic’s Dario Amodei thinks about A.I.",
     "titleZh": "Anthropic 的 Dario Amodei 如何看待人工智慧",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
     "image": null,
     "pushedAt": "2026-11-23T05:02:22.963Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
+    "title": "A fight over chips is roiling Donald Trump’s cabinet",
+    "titleZh": "晶片之爭正在擾亂唐納德·川普的內閣",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
+    "image": null,
+    "pushedAt": "2026-11-23T05:02:51.887Z"
   }
 ]
