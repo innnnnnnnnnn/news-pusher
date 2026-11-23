@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slumps-in-premarket-trading-video",
-    "title": "Anthropic Slumps in Premarket Trading",
-    "titleZh": "盤前交易中的人為暴跌（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slumps-in-premarket-trading-video",
-    "image": null,
-    "pushedAt": "2026-11-20T12:18:35.372Z"
-  },
-  {
-    "id": "https://www.ft.com/content/9a10499c-1638-4eba-92c4-a21254815b03",
-    "title": "Bangladesh rocked by unrest as Sheikh Hasina vows return from exile",
-    "titleZh": "謝赫哈西娜發誓結束流亡歸來，孟加拉國陷入騷亂",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9a10499c-1638-4eba-92c4-a21254815b03?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T17:01:37.549Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-    "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-    "titleZh": "神職人員性虐待的受害者希望教皇利奧提供更多信息",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:17:28.422Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
     "title": "Turkey’s Van Cats Contend With Rising Temperatures",
     "titleZh": "土耳其的貨車貓與氣溫上升作鬥爭",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/peru-s-gdp-growth-tops-3-in-third-quarter-in-boon-for-fujimori",
     "image": null,
     "pushedAt": "2026-11-23T22:29:05.116Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video",
+    "title": "Stocks Take Off After Nvidia Reinstates Jensen Huang",
+    "titleZh": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 職位後，股市飆升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video",
+    "image": null,
+    "pushedAt": "2026-11-23T22:29:38.824Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/peterson-expect-a-lot-of-damage-from-keeping-huang-video",
+    "title": "Peterson: Expect a Lot of Damage From Keeping Huang",
+    "titleZh": "彼得森：預計留黃會造成很大損失",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/peterson-expect-a-lot-of-damage-from-keeping-huang-video",
+    "image": null,
+    "pushedAt": "2026-11-23T22:29:44.880Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/zoom-projects-revenue-that-misses-estimates-on-stagnant-growth",
+    "title": "Zoom Projects Revenue That Misses Estimates on Stagnant Growth",
+    "titleZh": "Zoom 預計營收成長停滯，未達預期",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/zoom-projects-revenue-that-misses-estimates-on-stagnant-growth",
+    "image": null,
+    "pushedAt": "2026-11-23T22:29:50.150Z"
   }
 ]
