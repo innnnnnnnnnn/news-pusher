@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
-    "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
-    "titleZh": "摩根大通客戶資料在最新駭客攻擊中暴露",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T11:02:05.502Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
     "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
     "titleZh": "河馬菲奧娜去世了，她的明星地位遠遠超出了辛辛那提",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
     "image": null,
     "pushedAt": "2026-11-23T12:01:41.524Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/wall-street-surges-toward-m-a-record-as-megadeals-defy-selloff",
+    "title": "Wall Street Surges Toward M&A Record as Megadeals Defy Selloff",
+    "titleZh": "大型交易抵禦拋售，華爾街併購創紀錄飆升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/wall-street-surges-toward-m-a-record-as-megadeals-defy-selloff",
+    "image": null,
+    "pushedAt": "2026-11-23T12:02:38.412Z"
   }
 ]
