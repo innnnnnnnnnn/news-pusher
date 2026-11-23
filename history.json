@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1e114e7d-59b4-4642-b720-c3e706d9a5c1",
-    "title": "Chinese defence minister makes surprise visit to Italy",
-    "titleZh": "中國國防部長突然訪問義大利",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1e114e7d-59b4-4642-b720-c3e706d9a5c1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T03:51:53.394Z"
-  },
-  {
     "id": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c",
     "title": "Trump, Putin and Xi in historic trilateral meeting",
     "titleZh": "川普、普丁和習近平舉行歷史性三邊會議",
@@ -1050,7 +1041,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T01:10:07.302Z"
+    "pushedAt": "2026-11-23T03:18:05.518Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-ipo-is-day-one-for-ai-giant-video",
@@ -1527,7 +1518,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T01:10:31.620Z"
+    "pushedAt": "2026-11-23T03:18:31.237Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
@@ -1914,7 +1905,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T01:08:29.703Z"
+    "pushedAt": "2026-11-23T03:17:14.588Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
@@ -7485,7 +7476,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b3b86fe5-e7ac-4922-b45b-480ba1c88613?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T01:08:05.451Z"
+    "pushedAt": "2026-11-23T03:16:48.197Z"
   },
   {
     "id": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
@@ -7980,7 +7971,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states",
     "image": null,
-    "pushedAt": "2026-11-23T01:09:42.627Z"
+    "pushedAt": "2026-11-23T03:17:39.987Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/czech-economy-facing-stagflation-shock-policymaker-seidler-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
     "image": null,
     "pushedAt": "2026-11-23T03:16:19.752Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video",
+    "title": "How to Find Value as the AI Trade Unravels",
+    "titleZh": "如何在人工智慧貿易瓦解之際尋找價值",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video",
+    "image": null,
+    "pushedAt": "2026-11-23T03:19:00.189Z"
   }
 ]
