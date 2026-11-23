@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html",
-    "title": "Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets",
-    "titleZh": "觀看：Natasha Sarin 談 Anthropic 歷史性的 IPO 以及市場的下一步發展",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/opinion/19opinions-sarin-image2/19opinions-sarin-image2-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-20T09:26:03.307Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
     "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
     "titleZh": "全球頂級法院裁定緬甸對羅興亞人實施種族滅絕",
@@ -3543,7 +3534,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:43:44.680Z"
+    "pushedAt": "2026-11-23T09:01:51.945Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/what-caused-the-us-tech-outages-why-experts-expect-more",
@@ -6099,7 +6090,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:44:09.431Z"
+    "pushedAt": "2026-11-23T09:02:16.566Z"
   },
   {
     "id": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
@@ -7314,7 +7305,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
     "image": null,
-    "pushedAt": "2026-11-23T06:44:33.878Z"
+    "pushedAt": "2026-11-23T09:02:41.325Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/audio/2026-11-23/odd-lots-how-china-s-vibecoders-are-adopting-ai-podcast",
     "image": null,
     "pushedAt": "2026-11-23T09:01:23.806Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/how-plug-in-solar-is-sweeping-across-the-us-video",
+    "title": "How Plug-In Solar Is Sweeping the US",
+    "titleZh": "插電式太陽能如何席捲美國",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/how-plug-in-solar-is-sweeping-across-the-us-video",
+    "image": null,
+    "pushedAt": "2026-11-23T09:03:08.210Z"
   }
 ]
