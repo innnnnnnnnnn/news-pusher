@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
-    "title": "Japan’s CPI Picks Up, Keeping BOJ on Track for Rate Hike",
-    "titleZh": "日本消費者物價指數(CPI)上升至今年最快，支持日本央行升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
-    "image": null,
-    "pushedAt": "2026-11-20T13:22:44.201Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "title": "Anthropic soars, but it may soon be back, cap in hand",
     "titleZh": "人類飆升，但它可能很快就會回歸",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
     "image": null,
     "pushedAt": "2026-11-23T14:24:35.151Z"
+  },
+  {
+    "id": "https://flipso.com/p/c9v71ka1h",
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "titleZh": "三名患者透過注射病毒阻止了胰臟癌",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/c9v71ka1h?ref=rss",
+    "image": "https://cdn.flipso.com/p/c9v71ka1h_square.jpg",
+    "pushedAt": "2026-11-23T14:25:04.912Z"
   }
 ]
