@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video",
-    "title": "Anthropic's Record-Breaking IPO",
-    "titleZh": "Anthropic 破紀錄的 IPO",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-19T19:34:14.963Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-tech-11-19-2026-video",
     "title": "Anthropic Makes Historic Debut on Nasdaq",
     "titleZh": "Anthropic 在納斯達克歷史性地首次亮相",
@@ -2364,7 +2355,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
     "image": null,
-    "pushedAt": "2026-11-23T07:55:23.404Z"
+    "pushedAt": "2026-11-23T10:18:10.758Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
@@ -6891,7 +6882,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-23T07:52:03.760Z"
+    "pushedAt": "2026-11-23T10:15:17.921Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -6900,7 +6891,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-23T07:52:53.360Z"
+    "pushedAt": "2026-11-23T10:16:07.118Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -6909,7 +6900,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-23T07:53:42.709Z"
+    "pushedAt": "2026-11-23T10:16:56.437Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
@@ -7008,7 +6999,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/19FD-OVEN-SPACE-THANKSGIVING-ROUNDUP-slow-cooker-turkey/SD-Slow-Cooker-Turkey-Meatballs-2-vlkm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:54:07.198Z"
+    "pushedAt": "2026-11-23T10:17:21.161Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html",
@@ -7323,7 +7314,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ogk1wbqld?ref=rss",
     "image": null,
-    "pushedAt": "2026-11-23T07:52:28.554Z"
+    "pushedAt": "2026-11-23T10:15:42.514Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
@@ -7530,7 +7521,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff",
     "image": null,
-    "pushedAt": "2026-11-23T07:53:18.029Z"
+    "pushedAt": "2026-11-23T10:16:31.886Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
@@ -7548,7 +7539,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/p1gp9olds?ref=rss",
     "image": "https://cdn.flipso.com/p/p1gp9olds_square.jpg",
-    "pushedAt": "2026-11-23T07:54:56.729Z"
+    "pushedAt": "2026-11-23T10:17:45.698Z"
   },
   {
     "id": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/is-the-ai-selloff-a-buying-opportunity-video",
     "image": null,
     "pushedAt": "2026-11-23T10:14:49.894Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+    "title": "Margin Calls Soared 200-Fold in Taiwan as Traders Fled AI Bets",
+    "titleZh": "交易員紛紛逃離人工智慧押注，台灣追加保證金通知飆升 200 倍",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+    "image": null,
+    "pushedAt": "2026-11-23T10:18:37.227Z"
   }
 ]
