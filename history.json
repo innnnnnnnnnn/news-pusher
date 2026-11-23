@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/dario-amodei-says-safety-is-in-anthropic-s-dna-video",
-    "title": "Dario Amodei Says Safety Is Part of Anthropic's DNA",
-    "titleZh": "Dario Amodei 表示安全是 Anthropic DNA 的一部分",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/dario-amodei-says-safety-is-in-anthropic-s-dna-video",
-    "image": null,
-    "pushedAt": "2026-11-19T14:58:29.573Z"
-  },
-  {
     "id": "https://flipso.com/p/h4unluxwb",
     "title": "The Evolving Story of How Chemistry Became Biology",
     "titleZh": "化學如何成為生物學的演變故事",
@@ -8632,12 +8623,12 @@
   },
   {
     "id": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614",
-    "title": "BYD shares fall after SUV barred from EU for Land Rover design copy",
+    "title": "BYD hit after court bars SUV from EU over Land Rover design copy",
     "titleZh": "SUV因抄襲路虎設計被歐盟禁止進入 比亞迪股價下跌",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:00:43.533Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F240903e9-e7fc-4010-83ac-6a5c0a31f427.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T05:08:40.985Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
     "image": null,
     "pushedAt": "2026-11-23T05:08:12.422Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
+    "title": "Singapore Core Inflation Eases to 1.5% as Electricity Rates Cut",
+    "titleZh": "隨著電費下調，新加坡核心通膨率降至 1.5%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
+    "image": null,
+    "pushedAt": "2026-11-23T05:09:09.524Z"
   }
 ]
