@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/court-upholds-kakao-founder-s-acquittal-of-stock-rigging-charges",
-    "title": "Court Upholds Kakao Founder’s Acquittal of Stock Rigging Charges",
-    "titleZh": "法院維持 Kakao 創辦人無罪釋放股票操弄指控",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/court-upholds-kakao-founder-s-acquittal-of-stock-rigging-charges",
-    "image": null,
-    "pushedAt": "2026-11-20T08:42:35.907Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
     "title": "Global AI Trade Buckles as Anthropic Slides Following Record IPO",
     "titleZh": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
@@ -8007,7 +7998,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T13:48:46.058Z"
+    "pushedAt": "2026-11-23T16:20:08.563Z"
   },
   {
     "id": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb",
@@ -8547,7 +8538,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T13:47:50.460Z"
+    "pushedAt": "2026-11-23T16:19:28.919Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/analyst-backs-huang-s-return-cautiously-video",
     "image": null,
     "pushedAt": "2026-11-23T16:19:00.153Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+    "titleZh": "馬斯克 (Elon Musk) 面對人工智慧SpaceX 的困境",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T16:20:36.522Z"
   }
 ]
