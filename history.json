@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
-    "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
-    "titleZh": "在下一次大型技術中斷之前，您應該了解有關 DownDetector 的哪些信息",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-downdetector-02-kvbt/19xp-downdetector-02-kvbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T11:35:13.994Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/lightspeed-s-duesterhoeft-on-anthropic-next-ai-race-video",
     "title": "Lightspeed’s Duesterhoeft on Anthropic and the Next AI Race",
     "titleZh": "Lightspeed 的 Duesterhoeft 談 Anthropic 和下一場人工智慧競賽",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/vo68xupzj?ref=rss",
     "image": "https://cdn.flipso.com/p/vo68xupzj_square.jpg",
     "pushedAt": "2026-11-23T12:17:48.462Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
+    "title": "Unexpected Fallout From the Iran War",
+    "titleZh": "伊朗戰爭的意外後果",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19cli-newsletter-energy-lzwh/19cli-newsletter-energy-lzwh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T12:18:18.330Z"
   }
 ]
