@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
-    "title": "Japan Tobacco Shares Fall After Russia-Related Charges",
-    "titleZh": "俄羅斯相關指控後日本菸草股價下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
-    "image": null,
-    "pushedAt": "2026-11-20T02:52:30.877Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
     "title": "Anthropic Tumbles More Than 10% as AI Slump Engulfs Markets",
     "titleZh": "蘋果人工智慧代理計畫上市後，Anthropic 股價下跌",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/-great-to-see-huang-back-at-nvidia-ferragu-says-video",
     "image": null,
     "pushedAt": "2026-11-23T15:17:35.287Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+    "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+    "titleZh": "4 名英國男子因性侵喬安妮楊而被定罪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T15:18:04.103Z"
   }
 ]
