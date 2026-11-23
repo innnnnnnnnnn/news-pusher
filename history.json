@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
-    "title": "A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.",
-    "titleZh": "這些失敗者剛剛當選。沒有人比他們更驚訝。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-accidental-winners-top-pjwf/20nat-accidental-winners-top-pjwf-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-20T17:59:32.598Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
     "title": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
     "titleZh": "羅恩·德桑蒂斯思考後川普時代的總統競選",
@@ -1806,7 +1797,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
     "image": "https://static01.nyt.com/images/2026/11/23/arts/20cul-etsy-ai/20cul-etsy-ai-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:54:37.792Z"
+    "pushedAt": "2026-11-23T23:16:48.655Z"
   },
   {
     "id": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240",
@@ -6666,7 +6657,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-slump-tests-kast-s-push-to-rein-in-chile-s-fiscal-deficit",
     "image": null,
-    "pushedAt": "2026-11-23T20:55:02.751Z"
+    "pushedAt": "2026-11-23T23:17:13.415Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/goldman-s-trivedi-dollar-still-has-some-fight-in-it-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek",
     "image": null,
     "pushedAt": "2026-11-23T23:11:40.217Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+    "title": "Latest Oil Market News and Analysis for Nov. 24",
+    "titleZh": "11 月 24 日最新石油市場新聞與分析",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+    "image": null,
+    "pushedAt": "2026-11-23T23:17:41.978Z"
   }
 ]
