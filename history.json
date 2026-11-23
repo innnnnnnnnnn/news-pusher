@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
-    "title": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold",
-    "titleZh": "隨著人工智慧浪潮席捲歐洲，債券銷售創下 2 兆歐元紀錄",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
-    "image": null,
-    "pushedAt": "2026-11-20T10:49:03.070Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/south-africa-s-richards-bay-terminal-loads-record-chrome-cargo",
-    "title": "South Africa’s Richards Bay Terminal Loads Record Chrome Cargo",
-    "titleZh": "南非理查茲灣 (Richards Bay) 碼頭裝載創紀錄的鉻貨物",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/south-africa-s-richards-bay-terminal-loads-record-chrome-cargo",
-    "image": null,
-    "pushedAt": "2026-11-20T10:50:41.261Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
-    "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
-    "titleZh": "澳洲建造的第一艘軍艦沉沒 128 年後殘骸被發現",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
-    "image": null,
-    "pushedAt": "2026-11-23T20:48:37.996Z"
-  },
-  {
     "id": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5",
     "title": "White House replaces top cyber security official",
     "titleZh": "白宮更換最高網路安全官員",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/23/opinion/population-decline-how-to-prepare.html",
     "image": "https://static01.nyt.com/images/2026/11/23/opinion/23geruso-spears/23geruso-spears-mediumSquareAt3X-v2.png",
     "pushedAt": "2026-11-23T21:26:33.020Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "title": "Nvidia’s roaring results can’t hide its troubles",
+    "titleZh": "英偉達的驕人業績並不能掩蓋其困境",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "image": null,
+    "pushedAt": "2026-11-23T21:27:01.609Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-soars-on-jensen-huang-return-closing-bell-video",
+    "title": "Nvidia Soars 31% as Jensen Huang Returns, Sparking $3 Trillion Rally | Closing Bell",
+    "titleZh": "黃仁勳回歸，英偉達股價飆漲 31%，引發 3 兆美元漲勢 |結束鐘聲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-soars-on-jensen-huang-return-closing-bell-video",
+    "image": null,
+    "pushedAt": "2026-11-23T21:27:06.249Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/ex-volkswagen-engineer-admits-to-insider-trading-on-rivian-deal",
+    "title": "Ex-Volkswagen Engineer Admits to Insider Trading on Rivian Deal",
+    "titleZh": "前大眾汽車工程師承認在 Rivian 交易中進行內線交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/ex-volkswagen-engineer-admits-to-insider-trading-on-rivian-deal",
+    "image": null,
+    "pushedAt": "2026-11-23T21:27:11.085Z"
   }
 ]
