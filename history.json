@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-    "title": "Anthropic’s giant IPO puts the heat on OpenAI",
-    "titleZh": "Anthropic 的大規模 IPO 為 OpenAI 帶來了熱度",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-    "image": null,
-    "pushedAt": "2026-11-22T19:05:25.897Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-goolsbee-says-all-options-on-fomc-table-amid-hot-inflation",
     "title": "Fed’s Goolsbee Says All Options on FOMC Table Amid Hot Inflation",
     "titleZh": "聯準會古爾斯比表示，在通貨膨脹加劇的情況下，聯邦公開市場委員會(FOMC)桌上的所有選擇",
@@ -168,7 +159,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/2026-11-19-anthropic-index-funds-index/2026-11-19-anthropic-index-funds-index-mediumSquareAt3X-v3.png",
-    "pushedAt": "2026-11-23T09:07:08.887Z"
+    "pushedAt": "2026-11-23T11:30:31.484Z"
   },
   {
     "id": "https://flipso.com/p/vo68xupzj",
@@ -177,7 +168,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/vo68xupzj?ref=rss",
     "image": "https://cdn.flipso.com/p/vo68xupzj_square.jpg",
-    "pushedAt": "2026-11-23T09:08:23.055Z"
+    "pushedAt": "2026-11-23T11:31:47.763Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
@@ -3066,7 +3057,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "image": null,
-    "pushedAt": "2026-11-23T09:09:36.808Z"
+    "pushedAt": "2026-11-23T11:32:38.452Z"
   },
   {
     "id": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60",
@@ -5109,7 +5100,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
     "image": null,
-    "pushedAt": "2026-11-23T09:08:47.840Z"
+    "pushedAt": "2026-11-23T11:32:12.755Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
@@ -6702,7 +6693,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
     "image": null,
-    "pushedAt": "2026-11-23T09:07:58.047Z"
+    "pushedAt": "2026-11-23T11:31:22.690Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
@@ -7089,7 +7080,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
     "image": null,
-    "pushedAt": "2026-11-23T05:47:29.903Z"
+    "pushedAt": "2026-11-23T11:30:57.949Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-22/chinese-dramas-are-starting-to-take-over-the-world",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T11:30:03.073Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/economists-more-accurate-on-india-inflation-after-index-overhaul",
+    "title": "Economists More Accurate on India Inflation After Index Overhaul",
+    "titleZh": "指數改革後經濟學家對印度通膨的預測更準確",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/economists-more-accurate-on-india-inflation-after-index-overhaul",
+    "image": null,
+    "pushedAt": "2026-11-23T11:33:06.072Z"
   }
 ]
