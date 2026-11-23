@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/podcasts/the-headlines/fear-humiliation-nvidia-google-spirit-airlines-data-quiz.html",
-    "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
-    "titleZh": "Nvidia 的恐懼和羞辱，以及谷歌為何購買 Spirit Airlines 數據",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/podcasts/the-headlines/fear-humiliation-nvidia-google-spirit-airlines-data-quiz.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20theheadlines-huang-wclj/20theheadlines-huang-wclj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T15:44:45.206Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
     "title": "How the U.S. Economy Is Tied to A.I.",
     "titleZh": "美國經濟如何與人工智慧連結在一起",
@@ -780,7 +771,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00-AI-token-callout-01-bwlm/00-AI-token-callout-01-bwlm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:16:02.384Z"
+    "pushedAt": "2026-11-23T23:39:01.030Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
@@ -2859,7 +2850,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21biz-used-cars--02-hmwg/21biz-used-cars--02-hmwg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:15:37.277Z"
+    "pushedAt": "2026-11-23T23:38:36.280Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending",
@@ -4083,7 +4074,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
     "image": null,
-    "pushedAt": "2026-11-23T21:17:52.919Z"
+    "pushedAt": "2026-11-23T23:39:51.899Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
@@ -8520,7 +8511,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23Phumzile-Mlambo-Ngcuka-vblz/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:15:07.611Z"
+    "pushedAt": "2026-11-23T23:38:11.247Z"
   },
   {
     "id": "https://flipso.com/p/d34ccdffbec85742afb827cd0701e951",
@@ -8533,12 +8524,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/hpe-gives-forecast-that-falls-short-of-most-optimistic-estimates",
-    "title": "HPE Gives Forecast That Falls Short of Most Optimistic Estimates",
+    "title": "HPE Forecast Trails Top Estimates, Shares Fall on AI Growth Outlook",
     "titleZh": "HPE 的預測低於最樂觀的估計",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/hpe-gives-forecast-that-falls-short-of-most-optimistic-estimates",
     "image": null,
-    "pushedAt": "2026-11-23T21:17:24.695Z"
+    "pushedAt": "2026-11-23T23:39:26.544Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/us-backed-firm-to-ink-venezuela-dredging-deal-to-aid-oil-exports",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video",
     "image": null,
     "pushedAt": "2026-11-23T23:37:42.942Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video",
+    "title": "Stunning Reversal: Jensen's Second Act",
+    "titleZh": "驚人的逆轉：詹森的第二幕",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video",
+    "image": null,
+    "pushedAt": "2026-11-23T23:40:21.220Z"
   }
 ]
