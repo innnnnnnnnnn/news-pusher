@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/fhh1z8x21",
-    "title": "Handwritten 200-year-old dismissal letter found on Rugeley roof tile",
-    "titleZh": "魯吉利屋頂瓦片上發現 200 年前的手寫解僱信",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/fhh1z8x21?ref=rss",
-    "image": "https://cdn.flipso.com/p/fhh1z8x21_square.jpg",
-    "pushedAt": "2026-11-20T01:06:36.767Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video",
     "title": "Anthropic Begins Trading on Nasdaq at $111.50",
     "titleZh": "Anthropic 開始在納斯達克交易，價格為 111.50 美元",
@@ -4101,7 +4092,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
     "image": null,
-    "pushedAt": "2026-11-23T06:47:02.719Z"
+    "pushedAt": "2026-11-23T09:06:14.097Z"
   },
   {
     "id": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87",
@@ -7413,7 +7404,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
     "image": null,
-    "pushedAt": "2026-11-23T06:46:37.784Z"
+    "pushedAt": "2026-11-23T09:05:49.266Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T09:05:21.040Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/euro-zone-activity-holds-steady-as-germany-offsets-french-slump",
+    "title": "Euro-Zone Activity Holds Steady as Germany Offsets French Slump",
+    "titleZh": "德國抵消法國經濟衰退，歐元區經濟活動維持穩定",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/euro-zone-activity-holds-steady-as-germany-offsets-french-slump",
+    "image": null,
+    "pushedAt": "2026-11-23T09:06:40.893Z"
   }
 ]
