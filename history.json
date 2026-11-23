@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
-    "title": "Ex-Alibaba Star’s AI Startup Doubles Valuation to $5 Billion",
-    "titleZh": "前阿里巴巴之星的人工智慧新創公司估值翻倍至 50 億美元",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
-    "image": null,
-    "pushedAt": "2026-11-20T15:32:54.789Z"
-  },
-  {
     "id": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
     "title": "October inflation data keeps BoJ on course for further tightening",
     "titleZh": "10 月份的通貨膨脹數據使日本央行繼續朝進一步緊縮的方向邁進",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-gomez-wpkc/23dc-gomez-wpkc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T21:31:37.747Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+    "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+    "titleZh": "隨著黃仁勳重新擔任首席執行官，川普實際上凌駕於英偉達董事會之上",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T21:32:08.263Z"
   }
 ]
