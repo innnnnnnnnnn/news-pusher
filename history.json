@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
-    "title": "Gen Z-ers Love This Mayor. Let Him Tell You Why.",
-    "titleZh": "Z 世代正在崛起。這位市長也加入了他們的行列。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/opinion/france-gen-z-protests-bally-bagayoko.html",
-    "image": null,
-    "pushedAt": "2026-11-20T17:14:50.857Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising",
-    "title": "ECB’s Pereira Says Inflation Pressure Is Significant and Rising",
-    "titleZh": "歐洲央行總裁佩雷拉表示通膨壓力巨大且不斷上升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising",
-    "image": null,
-    "pushedAt": "2026-11-21T09:04:00.984Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/india-refiners-race-to-secure-oil-tankers-as-freight-costs-surge",
     "title": "India Refiners Race to Secure Oil Tankers as Freight Costs Surge",
     "titleZh": "由於運費上漲，印度煉油廠競相搶購油輪",
@@ -1734,7 +1716,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-23T20:19:09.141Z"
+    "pushedAt": "2026-11-23T22:41:10.146Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
@@ -6630,7 +6612,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/macron-suggests-golden-rule-for-french-budget-boosting-bonds",
     "image": null,
-    "pushedAt": "2026-11-23T20:18:43.846Z"
+    "pushedAt": "2026-11-23T22:40:44.477Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/five-charts-unpack-one-of-the-worst-weeks-for-stocks-in-decades",
@@ -8241,7 +8223,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:18:18.891Z"
+    "pushedAt": "2026-11-23T22:40:19.206Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/zscaler-s-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/why-nvidia-ceo-jensen-huang-matters-so-much-to-the-stock-market",
     "image": null,
     "pushedAt": "2026-11-23T22:39:50.954Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/katy-kaminsky-reacts-to-nvda-surge-after-huang-returns-video",
+    "title": "Katy Kaminsky Reacts to NVDA Surge After Huang Returns",
+    "titleZh": "凱蒂·卡明斯基 (Katy Kaminsky) 對黃回歸後 NVDA 激增的反應",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/katy-kaminsky-reacts-to-nvda-surge-after-huang-returns-video",
+    "image": null,
+    "pushedAt": "2026-11-23T22:41:39.143Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/ai-linked-stocks-take-off-as-nvidia-brings-back-jensen-huang",
+    "title": "AI-Linked Stocks Take Off as Nvidia Brings Back Jensen Huang",
+    "titleZh": "隨著 Nvidia 回歸黃仁勳，人工智慧相關股票起飛",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/ai-linked-stocks-take-off-as-nvidia-brings-back-jensen-huang",
+    "image": null,
+    "pushedAt": "2026-11-23T22:41:46.084Z"
   }
 ]
