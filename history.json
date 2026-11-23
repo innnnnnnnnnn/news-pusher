@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter",
-    "title": "Euro-Area Pay Growth Accelerated Only Slightly in Third Quarter",
-    "titleZh": "第三季歐元區薪資成長僅小幅加速",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter",
-    "image": null,
-    "pushedAt": "2026-11-21T08:37:09.377Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slumps-in-premarket-trading-video",
     "title": "Anthropic Slumps in Premarket Trading",
     "titleZh": "盤前交易中的人為暴跌（影片）",
@@ -60,7 +51,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
     "image": null,
-    "pushedAt": "2026-11-23T20:04:48.613Z"
+    "pushedAt": "2026-11-23T22:27:46.439Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
@@ -69,7 +60,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20FD-sourdough-shortcut-promo1-fcwp/20FD-sourdough-shortcut-promo1-fcwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:05:13.628Z"
+    "pushedAt": "2026-11-23T22:28:11.266Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
@@ -4605,7 +4596,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-23T20:03:30.936Z"
+    "pushedAt": "2026-11-23T22:26:56.124Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
@@ -7737,7 +7728,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility",
     "image": null,
-    "pushedAt": "2026-11-23T20:05:38.597Z"
+    "pushedAt": "2026-11-23T22:28:36.113Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-a-perfect-example-of-market-amplification-herro-video",
@@ -8259,7 +8250,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/aa2855d5-1736-4d48-b9db-272c077ab72d?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f2b211b-8930-493e-9ba2-77a53c0cabe1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T20:02:40.381Z"
+    "pushedAt": "2026-11-23T22:26:05.431Z"
   },
   {
     "id": "https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489",
@@ -8268,7 +8259,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6db5872-77a5-41c6-9f94-2ef7937311d6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T20:03:05.953Z"
+    "pushedAt": "2026-11-23T22:26:31.051Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
@@ -8286,7 +8277,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership",
     "image": null,
-    "pushedAt": "2026-11-23T20:04:23.304Z"
+    "pushedAt": "2026-11-23T22:27:21.010Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/germany-to-press-ahead-with-gasoline-price-cap-from-next-year",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/kymera-therapeutics-seeks-to-raise-1-5-billion-in-share-sale",
     "image": null,
     "pushedAt": "2026-11-23T22:25:36.013Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/peru-s-gdp-growth-tops-3-in-third-quarter-in-boon-for-fujimori",
+    "title": "Peru’s GDP Growth Tops 3% in Third Quarter in Boon for Fujimori",
+    "titleZh": "秘魯第三季GDP成長率突破3%，藤森受益",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/peru-s-gdp-growth-tops-3-in-third-quarter-in-boon-for-fujimori",
+    "image": null,
+    "pushedAt": "2026-11-23T22:29:05.116Z"
   }
 ]
