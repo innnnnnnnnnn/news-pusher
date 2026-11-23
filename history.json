@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/ai-safety-framework-bill-teased-by-bipartisan-house-lawmakers",
-    "title": "AI Safety Framework Bill Teased by Bipartisan House Lawmakers",
-    "titleZh": "兩黨眾議員嘲笑人工智慧安全框架法案",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ai-safety-framework-bill-teased-by-bipartisan-house-lawmakers",
-    "image": null,
-    "pushedAt": "2026-11-19T19:44:48.366Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-pare-gains-after-rocketing-in-debut-video",
     "title": "Anthropic Shares Pare Gains After Rocketing in Debut",
     "titleZh": "Anthropic 股價在首次亮相後大幅上漲",
@@ -5901,7 +5892,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/n44wms5mn?ref=rss",
     "image": "https://cdn.flipso.com/p/n44wms5mn_square.jpg",
-    "pushedAt": "2026-11-23T08:25:20.594Z"
+    "pushedAt": "2026-11-23T10:45:17.338Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
@@ -6288,7 +6279,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T08:25:45.859Z"
+    "pushedAt": "2026-11-23T10:45:41.722Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
@@ -6297,7 +6288,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T08:26:10.470Z"
+    "pushedAt": "2026-11-23T10:46:06.348Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
@@ -6495,7 +6486,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T08:26:36.052Z"
+    "pushedAt": "2026-11-23T10:46:31.275Z"
   },
   {
     "id": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244",
@@ -8556,7 +8547,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/france-s-private-sector-weakens-on-election-budget-concerns",
     "image": null,
-    "pushedAt": "2026-11-23T08:27:04.528Z"
+    "pushedAt": "2026-11-23T10:46:56.075Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/trump-suggests-resumption-of-iran-strikes-next-year-video",
     "image": null,
     "pushedAt": "2026-11-23T10:44:49.095Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+    "title": "Dozens Unaccounted for After Fire Rips Through Candy Factory in Indonesia",
+    "titleZh": "印尼糖果廠發生火災，數十人下落不明",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T10:47:23.536Z"
   }
 ]
