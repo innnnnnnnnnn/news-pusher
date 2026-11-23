@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
-    "title": "If You Want To Trade Like Anthropic, You Better Look Like Anthropic, Says Buyer",
-    "titleZh": "買家說，如果你想像人一樣交易，你最好看起來像人",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
-    "image": null,
-    "pushedAt": "2026-11-20T00:56:31.993Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
     "title": "US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show",
     "titleZh": "數據顯示，美國批准向中國騰訊、阿里巴巴銷售人工智慧晶片",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
     "image": null,
     "pushedAt": "2026-11-23T12:56:52.684Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+    "titleZh": "Nvidia 被要求向與中國軍方和 Megaspeed 相關的公司出售晶片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T12:57:22.802Z"
   }
 ]
