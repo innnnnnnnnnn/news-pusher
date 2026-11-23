@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-    "title": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
-    "titleZh": "是「A.I.」特工來買我們的酵母發酵劑嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20FD-sourdough-shortcut-promo1-fcwp/20FD-sourdough-shortcut-promo1-fcwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:28:11.266Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
-    "title": "China’s A.I. Ambitions Are Running Into a Money Problem",
-    "titleZh": "中國的人工智慧野心遇到金錢問題",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Biz-Ai-China-01-wjcq/20Biz-Ai-China-01-wjcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:09:35.355Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/business/from-gig-workers-to-tycoons-china-is-reaching-into-every-pocket.html",
-    "title": "From Gig Workers to Tycoons, China Is Reaching Into Every Pocket",
-    "titleZh": "從零工到大亨，中國正在觸及每個人的口袋",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/from-gig-workers-to-tycoons-china-is-reaching-into-every-pocket.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/business/18biz-newworldmoney/18biz-newworldmoney-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T12:25:53.732Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/rand-poised-for-worst-week-since-march-as-carry-appeal-fades",
     "title": "Rand Poised for Worst Week Since March as Carry Appeal Fades",
     "titleZh": "隨著利差吸引力消退，蘭德預計將迎來三月以來最糟糕的一周",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T22:30:30.995Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+    "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+    "titleZh": "土耳其的貨車貓與氣溫上升作鬥爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T22:31:01.291Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+    "titleZh": "戰爭也正在破壞烏克蘭的野生動物",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T22:31:04.510Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+    "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
+    "titleZh": "在執行長突然上任後，股票通常會上漲出口。英偉達有什麼不同嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+    "image": null,
+    "pushedAt": "2026-11-23T22:31:07.668Z"
   }
 ]
