@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable",
-    "title": "Why China’s Export Machine Seems Unstoppable",
-    "titleZh": "為什麼中國的出口機器似乎勢不可擋",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable",
-    "image": null,
-    "pushedAt": "2026-11-20T07:08:50.538Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/gic-anthropic-is-building-intelligence-factories-video",
     "title": "Investor GIC Says Anthropic Is Building Intelligence Factories",
     "titleZh": "投資者 GIC 表示 Anthropic 正在建造智慧工廠",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
     "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T12:23:22.154Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+    "title": "Judge Allows Trump’s Case Against The Times to Proceed",
+    "titleZh": "法官允許川普針對《泰晤士報》的訴訟繼續進行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T12:23:51.198Z"
   }
 ]
