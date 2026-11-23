@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
-    "title": "Inflation and interest rates tracker: see how your country compares",
-    "titleZh": "通貨膨脹和利率追蹤器：了解您所在國家/地區的比較情況",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T17:48:59.914Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/germans-buy-heating-oil-as-winter-looms-despite-high-prices-caused-by-iran-war",
     "title": "Germany Consumers Buy Heating Oil as Winter Looms Despite High Prices",
     "titleZh": "儘管價格高漲，德國消費者仍在冬季來臨之際購買暖氣油",
@@ -3894,7 +3885,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00bizsun-retiring-save-01-v2-kqfw/00bizsun-retiring-save-01-v2-kqfw-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-23T20:32:58.731Z"
+    "pushedAt": "2026-11-23T22:54:44.792Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
     "image": null,
     "pushedAt": "2026-11-23T22:54:16.558Z"
+  },
+  {
+    "id": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc",
+    "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+    "titleZh": "遊說川普帶回英偉達黃仁勳的“作戰室”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0c61c4-2735-40b5-b13c-db6c73bcbe7d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T22:55:13.548Z"
   }
 ]
