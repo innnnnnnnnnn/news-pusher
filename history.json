@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7",
-    "title": "UK plans to resist EU request to match tariffs on Chinese goods",
-    "titleZh": "英國計劃抵制歐盟對中國商品徵收關稅的要求",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T04:21:34.398Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/opinion/elon-musk-regrets-moderate.html",
     "title": "Elon Musk Has Regrets",
     "titleZh": "馬斯克 (Elon Musk) 犯下的 5 億美元錯誤",
@@ -1680,7 +1671,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-krampus/20xp-krampus-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:10:00.200Z"
+    "pushedAt": "2026-11-23T22:34:12.903Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
@@ -1689,7 +1680,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
-    "pushedAt": "2026-11-23T20:10:25.492Z"
+    "pushedAt": "2026-11-23T22:34:38.607Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
@@ -2130,7 +2121,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:11:49.169Z"
+    "pushedAt": "2026-11-23T22:35:04.135Z"
   },
   {
     "id": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841",
@@ -3714,7 +3705,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T20:12:16.082Z"
+    "pushedAt": "2026-11-23T22:35:29.036Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20FD-sourdough-shortcut-promo1-fcwp/20FD-sourdough-shortcut-promo1-fcwp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T22:31:36.971Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video",
+    "title": "Emily Kilcrease on Jensen Huang’s Return to Nvidia",
+    "titleZh": "Emily Kilcrease 談黃仁勳重返 Nvidia",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video",
+    "image": null,
+    "pushedAt": "2026-11-23T22:35:57.262Z"
   }
 ]
