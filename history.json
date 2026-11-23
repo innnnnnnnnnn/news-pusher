@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e",
-    "title": "Gulf flare-up stokes fears of return to Iran war",
-    "titleZh": "海灣衝突引發伊朗戰爭重燃的擔憂",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T04:27:53.643Z"
-  },
-  {
-    "id": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-    "title": "The incredible shrinking legacy of Donald J. Trump",
-    "titleZh": "唐納德·J·特朗普的遺產令人難以置信地萎縮",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-    "image": null,
-    "pushedAt": "2026-11-23T04:50:59.959Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
     "title": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
     "titleZh": "Anthropic 首次公開募股 1,073 億美元，股價飆升，超越 SpaceX",
@@ -2652,7 +2634,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T02:54:06.751Z"
+    "pushedAt": "2026-11-23T05:06:45.735Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
@@ -5757,7 +5739,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T02:54:30.915Z"
+    "pushedAt": "2026-11-23T05:07:11.633Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "image": null,
     "pushedAt": "2026-11-23T05:03:21.913Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
+    "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+    "titleZh": "在越南，一場沒有汽車的電動車革命",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T05:07:36.396Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
+    "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
+    "titleZh": "電動車旨在模仿燃氣引擎的轟鳴聲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wheels-roar1-wtbz/23wheels-roar1-wtbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T05:07:40.777Z"
   }
 ]
