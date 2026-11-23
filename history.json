@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
-    "title": "Putin Basks in Spotlight With Trump, Xi as War in Ukraine Grinds On",
-    "titleZh": "烏克蘭戰爭愈演愈烈，普丁與川普、習近平成為焦點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
-    "image": null,
-    "pushedAt": "2026-11-19T16:08:08.483Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/how-anthropic-plans-to-use-ipo-proceeds-video",
     "title": "How Anthropic Plans to Use IPO Proceeds",
     "titleZh": "Anthropic 計劃如何使用 IPO 收益",
@@ -3831,7 +3822,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T03:56:58.163Z"
+    "pushedAt": "2026-11-23T06:02:13.798Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/relax-it-s-probably-not-a-cyberattack-video",
@@ -4848,7 +4839,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T03:58:16.511Z"
+    "pushedAt": "2026-11-23T06:03:29.377Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
@@ -7179,7 +7170,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
     "image": null,
-    "pushedAt": "2026-11-23T03:56:33.515Z"
+    "pushedAt": "2026-11-23T06:01:48.546Z"
   },
   {
     "id": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f",
@@ -7975,21 +7966,21 @@
   },
   {
     "id": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff",
-    "title": "FirstFT: Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+    "title": "FirstFT: Wall Street set to rebound after AI stock sell-off",
     "titleZh": "FirstFT：Scott Bessent 拒絕排除黃仁勳重返 Nvidia 的可能性",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T03:57:24.391Z"
+    "pushedAt": "2026-11-23T06:02:39.787Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
-    "title": "Ant Group Bets on Simplexity to Thrive in China’s Humanoid Race",
+    "title": "Ant Group Bets on Simplexity in China’s Humanoid Race",
     "titleZh": "螞蟻集團押注簡單性在中國人形機器人競賽中蓬勃發展",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
     "image": null,
-    "pushedAt": "2026-11-23T03:57:50.686Z"
+    "pushedAt": "2026-11-23T06:03:04.630Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
     "image": null,
     "pushedAt": "2026-11-23T06:01:20.073Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html",
+    "title": "Democrats Must Defund Trump’s War in Iran",
+    "titleZh": "民主黨必須取消對川普伊朗戰爭的資助",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/opinion/23malleywertheim/23malleywertheim-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T06:03:57.138Z"
   }
 ]
