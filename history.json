@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target",
-    "title": "Sri Lanka Unexpectedly Raises Key Rate to Combat Inflation",
-    "titleZh": "斯里蘭卡提高政策利率以確保通膨達到目標",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target",
-    "image": null,
-    "pushedAt": "2026-11-20T13:32:29.474Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-20/rising-bond-yields-may-pose-a-challenge-to-nifty-s-sharp-rebound",
     "title": "Rising Bond Yields May Pose a Challenge to Nifty’s Sharp Rebound",
     "titleZh": "債券殖利率上升可能對 Nifty 的大幅反彈構成挑戰",
@@ -2067,7 +2058,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T14:01:32.567Z"
+    "pushedAt": "2026-11-23T16:32:07.844Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/what-caused-the-us-tech-outages-why-experts-expect-more",
@@ -4614,7 +4605,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T14:01:07.803Z"
+    "pushedAt": "2026-11-23T16:31:40.926Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
@@ -4623,7 +4614,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T14:01:58.310Z"
+    "pushedAt": "2026-11-23T16:32:34.137Z"
   },
   {
     "id": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/braskem-creditors-reach-deal-on-out-of-court-debt-revamp",
     "image": null,
     "pushedAt": "2026-11-23T16:31:10.742Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-barclays-stuck-with-1-2-billion-debt-as-irca-deal-unravels",
+    "title": "UBS, Barclays Stuck With €1.2 Billion Debt as Irca Deal Unravels",
+    "titleZh": "Irca 交易破裂，瑞銀和巴克萊陷入 12 億歐元債務困境",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-barclays-stuck-with-1-2-billion-debt-as-irca-deal-unravels",
+    "image": null,
+    "pushedAt": "2026-11-23T16:33:03.271Z"
   }
 ]
