@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
-    "title": "Anthropic IPO: What to Know About the Share Price and Trading Debut",
-    "titleZh": "人為 IPO：如何了解股價和交易首次亮相",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut",
-    "image": null,
-    "pushedAt": "2026-11-19T15:58:09.779Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/walmart-forecast-bath-body-works-beats-estimates-video",
     "title": "Walmart Full Year Forecast; Bath & Body Works Beats Estimates; Stock Movers",
     "titleZh": "沃爾瑪全年預測；沐浴和身體工作超出預期；庫存搬運工",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video",
     "image": null,
     "pushedAt": "2026-11-23T05:54:35.990Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+    "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+    "titleZh": "橋樑襲擊後普丁表示他不會「談判」烏克蘭停火",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T05:55:04.939Z"
   }
 ]
