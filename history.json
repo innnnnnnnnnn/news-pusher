@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
-    "title": "Anthropic Pop Is Followed By a Fizzle: Market Analysis",
-    "titleZh": "人為流行隨之而來的是失敗：市場分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
-    "image": null,
-    "pushedAt": "2026-11-20T11:09:56.872Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/poland-probes-blast-near-ukraine-border-after-airspace-violation",
     "title": "Poland Probes Blast Near Ukraine Border After Airspace Violation",
     "titleZh": "波蘭探測器在侵犯領空後在烏克蘭邊境附近爆炸",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/etf-iq-11-23-2026-video",
     "image": null,
     "pushedAt": "2026-11-23T21:34:42.359Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
+    "title": "October inflation data keeps BoJ on course for further tightening",
+    "titleZh": "10 月通膨數據讓日本央行進一步收緊政策",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
+    "image": null,
+    "pushedAt": "2026-11-23T21:35:12.035Z"
   }
 ]
