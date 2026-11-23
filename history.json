@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-    "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
-    "titleZh": "河馬菲奧娜去世了，她的明星地位遠遠超出了辛辛那提",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-20T13:14:34.946Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
-    "title": "Shenkman, Blackstone, GDA Among Lenders to Take Over Vivid",
-    "titleZh": "黑石集團等貸款機構接手門票經銷商 Vivid Seats",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
-    "image": null,
-    "pushedAt": "2026-11-20T02:02:48.942Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video",
     "title": "Anthropic Jumps 17% in Record IPO as Broader Tech Market Sells Off | Closing Bell",
     "titleZh": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/wall-street-surges-toward-m-a-record-as-megadeals-defy-selloff",
     "image": null,
     "pushedAt": "2026-11-23T12:02:38.412Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
+    "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
+    "titleZh": "摩根大通客戶資料在最新駭客攻擊中暴露",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T12:03:08.292Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/anthropic-may-find-its-ipo-was-the-easy-part",
+    "title": "Anthropic May Find Its IPO Was The Easy Part",
+    "titleZh": "Anthropic 可能會發現 IPO 是比較容易的部分",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/anthropic-may-find-its-ipo-was-the-easy-part",
+    "image": null,
+    "pushedAt": "2026-11-23T12:03:12.425Z"
   }
 ]
