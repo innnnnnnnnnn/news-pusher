@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
-    "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi",
-    "titleZh": "澳洲領導人與習近平會談探討貿易與安全議題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
-    "image": null,
-    "pushedAt": "2026-11-19T22:29:09.784Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
     "title": "Google-Tied Muni Deals Delayed Due to Lackluster Demand",
     "titleZh": "由於需求低迷，與Google合作的預付債券交易被推遲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/goldman-s-trivedi-dollar-still-has-some-fight-in-it-video",
     "image": null,
     "pushedAt": "2026-11-23T11:08:52.489Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+    "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+    "titleZh": "美國向深海礦業公司拍賣 3,150 萬英畝太平洋",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T11:09:20.477Z"
   }
 ]
