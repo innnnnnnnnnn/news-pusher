@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7a429636-d0d0-4d35-92da-3281428e8b7e",
-    "title": "Cleverly’s mayoral bid has two vulnerabilities",
-    "titleZh": "克萊弗利強勢競選倫敦市長有兩個弱點",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7a429636-d0d0-4d35-92da-3281428e8b7e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T16:37:58.435Z"
-  },
-  {
     "id": "https://www.ft.com/content/ef9b45d6-2348-44ce-bafe-0f1d5d5e0498",
     "title": "Federica Formilli Fendi’s Roman home is triple the fun",
     "titleZh": "Federica Formilli Fendi 的羅馬住宅充滿三倍樂趣",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T22:21:30.374Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
+    "title": "US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis",
+    "titleZh": "美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
+    "image": null,
+    "pushedAt": "2026-11-23T22:22:01.568Z"
   }
 ]
