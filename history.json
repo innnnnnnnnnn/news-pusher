@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
-    "title": "Scientists Discover a Possible Marker in the Blood of C.T.E. Patients",
-    "titleZh": "科學家在 C.T.E 的血液中發現了一個可能的標記患者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T19:11:07.509Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
     "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
     "titleZh": "人為 IPO 支持私人估值：Schlossman",
@@ -7368,7 +7359,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:42:21.208Z"
+    "pushedAt": "2026-11-23T10:04:23.596Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
@@ -7692,7 +7683,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
     "image": null,
-    "pushedAt": "2026-11-23T07:42:47.464Z"
+    "pushedAt": "2026-11-23T10:04:48.736Z"
   },
   {
     "id": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614",
@@ -7782,7 +7773,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video",
     "image": null,
-    "pushedAt": "2026-11-23T07:41:56.541Z"
+    "pushedAt": "2026-11-23T10:03:58.931Z"
   },
   {
     "id": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/travel/5-mountain-hotels-winter.html",
     "image": null,
     "pushedAt": "2026-11-23T10:03:31.214Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/us-market-in-for-pretty-painful-ride-pickering-says-video",
+    "title": "US Market in for 'Pretty Painful Ride,' Pickering Says (Video)",
+    "titleZh": "皮克林表示，美國市場將經歷「相當痛苦的旅程」（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-market-in-for-pretty-painful-ride-pickering-says-video",
+    "image": null,
+    "pushedAt": "2026-11-23T10:05:14.587Z"
   }
 ]
