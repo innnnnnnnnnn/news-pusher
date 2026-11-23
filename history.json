@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/nyregion/nyc-ice-training-traffic-stops.html",
-    "title": "At Brooklyn Compound, ICE Officers Are Training on Conducting Car Stops",
-    "titleZh": "在布魯克林大院，ICE 官員正在接受攔車培訓",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/nyregion/nyc-ice-training-traffic-stops.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19met-ice-training-02-hwtk/19met-ice-training-02-hwtk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T22:08:02.584Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
-    "title": "Judge Allows Trump’s Case Against The Times to Proceed",
-    "titleZh": "法官允許川普針對《泰晤士報》提起的 150 億美元訴訟繼續進行",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T11:41:04.343Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable",
     "title": "Why China’s Export Machine Seems Unstoppable",
     "titleZh": "為什麼中國的出口機器似乎勢不可擋",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T12:22:51.984Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+    "titleZh": "Anthropic 的 IPO讓技術研究人員一夜之間成為百萬富翁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T12:23:20.111Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+    "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+    "titleZh": "這位億萬富翁剛從人工智慧中賺了一大筆錢但它本來可以更多。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+    "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T12:23:22.154Z"
   }
 ]
