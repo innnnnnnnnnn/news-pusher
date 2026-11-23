@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-    "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
-    "titleZh": "技術承諾輕鬆。停電讓許多美國人感到不安。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T15:15:24.030Z"
-  },
-  {
     "id": "https://www.ft.com/content/c27362fd-e138-4b32-8875-1e52ce4a4e05",
     "title": "A thaw in India’s ties with Pakistan?",
     "titleZh": "印度與巴基斯坦關係解凍？",
@@ -1005,7 +996,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
     "image": null,
-    "pushedAt": "2026-11-23T13:36:40.837Z"
+    "pushedAt": "2026-11-23T16:03:56.273Z"
   },
   {
     "id": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5",
@@ -8569,12 +8560,12 @@
   },
   {
     "id": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698",
-    "title": "Emmanuel Macron proposes French budget ‘golden rule’",
+    "title": "Macron proposes French budget ‘golden rule’",
     "titleZh": "馬克宏提出法國預算“黃金法則”",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T13:37:07.771Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3c1075c1-76da-4194-b7b9-3669dd96c1a9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T16:04:22.404Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/citi-wealth-cio-moore-on-selloff-going-to-wait-it-out-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/odd-lots-can-huawei-challenge-nvidia-in-the-ai-arms-race",
     "image": null,
     "pushedAt": "2026-11-23T16:03:27.986Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally",
+    "title": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
+    "titleZh": "黃仁勳回歸引發科技債反彈，信貸頭“旋轉”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally",
+    "image": null,
+    "pushedAt": "2026-11-23T16:05:41.850Z"
   }
 ]
