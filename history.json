@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/google-workers-urge-bosses-to-let-schools-have-search-without-ai",
-    "title": "Google Workers Urge Bosses to Give Schools Search Without AI",
-    "titleZh": "谷歌員工敦促老闆讓學校在沒有人工智慧的情況下進行搜索",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-workers-urge-bosses-to-let-schools-have-search-without-ai",
-    "image": null,
-    "pushedAt": "2026-11-19T19:19:04.424Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-provides-cash-to-continue-r-d-spending-cfo-says",
     "title": "Anthropic IPO Provides Cash to Continue R&D Spending, CFO Says",
     "titleZh": "財務長表示，Anthropic IPO 提供現金以繼續研發支出",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/video/480db4a1-1110-4b98-aab4-4d59e8faefae?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-23T07:43:13.892Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133",
+    "title": "Ukraine sinks Russian warship off coast of Libya",
+    "titleZh": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9387911-402f-47d7-b6e4-ece67fec9fad.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T07:59:52.106Z"
   }
 ]
