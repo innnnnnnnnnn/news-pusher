@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
-    "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
-    "titleZh": "Anthropic 以價值 2 兆美元的公司身分登陸華爾街",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-20T08:59:37.341Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
-    "title": "Nintendo Gains as ‘Roaring Kitty’ Posts Mario Character on X",
-    "titleZh": "任天堂因《Roaring Kitty》在 X 上發布馬裡奧角色而獲利",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
-    "image": null,
-    "pushedAt": "2026-11-20T02:22:10.116Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
     "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
     "titleZh": "由於鷹派聯準會和人工智慧拋售，金價將迎來三月以來最糟糕的一周",
@@ -6598,12 +6580,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-    "title": "Gold Rebounds as Dip-Buyers Step In After Worst Week Since March",
+    "title": "Metals Rebound as Huang’s Return to Nvidia Revives Risk Appetite",
     "titleZh": "隨著交易員減少對近期聯準會升息的押注，金價反彈",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
     "image": null,
-    "pushedAt": "2026-11-23T11:55:31.614Z"
+    "pushedAt": "2026-11-23T14:32:01.339Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "image": null,
     "pushedAt": "2026-11-23T14:31:32.595Z"
+  },
+  {
+    "id": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3",
+    "title": "UK government steps up its war against quangos",
+    "titleZh": "英國政府加強對原住民的戰爭力度",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T14:32:31.274Z"
+  },
+  {
+    "id": "https://www.ft.com/content/de3cba35-e80d-4517-b7fe-c7ebdb76716d",
+    "title": "Russian oligarch says ex-wife’s divorce claim far exceeds her lifestyle during marriage",
+    "titleZh": "俄羅斯寡頭稱前妻的離婚主張遠遠超出了她婚姻期間的生活方式",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/de3cba35-e80d-4517-b7fe-c7ebdb76716d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T14:32:35.693Z"
   }
 ]
