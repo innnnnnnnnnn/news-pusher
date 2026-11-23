@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/nyregion/data-centers-opposition-towns.html",
-    "title": "A Data Center Was Coming. The Town Had a Message: Stay Out.",
-    "titleZh": "數據中心即將到來。鎮上傳達了一則訊息：遠離。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/nyregion/data-centers-opposition-towns.html",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/met-data-centers--04-bztv/met-data-centers--04-bztv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T21:31:44.949Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/google-workers-urge-bosses-to-let-schools-have-search-without-ai",
     "title": "Google Workers Urge Bosses to Give Schools Search Without AI",
     "titleZh": "谷歌員工敦促老闆讓學校在沒有人工智慧的情況下進行搜索",
@@ -8020,12 +8011,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
-    "title": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
+    "title": "MSCI Aired Avoiding Indonesia Downgrade With Prabowo, Dalio",
     "titleZh": "MSCI 與 Prabowo、Dalio 討論避免印尼評級下調",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
     "image": null,
-    "pushedAt": "2026-11-23T04:58:09.604Z"
+    "pushedAt": "2026-11-23T07:42:47.464Z"
   },
   {
     "id": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/horizons-middle-east-africa-11-23-2026-video",
     "image": null,
     "pushedAt": "2026-11-23T07:40:39.434Z"
+  },
+  {
+    "id": "https://www.ft.com/video/480db4a1-1110-4b98-aab4-4d59e8faefae",
+    "title": "The FT investigated an explosives supply chain from the US to Ukraine",
+    "titleZh": "英國《金融時報》調查了從美國到烏克蘭的爆炸物供應鏈",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/video/480db4a1-1110-4b98-aab4-4d59e8faefae?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T07:43:13.892Z"
   }
 ]
