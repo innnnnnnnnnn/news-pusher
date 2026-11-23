@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
-    "title": "Google-Tied Muni Deals Delayed Due to Lackluster Demand",
-    "titleZh": "由於需求低迷，與Google合作的預付債券交易被推遲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
-    "image": null,
-    "pushedAt": "2026-11-19T22:30:24.202Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
     "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa",
     "titleZh": "陸軍警告愛荷華州有毒雲，準備炸毀舊彈藥",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
     "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T11:09:20.477Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/podcasts/the-headlines/un-climate-talks-china-spies-ai-chips.html",
+    "title": "Why U.N. Climate Talks Collapsed, and How China’s Spies Set Sights on A.I. Chips",
+    "titleZh": "聯合國氣候談判為何破裂，中國間諜如何將目光投向人工智慧洋芋片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/podcasts/the-headlines/un-climate-talks-china-spies-ai-chips.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23headlines-promo-wzjm/23headlines-promo-wzjm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T11:09:51.215Z"
   }
 ]
