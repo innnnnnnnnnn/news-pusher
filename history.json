@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
-    "title": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
-    "titleZh": "阿拉斯加參議院投票結束後，最後的邊境接下來會發生什麼事？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-count-gvbq/18pol-alaska-count-gvbq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T02:08:26.902Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/podcasts/rats-real-estate-serial-new-york.html",
     "title": "Death and Taxes. Rats and Real Estate.",
     "titleZh": "死亡和稅收。老鼠和房地產。",
@@ -8654,8 +8645,8 @@
     "titleZh": "退休基金經理人抱怨他們因迴避科技股而被解僱",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T05:22:04.600Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40618ee3-536f-4e8f-bdaf-c91453566250.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T07:33:28.568Z"
   },
   {
     "id": "https://www.ft.com/content/3fb69cc3-01ad-4f2b-8b1f-aba7c6387f35",
@@ -8664,16 +8655,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3fb69cc3-01ad-4f2b-8b1f-aba7c6387f35",
     "image": null,
-    "pushedAt": "2026-11-23T05:22:10.139Z"
+    "pushedAt": "2026-11-23T07:33:53.595Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/australia-lower-economy-estimate-budget-update-inflation-unemployment-treasurer-jim-chalmers",
-    "title": "Australia to Lower Nominal Economy Estimate in Budget Update",
+    "title": "Australia to Cut Economic Growth Forecast on Iran War Impacts",
     "titleZh": "澳洲將在預算更新中降低名目經濟預期",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/australia-lower-economy-estimate-budget-update-inflation-unemployment-treasurer-jim-chalmers",
     "image": null,
-    "pushedAt": "2026-11-23T05:22:41.401Z"
+    "pushedAt": "2026-11-23T07:34:19.867Z"
   },
   {
     "id": "https://flipso.com/p/ulrwti10q",
@@ -8682,7 +8673,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ulrwti10q?ref=rss",
     "image": "https://cdn.flipso.com/p/ulrwti10q_square.jpg",
-    "pushedAt": "2026-11-23T05:22:44.852Z"
+    "pushedAt": "2026-11-23T07:34:44.628Z"
   },
   {
     "id": "https://flipso.com/p/96kssr0i2",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-hbc-rises-in-jse-debut-ahead-of-2-6-billion-deal",
     "image": null,
     "pushedAt": "2026-11-23T07:32:59.687Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo",
+    "title": "China’s Next AI Deals Clouded by Selloff After Anthropic IPO",
+    "titleZh": "Anthropic IPO後中國的下一個人工智慧交易因拋售而蒙上陰影",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo",
+    "image": null,
+    "pushedAt": "2026-11-23T07:35:11.879Z"
   }
 ]
