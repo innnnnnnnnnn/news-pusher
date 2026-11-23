@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
-    "title": "Trump Offers Xi a Helping Hand on Escalator",
-    "titleZh": "川普向習近平提供扶梯援助（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
-    "image": null,
-    "pushedAt": "2026-11-20T05:20:33.295Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-    "title": "Taiwan’s Stock Benchmark Plunges 18% in Worst Week Since 1991",
-    "titleZh": "台灣股市再次暴跌，迎來1991年以來最糟糕的一周",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-    "image": null,
-    "pushedAt": "2026-11-20T07:40:53.018Z"
-  },
-  {
     "id": "https://flipso.com/p/whixozkc3",
     "title": "Walking a Bit of the Izu Peninsula",
     "titleZh": "漫步伊豆半島",
@@ -4047,7 +4029,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/uolcmtnzk?ref=rss",
     "image": "https://cdn.flipso.com/p/uolcmtnzk_square.jpg",
-    "pushedAt": "2026-11-23T14:12:46.841Z"
+    "pushedAt": "2026-11-23T16:42:49.375Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
@@ -5388,7 +5370,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
     "image": null,
-    "pushedAt": "2026-11-23T14:14:01.905Z"
+    "pushedAt": "2026-11-23T16:43:14.405Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/prediction-market-rule-from-cftc-under-white-house-review",
     "image": null,
     "pushedAt": "2026-11-23T16:41:02.238Z"
+  },
+  {
+    "id": "https://www.ft.com/content/81511d01-2a10-46f1-8eda-ee74aae4e7cb",
+    "title": "Hiring: Nvidia Chief Compliance Officer",
+    "titleZh": "招募：Nvidia 首席合規官",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/81511d01-2a10-46f1-8eda-ee74aae4e7cb",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ae829d1-333e-4f95-a709-9cbd880f8af9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T16:43:44.494Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9d7841cb-56c8-4d84-92f3-6d2946fbd7aa",
+    "title": "Banker paid ex-prince Andrew £750,000 after winning award at his event, court told",
+    "titleZh": "法庭稱，銀行家在前安德魯王子的活動中獲獎後向他支付了 75 萬英鎊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9d7841cb-56c8-4d84-92f3-6d2946fbd7aa?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8bcbc34d-ad6f-4613-8447-9ed5eecf05ac.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T16:43:50.952Z"
   }
 ]
