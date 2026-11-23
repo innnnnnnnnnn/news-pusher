@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a",
-    "title": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
-    "titleZh": "習近平、川普和普丁歡呼「開創性」會面",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9c62d35-e78b-4224-9bf4-7d215dbc590a.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T05:17:09.307Z"
-  },
-  {
     "id": "https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9",
     "title": "France and UK at loggerheads ahead of key EU summit",
     "titleZh": "歐盟高峰會前夕，法國和英國就食品規則發生爭執",
@@ -573,7 +564,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-archival-tbmv/19myanmar-icj-archival-tbmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T22:40:06.078Z"
+    "pushedAt": "2026-11-23T00:46:02.737Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-executive-team-rings-nasdaq-opening-bell-video",
@@ -600,7 +591,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
     "image": null,
-    "pushedAt": "2026-11-22T22:40:58.767Z"
+    "pushedAt": "2026-11-23T00:46:51.838Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/eu-executive-branch-suffered-ai-driven-cyber-attack-in-october",
@@ -2040,7 +2031,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T22:40:32.076Z"
+    "pushedAt": "2026-11-23T00:46:27.131Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
@@ -6819,7 +6810,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/uolcmtnzk?ref=rss",
     "image": "https://cdn.flipso.com/p/uolcmtnzk_square.jpg",
-    "pushedAt": "2026-11-22T22:39:41.765Z"
+    "pushedAt": "2026-11-23T00:45:38.432Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
@@ -8160,7 +8151,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
     "image": null,
-    "pushedAt": "2026-11-22T22:41:24.860Z"
+    "pushedAt": "2026-11-23T00:47:16.272Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
     "image": null,
     "pushedAt": "2026-11-23T00:45:11.211Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+    "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+    "titleZh": "為什麼民主黨人阿卜杜勒·賽義德大肆談論“特朗普醫改”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-23T00:47:44.638Z"
   }
 ]
