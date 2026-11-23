@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/insight-with-haslinda-amin-11-20-2026-video",
-    "title": "Anthropic Soars Then Slips as AI Trade Fears Linger",
-    "titleZh": "人工智慧貿易擔憂揮之不去，人類先漲後跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/insight-with-haslinda-amin-11-20-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-20T07:54:07.909Z"
-  },
-  {
     "id": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "title": "UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
     "titleZh": "伯納姆將在布魯塞爾簽署歐盟重置協議",
@@ -5829,7 +5820,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
     "image": null,
-    "pushedAt": "2026-11-23T18:32:44.217Z"
+    "pushedAt": "2026-11-23T20:44:36.490Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -6657,7 +6648,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d5e951e6-b5f6-4286-9de4-495c9a3c2472?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1047f484-d7a8-47c7-9741-ce83ce8f1562.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T18:31:52.034Z"
+    "pushedAt": "2026-11-23T20:44:11.664Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/capita-plunges-57-as-ceo-quits-over-botched-pensions-contract",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/huang-tells-staff-he-will-be-better-ceo-second-time-video",
     "image": null,
     "pushedAt": "2026-11-23T20:43:43.338Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "title": "The Return of Jensen Huang",
+    "titleZh": "黃仁勳回歸",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T20:45:02.791Z"
   }
 ]
