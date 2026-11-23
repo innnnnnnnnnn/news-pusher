@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
-    "title": "Anthropic’s Value Surges in Public Debut",
-    "titleZh": "Anthropic 首次公開亮相價值飆升",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19evening-nl-anthropic-ipo-pjml/19evening-nl-anthropic-ipo-pjml-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T04:09:38.595Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-paulson-says-clear-communication-can-guide-rates",
     "title": "Fed’s Paulson Says Clear Communication Can Guide Rates",
     "titleZh": "聯準會保爾森表示清晰的溝通可以指導利率",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-23T14:17:59.167Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
+    "title": "Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets",
+    "titleZh": "特拉華州監管機構表示，馬克·沃爾特的保險資產被“誤導”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T14:18:28.014Z"
   }
 ]
