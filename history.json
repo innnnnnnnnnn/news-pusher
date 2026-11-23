@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9",
-    "title": "France and UK at loggerheads ahead of key EU summit",
-    "titleZh": "歐盟高峰會前夕，法國和英國就食品規則發生爭執",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/53091ded-e5c8-4c29-a3f9-48c0ea871ab9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T13:12:30.127Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
     "title": "US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet",
     "titleZh": "Anthropic IPO創紀錄，美國期貨上漲；川普、習近平、普丁會面",
@@ -609,7 +600,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
     "image": null,
-    "pushedAt": "2026-11-22T22:41:51.062Z"
+    "pushedAt": "2026-11-23T00:48:12.064Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/protesters-converge-on-nasdaq-for-anthropic-ipo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-23T00:47:44.638Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+    "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+    "titleZh": "隨著交易員減少對近期聯準會升息的押注，金價反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+    "image": null,
+    "pushedAt": "2026-11-23T00:48:40.204Z"
   }
 ]
