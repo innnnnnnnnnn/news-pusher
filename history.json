@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/apple-has-a-software-problem-nvidia-s-ceo-crisis-with-joanna-stern",
-    "title": "Apple Has a Software Problem + Nvidia’s CEO Crisis with Joanna Stern",
-    "titleZh": "蘋果有軟體問題+英偉達執行長與喬安娜·史特恩的危機",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/apple-has-a-software-problem-nvidia-s-ceo-crisis-with-joanna-stern",
-    "image": null,
-    "pushedAt": "2026-11-19T20:04:39.010Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video",
     "title": "Anthropic Investor Sees Opportunity Beyond IPO",
     "titleZh": "人類投資者看到了 IPO 以外的機會",
@@ -4128,7 +4119,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T06:35:33.839Z"
+    "pushedAt": "2026-11-23T08:53:19.325Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/musk-ally-akis-joins-board-of-doge-alumni-firm-after-new-round",
@@ -5325,7 +5316,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T06:35:59.122Z"
+    "pushedAt": "2026-11-23T08:53:43.749Z"
   },
   {
     "id": "https://www.ft.com/content/53d9f3ef-e0cc-4605-8203-180a97d0d404",
@@ -5370,7 +5361,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4cf7587f-a408-42af-9f8f-b3dd814db5c0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T06:36:24.225Z"
+    "pushedAt": "2026-11-23T08:54:08.303Z"
   },
   {
     "id": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e",
@@ -7728,7 +7719,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/poegex31c?ref=rss",
     "image": "https://cdn.flipso.com/p/poegex31c_square.jpg",
-    "pushedAt": "2026-11-23T06:37:19.134Z"
+    "pushedAt": "2026-11-23T08:54:57.426Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
@@ -8740,12 +8731,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
-    "title": "Malaysia Palm Oil Industry Says CPO Tax-Waiver Window Has Passed",
+    "title": "Malaysia Palm Industry Says CPO Tax-Waiver Window Has Passed",
     "titleZh": "馬來西亞棕櫚油產業稱原棕油免稅窗口已過",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
     "image": null,
-    "pushedAt": "2026-11-23T06:36:51.152Z"
+    "pushedAt": "2026-11-23T08:54:32.927Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/how-trump-s-ai-chip-crackdown-may-hit-southeast-asia-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/stock-rotation-will-go-international-3-minutes-mliv-video",
     "image": null,
     "pushedAt": "2026-11-23T08:52:51.223Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
+    "title": "Nvidia-Backed AI Company Firmus Mulls $1.5 Billion Bond Offering",
+    "titleZh": "Nvidia 支持的人工智慧公司 Firmus 考慮發行 15 億美元債券",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
+    "image": null,
+    "pushedAt": "2026-11-23T08:55:23.732Z"
   }
 ]
