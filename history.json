@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/give-uk-your-data-nobel-economist-tells-anthropic-and-openai",
-    "title": "Give UK Your Data, Nobel Economist Tells Anthropic and OpenAI",
-    "titleZh": "諾貝爾經濟學獎得主告訴 Anthropic 和 OpenAI，請向英國提供您的數據",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/give-uk-your-data-nobel-economist-tells-anthropic-and-openai",
-    "image": null,
-    "pushedAt": "2026-11-21T07:49:25.359Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
-    "title": "How an American AI Company Uses Chinese Open-Weight Models",
-    "titleZh": "美國人工智慧公司如何使用中國開放權重模型",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
-    "image": null,
-    "pushedAt": "2026-11-20T11:17:27.364Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/audio/2026-11-20/odd-lots-how-an-ai-native-company-chooses-its-models-podcast",
     "title": "Odd Lots: How an AI Native Company Chooses Its Models (Podcast)",
     "titleZh": "奇數股：一家 AI 原生公司如何選擇其模型（Podcast）",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html",
     "image": null,
     "pushedAt": "2026-11-23T21:36:34.529Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
+    "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
+    "titleZh": "奧德拉·福丁修理汽車並緩解女性的恐懼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
+    "image": null,
+    "pushedAt": "2026-11-23T21:37:04.700Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/hartree-is-top-supplier-behind-10-million-oil-crypto-coin-mint",
+    "title": "Hartree Is Top Supplier Behind $10 Million Oil Crypto Coin Mint",
+    "titleZh": "Hartree 是 1,000 萬美元石油加密貨幣鑄幣廠的頂級供應商",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/hartree-is-top-supplier-behind-10-million-oil-crypto-coin-mint",
+    "image": null,
+    "pushedAt": "2026-11-23T21:37:07.409Z"
   }
 ]
