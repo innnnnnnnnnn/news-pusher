@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
-    "title": "Jimmy Kimmel Recaps Trump’s ‘Big Dim Summit’",
-    "titleZh": "吉米·金梅爾回顧川普的“大暗峰會”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html",
-    "image": null,
-    "pushedAt": "2026-11-20T15:30:54.363Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
     "title": "Ex-Alibaba Star’s AI Startup Doubles Valuation to $5 Billion",
     "titleZh": "前阿里巴巴之星的人工智慧新創公司估值翻倍至 50 億美元",
@@ -4488,7 +4479,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22DB-mamdani-kmcp/22DB-mamdani-kmcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T19:19:10.684Z"
+    "pushedAt": "2026-11-23T21:31:09.808Z"
   },
   {
     "id": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
@@ -8169,7 +8160,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
     "image": null,
-    "pushedAt": "2026-11-23T19:18:20.776Z"
+    "pushedAt": "2026-11-23T21:30:18.404Z"
   },
   {
     "id": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d",
@@ -8178,7 +8169,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T19:18:45.429Z"
+    "pushedAt": "2026-11-23T21:30:43.675Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
     "image": null,
     "pushedAt": "2026-11-23T21:27:39.341Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html",
+    "title": "Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide",
+    "titleZh": "眾議員吉米·戈麥斯在小組指控與助手發生不必要的性接觸後辭職",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-gomez-wpkc/23dc-gomez-wpkc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T21:31:37.747Z"
   }
 ]
