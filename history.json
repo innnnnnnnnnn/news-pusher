@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ced898eb-d752-414e-aeba-c85ce9717677",
-    "title": "General strike hits Italy as anger at Meloni grows",
-    "titleZh": "隨著對梅洛尼的憤怒加劇，義大利發生總罷工",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ced898eb-d752-414e-aeba-c85ce9717677?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T09:44:56.113Z"
-  },
-  {
     "id": "https://www.ft.com/content/3556ef23-2df0-4546-89a3-be0323cd32e4",
     "title": "Babe, a new gilet just dropped",
     "titleZh": "寶貝，一件新馬甲剛掉下來",
@@ -753,7 +744,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:07:25.729Z"
+    "pushedAt": "2026-11-23T23:30:23.003Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/what-caused-the-us-tech-outages-why-experts-expect-more",
@@ -3309,7 +3300,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:07:50.775Z"
+    "pushedAt": "2026-11-23T23:30:48.788Z"
   },
   {
     "id": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
@@ -3408,7 +3399,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:09:05.399Z"
+    "pushedAt": "2026-11-23T23:31:38.734Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
@@ -4533,7 +4524,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T21:08:40.281Z"
+    "pushedAt": "2026-11-23T23:31:13.735Z"
   },
   {
     "id": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/2c1fcdc0-eb16-4cee-9041-736527c2ae83?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F69b6516b-eae1-46f0-8872-53532083d3df.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-23T23:29:54.446Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies",
+    "title": "RBC Has Ideas For Canada to Unlock Tech GDP Gains as NVIDIA Rallies",
+    "titleZh": "隨著 NVIDIA 的上漲，加拿大皇家銀行 (RBC) 對加拿大釋放科技 GDP 成長的想法",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies",
+    "image": null,
+    "pushedAt": "2026-11-23T23:32:08.499Z"
   }
 ]
