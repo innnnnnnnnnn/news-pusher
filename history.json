@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/us-chip-curbs-ignite-fresh-ai-jitters-market-snapshot-video",
-    "title": "US Chip Curbs Ignite Fresh AI Jitters: Market Snapshot",
-    "titleZh": "美國晶片限制引發新的人工智慧恐慌：市場概況",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/us-chip-curbs-ignite-fresh-ai-jitters-market-snapshot-video",
-    "image": null,
-    "pushedAt": "2026-11-20T11:52:17.807Z"
-  },
-  {
     "id": "https://www.ft.com/content/7a429636-d0d0-4d35-92da-3281428e8b7e",
     "title": "Cleverly’s mayoral bid has two vulnerabilities",
     "titleZh": "克萊弗利強勢競選倫敦市長有兩個弱點",
@@ -87,7 +78,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T19:59:43.348Z"
+    "pushedAt": "2026-11-23T22:21:05.137Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/2a25898eb0bd5736b6faf0963c49d691",
     "image": null,
     "pushedAt": "2026-11-23T22:20:36.539Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+    "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+    "titleZh": "川普政府對英偉達醜聞中心的新加坡公司 Megaspeed 實施制裁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T22:21:30.374Z"
   }
 ]
