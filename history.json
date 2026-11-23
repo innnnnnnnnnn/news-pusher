@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-may-be-takeover-proof-video",
-    "title": "Why Anthropic May Be Takeover-Proof",
-    "titleZh": "為什麼 Anthropic 可以防止被收購",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/why-anthropic-may-be-takeover-proof-video",
-    "image": null,
-    "pushedAt": "2026-11-19T16:06:47.086Z"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion",
-    "title": "Who founded Anthropic? Meet the people its I.P.O. made multibillionaires.",
-    "titleZh": "來認識 Anthropic 的七位創辦人。目前每項資產的價值約為 200 億美元。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion",
-    "image": null,
-    "pushedAt": "2026-11-22T09:44:23.018Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/putin-basks-in-spotlight-as-war-in-ukraine-grinds-on-video",
     "title": "Putin Basks in Spotlight With Trump, Xi as War in Ukraine Grinds On",
     "titleZh": "烏克蘭戰爭愈演愈烈，普丁與川普、習近平成為焦點",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-china-show-11-23-2026-video",
     "image": null,
     "pushedAt": "2026-11-23T06:00:44.147Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+    "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+    "titleZh": "俄羅斯無人機蜂擁基輔，荷蘭和奧地利大使館受損",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T06:01:15.015Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
+    "title": "Defense AI Startup Agon Raises $70 Million Series A From VCs, ex-Sequoia Boss",
+    "titleZh": "國防人工智慧新創公司 Agon 從創投、前紅杉資本老闆籌集了 7000 萬美元的 A 輪融資",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
+    "image": null,
+    "pushedAt": "2026-11-23T06:01:20.073Z"
   }
 ]
