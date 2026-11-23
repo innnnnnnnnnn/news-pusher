@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-    "titleZh": "Nvidia 被要求向與中國軍方和 Megaspeed 相關的公司出售晶片",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T12:32:00.556Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
     "title": "If You Want To Trade Like Anthropic, You Better Look Like Anthropic, Says Buyer",
     "titleZh": "買家說，如果你想像人一樣交易，你最好看起來像人",
@@ -2220,7 +2211,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/ma259pu0k?ref=rss",
     "image": "https://cdn.flipso.com/p/ma259pu0k_square.jpg",
-    "pushedAt": "2026-11-23T10:28:23.230Z"
+    "pushedAt": "2026-11-23T12:55:08.776Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video",
@@ -4893,7 +4884,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
     "image": null,
-    "pushedAt": "2026-11-23T10:29:37.723Z"
+    "pushedAt": "2026-11-23T12:55:59.064Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
@@ -5262,7 +5253,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/fvzht0uuk?ref=rss",
     "image": "https://cdn.flipso.com/p/fvzht0uuk_square.jpg",
-    "pushedAt": "2026-11-23T10:29:12.954Z"
+    "pushedAt": "2026-11-23T12:55:34.017Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
@@ -6936,7 +6927,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a4cccba-42a8-4b9f-8427-6f9b292ad50b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T10:30:27.618Z"
+    "pushedAt": "2026-11-23T12:56:24.268Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
     "image": null,
     "pushedAt": "2026-11-23T12:54:40.050Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
+    "title": "European Chip Stocks Bounce After AI Rout",
+    "titleZh": "歐洲晶片股在人工智慧潰敗後反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-23T12:56:52.684Z"
   }
 ]
