@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
-    "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.",
-    "titleZh": "加州風暴席捲南部，引發洛杉磯一些疏散警告",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
-    "image": null,
-    "pushedAt": "2026-11-20T09:59:50.947Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-breaks-record-video",
     "title": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
     "titleZh": "1,073 億美元 IPO 打破紀錄後 Anthropic 股價上漲 17%",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/biz-crowdstrike-zscaler-cwpb/biz-crowdstrike-zscaler-cwpb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T13:09:51.197Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
+    "title": "Brazil’s Real Weakens Past 6 Per Dollar as Lula Selloff Extends",
+    "titleZh": "盧拉拋售擴大，巴西雷亞爾兌美元匯率跌破 6",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
+    "image": null,
+    "pushedAt": "2026-11-23T13:12:55.271Z"
   }
 ]
