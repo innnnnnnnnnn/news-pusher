@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b6af48fd-6074-46a6-8be4-fb0b9d05189b",
-    "title": "Second review set to contradict Milburn’s benefit plans",
-    "titleZh": "蒂姆斯審查為殘疾福利索賠人的現金支付辯護",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b6af48fd-6074-46a6-8be4-fb0b9d05189b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T11:48:46.769Z"
-  },
-  {
     "id": "https://www.ft.com/content/cf6e81b6-e3aa-4475-8d5b-04eb8809d5ce",
     "title": "The rift between the US and EU on banks is widening",
     "titleZh": "美國和歐盟在銀行問題上的分歧正在擴大",
@@ -5352,7 +5343,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
     "image": null,
-    "pushedAt": "2026-11-23T15:17:08.175Z"
+    "pushedAt": "2026-11-23T17:44:02.695Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
@@ -8502,7 +8493,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/-great-to-see-huang-back-at-nvidia-ferragu-says-video",
     "image": null,
-    "pushedAt": "2026-11-23T15:17:35.287Z"
+    "pushedAt": "2026-11-23T17:44:27.917Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
@@ -8511,7 +8502,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T15:18:04.103Z"
+    "pushedAt": "2026-11-23T17:44:52.621Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-reinstatement-is-ultimate-taco-trade-ritholtz-video",
     "image": null,
     "pushedAt": "2026-11-23T17:43:34.826Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
+    "title": "Wall Street Reacts to Return of Nvidia's Huang",
+    "titleZh": "華爾街對英偉達黃仁勳回歸的反應",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
+    "image": null,
+    "pushedAt": "2026-11-23T17:45:20.578Z"
   }
 ]
