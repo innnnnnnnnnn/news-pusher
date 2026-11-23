@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video",
-    "title": "Menlo Makes First-Ever IPO Investment With Anthropic",
-    "titleZh": "Menlo 與 Anthropic 進行首次 IPO 投資",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video",
-    "image": null,
-    "pushedAt": "2026-11-20T00:51:37.697Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/menlo-makes-first-ever-ipo-investment-with-anthropic-video-mwo4hdqb",
     "title": "Menlo Makes First-Ever IPO Investment With Anthropic",
     "titleZh": "Menlo 與 Anthropic 進行首次 IPO 投資",
@@ -1752,7 +1743,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T10:13:57.414Z"
+    "pushedAt": "2026-11-23T12:42:18.128Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
@@ -6288,7 +6279,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-23T10:15:17.921Z"
+    "pushedAt": "2026-11-23T12:42:43.752Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/european-banks-set-to-fire-up-m-a-talks-morgan-stanley-says",
     "image": null,
     "pushedAt": "2026-11-23T12:36:48.172Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+    "title": "Rene Haas affirms ‘long-term commitment’ to Arm after Nvidia approach",
+    "titleZh": "在英偉達接洽後，雷內·哈斯 (Rene Haas) 確認對 Arm 的“長期承諾”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa182ca0f-84b3-4c02-8b14-fb9b6626ccd3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-23T12:43:11.426Z"
   }
 ]
