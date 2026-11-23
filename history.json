@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
-    "title": "The dangers of AI ‘handoverism’",
-    "titleZh": "人工智慧「交接主義」的危險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa5f463c0-fafc-432d-aa64-c976665b589f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T04:02:29.434Z"
-  },
-  {
-    "id": "https://flipso.com/p/k6nacrbia",
-    "title": "Japan's Hometown Tax",
-    "titleZh": "日本的故鄉稅",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/k6nacrbia?ref=rss",
-    "image": "https://cdn.flipso.com/p/k6nacrbia_square.jpg",
-    "pushedAt": "2026-11-23T02:16:13.846Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/kalshi-novig-asks-states-to-help-bar-problem-gamblers-from-prediction-markets",
     "title": "Kalshi, Novig Asks States to Help Bar Problem Gamblers From Prediction Markets",
     "titleZh": "卡爾希和諾維格要求各州協助禁止問題賭徒進入預測市場",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/fsgbqaa5f?ref=rss",
     "image": "https://cdn.flipso.com/p/fsgbqaa5f_square.jpg",
     "pushedAt": "2026-11-23T04:12:07.346Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
+    "title": "China’s Buddhists are releasing animals where they do not belong",
+    "titleZh": "中國佛教徒將動物放生到不屬於它們的地方",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
+    "image": null,
+    "pushedAt": "2026-11-23T04:12:39.345Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
+    "title": "China’s efforts to strengthen its safety net fuel public anger",
+    "titleZh": "中國加強安全網的努力激起了公眾的憤怒",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
+    "image": null,
+    "pushedAt": "2026-11-23T04:12:41.956Z"
   }
 ]
