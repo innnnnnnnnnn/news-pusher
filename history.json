@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/1e7855e5-fe9c-4e9c-ba8d-68c70159a1f1",
-    "title": "UK retail sales jump as consumers stock up on emergency supplies",
-    "titleZh": "英國消費者囤積緊急物資，零售銷售額大幅成長",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/1e7855e5-fe9c-4e9c-ba8d-68c70159a1f1?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T04:32:59.299Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/moodliar-investec-s-uk-business-foundation-comfortable-video",
     "title": "Moodliar: Investec Comfortable with UK Business Foundation",
     "titleZh": "Moodliar：天達集團對英國商業基金會感到滿意",
@@ -825,7 +816,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20db-amodei-wqtg/20db-amodei-wqtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T18:39:36.888Z"
+    "pushedAt": "2026-11-23T20:51:34.532Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
@@ -2904,7 +2895,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-23T18:40:01.719Z"
+    "pushedAt": "2026-11-23T20:51:59.157Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
@@ -4992,7 +4983,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T18:40:26.486Z"
+    "pushedAt": "2026-11-23T20:52:23.903Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
@@ -7053,7 +7044,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-23T18:39:11.257Z"
+    "pushedAt": "2026-11-23T20:51:09.535Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/ukraine-farm-failures-loom-as-war-drains-financial-buffers-top-trader-says",
@@ -8727,7 +8718,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-CATIDES--hlpm/23wea-CATIDES--hlpm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T18:40:55.592Z"
+    "pushedAt": "2026-11-23T20:52:49.502Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/marlowe-hits-1-15b-valuation-with-bet-beyond-nvidia-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "image": null,
     "pushedAt": "2026-11-23T20:46:53.901Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-s-return-to-nvidia-is-welcomed-by-markets-trump-big-take-podcast",
+    "title": "Jensen Huang’s Return to Nvidia Is Welcomed by Markets, Trump: Big Take Podcast",
+    "titleZh": "黃仁勳重返英偉達受到市場歡迎，川普：Big Take Podcast",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-s-return-to-nvidia-is-welcomed-by-markets-trump-big-take-podcast",
+    "image": null,
+    "pushedAt": "2026-11-23T20:53:19.424Z"
   }
 ]
