@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years",
-    "title": "Traders Are Betting on Interest Rates Staying High for Years",
-    "titleZh": "交易員押注利率將持續多年維持高位",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years",
-    "image": null,
-    "pushedAt": "2026-11-20T05:54:47.639Z"
-  },
-  {
-    "id": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
-    "title": "Inside a Rohingya Camp After a Genocide Ruling",
-    "titleZh": "種族滅絕裁決後的羅辛亞營地內部",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
-    "image": null,
-    "pushedAt": "2026-11-23T01:51:10.146Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
     "image": null,
     "pushedAt": "2026-11-23T02:48:46.654Z"
+  },
+  {
+    "id": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614",
+    "title": "BYD shares fall after SUV barred from EU for Land Rover design copy",
+    "titleZh": "SUV因抄襲路虎設計被歐盟禁止進入 比亞迪股價下跌",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T03:00:43.533Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+    "title": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+    "titleZh": "寒流威脅庫存緊張，歐洲天然氣價格飆升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+    "image": null,
+    "pushedAt": "2026-11-23T03:00:47.946Z"
   }
 ]
