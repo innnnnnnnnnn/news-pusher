@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-    "title": "Nvidia’s roaring results can’t hide its troubles",
-    "titleZh": "英偉達的驕人業績並不能掩飾其困境",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-    "image": null,
-    "pushedAt": "2026-11-23T20:47:22.381Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
     "title": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold",
     "titleZh": "隨著人工智慧浪潮席捲歐洲，債券銷售創下 2 兆歐元紀錄",
@@ -5856,7 +5847,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "image": null,
-    "pushedAt": "2026-11-23T19:14:34.310Z"
+    "pushedAt": "2026-11-23T21:25:38.664Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
@@ -7737,7 +7728,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-COP31-WHAT-NOW-1-fpgh/23CLI-COP31-WHAT-NOW-1-fpgh-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-23T19:14:59.152Z"
+    "pushedAt": "2026-11-23T21:26:03.955Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-indigenous-inyt-01-thzm/25sp-women-indigenous-inyt-01-thzm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T21:25:09.308Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/opinion/population-decline-how-to-prepare.html",
+    "title": "How to Prepare for Population Decline and an Emptier World",
+    "titleZh": "如何為人口下降和空虛的世界做好準備",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/opinion/population-decline-how-to-prepare.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/opinion/23geruso-spears/23geruso-spears-mediumSquareAt3X-v2.png",
+    "pushedAt": "2026-11-23T21:26:33.020Z"
   }
 ]
