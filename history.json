@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/audio/2026-11-20/odd-lots-how-an-ai-native-company-chooses-its-models-podcast",
-    "title": "Odd Lots: How an AI Native Company Chooses Its Models (Podcast)",
-    "titleZh": "奇數股：一家 AI 原生公司如何選擇其模型（Podcast）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/audio/2026-11-20/odd-lots-how-an-ai-native-company-chooses-its-models-podcast",
-    "image": null,
-    "pushedAt": "2026-11-20T11:17:52.977Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/lagarde-tells-europe-to-head-off-threats-before-they-materialize",
     "title": "Lagarde Tells Europe to Tackle Risks Before They Materialize",
     "titleZh": "拉加德告訴歐洲在威脅成為現實之前要阻止",
@@ -5775,7 +5766,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
     "image": null,
-    "pushedAt": "2026-11-23T19:23:15.266Z"
+    "pushedAt": "2026-11-23T21:37:36.128Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
@@ -7665,7 +7656,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "image": null,
-    "pushedAt": "2026-11-23T19:23:40.082Z"
+    "pushedAt": "2026-11-23T21:38:00.772Z"
   },
   {
     "id": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3",
@@ -7673,8 +7664,8 @@
     "titleZh": "英國政府加強對原住民的戰爭力度",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb51dc16d-455e-4167-9b28-6b3c4cadc29d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T19:24:05.921Z"
+    "image": null,
+    "pushedAt": "2026-11-23T21:38:26.027Z"
   },
   {
     "id": "https://www.ft.com/content/de3cba35-e80d-4517-b7fe-c7ebdb76716d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/hartree-is-top-supplier-behind-10-million-oil-crypto-coin-mint",
     "image": null,
     "pushedAt": "2026-11-23T21:37:07.409Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/trump-puts-a-floor-under-ai-trade-with-push-for-huang-s-return",
+    "title": "Trump Puts a Floor Under AI Trade With Push for Huang’s Return",
+    "titleZh": "川普為人工智慧貿易設置底線，推動黃仁勳回歸",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-puts-a-floor-under-ai-trade-with-push-for-huang-s-return",
+    "image": null,
+    "pushedAt": "2026-11-23T21:38:53.638Z"
   }
 ]
