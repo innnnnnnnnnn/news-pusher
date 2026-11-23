@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d",
-    "title": "China seeks to re-enter US private equity with ‘disaster scenario’ protections",
-    "titleZh": "中國準備重啟美國私募股權投資",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T14:11:00.682Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
     "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
     "titleZh": "峰會讓普丁贏得他渴望的勝利：與超級大國平起平坐",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/-que-causo-las-fallas-tecnologicas-en-ee-uu-y-por-que-se-esperan-mas",
     "image": null,
     "pushedAt": "2026-11-23T17:59:21.231Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai",
+    "title": "Anthropic Rolls Out Zero Data Retention Policy for Advanced AI",
+    "titleZh": "Anthropic 推出高階人工智慧的零資料保留政策",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai",
+    "image": null,
+    "pushedAt": "2026-11-23T18:02:23.580Z"
   }
 ]
