@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
-    "title": "SK Hynix to Become Top Kioxia Holder in AI Memory Shuffle",
-    "titleZh": "SK 海力士將轉換 Kioxia 債券並成為最大股東",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
-    "image": null,
-    "pushedAt": "2026-11-20T13:00:46.041Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
     "title": "Nvidia’s roaring results can’t hide its troubles",
     "titleZh": "英偉達的驕人業績並不能掩飾其困境",
@@ -5838,7 +5829,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "image": null,
-    "pushedAt": "2026-11-23T19:12:54.634Z"
+    "pushedAt": "2026-11-23T21:23:51.180Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
@@ -5847,7 +5838,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
     "image": null,
-    "pushedAt": "2026-11-23T19:13:19.422Z"
+    "pushedAt": "2026-11-23T21:24:15.907Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
@@ -5856,7 +5847,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
     "image": null,
-    "pushedAt": "2026-11-23T19:13:44.131Z"
+    "pushedAt": "2026-11-23T21:24:40.741Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
@@ -8187,7 +8178,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/senegal-debt-outlook-key-to-investment-decisions-ebrd-says",
     "image": null,
-    "pushedAt": "2026-11-23T19:12:29.683Z"
+    "pushedAt": "2026-11-23T21:23:26.332Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/nigeria-s-naira-weakens-with-investors-wary-of-election-upset",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-backed-firm-to-ink-venezuela-dredging-deal-to-aid-oil-exports",
     "image": null,
     "pushedAt": "2026-11-23T21:22:57.917Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+    "title": "The Woman Who Took Canada to Court Over Genocide",
+    "titleZh": "因種族滅絕而將加拿大告上法庭的女人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-indigenous-inyt-01-thzm/25sp-women-indigenous-inyt-01-thzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T21:25:09.308Z"
   }
 ]
