@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/ulrwti10q",
-    "title": "In Search of the Deep Life",
-    "titleZh": "尋找深層生命",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ulrwti10q?ref=rss",
-    "image": "https://cdn.flipso.com/p/ulrwti10q_square.jpg",
-    "pushedAt": "2026-11-23T03:25:28.458Z"
-  },
-  {
-    "id": "https://flipso.com/p/96kssr0i2",
-    "title": "Bikepacking Across Kyushu",
-    "titleZh": "騎自行車穿越九州",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/96kssr0i2?ref=rss",
-    "image": "https://cdn.flipso.com/p/96kssr0i2_square.jpg",
-    "pushedAt": "2026-11-23T03:25:53.819Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/opinion-gta-blurs-fiction-and-reality-video",
     "title": "“Grand Theft Auto VI” Blurs Fiction and Reality",
     "titleZh": "《俠盜獵車手 VI》模糊了虛構與現實",
@@ -4821,7 +4803,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-23T03:09:55.810Z"
+    "pushedAt": "2026-11-23T05:21:36.737Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/6kuc57jt4?ref=rss",
     "image": "https://cdn.flipso.com/p/6kuc57jt4_square.jpg",
     "pushedAt": "2026-11-23T05:19:25.119Z"
+  },
+  {
+    "id": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0",
+    "title": "Pension fund managers complain they were fired for shunning tech stocks",
+    "titleZh": "退休基金經理人抱怨他們因迴避科技股而被解僱",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T05:22:04.600Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3fb69cc3-01ad-4f2b-8b1f-aba7c6387f35",
+    "title": "Schools teach ‘real life’ with FT financial education charity",
+    "titleZh": "學校與英國《金融時報》金融教育慈善機構一起教授“現實生活”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3fb69cc3-01ad-4f2b-8b1f-aba7c6387f35",
+    "image": null,
+    "pushedAt": "2026-11-23T05:22:10.139Z"
   }
 ]
