@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be",
-    "title": "British energy price cap set to rise to over £2,000 in January",
-    "titleZh": "英國能源價格上限將於 1 月升至 2,000 英鎊以上",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T18:57:32.418Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7e21a3af-94eb-4f89-8549-71f032b2215b",
-    "title": "UK’s October inflation rise remains largely energy related",
-    "titleZh": "英國 10 月通膨上升主要與能源相關",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7e21a3af-94eb-4f89-8549-71f032b2215b",
-    "image": null,
-    "pushedAt": "2026-11-20T07:21:36.431Z"
-  },
-  {
     "id": "https://flipso.com/p/pfg7lsyqk",
     "title": "The Lasting Influence of John Berger",
     "titleZh": "約翰·伯傑的持久影響",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T18:03:51.371Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+    "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+    "titleZh": "分析顯示超過70萬俄羅斯士兵在烏克蘭陣亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T18:04:22.603Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+    "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+    "titleZh": "英國在歐盟宣布脫歐重置協議高峰會：須知",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T18:04:25.633Z"
   }
 ]
