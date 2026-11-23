@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-surveillance-11-19-2026-video",
-    "title": "Anthropic's Blockbuster IPO Surpasses SpaceX Ahead of First Trade",
-    "titleZh": "Anthropic 的重磅 IPO 在首次交易前就超越了 SpaceX",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-surveillance-11-19-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-19T18:31:51.981Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-mwnvjmz2",
     "title": "Offshore Chinese Yuan Drops to Weakest Level in Over a Month",
     "titleZh": "離岸人民幣跌至一個多月以來的最低水平",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/macron-mulling-golden-rule-to-restrain-french-deficits-figaro",
     "image": null,
     "pushedAt": "2026-11-23T09:26:48.515Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+    "title": "Myanmar’s regime is convicted of genocide",
+    "titleZh": "緬甸政權被判種族滅絕罪",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+    "image": null,
+    "pushedAt": "2026-11-23T09:27:16.856Z"
   }
 ]
