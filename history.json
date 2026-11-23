@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/open-interest-11-19-2026-video",
-    "title": "Anthropic Makes History on Wall Street",
-    "titleZh": "Anthropic 在華爾街創造歷史",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/open-interest-11-19-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-19T21:13:17.515Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
     "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf",
     "titleZh": "Google的 Gemini 現在可以代表用戶控制 Mac 設備",
@@ -303,7 +294,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19FD-gta-food-delivery1-hwvj/19FD-gta-food-delivery1-hwvj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:38:34.838Z"
+    "pushedAt": "2026-11-23T09:59:08.369Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
@@ -717,7 +708,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T07:40:13.497Z"
+    "pushedAt": "2026-11-23T10:01:12.313Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
@@ -7467,7 +7458,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
     "image": null,
-    "pushedAt": "2026-11-23T01:49:57.205Z"
+    "pushedAt": "2026-11-23T10:00:47.620Z"
   },
   {
     "id": "https://flipso.com/p/jjm2btdfl",
@@ -7782,7 +7773,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
     "image": null,
-    "pushedAt": "2026-11-23T07:38:59.328Z"
+    "pushedAt": "2026-11-23T09:59:32.925Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
@@ -7791,7 +7782,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
-    "pushedAt": "2026-11-23T07:39:23.992Z"
+    "pushedAt": "2026-11-23T09:59:57.458Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
@@ -7800,7 +7791,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
     "image": null,
-    "pushedAt": "2026-11-23T07:39:48.950Z"
+    "pushedAt": "2026-11-23T10:00:22.461Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video",
@@ -8686,12 +8677,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/horizons-middle-east-africa-11-23-2026-video",
-    "title": "Horizons Middle East & Africa 11/23/2026 (Video)",
+    "title": "Iran Targets Bahrain as US-Iran Tensions Escalate Over Fresh Strikes",
     "titleZh": "中東和非洲地平線 2026 年 11 月 23 日（影片）",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/horizons-middle-east-africa-11-23-2026-video",
     "image": null,
-    "pushedAt": "2026-11-23T07:40:39.434Z"
+    "pushedAt": "2026-11-23T10:01:37.773Z"
   },
   {
     "id": "https://www.ft.com/video/480db4a1-1110-4b98-aab4-4d59e8faefae",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T09:58:40.492Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+    "title": "Ukraine Claims Strikes on Russian Ships Near Libya",
+    "titleZh": "烏克蘭聲稱襲擊利比亞附近的俄羅斯船隻",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T10:02:04.213Z"
   }
 ]
