@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
-    "title": "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
-    "titleZh": "格林將英國央行寬鬆政策歸咎於通膨失誤並非運氣不佳",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
-    "image": null,
-    "pushedAt": "2026-11-20T07:47:44.932Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
     "title": "Anthropic’s giant IPO puts the heat on OpenAI",
     "titleZh": "Anthropic 的大規模 IPO 為 OpenAI 帶來了熱度",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/jensen-huang-affair-aftermath-could-push-china-further-behind-us-in-ai-race",
     "image": null,
     "pushedAt": "2026-11-23T11:29:33.739Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+    "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+    "titleZh": "緬甸種族滅絕裁決引發法庭圍繞以色列和加薩的鬥爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-icj-gaza--qhlj/19int-icj-gaza--qhlj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-23T11:30:03.073Z"
   }
 ]
