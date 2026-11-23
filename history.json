@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion",
-    "title": "Bending Spoons to Buy Mailchimp From Intuit for $3.7 Billion",
-    "titleZh": "Bending Spoons 以 37 億美元從 Intuit 手中收購 Mailchimp",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion",
-    "image": null,
-    "pushedAt": "2026-11-19T21:52:30.331Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
-    "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
-    "titleZh": "Anthropic IPO成功後為何股市下跌？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19anthropic-ipo-markets-reaction-pvht/19anthropic-ipo-markets-reaction-pvht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-19T21:56:41.442Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
     "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
     "titleZh": "這位億萬富翁剛從人工智慧中賺了一大筆錢但它本來可以更多。",
@@ -3588,7 +3570,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-23T09:51:38.041Z"
+    "pushedAt": "2026-11-23T12:20:09.707Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
@@ -6531,7 +6513,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
     "image": null,
-    "pushedAt": "2026-11-23T09:51:13.284Z"
+    "pushedAt": "2026-11-23T12:19:45.030Z"
   },
   {
     "id": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space",
@@ -7773,7 +7755,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40618ee3-536f-4e8f-bdaf-c91453566250.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T09:52:27.644Z"
+    "pushedAt": "2026-11-23T12:20:34.889Z"
   },
   {
     "id": "https://www.ft.com/content/3fb69cc3-01ad-4f2b-8b1f-aba7c6387f35",
@@ -7782,7 +7764,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3fb69cc3-01ad-4f2b-8b1f-aba7c6387f35",
     "image": null,
-    "pushedAt": "2026-11-23T09:52:55.533Z"
+    "pushedAt": "2026-11-23T12:20:59.581Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/australia-lower-economy-estimate-budget-update-inflation-unemployment-treasurer-jim-chalmers",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/tech-companies-are-getting-more-creative-to-raise-billions",
     "image": null,
     "pushedAt": "2026-11-23T12:19:17.238Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach",
+    "title": "Arm CEO Extends Contract Through 2033 After Nvidia Approach",
+    "titleZh": "與 Nvidia 接洽後，Arm 執行長將合約延長至 2033 年",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach",
+    "image": null,
+    "pushedAt": "2026-11-23T12:21:27.364Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-23/next-supplier-hit-by-cyberattack-in-latest-uk-retail-breach",
+    "title": "Next Supplier Hit by Cyberattack in Latest UK Retail Breach",
+    "titleZh": "下一個供應商在英國最新的零售資料外洩事件中遭受網路攻擊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/next-supplier-hit-by-cyberattack-in-latest-uk-retail-breach",
+    "image": null,
+    "pushedAt": "2026-11-23T12:21:31.002Z"
   }
 ]
