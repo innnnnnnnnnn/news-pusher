@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/how-anthropic-plans-to-use-ipo-proceeds-video",
-    "title": "How Anthropic Plans to Use IPO Proceeds",
-    "titleZh": "Anthropic 計劃如何使用 IPO 收益",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/how-anthropic-plans-to-use-ipo-proceeds-video",
-    "image": null,
-    "pushedAt": "2026-11-19T18:20:40.808Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-delivers-wall-street-windfall-video",
-    "title": "Anthropic IPO Delivers Wall Street Windfall",
-    "titleZh": "人類首次公開募股為華爾街帶來意外之財",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-delivers-wall-street-windfall-video",
-    "image": null,
-    "pushedAt": "2026-11-19T18:21:06.697Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-19/coreweave-s-venturo-says-he-bought-30-million-of-firm-s-bonds",
     "title": "CoreWeave’s Venturo Says He Bought $30 Million of Firm’s Bonds",
     "titleZh": "CoreWeave 的 Venturo 表示他購買了 3,000 萬美元的公司債",
@@ -6657,7 +6639,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T03:58:41.284Z"
+    "pushedAt": "2026-11-23T06:04:25.151Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
@@ -7763,8 +7745,8 @@
     "titleZh": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff93551b8-4f03-4cd0-8e7d-a926ecf4b075.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T03:59:06.914Z"
+    "image": null,
+    "pushedAt": "2026-11-23T06:04:50.181Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
@@ -7773,7 +7755,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "image": null,
-    "pushedAt": "2026-11-23T03:59:57.481Z"
+    "pushedAt": "2026-11-23T06:05:40.472Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
@@ -7998,7 +7980,7 @@
     "source": "路透社 Reuters",
     "url": "https://flipso.com/p/jjm2btdfl?ref=rss",
     "image": "https://cdn.flipso.com/p/jjm2btdfl_square.jpg",
-    "pushedAt": "2026-11-23T03:59:32.042Z"
+    "pushedAt": "2026-11-23T06:05:15.683Z"
   },
   {
     "id": "https://www.ft.com/content/7151f7cb-58eb-43ce-844d-05cd62a985ba",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/24/opinion/23malleywertheim/23malleywertheim-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-23T06:03:57.138Z"
+  },
+  {
+    "id": "https://www.ft.com/content/6a31a891-4da1-4f6d-a372-19ba4a09898e",
+    "title": "Costa’s compromise EU budget proposal fails to achieve consensus",
+    "titleZh": "科斯塔妥協的歐盟預算提案未能達成共識",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/6a31a891-4da1-4f6d-a372-19ba4a09898e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-23T06:06:09.127Z"
+  },
+  {
+    "id": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+    "title": "The Federal Reserve’s balance sheet yo-yo",
+    "titleZh": "聯準會資產負債表搖擺不定",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+    "image": null,
+    "pushedAt": "2026-11-23T06:06:12.704Z"
   }
 ]
