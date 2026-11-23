@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
-    "title": "They’re Prepping for a World Where the Internet Doesn’t Work",
-    "titleZh": "他們正在為一個網路無法運作的世界做準備",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/ST-PREPPERS-01-wkqv/ST-PREPPERS-01-wkqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T01:09:55.780Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
     "title": "Tech Outages May Become Routine. Experts Say Don’t Panic, but Prepare.",
     "titleZh": "技術中斷可能會成為常態。專家表示不要驚慌，但要做好準備。",
@@ -3048,7 +3039,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T03:30:39.252Z"
+    "pushedAt": "2026-11-23T05:37:40.590Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
@@ -3057,7 +3048,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T03:31:05.199Z"
+    "pushedAt": "2026-11-23T05:38:05.511Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
@@ -7575,7 +7566,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
     "image": null,
-    "pushedAt": "2026-11-23T03:30:13.500Z"
+    "pushedAt": "2026-11-23T05:37:15.076Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
@@ -7584,7 +7575,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
     "image": null,
-    "pushedAt": "2026-11-23T03:31:30.670Z"
+    "pushedAt": "2026-11-23T05:38:30.325Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/india--private-sector-economic-activity-manufacturing-hsbc-flash-survey",
     "image": null,
     "pushedAt": "2026-11-23T05:36:47.408Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-23/the-asia-trade-11-23-2026-video",
+    "title": "Asia’s Stock Rescue Efforts Gather Pace",
+    "titleZh": "亞洲股市救援行動加快步伐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-asia-trade-11-23-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-23T05:38:57.757Z"
   }
 ]
