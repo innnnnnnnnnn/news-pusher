@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/h-1b-visa-delays-and-trump-rules-force-tech-workers-to-leave-us",
-    "title": "H-1B Visa Delays and Trump Rules Force Tech Workers to Leave US",
-    "titleZh": "H-1B 簽證延遲和川普規則迫使技術工人離開美國",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/h-1b-visa-delays-and-trump-rules-force-tech-workers-to-leave-us",
-    "image": null,
-    "pushedAt": "2026-11-20T13:43:17.265Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/worldline-sinks-on-financial-times-report-on-cash-advances",
     "title": "Worldline Sinks on Financial Times Report on Cash Advances",
     "titleZh": "Worldline 因《金融時報》現金墊款報告而陷入困境",
@@ -4884,7 +4875,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:16:13.445Z"
+    "pushedAt": "2026-11-24T00:25:32.542Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
@@ -6306,7 +6297,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/travel/5-mountain-hotels-winter.html",
     "image": null,
-    "pushedAt": "2026-11-23T22:15:14.812Z"
+    "pushedAt": "2026-11-24T00:24:42.866Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/us-market-in-for-pretty-painful-ride-pickering-says-video",
@@ -6324,7 +6315,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
     "image": "https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:15:48.590Z"
+    "pushedAt": "2026-11-24T00:25:07.689Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/america-is-betting-on-ostrich-again",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
     "image": null,
     "pushedAt": "2026-11-24T00:24:14.651Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+    "title": "Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia",
+    "titleZh": "共和黨人因黃仁勳重返英偉達而與川普決裂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-republicans-lfqm/23nvidia-republicans-lfqm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T00:25:58.986Z"
   }
 ]
