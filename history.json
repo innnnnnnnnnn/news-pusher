@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b3b86fe5-e7ac-4922-b45b-480ba1c88613",
-    "title": "Burnham’s EU dreams hampered by ministers’ doubts",
-    "titleZh": "勒龐的陰影籠罩著伯納姆的歐盟夢想",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b3b86fe5-e7ac-4922-b45b-480ba1c88613?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:16:48.197Z"
-  },
-  {
     "id": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
     "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
     "titleZh": "技術供應商在交易簽署後幾個月將人工智慧伺服器價格提高了 45%",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/kalshi-eyes-under-21-ban-to-avoid-ny-shutdown-video",
     "image": null,
     "pushedAt": "2026-11-24T20:05:49.507Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
+    "title": "Advent Weighs Takeover Of Testing Firm Bureau Veritas",
+    "titleZh": "Advent 考慮收購測試公司 Bureau Veritas",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
+    "image": null,
+    "pushedAt": "2026-11-24T20:14:08.860Z"
   }
 ]
