@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
-    "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
-    "titleZh": "Scribe 執行長 Jennifer Smith 談人工智慧在工作場所的使用",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
-    "image": null,
-    "pushedAt": "2026-11-21T22:36:28.825Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
     "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
     "titleZh": "調整信用風險：大衛‧艾希霍恩 (David Eichhorn) 的商業碩士",
@@ -6666,7 +6657,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fad900c45-81d6-4ce2-8da2-278d34c42baa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T10:57:00.915Z"
+    "pushedAt": "2026-11-24T13:05:46.261Z"
   },
   {
     "id": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
     "image": null,
     "pushedAt": "2026-11-24T13:05:17.882Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+    "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+    "titleZh": "隨著習近平的清洗擴大，中國調查上海市委書記陳吉寧",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T13:06:13.984Z"
   }
 ]
