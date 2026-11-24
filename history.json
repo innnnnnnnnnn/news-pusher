@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/01e128fd-58b4-44e9-8c31-c9d0a909b9b7",
-    "title": "Biotech pioneer calls for UK capital gains tax cut to kick-start listings",
-    "titleZh": "生物技術先驅呼籲英國削減資本利得稅以啟動上市",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/01e128fd-58b4-44e9-8c31-c9d0a909b9b7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:43:08.821Z"
-  },
-  {
     "id": "https://flipso.com/p/zwscgl9l7",
     "title": "Halloween special XIV: The fossils that haunted Lovecraft",
     "titleZh": "萬聖節特別節目 XIV：困擾洛夫克拉夫特的化石",
@@ -303,7 +294,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-24T18:28:21.916Z"
+    "pushedAt": "2026-11-24T20:52:36.541Z"
   },
   {
     "id": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374",
@@ -6981,7 +6972,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
     "image": null,
-    "pushedAt": "2026-11-24T18:27:57.445Z"
+    "pushedAt": "2026-11-24T20:52:11.807Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/wallenberg-backed-green-steel-startup-is-said-to-need-2-billion",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T20:50:53.264Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+    "title": "Are America’s supply chains really more vulnerable than China’s?",
+    "titleZh": "美國的供應鏈真的比中國脆弱嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+    "image": null,
+    "pushedAt": "2026-11-24T20:53:03.132Z"
   }
 ]
