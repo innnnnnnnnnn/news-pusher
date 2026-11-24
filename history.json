@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
-    "title": "Anthropic CEO Vacations at Italian Resort After Public Listing",
-    "titleZh": "上市後 Anthropic 執行長在義大利度假村度假",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
-    "image": null,
-    "pushedAt": "2026-11-21T14:50:56.628Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/hedge-funds-slash-bullish-bets-on-european-diesel-to-wartime-low",
-    "title": "Hedge Funds Slash Bullish Bets on European Diesel To Wartime Low",
-    "titleZh": "對沖基金將歐洲柴油的看漲押注削減至戰時低點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/hedge-funds-slash-bullish-bets-on-european-diesel-to-wartime-low",
-    "image": null,
-    "pushedAt": "2026-11-20T21:08:31.503Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/new-zealand-dollar-hits-lowest-since-global-financial-crisis",
     "title": "New Zealand Dollar Hits Lowest Since Global Financial Crisis",
     "titleZh": "紐西蘭元跌至全球金融危機以來最低點",
@@ -1545,7 +1527,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:58:18.821Z"
+    "pushedAt": "2026-11-24T12:03:34.029Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
@@ -8106,7 +8088,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-china-show-11-24-2026-video",
     "image": null,
-    "pushedAt": "2026-11-24T09:57:28.518Z"
+    "pushedAt": "2026-11-24T12:03:09.517Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/arabica-drops-as-exchange-stockpiles-surge-most-in-28-years",
     "image": null,
     "pushedAt": "2026-11-24T12:02:16.385Z"
+  },
+  {
+    "id": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583",
+    "title": "COP31’s fossil fuels fight and the limits of carbon capture",
+    "titleZh": "COP31 的化石燃料鬥爭和碳捕獲的限制",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T12:04:01.845Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/tech-executives-confront-the-ai-pr-problem",
+    "title": "Tech Executives Confront the AI PR Problem",
+    "titleZh": "科技高階主管面臨人工智慧公關問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/tech-executives-confront-the-ai-pr-problem",
+    "image": null,
+    "pushedAt": "2026-11-24T12:04:05.774Z"
   }
 ]
