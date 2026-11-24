@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/bayer-s-7-25-billion-roundup-settlement-approved-by-us-judge",
-    "title": "Bayer’s $7.25 Billion Roundup Settlement Approved by Judge",
-    "titleZh": "拜耳 72.5 億美元的農達和解協議獲得美國法官批准",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/bayer-s-7-25-billion-roundup-settlement-approved-by-us-judge",
-    "image": null,
-    "pushedAt": "2026-11-21T08:22:39.646Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
     "title": "Anthropic CEO Vacations at Italian Resort After Public Listing",
     "titleZh": "上市後 Anthropic 執行長在義大利度假村度假",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/how-jensen-huang-s-return-may-reduce-risks-to-us-growth",
     "image": null,
     "pushedAt": "2026-11-24T12:01:47.391Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/arabica-drops-as-exchange-stockpiles-surge-most-in-28-years",
+    "title": "Arabica Drops as Exchange Stockpiles Surge Most in 28 Years",
+    "titleZh": "阿拉比卡咖啡價格下跌，交易所庫存激增 28 年來最大",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/arabica-drops-as-exchange-stockpiles-surge-most-in-28-years",
+    "image": null,
+    "pushedAt": "2026-11-24T12:02:16.385Z"
   }
 ]
