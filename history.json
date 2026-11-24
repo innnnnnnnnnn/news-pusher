@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-    "title": "Shenzhen Wants to Become a Cultural Capital",
-    "titleZh": "深圳要成為文化之都",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-    "image": null,
-    "pushedAt": "2026-11-22T12:49:08.520Z"
-  },
-  {
     "id": "https://flipso.com/p/cl3sj395w",
     "title": "Mosquitoes are Ladakh’s latest tourists",
     "titleZh": "蚊子是拉達克最新的遊客",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-surveillance-11-24-2026-video",
     "image": null,
     "pushedAt": "2026-11-24T18:00:16.189Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+    "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+    "titleZh": "威爾斯王妃凱瑟琳在 BBC 電影中記錄癌症生活",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:00:44.640Z"
   }
 ]
