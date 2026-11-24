@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-    "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
-    "titleZh": "人擇數學家聲稱已經解決了數學最著名的問題",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T09:19:22.112Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
     "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
     "titleZh": "隨著投資人拋售科技股，標普、道瓊指數陷入調整",
@@ -2256,7 +2247,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "image": null,
-    "pushedAt": "2026-11-24T10:54:53.144Z"
+    "pushedAt": "2026-11-24T13:02:28.383Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
@@ -2265,7 +2256,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-24T10:55:18.378Z"
+    "pushedAt": "2026-11-24T13:02:55.523Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -2274,7 +2265,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
     "image": null,
-    "pushedAt": "2026-11-24T10:55:43.763Z"
+    "pushedAt": "2026-11-24T13:03:19.952Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
@@ -5406,7 +5397,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility",
     "image": null,
-    "pushedAt": "2026-11-24T10:56:09.354Z"
+    "pushedAt": "2026-11-24T13:03:44.342Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-a-perfect-example-of-market-amplification-herro-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/uber-nuro-to-start-driverless-testing-of-lucid-robotaxis-in-the-bay-area",
     "image": null,
     "pushedAt": "2026-11-24T13:02:00.662Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video",
+    "title": "DRC Reinstates Cobalt Export Ban",
+    "titleZh": "剛果民主共和國恢復鈷出口禁令",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video",
+    "image": null,
+    "pushedAt": "2026-11-24T13:04:12.791Z"
   }
 ]
