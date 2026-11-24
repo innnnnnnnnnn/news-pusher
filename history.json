@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/investor-worry-has-come-to-a-head-allspring-s-milletti-video",
-    "title": "Investor Worry Has Come to a Head, Says Allspring’s Miletti",
-    "titleZh": "Allspring 的米萊蒂表示，投資者的擔憂已經達到頂峰",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/investor-worry-has-come-to-a-head-allspring-s-milletti-video",
-    "image": null,
-    "pushedAt": "2026-11-20T17:47:47.979Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/brits-should-have-to-complete-mandatory-surveys-uk-stats-body-suggests",
-    "title": "Brits Should Have to Complete Mandatory Surveys, UK Stats Body Suggests",
-    "titleZh": "英國統計機構建議英國人應該完成強制性調查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/brits-should-have-to-complete-mandatory-surveys-uk-stats-body-suggests",
-    "image": null,
-    "pushedAt": "2026-11-21T13:50:17.702Z"
-  },
-  {
     "id": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1",
     "title": "The AI fever in markets is breaking",
     "titleZh": "市場上的人工智慧熱潮正在打破",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
     "image": "https://static01.nyt.com/images/2026/11/20/world/europe/20vid-poland-airspace-cover-image/20vid-poland-airspace-cover-image-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T05:27:12.614Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
+    "title": "Just how central should one person be to an organisation?",
+    "titleZh": "一個人對於一個組織應該有多重要？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
+    "image": null,
+    "pushedAt": "2026-11-24T05:27:41.471Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
+    "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
+    "titleZh": "C.F.T.C.官員考慮調查川普的迷因幣，然後遭到打擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T05:27:44.273Z"
   }
 ]
