@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
-    "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
-    "titleZh": "加州 Nvidia 調查涉及潛在的刑法違法行為",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
-    "image": null,
-    "pushedAt": "2026-11-22T15:20:35.177Z"
-  },
-  {
-    "id": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
-    "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-    "titleZh": "亞馬遜完成 75 億美元收購人工智慧新創公司 Decart 的交易",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:43:59.529Z"
-  },
-  {
-    "id": "https://flipso.com/p/fvzht0uuk",
-    "title": "Detonating A Huge Pile of Lead Azide. Really.",
-    "titleZh": "引爆一大堆疊氮化鉛。真的。",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/fvzht0uuk?ref=rss",
-    "image": "https://cdn.flipso.com/p/fvzht0uuk_square.jpg",
-    "pushedAt": "2026-11-23T18:07:05.764Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
     "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
     "titleZh": "技术中断仅仅是开始。人工智慧.會帶來更多幹擾。",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T18:45:17.994Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+    "titleZh": "在法國憤怒的秋天，電視新聞頻道被指責攪局",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:45:46.695Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
+    "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+    "titleZh": "法官批准農達致癌索賠 70 億美元和解金",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:45:49.983Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-tech-11-24-2026-video",
+    "title": "Tech Slides as Nvidia, AI Risks Take Center Stage",
+    "titleZh": "英偉達科技投影片、人工智慧風險成為焦點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-tech-11-24-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-24T18:45:54.661Z"
   }
 ]
