@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
-    "title": "White Police Officers Are Convicted of Beating a Black Man in France",
-    "titleZh": "法國白人警察因毆打黑人而被定罪",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T12:35:50.430Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
     "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
     "titleZh": "強生休閒食品執行長談第四季業績與消費者信心",
@@ -1320,7 +1311,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T11:12:48.689Z"
+    "pushedAt": "2026-11-24T13:20:40.095Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
@@ -2436,7 +2427,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "image": null,
-    "pushedAt": "2026-11-24T11:13:38.609Z"
+    "pushedAt": "2026-11-24T13:21:04.556Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/boston-mayor-eyes-post-midterm-comeback-for-city-promised-hell",
     "image": null,
     "pushedAt": "2026-11-24T13:20:12.410Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+    "title": "Prince William and Catherine’s Country Home Broken Into, Police Say",
+    "titleZh": "警方稱威廉王子和凱瑟琳的鄉村住宅被闖入",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T13:21:34.374Z"
   }
 ]
