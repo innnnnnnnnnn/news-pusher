@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-is-monstrous-general-catalyst-s-namburi-video",
-    "title": "Anthropic's IPO Is 'Monstrous,' General Catalyst’s Namburi Says",
-    "titleZh": "General Catalyst 的 Namburi 表示 Anthropic 的 IPO 是“可怕的”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-is-monstrous-general-catalyst-s-namburi-video",
-    "image": null,
-    "pushedAt": "2026-11-20T16:27:05.090Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/venezuela-s-machado-urges-more-overhaul-of-oil-sector-video",
     "title": "Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector",
     "titleZh": "委內瑞拉馬查多敦促對石油業進行更徹底的改革",
@@ -888,7 +879,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
     "image": "https://static01.nyt.com/images/2026/11/23/arts/20cul-etsy-ai/20cul-etsy-ai-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T05:25:15.267Z"
+    "pushedAt": "2026-11-24T07:20:56.299Z"
   },
   {
     "id": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240",
@@ -8682,7 +8673,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f01d609c-485d-4d1d-ac0a-5fa1fd5c7612",
     "image": null,
-    "pushedAt": "2026-11-24T05:25:42.549Z"
+    "pushedAt": "2026-11-24T07:21:21.376Z"
   },
   {
     "id": "https://www.ft.com/content/9d384d2f-e0d2-4a69-b377-fb5bc1e7d091",
@@ -8691,7 +8682,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9d384d2f-e0d2-4a69-b377-fb5bc1e7d091?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T05:25:45.536Z"
+    "pushedAt": "2026-11-24T07:21:46.059Z"
   },
   {
     "id": "https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174",
@@ -8699,8 +8690,8 @@
     "titleZh": "指南針退出應該會刺激倫敦加強其替補席",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T05:25:48.178Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd6be16e1-0a1f-4ff6-bb48-c43ee18bad10.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T07:22:12.899Z"
   },
   {
     "id": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9",
@@ -8709,7 +8700,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T05:25:52.094Z"
+    "pushedAt": "2026-11-24T07:22:38.061Z"
   },
   {
     "id": "https://www.ft.com/content/c1986225-a487-4153-8b03-8d68058fa6ee",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/compass-plans-to-move-main-listing-to-new-york-in-blow-to-london",
     "image": null,
     "pushedAt": "2026-11-24T07:20:01.559Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/arts/television/jimmy-kimmel-trump-jensen-huang.html",
+    "title": "Jimmy Kimmel Clocks Trump’s Personal Investment in Jensen Huang",
+    "titleZh": "吉米金梅爾 (Jimmy Kimmel) 記錄了川普對黃仁勳的個人投資",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/arts/television/jimmy-kimmel-trump-jensen-huang.html",
+    "image": null,
+    "pushedAt": "2026-11-24T07:23:06.803Z"
   }
 ]
