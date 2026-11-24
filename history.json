@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/6b4ea431-5ed4-4d31-9ff2-812b0cc99f14",
-    "title": "Diners hate ‘no-show’ fees. Restaurants say they work",
-    "titleZh": "食客討厭「缺席」費用。餐館說他們有效",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6b4ea431-5ed4-4d31-9ff2-812b0cc99f14?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T15:41:20.488Z"
-  },
-  {
     "id": "https://www.ft.com/content/8f9453d7-cf5c-41a1-9421-b7eb9e672455",
     "title": "Asda could find salvation in the supermarket side hustle",
     "titleZh": "阿斯達可以在超市副業找到救贖",
@@ -2607,7 +2598,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "image": null,
-    "pushedAt": "2026-11-24T13:42:27.670Z"
+    "pushedAt": "2026-11-24T15:57:25.788Z"
   },
   {
     "id": "https://flipso.com/p/vzc5elb75",
@@ -8074,12 +8065,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival",
-    "title": "European Rocket Launches Satellites for Amazon’s Starlink Rival",
+    "title": "Amazon Launches Satellites for Network to Rival Starlink",
     "titleZh": "歐洲火箭為亞馬遜的星鏈競爭對手發射衛星",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival",
     "image": null,
-    "pushedAt": "2026-11-24T13:41:38.271Z"
+    "pushedAt": "2026-11-24T15:57:01.661Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-remains-at-the-core-of-ai-growth-says-feinseth-video",
     "image": null,
     "pushedAt": "2026-11-24T15:56:34.313Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video",
+    "title": "Anthropic Shares Fall Below IPO Price of $83",
+    "titleZh": "Anthropic 股價跌破 83 美元的 IPO 價格",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video",
+    "image": null,
+    "pushedAt": "2026-11-24T15:57:54.290Z"
   }
 ]
