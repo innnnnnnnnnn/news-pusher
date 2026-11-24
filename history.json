@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
-    "title": "Bookmarked: News Stories On Our Reading List",
-    "titleZh": "已加書籤：我們的閱讀清單中的新聞報導",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
-    "image": null,
-    "pushedAt": "2026-11-23T00:58:32.121Z"
-  },
-  {
     "id": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883",
     "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
     "titleZh": "富時 100 指數餐飲巨頭 Compass 計劃將主要上市地點移至紐約",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/kinship-ventures-co-founders-on-their-investing-approach-video",
     "image": null,
     "pushedAt": "2026-11-24T23:25:59.145Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+    "title": "Iowans Brace for a Toxic Plume on the Eve of a Planned Explosion",
+    "titleZh": "愛荷華州在計劃爆炸前夕準備迎接有毒羽流",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:27:20.539Z"
   }
 ]
