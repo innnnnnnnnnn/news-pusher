@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-    "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-    "titleZh": "中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-    "image": null,
-    "pushedAt": "2026-11-22T18:18:17.533Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
-    "title": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations",
-    "titleZh": "24 億美元的拍賣週：大拍賣，更大期望",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
-    "image": null,
-    "pushedAt": "2026-11-22T03:28:03.094Z"
-  },
-  {
     "id": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537",
     "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
     "titleZh": "FirstFT：Anthropic 的重磅 IPO 融資創紀錄的 810 億美元",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/fhfa-clears-fico-10t-scores-for-fannie-mae-and-freddie-mac",
     "image": null,
     "pushedAt": "2026-11-24T19:38:26.996Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+    "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+    "titleZh": "無人機、簡訊和娛樂活動：墨西哥如何抓獲一名頭號通緝犯",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T19:38:55.489Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+    "title": "The Penny Is Dead. Now It’s Official.",
+    "titleZh": "便士死了。現在它是官方的。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-penny-vjhm/21xp-penny-vjhm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T19:38:58.601Z"
   }
 ]
