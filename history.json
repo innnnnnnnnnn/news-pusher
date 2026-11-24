@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ce91c75c-0cf9-447c-ad9a-47b3f19b8844",
-    "title": "The Milburn review is no substitute for an economic plan",
-    "titleZh": "米爾本審查不能取代經濟計劃",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ce91c75c-0cf9-447c-ad9a-47b3f19b8844?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T03:25:15.628Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
     "title": "The War Room newsletter: Will America or Iran blink first?",
     "titleZh": "戰爭室時事通訊：美國還是伊朗會先眨眼？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5a756dbf-fd0a-4dfb-81dd-a20069b00505",
     "image": null,
     "pushedAt": "2026-11-24T06:11:30.951Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+    "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+    "titleZh": "伊拉克軍隊進入伊朗支持的強大民兵據點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T06:12:01.372Z"
   }
 ]
