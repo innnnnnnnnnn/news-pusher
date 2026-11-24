@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0258acaf-1a0b-4fc9-86dc-77d5d00c722d",
-    "title": "The gruesome spectacle of adult advent calendars",
-    "titleZh": "成人降臨節日曆的可怕景象",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0258acaf-1a0b-4fc9-86dc-77d5d00c722d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T17:35:50.231Z"
-  },
-  {
     "id": "https://www.ft.com/content/6b4ea431-5ed4-4d31-9ff2-812b0cc99f14",
     "title": "Diners hate ‘no-show’ fees. Restaurants say they work",
     "titleZh": "食客討厭「缺席」費用。餐館說他們有效",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-consumer-confidence-surges-on-increased-optimism-video",
     "image": null,
     "pushedAt": "2026-11-24T15:56:02.933Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-remains-at-the-core-of-ai-growth-says-feinseth-video",
+    "title": "Nvidia Remains at the Core of AI Growth, Says Ivan Feinseth",
+    "titleZh": "Ivan Feinseth 表示，Nvidia 仍然是人工智慧成長的核心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-remains-at-the-core-of-ai-growth-says-feinseth-video",
+    "image": null,
+    "pushedAt": "2026-11-24T15:56:34.313Z"
   }
 ]
