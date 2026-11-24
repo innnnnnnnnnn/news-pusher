@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537",
-    "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
-    "titleZh": "FirstFT：Anthropic 的重磅 IPO 融資創紀錄的 810 億美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T11:05:44.179Z"
-  },
-  {
     "id": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95",
     "title": "India’s $126bn insurance sector slams proposed commission cap",
     "titleZh": "印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限",
@@ -618,7 +609,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "image": null,
-    "pushedAt": "2026-11-24T17:14:59.439Z"
+    "pushedAt": "2026-11-24T19:39:51.026Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states",
@@ -3921,7 +3912,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
     "image": null,
-    "pushedAt": "2026-11-24T17:14:34.692Z"
+    "pushedAt": "2026-11-24T19:39:26.715Z"
   },
   {
     "id": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-penny-vjhm/21xp-penny-vjhm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T19:38:58.601Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+    "title": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+    "titleZh": "美國間諜機構的一些非機密資訊遭到洩露",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-breaches-pvwg/24dc-breaches-pvwg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T19:40:18.293Z"
   }
 ]
