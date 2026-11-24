@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
-    "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
-    "titleZh": "河馬菲奧娜吃了帽子後死了。有些人想要正義。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T10:00:40.824Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
     "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
     "titleZh": "這是一項關於能源許可的法案，但川普最喜歡的項目是辯論的一部分",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T14:00:49.461Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+    "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+    "titleZh": "Nvidia 稱將面臨 S.E.C.對其會計實務的探討",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T14:01:16.879Z"
   }
 ]
