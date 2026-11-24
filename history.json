@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/gta-vi-earns-near-perfect-reviews-in-record-launch-video",
-    "title": "GTA VI Earns Near-Perfect Reviews in Record Launch",
-    "titleZh": "GTA VI 在創紀錄的發布中獲得近乎完美的評價",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/gta-vi-earns-near-perfect-reviews-in-record-launch-video",
-    "image": null,
-    "pushedAt": "2026-11-21T01:35:07.436Z"
-  },
-  {
-    "id": "https://flipso.com/p/3e5vf24a6",
-    "title": "Uncovering the Hidden Origins of the Placenta",
-    "titleZh": "揭開胎盤隱藏的起源",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/3e5vf24a6?ref=rss",
-    "image": "https://cdn.flipso.com/p/3e5vf24a6_square.jpg",
-    "pushedAt": "2026-11-22T14:45:08.764Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video",
     "title": "Anthropic Falls After Blockbuster Debut as Tech Sells Off",
     "titleZh": "隨著科技股拋售，Anthropic 首次亮相後股價下跌",
@@ -762,7 +744,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T08:08:35.629Z"
+    "pushedAt": "2026-11-24T10:22:17.775Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
@@ -4011,7 +3993,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T08:09:00.899Z"
+    "pushedAt": "2026-11-24T10:22:42.273Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
@@ -7224,7 +7206,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
     "image": null,
-    "pushedAt": "2026-11-24T08:09:26.642Z"
+    "pushedAt": "2026-11-24T10:23:07.393Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html",
@@ -7818,7 +7800,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
     "image": null,
-    "pushedAt": "2026-11-24T08:09:54.244Z"
+    "pushedAt": "2026-11-24T10:23:32.874Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/lula-fiscal-plan-approved-in-bid-to-calm-market-after-real-tanks",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-to-list-major-new-aluminum-brand-as-historic-squeeze-deepens",
     "image": null,
     "pushedAt": "2026-11-24T10:21:49.733Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/drw-plans-asset-management-foray-with-compute-crypto-focus",
+    "title": "DRW Plans Asset Management Foray With Compute, Crypto Focus",
+    "titleZh": "DRW 計劃進軍運算和加密資產管理領域",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/drw-plans-asset-management-foray-with-compute-crypto-focus",
+    "image": null,
+    "pushedAt": "2026-11-24T10:23:59.740Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/imf-cuts-botswana-growth-outlook-calls-for-currency-flexibility",
+    "title": "IMF Cuts Botswana Growth Outlook, Calls for Currency Flexibility",
+    "titleZh": "國際貨幣基金組織下調波札那成長前景，呼籲貨幣彈性",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/imf-cuts-botswana-growth-outlook-calls-for-currency-flexibility",
+    "image": null,
+    "pushedAt": "2026-11-24T10:24:05.583Z"
   }
 ]
