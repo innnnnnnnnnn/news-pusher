@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
-    "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
-    "titleZh": "肯·帕克斯頓卸任後放棄了對政治對手的訴訟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T01:31:32.516Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/denmark-says-russia-orchestrated-assassination-plot-on-rapper",
     "title": "Denmark Says Russia Orchestrated Assassination Plot on Rapper",
     "titleZh": "丹麥稱俄羅斯精心策劃暗殺饒舌歌手",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/e4c69deb325958a1aa57c46cbde0fc2c",
     "image": null,
     "pushedAt": "2026-11-24T06:24:56.153Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
+    "title": "Is Your Employer Telling You to Use A.I.? We Want to Hear From You.",
+    "titleZh": "你的雇主告诉你使用人工智能吗？我們希望收到您的來信。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00-AI-token-callout-01-bwlm/00-AI-token-callout-01-bwlm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T06:25:25.556Z"
   }
 ]
