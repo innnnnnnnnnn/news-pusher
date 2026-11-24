@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/r3hx4i0t8",
-    "title": "The triumph of logical English",
-    "titleZh": "邏輯英語的勝利",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/r3hx4i0t8?ref=rss",
-    "image": "https://cdn.flipso.com/p/r3hx4i0t8_square.jpg",
-    "pushedAt": "2026-11-22T15:36:31.976Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
     "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
     "titleZh": "日產在遭受駭客攻擊後關閉了用於維修的系統",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
     "image": null,
     "pushedAt": "2026-11-24T11:02:29.066Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
+    "title": "America must get serious about Chinese chip spying",
+    "titleZh": "美國必須認真對待中國芯片間諜活動",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
+    "image": null,
+    "pushedAt": "2026-11-24T11:02:59.899Z"
   }
 ]
