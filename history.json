@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/46e64bab-5444-484e-b735-d693c7e3f37e",
-    "title": "Andy Burnham seeks quick tuition fees deal with the EU",
-    "titleZh": "安迪·伯納姆尋求與歐盟快速達成學費協議",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/46e64bab-5444-484e-b735-d693c7e3f37e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T06:51:42.244Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/iqvia-closes-in-on-1-1-billion-takeover-of-uk-drug-services-group-quotient",
-    "title": "IQVIA Closes In on $1.1 Billion Takeover of UK Drug Services Group Quotient",
-    "titleZh": "IQVIA 即將以 11 億美元收購 UK Drug Services Group Quotient",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/iqvia-closes-in-on-1-1-billion-takeover-of-uk-drug-services-group-quotient",
-    "image": null,
-    "pushedAt": "2026-11-22T14:42:43.683Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
-    "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
-    "titleZh": "風暴摧毀巴西鄉村小鎮，威脅農作物與生命",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
-    "image": null,
-    "pushedAt": "2026-11-22T22:48:26.367Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
-    "title": "Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review",
-    "titleZh": "Apple 的 AI 代理大戰、2027 年初產品計劃和 iPhone Duo 人臉解鎖評測",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
-    "image": null,
-    "pushedAt": "2026-11-23T07:28:31.641Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/well/pig-kidney-transplant-milestone.html",
     "title": "Patient Marks One Year Living With Pig Kidney, a Transplant Milestone",
     "titleZh": "患者與豬腎一起生活一週年，這是移植的里程碑",
@@ -2391,7 +2355,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T20:50:25.775Z"
+    "pushedAt": "2026-11-24T23:01:19.589Z"
   },
   {
     "id": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb",
@@ -8475,7 +8439,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/kalshi-users-under-21-lost-8-9m-in-nyc-probe-finds-video",
     "image": null,
-    "pushedAt": "2026-11-24T20:49:58.517Z"
+    "pushedAt": "2026-11-24T23:00:55.201Z"
   },
   {
     "id": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9",
@@ -8483,8 +8447,8 @@
     "titleZh": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T20:50:53.264Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1c2fda8-c4cc-4958-9db9-398951535ab9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T23:01:44.553Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-moments-08-cbtj/25sp-dealbook-moments-08-cbtj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T22:59:36.190Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+    "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+    "titleZh": "DealBook 高峰會 2026：中期選舉帶來的劇變之後，2028 年誰更有優勢？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:02:13.816Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+    "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+    "titleZh": "DealBook Summit 2026：控制人工智慧，但不要暫停它",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-ai-taskforce-cgtj/25sp-dealbook-ai-taskforce-cgtj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:02:19.006Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+    "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+    "titleZh": "DealBook 高峰會 2026：是時候解決醫療保健問題了",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-health-taskforce-cvqw/25sp-dealbook-health-taskforce-cvqw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:02:26.091Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+    "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+    "titleZh": "DealBook 高峰會 2026：開創者講述他們的想法",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-groundbreakers-3-tklf/25sp-dealbook-groundbreakers-3-tklf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:02:31.043Z"
   }
 ]
