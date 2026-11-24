@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
-    "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
-    "titleZh": "佐蘭馬姆達尼 (Zohran Mamdani) 談川普、華爾街和財富稅",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22DB-mamdani-kmcp/22DB-mamdani-kmcp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T21:33:08.605Z"
-  },
-  {
     "id": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
     "title": "Xi needs Trump more than ever",
     "titleZh": "習近平比以往任何時候都更需要川普",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/wisetech-s-white-cleared-in-human-trafficking-probe-by-police",
     "image": null,
     "pushedAt": "2026-11-24T22:14:10.205Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
+    "title": "The Gandhi dynasty suffers for India",
+    "titleZh": "甘地王朝為印度受苦",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
+    "image": null,
+    "pushedAt": "2026-11-24T22:14:38.355Z"
   }
 ]
