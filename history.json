@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
-    "title": "Bond yields are rising everywhere—except China",
-    "titleZh": "除中國外，世界各地的債券殖利率都在上升",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
-    "image": null,
-    "pushedAt": "2026-11-24T22:09:32.882Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "title": "Europe tightens sanctions on Russia. America loosens them",
     "titleZh": "歐洲加強對俄羅斯的製裁。美國放鬆了他們",
@@ -6486,7 +6477,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-china-chips-analysis-01-zjqb/24int-china-chips-analysis-01-zjqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T20:53:55.022Z"
+    "pushedAt": "2026-11-24T23:07:15.427Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-tariffs-on-industrial-overcapacity",
@@ -6522,7 +6513,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T20:54:19.562Z"
+    "pushedAt": "2026-11-24T23:07:39.572Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/tech-executives-confront-the-ai-pr-problem",
@@ -6990,7 +6981,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/france-gets-eu-reprieve-for-now-in-scrutiny-of-public-finances",
     "image": null,
-    "pushedAt": "2026-11-24T20:54:44.224Z"
+    "pushedAt": "2026-11-24T23:08:04.075Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
     "image": null,
     "pushedAt": "2026-11-24T23:06:48.187Z"
+  },
+  {
+    "id": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac",
+    "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+    "titleZh": "Nscale 表示，由於科技股拋售威脅 350 億美元 IPO，公司可以選擇保持私有化",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8329a221-4638-4186-a8de-5fc774a1a5fd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T23:08:33.966Z"
   }
 ]
