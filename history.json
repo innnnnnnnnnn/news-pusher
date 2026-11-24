@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video",
-    "title": "How Tokenization Could Change the ETF Market",
-    "titleZh": "代幣化如何改變 ETF 市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video",
-    "image": null,
-    "pushedAt": "2026-11-20T19:50:28.938Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
     "title": "Wall Street Regulator Probes Nvidia Accounting, Reuters Says",
     "titleZh": "路透社稱，華爾街監管機構正在調查英偉達的會計",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T11:04:53.202Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+    "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+    "titleZh": "日產在遭受駭客攻擊後關閉了用於維修的系統",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-nissan-kgtl/20biz-nissan-kgtl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T11:05:21.646Z"
   }
 ]
