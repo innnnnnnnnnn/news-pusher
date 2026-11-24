@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
-    "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
-    "titleZh": "這是一項關於能源許可的法案，但川普最喜歡的項目是辯論的一部分",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-permitting-fzpt/20dc-trump-permitting-fzpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T16:55:51.367Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/us/politics/takeaways-from-trumps-post-asia-trip-news-conference.html",
     "title": "Takeaways From Trump’s Post-Trip News Conference",
     "titleZh": "川普出訪後記者會的要點",
@@ -195,7 +186,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T11:54:38.625Z"
+    "pushedAt": "2026-11-24T14:01:44.516Z"
   },
   {
     "id": "https://www.ft.com/content/53d9f3ef-e0cc-4605-8203-180a97d0d404",
@@ -240,7 +231,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4cf7587f-a408-42af-9f8f-b3dd814db5c0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T11:55:03.244Z"
+    "pushedAt": "2026-11-24T14:02:09.021Z"
   },
   {
     "id": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e",
@@ -249,7 +240,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T11:56:41.373Z"
+    "pushedAt": "2026-11-24T14:03:23.963Z"
   },
   {
     "id": "https://www.ft.com/content/f719ae89-b343-4ae1-945c-6bd52411d90a",
@@ -1743,7 +1734,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-24T11:56:16.934Z"
+    "pushedAt": "2026-11-24T14:02:59.342Z"
   },
   {
     "id": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374",
@@ -7912,12 +7903,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/gerko-s-xtx-opens-finnish-data-center-warns-on-permit-delays",
-    "title": "Gerko’s XTX Opens Finnish Data Center, Warns on Permit Delays",
+    "title": "Gerko’s XTX Opens Finnish Data Center, Warns on Permit Delay",
     "titleZh": "Gerko 的 XTX 開設芬蘭資料中心，警告許可證延誤",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/gerko-s-xtx-opens-finnish-data-center-warns-on-permit-delays",
     "image": null,
-    "pushedAt": "2026-11-24T11:55:52.364Z"
+    "pushedAt": "2026-11-24T14:02:33.435Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/xiaomi-s-sales-slip-after-memory-shortages-weigh-on-smartphones",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T14:01:16.879Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/jensen-huang-s-new-reality-in-return-as-nvidia-ceo-video",
+    "title": "Jensen Huang’s New Reality in Return as Nvidia CEO",
+    "titleZh": "黃仁勳作為 Nvidia 首席執行官的新現實回報",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/jensen-huang-s-new-reality-in-return-as-nvidia-ceo-video",
+    "image": null,
+    "pushedAt": "2026-11-24T14:03:50.630Z"
   }
 ]
