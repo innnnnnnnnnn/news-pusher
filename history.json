@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/vanguard-tcw-eye-hidden-upside-in-mbs-over-corporate-bonds",
-    "title": "Vanguard, TCW Eye Hidden Upside in MBS Over Corporate Bonds",
-    "titleZh": "Vanguard、TCW 關注 MBS 相對於公司債的隱藏上漲空間",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/vanguard-tcw-eye-hidden-upside-in-mbs-over-corporate-bonds",
-    "image": null,
-    "pushedAt": "2026-11-20T16:56:14.246Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/volatility-surges-over-ai-fears-after-anthropic-ipo-video",
     "title": "Volatility Surges Over AI Fears After Anthropic IPO",
     "titleZh": "Anthropic IPO 後，人工智慧擔憂引發波動性飆升",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/2b0209eb507f528386734297c29c9cd6",
     "image": null,
     "pushedAt": "2026-11-24T07:44:54.211Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
+    "title": "Inside the Fight Between Native American Tribes and Kalshi",
+    "titleZh": "美洲原住民部落與卡爾什之間的鬥爭",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
+    "image": "https://static01.nyt.com/images/2026/11/13/multimedia/TRIBES00biz-tribes-prediction-markets-sub1-hvzq/TRIBES00biz-tribes-prediction-markets-sub1-hvzq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T07:45:24.180Z"
   }
 ]
