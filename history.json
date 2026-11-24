@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/fear-of-missing-out-driving-young-investors-chaudhuri-video",
-    "title": "Fear of Missing Out Driving Young Investors: Chaudhuri",
-    "titleZh": "害怕錯過推動年輕投資者的機會：Chaudhuri",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-of-missing-out-driving-young-investors-chaudhuri-video",
-    "image": null,
-    "pushedAt": "2026-11-20T21:10:19.874Z"
-  },
-  {
     "id": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7",
     "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
     "titleZh": "Grand Theft Auto VI 銷售額突破 38 億美元記錄",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-kaasik-says-latest-data-show-rates-must-be-raised-further",
     "image": null,
     "pushedAt": "2026-11-24T12:10:03.488Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "title": "Stocks Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
+    "titleZh": "科技股部分逆轉英偉達引發的漲勢，股市下跌",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T12:10:33.976Z"
   }
 ]
