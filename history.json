@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a71192b7-708c-4bd4-abb6-31c82113794a",
-    "title": "How misinformation helped measles make its comeback",
-    "titleZh": "麻疹如何在世界各地傳播",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a71192b7-708c-4bd4-abb6-31c82113794a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:40:35.224Z"
-  },
-  {
     "id": "https://www.ft.com/content/937a6804-e8b8-428d-bb8f-67f83fe874c5",
     "title": "Getting the UK’s Neets into work is worth the cost",
     "titleZh": "讓英國的啃老族投入工作是值得的",
@@ -150,7 +141,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22SunBiz-WORKFRIEND-kwtq/22SunBiz-WORKFRIEND-kwtq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:59:24.954Z"
+    "pushedAt": "2026-11-24T20:29:00.915Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
@@ -159,7 +150,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:59:49.677Z"
+    "pushedAt": "2026-11-24T20:29:25.110Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
@@ -2850,7 +2841,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:59:00.253Z"
+    "pushedAt": "2026-11-24T20:28:36.655Z"
   },
   {
     "id": "https://www.ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
     "image": null,
     "pushedAt": "2026-11-24T20:28:09.315Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+    "title": "OpenAI Staffer Charged With Planting Bug Released on Bond",
+    "titleZh": "OpenAI 員工被控植入漏洞 保釋後獲釋",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+    "image": null,
+    "pushedAt": "2026-11-24T20:29:54.595Z"
   }
 ]
