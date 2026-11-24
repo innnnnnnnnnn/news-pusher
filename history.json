@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
-    "title": "The UK takes a step back towards the EU",
-    "titleZh": "英國向歐盟退一步",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
-    "image": null,
-    "pushedAt": "2026-11-24T08:57:41.413Z"
-  },
-  {
     "id": "https://www.ft.com/content/688949b0-f395-4d56-82ea-b55789849c33",
     "title": "Eurotrash — Ben Whishaw and Kathryn Hunter lead a pill-popping Swiss odyssey",
     "titleZh": "Eurotrash — 本·威士肖 (Ben Whishaw) 和凱瑟琳·亨特 (Kathryn Hunter) 帶領大家展開一場吸藥瑞士冒險之旅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast",
     "image": null,
     "pushedAt": "2026-11-24T09:02:01.540Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/thailand-s-informal-economy-keeps-78-of-firms-off-the-books",
+    "title": "Thailand’s Informal Economy Keeps 78% of Firms Off the Books",
+    "titleZh": "泰國的非正規經濟導致 78% 的企業無法入帳",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/thailand-s-informal-economy-keeps-78-of-firms-off-the-books",
+    "image": null,
+    "pushedAt": "2026-11-24T09:09:55.672Z"
   }
 ]
