@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-    "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-    "titleZh": "聯合國未能監管致命自主武器，但計劃再次嘗試",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T15:43:01.055Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
     "title": "Anthropic IPO Fails to Calm AI Jitters",
     "titleZh": "人為 IPO 未能平息人工智慧的不安",
@@ -5752,12 +5743,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-    "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
+    "title": "Nasdaq 100 Sinks as Nvidia, Anthropic Get Hammered: Markets Wrap",
     "titleZh": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-24T15:38:44.490Z"
+    "pushedAt": "2026-11-24T17:52:36.727Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
@@ -6270,7 +6261,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T15:39:34.345Z"
+    "pushedAt": "2026-11-24T17:53:01.349Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/the-path-ahead-as-jensen-huang-returns-as-nvidia-s-ceo-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-huang-to-face-scrutiny-on-capitol-hill-video",
     "image": null,
     "pushedAt": "2026-11-24T17:52:07.577Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272",
+    "title": "Venezuela unveils $240bn debt pile ahead of historic restructuring",
+    "titleZh": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T17:53:27.717Z"
   }
 ]
