@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a",
-    "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
-    "titleZh": "傑米戴蒙發誓要收回「不公平」的英國銀行稅",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F929b722c-5092-4882-ac41-294124a572b8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-21T11:04:19.517Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-surveillance-11-20-2026-video",
     "title": "Global Stocks Fall as Anthropic IPO Fails to Revive AI Trade",
     "titleZh": "由於 Anthropic IPO 未能重振人工智慧貿易，全球股市下跌",
@@ -4074,7 +4065,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
     "image": null,
-    "pushedAt": "2026-11-24T06:28:00.425Z"
+    "pushedAt": "2026-11-24T08:33:40.035Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
@@ -6873,7 +6864,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T06:27:34.827Z"
+    "pushedAt": "2026-11-24T08:33:14.359Z"
   },
   {
     "id": "https://www.ft.com/content/91cee968-66d0-4c48-b453-47b17f7443d2",
@@ -7989,7 +7980,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom",
     "image": null,
-    "pushedAt": "2026-11-24T06:27:10.020Z"
+    "pushedAt": "2026-11-24T08:32:49.309Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/e04786415c785b71bbeb02b9a3dffc59",
     "image": null,
     "pushedAt": "2026-11-24T08:32:20.886Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
+    "title": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?",
+    "titleZh": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-24T08:34:08.747Z"
   }
 ]
