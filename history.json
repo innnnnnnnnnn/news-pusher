@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video",
-    "title": "How AI is Accelerating Cyberattacks",
-    "titleZh": "人工智慧如何加速網路攻擊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video",
-    "image": null,
-    "pushedAt": "2026-11-23T07:44:57.892Z"
-  },
-  {
-    "id": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
-    "title": "Democrats will struggle with a state-level revolution",
-    "titleZh": "民主黨將與州級革命作鬥爭",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
-    "image": null,
-    "pushedAt": "2026-11-24T22:07:29.641Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
     "title": "Chile Central Bank Chief Says Economic Recovery May Take Longer",
     "titleZh": "智利央行行長告訴報紙復甦可能需要更長的時間",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T23:05:39.401Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+    "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+    "titleZh": "DealBook 高峰會 2026：混亂世界中務實的代價",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-cover-web/25sp-dealbook-cover-web-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:06:10.261Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+    "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+    "titleZh": "DealBook Summit 2026：幫助想要在人工智慧領域取得成功的人世界",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-work-taskforce-pqtg/25sp-dealbook-work-taskforce-pqtg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:06:14.952Z"
   }
 ]
