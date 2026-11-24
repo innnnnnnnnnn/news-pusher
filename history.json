@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
-    "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-    "titleZh": "技術供應商在交易簽署後幾個月將人工智慧伺服器價格提高了 45%",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:22:30.680Z"
-  },
-  {
     "id": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80",
     "title": "Amazon’s AI resistance: workers ready for battle over data centres",
     "titleZh": "亞馬遜的人工智慧抵抗：工人們準備好爭奪資料中心",
@@ -7530,7 +7521,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:46:51.318Z"
+    "pushedAt": "2026-11-24T20:14:36.628Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
@@ -7539,7 +7530,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:47:15.737Z"
+    "pushedAt": "2026-11-24T20:15:00.862Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/google-snaps-up-london-king-s-cross-office-as-rents-soar",
@@ -7890,7 +7881,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T17:48:13.067Z"
+    "pushedAt": "2026-11-24T20:15:50.984Z"
   },
   {
     "id": "https://www.ft.com/content/00eace12-390a-492d-ae91-639ae0ac93f5",
@@ -8452,12 +8443,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return",
-    "title": "Nvidia’s Huang to Host All-Hands Meeting After Return",
+    "title": "Jensen Huang Apologizes to Nvidia Staff in Employee Meeting",
     "titleZh": "英偉達黃仁勳將在回國後主持全體會議",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return",
     "image": null,
-    "pushedAt": "2026-11-24T17:47:44.179Z"
+    "pushedAt": "2026-11-24T20:15:25.684Z"
   },
   {
     "id": "https://www.ft.com/content/6c21514c-35c3-4a47-bbd0-acd6d94d2f90",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
     "image": null,
     "pushedAt": "2026-11-24T20:14:08.860Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/bitcoin-sinks-below-60-000-amid-etf-outflows-video",
+    "title": "Bitcoin Sinks Below $60,000 Amid ETF Outflows",
+    "titleZh": "ETF 流出導致比特幣跌破 6 萬美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/bitcoin-sinks-below-60-000-amid-etf-outflows-video",
+    "image": null,
+    "pushedAt": "2026-11-24T20:16:18.927Z"
   }
 ]
