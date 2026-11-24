@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/lp73o7fjh",
-    "title": "Atomic Nuked Veteran",
-    "titleZh": "原子彈老兵",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/lp73o7fjh?ref=rss",
-    "image": "https://cdn.flipso.com/p/lp73o7fjh_square.jpg",
-    "pushedAt": "2026-11-22T23:17:55.925Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
     "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
     "titleZh": "人擇研究人員聲稱與克勞德一起解決了黎曼問題",
@@ -150,7 +141,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-24T11:37:58.395Z"
+    "pushedAt": "2026-11-24T13:47:32.941Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
@@ -1788,7 +1779,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T11:37:09.615Z"
+    "pushedAt": "2026-11-24T13:46:43.095Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
@@ -2238,7 +2229,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T11:38:22.406Z"
+    "pushedAt": "2026-11-24T13:47:57.760Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
@@ -5964,7 +5955,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T11:37:33.887Z"
+    "pushedAt": "2026-11-24T13:47:07.715Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
@@ -6243,7 +6234,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "image": null,
-    "pushedAt": "2026-11-24T11:36:45.580Z"
+    "pushedAt": "2026-11-24T13:46:18.230Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-s-return-to-nvidia-is-welcomed-by-markets-trump-big-take-podcast",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/saudis-see-economy-taking-smaller-hit-from-war-as-oil-flows-rise",
     "image": null,
     "pushedAt": "2026-11-24T13:45:50.343Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
+    "title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
+    "titleZh": "標普 500 指數波動撕毀劇本，市場擇時者接受教育",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
+    "image": null,
+    "pushedAt": "2026-11-24T13:48:25.716Z"
   }
 ]
