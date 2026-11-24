@@ -1,59 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
-    "title": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
-    "titleZh": "Robinhood 對 ETF 和下一代投資者的怪癖",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
-    "image": null,
-    "pushedAt": "2026-11-20T20:28:47.195Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video",
-    "title": "Trump Vows to Tax US Companies Building Data Centers Abroad",
-    "titleZh": "川普誓言對在海外建造資料中心的美國公司徵稅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video",
-    "image": null,
-    "pushedAt": "2026-11-20T20:32:11.220Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-    "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-    "titleZh": "間諜嫌犯的晶片網與中國軍事供應商有聯繫",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:48:21.499Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/musk-ally-akis-joins-board-of-doge-alumni-firm-after-new-round",
-    "title": "Musk Ally Akis Joins Board of DOGE Alumni Firm After New Round",
-    "titleZh": "Musk Ally Akis 在新一輪融資後加入 DOGE 校友公司董事會",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/musk-ally-akis-joins-board-of-doge-alumni-firm-after-new-round",
-    "image": null,
-    "pushedAt": "2026-11-20T20:36:13.567Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
-    "title": "SEC’s Daly on a Rapidly Evolving ETF Market",
-    "titleZh": "SEC 的 Daly 談快速發展的 ETF 市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
-    "image": null,
-    "pushedAt": "2026-11-20T18:16:27.638Z"
-  },
-  {
-    "id": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
-    "title": "The EU reset is crucial for British business",
-    "titleZh": "歐盟重置對英國企業來說是必須的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
-    "image": null,
-    "pushedAt": "2026-11-24T09:58:44.132Z"
-  },
-  {
     "id": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87",
     "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
     "titleZh": "人類工作人員聲稱數學黎曼假設的解決方案",
@@ -1581,7 +1527,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DB-Portraits-1-02-hqvc/21DB-Portraits-1-02-hqvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T07:53:34.405Z"
+    "pushedAt": "2026-11-24T10:04:41.338Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
@@ -8998,5 +8944,59 @@
     "url": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T10:04:12.245Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+    "titleZh": "市議會稱年輕的紐約人正在失去卡爾希",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:05:08.800Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+    "title": "Top Aviation Officials Were Traveling When Flights Were Halted Nationwide",
+    "titleZh": "全國航班暫停時，航空高級官員正在出差",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:05:13.483Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+    "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
+    "titleZh": "餐廳恢復電話預訂。人類可能不包括在內。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:05:18.971Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
+    "title": "More (and More) Black Friday Travel Deals",
+    "titleZh": "更多（和更多）黑色星期五旅遊優惠",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
+    "image": null,
+    "pushedAt": "2026-11-24T10:05:24.838Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+    "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+    "titleZh": "從中國工廠小鎮到英偉達醜聞：愛麗絲黃的崛起",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:05:30.857Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+    "title": "Medicare Hospice Caps Leave Patients Without Care",
+    "titleZh": "醫療保險臨終關懷帽讓病人失去護理",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:05:36.147Z"
   }
 ]
