@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
-    "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
-    "titleZh": "Nscale 在計劃 350 億美元的 IPO 之前放慢招聘速度並削減支出",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
-    "image": null,
-    "pushedAt": "2026-11-23T03:46:33.156Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
     "title": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
     "titleZh": "沙烏地阿拉伯1兆美元的財富遭遇身分危機",
@@ -3363,7 +3354,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "image": null,
-    "pushedAt": "2026-11-24T19:07:50.203Z"
+    "pushedAt": "2026-11-24T21:38:17.347Z"
   },
   {
     "id": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3",
@@ -8421,16 +8412,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T19:22:15.406Z"
+    "pushedAt": "2026-11-24T21:38:42.071Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
-    "title": "Trend Followers Dump Bond Shorts as Stocks Swoon Aids Haven Bids",
+    "title": "Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
     "titleZh": "股市低迷有助於避險買盤，趨勢追蹤者拋售債券空頭",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
     "image": null,
-    "pushedAt": "2026-11-24T19:22:21.605Z"
+    "pushedAt": "2026-11-24T21:39:06.633Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
@@ -8439,7 +8430,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T19:22:49.887Z"
+    "pushedAt": "2026-11-24T21:39:31.291Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-ups-annual-sales-forecast-again-video",
     "image": null,
     "pushedAt": "2026-11-24T21:37:49.308Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+    "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+    "titleZh": "量化基金很難跟上這個市場的步伐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+    "image": null,
+    "pushedAt": "2026-11-24T21:39:59.829Z"
   }
 ]
