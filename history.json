@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
-    "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
-    "titleZh": "人工智慧交易步履蹣跚，投資者勇敢地面對股市的“脆弱性”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
-    "image": null,
-    "pushedAt": "2026-11-22T23:32:26.429Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
     "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
     "titleZh": "亞德尼再次下調標準普爾 500 指數目標，稱熊市不太可能",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
     "pushedAt": "2026-11-24T23:09:30.715Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "title": "AI is swallowing maths. Is economics next?",
+    "titleZh": "人工智慧正在吞噬數學。接下來是經濟學嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "image": null,
+    "pushedAt": "2026-11-24T23:09:59.217Z"
   }
 ]
