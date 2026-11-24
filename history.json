@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/omers-private-capital-chief-exits-to-lead-pension-owned-teranet",
-    "title": "Omers Private Capital Chief Exits to Lead Pension-Owned Teranet",
-    "titleZh": "奧默斯私人資本執行長退出，領導退休金擁有的 Teranet",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/omers-private-capital-chief-exits-to-lead-pension-owned-teranet",
-    "image": null,
-    "pushedAt": "2026-11-20T19:58:28.548Z"
-  },
-  {
-    "id": "https://www.ft.com/content/76543b3f-b669-42c8-9518-d67c967c6d5c",
-    "title": "Burnham's Brexit reset",
-    "titleZh": "伯納姆重置脫歐計劃",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/76543b3f-b669-42c8-9518-d67c967c6d5c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T04:51:02.652Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/asset-backed-debt-sales-top-post-gfc-record-on-ai-strength",
-    "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
-    "titleZh": "資產支持債務銷售在人工智慧實力方面創下全球金融危機後記錄",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/asset-backed-debt-sales-top-post-gfc-record-on-ai-strength",
-    "image": null,
-    "pushedAt": "2026-11-20T20:08:28.434Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-s-ipo-drew-more-retail-investor-demand-than-spacex",
     "title": "Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX",
     "titleZh": "Anthropic 的 IPO 吸引的散戶需求超過 SpaceX",
@@ -1437,7 +1410,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:11:17.663Z"
+    "pushedAt": "2026-11-24T11:21:02.673Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
@@ -2112,7 +2085,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:12:06.969Z"
+    "pushedAt": "2026-11-24T11:21:28.198Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
@@ -2310,7 +2283,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T09:10:52.824Z"
+    "pushedAt": "2026-11-24T11:20:37.740Z"
   },
   {
     "id": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8",
@@ -8421,7 +8394,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/thailand-s-informal-economy-keeps-78-of-firms-off-the-books",
     "image": null,
-    "pushedAt": "2026-11-24T09:09:55.672Z"
+    "pushedAt": "2026-11-24T11:19:25.004Z"
   },
   {
     "id": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
@@ -8430,7 +8403,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
     "image": null,
-    "pushedAt": "2026-11-24T09:10:25.585Z"
+    "pushedAt": "2026-11-24T11:20:13.228Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-bets-on-crispy-chicken-and-ai-drive-thrus",
     "image": null,
     "pushedAt": "2026-11-24T11:18:08.336Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
+    "title": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
+    "titleZh": "加拿大皇家銀行 (RBC) 的吳西爾弗曼 (Wu Silverman) 表示，英偉達市場的衝擊遠未結束",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
+    "image": null,
+    "pushedAt": "2026-11-24T11:21:55.488Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "titleZh": "Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "image": null,
+    "pushedAt": "2026-11-24T11:22:00.075Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/wallenberg-backed-green-steel-startup-is-said-to-need-2-billion",
+    "title": "Wallenberg-Backed Green Steel Startup Is Said to Need $2 Billion",
+    "titleZh": "據說瓦倫堡支持的綠色鋼鐵新創公司需要 20 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/wallenberg-backed-green-steel-startup-is-said-to-need-2-billion",
+    "image": null,
+    "pushedAt": "2026-11-24T11:22:05.193Z"
   }
 ]
