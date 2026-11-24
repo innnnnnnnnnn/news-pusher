@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
-    "title": "Tower Records Becomes Latest Japan Retailer Hit by Data Breach",
-    "titleZh": "Tower Records 成為最新一家遭受資料外洩攻擊的日本零售商",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
-    "image": null,
-    "pushedAt": "2026-11-23T06:28:47.311Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
     "title": "S. Korea Rolls Out Phased Measures to Stabilize Stock Market",
     "titleZh": "韓國推出分階段措施穩定動盪的市場",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00biz-screwworm-cases-01-jpfh/00biz-screwworm-cases-01-jpfh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T21:14:23.399Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+    "title": "Rather Than Sell Their House, They Became Landlords Instead",
+    "titleZh": "他們沒有賣掉房子，而是成為了房東",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-24T21:14:53.143Z"
   }
 ]
