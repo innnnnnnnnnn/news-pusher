@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-    "title": "The dead hand of history weighs on Deutsche Bank",
-    "titleZh": "歷史的死手給德意志銀行帶來壓力",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-    "image": null,
-    "pushedAt": "2026-11-22T19:24:53.129Z"
-  },
-  {
     "id": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f",
     "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
     "titleZh": "CVC 聲稱在 30 億歐元 Advent 糕點原料交易中存在會計操縱行為",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/colombia-fiscal-bill-likely-to-fall-short-still-deliver-big-fix",
     "image": null,
     "pushedAt": "2026-11-24T15:53:22.365Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/how-dual-class-stock-entrenches-founder-control-at-anthropic-spacex-google",
+    "title": "How Dual-Class Stock Entrenches Founder Control at Anthropic, SpaceX, Google",
+    "titleZh": "雙重股權結構如何鞏固創辦人對 Anthropic、SpaceX、Google的控制權",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/how-dual-class-stock-entrenches-founder-control-at-anthropic-spacex-google",
+    "image": null,
+    "pushedAt": "2026-11-24T15:53:51.772Z"
   }
 ]
