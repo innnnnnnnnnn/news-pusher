@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-21/eu-proposes-new-cuts-to-long-term-budget-to-bridge-policy-divide",
-    "title": "EU Proposes Cuts to Long-Term Budget to Bridge Policy Divide",
-    "titleZh": "歐盟提議新一輪削減長期預算以彌合政策分歧",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/eu-proposes-new-cuts-to-long-term-budget-to-bridge-policy-divide",
-    "image": null,
-    "pushedAt": "2026-11-22T11:47:57.122Z"
-  },
-  {
     "id": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3",
     "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget",
     "titleZh": "科斯塔重啟歐盟數位稅提案，以期就預算達成協議",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
     "image": null,
     "pushedAt": "2026-11-24T17:06:41.771Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+    "titleZh": "槍聲響起，墨西哥軍隊抓獲頭號毒梟",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo2-gblm/22int-cartel-ticktock-photo2-gblm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T17:07:10.222Z"
   }
 ]
