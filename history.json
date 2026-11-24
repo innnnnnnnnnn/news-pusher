@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/8f9453d7-cf5c-41a1-9421-b7eb9e672455",
-    "title": "Asda could find salvation in the supermarket side hustle",
-    "titleZh": "阿斯達可以在超市副業找到救贖",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/8f9453d7-cf5c-41a1-9421-b7eb9e672455?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T11:45:51.629Z"
-  },
-  {
     "id": "https://www.ft.com/content/6b8ed211-7909-4587-af26-546059628f10",
     "title": "‘We’ve got to get things right’: Man Utd turnaround enters the Pochettino era",
     "titleZh": "「我們必須把事情做好」：曼聯扭虧為盈進入波切蒂諾時代",
@@ -2616,7 +2607,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
     "image": null,
-    "pushedAt": "2026-11-24T13:42:52.572Z"
+    "pushedAt": "2026-11-24T15:58:22.321Z"
   },
   {
     "id": "https://flipso.com/p/fsgbqaa5f",
@@ -5793,7 +5784,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T13:44:31.610Z"
+    "pushedAt": "2026-11-24T15:59:12.250Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html",
@@ -8106,7 +8097,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
     "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T13:44:07.048Z"
+    "pushedAt": "2026-11-24T15:58:47.700Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-huang-s-return-exposes-nvidia-s-unresolved-fragilities",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video",
     "image": null,
     "pushedAt": "2026-11-24T15:57:54.290Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/why-ai-pilots-struggle-to-scale-video",
+    "title": "Why AI Pilots Struggle to Scale",
+    "titleZh": "為什麼人工智慧試點難以擴大規模",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/why-ai-pilots-struggle-to-scale-video",
+    "image": null,
+    "pushedAt": "2026-11-24T15:59:40.363Z"
   }
 ]
