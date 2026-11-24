@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan",
-    "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
-    "titleZh": "澳洲反對派呼籲改變天然氣儲備計劃",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan",
-    "image": null,
-    "pushedAt": "2026-11-22T05:19:29.202Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
     "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
     "titleZh": "澳洲間諜頭子警告資料中心、人工智慧風險和年齡報告",
@@ -1608,7 +1599,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
     "image": null,
-    "pushedAt": "2026-11-24T17:16:44.384Z"
+    "pushedAt": "2026-11-24T19:42:31.061Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
@@ -1617,7 +1608,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
-    "pushedAt": "2026-11-24T17:17:09.183Z"
+    "pushedAt": "2026-11-24T19:42:55.684Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
     "image": null,
     "pushedAt": "2026-11-24T19:42:03.797Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764",
+    "title": "Huang says he still doesn’t believe in Nvidia succession planning",
+    "titleZh": "黃仁勳表示他仍然不相信英偉達的繼任計劃",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc08d22b5-1cc6-49a4-9834-a3ff20f311dc.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T19:43:23.868Z"
   }
 ]
