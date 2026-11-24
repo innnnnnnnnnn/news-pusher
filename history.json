@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
-    "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
-    "titleZh": "強生休閒食品執行長談第四季業績與消費者信心",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
-    "image": null,
-    "pushedAt": "2026-11-21T14:48:25.958Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video",
     "title": "Tony Wang on CrowdStrike-Zscaler Deal, AI Trade",
     "titleZh": "Tony Wang 談 CrowdStrike-Zscaler 交易、AI Trade",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T13:21:34.374Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+    "title": "White Police Officers Are Convicted of Beating a Black Man in France",
+    "titleZh": "法國白人警察因毆打黑人而被定罪",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20france-police-01-wclq/20france-police-01-wclq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T13:22:03.238Z"
   }
 ]
