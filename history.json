@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/article/stock-market-correction.html",
-    "title": "What Is a Stock Market Correction?",
-    "titleZh": "什麼是股市調整？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/article/stock-market-correction.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-correction-explainer-promo/20biz-correction-explainer-promo-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-21T17:35:34.864Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video",
     "title": "CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
     "titleZh": "CrowdStrike 在洽談收購網路安全公司 Zscaler 時表示",
@@ -6288,7 +6279,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T10:12:22.435Z"
+    "pushedAt": "2026-11-24T12:25:24.413Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/apple-s-new-airpods-max-homepod-mini-2-to-get-product-red-release-for-holidays",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T12:24:57.032Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-brief-11-24-2026-video",
+    "title": "Stocks Fall as Nvidia Rally Fades; US Blacklists Megaspeed, Alibaba Unit",
+    "titleZh": "隨著英偉達漲勢消退，股市下跌；美國將Megaspeed、阿里巴巴部門列入黑名單",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-brief-11-24-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-24T12:25:51.302Z"
   }
 ]
