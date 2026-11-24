@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
-    "title": "Sheet-Pan Recipes for Friendsgiving",
-    "titleZh": "友誼平底鍋食譜",
-    "source": "紐約時報 New York Times",
-    "url": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
-    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T20:06:28.340Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
     "title": "Barack Obama’s acolytes are coming to power",
     "titleZh": "巴拉克·歐巴馬的追隨者即將上台",
@@ -8322,7 +8313,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f6816dbe-2108-415c-a32c-9c6fd7a2d959?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T07:10:21.220Z"
+    "pushedAt": "2026-11-24T09:20:13.505Z"
   },
   {
     "id": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16",
@@ -8331,7 +8322,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8dcdad67-d109-4442-a64b-d9305ce13ab7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T07:10:46.664Z"
+    "pushedAt": "2026-11-24T09:20:39.383Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html",
@@ -8340,7 +8331,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html",
     "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-adviser/20biz-adviser-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-24T07:11:11.603Z"
+    "pushedAt": "2026-11-24T09:21:05.753Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
     "image": null,
     "pushedAt": "2026-11-24T09:16:25.474Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/german-business-outlook-improves-for-seventh-straight-month",
+    "title": "German Business Outlook Improves for Seventh Straight Month",
+    "titleZh": "德國商業前景連續第七個月改善",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/german-business-outlook-improves-for-seventh-straight-month",
+    "image": null,
+    "pushedAt": "2026-11-24T09:21:31.690Z"
   }
 ]
