@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-    "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-    "titleZh": "反人工智慧有多嚴格作弊規則導致教育部長下台",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T19:24:15.271Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
     "title": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
     "titleZh": "瑞士央行副總裁馬丁表示，瑞士通膨一直在加速",
@@ -7179,7 +7170,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d4902274-2e3d-447a-83b8-312cf7306d56?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T18:42:55.549Z"
+    "pushedAt": "2026-11-24T21:04:54.798Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/mexico-s-headline-inflation-ticks-up-after-surprise-rate-cut",
@@ -7575,7 +7566,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36a302c5-e042-4051-9afd-5ea6e2f117a6.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T18:43:20.080Z"
+    "pushedAt": "2026-11-24T21:05:19.067Z"
   },
   {
     "id": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a",
@@ -7584,7 +7575,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T18:43:44.610Z"
+    "pushedAt": "2026-11-24T21:05:43.295Z"
   },
   {
     "id": "https://www.ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/7ad64c80-64d2-4516-9400-1fbad546b0fe?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T21:04:27.725Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
+    "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
+    "titleZh": "摩根大通設定的 2027 年標準普爾 500 指數低於共識目標 8,200 點",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
+    "image": null,
+    "pushedAt": "2026-11-24T21:06:10.053Z"
   }
 ]
