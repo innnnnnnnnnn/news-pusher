@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-    "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-    "titleZh": "川普考慮對伊朗發動新的打擊，美國軍方警告部隊緊張",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14bd0d8b-a71f-4179-98fd-99aa51694bce.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-21T16:17:41.129Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
     "title": "SEC Aims to Directly Oversee Database Loathed by Wall Street",
     "titleZh": "美國證券交易委員會直接監管受到華爾街批評的資料庫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
     "image": null,
     "pushedAt": "2026-11-24T11:34:37.545Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+    "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+    "titleZh": "中國出生的神經科學家在參加會議後被 ICE 拘留",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T11:35:05.873Z"
   }
 ]
