@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
-    "title": "The return of measles in America",
-    "titleZh": "麻疹在美國捲土重來",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
-    "image": null,
-    "pushedAt": "2026-11-24T10:39:27.544Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
     "title": "How Do You Investigate a President This Corrupt?",
     "titleZh": "民主黨調查川普的計劃",
@@ -2823,7 +2814,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
     "image": null,
-    "pushedAt": "2026-11-24T08:40:56.426Z"
+    "pushedAt": "2026-11-24T10:52:12.831Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
@@ -7224,7 +7215,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T08:42:49.696Z"
+    "pushedAt": "2026-11-24T10:53:27.775Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
@@ -8583,16 +8574,16 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-says-it-s-prudent-to-hike-as-inflation-broadens",
     "image": null,
-    "pushedAt": "2026-11-24T08:41:25.852Z"
+    "pushedAt": "2026-11-24T10:52:38.023Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
-    "title": "European Auto Sales Increase Again on Surging EV Demand (Video)",
+    "title": "European Auto Sales Increase Again on Surging EV Demand",
     "titleZh": "電動車需求激增，歐洲汽車銷量再次成長（影片）",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
     "image": null,
-    "pushedAt": "2026-11-24T08:41:56.017Z"
+    "pushedAt": "2026-11-24T10:53:03.600Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/chaotic-market-narrative-cuts-both-ways-3-minutes-mliv-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
     "image": null,
     "pushedAt": "2026-11-24T10:45:55.165Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
+    "title": "Commerzbank Considers Partial Treasury Market Pullback",
+    "titleZh": "德國商業銀行考慮部分國債市場回調",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
+    "image": null,
+    "pushedAt": "2026-11-24T10:53:55.595Z"
   }
 ]
