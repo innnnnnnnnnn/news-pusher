@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
-    "title": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
-    "titleZh": "克勞迪婭·薩姆 (Claudia Sahm) 表示，人工智慧正在為白宮的經濟學家帶來幫助",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
-    "image": null,
-    "pushedAt": "2026-11-20T20:12:01.059Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/europe-retail-traders-bid-seven-times-anthropic-s-ipo-allocation",
     "title": "Europe Retail Traders Bid Seven Times Anthropic’s IPO Allocation",
     "titleZh": "歐洲零售交易商出價是 Anthropic IPO 分配的七倍",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/ex-rbi-chief-rajan-sees-nvidia-governance-risk-in-huang-s-return",
     "image": null,
     "pushedAt": "2026-11-24T09:32:00.983Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
+    "title": "Grand Transitory Assumptions",
+    "titleZh": "重大暫時性假設",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
+    "image": null,
+    "pushedAt": "2026-11-24T09:32:29.374Z"
   }
 ]
