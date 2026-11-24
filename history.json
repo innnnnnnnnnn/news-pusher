@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3b6e5e8d-c7d1-4093-9187-45e37a2d3af4",
-    "title": "Brookfield revives talks over £450mn sale of London’s Citypoint tower",
-    "titleZh": "布魯克菲爾德重啟以 4.5 億英鎊出售倫敦 Citypoint 大廈的談判",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3b6e5e8d-c7d1-4093-9187-45e37a2d3af4?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T06:05:40.612Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/nasdaq-100-just-had-one-of-its-most-extreme-intraday-swings-ever",
     "title": "Nasdaq 100 Just Had One of Its Most Extreme Intraday Swings Ever",
     "titleZh": "納斯達克 100 指數剛剛經歷了有史以來最劇烈的盤中波動之一",
@@ -2733,7 +2724,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T03:01:40.680Z"
+    "pushedAt": "2026-11-24T05:05:27.801Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
@@ -3390,7 +3381,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/00bizsun-retiring-save-01-v2-kqfw/00bizsun-retiring-save-01-v2-kqfw-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-24T02:59:58.715Z"
+    "pushedAt": "2026-11-24T05:03:46.569Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
@@ -3606,7 +3597,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T03:01:15.729Z"
+    "pushedAt": "2026-11-24T05:05:02.699Z"
   },
   {
     "id": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8",
@@ -8493,7 +8484,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
     "image": null,
-    "pushedAt": "2026-11-24T02:59:33.763Z"
+    "pushedAt": "2026-11-24T05:03:21.177Z"
   },
   {
     "id": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc",
@@ -8502,7 +8493,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0c61c4-2735-40b5-b13c-db6c73bcbe7d.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T03:00:50.350Z"
+    "pushedAt": "2026-11-24T05:04:37.200Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-nvidia-cannot-rely-on-jensen-huang-video",
@@ -8745,7 +8736,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-trump-nvidia-TOP-tbvl/23dc-trump-nvidia-TOP-tbvl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T03:00:24.420Z"
+    "pushedAt": "2026-11-24T05:04:11.796Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T05:02:52.085Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/the-path-ahead-as-jensen-huang-returns-as-nvidia-s-ceo-video",
+    "title": "The Path Ahead as Jensen Huang Returns as Nvidia’s CEO",
+    "titleZh": "黃仁勳重新擔任 Nvidia 首席執行官，未來之路",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-path-ahead-as-jensen-huang-returns-as-nvidia-s-ceo-video",
+    "image": null,
+    "pushedAt": "2026-11-24T05:05:56.852Z"
   }
 ]
