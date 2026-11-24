@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
-    "title": "New Ph.D. Enrollment in the Sciences Dropped 10 Percent Under Trump",
-    "titleZh": "川普新博士任內科學專業入學率下降 10%",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/us/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-20T19:20:04.490Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
     "title": "Bangladesh is no longer a development superstar",
     "titleZh": "孟加拉不再是發展超級明星",
@@ -8313,7 +8304,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/fujitsu-cto-on-ai-focus-outlook-video",
     "image": null,
-    "pushedAt": "2026-11-24T06:09:15.693Z"
+    "pushedAt": "2026-11-24T08:13:15.533Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-hsbc-trade-digital-gold-in-london-for-the-first-time",
     "image": null,
     "pushedAt": "2026-11-24T08:05:59.758Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/what-s-next-for-huang-nvidia-and-the-ai-trade-video",
+    "title": "What's Next for Huang, Nvidia and the AI Trade? (Video)",
+    "titleZh": "黄仁勋、英伟达和人工智能行业的下一步是什么？ (影片)",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/what-s-next-for-huang-nvidia-and-the-ai-trade-video",
+    "image": null,
+    "pushedAt": "2026-11-24T08:13:40.939Z"
   }
 ]
