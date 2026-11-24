@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/mriqc0txm",
-    "title": "Field Mice on Drugs",
-    "titleZh": "田鼠吸毒",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/mriqc0txm?ref=rss",
-    "image": "https://cdn.flipso.com/p/mriqc0txm_square.jpg",
-    "pushedAt": "2026-11-23T17:38:30.816Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video",
     "title": "How AI is Accelerating Cyberattacks",
     "titleZh": "人工智慧如何加速網路攻擊",
@@ -222,7 +213,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T20:53:30.585Z"
+    "pushedAt": "2026-11-24T23:05:11.079Z"
   },
   {
     "id": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346",
@@ -8448,7 +8439,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
     "image": null,
-    "pushedAt": "2026-11-24T20:53:03.132Z"
+    "pushedAt": "2026-11-24T23:04:46.587Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/boj-likely-to-lift-rate-to-2-by-mid-2027-ex-board-member-says",
     "image": null,
     "pushedAt": "2026-11-24T23:04:18.775Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+    "title": "Why Jensen Huang Was Reinstated at Nvidia",
+    "titleZh": "黃仁勳為何重返 Nvidia",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T23:05:39.401Z"
   }
 ]
