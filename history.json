@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-    "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-    "titleZh": "技术中断仅仅是开始。人工智慧.會帶來更多幹擾。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T09:56:28.097Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html",
-    "title": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-    "titleZh": "川普限制交通資金的新策略：重寫規則",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/2026-11-19-up-transit-grants-index/2026-11-19-up-transit-grants-index-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T04:07:49.550Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
     "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
     "titleZh": "Anthropic 未能平息人工智慧的不安，放棄廚房過感恩節",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-tech-11-24-2026-video",
     "image": null,
     "pushedAt": "2026-11-24T18:45:54.661Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6",
+    "title": "The expanding boundaries of the Ukraine war",
+    "titleZh": "烏克蘭戰爭的邊界不斷擴大",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbcad585-d4de-429b-b723-86abfe70ed39.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T18:46:26.244Z"
+  },
+  {
+    "id": "https://www.ft.com/content/770ea8b8-e272-492b-81f9-72b726d8487e",
+    "title": "Beauty has become a risky business",
+    "titleZh": "美容已成為高風險的事業",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/770ea8b8-e272-492b-81f9-72b726d8487e?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9740bed0-724c-4b71-8539-76bea8bb04d3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T18:46:32.641Z"
   }
 ]
