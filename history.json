@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
-    "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
-    "titleZh": "寶潔公司將增加工廠無人值守班次以削減成本",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T20:26:54.258Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
     "title": "The Case of the Idle Assistants",
     "titleZh": "無所事事的助理案",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/dell-ups-annual-sales-forecast-again-on-rising-ai-server-demand",
     "image": null,
     "pushedAt": "2026-11-24T21:11:53.405Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+    "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+    "titleZh": "伐木和氣候變遷重塑了加拿大的北方森林",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T21:12:23.660Z"
   }
 ]
