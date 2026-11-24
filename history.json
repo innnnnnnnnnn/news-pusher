@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video",
-    "title": "Nvidia Employees Complained About Huang's Behavior Years Ago",
-    "titleZh": "英偉達員工多年前曾抱怨黃的行為",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video",
-    "image": null,
-    "pushedAt": "2026-11-21T09:47:45.426Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/canadian-stocks-head-for-correction-as-metals-tech-push-lower",
     "title": "Canadian Stocks Enter a Correction as Metals, Tech Slip",
     "titleZh": "隨著金屬和科技股走低，加拿大股市走向調整",
@@ -7791,7 +7782,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/75da1516-b0b1-4f40-a67d-992a32208054",
     "image": null,
-    "pushedAt": "2026-11-24T09:35:07.821Z"
+    "pushedAt": "2026-11-24T11:45:05.274Z"
   },
   {
     "id": "https://www.ft.com/content/fa36caaa-85d8-4fac-82d6-a33fba093b28",
@@ -7800,7 +7791,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fa36caaa-85d8-4fac-82d6-a33fba093b28?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T09:35:33.407Z"
+    "pushedAt": "2026-11-24T11:45:29.201Z"
   },
   {
     "id": "https://www.ft.com/content/97e74bf5-081b-4f56-900f-36f1fd3b0e20",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining",
     "image": null,
     "pushedAt": "2026-11-24T11:42:09.964Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/briefing/jensen-huang-returns-nvidia.html",
+    "title": "Too Big to Fail",
+    "titleZh": "太大而不能倒",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/briefing/jensen-huang-returns-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24theheadlines-huang/24theheadlines-huang-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T11:45:55.009Z"
   }
 ]
