@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/41bcd148-4e1f-4071-940e-ba21dc3700df",
-    "title": "Milburn’s £5.8bn youth employment plan rests on ‘leap of faith’",
-    "titleZh": "米爾本 58 億英鎊的青年就業計劃依賴“信仰的飛躍”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/41bcd148-4e1f-4071-940e-ba21dc3700df?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T10:25:23.363Z"
-  },
-  {
     "id": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07",
     "title": "The chip war’s next battleground",
     "titleZh": "晶片大戰的下一個戰場",
@@ -8614,12 +8605,12 @@
   },
   {
     "id": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d",
-    "title": "CrowdStrike bucks Silicon Valley’s infallible-founder trend",
+    "title": "CrowdStrike bucks Silicon Valley’s invincible-founder trend",
     "titleZh": "CrowdStrike 扭轉了矽谷一貫正確的創辦人趨勢",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T13:05:06.967Z"
+    "pushedAt": "2026-11-24T15:16:32.858Z"
   },
   {
     "id": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a",
@@ -8628,7 +8619,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T13:05:10.793Z"
+    "pushedAt": "2026-11-24T15:16:58.426Z"
   },
   {
     "id": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a",
@@ -8636,8 +8627,8 @@
     "titleZh": "黃仁勳的回歸不應阻止美國收緊晶片管制",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a",
-    "image": null,
-    "pushedAt": "2026-11-24T13:05:14.623Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14aca8e5-073b-4533-89f6-ea991c4ab3df.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-24T15:17:23.633Z"
   },
   {
     "id": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
@@ -8646,7 +8637,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
     "image": null,
-    "pushedAt": "2026-11-24T13:05:17.882Z"
+    "pushedAt": "2026-11-24T15:17:48.017Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-american-airlines-01-kcqz/24biz-american-airlines-01-kcqz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T15:16:04.670Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+    "title": "Brazil Real Rallies on Reports Lula Backs Further Spending Curbs",
+    "titleZh": "巴西雷亞爾因盧拉支持進一步限制支出的報告而上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+    "image": null,
+    "pushedAt": "2026-11-24T15:18:15.946Z"
   }
 ]
