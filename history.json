@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742",
-    "title": "Maga dealmaking threatens US-brokered peace in the Balkans",
-    "titleZh": "馬加交易威脅美國斡旋的巴爾幹和平",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0365266-40c7-4cf9-835a-ace89b3c64a3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T21:26:50.739Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028",
-    "title": "Is Trump stuck with Iran forever?",
-    "titleZh": "川普會永遠與伊朗糾纏不休嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-20T21:27:15.465Z"
-  },
-  {
-    "id": "https://www.ft.com/content/42f825e9-3ee1-4285-8194-3445517e8c14",
-    "title": "Betfred blames UK gambling tax rise as it shuts 73 stores",
-    "titleZh": "Betfred 因英國賭博稅上漲而關閉 73 家商店",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/42f825e9-3ee1-4285-8194-3445517e8c14?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T06:26:35.301Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video",
     "title": "Novartis CEO: AI Could Cut Drug Development Time by Years",
     "titleZh": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8dcdad67-d109-4442-a64b-d9305ce13ab7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-24T05:13:22.929Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html",
+    "title": "Savings Bonds Offer Enticing Rates. You Need to Prove Your Identity First.",
+    "titleZh": "儲蓄債券提供誘人的利率。您需要先證明您的身份。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-adviser/20biz-adviser-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-24T05:13:51.478Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
+    "title": "EV Surge Helps Europe Auto Sales Gains to Nine-Month Run",
+    "titleZh": "電動車激增幫助歐洲汽車銷量連續九個月成長",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
+    "image": null,
+    "pushedAt": "2026-11-24T05:13:57.116Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
+    "title": "MSCI Says No Change in Indonesia Market Consultation Process",
+    "titleZh": "MSCI 表示印尼市場磋商流程沒有變化",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
+    "image": null,
+    "pushedAt": "2026-11-24T05:14:01.872Z"
   }
 ]
