@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
-    "title": "Can Anthropic Revive the A.I. Trade?",
-    "titleZh": "人擇可以復興人工智慧嗎？貿易？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20db-amodei-wqtg/20db-amodei-wqtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T03:16:45.195Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
     "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
     "titleZh": "約翰‧格里沙姆：史考特‧科羅姆讓我為密西西比州感到驕傲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
     "image": null,
     "pushedAt": "2026-11-24T03:54:32.635Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/fujitsu-cto-on-ai-focus-outlook-video",
+    "title": "Fujitsu CTO on AI Focus & Outlook",
+    "titleZh": "富士通首席技術長談人工智慧聚焦與展望",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/fujitsu-cto-on-ai-focus-outlook-video",
+    "image": null,
+    "pushedAt": "2026-11-24T04:06:10.858Z"
   }
 ]
