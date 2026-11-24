@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841",
-    "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-    "titleZh": "美國科技股陷入自Covid-19危機以來最糟糕的一周熊市",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-21T21:49:47.666Z"
-  },
-  {
     "id": "https://www.nytimes.com/article/stock-market-correction.html",
     "title": "What Is a Stock Market Correction?",
     "titleZh": "什麼是股市調整？",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
     "image": null,
     "pushedAt": "2026-11-24T12:24:28.557Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+    "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+    "titleZh": "丹麥指控莫斯科策劃攻擊，驅逐俄羅斯外交官",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T12:24:57.032Z"
   }
 ]
