@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374",
-    "title": "Sanctioned Russian ship attacked by drones near Finland",
-    "titleZh": "無人機襲擊後，受制裁的俄羅斯船隻在芬蘭水域起火",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T06:42:44.515Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html",
     "title": "What Machines Love",
     "titleZh": "機器喜歡什麼",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T21:52:28.245Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+    "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+    "titleZh": "COP31 談判因化石燃料衝突在土耳其破裂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-24T21:52:57.820Z"
   }
 ]
