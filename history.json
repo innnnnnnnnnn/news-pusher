@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
-    "title": "How Do You Investigate a President This Corrupt?",
-    "titleZh": "民主黨調查川普的計劃",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/opinion/20eks-garcia-image01/20eks-garcia-image01-mediumSquareAt3X.png",
-    "pushedAt": "2026-11-21T10:51:08.662Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video",
     "title": "Odd Lots: Minerva Co-Founder on the Risks of “Abliterated” Models",
     "titleZh": "奇怪的事情：Minerva 聯合創始人談「被廢除」模型的風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
     "image": null,
     "pushedAt": "2026-11-24T10:53:55.595Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
+    "title": "The return of measles in America",
+    "titleZh": "麻疹在美國捲土重來",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
+    "image": null,
+    "pushedAt": "2026-11-24T10:54:25.317Z"
   }
 ]
