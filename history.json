@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
-    "title": "Price Hikes Set to Lift Materials Companies’ Margins in 2027",
-    "titleZh": "2027 年價格上漲將提升材料公司的利潤率",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
-    "image": null,
-    "pushedAt": "2026-11-20T14:28:15.392Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/stock-selloff-is-total-de-risking-going-on-baird-video",
     "title": "Stock Selloff Is ‘Total De-Risking Going On,’ Baird’s Mortonson Says",
     "titleZh": "貝爾德的莫頓森表示，股票拋售“正在全面降低風險”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/eefd9be8-828e-4a75-a661-b2a4893062e7?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T01:33:35.086Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+    "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+    "titleZh": "隨著 A.I. 股票陷入調整擔憂加劇",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T01:34:04.503Z"
   }
 ]
