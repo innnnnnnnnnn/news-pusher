@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/big-take-can-anthropic-weather-a-shifting-ai-landscape-video",
-    "title": "Big Take: Can Anthropic Weather a Shifting AI Landscape?",
-    "titleZh": "大觀點：Anthropic 能否經得起不斷變化的人工智慧格局？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/big-take-can-anthropic-weather-a-shifting-ai-landscape-video",
-    "image": null,
-    "pushedAt": "2026-11-20T23:02:12.006Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others",
-    "title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
-    "titleZh": "微軟將向頂級雲端員工支付更多工資，並打擊其他員工",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others",
-    "image": null,
-    "pushedAt": "2026-11-20T20:51:13.849Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
     "title": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
     "titleZh": "聯準會庫克認為解決通膨問題日益緊迫",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T10:06:05.920Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+    "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
+    "titleZh": "哈利和梅根在英國作為「非皇室成員」的生活",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-uk-harry-meghan-aaaa/24int-uk-harry-meghan-aaaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:06:35.388Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
+    "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
+    "titleZh": "聯合國領導人關注道路安全這一致命問題",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-safety-inyt-fbhm/25sp-women-safety-inyt-fbhm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:06:41.045Z"
   }
 ]
