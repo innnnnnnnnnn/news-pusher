@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-video",
-    "title": "Anthropic Share Slump Nearly Erases IPO Pop",
-    "titleZh": "Anthropic股價暴跌幾乎消除了IPO熱潮",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-video",
-    "image": null,
-    "pushedAt": "2026-11-20T16:39:11.403Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
     "title": "Inside the Fight Between Native American Tribes and Kalshi",
     "titleZh": "美洲原住民部落與卡爾希之間的鬥爭",
@@ -1365,7 +1356,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T05:39:26.592Z"
+    "pushedAt": "2026-11-24T07:43:05.741Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
@@ -1653,7 +1644,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2006ed77-856d-441e-a877-5f8125b75e95?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T05:39:01.491Z"
+    "pushedAt": "2026-11-24T07:42:40.570Z"
   },
   {
     "id": "https://www.ft.com/content/b647fcba-e5e6-4ca2-8417-8c9146eac39e",
@@ -2364,7 +2355,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T05:39:51.498Z"
+    "pushedAt": "2026-11-24T07:43:30.994Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/commerzbank-weighs-partial-withdrawal-from-us-treasury-market",
     "image": null,
     "pushedAt": "2026-11-24T07:42:11.666Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/ai-bulls-in-asia-get-huang-back-but-the-harder-questions-remain",
+    "title": "AI Bulls in Asia Get Huang Back But the Harder Questions Remain",
+    "titleZh": "亞洲人工智慧牛市讓黃回歸，但更棘手的問題仍然存在",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-bulls-in-asia-get-huang-back-but-the-harder-questions-remain",
+    "image": null,
+    "pushedAt": "2026-11-24T07:43:59.224Z"
   }
 ]
