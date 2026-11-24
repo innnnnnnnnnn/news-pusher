@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
-    "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
-    "titleZh": "巴特比時事通訊：為什麼你沒有被邀請參加那次會議",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
-    "image": null,
-    "pushedAt": "2026-11-23T14:12:21.791Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/novartis-ceo-says-us-china-biotech-curbs-risk-drug-development",
     "title": "Novartis CEO Says US China Biotech Curbs Risk Drug Development",
     "titleZh": "諾華執行長表示美中生物技術遏止風險藥物開發",
@@ -2571,7 +2562,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-letter-wqmp/21int-canada-letter-wqmp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T02:43:41.527Z"
+    "pushedAt": "2026-11-24T04:47:04.472Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
@@ -8475,7 +8466,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video",
     "image": null,
-    "pushedAt": "2026-11-24T02:43:15.016Z"
+    "pushedAt": "2026-11-24T04:46:38.968Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/why-nvidia-ceo-jensen-huang-matters-so-much-to-the-stock-market",
@@ -8754,7 +8745,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-24T02:42:46.481Z"
+    "pushedAt": "2026-11-24T04:46:13.656Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-role-in-huang-s-return-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
     "image": null,
     "pushedAt": "2026-11-24T04:45:44.843Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html",
+    "title": "No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year",
+    "titleZh": "聯邦調查局二號官員據說年底前退休",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-fbi-mlwc/23dc-fbi-mlwc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T04:47:31.390Z"
   }
 ]
