@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-    "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-    "titleZh": "歐洲電力市場對其經濟發出警告",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-    "image": null,
-    "pushedAt": "2026-11-22T08:57:39.578Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
     "title": "How AI Is Reshaping China's Industrial Policy",
     "titleZh": "人工智慧如何重塑中國產業政策",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-board-faces-governance-questions-video",
     "image": null,
     "pushedAt": "2026-11-24T16:26:08.014Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d7a7b7e3-9fe0-45f1-ab12-479b28d509bd",
+    "title": "Black Friday Sale Now On",
+    "titleZh": "黑色星期五促銷活動現已開始",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d7a7b7e3-9fe0-45f1-ab12-479b28d509bd",
+    "image": null,
+    "pushedAt": "2026-11-24T16:26:39.349Z"
   }
 ]
