@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/cloud-infrastructure-firm-cloudferro-is-said-to-weigh-warsaw-ipo",
-    "title": "Cloud Infrastructure Firm CloudFerro Is Said to Weigh Warsaw IPO",
-    "titleZh": "據說雲端基礎設施公司 CloudFerro 正在考慮華沙 IPO",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/cloud-infrastructure-firm-cloudferro-is-said-to-weigh-warsaw-ipo",
-    "image": null,
-    "pushedAt": "2026-11-21T08:23:51.662Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video",
     "title": "Altruist’s Wenk on AI and the Next Era of Financial Advice",
     "titleZh": "Altruist 的 Wenk 談人工智慧與下一個財務建議時代",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/mercuria-hires-alex-humphries-as-global-head-of-fuel-oil-trading-ahead-of-eni-jv",
     "image": null,
     "pushedAt": "2026-11-24T10:31:55.455Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+    "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+    "titleZh": "川普威脅禁止美國科技公司在海外建設資料中心",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-24T10:32:23.343Z"
   }
 ]
