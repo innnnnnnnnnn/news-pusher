@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
-    "title": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum",
-    "titleZh": "高盛表示，隨著恐慌指數接近最高點，股票拋售仍持續",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
-    "image": null,
-    "pushedAt": "2026-11-20T21:28:28.566Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/market-calm-hid-widespread-losses-schwab-s-sonders-says-video",
-    "title": "Market Calm Hid Widespread Losses Under Surface, Schwab's Sonders Says",
-    "titleZh": "施瓦布的桑德斯表示，市場平靜掩蓋了廣泛的損失",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/market-calm-hid-widespread-losses-schwab-s-sonders-says-video",
-    "image": null,
-    "pushedAt": "2026-11-20T21:28:32.902Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video",
-    "title": "Anthropic IPO Could Mark End of the AI Trade",
-    "titleZh": "Anthropic IPO 可能標誌著人工智慧產業的終結",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video",
-    "image": null,
-    "pushedAt": "2026-11-21T02:06:02.998Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/victor-peng-sees-ai-quantum-as-long-term-opportunities-video",
     "title": "Victor Peng Sees AI, Quantum Computing as Long-Term Opportunities",
     "titleZh": "Victor Peng 將人工智慧、量子運算視為長期機遇",
@@ -8430,16 +8403,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-safety-inyt-fbhm/25sp-women-safety-inyt-fbhm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T10:06:41.045Z"
+    "pushedAt": "2026-11-24T12:17:01.631Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html",
-    "title": "The Nvidia Board Just Proved Its Own Irrelevance",
+    "title": "Why the Nvidia Board Folded",
     "titleZh": "Nvidia 董事會剛剛證明了自己的無關緊要",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html",
     "image": null,
-    "pushedAt": "2026-11-24T10:07:34.890Z"
+    "pushedAt": "2026-11-24T12:17:26.061Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
@@ -8448,7 +8421,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24retica-promo-zftk/24retica-promo-zftk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T10:07:41.382Z"
+    "pushedAt": "2026-11-24T12:17:50.075Z"
   },
   {
     "id": "https://flipso.com/p/a51de6c25e6553ff9fc0df02ece70c2a",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
     "image": null,
     "pushedAt": "2026-11-24T12:16:34.505Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9",
+    "title": "EU edges towards Made in Europe deal for UK cars",
+    "titleZh": "歐盟可望達成英國汽車歐洲製造協議",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T12:18:16.896Z"
+  },
+  {
+    "id": "https://www.ft.com/content/94863aab-4c10-4e93-b3d8-63a764efa409",
+    "title": "Bank of Japan to continue rate normalisation in 2027",
+    "titleZh": "日本央行將於 2027 年繼續利率正常化",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/94863aab-4c10-4e93-b3d8-63a764efa409",
+    "image": null,
+    "pushedAt": "2026-11-24T12:18:21.280Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d4902274-2e3d-447a-83b8-312cf7306d56",
+    "title": "Iran flogs singer who performed without hijab",
+    "titleZh": "伊朗鞭打未戴頭巾表演的歌手",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d4902274-2e3d-447a-83b8-312cf7306d56?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T12:18:26.539Z"
   }
 ]
