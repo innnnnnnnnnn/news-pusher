@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64",
-    "title": "Burnham reopened the Brexit debate. He now sees the political dangers ahead",
-    "titleZh": "伯納姆發起了英國脫歐辯論。他現在看到了未來的政治危險",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff878e39c-5d66-4e1d-8fe6-38ebc0742171.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-21T18:12:58.350Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-must-bring-inflation-back-to-2-france-s-moulin-says",
     "title": "ECB Must Bring Inflation Back to 2%, France’s Moulin Says",
     "titleZh": "法國紅磨坊表示，歐洲央行必須將通膨率恢復至 2%",
@@ -24,7 +15,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-24T08:26:24.960Z"
+    "pushedAt": "2026-11-24T10:39:27.544Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
@@ -7872,7 +7863,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-tells-data-centers-to-cut-off-firms-on-us-blacklist",
     "image": null,
-    "pushedAt": "2026-11-24T08:26:50.267Z"
+    "pushedAt": "2026-11-24T10:39:52.720Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/international/2026/11/24/the-war-room-newsletter-is-it-a-drone-or-a-missile",
     "image": null,
     "pushedAt": "2026-11-24T10:36:23.012Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+    "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
+    "titleZh": "日本領導人與美國決裂，為國際刑事法院辯護",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:40:20.185Z"
   }
 ]
