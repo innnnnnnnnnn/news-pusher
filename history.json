@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4ee4411d-3159-4f36-9b03-86f006ee0f1b",
-    "title": "Behind Manchester City’s Apollo talks",
-    "titleZh": "曼城阿波羅會談的背後",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4ee4411d-3159-4f36-9b03-86f006ee0f1b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T23:26:21.479Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
     "title": "A Chinese Tech Hub Offers a Peek at the Electric Cars Headed for Canada",
     "titleZh": "中國科技中心展示運往加拿大的電動車",
@@ -3345,7 +3336,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
     "image": null,
-    "pushedAt": "2026-11-24T14:54:29.033Z"
+    "pushedAt": "2026-11-24T17:03:31.262Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/what-a-town-of-vibecoders-says-about-the-chinese-economy-video",
@@ -6810,7 +6801,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5a756dbf-fd0a-4dfb-81dd-a20069b00505",
     "image": null,
-    "pushedAt": "2026-11-24T14:54:04.403Z"
+    "pushedAt": "2026-11-24T17:03:05.885Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/f6c2d0f7-b096-48fb-96af-931c33ec54ba?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T17:02:37.623Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+    "title": "XAI Founders Unveil New AI Startup to Predict Future Events",
+    "titleZh": "XAI 創辦人推出新的人工智慧新創公司來預測未來事件",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+    "image": null,
+    "pushedAt": "2026-11-24T17:03:59.364Z"
   }
 ]
