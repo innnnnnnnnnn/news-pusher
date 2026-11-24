@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/8jtuk93ab",
-    "title": "Chemistry is Actually Geometry",
-    "titleZh": "化學其實是幾何",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/8jtuk93ab?ref=rss",
-    "image": "https://cdn.flipso.com/p/8jtuk93ab_square.jpg",
-    "pushedAt": "2026-11-22T23:36:19.639Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-drives-internet-providers-to-busiest-day-ever",
     "title": "‘Grand Theft Auto’ Drives Internet Providers to Record Usage",
     "titleZh": "《俠盜獵車手》讓網路供應商迎來有史以來最繁忙的一天",
@@ -3417,7 +3408,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T10:22:42.273Z"
+    "pushedAt": "2026-11-24T12:36:16.523Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
@@ -6630,7 +6621,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
     "image": null,
-    "pushedAt": "2026-11-24T10:23:07.393Z"
+    "pushedAt": "2026-11-24T12:36:41.306Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html",
@@ -7224,7 +7215,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
     "image": null,
-    "pushedAt": "2026-11-24T10:23:32.874Z"
+    "pushedAt": "2026-11-24T12:37:05.588Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/lula-fiscal-plan-approved-in-bid-to-calm-market-after-real-tanks",
@@ -8412,7 +8403,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/drw-plans-asset-management-foray-with-compute-crypto-focus",
     "image": null,
-    "pushedAt": "2026-11-24T10:23:59.740Z"
+    "pushedAt": "2026-11-24T12:37:29.890Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/imf-cuts-botswana-growth-outlook-calls-for-currency-flexibility",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-ai-video",
     "image": null,
     "pushedAt": "2026-11-24T12:34:06.087Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/ai-returns-matter-more-than-nvidia-drama-says-goldman-s-bell",
+    "title": "AI Returns Matter More Than Nvidia Drama, Says Goldman’s Bell",
+    "titleZh": "高盛貝爾表示，人工智慧的回報比英偉達的戲劇更重要",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-returns-matter-more-than-nvidia-drama-says-goldman-s-bell",
+    "image": null,
+    "pushedAt": "2026-11-24T12:37:58.438Z"
   }
 ]
