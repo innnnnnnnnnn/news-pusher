@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-    "titleZh": "誰是墨西哥毒梟「矮子伊西德羅」？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T18:29:10.393Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
     "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
     "titleZh": "在法國憤怒的秋天，電視新聞頻道被指責攪局",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/ai-is-a-financing-story",
     "image": null,
     "pushedAt": "2026-11-24T18:44:12.229Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+    "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+    "titleZh": "Anthropic 的首次亮相顯示了華爾街與矽谷之間的脫節",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:44:41.204Z"
   }
 ]
