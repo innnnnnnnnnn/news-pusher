@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/briefing/the-most-important-days.html",
-    "title": "The Most Important Days",
-    "titleZh": "最重要的日子",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/briefing/the-most-important-days.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20themorning-nl-10days-01/20themorning-nl-10days-01-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-20T18:52:56.849Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-20/plan-to-alter-unstainable-us-debt-trajectory",
     "title": "Plan to Alter Unstainable US Debt Trajectory",
     "titleZh": "改變不可持續的美國債務軌跡的計劃",
@@ -1464,7 +1455,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-23T22:41:10.146Z"
+    "pushedAt": "2026-11-24T00:48:40.330Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
@@ -6360,7 +6351,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/macron-suggests-golden-rule-for-french-budget-boosting-bonds",
     "image": null,
-    "pushedAt": "2026-11-23T22:40:44.477Z"
+    "pushedAt": "2026-11-24T00:48:14.832Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/five-charts-unpack-one-of-the-worst-weeks-for-stocks-in-decades",
@@ -7971,7 +7962,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T22:40:19.206Z"
+    "pushedAt": "2026-11-24T00:47:50.053Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/zscaler-s-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal",
@@ -8736,7 +8727,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/katy-kaminsky-reacts-to-nvda-surge-after-huang-returns-video",
     "image": null,
-    "pushedAt": "2026-11-23T22:41:39.143Z"
+    "pushedAt": "2026-11-24T00:49:05.536Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/ai-linked-stocks-take-off-as-nvidia-brings-back-jensen-huang",
@@ -8745,7 +8736,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/ai-linked-stocks-take-off-as-nvidia-brings-back-jensen-huang",
     "image": null,
-    "pushedAt": "2026-11-23T22:41:46.084Z"
+    "pushedAt": "2026-11-24T00:49:30.476Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade",
     "image": null,
     "pushedAt": "2026-11-24T00:43:33.416Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-role-in-huang-s-return-video",
+    "title": "Trump’s Role in Huang’s Return",
+    "titleZh": "川普在黃的回歸中扮演的角色",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-role-in-huang-s-return-video",
+    "image": null,
+    "pushedAt": "2026-11-24T00:49:59.279Z"
   }
 ]
