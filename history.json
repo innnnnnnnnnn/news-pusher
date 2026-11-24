@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html",
-    "title": "The Faces of the 2026 DealBook Summit",
-    "titleZh": "2026 年 DealBook 高峰會的面孔",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DB-Portraits-1-02-hqvc/21DB-Portraits-1-02-hqvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T16:30:11.731Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
     "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
     "titleZh": "二手車產業正在蓬勃發展。新澤西校區正在定價。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-butlerschool-promo-jvwm/00xp-butlerschool-promo-jvwm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T16:42:38.659Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
+    "title": "How to Plan for an A.I. Emergency, or Any Calamity",
+    "titleZh": "如何規劃人工智慧緊急情況或任何災難",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/business/21sunbiz-aiprep-illo/21sunbiz-aiprep-illo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T16:43:06.468Z"
   }
 ]
