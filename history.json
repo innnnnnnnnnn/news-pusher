@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims",
-    "title": "YouTube Finalizing Multibillion-Dollar Schools Settlement Over Addiction Claims",
-    "titleZh": "YouTube 與學校達成數十億美元的成癮索賠和解協議",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims",
-    "image": null,
-    "pushedAt": "2026-11-20T20:22:27.480Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/apple-working-on-own-ai-agent-to-rival-anthropic-video",
     "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
     "titleZh": "蘋果正在開發自己的 AI 代理來對抗 OpenAI 和 Anthropic",
@@ -1581,7 +1572,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
     "image": null,
-    "pushedAt": "2026-11-24T07:50:12.916Z"
+    "pushedAt": "2026-11-24T09:59:36.157Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
@@ -1590,7 +1581,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T07:51:27.841Z"
+    "pushedAt": "2026-11-24T10:00:51.948Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
@@ -5001,7 +4992,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/euro-zone-activity-holds-steady-as-germany-offsets-french-slump",
     "image": null,
-    "pushedAt": "2026-11-24T07:49:47.856Z"
+    "pushedAt": "2026-11-24T09:59:11.305Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/futures-rally-following-ai-selloff-havens-decline",
@@ -5478,7 +5469,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/economists-more-accurate-on-india-inflation-after-index-overhaul",
     "image": null,
-    "pushedAt": "2026-11-24T07:50:37.821Z"
+    "pushedAt": "2026-11-24T10:00:01.950Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/the-pulse-with-francine-lacqua-11-23-2026-video",
@@ -7287,7 +7278,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/fed-s-watchdog-probes-whether-bowman-broke-communications-rules",
     "image": null,
-    "pushedAt": "2026-11-24T07:51:02.901Z"
+    "pushedAt": "2026-11-24T10:00:27.180Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/xiaomi-s-sales-slip-after-memory-shortages-weigh-on-smartphones",
     "image": null,
     "pushedAt": "2026-11-24T09:53:41.200Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+    "title": "An Arctic Way of Life Fades as Norway Closes Its Last Coal Mine",
+    "titleZh": "隨著挪威關閉最後一個煤礦，北極的生活方式也逐漸消失",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-norway-coalmine-kplj/20int-norway-coalmine-kplj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:01:19.944Z"
   }
 ]
