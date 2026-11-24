@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
-    "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
-    "titleZh": "五角大廈發布備忘錄限制與加拿大軍方的“社交活動”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T18:32:33.532Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
-    "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
-    "titleZh": "Crowdstrike 與 Zscaler 的會談展示了 AI 主導的網路整合",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
-    "image": null,
-    "pushedAt": "2026-11-22T18:49:27.669Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
     "title": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
     "titleZh": "陸軍計劃引爆大量有毒炸藥。它拒絕了更安全的選擇。",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/coreweave-bonds-hit-all-time-lows-erasing-nvidia-fueled-gains",
     "image": null,
     "pushedAt": "2026-11-24T19:08:17.602Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+    "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+    "titleZh": "官員稱，胡塞武裝襲擊沙烏地阿拉伯首都摩天大樓造成 11 人受傷",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T19:22:15.406Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
+    "title": "Trend Followers Dump Bond Shorts as Stocks Swoon Aids Haven Bids",
+    "titleZh": "股市低迷有助於避險買盤，趨勢追蹤者拋售債券空頭",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
+    "image": null,
+    "pushedAt": "2026-11-24T19:22:21.605Z"
   }
 ]
