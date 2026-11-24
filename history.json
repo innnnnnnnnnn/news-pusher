@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
-    "title": "Anthropic IPO Fails to Calm AI Jitters",
-    "titleZh": "人為 IPO 未能平息人工智慧的不安",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
-    "image": null,
-    "pushedAt": "2026-11-22T12:16:35.759Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
     "title": "Trump’s Putin Outreach Tests Ukraine Talks",
     "titleZh": "川普的普丁外展考驗烏克蘭談判",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T17:53:27.717Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+    "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
+    "titleZh": "聯合國未能監管致命自主武器，但計劃再次嘗試",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T17:53:56.037Z"
   }
 ]
