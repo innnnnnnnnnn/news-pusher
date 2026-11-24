@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-    "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-    "titleZh": "台灣喜劇演員因嘲笑習近平而吸引大批觀眾",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T18:54:18.386Z"
-  },
-  {
     "id": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a",
     "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
     "titleZh": "拿破崙對 Nvidia 黃仁勳的警告",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/new-venue-fast-more-efficient-andrew-cuomo-video",
     "image": null,
     "pushedAt": "2026-11-24T19:57:43.552Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+    "titleZh": "美國麻將與中國麻將：為何競爭引發爭議",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T19:58:12.268Z"
   }
 ]
