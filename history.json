@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87",
-    "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
-    "titleZh": "人類工作人員聲稱數學黎曼假設的解決方案",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F636c07e5-b5f8-4b5f-b558-673a4a562fa7.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-20T20:46:53.593Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
-    "title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
-    "titleZh": "阿根廷遭受全球動盪重創，債券陷入困境",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
-    "image": null,
-    "pushedAt": "2026-11-20T21:36:28.221Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/big-take-can-anthropic-weather-a-shifting-ai-landscape-video",
     "title": "Big Take: Can Anthropic Weather a Shifting AI Landscape?",
     "titleZh": "大觀點：Anthropic 能否經得起不斷變化的人工智慧格局？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T10:05:36.147Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
+    "title": "The EU reset is crucial for British business",
+    "titleZh": "歐盟重置對英國企業至關重要",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
+    "image": null,
+    "pushedAt": "2026-11-24T10:06:04.010Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+    "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+    "titleZh": "被指控監視英偉達執行長的愛麗絲黃與與中國軍方有聯繫的公司有聯繫",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T10:06:05.920Z"
   }
 ]
