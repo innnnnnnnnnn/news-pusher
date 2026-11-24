@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
-    "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
-    "titleZh": "中國出生的神經科學家在參加會議後被 ICE 拘留",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:43:18.619Z"
-  },
-  {
     "id": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
     "title": "Trump considering new Iran strikes as US military warns of strain on forces",
     "titleZh": "川普考慮對伊朗發動新的打擊，美國軍方警告部隊緊張",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-pulse-with-francine-lacqua-11-24-2026-video",
     "image": null,
     "pushedAt": "2026-11-24T11:34:06.821Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
+    "title": "Huang’s Return Hits the Reset Button for AI Bets",
+    "titleZh": "黃的回歸按下了人工智慧投注的重置按鈕",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
+    "image": null,
+    "pushedAt": "2026-11-24T11:34:37.545Z"
   }
 ]
