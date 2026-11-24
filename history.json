@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-    "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-    "titleZh": "圍繞化石燃料的激烈衝突導致聯合國氣候談判脫軌",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-24T20:52:36.541Z"
-  },
-  {
     "id": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374",
     "title": "Sanctioned Russian ship attacked by drones near Finland",
     "titleZh": "無人機襲擊後，受制裁的俄羅斯船隻在芬蘭水域起火",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T21:52:00.744Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244",
+    "title": "Will Anthropic buck the tech sell-off?",
+    "titleZh": "Anthropic 會頂住科技股的拋售嗎？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T21:52:28.245Z"
   }
 ]
