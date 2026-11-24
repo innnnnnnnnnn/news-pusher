@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
-    "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
-    "titleZh": "史蒂維旺德演奏《生命的鑰匙》，邀請大家一起分享他的喜悅",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/arts/20cul-stevie-wonder-02/20cul-stevie-wonder-02-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-21T09:18:58.046Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
     "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
     "titleZh": "人擇數學家聲稱已經解決了數學最著名的問題",
@@ -8439,7 +8430,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
     "image": null,
-    "pushedAt": "2026-11-24T10:54:25.317Z"
+    "pushedAt": "2026-11-24T13:01:33.140Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/actuate-to-invest-327-million-in-spain-s-largest-battery-deal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-opening-trade-11-24-2026-video",
     "image": null,
     "pushedAt": "2026-11-24T12:54:03.919Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/uber-nuro-to-start-driverless-testing-of-lucid-robotaxis-in-the-bay-area",
+    "title": "Uber, Nuro to Start Driverless Testing of Lucid Robotaxis in the Bay Area",
+    "titleZh": "Uber 和 Nuro 將在灣區開始 Lucid Robotaxis 的無人駕駛測試",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/uber-nuro-to-start-driverless-testing-of-lucid-robotaxis-in-the-bay-area",
+    "image": null,
+    "pushedAt": "2026-11-24T13:02:00.662Z"
   }
 ]
