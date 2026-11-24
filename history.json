@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
-    "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff: Live Updates",
-    "titleZh": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
-    "image": null,
-    "pushedAt": "2026-11-20T16:06:50.078Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
     "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
     "titleZh": "巴特比時事通訊：為什麼你沒有被邀請參加那次會議",
@@ -1167,7 +1158,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
-    "pushedAt": "2026-11-24T02:41:29.438Z"
+    "pushedAt": "2026-11-24T04:44:24.365Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
@@ -1608,7 +1599,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T02:41:54.364Z"
+    "pushedAt": "2026-11-24T04:44:49.583Z"
   },
   {
     "id": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841",
@@ -3192,7 +3183,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T02:42:19.519Z"
+    "pushedAt": "2026-11-24T04:45:15.629Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
     "image": null,
     "pushedAt": "2026-11-24T04:43:55.856Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+    "title": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+    "titleZh": "油價下跌緩和通膨擔憂，國債上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+    "image": null,
+    "pushedAt": "2026-11-24T04:45:44.843Z"
   }
 ]
