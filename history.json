@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/cl3sj395w",
-    "title": "Mosquitoes are Ladakh’s latest tourists",
-    "titleZh": "蚊子是拉達克最新的遊客",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/cl3sj395w?ref=rss",
-    "image": "https://cdn.flipso.com/p/cl3sj395w_square.jpg",
-    "pushedAt": "2026-11-23T16:41:30.976Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
     "title": "Wall Street Confronts AI Reality Check",
     "titleZh": "華爾街面臨人工智慧現實檢驗",
@@ -672,7 +663,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00biz-screwworm-cases-01-jpfh/00biz-screwworm-cases-01-jpfh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T15:47:15.129Z"
+    "pushedAt": "2026-11-24T18:01:12.212Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
@@ -681,7 +672,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-24T15:48:29.105Z"
+    "pushedAt": "2026-11-24T18:02:25.654Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/tower-records-becomes-latest-japan-retailer-hit-by-data-breach",
@@ -1437,7 +1428,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-24T15:47:40.056Z"
+    "pushedAt": "2026-11-24T18:01:36.756Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/san-francisco-faces-historic-flood-threat-as-major-storm-nears",
@@ -4362,7 +4353,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/23/bartleby-newsletter-valley-mentality",
     "image": null,
-    "pushedAt": "2026-11-24T15:48:04.353Z"
+    "pushedAt": "2026-11-24T18:02:01.467Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/david-herro-on-nvidia-s-ceo-shakeup-video",
@@ -6261,7 +6252,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbb901efc-fad4-41a0-8321-cfd118813702.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T15:48:53.874Z"
+    "pushedAt": "2026-11-24T18:02:50.904Z"
   },
   {
     "id": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057",
@@ -6279,7 +6270,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76df8b6a-d30a-41a7-aced-1408c31bcf0b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T15:49:18.946Z"
+    "pushedAt": "2026-11-24T18:03:15.518Z"
   },
   {
     "id": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T18:00:44.640Z"
+  },
+  {
+    "id": "https://www.economist.com/leaders/2026/11/24/jensen-huang-and-the-age-of-impunity",
+    "title": "Jensen Huang and the age of impunity",
+    "titleZh": "黃仁勳與有罪不罰的時代",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/leaders/2026/11/24/jensen-huang-and-the-age-of-impunity",
+    "image": null,
+    "pushedAt": "2026-11-24T18:03:42.917Z"
   }
 ]
