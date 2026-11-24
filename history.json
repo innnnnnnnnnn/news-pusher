@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-    "titleZh": "在法國憤怒的秋天，電視新聞頻道被指責攪局",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T18:29:34.945Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
-    "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-    "titleZh": "法官批准農達致癌索賠 70 億美元和解金",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T18:30:30.275Z"
-  },
-  {
-    "id": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
-    "title": "Alice Huang’s links to the chip underworld",
-    "titleZh": "Alice Huang 與晶片黑社會的聯繫",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:02:39.995Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
     "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
     "titleZh": "加州 Nvidia 調查涉及潛在的刑法違法行為",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T18:44:41.204Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+    "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+    "titleZh": "黃仁勳向 Nvidia 員工道歉並表示正在接受治療",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:45:10.400Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
+    "title": "‘Smells Like Home’: An Old-School Grocery Is Set to Close After 99 Years",
+    "titleZh": "《聞起來像家》：一家經營 99 年的老式雜貨店即將關門",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24met-zingones-01-thpf/24met-zingones-01-thpf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:45:15.501Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+    "titleZh": "誰是墨西哥毒梟「矮子伊西德羅」？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T18:45:17.994Z"
   }
 ]
