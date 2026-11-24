@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e",
-    "title": "’Tis the season to be grateful to China",
-    "titleZh": "這是感恩中國的季節",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-21T08:54:02.482Z"
-  },
-  {
-    "id": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-    "title": "America must get serious about Chinese chip spying",
-    "titleZh": "美國必須認真對待中國芯片間諜活動",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-    "image": null,
-    "pushedAt": "2026-11-24T08:54:16.623Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
-    "title": "ETFs Across the AI Ecosystem",
-    "titleZh": "人工智慧生態系統中的 ETF",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
-    "image": null,
-    "pushedAt": "2026-11-20T19:40:43.730Z"
-  },
-  {
     "id": "https://flipso.com/p/r3hx4i0t8",
     "title": "The triumph of logical English",
     "titleZh": "邏輯英語的勝利",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/thanksgiving-dinner-costs-more-this-year-with-grocery-prices-rising",
     "image": null,
     "pushedAt": "2026-11-24T11:01:52.323Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+    "title": "Meet the European Central Bank’s new squad",
+    "titleZh": "認識歐洲央行的新陣容",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+    "image": null,
+    "pushedAt": "2026-11-24T11:02:20.965Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+    "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+    "titleZh": "惡魔還是令人愉快？坎卜斯被禁止參加聖誕遊行。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20xp-krampus/20xp-krampus-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T11:02:24.015Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
+    "title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
+    "titleZh": "感恩節來臨之際，雜貨價格上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
+    "image": null,
+    "pushedAt": "2026-11-24T11:02:29.066Z"
   }
 ]
