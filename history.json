@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
-    "title": "Nvidia Board Faces a Governance Reckoning",
-    "titleZh": "英偉達董事會面臨治理清算",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
-    "image": null,
-    "pushedAt": "2026-11-23T08:46:01.266Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
-    "title": "Fed’s Inflation Fight May Require More Hikes",
-    "titleZh": "聯準會應對通膨可能需要更多升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
-    "image": null,
-    "pushedAt": "2026-11-22T22:14:09.116Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
     "title": "GTA VI Takes Over Thanksgiving Week",
     "titleZh": "GTA VI 接手感恩節週",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video",
     "image": null,
     "pushedAt": "2026-11-24T22:58:06.384Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+    "titleZh": "阿布雷戈·加西亞將自願離開美國，結束長達20個月的法律考驗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T22:58:36.175Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+    "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
+    "titleZh": "電子郵件顯示，檢察官敦促司法部重新考慮對逃犯的指控",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T22:58:39.711Z"
   }
 ]
