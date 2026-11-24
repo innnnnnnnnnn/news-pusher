@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
-    "title": "Xi needs Trump more than ever",
-    "titleZh": "習近平比以往任何時候都更需要川普",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
-    "image": null,
-    "pushedAt": "2026-11-24T21:46:12.759Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-22/why-your-health-insurance-keeps-getting-more-expensive-video",
     "title": "Why Your Health Insurance Keeps Getting More Expensive",
     "titleZh": "為什麼您的健康保險越來越貴",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
     "image": null,
     "pushedAt": "2026-11-24T22:14:38.355Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+    "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+    "titleZh": "佐蘭馬姆達尼 (Zohran Mamdani) 談川普、華爾街和財富稅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22DB-mamdani-kmcp/22DB-mamdani-kmcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T22:15:07.629Z"
   }
 ]
