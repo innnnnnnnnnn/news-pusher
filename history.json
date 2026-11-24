@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
-    "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
-    "titleZh": "Anthropic 及其銀行家在首次公開發行後是否做出了重大決策錯誤？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a46862c-e7c4-4b99-affa-c9b023dde8f8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T03:21:40.078Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
     "title": "Asian Stock Rout Eases as State Support Measures Soothe Jitters",
     "titleZh": "中國將保證金要求降至 80% 以增加股票流動性",
@@ -1455,7 +1446,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "image": null,
-    "pushedAt": "2026-11-24T18:57:59.313Z"
+    "pushedAt": "2026-11-24T21:27:33.650Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
@@ -5883,7 +5874,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
     "image": null,
-    "pushedAt": "2026-11-24T18:58:24.438Z"
+    "pushedAt": "2026-11-24T21:27:58.333Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/worldremit-founder-takes-aim-at-global-migrant-banking-market",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-24T21:27:06.173Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs",
+    "title": "HP Gives Profit Forecast Signaling Better Handle on Memory Costs",
+    "titleZh": "惠普發布利潤預測，顯示其可以更好地控制記憶體成本",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs",
+    "image": null,
+    "pushedAt": "2026-11-24T21:28:27.499Z"
   }
 ]
