@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
-    "title": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-    "titleZh": "伊隆馬斯克談他的政治、潛在的合併和烏克蘭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DB-musk-thgp/21DB-musk-thgp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T15:21:21.643Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
     "title": "Anthropic Makes Its Public Market Debut",
     "titleZh": "Anthropic 首次公開市場",
@@ -5730,7 +5721,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T15:19:32.351Z"
+    "pushedAt": "2026-11-24T17:32:58.562Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
@@ -8421,7 +8412,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/retailers-post-strong-earnings-ahead-of-holidays-video",
     "image": null,
-    "pushedAt": "2026-11-24T15:19:59.251Z"
+    "pushedAt": "2026-11-24T17:33:22.854Z"
   },
   {
     "id": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07",
@@ -8430,7 +8421,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T15:20:27.741Z"
+    "pushedAt": "2026-11-24T17:33:46.894Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-dips-below-ipo-price-in-sharp-tech-reversal-video",
     "image": null,
     "pushedAt": "2026-11-24T17:32:30.899Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-chief-warns-of-oil-passthrough-sticky-inflation",
+    "title": "Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation",
+    "titleZh": "加拿大央行行長警告石油傳遞和黏性通膨",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-chief-warns-of-oil-passthrough-sticky-inflation",
+    "image": null,
+    "pushedAt": "2026-11-24T17:34:15.266Z"
   }
 ]
