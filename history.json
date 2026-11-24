@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
-    "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
-    "titleZh": "隨著投資人拋售科技股，標普、道瓊指數陷入調整",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
-    "image": null,
-    "pushedAt": "2026-11-21T11:37:09.504Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
-    "title": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
-    "titleZh": "新罕布夏州高級選舉官員重申打算保留全國首個初選",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T00:52:19.729Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
-    "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
-    "titleZh": "川普稱黃在「重大道歉」後應重返英偉達",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
-    "image": null,
-    "pushedAt": "2026-11-21T11:45:03.634Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
-    "title": "‘Always Remain Liquid’: Richards",
-    "titleZh": "「始終保持流動性」：理查茲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
-    "image": null,
-    "pushedAt": "2026-11-21T13:58:12.298Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
     "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
     "titleZh": "Scribe 執行長 Jennifer Smith 談人工智慧在工作場所的使用",
@@ -6666,7 +6630,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/peru-s-gdp-growth-tops-3-in-third-quarter-in-boon-for-fujimori",
     "image": null,
-    "pushedAt": "2026-11-24T10:56:33.881Z"
+    "pushedAt": "2026-11-24T13:04:40.570Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video",
     "image": null,
     "pushedAt": "2026-11-24T13:04:12.791Z"
+  },
+  {
+    "id": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d",
+    "title": "CrowdStrike bucks Silicon Valley’s infallible-founder trend",
+    "titleZh": "CrowdStrike 扭轉了矽谷一貫正確的創辦人趨勢",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T13:05:06.967Z"
+  },
+  {
+    "id": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a",
+    "title": "Dealing with an energy market both tight and loose",
+    "titleZh": "因應能源市場緊張與寬鬆的關係",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-24T13:05:10.793Z"
+  },
+  {
+    "id": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a",
+    "title": "Jensen Huang’s return should not stop tighter US chip controls",
+    "titleZh": "黃仁勳的回歸不應阻止美國收緊晶片管制",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a",
+    "image": null,
+    "pushedAt": "2026-11-24T13:05:14.623Z"
+  },
+  {
+    "id": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
+    "title": "BlackRock wants to launch private market ETFs. Because of course it does",
+    "titleZh": "貝萊德希望推出私募市場 ETF。因為當然是這樣",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
+    "image": null,
+    "pushedAt": "2026-11-24T13:05:17.882Z"
   }
 ]
