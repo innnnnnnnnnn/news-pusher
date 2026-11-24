@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
-    "title": "The Case of the Idle Assistants",
-    "titleZh": "無所事事的助理案",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22SunBiz-WORKFRIEND-kwtq/22SunBiz-WORKFRIEND-kwtq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T20:29:00.915Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
     "title": "Looking for the Formula to Stop an Apocalypse",
     "titleZh": "尋找阻止世界末日的方法",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
     "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T21:12:23.660Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+    "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+    "titleZh": "寶潔公司將增加無人工廠轉移以削減成本",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T21:12:53.581Z"
   }
 ]
