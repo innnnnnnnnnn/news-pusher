@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-    "title": "Looking for the Formula to Stop an Apocalypse",
-    "titleZh": "尋找阻止世界末日的方法",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T20:29:25.110Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
     "title": "Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise",
     "titleZh": "隨著螺旋蟲病例增加，農業部長宣布美國牛隻供應安全",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T21:12:53.581Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+    "title": "The Case of the Idle Assistants",
+    "titleZh": "無所事事的助理案",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22SunBiz-WORKFRIEND-kwtq/22SunBiz-WORKFRIEND-kwtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T21:13:23.016Z"
   }
 ]
