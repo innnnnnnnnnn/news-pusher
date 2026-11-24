@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
-    "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
-    "titleZh": "約翰‧格里沙姆：史考特‧科羅姆讓我為密西西比州感到驕傲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/20grisham-kwgv/20grisham-kwgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-21T11:42:59.054Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-20/mmg-faces-beefed-up-eu-evidence-citing-concerns-over-anglo-deal",
     "title": "MMG Faces Beefed Up EU Evidence Citing Concerns Over Anglo Deal",
     "titleZh": "MMG 面臨歐盟強化證據，理由是對英美協議的擔憂",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/fujitsu-cto-on-ai-focus-outlook-video",
     "image": null,
     "pushedAt": "2026-11-24T04:06:10.858Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
+    "title": "Can Anthropic Revive the A.I. Trade?",
+    "titleZh": "人擇可以復興人工智慧嗎貿易？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20db-amodei-wqtg/20db-amodei-wqtg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-24T04:06:40.175Z"
   }
 ]
