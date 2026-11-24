@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95",
-    "title": "India’s $126bn insurance sector slams proposed commission cap",
-    "titleZh": "印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T03:35:24.150Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan",
     "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
     "titleZh": "澳洲反對派呼籲改變天然氣儲備計劃",
@@ -402,7 +393,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T17:15:23.914Z"
+    "pushedAt": "2026-11-24T19:40:46.179Z"
   },
   {
     "id": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023",
@@ -4416,7 +4407,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:16:19.721Z"
+    "pushedAt": "2026-11-24T19:41:35.570Z"
   },
   {
     "id": "https://www.ft.com/content/91cee968-66d0-4c48-b453-47b17f7443d2",
@@ -8493,7 +8484,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-backed-startup-led-by-ex-hg-executives-pushes-europe-to-build-ai-edge",
     "image": null,
-    "pushedAt": "2026-11-24T17:15:51.997Z"
+    "pushedAt": "2026-11-24T19:41:10.854Z"
   },
   {
     "id": "https://flipso.com/p/ee864d553531511481097a470aa8f838",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-breaches-pvwg/24dc-breaches-pvwg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T19:40:18.293Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
+    "title": "Most Fed Regional Boards Wanted to Raise Rates in October",
+    "titleZh": "大多數聯準會地區委員會希望在 10 月升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
+    "image": null,
+    "pushedAt": "2026-11-24T19:42:03.797Z"
   }
 ]
