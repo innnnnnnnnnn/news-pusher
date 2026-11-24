@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/thailand-plans-to-ban-exports-of-chemicals-as-it-tackles-pollution",
-    "title": "Thailand Plans to Ban Exports of Chemicals as It Tackles Pollution",
-    "titleZh": "泰國計劃禁止化學物質出口以解決污染問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/thailand-plans-to-ban-exports-of-chemicals-as-it-tackles-pollution",
-    "image": null,
-    "pushedAt": "2026-11-22T06:20:48.244Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
     "title": "China Investigates CNPC Deputy General Manager for Corruption",
     "titleZh": "中國石油副總經理涉嫌貪腐被立案調查",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-24T19:50:23.309Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+    "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+    "titleZh": "中國間諜將目光投向人工智慧Nvidia 醜聞發生前幾年的晶片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-24T19:50:52.659Z"
   }
 ]
