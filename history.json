@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0",
-    "title": "Nvidia affair puts Chinese spies in spotlight",
-    "titleZh": "英偉達事件讓中國間諜成為焦點",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-22T04:18:00.067Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
     "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
     "titleZh": "跟隨西班牙首相，努力取得勝利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/eu-seeks-to-fine-bulgaria-over-deficit-months-after-euro-entry",
     "image": null,
     "pushedAt": "2026-11-24T14:39:31.017Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-24/shenzhen-conquered-tech-now-it-wants-culture-video",
+    "title": "Shenzhen conquered tech, now it wants culture (Video)",
+    "titleZh": "深圳征服了科技，現在它需要文化（視訊）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/shenzhen-conquered-tech-now-it-wants-culture-video",
+    "image": null,
+    "pushedAt": "2026-11-24T14:40:01.378Z"
   }
 ]
