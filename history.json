@@ -1,194 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
-    "title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
-    "titleZh": "國債與股票的負相關性又回來了：道富銀行",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
-    "image": null,
-    "pushedAt": "2026-11-23T02:33:02.610Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
-    "title": "AI Investment Adding to Inflation: Jain",
-    "titleZh": "人工智慧投資加劇通膨：Jain",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
-    "image": null,
-    "pushedAt": "2026-11-23T09:16:17.465Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
-    "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
-    "titleZh": "為什麼民主黨人阿卜杜勒·賽義德大肆談論“特朗普醫改”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-23T16:44:19.036Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-    "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
-    "titleZh": "隨著交易員減少對近期聯準會升息的押注，金價反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-    "image": null,
-    "pushedAt": "2026-11-23T22:46:54.333Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
-    "title": "Is Mexico Stepping Up in the War on Drugs?",
-    "titleZh": "墨西哥正在加強禁毒戰爭嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T04:08:17.724Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-    "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
-    "titleZh": "以色列政治領袖在西岸襲擊後譴責“猶太恐怖主義”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T04:30:18.233Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-    "title": "Wall Street Set to Bounce Back After Tech Sell-Off",
-    "titleZh": "標準普爾 500 指數期貨在艱難的一周後上漲",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-markets-jvtl/22biz-markets-jvtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T12:38:57.527Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff",
-    "title": "Emerging Assets Rebound as Huang Comeback Revives Risk Appetite",
-    "titleZh": "人工智慧拋售導致新興市場股票將抹去 2026 年的漲幅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff",
-    "image": null,
-    "pushedAt": "2026-11-23T23:42:08.782Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-    "title": "Copper Steadies Above $12,000 After Meltdown Driven by AI Rout",
-    "titleZh": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-    "image": null,
-    "pushedAt": "2026-11-23T12:34:41.908Z"
-  },
-  {
-    "id": "https://flipso.com/p/p1gp9olds",
-    "title": "mass destruction of weapons",
-    "titleZh": "大規模毀滅性武器",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/p1gp9olds?ref=rss",
-    "image": "https://cdn.flipso.com/p/p1gp9olds_square.jpg",
-    "pushedAt": "2026-11-23T17:50:33.194Z"
-  },
-  {
-    "id": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc",
-    "title": "Nasdaq jumps 7% as Nvidia shares soar",
-    "titleZh": "亞洲科技股拋售加劇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T04:53:27.379Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
-    "title": "Why Asia Market Stabilization Measures May Not Be Enough",
-    "titleZh": "為什麼亞洲市場穩定措施可能不夠",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
-    "image": null,
-    "pushedAt": "2026-11-23T04:08:31.802Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/icici-prudential-seeks-800-million-as-alternatives-push-grows",
-    "title": "ICICI Prudential Seeks $800 Million as Alternatives Push Grows",
-    "titleZh": "隨著另類投資的推動，ICICI Prudential 尋求 8 億美元融資",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/icici-prudential-seeks-800-million-as-alternatives-push-grows",
-    "image": null,
-    "pushedAt": "2026-11-23T04:16:15.562Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
-    "title": "Asia Market Measures May Buffer Stock Losses: BNP",
-    "titleZh": "亞洲市場措施可能會緩衝庫存損失：法國巴黎銀行",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
-    "image": null,
-    "pushedAt": "2026-11-23T04:19:14.437Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
-    "title": "China’s Record State Fund Rescue Masks Deepening Investor Gloom",
-    "titleZh": "隨著潰敗加劇，中國國家基金加大 ETF 購買力度，創歷史新高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
-    "image": null,
-    "pushedAt": "2026-11-23T06:25:41.702Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
-    "title": "Taiwan Stocks See Biggest Leverage Unwind in at Least 30 Years",
-    "titleZh": "台灣股市出現至少 30 年來最大的槓桿解除",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
-    "image": null,
-    "pushedAt": "2026-11-23T04:23:53.407Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
-    "title": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
-    "titleZh": "印度的 Nifty 在全球股市和黃金罕見的共同拋售中脫穎而出",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
-    "image": null,
-    "pushedAt": "2026-11-23T04:45:34.441Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
-    "title": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
-    "titleZh": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
-    "image": null,
-    "pushedAt": "2026-11-23T04:45:59.135Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
-    "title": "MSCI Aired Avoiding Indonesia Downgrade With Prabowo, Dalio",
-    "titleZh": "MSCI 與 Prabowo、Dalio 討論避免印尼評級下調",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
-    "image": null,
-    "pushedAt": "2026-11-23T10:04:48.736Z"
-  },
-  {
-    "id": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614",
-    "title": "BYD hit after court bars SUV from EU over Land Rover design copy",
-    "titleZh": "SUV因抄襲路虎設計被歐盟禁止進入 比亞迪股價下跌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T00:01:23.499Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
-    "title": "European Gas Surges as Cold Snap Threatens Tight Winter Supplies",
-    "titleZh": "寒流威脅庫存緊張，歐洲天然氣價格飆升",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
-    "image": null,
-    "pushedAt": "2026-11-23T12:34:15.340Z"
-  },
-  {
     "id": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
     "title": "Inside a Rohingya Camp After a Genocide Ruling",
     "titleZh": "種族滅絕裁決後的羅辛亞營地內部",
@@ -330,7 +141,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
     "image": null,
-    "pushedAt": "2026-11-25T03:03:24.135Z"
+    "pushedAt": "2026-11-25T05:06:26.518Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
@@ -348,7 +159,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
     "image": null,
-    "pushedAt": "2026-11-25T03:04:13.592Z"
+    "pushedAt": "2026-11-25T05:07:16.521Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/south-africa-s-woolworths-momentum-face-investor-pay-challenges",
@@ -366,7 +177,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "image": null,
-    "pushedAt": "2026-11-25T03:05:03.577Z"
+    "pushedAt": "2026-11-25T05:08:07.470Z"
   },
   {
     "id": "https://flipso.com/p/vzc5elb75",
@@ -6747,7 +6558,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-consumer-confidence-surges-on-increased-optimism-video",
     "image": null,
-    "pushedAt": "2026-11-25T03:04:38.543Z"
+    "pushedAt": "2026-11-25T05:07:42.380Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-remains-at-the-core-of-ai-growth-says-feinseth-video",
@@ -8286,7 +8097,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-thelma-studio-01-tjml/24cul-thelma-studio-01-tjml-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T03:03:49.062Z"
+    "pushedAt": "2026-11-25T05:06:51.729Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
@@ -8998,5 +8809,194 @@
     "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-hungary-files-01-khpb/25int-hungary-files-01-khpb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T05:05:57.258Z"
+  },
+  {
+    "id": "https://www.ft.com/content/07a9463d-dcde-4ca2-a984-f197cc5d4d6b",
+    "title": "How Sanofi’s $41bn megadeal challenges pharma’s M&A curse",
+    "titleZh": "賽諾菲 410 億美元的巨額交易如何挑戰製藥公司的併購魔咒",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/07a9463d-dcde-4ca2-a984-f197cc5d4d6b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:08:36.606Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7693f1a2-58ec-46e0-b798-bcea394862c0",
+    "title": "British drone developers hampered by outdated laws, industry warns",
+    "titleZh": "業界警告稱，英國無人機開發商受到過時法律的阻礙",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7693f1a2-58ec-46e0-b798-bcea394862c0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:08:43.075Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d",
+    "title": "Eurozone capitals seek consolation prize for Knot to avoid ECB vote",
+    "titleZh": "歐元區各國政府為諾特尋求安慰獎以避免歐洲央行投票",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:08:47.665Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745",
+    "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
+    "titleZh": "M&G 老闆呼籲削減印花稅，以阻止倫敦公司飛往紐約的航班",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:08:53.965Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e",
+    "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
+    "titleZh": "川普拯救英偉達黃仁勳，“科技兄弟反擊”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:08:59.602Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bb527e98-eb07-4bb1-93e7-39cdbf5a59ff",
+    "title": "Elon Musk’s $3.5tn M&A endgame",
+    "titleZh": "馬斯克 (Elon Musk) 3.5 兆美元的併購最後階段",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bb527e98-eb07-4bb1-93e7-39cdbf5a59ff?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:02.903Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c0519775-12ce-4de1-9bff-419562c028df",
+    "title": "Half of European industrial companies under serious financial stress",
+    "titleZh": "歐洲一半工業企業面臨嚴重財務壓力",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c0519775-12ce-4de1-9bff-419562c028df?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:06.618Z"
+  },
+  {
+    "id": "https://www.ft.com/content/049151e8-f97f-4d63-9a6e-5a6d1fcc9dd8",
+    "title": "Brussels presses porn sites to introduce tougher age checks",
+    "titleZh": "布魯塞爾敦促色情網站實行更嚴格的年齡檢查",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/049151e8-f97f-4d63-9a6e-5a6d1fcc9dd8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:11.569Z"
+  },
+  {
+    "id": "https://www.ft.com/content/faed5022-fed4-4f23-98be-e6a09b3c5820",
+    "title": "How 156,000 civil service pensions pushed Capita to the brink",
+    "titleZh": "15.6萬公務員退休金如何將Capita推向崩潰邊緣",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/faed5022-fed4-4f23-98be-e6a09b3c5820?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:16.265Z"
+  },
+  {
+    "id": "https://www.ft.com/content/86cef5ab-ce61-4b50-8511-164aa3e5f499",
+    "title": "AI is not the cure-all for drug development",
+    "titleZh": "人工智慧並不是藥物研發的萬能藥",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/86cef5ab-ce61-4b50-8511-164aa3e5f499",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:20.610Z"
+  },
+  {
+    "id": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0",
+    "title": "EU plans €50bn tech fund to challenge US and China",
+    "titleZh": "歐盟計畫設立500億歐元科技基金挑戰美國和中國",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:26.584Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ab46f1f1-1e8a-4d0a-b5fb-62f5b7ffc434",
+    "title": "What can I do if my tenant challenges a rent increase?",
+    "titleZh": "如果我的租客對加租提出異議，我該怎麼辦？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ab46f1f1-1e8a-4d0a-b5fb-62f5b7ffc434?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:31.628Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b519698f-6ace-47e9-9cd5-1e18f8fdd71b",
+    "title": "London hedge fund Qube squares up to US rivals in expansion drive",
+    "titleZh": "倫敦對沖基金 Qube 與美國競爭對手展開擴張",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b519698f-6ace-47e9-9cd5-1e18f8fdd71b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:37.594Z"
+  },
+  {
+    "id": "https://www.ft.com/content/06429bc7-51ec-4677-bbba-70ba280c84ac",
+    "title": "The high price of Swiss neutrality",
+    "titleZh": "瑞士中立的高昂代價",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/06429bc7-51ec-4677-bbba-70ba280c84ac?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:42.192Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2",
+    "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
+    "titleZh": "國防部長警告歐洲不能正常接受「混合」戰爭",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:46.320Z"
+  },
+  {
+    "id": "https://www.ft.com/content/9910163e-c103-46b5-8bbe-5a12ab5453e6",
+    "title": "UK pensions watchdog ‘worried’ over schemes’ exposure to AI sector",
+    "titleZh": "英國退休金監管機構「擔心」計畫對人工智慧產業的影響",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/9910163e-c103-46b5-8bbe-5a12ab5453e6?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:51.482Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed",
+    "title": "How an ex-McKinsey partner is using new money to chase old wealth",
+    "titleZh": "麥肯錫前合夥人如何利用新資金追逐舊財富",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:54.815Z"
+  },
+  {
+    "id": "https://www.ft.com/content/83076776-97e8-4b9c-a1cf-16e51a37e60a",
+    "title": "The three steps to keeping a handle on internal debate",
+    "titleZh": "控制內部辯論的三個步驟",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/83076776-97e8-4b9c-a1cf-16e51a37e60a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:09:59.869Z"
+  },
+  {
+    "id": "https://www.ft.com/content/e37812a2-5e22-4f53-bb13-43f3be2dfed3",
+    "title": "Not every heir wants the family art collection",
+    "titleZh": "並非每個繼承人都想要家族藝術收藏",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/e37812a2-5e22-4f53-bb13-43f3be2dfed3",
+    "image": null,
+    "pushedAt": "2026-11-25T05:10:04.740Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a9f39daf-718d-46b5-a8b9-41980b8c67c0",
+    "title": "The tech bros strike back",
+    "titleZh": "科技兄弟的反擊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a9f39daf-718d-46b5-a8b9-41980b8c67c0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:10:10.212Z"
+  },
+  {
+    "id": "https://www.ft.com/content/38243255-cc94-4843-bfc4-958009c1295e",
+    "title": "The most famous economist you've never heard of",
+    "titleZh": "你從未聽過的最著名的經濟學家",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/38243255-cc94-4843-bfc4-958009c1295e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T05:10:15.383Z"
   }
 ]
