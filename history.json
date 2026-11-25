@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-    "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-    "titleZh": "內塔尼亞胡想要攻擊伊朗。這對以色列或他有用嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T11:48:06.253Z"
-  },
-  {
     "id": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb",
     "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
     "titleZh": "隨著網路安全中斷加劇，CrowdStrike 以 440 億美元收購 Zscaler",
@@ -1797,7 +1788,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T11:12:38.260Z"
+    "pushedAt": "2026-11-25T13:23:06.040Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/big-take-jensen-huang-is-back-video",
@@ -6504,7 +6495,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "image": null,
-    "pushedAt": "2026-11-25T11:10:54.885Z"
+    "pushedAt": "2026-11-25T13:21:50.780Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
@@ -6513,7 +6504,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
     "image": null,
-    "pushedAt": "2026-11-25T02:47:01.587Z"
+    "pushedAt": "2026-11-25T13:22:16.472Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/defensive-assets-are-springing-to-life-emily-roland-video",
@@ -8313,7 +8304,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-firms-say-rate-hikes-are-starting-to-bite-new-study-shows",
     "image": null,
-    "pushedAt": "2026-11-25T11:11:20.612Z"
+    "pushedAt": "2026-11-25T13:22:41.109Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
     "image": null,
     "pushedAt": "2026-11-25T13:20:54.690Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+    "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices",
+    "titleZh": "川普政府以不公平做法為由對數十個國家徵收新關稅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/00dc-hfo-trump-tariffs-zptw/00dc-hfo-trump-tariffs-zptw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T13:23:32.294Z"
   }
 ]
