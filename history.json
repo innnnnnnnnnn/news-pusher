@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-    "title": "Nvidia’s roaring results can’t hide its troubles",
-    "titleZh": "英偉達的驕人業績並不能掩蓋其困境",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-    "image": null,
-    "pushedAt": "2026-11-24T23:42:53.729Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-soars-on-jensen-huang-return-closing-bell-video",
     "title": "Nvidia Soars 31% as Jensen Huang Returns, Sparking $3 Trillion Rally | Closing Bell",
     "titleZh": "黃仁勳回歸，英偉達股價飆漲 31%，引發 3 兆美元漲勢 |結束鐘聲",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/48edb1203ca953a7bd74ba15773f1626",
     "image": null,
     "pushedAt": "2026-11-25T23:24:46.063Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+    "title": "The Woman Who Took Canada to Court Over Genocide",
+    "titleZh": "因種族滅絕而將加拿大告上法庭的女人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-indigenous-inyt-01-thzm/25sp-women-indigenous-inyt-01-thzm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T23:25:14.040Z"
   }
 ]
