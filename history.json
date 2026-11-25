@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
-    "title": "Can Jensen Huang Return to Nvidia?",
-    "titleZh": "黃仁勳能否重返英偉達？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23db-huang-kglz/23db-huang-kglz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T13:28:55.994Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/poland-s-ipo-rush-builds-as-defense-firms-join-listings-wave",
     "title": "Poland’s IPO Rush Builds as Defense Firms Join Listings Wave",
     "titleZh": "隨著國防公司加入上市浪潮，波蘭IPO熱潮升溫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-swoon-as-ai-fears-spur-rush-to-treasuries-video",
     "image": null,
     "pushedAt": "2026-11-25T15:46:08.825Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
+    "title": "JPMorgan Backs Drone Engine Maker’s $10 Million Muni Bond Sale",
+    "titleZh": "摩根大通支持無人機發動機製造商 1000 萬美元的市政債券發行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
+    "image": null,
+    "pushedAt": "2026-11-25T15:46:38.485Z"
   }
 ]
