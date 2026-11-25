@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/america-is-betting-on-ostrich-again",
-    "title": "America is Betting on Ostrich Again",
-    "titleZh": "美國再次把賭注押在鴕鳥身上",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/america-is-betting-on-ostrich-again",
-    "image": null,
-    "pushedAt": "2026-11-23T10:07:04.153Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
     "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
     "titleZh": "雜貨商在感恩節套餐上蒙受損失以吸引購物者",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/bond-traders-hedge-a-hike-now-cut-later-scenario",
     "image": null,
     "pushedAt": "2026-11-25T11:48:33.747Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+    "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+    "titleZh": "哥倫比亞紀念哥倫比亞革命武裝力量和平協議十週年：照片",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+    "image": "https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T11:49:04.642Z"
   }
 ]
