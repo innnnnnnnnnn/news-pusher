@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html",
-    "title": "China’s A.I. Freakout Is Coming. Just Wait.",
-    "titleZh": "中国的人工智能疯狂即将来临。等等。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/opinion/23wang/23wang-mediumSquareAt3X-v2.png",
-    "pushedAt": "2026-11-23T17:54:13.710Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/german-billionaires-who-backed-biontech-are-investing-in-catalym",
     "title": "German Billionaires Who Backed BioNTech Are Investing in Catalym",
     "titleZh": "支持 BioNTech 的德國億萬富翁正在投資 Catalym",
@@ -3777,7 +3768,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
     "image": null,
-    "pushedAt": "2026-11-25T09:45:07.665Z"
+    "pushedAt": "2026-11-25T12:02:59.807Z"
   },
   {
     "id": "https://www.ft.com/content/90858eba-0c00-4e10-bcca-31ae34bd835d",
@@ -5550,7 +5541,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-backed-startup-led-by-ex-hg-executives-pushes-europe-to-build-ai-edge",
     "image": null,
-    "pushedAt": "2026-11-25T09:45:30.957Z"
+    "pushedAt": "2026-11-25T12:03:25.906Z"
   },
   {
     "id": "https://flipso.com/p/ee864d553531511481097a470aa8f838",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/trump-and-data-centers-and-aluminum",
     "image": null,
     "pushedAt": "2026-11-25T12:02:05.303Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-answer-to-delaware-style-system-for-investment-hits-roadblock",
+    "title": "Europe’s Answer to Delaware-Style System for Investment Hits Roadblock",
+    "titleZh": "歐洲對標德拉瓦州投資制度的方案遭遇阻礙",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-answer-to-delaware-style-system-for-investment-hits-roadblock",
+    "image": null,
+    "pushedAt": "2026-11-25T12:03:55.461Z"
   }
 ]
