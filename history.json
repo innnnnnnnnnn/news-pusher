@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-    "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-    "titleZh": "川普炫耀與習近平和普丁的友情，但沒有什麼表現",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T15:08:09.624Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-    "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
-    "titleZh": "烏克蘭聲稱襲擊利比亞附近的俄羅斯船隻",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T10:48:49.133Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/bets-on-bonds-from-oil-rich-kazakhstan-nigeria-pay-off-for-finland-s-aktia",
     "title": "Bets on Bonds From Oil-Rich Kazakhstan, Nigeria Pay Off for Finland’s Aktia",
     "titleZh": "押注石油豐富的哈薩克和尼日利亞債券為芬蘭 Aktia 帶來回報",
@@ -8650,12 +8632,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/at-s-weighs-moving-listing-to-us-asia-from-cute-vienna-bourse",
-    "title": "AT&S Weighs Moving Listing to US, Asia From ‘Cute’ Vienna Bourse",
+    "title": "AT&S Weighs Moving Listing to US, Asia From ‘Cute’ Vienna",
     "titleZh": "AT&S 考慮將上市地點從「可愛」的維也納交易所轉移到美國和亞洲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/at-s-weighs-moving-listing-to-us-asia-from-cute-vienna-bourse",
     "image": null,
-    "pushedAt": "2026-11-25T09:23:59.651Z"
+    "pushedAt": "2026-11-25T11:35:59.787Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/south-africa-needs-strong-fiscal-rule-to-boost-reforms-imf-says",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F306afbcd-d8b1-4fb1-a512-a20a1d5e4474.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-25T11:34:07.796Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/austria-s-fastest-growing-company-mulls-us-listing-video",
+    "title": "Austria's Fastest Growing Company Mulls US Listing, CEO Says",
+    "titleZh": "執行長表示奧地利成長最快的公司考慮在美國上市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/austria-s-fastest-growing-company-mulls-us-listing-video",
+    "image": null,
+    "pushedAt": "2026-11-25T11:36:27.821Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
+    "title": "Anthropic Expands in Zurich, Moving to Tap City’s AI Talent Pool",
+    "titleZh": "Anthropic 在蘇黎世擴張，遷至 Tap City 的人工智慧人才庫",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
+    "image": null,
+    "pushedAt": "2026-11-25T11:36:34.884Z"
   }
 ]
