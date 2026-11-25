@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
-    "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-    "titleZh": "黃仁勳重返英偉達後，華爾街股市飆升",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-markets-qtpc/23biz-markets-qtpc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T15:07:31.976Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
     "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
     "titleZh": "《Essence》主編兼女士瑪西婭·安·吉萊斯皮 (Marcia Ann Gillespie) 去世",
@@ -6909,7 +6900,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
     "image": null,
-    "pushedAt": "2026-11-25T14:24:07.006Z"
+    "pushedAt": "2026-11-25T16:47:10.905Z"
   },
   {
     "id": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
@@ -6918,7 +6909,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
     "image": null,
-    "pushedAt": "2026-11-25T14:25:23.100Z"
+    "pushedAt": "2026-11-25T16:48:03.334Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
@@ -7386,7 +7377,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8606f7ee-f98b-44f5-ae5a-120b696afca5?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T14:24:57.245Z"
+    "pushedAt": "2026-11-25T16:47:36.737Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/russian-refinery-runs-plunge-to-lowest-in-decades-rystad-says",
     "image": null,
     "pushedAt": "2026-11-25T16:46:42.360Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+    "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Fears Mount",
+    "titleZh": "隨著人工智慧擔憂加劇，CoreWeave 和 Nvidia 信用風險創下新高",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+    "image": null,
+    "pushedAt": "2026-11-25T16:48:30.544Z"
   }
 ]
