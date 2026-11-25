@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/p9fw7ozh5",
-    "title": "The 98% Slot Machine · Global Commerce Graph",
-    "titleZh": "98%老虎機·全球商業圖譜",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/p9fw7ozh5?ref=rss",
-    "image": "https://cdn.flipso.com/p/p9fw7ozh5_square.jpg",
-    "pushedAt": "2026-11-23T18:05:19.265Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html",
-    "title": "Measles Is a Growing Risk for Adults in the United States",
-    "titleZh": "美國成年人罹患麻疹的風險日益增加",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-MEASLES-ADULT-01-fbtw/21DC-MEASLES-ADULT-01-fbtw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T08:55:31.586Z"
-  },
-  {
     "id": "https://www.ft.com/content/56e2a4a7-f604-4e32-afba-32016d5c8cd1",
     "title": "Why India isn’t embracing Starlink",
     "titleZh": "為什麼印度不接受星鏈",
@@ -6710,8 +6692,8 @@
     "titleZh": "歐洲冰箱駭客事件背後的秘密伊朗網路單位",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T09:36:24.844Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1154aa3-796e-430e-afc6-88c96242eaad.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T17:05:24.947Z"
   },
   {
     "id": "https://www.ft.com/content/24f6fa96-51b7-4bb5-bc9c-1fe74bba9e0a",
@@ -6882,7 +6864,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-ai-nuclear-01-pmkt/22int-china-ai-nuclear-01-pmkt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T14:42:05.678Z"
+    "pushedAt": "2026-11-25T17:04:58.239Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
@@ -6891,7 +6873,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
     "image": null,
-    "pushedAt": "2026-11-25T14:42:30.783Z"
+    "pushedAt": "2026-11-25T17:05:50.485Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
@@ -6900,7 +6882,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "image": null,
-    "pushedAt": "2026-11-25T14:42:55.714Z"
+    "pushedAt": "2026-11-25T17:06:15.972Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
@@ -6909,7 +6891,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
     "image": null,
-    "pushedAt": "2026-11-25T14:43:20.881Z"
+    "pushedAt": "2026-11-25T17:06:41.462Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
@@ -7584,7 +7566,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T14:43:45.868Z"
+    "pushedAt": "2026-11-25T17:07:06.946Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
     "image": null,
     "pushedAt": "2026-11-25T17:04:30.066Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/us/measles-cases-thanksgiving.html",
+    "title": "With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel",
+    "titleZh": "隨著麻疹的增加，一些家庭放棄感恩節旅行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/us/measles-cases-thanksgiving.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/00nat-thanksgiving-measles-qzbt/00nat-thanksgiving-measles-qzbt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T17:07:33.475Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/arts/television/macys-thanksgiving-day-parade-prep-planning.html",
+    "title": "See How the 100th Macy’s Thanksgiving Day Parade Came Together Over 5 Years",
+    "titleZh": "看看 5 年來第 100 屆梅西百貨感恩節大遊行是如何進行的",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/arts/television/macys-thanksgiving-day-parade-prep-planning.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/parade-secrets-promo--zmjt/parade-secrets-promo--zmjt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T17:07:37.562Z"
   }
 ]
