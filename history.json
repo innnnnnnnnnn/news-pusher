@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/kak95rc8t",
-    "title": "One Man’s Quest to End Daylight Savings",
-    "titleZh": "一個人尋求結束夏令時",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/kak95rc8t?ref=rss",
-    "image": "https://cdn.flipso.com/p/kak95rc8t_square.jpg",
-    "pushedAt": "2026-11-23T16:23:39.980Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-return-to-fuel-us-ai-relevance-says-mortonson-video",
     "title": "US AI Relevance 'Won't Skip a Beat' With Huang Back at Helm, Says Ted Mortonson",
     "titleZh": "泰德·莫頓森 (Ted Mortonson) 表示，隨著黃仁勳重新掌舵，美國人工智慧的相關性“不會跳過”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T18:02:27.699Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+    "titleZh": "馬斯克 (Elon Musk) 面對人工智慧SpaceX 的困境",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T18:02:57.342Z"
   }
 ]
