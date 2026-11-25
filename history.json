@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/us/san-francisco-flooding-water-sewer-rain.html",
-    "title": "Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets",
-    "titleZh": "暴雨淹沒了舊金山的下水道，將廢水排入街道",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/us/san-francisco-flooding-water-sewer-rain.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nat-sf-drains-lcjv/23nat-sf-drains-lcjv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T10:43:47.064Z"
-  },
-  {
     "id": "https://flipso.com/p/5b7310c68e175e7cb1e9b981fc021380",
     "title": "Own this website 2026-11-23 17:00",
     "titleZh": "擁有本網站 2026-11-23 17:00",
@@ -7683,7 +7674,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfe3f7ba-f003-464f-b534-ce35a6b7f9ef.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T17:32:09.126Z"
+    "pushedAt": "2026-11-25T19:42:44.196Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-cattle-farmer.html",
@@ -7701,7 +7692,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25db-nvda-kfvq/25db-nvda-kfvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T17:32:34.424Z"
+    "pushedAt": "2026-11-25T19:43:09.714Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/huang-is-worth-up-to-10-trillion-to-the-market-ives-video",
@@ -8088,7 +8079,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d",
     "image": null,
-    "pushedAt": "2026-11-25T17:32:59.464Z"
+    "pushedAt": "2026-11-25T19:43:35.351Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-video",
     "image": null,
     "pushedAt": "2026-11-25T19:42:15.567Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures",
+    "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
+    "titleZh": "聯準會褐皮書顯示經濟溫和成長，薪資壓力上升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures",
+    "image": null,
+    "pushedAt": "2026-11-25T19:44:04.604Z"
   }
 ]
