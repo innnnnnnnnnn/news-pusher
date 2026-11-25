@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-    "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
-    "titleZh": "唐·托利弗 (Don Toliver) 英國演唱會因“不明物質”被疏散",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T15:07:07.190Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
     "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
     "titleZh": "Anthropic 的 IPO讓技術研究人員一夜之間成為百萬富翁",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/new-us-home-sales-climb-to-highest-this-year-topping-forecasts",
     "image": null,
     "pushedAt": "2026-11-25T15:08:00.029Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/sap-corporate-espionage-complaint-exposes-gaps-in-disclosure",
+    "title": "SAP Corporate Espionage Complaint Exposes Gaps in Disclosure",
+    "titleZh": "SAP 企業間諜投訴暴露資訊揭露缺陷",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/sap-corporate-espionage-complaint-exposes-gaps-in-disclosure",
+    "image": null,
+    "pushedAt": "2026-11-25T15:08:30.292Z"
   }
 ]
