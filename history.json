@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
-    "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
-    "titleZh": "中國害怕人工智慧可以讓美國在核子競爭中佔優勢",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-ai-nuclear-01-pmkt/22int-china-ai-nuclear-01-pmkt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T05:59:39.458Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
     "title": "Donald Trump’s love of “conquest” is more self-defeating than ever",
     "titleZh": "唐納德·特朗普對“征服”的熱愛比以往任何時候都更加弄巧成拙",
@@ -1932,7 +1923,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-COP31-WHAT-NOW-1-fpgh/23CLI-COP31-WHAT-NOW-1-fpgh-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T03:52:27.197Z"
+    "pushedAt": "2026-11-25T06:05:39.212Z"
   },
   {
     "id": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
     "image": null,
     "pushedAt": "2026-11-25T06:05:12.179Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
+    "title": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
+    "titleZh": "大豆油跌至九個月低點，豆粕需求強勁推動壓榨",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
+    "image": null,
+    "pushedAt": "2026-11-25T06:06:06.721Z"
   }
 ]
