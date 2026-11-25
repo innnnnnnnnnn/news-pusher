@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/etf-iq-11-23-2026-video",
-    "title": "Jensen Huang’s Return, Nvidia ETFs Surge",
-    "titleZh": "黃仁勳回歸，英偉達 ETF 飆漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/etf-iq-11-23-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-23T23:55:42.138Z"
-  },
-  {
     "id": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
     "title": "October inflation data keeps BoJ on course for further tightening",
     "titleZh": "10 月通膨數據讓日本央行進一步收緊政策",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
     "image": null,
     "pushedAt": "2026-11-25T23:58:29.642Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+    "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+    "titleZh": "隨著黃仁勳重新擔任首席執行官，川普實際上凌駕於英偉達董事會之上",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T23:58:56.616Z"
   }
 ]
