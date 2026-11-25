@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
-    "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
-    "titleZh": "《Essence》主編兼女士瑪西婭·安·吉萊斯皮 (Marcia Ann Gillespie) 去世",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
-    "image": null,
-    "pushedAt": "2026-11-25T15:11:12.592Z"
-  },
-  {
     "id": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5",
     "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
     "titleZh": "黃仁勳復職後，英偉達股價飆漲 30%",
@@ -5325,7 +5316,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T14:27:03.865Z"
+    "pushedAt": "2026-11-25T16:50:16.293Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-korea-seen-resuming-rate-hikes-as-ai-boom-stokes-growth",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
     "image": null,
     "pushedAt": "2026-11-25T16:48:30.544Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
+    "title": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
+    "titleZh": "Anthropic 首次公開發行後的困境與 SpaceX 的早期形成鮮明對比",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
+    "image": null,
+    "pushedAt": "2026-11-25T16:50:43.301Z"
   }
 ]
