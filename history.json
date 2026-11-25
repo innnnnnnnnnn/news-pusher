@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/why-nvidia-reinstated-jensen-huang-as-ceo-video",
-    "title": "Why Nvidia Reinstated Jensen Huang as CEO",
-    "titleZh": "英偉達為何恢復黃仁勳擔任首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-nvidia-reinstated-jensen-huang-as-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-23T17:13:04.240Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months",
     "title": "US Business Activity Expands at Slowest Pace in Four Months",
     "titleZh": "美國商業活動擴張速度為四個月以來最慢",
@@ -8430,7 +8421,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/what-the-pce-data-means-for-fed-policy-video",
     "image": null,
-    "pushedAt": "2026-11-25T14:14:12.035Z"
+    "pushedAt": "2026-11-25T16:37:00.955Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-oversight--01-mhkf/24dc-oversight--01-mhkf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T16:32:44.016Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+    "title": "The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country",
+    "titleZh": "紐約情境喜劇的全體演員突然統治了這個國家",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/opinion/25andersen-image/25andersen-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T16:37:27.350Z"
   }
 ]
