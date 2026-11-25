@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-    "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-    "titleZh": "了解《紐約時報》攝影師如何報道 2017 年緬甸襲擊羅興亞人的後果。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-archival-tbmv/19myanmar-icj-archival-tbmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T09:43:47.175Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
     "title": "Greenland Pulls Closer to the U.S. — by an Hour",
     "titleZh": "格陵蘭島距離美國更近了一個小時",
@@ -3804,7 +3795,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T04:55:52.774Z"
+    "pushedAt": "2026-11-25T07:03:09.241Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/the-path-ahead-as-jensen-huang-returns-as-nvidia-s-ceo-video",
@@ -5604,7 +5595,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/24/republican-lawmakers-are-in-revolt-over-jensen-huangs-return",
     "image": null,
-    "pushedAt": "2026-11-25T04:54:13.904Z"
+    "pushedAt": "2026-11-25T07:02:19.507Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/what-senator-mccormick-wants-to-hear-from-jensen-huang-video",
@@ -6549,7 +6540,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T04:56:42.533Z"
+    "pushedAt": "2026-11-25T07:03:34.734Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/zelenskyy-congress-should-press-russia-if-talks-fail-video",
@@ -7570,12 +7561,12 @@
   },
   {
     "id": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b",
-    "title": "FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial",
+    "title": "FirstFT: Trump shelves plans for deals with Russia",
     "titleZh": "FirstFT：華為在美國審判中被判犯有詐欺和竊取商業機密罪",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T04:55:03.191Z"
+    "pushedAt": "2026-11-25T07:02:44.565Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/ai-pullback-raises-the-cost-of-data-center-financing-video",
@@ -8016,7 +8007,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "image": null,
-    "pushedAt": "2026-11-25T04:57:32.350Z"
+    "pushedAt": "2026-11-25T07:03:59.356Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/huang-apologizes-to-nvidia-staff-after-returning-as-ceo-video",
     "image": null,
     "pushedAt": "2026-11-25T07:01:51.526Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+    "title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+    "titleZh": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+    "image": null,
+    "pushedAt": "2026-11-25T07:04:25.803Z"
   }
 ]
