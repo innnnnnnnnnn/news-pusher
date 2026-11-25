@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-did-not-consult-leadership-on-huang-video",
-    "title": "Nvidia Board Did Not Consult Leadership on Huang Decision",
-    "titleZh": "Nvidia 董事會並未就黃仁勳的決定徵求領導階層的意見",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-did-not-consult-leadership-on-huang-video",
-    "image": null,
-    "pushedAt": "2026-11-23T20:35:35.052Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/us-large-cap-stocks-upgraded-to-most-favorable-at-wells-fargo",
     "title": "US Large-Cap Stocks Upgraded to Most Favorable at Wells Fargo",
     "titleZh": "富國銀行將美國大盤股上調至最有利評級",
@@ -2130,7 +2121,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T18:53:51.690Z"
+    "pushedAt": "2026-11-25T21:05:37.923Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
@@ -2139,7 +2130,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
     "image": null,
-    "pushedAt": "2026-11-25T18:54:16.607Z"
+    "pushedAt": "2026-11-25T21:06:02.038Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/china/2026/11/23/does-a-crummy-economy-threaten-chinas-social-contract",
     "image": null,
     "pushedAt": "2026-11-25T21:05:10.793Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud",
+    "title": "Palo Alto Networks Accused by Ex-Executive of Accounting Fraud",
+    "titleZh": "帕洛阿爾托網路公司前高層指控會計欺詐",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud",
+    "image": null,
+    "pushedAt": "2026-11-25T21:06:28.223Z"
   }
 ]
