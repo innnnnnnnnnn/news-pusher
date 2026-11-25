@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/what-a-town-of-vibecoders-says-about-the-chinese-economy-video",
-    "title": "What a Town of Vibecoders Says About the Chinese Economy",
-    "titleZh": "Vibecoder 小鎮如何評估中國經濟",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/what-a-town-of-vibecoders-says-about-the-chinese-economy-video",
-    "image": null,
-    "pushedAt": "2026-11-23T14:42:13.496Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/europe-s-cold-snap-threatens-natural-gas-inventories-video",
     "title": "Europe's Cold Snap Threatens Natural Gas Inventories",
     "titleZh": "歐洲寒流威脅天然氣庫存",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/norway-s-budget-deal-leaves-ruling-party-short-of-majority",
     "image": null,
     "pushedAt": "2026-11-25T11:08:10.522Z"
+  },
+  {
+    "id": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
+    "title": "The messy breakdown of the UN’s climate conference",
+    "titleZh": "聯合國氣候會議的混亂局面",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
+    "image": null,
+    "pushedAt": "2026-11-25T11:08:38.990Z"
   }
 ]
