@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099",
-    "title": "From rotation to contagion",
-    "titleZh": "從輪調到傳染",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83ed156e-9deb-4fe1-8a6f-ca2bef44eed2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T13:46:57.139Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
-    "title": "Malaysia Palm Industry Says CPO Tax-Waiver Window Has Passed",
-    "titleZh": "馬來西亞棕櫚油產業稱原棕油免稅窗口已過",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
-    "image": null,
-    "pushedAt": "2026-11-23T08:54:32.927Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/how-trump-s-ai-chip-crackdown-may-hit-southeast-asia-video",
     "title": "How Trump’s AI Chip Crackdown May Hit Southeast Asia",
     "titleZh": "川普的人工智慧晶片打擊可能如何影響東南亞（影片）",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/one-more-late-cycle-mania-in-ai-trade-3-minutes-mliv-video",
     "image": null,
     "pushedAt": "2026-11-25T08:37:43.788Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
+    "title": "Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
+    "titleZh": "據稱，默多克支持的艾倫職業生涯正在為印度 IPO 選擇銀行",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
+    "image": null,
+    "pushedAt": "2026-11-25T08:38:13.742Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
+    "title": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
+    "titleZh": "由於擔心獲利疲軟、被迫拋售，寧德時代股價下跌 12%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
+    "image": null,
+    "pushedAt": "2026-11-25T08:38:17.516Z"
   }
 ]
