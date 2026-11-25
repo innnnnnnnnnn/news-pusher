@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/apple-s-new-airpods-max-homepod-mini-2-to-get-product-red-release-for-holidays",
-    "title": "Apple’s New AirPods Max, HomePod Mini 2 to Get Product(Red) Release for Holidays",
-    "titleZh": "蘋果新款 AirPods Max、HomePod Mini 2 將於假期發表產品（紅色）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/apple-s-new-airpods-max-homepod-mini-2-to-get-product-red-release-for-holidays",
-    "image": null,
-    "pushedAt": "2026-11-23T21:22:04.890Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video",
     "title": "Jensen Huang Is Back As Nvidia CEO",
     "titleZh": "黃仁勳重新擔任 Nvidia 首席執行官",
@@ -411,7 +402,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/23/how-the-manosphere-cashes-in-on-male-insecurity",
     "image": null,
-    "pushedAt": "2026-11-25T19:31:13.705Z"
+    "pushedAt": "2026-11-25T21:41:43.999Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html",
@@ -2202,7 +2193,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T19:30:16.458Z"
+    "pushedAt": "2026-11-25T21:41:19.689Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
@@ -8259,7 +8250,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25nat-recession-qmjw/25nat-recession-qmjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T19:31:38.460Z"
+    "pushedAt": "2026-11-25T21:42:09.569Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/us/politics/van-hollen-schumer-israel-senate.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-egypt-fire-hjpk/25int-egypt-fire-hjpk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T21:40:53.136Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
+    "title": "Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
+    "titleZh": "隨著市場大幅復甦，人為指數從下跌 10% 開始反彈 |結束鐘聲",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
+    "image": null,
+    "pushedAt": "2026-11-25T21:42:36.311Z"
   }
 ]
