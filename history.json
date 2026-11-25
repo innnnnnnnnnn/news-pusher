@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e5a85fb7-d980-4c34-9857-c57eff52c3c7",
-    "title": "Joining the EU won’t save the UK economy by itself",
-    "titleZh": "加入歐盟本身並不能拯救英國經濟",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e5a85fb7-d980-4c34-9857-c57eff52c3c7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T15:20:21.599Z"
-  },
-  {
     "id": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea",
     "title": "The trouble with the middle powers project",
     "titleZh": "中等強國項目的麻煩",
@@ -1698,7 +1689,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T13:05:35.689Z"
+    "pushedAt": "2026-11-25T15:23:23.120Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
@@ -5559,7 +5550,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T13:05:10.821Z"
+    "pushedAt": "2026-11-25T15:22:58.212Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/bitcoin-a-struggle-right-now-kiani-video",
@@ -8169,7 +8160,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/mideast-ipo-slump-prompts-efg-to-branch-out-into-debt-advisory",
     "image": null,
-    "pushedAt": "2026-11-25T13:06:00.298Z"
+    "pushedAt": "2026-11-25T15:23:48.223Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/us/politics/why-arent-the-midterms-over-in-louisiana-ask-the-supreme-court.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25pol-louisiana-runoff-wtk-tfwq/25pol-louisiana-runoff-wtk-tfwq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T15:22:28.759Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/power-on-podcast-mark-answers-listener-questions-video",
+    "title": "Mark Answers Listener Questions",
+    "titleZh": "馬克回答聽眾問題",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/power-on-podcast-mark-answers-listener-questions-video",
+    "image": null,
+    "pushedAt": "2026-11-25T15:24:15.449Z"
   }
 ]
