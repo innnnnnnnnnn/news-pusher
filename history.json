@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346",
-    "title": "Bessent refuses to rule out Huang’s return to Nvidia",
-    "titleZh": "Bessent 不排除黃重返 Nvidia",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcaeee57e-d750-41af-961b-d8fa6e0f119b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T14:03:39.140Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
-    "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
-    "titleZh": "市場對科技交易的焦慮，州長發佈人工智慧框架，假期遊戲開始",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-23T00:36:59.651Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
     "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
     "titleZh": "民主黨人查克·哈伯德 (Chuck Hubbard) 在北卡羅來納州擊敗連任 11 屆的共和黨人弗吉尼亞·福克斯 (Virginia Foxx)",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/thailand-s-shrinking-budget-room-raises-pressure-for-tax-hikes",
     "image": null,
     "pushedAt": "2026-11-25T00:15:56.646Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+    "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+    "titleZh": "梅蘭妮亞·川普如何在烏克蘭戰爭中找到外交契機",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T00:16:25.751Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
+    "title": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
+    "titleZh": "HDBank 向全球投資者提供債券和貸款，為越南的成長提供資金",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
+    "image": null,
+    "pushedAt": "2026-11-25T00:16:31.917Z"
   }
 ]
