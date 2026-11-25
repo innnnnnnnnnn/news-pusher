@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-    "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-    "titleZh": "俄羅斯無人機蜂擁基輔，荷蘭和奧地利大使館受損",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T10:36:16.049Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
     "title": "Defense AI Startup Agon Raises $70 Million Series A From VCs, ex-Sequoia Boss",
     "titleZh": "國防人工智慧新創公司 Agon 從創投、前紅杉資本老闆籌集了 7000 萬美元的 A 輪融資",
@@ -6981,7 +6972,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T05:50:40.319Z"
+    "pushedAt": "2026-11-25T07:57:43.810Z"
   },
   {
     "id": "https://www.ft.com/content/32e2579e-fbb1-47d3-b2f8-e71484eb2d39",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/8606f7ee-f98b-44f5-ae5a-120b696afca5?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T07:54:29.476Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+    "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+    "titleZh": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+    "image": null,
+    "pushedAt": "2026-11-25T07:58:10.219Z"
   }
 ]
