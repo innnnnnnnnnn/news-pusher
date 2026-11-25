@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/open-interest-11-23-2026-video",
-    "title": "Jensen Huang’s Stunning Comeback",
-    "titleZh": "黃仁勳的驚人復出",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/open-interest-11-23-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-23T20:22:12.312Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-huang-s-nvidia-return-is-a-bad-precedent-video",
     "title": "Huang’s Nvidia return is a bad precedent",
     "titleZh": "黃仁勳回歸英偉達是個糟糕的先例",
@@ -6180,7 +6171,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
     "image": null,
-    "pushedAt": "2026-11-25T18:43:27.185Z"
+    "pushedAt": "2026-11-25T20:55:16.859Z"
   },
   {
     "id": "https://www.ft.com/content/f805c4ef-be16-4c10-9d62-47a7c6675b5f",
@@ -8655,7 +8646,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25Israel-coalition-01-hpgv/25Israel-coalition-01-hpgv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T18:42:58.510Z"
+    "pushedAt": "2026-11-25T20:54:52.986Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-tech-11-25-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/zelenskyy-eyes-congress-if-no-peace-by-end-of-year-video",
     "image": null,
     "pushedAt": "2026-11-25T20:54:24.529Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+    "title": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+    "titleZh": "德州共和黨人和司法部稱，邊境障礙幾十年都無法消除。同意",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-texas-bvgm/25dc-texas-bvgm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T20:55:43.111Z"
   }
 ]
