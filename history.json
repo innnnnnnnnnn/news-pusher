@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/nigeria-s-naira-weakens-with-investors-wary-of-election-upset",
-    "title": "Nigeria’s Naira Weakens With Investors Wary of Election Upset",
-    "titleZh": "奈及利亞奈拉走弱，投資人對選舉不安持謹慎態度",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nigeria-s-naira-weakens-with-investors-wary-of-election-upset",
-    "image": null,
-    "pushedAt": "2026-11-23T16:51:02.379Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
     "title": "Jensen Huang returns. But Nvidia will never be the same",
     "titleZh": "黃仁勳回歸。但英偉達將永遠不再一樣",
@@ -5721,7 +5712,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
     "image": null,
-    "pushedAt": "2026-11-25T16:27:15.906Z"
+    "pushedAt": "2026-11-25T18:35:10.839Z"
   },
   {
     "id": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6",
@@ -6504,7 +6495,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
     "image": null,
-    "pushedAt": "2026-11-25T16:27:41.017Z"
+    "pushedAt": "2026-11-25T18:35:36.252Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
@@ -6513,7 +6504,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
     "image": null,
-    "pushedAt": "2026-11-25T16:28:06.150Z"
+    "pushedAt": "2026-11-25T18:36:01.362Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
@@ -8628,7 +8619,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/core-pce-momentum-remained-elevated-in-october-video",
     "image": null,
-    "pushedAt": "2026-11-25T16:26:46.072Z"
+    "pushedAt": "2026-11-25T18:34:45.983Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/us-genesis-mission-looks-to-ai-to-accelerate-science-video",
     "image": null,
     "pushedAt": "2026-11-25T18:34:17.077Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/can-us-chip-controls-slow-china-s-ai-progress-video",
+    "title": "Can US Chip Controls Slow China’s AI Progress?",
+    "titleZh": "美國的晶片控制會減緩中國的人工智慧進步嗎？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/can-us-chip-controls-slow-china-s-ai-progress-video",
+    "image": null,
+    "pushedAt": "2026-11-25T18:36:28.342Z"
   }
 ]
