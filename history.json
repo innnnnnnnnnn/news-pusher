@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html",
-    "title": "Turning the Lens Around: Bob Woodward Takes On Bob Woodward",
-    "titleZh": "轉動鏡頭：鮑勃伍德沃德 (Bob Woodward) 挑戰鮑勃伍德沃德 (Bob Woodward)",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23WOODWARD-PROMO-ghvq/23WOODWARD-PROMO-ghvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T05:19:39.430Z"
-  },
-  {
     "id": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
     "title": "UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
     "titleZh": "英國和歐盟同意「重置」脫歐，但交付取決於學費",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-parade-preparation-setup.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-logistics-bjpg/25parade-live-logistics-bjpg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T22:46:03.204Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "title": "The Return of Jensen Huang",
+    "titleZh": "黃仁勳回歸",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T22:46:30.781Z"
   }
 ]
