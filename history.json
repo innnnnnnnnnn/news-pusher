@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb",
-    "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
-    "titleZh": "隨著網路安全中斷加劇，CrowdStrike 以 440 億美元收購 Zscaler",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T03:28:01.145Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/crowdstrike-to-acquire-zscaler-in-44-billion-deal-video",
     "title": "CrowdStrike to Acquire Zscaler in $44 Billion CyberSecurity Deal",
     "titleZh": "CrowdStrike 將以 440 億美元的網路安全交易收購 Zscaler",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/00dc-hfo-trump-tariffs-zptw/00dc-hfo-trump-tariffs-zptw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T13:23:32.294Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+    "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+    "titleZh": "內塔尼亞胡想要攻擊伊朗。這對以色列或他有用嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T13:24:00.840Z"
   }
 ]
