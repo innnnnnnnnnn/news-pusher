@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-    "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-    "titleZh": "貝森特呼籲英偉達就向中國銷售晶片提供答案",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T22:55:35.405Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
     "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
     "titleZh": "《飢餓遊戲》首映票房1.2億美元反彈",
@@ -8574,7 +8565,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-24T21:52:57.820Z"
+    "pushedAt": "2026-11-25T00:03:36.882Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1e9ce41-6ff3-4be5-936f-0e421fbe0262.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-25T00:03:09.475Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
+    "title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
+    "titleZh": "澳洲聯邦儲備銀行雅各布斯表示加息後金融狀況“受到限制”",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
+    "image": null,
+    "pushedAt": "2026-11-25T00:04:04.862Z"
   }
 ]
