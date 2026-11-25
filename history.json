@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/san-francisco-faces-historic-flood-threat-as-major-storm-nears",
-    "title": "San Francisco Faces Historic Flood Threat as Major Storm Nears",
-    "titleZh": "隨著大風暴臨近，舊金山面臨歷史性洪水威脅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/san-francisco-faces-historic-flood-threat-as-major-storm-nears",
-    "image": null,
-    "pushedAt": "2026-11-22T20:17:28.765Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
     "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
     "titleZh": "OpenAI首席科學家敦促產業限制人工智慧發展",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "image": null,
     "pushedAt": "2026-11-25T00:52:48.256Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+    "title": "How much more air can come out of the AI trade?",
+    "titleZh": "人工智慧貿易還能帶來多少空氣？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+    "image": null,
+    "pushedAt": "2026-11-25T00:53:18.434Z"
   }
 ]
