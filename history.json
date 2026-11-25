@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-surveillance-11-23-2026-video",
-    "title": "Stocks rally in moments leading up to Jensen Huang’s return as Nvidia CEO",
-    "titleZh": "在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-surveillance-11-23-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-23T17:35:05.284Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-reinstatement-is-ultimate-taco-trade-ritholtz-video",
-    "title": "Huang's Reinstatement Is the Ultimate 'TACO' Trade, Says Ritholtz",
-    "titleZh": "里索爾茨表示，黃的復職是最終的「TACO」交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-reinstatement-is-ultimate-taco-trade-ritholtz-video",
-    "image": null,
-    "pushedAt": "2026-11-23T19:57:37.141Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video",
     "title": "Wall Street Reacts to Return of Nvidia's Huang",
     "titleZh": "華爾街對英偉達黃仁勳回歸的反應",
@@ -852,7 +834,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T17:42:51.163Z"
+    "pushedAt": "2026-11-25T19:52:44.598Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
@@ -7260,7 +7242,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f269760e-e9e4-4bf9-b88b-a5daaa5b5b52?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T17:43:42.027Z"
+    "pushedAt": "2026-11-25T19:53:34.481Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/style/jensen-huang-nvidia-women-executives.html",
@@ -7296,7 +7278,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25wea-CATIDES-pkwb/25wea-CATIDES-pkwb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T17:44:07.234Z"
+    "pushedAt": "2026-11-25T19:53:59.856Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html",
@@ -8124,7 +8106,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-proposes-excess-capacity-tariffs-full-list",
     "image": null,
-    "pushedAt": "2026-11-25T17:43:16.798Z"
+    "pushedAt": "2026-11-25T19:53:09.568Z"
   },
   {
     "id": "https://flipso.com/p/2d12fefabdb65c89949c656e87edeb10",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T19:51:00.044Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-u-turn-is-bad-news-for-anthropic-parmy-olson-video",
+    "title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
+    "titleZh": "帕米·奧爾森 (Parmy Olson) 表示，Nvidia 的掉頭對 Anthropic 來說是個壞消息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-u-turn-is-bad-news-for-anthropic-parmy-olson-video",
+    "image": null,
+    "pushedAt": "2026-11-25T19:54:28.634Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/franklin-templeton-s-araghi-sees-ai-selloff-as-market-reset",
+    "title": "Franklin Templeton's Araghi Sees AI Selloff as Market Reset",
+    "titleZh": "富蘭克林鄧普頓的 Araghi 將人工智慧拋售視為市場重置",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/franklin-templeton-s-araghi-sees-ai-selloff-as-market-reset",
+    "image": null,
+    "pushedAt": "2026-11-25T19:54:33.182Z"
   }
 ]
