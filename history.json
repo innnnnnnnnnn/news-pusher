@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f",
-    "title": "Return is a triumph of money over morals",
-    "titleZh": "黃仁勳的回歸是金錢戰勝道德",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faebf9601-f2f7-472e-900d-3762a2bad216.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T03:54:04.444Z"
-  },
-  {
     "id": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
     "title": "SpaceX’s big bad Black Friday bond hangover",
     "titleZh": "SpaceX 黑色星期五債券宿醉的嚴重後果",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/netflix-to-buy-radford-studio-center-for-380-million-video",
     "image": null,
     "pushedAt": "2026-11-25T18:42:01.001Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
+    "title": "Jensen Huang returns. But Nvidia will never be the same",
+    "titleZh": "黃仁勳回歸。但英偉達將永遠不再一樣",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
+    "image": null,
+    "pushedAt": "2026-11-25T18:42:30.312Z"
   }
 ]
