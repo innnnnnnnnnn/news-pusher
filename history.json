@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-new-data-series-to-improve-rbi-forecasts-gupta-says",
-    "title": "India’s New Data Series to Aid RBI Policy, Gupta Says",
-    "titleZh": "古普塔表示，印度的新數據系列將有助於印度央行政策",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-new-data-series-to-improve-rbi-forecasts-gupta-says",
-    "image": null,
-    "pushedAt": "2026-11-23T11:06:39.837Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-am-says-ai-borrowing-binge-is-holding-back-bond-rally",
     "title": "JPMorgan AM Says AI Borrowing Binge Is Holding Back Bond Rally",
     "titleZh": "摩根大通表示，人工智慧借貸熱潮正在阻礙債券上漲",
@@ -114,7 +105,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
     "image": null,
-    "pushedAt": "2026-11-25T08:16:43.067Z"
+    "pushedAt": "2026-11-25T10:20:02.114Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/dubai-said-to-eye-consolidating-lenders-in-islamic-banking-push",
@@ -1617,7 +1608,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
     "image": null,
-    "pushedAt": "2026-11-25T08:14:16.096Z"
+    "pushedAt": "2026-11-25T10:18:21.051Z"
   },
   {
     "id": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f",
@@ -2481,7 +2472,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T08:14:40.560Z"
+    "pushedAt": "2026-11-25T10:18:46.009Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/etf-iq-11-23-2026-video",
@@ -3579,7 +3570,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-pope-diary01-photo-vhtj/24int-pope-diary01-photo-vhtj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T08:15:28.138Z"
+    "pushedAt": "2026-11-25T10:19:37.216Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
@@ -7683,7 +7674,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-still-faces-key-man-risk-in-huang-professor",
     "image": null,
-    "pushedAt": "2026-11-25T08:13:52.550Z"
+    "pushedAt": "2026-11-25T10:17:55.590Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
@@ -7691,8 +7682,8 @@
     "titleZh": "底特律雄獅隊老闆瑪莎費爾斯通福特 (Martha Firestone Ford) 去世，享年 101 歲",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
-    "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/merlin_184116561_86296d93-61d7-42f1-a351-868f49df8338-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T08:15:04.677Z"
+    "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/Ford-01-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-25T10:19:11.470Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/deutsche-bank-is-among-biggest-s-p-500-bulls-with-9-000-target",
     "image": null,
     "pushedAt": "2026-11-25T10:17:26.786Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bdbeeeff-d7d9-4062-bf9f-b37f180485d5",
+    "title": "Under the hood of Global Auto Holdings",
+    "titleZh": "環球汽車控股旗下",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bdbeeeff-d7d9-4062-bf9f-b37f180485d5?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T10:20:30.578Z"
   }
 ]
