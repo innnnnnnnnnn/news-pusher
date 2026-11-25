@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3",
-    "title": "UK government steps up its war against quangos",
-    "titleZh": "英國政府加強對原住民的戰爭力度",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T04:02:13.966Z"
-  },
-  {
     "id": "https://www.ft.com/content/de3cba35-e80d-4517-b7fe-c7ebdb76716d",
     "title": "Russian oligarch says ex-wife’s divorce claim far exceeds her lifestyle during marriage",
     "titleZh": "俄羅斯寡頭稱前妻的離婚主張遠遠超出了她婚姻期間的生活方式",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/europe-diesel-demand-on-course-to-fall-below-covid-levels",
     "image": null,
     "pushedAt": "2026-11-25T16:20:33.543Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+    "title": "Anthropic soars, but it may soon be back, cap in hand",
+    "titleZh": "人類猛增，但它可能很快就會捲土重來",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+    "image": null,
+    "pushedAt": "2026-11-25T16:21:02.919Z"
   }
 ]
