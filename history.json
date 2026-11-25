@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/7bee2e915906539e83a6579edd39dd14",
-    "title": "Own this website 2026-11-23 20:00",
-    "titleZh": "擁有本網站 2026-11-23 20:00",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/7bee2e915906539e83a6579edd39dd14",
-    "image": null,
-    "pushedAt": "2026-11-23T20:13:58.652Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/-party-is-back-on-roundhill-s-drew-pettit-video",
     "title": "‘Party Is Back On’: Roundhill’s Drew Pettit",
     "titleZh": "「派對又回來了」：Roundhill 的 Drew Pettit",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/fb4f6707-274e-4f93-bcfb-7cce28d4a4ea",
     "image": null,
     "pushedAt": "2026-11-25T22:25:13.901Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+    "title": "Gordon Ramsay to Host Revival of BBC’s ‘Top Gear’",
+    "titleZh": "戈登拉姆齊將主持 BBC 重播節目《Top Gear》",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-top-gear/25xp-top-gear-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-25T22:25:42.684Z"
   }
 ]
