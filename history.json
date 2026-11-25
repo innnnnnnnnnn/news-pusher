@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
-    "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
-    "titleZh": "《飢餓遊戲》首映票房1.2億美元反彈",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
-    "image": null,
-    "pushedAt": "2026-11-24T22:55:59.623Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
     "title": "Compass Plans to Move Main Listing to New York From London",
     "titleZh": "英國《金融時報》稱，康帕斯計劃將主要上市地點遷至紐約",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
     "image": null,
     "pushedAt": "2026-11-25T00:04:04.862Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+    "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+    "titleZh": "貝森特呼籲英偉達就向中國銷售晶片提供答案",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T00:04:34.627Z"
   }
 ]
