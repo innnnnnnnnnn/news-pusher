@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/mh7l8flzq",
-    "title": "What Happened to Silicon Valley?",
-    "titleZh": "矽谷怎麼了？",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/mh7l8flzq?ref=rss",
-    "image": "https://cdn.flipso.com/p/mh7l8flzq_square.jpg",
-    "pushedAt": "2026-11-23T17:00:27.408Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-traders-drop-bullish-view-on-stocks-after-selloff",
     "title": "JPMorgan Traders Drop Bullish View on Stocks After Selloff",
     "titleZh": "摩根大通交易員在拋售後放棄看漲股票",
@@ -5973,7 +5964,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T11:49:33.158Z"
+    "pushedAt": "2026-11-25T13:59:38.677Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
@@ -6495,7 +6486,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T11:50:01.441Z"
+    "pushedAt": "2026-11-25T14:00:04.220Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
@@ -8646,7 +8637,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
     "image": "https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T11:49:04.642Z"
+    "pushedAt": "2026-11-25T13:59:12.917Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/how-do-europe-s-companies-regain-their-edge-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/why-is-thanksgiving-so-expensive-this-year",
     "image": null,
     "pushedAt": "2026-11-25T13:58:44.666Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1d5c7f01-c1e8-471c-8017-d0f064499456",
+    "title": "About that supposed $312mn Nvidia options insider trade…",
+    "titleZh": "關於所謂的 3.12 億美元 Nvidia 期權內線交易…",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1d5c7f01-c1e8-471c-8017-d0f064499456",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcee6459d-65e6-4b08-913f-278c7c0c1058.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T14:00:32.789Z"
   }
 ]
