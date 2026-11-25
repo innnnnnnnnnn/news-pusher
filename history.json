@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
-    "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
-    "titleZh": "事實查核新任白宮辦公廳主任史蒂芬米勒",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T09:11:40.367Z"
-  },
-  {
     "id": "https://www.ft.com/content/e1e08be8-da07-44c3-abe6-9873991ee91a",
     "title": "Spain’s likely rightward shift",
     "titleZh": "西班牙可能右傾",
@@ -7993,12 +7984,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
-    "title": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+    "title": "Canadian Dollar Gains Most Since August on Inflation Warning",
     "titleZh": "由於加拿大央行通膨警告，加元自八月以來漲幅最大",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
     "image": null,
-    "pushedAt": "2026-11-24T21:59:39.706Z"
+    "pushedAt": "2026-11-25T00:17:53.742Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-nvidia-push-is-crony-capitalism-says-killin-video",
@@ -8511,7 +8502,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video",
     "image": null,
-    "pushedAt": "2026-11-24T22:00:17.617Z"
+    "pushedAt": "2026-11-25T00:18:18.429Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4105dcf7-a637-408c-a99b-c6f80f6edcd1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-25T00:17:25.751Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
+    "title": "Sullivan Concedes Alaska Senate Race to Peltola",
+    "titleZh": "沙利文承認阿拉斯加州參議員競選佩爾托拉",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24pol-alaska-concession-bpvz/24pol-alaska-concession-bpvz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T00:18:46.394Z"
   }
 ]
