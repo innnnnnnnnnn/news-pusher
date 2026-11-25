@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
-    "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
-    "titleZh": "民主黨奪得 258 個眾議院席位，創本世紀選舉年紀錄",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
-    "image": null,
-    "pushedAt": "2026-11-23T18:10:19.292Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
     "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
     "titleZh": "梅蘭妮亞·川普如何在烏克蘭戰爭中找到外交契機",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
     "image": null,
     "pushedAt": "2026-11-25T00:05:03.665Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-threatened-as-retail-margin-losses-balloon",
+    "title": "Japan Stocks’ Rebound Threatened as Retail Margin Losses Balloon",
+    "titleZh": "零售利潤損失激增，日本股市面臨反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-threatened-as-retail-margin-losses-balloon",
+    "image": null,
+    "pushedAt": "2026-11-25T00:14:36.079Z"
   }
 ]
