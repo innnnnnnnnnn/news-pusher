@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
-    "title": "Have You Worked With Nvidia? We Want to Hear From You.",
-    "titleZh": "您與 Nvidia 合作過嗎？我們希望收到您的來信。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
-    "image": null,
-    "pushedAt": "2026-11-23T20:03:56.205Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership",
     "title": "Nvidia Board Reinstated CEO Without Consulting Management",
     "titleZh": "英偉達在沒有諮詢領導階層的情況下對黃仁勳態度大轉變",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo",
     "image": null,
     "pushedAt": "2026-11-25T20:17:03.084Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/25/nuclear-arms-control-is-on-hold-until-china-catches-up",
+    "title": "Nuclear-arms control is on hold until China catches up",
+    "titleZh": "核武控制被擱置，直到中國迎頭趕上",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/25/nuclear-arms-control-is-on-hold-until-china-catches-up",
+    "image": null,
+    "pushedAt": "2026-11-25T20:19:40.789Z"
   }
 ]
