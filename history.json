@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/south-africa-s-woolworths-momentum-face-investor-pay-challenges",
-    "title": "South Africa’s Woolworths, Momentum Face Pay Challenges",
-    "titleZh": "南非 Woolworths 的發展動能面臨投資者薪酬挑戰",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/south-africa-s-woolworths-momentum-face-investor-pay-challenges",
-    "image": null,
-    "pushedAt": "2026-11-23T11:00:50.213Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
     "title": "China is kicking up a fuss over a Japanese spy show",
     "titleZh": "中國對日本間諜節目大驚小怪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
     "image": null,
     "pushedAt": "2026-11-25T05:33:40.465Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
+    "title": "Thailand’s fertility rate is collapsing",
+    "titleZh": "泰國的生育率正在崩潰",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
+    "image": null,
+    "pushedAt": "2026-11-25T05:34:09.840Z"
   }
 ]
