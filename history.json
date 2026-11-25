@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
-    "title": "Thanksgiving Weather: Storm Maps and Forecast",
-    "titleZh": "感恩節天氣：風暴地圖與預報",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-thanksgiving-tqhf/23wea-thanksgiving-tqhf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T19:27:59.504Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
     "title": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
     "titleZh": "艾米·納爾遜是企業女權主義者的寵兒。然後一家公司改變了她的生活。",
@@ -6378,7 +6369,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1154aa3-796e-430e-afc6-88c96242eaad.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T17:05:24.947Z"
+    "pushedAt": "2026-11-25T19:14:00.692Z"
   },
   {
     "id": "https://www.ft.com/content/24f6fa96-51b7-4bb5-bc9c-1fe74bba9e0a",
@@ -6549,7 +6540,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-ai-nuclear-01-pmkt/22int-china-ai-nuclear-01-pmkt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T17:04:58.239Z"
+    "pushedAt": "2026-11-25T19:13:35.183Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
@@ -6558,7 +6549,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
     "image": null,
-    "pushedAt": "2026-11-25T17:05:50.485Z"
+    "pushedAt": "2026-11-25T19:14:25.558Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
@@ -6567,7 +6558,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "image": null,
-    "pushedAt": "2026-11-25T17:06:15.972Z"
+    "pushedAt": "2026-11-25T19:14:50.355Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
@@ -6576,7 +6567,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
     "image": null,
-    "pushedAt": "2026-11-25T17:06:41.462Z"
+    "pushedAt": "2026-11-25T19:15:15.790Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
     "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00met-rent-freeze-01-blmk/00met-rent-freeze-01-blmk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T19:13:06.631Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
+    "title": "Do Americans have a right to own assault rifles?",
+    "titleZh": "美國人有權利擁有突擊步槍嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
+    "image": null,
+    "pushedAt": "2026-11-25T19:15:43.748Z"
   }
 ]
