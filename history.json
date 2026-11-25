@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
-    "title": "The world’s carmakers are revving up in America",
-    "titleZh": "世界汽車製造商正在美國加速發展",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
-    "image": null,
-    "pushedAt": "2026-11-25T04:19:59.458Z"
-  },
-  {
-    "id": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
-    "title": "The global south’s smartphone king goes big on AI",
-    "titleZh": "南方國家的智慧型手機之王大力發展人工智慧",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
-    "image": null,
-    "pushedAt": "2026-11-25T04:20:24.308Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
     "title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
     "titleZh": "黃仁勳的倒台對矽谷的加速主義者來說是個壞消息",
@@ -3336,7 +3318,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T03:05:53.036Z"
+    "pushedAt": "2026-11-25T05:18:50.032Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/france-s-national-assembly-approves-2026-year-end-budget-bill",
     "image": null,
     "pushedAt": "2026-11-25T05:18:23.210Z"
+  },
+  {
+    "id": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91",
+    "title": "Trump shelves plans for business deals with Russia",
+    "titleZh": "川普擱置與俄羅斯的商業交易計劃",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8e88af48-12d8-4e69-9e60-2f7c372be27f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T05:19:16.449Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
+    "title": "A French crisis would be a threat — and opportunity — for Europe",
+    "titleZh": "法國危機對歐洲來說既是威脅，也是機遇",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3ea893ed-2c65-4731-ada8-a90c80a1a491.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T05:19:21.336Z"
   }
 ]
