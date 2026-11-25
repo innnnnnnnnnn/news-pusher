@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
-    "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
-    "titleZh": "納斯達克 100 指數接近熊市，下跌買家猶豫是否介入",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
-    "image": null,
-    "pushedAt": "2026-11-23T00:54:03.786Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
     "title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
     "titleZh": "澳元兌紐西蘭元預計將從 2022 年以來最糟糕的一個月中反彈",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
     "image": null,
     "pushedAt": "2026-11-25T01:56:10.242Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+    "title": "A Landmark Genocide Ruling",
+    "titleZh": "具有里程碑意義的種族滅絕裁決",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-theworld-rohingya-01-twpg-promo/23int-theworld-rohingya-01-twpg-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T01:56:41.027Z"
   }
 ]
