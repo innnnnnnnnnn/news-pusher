@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
-    "title": "Myanmar’s regime is convicted of genocide",
-    "titleZh": "緬甸政權被判種族滅絕罪",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
-    "image": null,
-    "pushedAt": "2026-11-25T10:20:02.114Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/dubai-said-to-eye-consolidating-lenders-in-islamic-banking-push",
-    "title": "Dubai Weighs Consolidating Lenders in Islamic Banking Push",
-    "titleZh": "杜拜稱將在伊斯蘭銀行業務中整合貸款機構",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/dubai-said-to-eye-consolidating-lenders-in-islamic-banking-push",
-    "image": null,
-    "pushedAt": "2026-11-23T12:57:53.746Z"
-  },
-  {
     "id": "https://www.ft.com/content/0c67d60c-d3e9-46b2-9c5e-5ed1f690d362",
     "title": "Rejoining EU gets harder the longer Britain stays out",
     "titleZh": "英國留在歐盟的時間越長，重新加入歐盟就越困難",
@@ -4335,7 +4317,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/thanksgiving-dinner-costs-more-this-year-with-grocery-prices-rising",
     "image": null,
-    "pushedAt": "2026-11-25T08:53:56.277Z"
+    "pushedAt": "2026-11-25T11:03:34.259Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
@@ -4344,7 +4326,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "image": null,
-    "pushedAt": "2026-11-25T08:54:20.000Z"
+    "pushedAt": "2026-11-25T11:03:59.607Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
@@ -4371,7 +4353,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
     "image": null,
-    "pushedAt": "2026-11-25T08:55:07.817Z"
+    "pushedAt": "2026-11-25T11:05:17.651Z"
   },
   {
     "id": "https://www.ft.com/content/cdc793c5-8735-4c02-bbe8-65e41f1358e4",
@@ -7350,7 +7332,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
     "image": null,
-    "pushedAt": "2026-11-25T08:54:43.812Z"
+    "pushedAt": "2026-11-25T11:04:52.713Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
@@ -8353,12 +8335,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-    "title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+    "title": "Treasuries Rally as Tech Stock Losses Dent Risk Appetite",
     "titleZh": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
     "image": null,
-    "pushedAt": "2026-11-25T07:04:25.803Z"
+    "pushedAt": "2026-11-25T11:04:28.029Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25wea-CATIDES-pkwb/25wea-CATIDES-pkwb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T11:03:03.752Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html",
+    "title": "Watch the Task Force Panel Discussions From the DealBook Summit",
+    "titleZh": "觀看 DealBook 高峰會上工作小組討論",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25db-watch-summit-task-forces-zmtq/25db-watch-summit-task-forces-zmtq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T11:05:45.904Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says",
+    "title": "ECB Can’t Fall Behind Curve on Interest Rates, Kocher Says",
+    "titleZh": "科赫表示，歐洲央行的利率不能落後於曲線",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says",
+    "image": null,
+    "pushedAt": "2026-11-25T11:05:50.266Z"
   }
 ]
