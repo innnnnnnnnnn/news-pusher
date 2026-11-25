@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-    "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
-    "titleZh": "雜貨商在感恩節套餐上蒙受損失以吸引購物者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/23biz-holiday-groceries--03-zwvc/23biz-holiday-groceries--03-zwvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T10:51:07.886Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
     "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
     "titleZh": "CVS Health 的分拆計畫並未平息反托拉斯批評者的聲音",
@@ -6324,7 +6315,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T09:33:12.816Z"
+    "pushedAt": "2026-11-25T11:49:33.158Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
@@ -6846,7 +6837,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T09:34:00.883Z"
+    "pushedAt": "2026-11-25T11:50:01.441Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
@@ -6855,7 +6846,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-ai-taskforce-cgtj/25sp-dealbook-ai-taskforce-cgtj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T09:34:24.887Z"
+    "pushedAt": "2026-11-25T11:50:28.736Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
     "image": "https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T11:49:04.642Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/how-do-europe-s-companies-regain-their-edge-video",
+    "title": "How Do Europe's Companies Regain Their Edge?",
+    "titleZh": "歐洲企業如何重獲優勢？",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-do-europe-s-companies-regain-their-edge-video",
+    "image": null,
+    "pushedAt": "2026-11-25T11:50:57.805Z"
   }
 ]
