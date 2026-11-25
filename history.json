@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
-    "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
-    "titleZh": "這位億萬富翁剛從人工智慧中賺了一大筆錢但它本來可以更多。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/fashion/00biz-anthropic-investor/00biz-anthropic-investor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T12:23:22.154Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
     "title": "Judge Allows Trump’s Case Against The Times to Proceed",
     "titleZh": "法官允許川普針對《泰晤士報》的訴訟繼續進行",
@@ -276,7 +267,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T12:53:42.404Z"
+    "pushedAt": "2026-11-25T15:09:27.049Z"
   },
   {
     "id": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366",
@@ -5478,7 +5469,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T12:54:32.753Z"
+    "pushedAt": "2026-11-25T15:10:16.966Z"
   },
   {
     "id": "https://flipso.com/p/2820b504cd7758ea8053b066601f7c32",
@@ -7521,7 +7512,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/prosus-profit-misses-estimates-as-food-delivery-investment-grows",
     "image": null,
-    "pushedAt": "2026-11-25T12:54:07.370Z"
+    "pushedAt": "2026-11-25T15:09:52.031Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-china-show-11-25-2026-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T15:08:58.434Z"
+  },
+  {
+    "id": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08",
+    "title": "Northern Ireland minister urges UK to drop exemptions to EU food rules",
+    "titleZh": "北愛爾蘭部長敦促英國放棄歐盟食品規則的豁免",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T15:10:43.124Z"
   }
 ]
