@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
-    "title": "Nvidia-Backed AI Company Firmus Mulls $1.5 Billion Bond Offering",
-    "titleZh": "Nvidia 支持的人工智慧公司 Firmus 考慮發行 15 億美元債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
-    "image": null,
-    "pushedAt": "2026-11-23T13:55:55.380Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/how-everyday-chinese-people-are-adopting-ai",
     "title": "How Everyday Chinese People Are Adopting AI",
     "titleZh": "中國人如何採用人工智慧",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/ing-sees-full-unwind-in-emerging-market-currencies-underway",
     "image": null,
     "pushedAt": "2026-11-25T10:42:33.475Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+    "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
+    "titleZh": "印尼大雨後礦坑已造成 3 人死亡及更多人被困",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25indonesia-mine-ztkg/25indonesia-mine-ztkg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T10:43:06.808Z"
   }
 ]
