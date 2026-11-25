@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/big-take-jensen-huang-is-back-video",
-    "title": "Big Take: Jensen Huang Is Back",
-    "titleZh": "大事件：黃仁勳回來了",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/big-take-jensen-huang-is-back-video",
-    "image": null,
-    "pushedAt": "2026-11-23T22:56:08.540Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-mining-agency-shortfalls-threaten-critical-minerals-push",
     "title": "Brazil Mining Agency Shortfalls Threaten Critical Minerals Push",
     "titleZh": "巴西礦業機構資金短缺威脅關鍵礦產開採",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/still-in-early-innings-of-ai-adoption-psp-s-momei-qu-video",
     "image": null,
     "pushedAt": "2026-11-25T22:42:31.531Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+    "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+    "titleZh": "黃仁勳重返英偉達，展示川普將為人工智慧做些什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T22:42:59.668Z"
   }
 ]
