@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/opinion/war-hbo-divorce-tech-huang.html",
-    "title": "Why I Loved the Slick and Dirty HBO Divorce Drama ‘War’",
-    "titleZh": "為什麼我喜歡華而不實的 HBO 離婚劇《戰爭》",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/opinion/war-hbo-divorce-tech-huang.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22givhan-bjvc/22givhan-bjvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-22T19:32:28.759Z"
-  },
-  {
-    "id": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
-    "title": "A new axis of malice threatens the global order",
-    "titleZh": "新的惡意軸心威脅全球秩序",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
-    "image": null,
-    "pushedAt": "2026-11-24T22:26:49.238Z"
-  },
-  {
     "id": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918",
     "title": "Delta flight delays add to concerns about US air travel systems",
     "titleZh": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/e1e08be8-da07-44c3-abe6-9873991ee91a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T00:29:46.900Z"
+  },
+  {
+    "id": "https://www.ft.com/content/95057819-cbcc-407a-83a7-953fb100a837",
+    "title": "Judge grants bail to OpenAI engineer accused of bugging start-up",
+    "titleZh": "法官批准被指控竊聽新創公司的 OpenAI 工程師保釋",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/95057819-cbcc-407a-83a7-953fb100a837?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T00:37:26.898Z"
+  },
+  {
+    "id": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71",
+    "title": "Contraceptive pill use plunges among young British women",
+    "titleZh": "英國年輕女性避孕藥使用率大幅下降",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T00:37:32.364Z"
   }
 ]
