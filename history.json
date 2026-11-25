@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-    "titleZh": "Anthropic 的 IPO讓技術研究人員一夜之間成為百萬富翁",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T14:59:28.025Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
     "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
     "titleZh": "這位億萬富翁剛從人工智慧中賺了一大筆錢但它本來可以更多。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/sap-corporate-espionage-complaint-exposes-gaps-in-disclosure",
     "image": null,
     "pushedAt": "2026-11-25T15:08:30.292Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+    "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+    "titleZh": "唐·托利弗 (Don Toliver) 曼徹斯特演唱會因“未知物質”被疏散",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T15:08:58.434Z"
   }
 ]
