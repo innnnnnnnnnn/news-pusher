@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-oil-refining-s-stellar-run-is-starting-to-slow",
-    "title": "US Oil Refining’s Stellar Run Is Starting to Slow",
-    "titleZh": "美國煉油業的強勁發展開始放緩",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-oil-refining-s-stellar-run-is-starting-to-slow",
-    "image": null,
-    "pushedAt": "2026-11-23T15:51:49.657Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/yardeni-cuts-s-p-500-target-after-stock-selloff-video",
     "title": "Yardeni Cuts S&P 500 Target After Stock Selloff",
     "titleZh": "亞德尼在股票拋售後下調標準普爾 500 指數目標",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23db-huang-kglz/23db-huang-kglz-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T15:47:11.851Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+    "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+    "titleZh": "Anthropic 的股票首次亮相可能會損害科技新創企業",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T15:47:41.150Z"
   }
 ]
