@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-    "title": "COP31 Climate Talks Broke Down. Now What?",
-    "titleZh": "COP31 氣候談判破裂。現在什麼？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-COP31-WHAT-NOW-1-fpgh/23CLI-COP31-WHAT-NOW-1-fpgh-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T14:41:40.390Z"
-  },
-  {
     "id": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
     "title": "Here’s the latest.",
     "titleZh": "這是最新的。",
@@ -6864,7 +6855,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
     "image": null,
-    "pushedAt": "2026-11-25T13:50:56.391Z"
+    "pushedAt": "2026-11-25T16:13:50.058Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
@@ -6873,7 +6864,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
-    "pushedAt": "2026-11-25T13:51:21.650Z"
+    "pushedAt": "2026-11-25T16:14:15.396Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
@@ -8452,12 +8443,12 @@
   },
   {
     "id": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9",
-    "title": "Turkish leader Erdoğan’s biggest rival barred from running for president",
+    "title": "Erdoğan’s biggest rival barred from Turkish presidency bid",
     "titleZh": "土耳其領導人艾爾段 (Erdoğan) 的最大競爭對手被禁止參選總統",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T13:51:50.939Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe6aeb7b5-ba1b-4ba7-9c69-d49cf0b80eaa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T16:14:41.446Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/why-is-thanksgiving-so-expensive-this-year",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T16:13:20.026Z"
+  },
+  {
+    "id": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3",
+    "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+    "titleZh": "美國GDP資料升級使聯準會12月升息發揮作用",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff64b6780-77f8-44c5-b88b-1020b7055af8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T16:15:09.682Z"
   }
 ]
