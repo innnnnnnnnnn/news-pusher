@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
-    "title": "Judge Allows Trump’s Case Against The Times to Proceed",
-    "titleZh": "法官允許川普針對《泰晤士報》的訴訟繼續進行",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T15:00:53.582Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/top-cobalt-producer-congo-will-ban-exports-again-as-prices-slide",
     "title": "Top Cobalt Miner Congo to Ban Exports Again as Prices Fall",
     "titleZh": "隨著價格下滑，頂級鈷生產國剛果將再次禁止出口",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T15:10:43.124Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d",
+    "title": "US PCE inflation keeps Fed on course for more tightening",
+    "titleZh": "美國PCE通膨促使聯準會進一步緊縮政策",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d",
+    "image": null,
+    "pushedAt": "2026-11-25T15:18:08.135Z"
   }
 ]
