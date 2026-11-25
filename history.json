@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-    "title": "The incredible shrinking legacy of Donald J. Trump",
-    "titleZh": "唐納德·J·特朗普的遺產令人難以置信地萎縮",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-    "image": null,
-    "pushedAt": "2026-11-24T14:51:11.595Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
     "title": "Singapore Core Inflation Eases to 1.5%, Giving MAS Room to Pause",
     "titleZh": "隨著電費下調，新加坡核心通膨率降至 1.5%",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T06:09:22.276Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
+    "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
+    "titleZh": "電動車旨在模仿燃氣引擎的轟鳴聲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wheels-roar1-wtbz/23wheels-roar1-wtbz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T06:09:49.757Z"
   }
 ]
