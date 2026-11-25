@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
-    "title": "As Tides Near Record Levels in California, a Storm Threatens to Make Things Worse",
-    "titleZh": "加州潮汐接近創紀錄水平，風暴可能使情況變得更糟",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-CASTORM-pwlz/23wea-CASTORM-pwlz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:28:27.281Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/marlowe-hits-1-15b-valuation-with-bet-beyond-nvidia-video",
     "title": "Marlowe Hits $1.15B Valuation With Bet Beyond Nvidia",
     "titleZh": "Marlowe 估值突破 1.15B 美元，押注超越 Nvidia",
@@ -6144,7 +6135,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T19:11:22.394Z"
+    "pushedAt": "2026-11-25T21:23:14.742Z"
   },
   {
     "id": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
@@ -6630,7 +6621,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-colombia-blackout-gzpt/25int-colombia-blackout-gzpt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T19:11:47.585Z"
+    "pushedAt": "2026-11-25T21:23:38.609Z"
   },
   {
     "id": "https://flipso.com/p/ba19f42d8f915143b4048611360a1258",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
     "image": null,
     "pushedAt": "2026-11-25T21:22:47.823Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+    "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
+    "titleZh": "摩根大通預計 2027 年人工智慧債務閃電戰將達 4,500 億美元",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+    "image": null,
+    "pushedAt": "2026-11-25T21:24:05.667Z"
   }
 ]
