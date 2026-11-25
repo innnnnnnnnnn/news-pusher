@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
-    "title": "European Chip Stocks Bounce After AI Rout",
-    "titleZh": "歐洲晶片股在人工智慧潰敗後反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-23T12:56:52.684Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
     "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
     "titleZh": "Nvidia 被要求向與中國軍方和 Megaspeed 相關的公司出售晶片",
@@ -1734,7 +1725,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T13:12:01.216Z"
+    "pushedAt": "2026-11-25T15:31:19.896Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
@@ -4065,7 +4056,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T13:11:08.036Z"
+    "pushedAt": "2026-11-25T15:30:54.823Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-leaves-interest-rate-unchanged-before-presidential-poll",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
     "image": null,
     "pushedAt": "2026-11-25T15:30:26.155Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/us-proposes-excess-capacity-tariffs-full-list",
+    "title": "Trump Tariff List: These Economies Hit by Targeted US Deal Rates",
+    "titleZh": "川普關稅清單：這些經濟體受到美國目標交易利率的打擊",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-proposes-excess-capacity-tariffs-full-list",
+    "image": null,
+    "pushedAt": "2026-11-25T15:31:46.391Z"
   }
 ]
