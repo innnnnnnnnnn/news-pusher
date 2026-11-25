@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
-    "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
-    "titleZh": "民主黨人查克·哈伯德 (Chuck Hubbard) 在北卡羅來納州擊敗連任 11 屆的共和黨人弗吉尼亞·福克斯 (Virginia Foxx)",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T09:11:15.743Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
     "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
     "titleZh": "事實查核新任白宮辦公廳主任史蒂芬米勒",
@@ -6918,7 +6909,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring",
     "image": null,
-    "pushedAt": "2026-11-24T21:59:15.175Z"
+    "pushedAt": "2026-11-25T00:16:59.945Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/us-consumer-confidence-surges-to-highest-since-early-2025",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
     "image": null,
     "pushedAt": "2026-11-25T00:16:31.917Z"
+  },
+  {
+    "id": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018",
+    "title": "AI powers double-digit jump in ‘authorised’ fraud",
+    "titleZh": "人工智慧推動「授權」詐欺行為實現兩位數成長",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4105dcf7-a637-408c-a99b-c6f80f6edcd1.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T00:17:25.751Z"
   }
 ]
