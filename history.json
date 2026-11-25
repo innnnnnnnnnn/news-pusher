@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/ukraine-farm-failures-loom-as-war-drains-financial-buffers-top-trader-says",
-    "title": "Ukraine Farm Failures Loom as War Drains Financial Buffers, Top Trader Says",
-    "titleZh": "頂級交易員稱，戰爭耗盡財務緩衝，烏克蘭農場倒閉迫在眉睫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/ukraine-farm-failures-loom-as-war-drains-financial-buffers-top-trader-says",
-    "image": null,
-    "pushedAt": "2026-11-23T11:02:57.558Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
     "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
     "titleZh": "人工智慧驅動的混亂新時代？這可能就是進步。",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
     "image": null,
     "pushedAt": "2026-11-25T12:38:57.067Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+    "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+    "titleZh": "印尼糖果廠失火 24人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T12:39:26.447Z"
   }
 ]
