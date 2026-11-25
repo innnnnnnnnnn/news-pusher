@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
-    "title": "India feeds the world, but its methane emissions are heating it",
-    "titleZh": "印度養活了世界，但其甲烷排放卻讓其升溫",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
-    "image": null,
-    "pushedAt": "2026-11-25T00:43:28.675Z"
-  },
-  {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
     "title": "How much more air can come out of the AI trade?",
     "titleZh": "人工智慧貿易還能帶來多少空氣？",
@@ -4290,7 +4281,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
     "image": null,
-    "pushedAt": "2026-11-24T22:38:03.429Z"
+    "pushedAt": "2026-11-25T00:50:34.531Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
@@ -4803,7 +4794,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T22:38:28.105Z"
+    "pushedAt": "2026-11-25T00:50:59.261Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/the-path-ahead-as-jensen-huang-returns-as-nvidia-s-ceo-video",
@@ -7521,7 +7512,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb58a7d8-d3f5-427e-bbb8-8488e6b7dfca?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T22:37:38.376Z"
+    "pushedAt": "2026-11-25T00:50:09.688Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-huang-to-face-scrutiny-on-capitol-hill-video",
@@ -7539,7 +7530,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T22:38:52.777Z"
+    "pushedAt": "2026-11-25T00:51:24.047Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
@@ -7548,7 +7539,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-autonomous-weapons-01-wqzt/21int-autonomous-weapons-01-wqzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T22:39:17.379Z"
+    "pushedAt": "2026-11-25T00:51:49.707Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/zelenskyy-congress-should-press-russia-if-talks-fail-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
     "image": null,
     "pushedAt": "2026-11-25T00:38:01.554Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+    "title": "Australian Inflation Accelerates, Even After RBA Rate Hikes",
+    "titleZh": "即使澳洲央行升息後，澳洲通膨仍在加速",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+    "image": null,
+    "pushedAt": "2026-11-25T00:52:18.850Z"
   }
 ]
