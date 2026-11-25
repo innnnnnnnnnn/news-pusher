@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/de3cba35-e80d-4517-b7fe-c7ebdb76716d",
-    "title": "Russian oligarch says ex-wife’s divorce claim far exceeds her lifestyle during marriage",
-    "titleZh": "俄羅斯寡頭稱前妻的離婚主張遠遠超出了她婚姻期間的生活方式",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/de3cba35-e80d-4517-b7fe-c7ebdb76716d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T04:03:28.731Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
-    "title": "AI-Linked Stocks Take Off as Nvidia Brings Back ‘Black Jacket’",
-    "titleZh": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 職位後，人工智慧相關股票起飛",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
-    "image": null,
-    "pushedAt": "2026-11-23T17:09:12.559Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-reinstates-jensen-huang-as-ceo-video",
     "title": "Nvidia Board Reinstates Jensen Huang as CEO",
     "titleZh": "Nvidia 董事會恢復黃仁勳擔任首席執行官",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
     "image": null,
     "pushedAt": "2026-11-25T16:21:02.919Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b1e4ec25-2d1f-454d-9ca6-596612cc37de",
+    "title": "Saudi Arabia’s PIF seeks to sell 25% stake in Newcastle United",
+    "titleZh": "沙烏地阿拉伯 PIF 尋求出售紐卡斯爾聯 25% 的股份",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b1e4ec25-2d1f-454d-9ca6-596612cc37de?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T16:24:04.788Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/nasdaq-100-enters-bear-market-territory-on-ai-angst-video",
+    "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses",
+    "titleZh": "納斯達克 100 指數進入熊市，人工智慧焦慮加劇損失",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/nasdaq-100-enters-bear-market-territory-on-ai-angst-video",
+    "image": null,
+    "pushedAt": "2026-11-25T16:24:07.980Z"
   }
 ]
