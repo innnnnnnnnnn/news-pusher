@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0c67d60c-d3e9-46b2-9c5e-5ed1f690d362",
-    "title": "Rejoining EU gets harder the longer Britain stays out",
-    "titleZh": "英國留在歐盟的時間越長，重新加入歐盟就越困難",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0c67d60c-d3e9-46b2-9c5e-5ed1f690d362?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T17:01:49.499Z"
-  },
-  {
     "id": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
     "title": "The messy breakdown of the UN’s climate conference",
     "titleZh": "聯合國氣候會議的混亂局面",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says",
     "image": null,
     "pushedAt": "2026-11-25T11:05:50.266Z"
+  },
+  {
+    "id": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+    "title": "Myanmar’s regime is convicted of genocide",
+    "titleZh": "緬甸政權被判種族滅絕罪",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+    "image": null,
+    "pushedAt": "2026-11-25T11:06:19.199Z"
   }
 ]
