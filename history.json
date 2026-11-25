@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
-    "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
-    "titleZh": "在羅辛亞難民營，歡欣鼓舞，但也充滿憂慮",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-camps-reax-gwpz/19myanmar-icj-camps-reax-gwpz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T11:01:15.564Z"
-  },
-  {
     "id": "https://www.ft.com/content/f6dfff44-e636-43ba-ae37-c21eeb6f2080",
     "title": "China revives US private equity ties",
     "titleZh": "中國恢復與美國私募股權關係",
@@ -4596,7 +4587,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T06:20:49.265Z"
+    "pushedAt": "2026-11-25T08:23:16.668Z"
   },
   {
     "id": "https://www.economist.com/international/2026/11/24/the-war-room-newsletter-is-it-a-drone-or-a-missile",
@@ -4605,7 +4596,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/24/the-war-room-newsletter-is-it-a-drone-or-a-missile",
     "image": null,
-    "pushedAt": "2026-11-25T06:22:28.815Z"
+    "pushedAt": "2026-11-25T08:24:27.625Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
@@ -6099,7 +6090,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
     "image": null,
-    "pushedAt": "2026-11-25T06:21:37.616Z"
+    "pushedAt": "2026-11-25T08:23:40.655Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
@@ -6108,7 +6099,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo2-gblm/22int-cartel-ticktock-photo2-gblm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T06:22:03.513Z"
+    "pushedAt": "2026-11-25T08:24:04.224Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-is-a-good-corporate-citizen-us-attorney-general-says",
@@ -7795,12 +7786,12 @@
   },
   {
     "id": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a",
-    "title": "Asian markets lose ground as AI fears return",
+    "title": "Wall Street set to follow Asian markets lower as AI fears return",
     "titleZh": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F92d02471-8679-4e7e-9f27-d3c946bb78a3.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T06:19:56.921Z"
+    "pushedAt": "2026-11-25T08:22:52.855Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/alibaba-in-talks-for-potential-yuan-dollar-bond-sale-next-year",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/800abc68-933a-40f5-be6a-3e2f4a55ff88?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T08:22:25.373Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c94bb595-e83f-45c6-98d6-d09a3183c13b",
+    "title": "Britain’s schoolchildren need AI guidance",
+    "titleZh": "英國的學童需要人工智慧指導",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c94bb595-e83f-45c6-98d6-d09a3183c13b",
+    "image": null,
+    "pushedAt": "2026-11-25T08:24:53.099Z"
   }
 ]
