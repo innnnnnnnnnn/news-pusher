@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
-    "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
-    "titleZh": "摩根大通客戶資料在最新駭客攻擊中暴露",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-jpmorgan-cyber-wkmv/19biz-jpmorgan-cyber-wkmv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T12:03:08.292Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/anthropic-may-find-its-ipo-was-the-easy-part",
-    "title": "Anthropic May Find Its IPO Was The Easy Part",
-    "titleZh": "Anthropic 可能會發現 IPO 是比較容易的部分",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/anthropic-may-find-its-ipo-was-the-easy-part",
-    "image": null,
-    "pushedAt": "2026-11-23T14:41:48.383Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/volatility-may-not-be-enough-to-make-fed-pause-dawson-video",
-    "title": "Market Volatility May Not Be Enough to Make the Fed Pause: Dawson",
-    "titleZh": "道森：市場波動可能不足以讓聯準會暫停",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/volatility-may-not-be-enough-to-make-fed-pause-dawson-video",
-    "image": null,
-    "pushedAt": "2026-11-23T12:07:03.343Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/us-uk-firms-cut-fx-hedges-to-lowest-since-2024-as-losses-jump",
     "title": "US, UK Firms Cut FX Hedges to Lowest Since 2024 Amid Losses",
     "titleZh": "隨著損失激增，美國、英國公司將外匯對沖削減至 2024 年以來的最低水平",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
     "image": null,
     "pushedAt": "2026-11-25T14:14:45.156Z"
+  },
+  {
+    "id": "https://www.ft.com/content/7359e027-cc1c-43da-a528-d0e55c556780",
+    "title": "Weil’s collapse ushers in law-firm M&A by the back door",
+    "titleZh": "Weil 的倒閉為律師事務所的併購打開了後門",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/7359e027-cc1c-43da-a528-d0e55c556780?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T14:15:16.860Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b8448886-e4e1-4961-97e8-055d1fa7916b",
+    "title": "Influential sherpa who negotiated Burnham’s Brexit deal to step down",
+    "titleZh": "談判伯納姆脫歐協議的有影響力的夏爾巴人辭職",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b8448886-e4e1-4961-97e8-055d1fa7916b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T14:15:21.344Z"
+  },
+  {
+    "id": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8",
+    "title": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel",
+    "titleZh": "香水製造商因聯合利華價格壟斷被罰款超過 5 億歐元",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T14:15:25.938Z"
   }
 ]
