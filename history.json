@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-    "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
-    "titleZh": "在越南，一場沒有汽車的電動車革命",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T03:57:23.148Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
     "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
     "titleZh": "電動車旨在模仿燃氣引擎的轟鳴聲",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
     "image": null,
     "pushedAt": "2026-11-25T06:08:25.793Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
+    "title": "What is causing America’s recent outages",
+    "titleZh": "是什麼導致了美國最近的停電",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
+    "image": null,
+    "pushedAt": "2026-11-25T06:08:53.566Z"
   }
 ]
