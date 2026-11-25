@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/opinion/gop-midterms-wipeout-movies.html",
-    "title": "In Movies and Politics, Money Gets You Only So Far",
-    "titleZh": "在電影和政治中，金錢只能讓你走這麼遠",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/opinion/gop-midterms-wipeout-movies.html",
-    "image": null,
-    "pushedAt": "2026-11-22T19:19:27.759Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
     "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
     "titleZh": "貝森特呼籲英偉達就向中國銷售晶片提供答案",
@@ -8529,7 +8520,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-crypto-11-24-2026-video",
     "image": null,
-    "pushedAt": "2026-11-24T21:50:01.987Z"
+    "pushedAt": "2026-11-25T00:00:40.729Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
@@ -8538,7 +8529,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
     "image": null,
-    "pushedAt": "2026-11-24T21:50:29.821Z"
+    "pushedAt": "2026-11-25T00:01:04.912Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
@@ -8547,7 +8538,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
     "image": null,
-    "pushedAt": "2026-11-24T21:50:59.904Z"
+    "pushedAt": "2026-11-25T00:01:29.127Z"
   },
   {
     "id": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f",
@@ -8556,7 +8547,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T21:51:29.743Z"
+    "pushedAt": "2026-11-25T00:01:53.700Z"
   },
   {
     "id": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8",
@@ -8565,7 +8556,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T21:52:00.744Z"
+    "pushedAt": "2026-11-25T00:02:18.168Z"
   },
   {
     "id": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244",
@@ -8574,7 +8565,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-24T21:52:28.245Z"
+    "pushedAt": "2026-11-25T00:02:42.200Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
     "image": null,
     "pushedAt": "2026-11-25T00:00:13.375Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6",
+    "title": "Shein to pay $100mn to resolve US allegations it deceived customers",
+    "titleZh": "Shein 將支付 1 億美元以解決美國對其欺騙客戶的指控",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1e9ce41-6ff3-4be5-936f-0e421fbe0262.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T00:03:09.475Z"
   }
 ]
