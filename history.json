@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
-    "title": "Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets",
-    "titleZh": "特拉華州監管機構表示，馬克·沃爾特的保險資產被“誤導”",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-delaware-insurance-wgcv/19biz-delaware-insurance-wgcv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-23T19:08:46.021Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/live-blog/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-live-updates",
-    "title": "Nvidia (NVDA) Stock Surges on Huang Comeback After Trump Weighs In: Live Updates",
-    "titleZh": "Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時新聞與分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/live-blog/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-live-updates",
-    "image": null,
-    "pushedAt": "2026-11-23T16:50:34.799Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
     "title": "COP31 Climate Talks Broke Down. Now What?",
     "titleZh": "COP31 氣候談判破裂。現在什麼？",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T16:12:42.612Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cfa5222e-c629-4f8c-8d32-d4723e13b7f4",
+    "title": "Poundland collapses into administration",
+    "titleZh": "英鎊崩潰進入政府管理",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cfa5222e-c629-4f8c-8d32-d4723e13b7f4?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8cd7042d-124d-4750-af6a-34b0e1468def.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-25T16:13:14.553Z"
+  },
+  {
+    "id": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366",
+    "title": "What Nvidia tells us about America and China",
+    "titleZh": "英偉達告訴我們關於美國和中國的事",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T16:13:20.026Z"
   }
 ]
