@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
-    "title": "SpaceX’s big bad Black Friday bond hangover",
-    "titleZh": "SpaceX 黑色星期五債券宿醉的嚴重後果",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
-    "image": null,
-    "pushedAt": "2026-11-24T03:55:01.400Z"
-  },
-  {
     "id": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d",
     "title": "DR Congo reimposes cobalt export ban to shore up prices",
     "titleZh": "剛果民主共和國重新實施鈷出口禁令以支撐價格",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
     "image": null,
     "pushedAt": "2026-11-25T18:42:30.312Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
+    "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
+    "titleZh": "黨領袖稱反對派在驅逐內塔尼亞胡方面取得進展",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25Israel-coalition-01-hpgv/25Israel-coalition-01-hpgv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T18:42:58.510Z"
   }
 ]
