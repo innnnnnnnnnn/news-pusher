@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/prediction-market-rule-from-cftc-under-white-house-review",
-    "title": "Prediction Market Rule from CFTC Under White House Review",
-    "titleZh": "CFTC 的預測市場規則接受白宮審查",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/prediction-market-rule-from-cftc-under-white-house-review",
-    "image": null,
-    "pushedAt": "2026-11-23T16:41:02.238Z"
-  },
-  {
-    "id": "https://www.ft.com/content/81511d01-2a10-46f1-8eda-ee74aae4e7cb",
-    "title": "Hiring: Nvidia Chief Compliance Officer",
-    "titleZh": "招募：Nvidia 首席合規官",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/81511d01-2a10-46f1-8eda-ee74aae4e7cb",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ae829d1-333e-4f95-a709-9cbd880f8af9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-23T16:43:44.494Z"
-  },
-  {
     "id": "https://www.ft.com/content/9d7841cb-56c8-4d84-92f3-6d2946fbd7aa",
     "title": "Banker paid ex-prince Andrew £750,000 after winning award at his event, court told",
     "titleZh": "法庭稱，銀行家在前安德魯王子的活動中獲獎後向他支付了 75 萬英鎊",
@@ -7620,7 +7602,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
     "image": null,
-    "pushedAt": "2026-11-25T15:59:56.597Z"
+    "pushedAt": "2026-11-25T18:09:39.992Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T18:09:11.929Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+    "title": "SpaceX Receives Government Approval to Launch Space Data Centers",
+    "titleZh": "SpaceX 獲得政府批准啟動太空資料中心",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+    "image": null,
+    "pushedAt": "2026-11-25T18:10:09.196Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/open-interest-11-25-2026-video",
+    "title": "Nasdaq 100 Enters Bear Market",
+    "titleZh": "納斯達克 100 指數進入熊市",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/open-interest-11-25-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-25T18:10:14.103Z"
   }
 ]
