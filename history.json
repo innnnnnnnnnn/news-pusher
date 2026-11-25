@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
-    "title": "Compass Plans to Move Main Listing to New York From London",
-    "titleZh": "英國《金融時報》稱，康帕斯計劃將主要上市地點遷至紐約",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
-    "image": null,
-    "pushedAt": "2026-11-23T02:09:33.571Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
     "titleZh": "民主黨奪得 258 個眾議院席位，創本世紀選舉年紀錄",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T00:04:34.627Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
+    "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
+    "titleZh": "《飢餓遊戲》票房反彈，《收割日出》首映票房1.2億美元",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
+    "image": null,
+    "pushedAt": "2026-11-25T00:05:03.665Z"
   }
 ]
