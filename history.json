@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/roundhill-s-pettit-discusses-jensen-huang-s-return-video",
-    "title": "Roundhill’s Pettit Discusses Jensen Huang’s Return",
-    "titleZh": "Roundhill 的 Pettit 討論黃仁勳的回歸",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/roundhill-s-pettit-discusses-jensen-huang-s-return-video",
-    "image": null,
-    "pushedAt": "2026-11-23T19:55:03.782Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-big-rebound-hammers-leveraged-funds-betting-on-a-fall",
     "title": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92%",
     "titleZh": "英偉達的大幅反彈錘擊了押注下跌的槓桿基金",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
     "image": null,
     "pushedAt": "2026-11-25T22:06:55.627Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-deals-11-25-2026-video",
+    "title": "M&A Maintains Amid Selloff, AI Credit Risk Rises",
+    "titleZh": "拋售中併購維持不變，人工智慧信用風險上升",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-deals-11-25-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-25T22:12:46.960Z"
   }
 ]
