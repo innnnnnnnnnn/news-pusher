@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918",
-    "title": "Delta flight delays add to concerns about US air travel systems",
-    "titleZh": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T10:40:05.269Z"
-  },
-  {
     "id": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
     "title": "India feeds the world, but its methane emissions are heating it",
     "titleZh": "印度養活了世界，但其甲烷排放卻讓其升溫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-25T00:37:32.364Z"
+  },
+  {
+    "id": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+    "title": "A new axis of malice threatens the global order",
+    "titleZh": "新的惡意軸心威脅全球秩序",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+    "image": null,
+    "pushedAt": "2026-11-25T00:38:01.554Z"
   }
 ]
