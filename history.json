@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
-    "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
-    "titleZh": "英偉達的捲土重來揭露了股票投資人的陷阱",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
-    "image": null,
-    "pushedAt": "2026-11-24T02:30:54.966Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
-    "title": "Jeff Currie Sees a Liquidity Crisis Behind Copper Selloff",
-    "titleZh": "傑夫柯里 (Jeff Currie) 認為銅拋售背後存在流動性危機",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
-    "image": null,
-    "pushedAt": "2026-11-23T20:01:49.758Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/goldman-s-trivedi-says-dollar-has-some-fight-left-on-rate-path",
     "title": "Goldman Says Dollar ‘Has Some Fight’ Left on Rates Path",
     "titleZh": "高盛特里維迪稱美元在利率路徑上“還有一些掙扎”",
@@ -456,7 +438,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T17:52:36.160Z"
+    "pushedAt": "2026-11-25T20:02:16.385Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/big-take-jensen-huang-is-back-video",
@@ -5163,7 +5145,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "image": null,
-    "pushedAt": "2026-11-25T17:51:18.214Z"
+    "pushedAt": "2026-11-25T20:01:26.362Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
@@ -7323,7 +7305,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",
     "image": "https://static01.nyt.com/images/2026/11/29/multimedia/25MAURY-POVICH-01-vkjz/25MAURY-POVICH-01-vkjz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T17:50:52.675Z"
+    "pushedAt": "2026-11-25T20:01:01.512Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
@@ -7665,7 +7647,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/00dc-hfo-trump-tariffs-zptw/00dc-hfo-trump-tariffs-zptw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T17:53:01.160Z"
+    "pushedAt": "2026-11-25T20:02:41.342Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
@@ -8133,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-in-no-rush-to-increase-banks-minimum-reserves-after-debate",
     "image": null,
-    "pushedAt": "2026-11-25T17:51:43.404Z"
+    "pushedAt": "2026-11-25T20:01:51.292Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-swoon-as-ai-fears-spur-rush-to-treasuries-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours",
     "image": null,
     "pushedAt": "2026-11-25T20:00:33.178Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/science/chips-wires-copper-niobium.html",
+    "title": "Bizarre Material May Herald the Future of Computer Chips",
+    "titleZh": "奇異的材料可能預示著電腦晶片的未來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/science/chips-wires-copper-niobium.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/science/25SCI-NEW-WIRES2/25SCI-NEW-WIRES2-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T20:03:07.757Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+    "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+    "titleZh": "以色列法官建議撤銷針對內塔尼亞胡的關鍵貪腐案件",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Israel-Courts-vkbc/25int-Israel-Courts-vkbc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T20:03:12.998Z"
   }
 ]
