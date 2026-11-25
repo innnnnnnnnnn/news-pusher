@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/huang-tells-staff-he-will-be-better-ceo-second-time-video",
-    "title": "Huang Tells Staff He Will Be Better CEO 'Second Time Around'",
-    "titleZh": "黃告訴員工他「第二次」會成為更好的首席執行官",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/huang-tells-staff-he-will-be-better-ceo-second-time-video",
-    "image": null,
-    "pushedAt": "2026-11-23T23:06:25.662Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
     "title": "The Return of Jensen Huang",
     "titleZh": "黃仁勳回歸",
@@ -4744,12 +4735,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-    "title": "Stocks Pare AI-Driven Losses as Buyers Step In: Markets Wrap",
+    "title": "Stocks Pare AI-Driven Losses as Dip Buyers Step In: Markets Wrap",
     "titleZh": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
     "image": null,
-    "pushedAt": "2026-11-25T20:38:43.641Z"
+    "pushedAt": "2026-11-25T22:44:19.001Z"
   },
   {
     "id": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa",
@@ -5721,7 +5712,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
     "image": null,
-    "pushedAt": "2026-11-25T20:38:19.462Z"
+    "pushedAt": "2026-11-25T22:43:55.072Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
     "image": null,
     "pushedAt": "2026-11-25T22:43:28.638Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
+    "title": "Compass Delays $380 Million ABS After Data Center Outage",
+    "titleZh": "資料中心中斷後，Compass 延遲 3.8 億美元的 ABS",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
+    "image": null,
+    "pushedAt": "2026-11-25T22:44:45.065Z"
   }
 ]
