@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128",
-    "title": "Will Tata be able to list India’s biggest company?",
-    "titleZh": "印度最大的公司塔塔能否上市？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-23T10:21:29.025Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/weride-ceo-on-earnings-and-international-markets-video",
     "title": "WeRide CEO on Earnings and International Markets",
     "titleZh": "文遠知行執行長談獲利與國際市場",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
     "pushedAt": "2026-11-25T05:19:55.530Z"
+  },
+  {
+    "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+    "title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
+    "titleZh": "黃仁勳的倒台對矽谷的加速主義者來說是個壞消息",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+    "image": null,
+    "pushedAt": "2026-11-25T05:20:25.306Z"
   }
 ]
