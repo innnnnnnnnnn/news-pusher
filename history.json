@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb",
-    "title": "FirstFT: US approved sale of advanced AI chips to Chinese companies",
-    "titleZh": "FirstFT：美國核准向中國公司出售先進人工智慧晶片",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T20:45:20.135Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
     "title": "As Tides Near Record Levels in California, a Storm Threatens to Make Things Worse",
     "titleZh": "加州潮汐接近創紀錄水平，風暴可能使情況變得更糟",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
     "image": null,
     "pushedAt": "2026-11-25T21:22:19.256Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+    "title": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
+    "titleZh": "美國關稅提案加大了印度達成貿易協定的風險",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+    "image": null,
+    "pushedAt": "2026-11-25T21:22:47.823Z"
   }
 ]
