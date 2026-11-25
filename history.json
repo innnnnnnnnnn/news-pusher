@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/k6nacrbia",
-    "title": "Japan's Hometown Tax",
-    "titleZh": "日本的故鄉稅",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/k6nacrbia?ref=rss",
-    "image": "https://cdn.flipso.com/p/k6nacrbia_square.jpg",
-    "pushedAt": "2026-11-23T16:00:42.228Z"
-  },
-  {
-    "id": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-    "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
-    "titleZh": "屋主如何推動越南電動自行車熱潮",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T05:29:06.890Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/ing-s-sareen-asia-ai-chip-demand-unlikely-to-crash-video",
     "title": "ING's Sareen: Asia AI Chip Demand Unlikely to Crash",
     "titleZh": "ING的Sareen：亞洲人工智慧晶片需求不太可能崩潰",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/279fb648d6825ee2b468873784e13aff",
     "image": null,
     "pushedAt": "2026-11-25T05:47:15.710Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
+    "title": "China’s Buddhists are releasing animals where they do not belong",
+    "titleZh": "中國佛教徒將動物放生到不屬於它們的地方",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
+    "image": null,
+    "pushedAt": "2026-11-25T05:47:42.245Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
+    "title": "China’s efforts to strengthen its safety net fuel public anger",
+    "titleZh": "中國加強安全網的努力激起了公眾的憤怒",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
+    "image": null,
+    "pushedAt": "2026-11-25T05:47:45.354Z"
   }
 ]
