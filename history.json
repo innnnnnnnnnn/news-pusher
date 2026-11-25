@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/42dca35f-cda1-4ca6-bcb4-b81d58d5b7ba",
-    "title": "The Bear’s Matty Matheson eats his way around Toronto",
-    "titleZh": "The Bear 的 Matty Matheson 在多倫多吃得飽飽的",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/42dca35f-cda1-4ca6-bcb4-b81d58d5b7ba",
-    "image": null,
-    "pushedAt": "2026-11-23T12:03:40.775Z"
-  },
-  {
     "id": "https://www.ft.com/content/e68d3acf-7fbe-4d33-88dd-a631322b090d",
     "title": "The artist who turned private eye — to investigate state surveillance",
     "titleZh": "成為私家偵探的藝術家－調查國家監控",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/prosus-profit-misses-estimates-as-food-delivery-investment-grows",
     "image": null,
     "pushedAt": "2026-11-25T06:32:02.300Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-china-show-11-25-2026-video",
+    "title": "AI Rally Fizzles as US Readies New Tariffs on China",
+    "titleZh": "美國準備對中國徵收新關稅，人工智慧集會失敗",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-china-show-11-25-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-25T06:32:30.675Z"
   }
 ]
