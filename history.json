@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d",
-    "title": "DR Congo reimposes cobalt export ban to shore up prices",
-    "titleZh": "剛果民主共和國重新實施鈷出口禁令以支撐價格",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T03:55:28.221Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
     "title": "Nvidia Rehires Huang in Stunning Comeback",
     "titleZh": "Nvidia 重新聘用黃仁勳，令人驚嘆的東山再起",
@@ -5577,7 +5568,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
     "image": null,
-    "pushedAt": "2026-11-25T16:33:36.935Z"
+    "pushedAt": "2026-11-25T18:43:52.986Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -6522,7 +6513,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
     "image": null,
-    "pushedAt": "2026-11-25T16:33:12.085Z"
+    "pushedAt": "2026-11-25T18:43:27.185Z"
   },
   {
     "id": "https://www.ft.com/content/f805c4ef-be16-4c10-9d62-47a7c6675b5f",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25Israel-coalition-01-hpgv/25Israel-coalition-01-hpgv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T18:42:58.510Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-tech-11-25-2026-video",
+    "title": "Nasdaq 100 Tumbles in ‘Sell First’ Mode",
+    "titleZh": "納斯達克 100 指數在「先賣」模式下暴跌",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-tech-11-25-2026-video",
+    "image": null,
+    "pushedAt": "2026-11-25T18:44:21.446Z"
   }
 ]
