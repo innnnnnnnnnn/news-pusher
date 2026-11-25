@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
-    "title": "Love and Carjackings in a Video Game",
-    "titleZh": "電子遊戲中的愛情與劫車",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
-    "image": null,
-    "pushedAt": "2026-11-23T19:14:09.074Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-23/wall-street-sees-buying-opportunities-for-the-brave",
     "title": "Wall Street Sees Buying Opportunities for the Brave",
     "titleZh": "華爾街看到了勇敢者的買進機會",
@@ -7404,7 +7395,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3ea893ed-2c65-4731-ada8-a90c80a1a491.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T11:38:26.353Z"
+    "pushedAt": "2026-11-25T13:50:31.284Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
@@ -7413,7 +7404,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
     "image": null,
-    "pushedAt": "2026-11-25T11:38:51.319Z"
+    "pushedAt": "2026-11-25T13:50:56.391Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
@@ -7422,7 +7413,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
     "image": null,
-    "pushedAt": "2026-11-25T11:39:15.860Z"
+    "pushedAt": "2026-11-25T13:51:21.650Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/arts/television/late-night-trump-giuliani.html",
     "image": null,
     "pushedAt": "2026-11-25T13:50:01.709Z"
+  },
+  {
+    "id": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9",
+    "title": "Turkish leader Erdoğan’s biggest rival barred from running for president",
+    "titleZh": "土耳其領導人艾爾段 (Erdoğan) 的最大競爭對手被禁止參選總統",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T13:51:50.939Z"
   }
 ]
