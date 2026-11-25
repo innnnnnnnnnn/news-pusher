@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
-    "title": "Anthropic soars, but it may soon be back, cap in hand",
-    "titleZh": "人類猛增，但它可能很快就會捲土重來",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
-    "image": null,
-    "pushedAt": "2026-11-25T14:52:50.922Z"
-  },
-  {
     "id": "https://www.ft.com/content/add25ebd-63ef-4ee0-ac76-204bde4cb2f3",
     "title": "UK government steps up its war against quangos",
     "titleZh": "英國政府加強對原住民的戰爭力度",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/russian-inflation-hits-one-year-high-in-october-as-war-escalates",
     "image": null,
     "pushedAt": "2026-11-25T16:20:02.777Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/europe-diesel-demand-on-course-to-fall-below-covid-levels",
+    "title": "Europe Diesel Demand on Course to Fall Below Covid Levels",
+    "titleZh": "歐洲柴油需求將降至新冠水平以下",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/europe-diesel-demand-on-course-to-fall-below-covid-levels",
+    "image": null,
+    "pushedAt": "2026-11-25T16:20:33.543Z"
   }
 ]
