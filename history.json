@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/-great-to-see-huang-back-at-nvidia-ferragu-says-video",
-    "title": "'Great to See' Huang Back at Nvidia, Ferragu Says",
-    "titleZh": "費拉古表示，「很高興看到」黃回到英偉達",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/-great-to-see-huang-back-at-nvidia-ferragu-says-video",
-    "image": null,
-    "pushedAt": "2026-11-23T17:44:27.917Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
     "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
     "titleZh": "4 名英國男子因性侵喬安妮楊而被定罪",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/fed-ai-fears-rattle-markets-video",
     "image": null,
     "pushedAt": "2026-11-25T16:54:22.893Z"
+  },
+  {
+    "id": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291",
+    "title": "US Treasury financial crime watchdog hit by suspected cyber attack",
+    "titleZh": "美國財政部金融犯罪監管機構遭受疑似網路攻擊",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-25T16:54:53.838Z"
   }
 ]
