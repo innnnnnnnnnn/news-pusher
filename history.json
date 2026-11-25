@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/houston-hedge-fund-aspire-hires-two-pjm-power-gas-traders",
-    "title": "Houston Hedge Fund Aspire Hires Two PJM Power, Gas Traders",
-    "titleZh": "休士頓對沖基金 Aspire 聘用兩名 PJM 電力、天然氣交易員",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/houston-hedge-fund-aspire-hires-two-pjm-power-gas-traders",
-    "image": null,
-    "pushedAt": "2026-11-23T21:16:56.709Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-23/citadel-securities-says-2018-playbook-warns-of-more-market-pain",
-    "title": "Citadel Securities Says 2018 Playbook Warns of More Market Pain",
-    "titleZh": "Citadel 證券稱 2018 年行動手冊警告市場將遭受更多痛苦",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/citadel-securities-says-2018-playbook-warns-of-more-market-pain",
-    "image": null,
-    "pushedAt": "2026-11-23T21:19:31.945Z"
-  },
-  {
-    "id": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986",
-    "title": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
-    "titleZh": "伯納姆表示，英國在不進行公投的情況下重新加入歐盟是“不可想像的”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff657580e-e10e-4101-b6e2-f357e19ea237.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T05:53:20.766Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
-    "title": "Army Will Detonate Ammunition Cache in Iowa on Wednesday",
-    "titleZh": "在愛荷華州，計劃中的彈藥爆炸造成混亂和混亂",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T16:47:58.608Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/apple-s-new-airpods-max-homepod-mini-2-to-get-product-red-release-for-holidays",
     "title": "Apple’s New AirPods Max, HomePod Mini 2 to Get Product(Red) Release for Holidays",
     "titleZh": "蘋果新款 AirPods Max、HomePod Mini 2 將於假期發表產品（紅色）",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-stock-sparks-rare-divide-inside-one-wall-street-firm",
     "image": null,
     "pushedAt": "2026-11-25T21:40:10.321Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
+    "title": "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
+    "titleZh": "一名贏得 100 萬美元彩票大獎的男子幾天後被 ICE 逮捕",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/us/25nat-ice-boston-lottery/25nat-ice-boston-lottery-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T21:40:40.487Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+    "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
+    "titleZh": "如何與家人談論人工智慧感恩節的厄運",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/business/00thanksgiving-doom-white/00thanksgiving-doom-white-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T21:40:44.800Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/insider/thanksgiving-dinner-politics-conversation.html",
+    "title": "How Our Reporters Navigate Politics at Thanksgiving",
+    "titleZh": "我們的記者如何在感恩節駕馭政治",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/insider/thanksgiving-dinner-politics-conversation.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/pageoneplus/25insider-thanksgiving/25insider-thanksgiving-mediumSquareAt3X.png",
+    "pushedAt": "2026-11-25T21:40:48.712Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+    "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+    "titleZh": "滿載石油的卡車相撞後，開羅附近道路起火，造成數十人死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-egypt-fire-hjpk/25int-egypt-fire-hjpk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T21:40:53.136Z"
   }
 ]
