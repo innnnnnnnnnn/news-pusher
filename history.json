@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-    "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
-    "titleZh": "英國在歐盟宣布脫歐重置協議高峰會：須知",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T04:50:31.060Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-23/zscaler-s-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal",
     "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
     "titleZh": "Zscaler 的 Chaudhrys 將從 CrowdStrike 交易中獲得 145 億美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/megadeals-defy-selloff-head-toward-record-video",
     "image": null,
     "pushedAt": "2026-11-25T20:50:13.631Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+    "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+    "titleZh": "分析顯示超過70萬俄羅斯士兵在烏克蘭陣亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-25T20:50:42.184Z"
   }
 ]
