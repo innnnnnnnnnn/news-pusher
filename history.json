@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
-    "title": "Walking Clubs Are the Antidote to Fitness Culture (Video)",
-    "titleZh": "步行俱樂部是健身文化的解藥（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
-    "image": null,
-    "pushedAt": "2026-11-24T15:30:05.339Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nyc-calls-on-kalshi-polymarket-to-testify-on-marketing-to-youth",
     "title": "Kalshi Users Under 21 Lost $8.9 Million in NYC, Probe Finds",
     "titleZh": "紐約市呼籲 Kalshi 和 Polymarket 就針對青少年的行銷活動作證",
@@ -7791,7 +7782,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T15:18:25.290Z"
+    "pushedAt": "2026-11-26T17:27:08.565Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
@@ -7800,7 +7791,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
     "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T15:18:49.794Z"
+    "pushedAt": "2026-11-26T17:27:32.696Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T17:06:35.407Z"
+  },
+  {
+    "id": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae",
+    "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+    "titleZh": "安德魯貝利 (Andrew Bailey) 表示，未發布的人工智慧模型引發了加密問題",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T17:27:59.830Z"
   }
 ]
