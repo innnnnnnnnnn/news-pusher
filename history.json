@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
-    "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
-    "titleZh": "《俠盜獵車手 VI》單日收入達 37.9 億美元",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
-    "image": null,
-    "pushedAt": "2026-11-24T14:28:00.617Z"
-  },
-  {
     "id": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9",
     "title": "EU edges towards Made in Europe deal for UK cars",
     "titleZh": "歐盟可望達成英國汽車歐洲製造協議",
@@ -7251,7 +7242,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8a073230-1874-43cc-9cf3-5079c1f90ef8?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ab07aec-2689-40a0-89a1-5df459ac2099.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-26T11:41:24.273Z"
+    "pushedAt": "2026-11-26T13:51:20.723Z"
   },
   {
     "id": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
@@ -7260,7 +7251,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F64b4141e-03fe-4ee1-846e-cca23f93d846.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-26T11:41:49.303Z"
+    "pushedAt": "2026-11-26T13:51:45.457Z"
   },
   {
     "id": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-Thanksgiving-Parade-Balloons-02-kvzp/26xp-Thanksgiving-Parade-Balloons-02-kvzp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T13:50:53.174Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/fifa-says-hackers-accessed-personal-data-in-cyberattack",
+    "title": "FIFA Says Hackers Accessed Personal Data in Cyberattack",
+    "titleZh": "國際足總稱駭客透過網路攻擊獲取了個人數據",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/fifa-says-hackers-accessed-personal-data-in-cyberattack",
+    "image": null,
+    "pushedAt": "2026-11-26T13:52:11.076Z"
   }
 ]
