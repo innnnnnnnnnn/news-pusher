@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/well/black-white-americans-health-death-rates.html",
-    "title": "The Mortality Gap Between Black and White Americans Is Shrinking",
-    "titleZh": "美國黑人和白人之間的死亡率差距正在縮小",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/well/black-white-americans-health-death-rates.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24WELL-DISPARITIES1-ztmq/24WELL-DISPARITIES1-ztmq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:00:00.843Z"
-  },
-  {
     "id": "https://www.ft.com/content/f6c2d0f7-b096-48fb-96af-931c33ec54ba",
     "title": "Ex-Petrofac executives accused of paying millions to win $3.4bn of contracts",
     "titleZh": "Petrofac 前高層被指控支付數百萬美元以獲得 34 億美元的合約",
@@ -1401,7 +1392,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-work-taskforce-pqtg/25sp-dealbook-work-taskforce-pqtg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T21:52:58.881Z"
+    "pushedAt": "2026-11-26T23:55:35.485Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
@@ -1410,7 +1401,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
     "image": null,
-    "pushedAt": "2026-11-26T21:53:24.197Z"
+    "pushedAt": "2026-11-26T23:56:00.454Z"
   },
   {
     "id": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
     "image": null,
     "pushedAt": "2026-11-26T23:55:06.478Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure",
+    "title": "Tokyo Inflation Accelerates, Backing Case for BOJ Rate Hike",
+    "titleZh": "東京通膨加速，支持日本央行升息",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure",
+    "image": null,
+    "pushedAt": "2026-11-26T23:56:28.421Z"
   }
 ]
