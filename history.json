@@ -1,50 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47",
-    "title": "Anthropic closes below IPO price as tech rally fades",
-    "titleZh": "黃仁勳回歸後亞洲科技股飆漲",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T04:41:29.824Z"
-  },
-  {
-    "id": "https://www.ft.com/content/2de3b26b-6569-44a5-b8b8-8a4be9243d0c",
-    "title": "Trump decries California’s death penalty commutation as a ‘shocking act’",
-    "titleZh": "川普譴責加州死刑減刑是“令人震驚的行為”",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2de3b26b-6569-44a5-b8b8-8a4be9243d0c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T06:42:16.682Z"
-  },
-  {
-    "id": "https://www.ft.com/content/13ea1195-a0e7-4b19-8316-d56042ac2678",
-    "title": "Japan’s Sanae Takaichi isolated on world stage",
-    "titleZh": "日本高市早苗在世界舞台上被孤立",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/13ea1195-a0e7-4b19-8316-d56042ac2678?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T06:42:43.225Z"
-  },
-  {
-    "id": "https://www.ft.com/content/45c49a84-53cc-44ed-9aab-0dc79f564278",
-    "title": "China wanted families to put savings in shares not homes — then markets fell",
-    "titleZh": "中國希望家庭將儲蓄投資於股票而不是住房——然後市場下跌",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/45c49a84-53cc-44ed-9aab-0dc79f564278?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T04:43:02.817Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade",
-    "title": "Japan Stocks Rebound as Huang’s Return Resuscitates AI Trade",
-    "titleZh": "黃仁勳回歸重啟人工智慧貿易，日本股市反彈",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-24T11:06:54.008Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-role-in-huang-s-return-video",
     "title": "Trump’s Role in Huang’s Return",
     "titleZh": "川普在黃的回歸中扮演的角色",
@@ -8998,5 +8953,50 @@
     "url": "https://www.bloomberg.com/news/audio/2026-11-26/stephanomics-podcast-how-ai-could-rewrite-the-holiday-shopping-season",
     "image": null,
     "pushedAt": "2026-11-26T05:02:25.241Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+    "title": "London Banning Noise and Capping Fares for Its Pedicabs",
+    "titleZh": "倫敦禁止噪音並限制三輪車票價",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-pedicab/25xp-pedicab-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T05:06:34.681Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
+    "title": "They Bought Their Dream Home. Their Neighbors Want to Evict Them.",
+    "titleZh": "他們買了自己的夢想之家。他們的鄰居想要驅逐他們。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26italy-passolini-01-vwzh/26italy-passolini-01-vwzh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T05:06:40.415Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+    "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+    "titleZh": "日本首相高市在中國峰會上是否受到冷落？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T05:06:45.413Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+    "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
+    "titleZh": "屋頂瓦可以減少室內熱嗎？印度正在尋找答案。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/INDIA-WARM-NIGHTS-SOLUTIONS-01-bthv/INDIA-WARM-NIGHTS-SOLUTIONS-01-bthv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T05:06:49.552Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+    "title": "The Unbearable Heat of Delhi’s Summer Nights",
+    "titleZh": "德里夏夜的炎熱難以忍受",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/INDIA-WARM-NIGHTS-01-hqfc/INDIA-WARM-NIGHTS-01-hqfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T05:06:54.066Z"
   }
 ]
