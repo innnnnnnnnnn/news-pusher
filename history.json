@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/thailand-s-informal-economy-keeps-78-of-firms-off-the-books",
-    "title": "Thailand’s Informal Economy Keeps 78% of Firms Off the Books",
-    "titleZh": "泰國的非正規經濟導致 78% 的企業無法入帳",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/thailand-s-informal-economy-keeps-78-of-firms-off-the-books",
-    "image": null,
-    "pushedAt": "2026-11-24T13:28:13.431Z"
-  },
-  {
     "id": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
     "title": "The UK takes a step back towards the EU",
     "titleZh": "英國向歐盟退一步",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
     "image": "https://static01.nyt.com/images/2026/11/26/science/26CLI-SPYING-SEABIRDS-02/26CLI-SPYING-SEABIRDS-02-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T10:08:45.104Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+    "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+    "titleZh": "照片：梅西百貨感恩節遊行歷史與古怪時刻",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/xp-parade-moments-photos-01-zqpc/xp-parade-moments-photos-01-zqpc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:09:15.229Z"
   }
 ]
