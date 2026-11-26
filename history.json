@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-bets-on-crispy-chicken-and-ai-drive-thrus",
-    "title": "McDonald’s Bets on Crispy Chicken and AI Drive-Thrus",
-    "titleZh": "麥當勞押注脆皮雞和人工智慧得來速",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-bets-on-crispy-chicken-and-ai-drive-thrus",
-    "image": null,
-    "pushedAt": "2026-11-24T15:40:56.773Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
-    "title": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
-    "titleZh": "加拿大皇家銀行 (RBC) 的吳西爾弗曼 (Wu Silverman) 表示，英偉達市場的衝擊遠未結束",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
-    "image": null,
-    "pushedAt": "2026-11-24T13:30:16.586Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
     "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
     "titleZh": "Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
@@ -4920,7 +4902,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25db-nvda-kfvq/25db-nvda-kfvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T10:24:34.080Z"
+    "pushedAt": "2026-11-26T12:34:59.270Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/huang-is-worth-up-to-10-trillion-to-the-market-ives-video",
@@ -5307,7 +5289,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d",
     "image": null,
-    "pushedAt": "2026-11-26T10:26:21.181Z"
+    "pushedAt": "2026-11-26T12:36:13.324Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
@@ -8456,8 +8438,8 @@
     "titleZh": "法德因歐盟國防預算中的「歐洲製造」發生衝突",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T10:25:24.447Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27030728-f3a2-4c16-956e-f97143096704.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-26T12:35:24.002Z"
   },
   {
     "id": "https://www.ft.com/content/bddce920-71a7-40b5-9c03-e01a4102a341",
@@ -8466,7 +8448,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bddce920-71a7-40b5-9c03-e01a4102a341?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T10:25:28.499Z"
+    "pushedAt": "2026-11-26T12:35:49.612Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/stanchart-s-crypto-custody-unit-suffers-data-breach",
     "image": null,
     "pushedAt": "2026-11-26T12:34:32.028Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms",
+    "title": "Congo Pitches $15 Billion Infrastructure Deals as Mining Booms",
+    "titleZh": "隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms",
+    "image": null,
+    "pushedAt": "2026-11-26T12:36:40.713Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans",
+    "title": "BBVA Weighs SRT to Hedge About $500 Million of Data Center Loans",
+    "titleZh": "BBVA 考慮使用 SRT 對沖約 5 億美元的資料中心貸款",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans",
+    "image": null,
+    "pushedAt": "2026-11-26T12:36:46.081Z"
   }
 ]
