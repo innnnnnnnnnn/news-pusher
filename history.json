@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/south-korea-considers-potential-3-billion-dollar-bond-sale",
-    "title": "South Korea Considers Potential $3 Billion Dollar Bond Sale",
-    "titleZh": "韓國考慮出售 30 億美元債券",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/south-korea-considers-potential-3-billion-dollar-bond-sale",
-    "image": null,
-    "pushedAt": "2026-11-24T08:37:33.966Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
-    "title": "Latam Currencies Lag Emerging Peers as Global Selloff Weighs",
-    "titleZh": "黃仁勳回歸重振人工智慧貿易，新興市場股市上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-25T01:45:37.542Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/worldremit-founder-takes-aim-at-global-migrant-banking-market",
-    "title": "WorldRemit Founder Takes Aim at Global Migrant Banking Market",
-    "titleZh": "WorldRemit 創辦人瞄準全球移民銀行市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/worldremit-founder-takes-aim-at-global-migrant-banking-market",
-    "image": null,
-    "pushedAt": "2026-11-24T11:05:50.630Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/copper-rally-fades-as-demand-worries-deepen-video",
     "title": "Copper Rally Fades as Demand Worries Deepen",
     "titleZh": "隨著需求擔憂加深，銅價漲勢消退（影片）",
@@ -1347,7 +1320,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-indonesia-fire-02-hwkg/24int-indonesia-fire-02-hwkg-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T06:24:23.220Z"
+    "pushedAt": "2026-11-26T08:30:52.204Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto",
@@ -7539,7 +7512,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
     "image": null,
-    "pushedAt": "2026-11-26T06:24:48.063Z"
+    "pushedAt": "2026-11-26T08:31:16.929Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
@@ -7548,7 +7521,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
     "image": null,
-    "pushedAt": "2026-11-26T06:25:13.312Z"
+    "pushedAt": "2026-11-26T08:31:40.875Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-deals-11-25-2026-video",
@@ -8998,5 +8971,32 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
     "image": null,
     "pushedAt": "2026-11-26T08:14:43.320Z"
+  },
+  {
+    "id": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79",
+    "title": "China made Shenzhen a showcase for tech prowess at Apec summit",
+    "titleZh": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T08:32:07.744Z"
+  },
+  {
+    "id": "https://www.ft.com/content/722ecb81-51cc-4897-baa9-cb80c4d2fe4a",
+    "title": "Tata Trusts launch first legal salvo in boardroom battle",
+    "titleZh": "塔塔信託公司在董事會之爭中發動首次法律攻勢",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/722ecb81-51cc-4897-baa9-cb80c4d2fe4a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T08:32:11.247Z"
+  },
+  {
+    "id": "https://www.ft.com/content/d10e7600-2f98-42d6-8262-19f0a57d1112",
+    "title": "UniCredit to propose Orcel as chair of Commerzbank",
+    "titleZh": "聯合信貸銀行提名奧塞爾擔任德國商業銀行董事長",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/d10e7600-2f98-42d6-8262-19f0a57d1112?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T08:32:13.808Z"
   }
 ]
