@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
-    "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
-    "titleZh": "餐廳恢復電話預訂。人類可能不包括在內。",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:40:57.426Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
-    "title": "More (and More) Black Friday Travel Deals",
-    "titleZh": "更多（和更多）黑色星期五旅遊優惠",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
-    "image": null,
-    "pushedAt": "2026-11-26T09:41:21.620Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
     "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
     "titleZh": "從中國工廠小鎮到英偉達醜聞：愛麗絲黃的崛起",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
     "image": null,
     "pushedAt": "2026-11-26T11:00:03.424Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+    "titleZh": "市議會稱年輕的紐約人正在失去卡爾希",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T11:00:32.342Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+    "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
+    "titleZh": "當聯邦航空管理局的全國地面站暫停航班時，航空高級官員正在出差",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+    "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T11:00:35.310Z"
   }
 ]
