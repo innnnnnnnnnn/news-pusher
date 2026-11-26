@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/the-oil-market-is-talking-about-a-surplus-again",
-    "title": "The Oil Market Is Talking About a Surplus Again",
-    "titleZh": "石油市場再次談論過剩",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/the-oil-market-is-talking-about-a-surplus-again",
-    "image": null,
-    "pushedAt": "2026-11-24T14:51:36.094Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
-    "title": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
-    "titleZh": "210億美元基金青睞非洲本地債券，加大對烏幹達的押注",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
-    "image": null,
-    "pushedAt": "2026-11-24T14:52:00.544Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
-    "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
-    "titleZh": "伊朗歌手因不戴頭巾表演而被鞭打 74 下",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
-    "image": null,
-    "pushedAt": "2026-11-26T12:29:03.233Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/congressional-us-china-watchdog-on-jensen-huang-s-return-video",
-    "title": "Congressional US-China Watchdog on Huang's Return to Nvidia",
-    "titleZh": "國會美中監管機構關注黃重返英偉達",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/congressional-us-china-watchdog-on-jensen-huang-s-return-video",
-    "image": null,
-    "pushedAt": "2026-11-24T19:30:37.842Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/france-2027-budget-when-it-is-article-49-3-and-executive-orders",
     "title": "France 2027 Budget: When It Is, Article 49.3 and Executive Orders",
     "titleZh": "法國 2027 年預算：何時實施、第 49.3 條和行政命令",
@@ -1734,7 +1698,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T12:04:30.543Z"
+    "pushedAt": "2026-11-26T14:11:34.611Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-korea-seen-resuming-rate-hikes-as-ai-boom-stokes-growth",
@@ -8556,7 +8520,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
     "image": null,
-    "pushedAt": "2026-11-26T12:04:56.313Z"
+    "pushedAt": "2026-11-26T14:11:59.012Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/lagarde-says-ai-has-helped-europe-withstand-higher-energy-prices",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/energy-trader-bgn-targets-agriculture-in-latest-expansion-push",
     "image": null,
     "pushedAt": "2026-11-26T14:11:07.182Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/26/welcome-to-baby-governor-school",
+    "title": "Welcome to baby governor school!",
+    "titleZh": "歡迎來到寶貝州長學校！",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/26/welcome-to-baby-governor-school",
+    "image": null,
+    "pushedAt": "2026-11-26T14:12:27.297Z"
+  },
+  {
+    "id": "https://www.economist.com/united-states/2026/11/26/congress-takes-aim-at-the-red-tape-that-makes-it-hard-to-build",
+    "title": "Congress takes aim at the red tape that makes it hard to build",
+    "titleZh": "國會瞄準了導致建設困難的繁文縟節",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/united-states/2026/11/26/congress-takes-aim-at-the-red-tape-that-makes-it-hard-to-build",
+    "image": null,
+    "pushedAt": "2026-11-26T14:12:33.071Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/26/china-releases-the-first-ever-ai-generated-movie",
+    "title": "China releases the first-ever AI-generated movie",
+    "titleZh": "中國首部人工智慧電影上映",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/26/china-releases-the-first-ever-ai-generated-movie",
+    "image": null,
+    "pushedAt": "2026-11-26T14:12:38.680Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/26/hong-kongers-commemorate-the-tai-po-fire",
+    "title": "Hong Kongers commemorate the Tai Po fire",
+    "titleZh": "香港人紀念大埔火災",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/26/hong-kongers-commemorate-the-tai-po-fire",
+    "image": null,
+    "pushedAt": "2026-11-26T14:12:43.987Z"
   }
 ]
