@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
-    "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
-    "titleZh": "C.F.T.C.官員考慮調查川普的迷因幣，然後遭到打擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T09:41:08.533Z"
-  },
-  {
     "id": "https://www.ft.com/content/ecdc724e-5923-4e57-9d72-c6551c9634f9",
     "title": "Does Jensen Huang’s return to Nvidia mean the chip group is too big to fail?",
     "titleZh": "黃仁勳回歸英偉達是否意味著該晶片集團大而不能倒？",
@@ -582,7 +573,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:25:01.087Z"
+    "pushedAt": "2026-11-26T07:31:36.770Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
@@ -591,7 +582,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
     "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:25:50.265Z"
+    "pushedAt": "2026-11-26T07:32:27.781Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
@@ -1194,7 +1185,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:24:36.308Z"
+    "pushedAt": "2026-11-26T07:31:12.226Z"
   },
   {
     "id": "https://flipso.com/p/dd44ceae75dd5dadb8df9b78e22ea0d0",
@@ -8061,7 +8052,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/bok-hikes-rate-on-stubborn-inflation-as-ai-boom-drives-growth",
     "image": null,
-    "pushedAt": "2026-11-26T05:25:26.170Z"
+    "pushedAt": "2026-11-26T07:32:01.779Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
@@ -8232,7 +8223,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F18a8a7c1-e023-423b-a9f3-892dd8b26cab.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-26T05:26:14.472Z"
+    "pushedAt": "2026-11-26T07:32:53.847Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-26/china-us-must-manage-ai-risks-ex-negotiator-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-asia-trade-11-26-2026-video",
     "image": null,
     "pushedAt": "2026-11-26T07:30:43.583Z"
+  },
+  {
+    "id": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f",
+    "title": "It’s an earnings bubble, not a valuation bubble",
+    "titleZh": "這是獲利泡沫，而不是估值泡沫",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T07:33:21.331Z"
   }
 ]
