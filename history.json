@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
-    "title": "Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away",
-    "titleZh": "為什麼我們很多人都有慢性背痛，為什麼它不會消失",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
-    "image": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-pain-01/06mag-pain-01-mediumSquareAt3X-v4.jpg",
-    "pushedAt": "2026-11-24T22:21:50.964Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/nyregion/campaign-solicitation-came-with-unusual-offer-can-i-zelle-you-money.html",
     "title": "‘Can I Zelle You Money?’: How a Candidate Secretly Funded Her Campaign",
     "titleZh": "活動徵集帶來了不尋常的提議：“我能給你錢嗎？”",
@@ -375,7 +366,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T09:56:01.495Z"
+    "pushedAt": "2026-11-26T12:03:35.459Z"
   },
   {
     "id": "https://www.ft.com/content/94863aab-4c10-4e93-b3d8-63a764efa409",
@@ -3777,7 +3768,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
     "image": null,
-    "pushedAt": "2026-11-26T09:54:48.858Z"
+    "pushedAt": "2026-11-26T12:02:46.633Z"
   },
   {
     "id": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
@@ -6972,7 +6963,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/23Phumzile-Mlambo-Ngcuka-vblz-print1/23Phumzile-Mlambo-Ngcuka-vblz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:55:13.002Z"
+    "pushedAt": "2026-11-26T12:03:11.264Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/dan-loeb-s-third-point-hedge-fund-resumes-private-investments",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans",
     "image": null,
     "pushedAt": "2026-11-26T12:02:18.560Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
+    "title": "TrustedRouter Aims to Give Companies Greater Privacy With AI",
+    "titleZh": "TrustedRouter 旨在透過人工智慧為公司提供更大的隱私",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
+    "image": null,
+    "pushedAt": "2026-11-26T12:04:03.267Z"
   }
 ]
