@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514",
-    "title": "FirstFT: Investors welcome Jensen Huang’s return",
-    "titleZh": "FirstFT：黃仁勳復職後，Nvidia 的價值增加了近 1 兆美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T00:05:06.497Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
     "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
     "titleZh": "神職人員性虐待的受害者希望教宗利奧更多參與",
@@ -1554,7 +1545,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-uk-harry-meghan-aaaa/24int-uk-harry-meghan-aaaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T23:14:26.713Z"
+    "pushedAt": "2026-11-26T01:24:26.585Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
@@ -7453,12 +7444,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
-    "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
+    "title": "Billions in Data Center Deals Grind to Halt After Chip Curbs",
     "titleZh": "人工智慧晶片受到限制後，數十億美元的資料中心交易陷入停滯",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
     "image": null,
-    "pushedAt": "2026-11-25T20:31:37.561Z"
+    "pushedAt": "2026-11-26T01:24:01.869Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/deere-down-on-earnings-dell-lower-despite-server-sales-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
     "image": null,
     "pushedAt": "2026-11-26T01:23:08.175Z"
+  },
+  {
+    "id": "https://www.ft.com/content/c6b0e13f-9c87-4e8b-8847-8553162d2435",
+    "title": "UK university ‘grade inflation’ highest in degrees with more coursework, says study",
+    "titleZh": "研究稱，英國大學「成績通膨」最高的是課程作業較多的學位",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/c6b0e13f-9c87-4e8b-8847-8553162d2435?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T01:24:52.282Z"
   }
 ]
