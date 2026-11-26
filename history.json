@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/the-china-show-11-24-2026-video",
-    "title": "Jensen Huang's Return to Nvidia Lifts Asian Markets",
-    "titleZh": "黃仁勳重返 Nvidia 提振亞洲市場",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-china-show-11-24-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-24T12:03:09.517Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
-    "title": "Franklin Templeton Urges Investors to Look Beyond the AI Trade",
-    "titleZh": "富蘭克林鄧普頓敦促投資者超越人工智慧貿易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-24T07:54:03.533Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/dangote-clears-key-hurdle-toward-africa-s-biggest-listing",
     "title": "Dangote Clears Key Hurdle Toward Africa’s Biggest Listing",
     "titleZh": "丹格特掃清了非洲最大上市的關鍵障礙",
@@ -4299,7 +4281,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
     "image": null,
-    "pushedAt": "2026-11-26T07:10:07.678Z"
+    "pushedAt": "2026-11-26T09:17:24.976Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
@@ -7773,7 +7755,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T07:08:42.680Z"
+    "pushedAt": "2026-11-26T09:16:36.733Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
@@ -7782,7 +7764,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T07:09:42.430Z"
+    "pushedAt": "2026-11-26T09:17:00.840Z"
   },
   {
     "id": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/boj-s-paper-gains-from-etfs-surge-as-takaichi-seeks-funding",
     "image": null,
     "pushedAt": "2026-11-26T09:16:09.095Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c",
+    "title": "Babcock secures record £8.7bn contract to support Royal Navy submarines",
+    "titleZh": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T09:17:53.865Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8",
+    "title": "FCA admits miscalculating compensation in £9bn car mis-selling redress scheme",
+    "titleZh": "FCA承認在90億英鎊汽車不當銷售補救計劃中錯誤計算了賠償金",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T09:17:56.817Z"
   }
 ]
