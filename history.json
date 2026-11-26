@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
-    "title": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?",
-    "titleZh": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-24T10:45:27.236Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-says-it-s-prudent-to-hike-as-inflation-broadens",
-    "title": "ECB’s Simkus Says ‘Prudent’ to Hike as Inflation Broadens",
-    "titleZh": "歐洲央行行長西姆庫斯表示，隨著通膨加劇，升息是「謹慎」的做法",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-says-it-s-prudent-to-hike-as-inflation-broadens",
-    "image": null,
-    "pushedAt": "2026-11-25T00:25:29.400Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
     "title": "European Auto Sales Increase Again on Surging EV Demand",
     "titleZh": "電動車需求激增，歐洲汽車銷量再次成長（影片）",
@@ -4326,7 +4308,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
     "image": null,
-    "pushedAt": "2026-11-26T07:59:06.832Z"
+    "pushedAt": "2026-11-26T10:06:19.590Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
@@ -6432,7 +6414,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
     "image": null,
-    "pushedAt": "2026-11-26T07:58:41.679Z"
+    "pushedAt": "2026-11-26T10:05:55.237Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/us/measles-cases-thanksgiving.html",
@@ -8385,7 +8367,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/33772353-35dd-4e5a-89e4-b75dccbd9eca?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T07:58:16.974Z"
+    "pushedAt": "2026-11-26T10:05:31.216Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/f5cee49c10d85552b29910f5980ac9ac",
     "image": null,
     "pushedAt": "2026-11-26T10:05:03.969Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/south-africa-s-idc-in-talks-for-257-million-stake-in-sugar-firm",
+    "title": "South Africa’s IDC in Talks for $257 Million Stake in Sugar Firm",
+    "titleZh": "南非 IDC 正在洽談收購糖業公司 2.57 億美元的股份",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/south-africa-s-idc-in-talks-for-257-million-stake-in-sugar-firm",
+    "image": null,
+    "pushedAt": "2026-11-26T10:06:47.410Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
+    "title": "German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
+    "titleZh": "隨著投資者轉向資產互換，德國債券避風港交易發生變化",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
+    "image": null,
+    "pushedAt": "2026-11-26T10:06:51.753Z"
   }
 ]
