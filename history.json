@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763",
-    "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
-    "titleZh": "黃仁勳回歸後，川普買進英偉達股票高達 1,500 萬美元",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fad900c45-81d6-4ce2-8da2-278d34c42baa.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T20:02:53.308Z"
-  },
-  {
     "id": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514",
     "title": "FirstFT: Investors welcome Jensen Huang’s return",
     "titleZh": "FirstFT：黃仁勳復職後，Nvidia 的價值增加了近 1 兆美元",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
     "image": null,
     "pushedAt": "2026-11-26T01:19:00.247Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
+    "title": "Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
+    "titleZh": "《華爾街日報》稱，第三季態勢感知能力下降了 65%",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
+    "image": null,
+    "pushedAt": "2026-11-26T01:23:08.175Z"
   }
 ]
