@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859",
-    "title": "Russian navy licks its wounds as another warship is sunk",
-    "titleZh": "另一艘軍艦被擊沉，俄羅斯海軍舔舐傷口",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42352d74-40bb-4547-a665-d95c5abdc84c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T04:45:47.576Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-    "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
-    "titleZh": "日產在遭受駭客攻擊後關閉了用於維修的系統",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-nissan-kgtl/20biz-nissan-kgtl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T13:14:06.598Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/lemssouguer-s-big-unwind-offers-glimpse-into-complex-credit-bets",
-    "title": "Lemssouguer’s Big Unwind Offers Glimpse Into Complex Credit Bets",
-    "titleZh": "Lemssouguer 的大放鬆讓我們得以一睹複雜的信貸賭注",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/lemssouguer-s-big-unwind-offers-glimpse-into-complex-credit-bets",
-    "image": null,
-    "pushedAt": "2026-11-24T11:06:20.126Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/lme-speeds-up-procedure-for-listing-metal-from-new-plants",
-    "title": "LME Speeds Up Procedure for Listing Metal From New Plants",
-    "titleZh": "LME 加快新廠金屬的上市程序",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-speeds-up-procedure-for-listing-metal-from-new-plants",
-    "image": null,
-    "pushedAt": "2026-11-24T11:06:24.991Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/forced-buying-aided-biggest-rally-since-april-2025-nomura-says",
     "title": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
     "titleZh": "野村證券表示，強制買盤推動了自 2025 年 4 月以來最大規模的反彈",
@@ -4479,7 +4443,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-11-16-tarmacdelays-index/2026-11-16-tarmacdelays-index-mediumSquareAt3X-v15.png",
-    "pushedAt": "2026-11-26T10:12:44.675Z"
+    "pushedAt": "2026-11-26T12:23:13.882Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html",
@@ -4488,7 +4452,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-disney-iger-3-ctbh/24biz-disney-iger-3-ctbh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T10:13:34.376Z"
+    "pushedAt": "2026-11-26T12:24:03.516Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
@@ -8151,7 +8115,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-26/ai-trade-rebounds-in-late-buying-ahead-of-us-holiday-video",
     "image": null,
-    "pushedAt": "2026-11-26T10:13:09.633Z"
+    "pushedAt": "2026-11-26T12:23:39.064Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-pulse-with-francine-lacqua-11-26-2026-video",
     "image": null,
     "pushedAt": "2026-11-26T12:22:46.726Z"
+  },
+  {
+    "id": "https://www.ft.com/content/77d25f83-9fde-4bf8-a589-4620a5ac6288",
+    "title": "Minotaur is a breathtaking portrait of wealthy Russians turning a blind eye to war",
+    "titleZh": "牛頭怪是富有的俄羅斯人對戰爭視而不見的令人驚嘆的寫照",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/77d25f83-9fde-4bf8-a589-4620a5ac6288?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T12:24:31.913Z"
+  },
+  {
+    "id": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f",
+    "title": "Trafigura calls for greater European metals support after shutting smelter",
+    "titleZh": "托克呼籲歐洲在關閉冶煉廠後提供更多金屬支持",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T12:24:37.252Z"
+  },
+  {
+    "id": "https://www.ft.com/content/92eedbaf-f833-4121-9a98-271d23e5fba0",
+    "title": "14th is a punchy biopic of the amendment and its links to Maga politics",
+    "titleZh": "第 14 部是一部有力的傳記片，講述了修正案及其與馬加政治的聯繫",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/92eedbaf-f833-4121-9a98-271d23e5fba0?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T12:24:42.366Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c",
+    "title": "Nintendo and Sony ready for a two-level battle with AI",
+    "titleZh": "任天堂和索尼準備與人工智慧展開兩級戰鬥",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-26T12:24:46.836Z"
   }
 ]
