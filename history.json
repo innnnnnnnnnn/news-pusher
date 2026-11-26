@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-    "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-    "titleZh": "與西班牙首相一起努力取得勝利",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-spain-sanchez-01-clpt/21int-spain-sanchez-01-clpt-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-25T01:53:05.881Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/codelco-offers-lower-copper-premiums-to-revive-sales-to-china",
-    "title": "Codelco Offers Lower Copper Premiums to Revive Sales to China",
-    "titleZh": "Codelco提供較低的銅溢價以重振對中國的銷售",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/codelco-offers-lower-copper-premiums-to-revive-sales-to-china",
-    "image": null,
-    "pushedAt": "2026-11-24T14:50:14.436Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/edf-unit-plans-1-billion-forge-as-new-nuclear-push-readied",
     "title": "EDF Unit Plans €1 Billion Forge as New Nuclear Push Readied",
     "titleZh": "EDF單位計畫投資10億歐元打造新核能",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
     "image": null,
     "pushedAt": "2026-11-26T16:20:13.203Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+    "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
+    "titleZh": "有證據表明，陸軍很早就知道愛荷華州的爆炸風險",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T16:25:32.665Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/congo-gold-trader-plans-two-refineries-with-68-ton-capacity",
+    "title": "Congo Gold Trader Plans Two Refineries with 68-Ton Capacity",
+    "titleZh": "剛果黃金交易商計劃興建兩座產能 68 噸的精煉廠",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-gold-trader-plans-two-refineries-with-68-ton-capacity",
+    "image": null,
+    "pushedAt": "2026-11-26T16:25:34.588Z"
   }
 ]
