@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-    "title": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
-    "titleZh": "是「A.I.」特工來買我們的酵母發酵劑嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20FD-sourdough-shortcut-promo1-fcwp/20FD-sourdough-shortcut-promo1-fcwp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T00:39:49.261Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video",
     "title": "Emily Kilcrease on Jensen Huang’s Return to Nvidia",
     "titleZh": "Emily Kilcrease 談黃仁勳重返 Nvidia",
@@ -2292,7 +2283,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T00:04:13.230Z"
+    "pushedAt": "2026-11-26T02:11:22.270Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-leaves-interest-rate-unchanged-before-presidential-poll",
@@ -7233,7 +7224,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-proposes-excess-capacity-tariffs-full-list",
     "image": null,
-    "pushedAt": "2026-11-26T00:05:30.363Z"
+    "pushedAt": "2026-11-26T02:12:11.057Z"
   },
   {
     "id": "https://flipso.com/p/2d12fefabdb65c89949c656e87edeb10",
@@ -8799,7 +8790,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
     "image": null,
-    "pushedAt": "2026-11-26T00:04:39.746Z"
+    "pushedAt": "2026-11-26T02:11:46.872Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fadec4995-dc2e-4f9e-994f-067dce469ae4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-26T02:08:00.314Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+    "title": "Copper Rebounds From Lowest This Year as Volatility Hits Metals",
+    "titleZh": "由於波動性打擊金屬，銅價從今年最低點反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+    "image": null,
+    "pushedAt": "2026-11-26T02:12:38.734Z"
   }
 ]
