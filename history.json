@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-    "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-    "titleZh": "從中國工廠小鎮到英偉達醜聞：愛麗絲黃的崛起",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:42:14.842Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
-    "title": "Medicare Hospice Caps Leave Patients Without Care",
-    "titleZh": "醫療保險臨終關懷帽讓病人失去護理",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:42:40.025Z"
-  },
-  {
     "id": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
     "title": "The EU reset is crucial for British business",
     "titleZh": "歐盟重置對英國企業至關重要",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
     "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T11:00:35.310Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+    "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
+    "titleZh": "餐廳恢復電話預訂。人類可能不包括在內。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T11:01:04.215Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
+    "title": "More (and More) Black Friday Travel Deals",
+    "titleZh": "更多（和更多）黑色星期五旅遊優惠",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
+    "image": null,
+    "pushedAt": "2026-11-26T11:01:06.948Z"
   }
 ]
