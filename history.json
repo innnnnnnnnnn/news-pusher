@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/congressman-questions-huang-reinstatement-video",
-    "title": "Congressman Questions Huang Reinstatement",
-    "titleZh": "國會議員質疑黃復職",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/congressman-questions-huang-reinstatement-video",
-    "image": null,
-    "pushedAt": "2026-11-24T18:19:53.039Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/consumer-mood-improves-into-holidays-but-risks-loom-video",
     "title": "Consumer Mood Improves Into Holidays, But Risks Loom",
     "titleZh": "假期來臨，消費者情緒有所改善，但風險迫在眉睫",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T20:47:13.138Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+    "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+    "titleZh": "英國公佈與傑弗裡·愛潑斯坦有關的大使彼得·曼德爾森的文件",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T20:52:04.621Z"
   }
 ]
