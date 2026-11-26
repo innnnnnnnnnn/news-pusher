@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
-    "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
-    "titleZh": "英偉達興奮消退、新關稅浮出水面，納斯達克 100 指數暴跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
-    "image": null,
-    "pushedAt": "2026-11-25T01:22:39.816Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/unprecedented-cmbs-debt-wipeout-is-coming-for-two-hilton-hotels",
     "title": "Unprecedented CMBS Debt Wipeout Is Coming for Two Hilton Hotels",
     "titleZh": "兩家希爾頓酒店將獲得前所未有的 CMBS 債務消除",
@@ -8565,7 +8556,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c4affa94-263d-4bab-959a-b26fc7cc8077?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T19:59:53.077Z"
+    "pushedAt": "2026-11-26T22:01:36.380Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-set-to-pass-gas-reserve-law-in-upset-to-lng-exporters",
     "image": null,
     "pushedAt": "2026-11-26T22:01:07.174Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
+    "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
+    "titleZh": "假期測試來自Google、亞馬遜、Meta 和 OpenAI 的人工智慧購物機器人",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
+    "image": null,
+    "pushedAt": "2026-11-26T22:02:03.880Z"
   }
 ]
