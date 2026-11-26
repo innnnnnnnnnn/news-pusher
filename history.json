@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/5d42ba2d-88c2-494c-b794-8c883b735466",
-    "title": "Labour’s plans to take back control hit an old snag",
-    "titleZh": "工黨奪回控制權的計劃遇到了老問題",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/5d42ba2d-88c2-494c-b794-8c883b735466?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T16:28:31.154Z"
-  },
-  {
-    "id": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9",
-    "title": "Roche says breast cancer pill could be best-selling drug ever",
-    "titleZh": "羅氏稱乳癌藥物可能成為有史以來最暢銷的藥物",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T23:13:17.362Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
-    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
-    "titleZh": "市議會稱年輕的紐約人正在失去卡爾希",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:38:06.383Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-    "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
-    "titleZh": "全國航班暫停時，航空高級官員正在出差",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:38:55.563Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
     "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
     "titleZh": "餐廳恢復電話預訂。人類可能不包括在內。",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
     "image": null,
     "pushedAt": "2026-11-26T10:59:20.183Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+    "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+    "titleZh": "兩黨都希望監管人工智慧在國會面臨障礙",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-cong-ai-01-lvcp/25dc-cong-ai-01-lvcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:59:50.014Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/us/turkey-art-stamps-thanksgiving-minnesota.html",
+    "title": "To Many, Turkeys Are Dinner. To These Artists, They’re the Perfect Muse.",
+    "titleZh": "對許多人來說，火雞就是晚餐。对于这些艺术家来说，他们是完美的缪斯。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/us/turkey-art-stamps-thanksgiving-minnesota.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-turkey-art-top-4-gblj/26nat-turkey-art-top-4-gblj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:59:54.327Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
+    "title": "How a Thanksgiving Tradition Connects to Presidential Powers",
+    "titleZh": "感恩節傳統如何與總統權力連結起來",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
+    "image": null,
+    "pushedAt": "2026-11-26T10:59:59.129Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+    "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+    "titleZh": "6 個工藝靜修處提供適合所有技能等級的編織、陶器等活動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+    "image": null,
+    "pushedAt": "2026-11-26T11:00:03.424Z"
   }
 ]
