@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
-    "title": "The UK takes a step back towards the EU",
-    "titleZh": "英國向歐盟退一步",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
-    "image": null,
-    "pushedAt": "2026-11-24T20:25:11.696Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
-    "title": "Xi Plays Long Game on US Chip Retaliation After Nvidia Saga",
-    "titleZh": "中國暫停重要礦產禁令以維持與美國的休戰",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
-    "image": null,
-    "pushedAt": "2026-11-25T02:51:36.688Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
     "title": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
     "titleZh": "澳洲計劃簽署另一項協議以阻止中國進入太平洋",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/xp-parade-moments-photos-01-zqpc/xp-parade-moments-photos-01-zqpc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T10:09:15.229Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
+    "title": "‘Pumpkin Pie Is Disgusting’ and Other Unpopular Opinions",
+    "titleZh": "「南瓜派真噁心」和其他不受歡迎的觀點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
+    "image": null,
+    "pushedAt": "2026-11-26T10:09:45.450Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html",
+    "title": "Trump Lost My Brother!",
+    "titleZh": "川普失去了我的兄弟！",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/opinion/26dowd-kevin/26dowd-kevin-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:09:50.619Z"
   }
 ]
