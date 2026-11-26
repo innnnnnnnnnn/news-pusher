@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video",
-    "title": "Anthropic Shares Fall Below IPO Price of $83",
-    "titleZh": "Anthropic 股價跌破 83 美元的 IPO 價格",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video",
-    "image": null,
-    "pushedAt": "2026-11-24T18:13:01.141Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/why-ai-pilots-struggle-to-scale-video",
     "title": "Why AI Pilots Struggle to Scale",
     "titleZh": "為什麼人工智慧試點難以擴大規模",
@@ -1608,7 +1599,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-health-taskforce-cvqw/25sp-dealbook-health-taskforce-cvqw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T17:46:39.936Z"
+    "pushedAt": "2026-11-26T19:40:28.446Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
     "image": null,
     "pushedAt": "2026-11-26T19:38:49.619Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+    "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+    "titleZh": "丹·卡尼去世了。他與人共同創立了必勝客，然後使其無處不在。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+    "image": null,
+    "pushedAt": "2026-11-26T19:40:54.729Z"
   }
 ]
