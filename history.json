@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
-    "title": "The EU reset is crucial for British business",
-    "titleZh": "歐盟重置對英國企業至關重要",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
-    "image": null,
-    "pushedAt": "2026-11-25T03:30:14.951Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-    "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-    "titleZh": "被指控監視英偉達執行長的愛麗絲黃與與中國軍方有聯繫的公司有聯繫",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T12:15:08.463Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
     "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
     "titleZh": "哈利和梅根在英國作為「非皇室成員」的生活",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
     "image": null,
     "pushedAt": "2026-11-26T11:01:06.948Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+    "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+    "titleZh": "從中國工廠小鎮到英偉達醜聞：愛麗絲黃的崛起",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T11:01:34.751Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+    "title": "Medicare Hospice Caps Leave Patients Without Care",
+    "titleZh": "醫療保險臨終關懷帽讓病人失去護理",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T11:01:37.597Z"
   }
 ]
