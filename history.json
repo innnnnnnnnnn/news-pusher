@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
-    "title": "Corporate spin-offs are getting out of control",
-    "titleZh": "企業分拆正在失控",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
-    "image": null,
-    "pushedAt": "2026-11-25T21:21:26.463Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
     "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
     "titleZh": "丹麥指控莫斯科策劃攻擊，驅逐俄羅斯外交官",
@@ -7314,7 +7305,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7283900d-43e6-4d9f-8ecd-d0b975d192dd",
     "image": null,
-    "pushedAt": "2026-11-26T11:56:43.767Z"
+    "pushedAt": "2026-11-26T14:04:59.913Z"
   },
   {
     "id": "https://www.ft.com/content/651b89f5-7262-43e8-a022-a068b935950b",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/leaders/2026/11/26/how-democrats-and-donald-trump-can-make-it-easier-to-build",
     "image": null,
     "pushedAt": "2026-11-26T14:04:32.846Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+    "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+    "titleZh": "川普的最新關稅再次成為向中國施壓的焦點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T14:05:27.071Z"
   }
 ]
