@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
-    "title": "European Auto Sales Increase Again on Surging EV Demand",
-    "titleZh": "電動車需求激增，歐洲汽車銷量再次成長（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
-    "image": null,
-    "pushedAt": "2026-11-24T10:53:03.600Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/chaotic-market-narrative-cuts-both-ways-3-minutes-mliv-video",
-    "title": "Chaotic Market Narrative Cuts Both Ways: Market Analysis",
-    "titleZh": "混亂的市場敘事是雙向的：市場分析",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/chaotic-market-narrative-cuts-both-ways-3-minutes-mliv-video",
-    "image": null,
-    "pushedAt": "2026-11-24T08:55:58.090Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/what-jensen-huang-s-stunning-return-means-for-the-ai-trade",
-    "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
-    "titleZh": "黃仁勳的驚人回報對人工智慧產業意味著什麼",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/what-jensen-huang-s-stunning-return-means-for-the-ai-trade",
-    "image": null,
-    "pushedAt": "2026-11-24T09:01:55.380Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast",
-    "title": "Odd Lots: What Huang’s Return Means for the AI Trade (Podcast)",
-    "titleZh": "奇怪的事情：黃的回歸對人工智慧產業意味著什麼（播客）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast",
-    "image": null,
-    "pushedAt": "2026-11-24T09:02:01.540Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/thailand-s-informal-economy-keeps-78-of-firms-off-the-books",
     "title": "Thailand’s Informal Economy Keeps 78% of Firms Off the Books",
     "titleZh": "泰國的非正規經濟導致 78% 的企業無法入帳",
@@ -4317,7 +4281,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "image": null,
-    "pushedAt": "2026-11-26T07:59:31.721Z"
+    "pushedAt": "2026-11-26T10:07:19.956Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
@@ -4326,7 +4290,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
     "image": null,
-    "pushedAt": "2026-11-26T08:00:21.344Z"
+    "pushedAt": "2026-11-26T10:08:08.610Z"
   },
   {
     "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
@@ -7881,7 +7845,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/dry-bulk-shipping-rates-climb-as-capesize-vessel-supply-tightens",
     "image": null,
-    "pushedAt": "2026-11-26T07:59:56.485Z"
+    "pushedAt": "2026-11-26T10:07:44.236Z"
   },
   {
     "id": "https://flipso.com/p/f0e7ed3dd0365f709677124833d330b0",
@@ -8998,5 +8962,41 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
     "image": null,
     "pushedAt": "2026-11-26T10:06:51.753Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+    "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+    "titleZh": "網路攻擊和炸彈威脅攻擊歐洲後，生存主義成為主流",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:08:34.947Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
+    "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
+    "titleZh": "薩爾瓦多的納伊布·布克萊 (Nayib Bukele) 因打擊幫派而振奮海地",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-haiti-bukele-kflb/25int-haiti-bukele-kflb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:08:37.862Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html",
+    "title": "The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.",
+    "titleZh": "急診室於下午 5 點關閉一名垂死的婦女遲到了 11 分鐘。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-bc-er-03/25xp-bc-er-03-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:08:41.253Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
+    "title": "How Birds With GPS and Audio Sensors Track Hidden Fishing Boats",
+    "titleZh": "帶有 GPS 和音訊感測器的鳥類如何追蹤隱藏的漁船",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/science/26CLI-SPYING-SEABIRDS-02/26CLI-SPYING-SEABIRDS-02-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:08:45.104Z"
   }
 ]
