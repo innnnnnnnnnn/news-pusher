@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/briefing/jensen-huang-returns-nvidia.html",
-    "title": "Too Big to Fail",
-    "titleZh": "太大而不能倒",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/briefing/jensen-huang-returns-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24theheadlines-huang/24theheadlines-huang-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T18:22:28.724Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
     "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
     "titleZh": "對中國來說，黃仁勳重返 Nvidia 是喜憂參半",
@@ -5487,7 +5478,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T11:06:10.282Z"
+    "pushedAt": "2026-11-26T13:18:29.325Z"
   },
   {
     "id": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/fb308d6caf8e55ad9d64a36e4610070f",
     "image": null,
     "pushedAt": "2026-11-26T13:15:53.731Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/ubs-vows-to-remain-global-as-swiss-capital-outlook-darkens",
+    "title": "UBS Vows to Remain Global as Swiss Capital Outlook Darkens",
+    "titleZh": "瑞士資本前景黯淡，瑞銀誓言維持全球地位",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/ubs-vows-to-remain-global-as-swiss-capital-outlook-darkens",
+    "image": null,
+    "pushedAt": "2026-11-26T13:18:57.477Z"
   }
 ]
