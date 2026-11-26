@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
-    "title": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
-    "titleZh": "由於談判陷入僵局，銅冶煉廠面臨日益惡化的擠壓",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
-    "image": null,
-    "pushedAt": "2026-11-24T05:57:58.316Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
-    "title": "US Blacklists Alibaba-Owned Company in Megaspeed Crackdown",
-    "titleZh": "美國將阿里巴巴旗下公司列入黑名單，人工智慧野心受挫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
-    "image": null,
-    "pushedAt": "2026-11-24T12:37:05.588Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/lula-fiscal-plan-approved-in-bid-to-calm-market-after-real-tanks",
     "title": "Lula Fiscal Plan Approved in Bid to Calm Market After Real Tanks",
     "titleZh": "盧拉財政計畫獲得批准，以穩定市場",
@@ -2112,7 +2094,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-france-trial-aaa/24int-france-trial-aaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T03:13:15.052Z"
+    "pushedAt": "2026-11-26T05:18:18.532Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/kaszek-raises-650-million-fund-for-latin-america-s-ai-startups",
@@ -4983,7 +4965,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/dc67b2bb-4295-4bf0-94b6-d08b1e9876da?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T03:12:50.690Z"
+    "pushedAt": "2026-11-26T05:17:54.579Z"
   },
   {
     "id": "https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-fedex-jpfq/26xp-fedex-jpfq-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T05:17:27.245Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3",
+    "title": "Paris and Berlin seek to shield EU budget from Marine Le Pen",
+    "titleZh": "巴黎和柏林尋求保護歐盟預算不受瑪麗娜·勒龐的影響",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F30123692-0145-4028-8d85-f349e6a49f20.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-26T05:18:44.974Z"
+  },
+  {
+    "id": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d",
+    "title": "Saudi Arabia prepares to delay flagship mining conference as attacks continue",
+    "titleZh": "由於襲擊仍在繼續，沙烏地阿拉伯準備推遲旗艦採礦會議",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61ab8e39-d5fa-479e-8d5f-0f6d585af3cd.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-26T05:18:49.051Z"
   }
 ]
