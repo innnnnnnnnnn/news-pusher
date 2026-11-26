@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/copper-rally-fades-as-demand-worries-deepen-video",
-    "title": "Copper Rally Fades as Demand Worries Deepen",
-    "titleZh": "隨著需求擔憂加深，銅價漲勢消退（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/copper-rally-fades-as-demand-worries-deepen-video",
-    "image": null,
-    "pushedAt": "2026-11-24T08:53:51.775Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-24/ftse-100-live-updates-pound-gilts-gold-prices-uk-retail-sales-nvidia-ai-stocks-jensen-huang-trump-iran-what-s-moving-uk-markets-right-now-markets-today-mwucfxwp",
     "title": "FTSE 100 Live: UK Stocks Dip After Nvidia-Driven Bounce",
     "titleZh": "富時 100 指數直播：英國股市將加入全球股市漲勢",
@@ -3309,7 +3300,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "image": null,
-    "pushedAt": "2026-11-26T06:25:40.258Z"
+    "pushedAt": "2026-11-26T08:32:41.259Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/d10e7600-2f98-42d6-8262-19f0a57d1112?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-26T08:32:13.808Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+    "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
+    "titleZh": "伊斯蘭國襲擊造成兩名敘利亞安全部隊成員死亡",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-Syria-attack-gpwh/26int-Syria-attack-gpwh-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T08:33:07.255Z"
   }
 ]
