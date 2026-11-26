@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/dd44ceae75dd5dadb8df9b78e22ea0d0",
-    "title": "Own this website 2026-11-24 12:00",
-    "titleZh": "擁有本網站 2026-11-24 12:00",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/dd44ceae75dd5dadb8df9b78e22ea0d0",
-    "image": null,
-    "pushedAt": "2026-11-24T12:12:15.385Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-board-had-no-choice-but-to-bring-huang-back-cfra-video",
     "title": "Nvidia Board Had No Choice But to Bring Huang Back, Says CFRA’s Zino",
     "titleZh": "CFRA 的 Zino 表示，Nvidia 董事會別無選擇，只能讓黃回歸",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
     "image": null,
     "pushedAt": "2026-11-26T13:39:13.639Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+    "titleZh": "Nvidia 和 A.I. 股市下跌股市抹去了周一的部分漲勢",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T13:39:40.976Z"
   }
 ]
