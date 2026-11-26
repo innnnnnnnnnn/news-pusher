@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
-    "title": "US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis",
-    "titleZh": "美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
-    "image": null,
-    "pushedAt": "2026-11-24T00:29:56.715Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-23/belton-this-volatility-isn-t-healthy-for-the-market-video",
     "title": "John Belton: This Volatility Isn’t Healthy for the Market",
     "titleZh": "約翰貝爾頓：這種波動對市場不利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T00:56:07.510Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+    "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+    "titleZh": "川普政府對英偉達醜聞中心的新加坡公司 Megaspeed 實施制裁",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T00:56:35.295Z"
   }
 ]
