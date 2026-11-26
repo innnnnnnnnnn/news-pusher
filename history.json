@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/books/review/notable-books.html",
-    "title": "100 Notable Books of 2026",
-    "titleZh": "2026 年 100 本著名書籍",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/books/review/notable-books.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/books/24TBR-100Notables-MAIN/24TBR-100Notables-MAIN-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T11:02:21.744Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/us/haitians-deportations-canada-immigration.html",
-    "title": "Some Haitian Families Fleeing the U.S. for Canada Are Being Separated at the Border",
-    "titleZh": "逃離美國並四分五裂：北部邊境的家庭分離",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/us/haitians-deportations-canada-immigration.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-immig-separation-springfield-jwlt/24nat-immig-separation-springfield-jwlt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T17:36:52.671Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
     "title": "Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away",
     "titleZh": "為什麼我們很多人都有慢性背痛，為什麼它不會消失",
@@ -7863,7 +7845,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/7f81ffd9-c259-4f36-9e22-77269244de1b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T09:54:00.340Z"
+    "pushedAt": "2026-11-26T12:01:23.292Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
@@ -7872,7 +7854,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:54:24.704Z"
+    "pushedAt": "2026-11-26T12:01:48.694Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/well/joanna-bull-dead.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/asia/2026/11/26/nepals-ex-rapper-prime-minister-begs-india-for-cash",
     "image": null,
     "pushedAt": "2026-11-26T12:00:56.142Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-26/trump-s-latest-tariffs-undercut-the-china-plus-one-idea",
+    "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea",
+    "titleZh": "川普的最新關稅削弱了「中國加一」的概念",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trump-s-latest-tariffs-undercut-the-china-plus-one-idea",
+    "image": null,
+    "pushedAt": "2026-11-26T12:02:15.216Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans",
+    "title": "Trading partners respond to Trump tariff plans",
+    "titleZh": "貿易夥伴回應川普關稅計劃",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans",
+    "image": null,
+    "pushedAt": "2026-11-26T12:02:18.560Z"
   }
 ]
