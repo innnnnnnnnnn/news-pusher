@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9",
-    "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
-    "titleZh": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb16699e-0280-4d19-9806-b58813231625.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T00:26:44.086Z"
-  },
-  {
     "id": "https://www.ft.com/content/c1986225-a487-4153-8b03-8d68058fa6ee",
     "title": "‘South Africa cannot continue this way’: the unravelling of the ANC",
     "titleZh": "「南非不能繼續這樣下去」：非國大的解體",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/c0f06d02-7292-4096-896b-fbb1e3dfb668?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-26T06:32:13.295Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
+    "title": "Oil Rises as Houthis Attack Two Saudi Ports on Red Sea (Video)",
+    "titleZh": "胡塞武裝襲擊紅海兩個沙烏地阿拉伯港口，油價上漲（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
+    "image": null,
+    "pushedAt": "2026-11-26T06:32:42.399Z"
   }
 ]
