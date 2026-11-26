@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-leaves-interest-rate-unchanged-before-presidential-poll",
-    "title": "Nigeria Holds Rate, Sees Currency Volatility Easing Next Year",
-    "titleZh": "尼日利亞在總統投票前保持關鍵利率不變",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-leaves-interest-rate-unchanged-before-presidential-poll",
-    "image": null,
-    "pushedAt": "2026-11-25T06:56:45.175Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
     "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
     "titleZh": "印尼工廠火災死亡人數上升至26人，數十人下落不明",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/business/2026/11/26/the-maker-of-mandms-is-earning-big-money-keeping-pets-healthy",
     "image": null,
     "pushedAt": "2026-11-26T14:44:36.191Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+    "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+    "titleZh": "隨著習近平的清洗擴大，中國調查上海市委書記陳吉寧",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T14:45:05.334Z"
   }
 ]
