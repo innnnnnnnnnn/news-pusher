@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/colombia-fiscal-bill-likely-to-fall-short-still-deliver-big-fix",
-    "title": "Colombia Fiscal Bill Likely to Fall Short, Still Deliver Big Fix",
-    "titleZh": "哥倫比亞財政法案可能達不到目標，但仍能提供重大修復",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/colombia-fiscal-bill-likely-to-fall-short-still-deliver-big-fix",
-    "image": null,
-    "pushedAt": "2026-11-25T09:10:09.600Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/how-dual-class-stock-entrenches-founder-control-at-anthropic-spacex-google",
     "title": "How Dual-Class Stock Entrenches Founder Control at Anthropic, SpaceX, Google",
     "titleZh": "雙重股權結構如何鞏固創辦人對 Anthropic、SpaceX、Google的控制權",
@@ -6360,7 +6351,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-s-china-tariffs-raise-threat-of-new-test-for-trade-truce",
     "image": null,
-    "pushedAt": "2026-11-26T16:40:24.550Z"
+    "pushedAt": "2026-11-26T18:41:04.574Z"
   },
   {
     "id": "https://www.ft.com/content/99acbf19-3a6f-4b4c-aa8c-77b8b7edb5e9",
@@ -8043,7 +8034,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T16:40:49.573Z"
+    "pushedAt": "2026-11-26T18:41:28.310Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml",
@@ -8816,8 +8807,8 @@
     "titleZh": "我們被困在 quagos 末日循環的篝火中",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/ab820f61-b8d4-4aa5-92bc-a51d6c04d0f7?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T16:39:56.637Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F421260b9-9217-4ab2-beb8-f9db701961ad.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-26T18:40:41.088Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/irish-high-court-refuses-to-approve-bawag-s-ptsb-deal",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
     "image": null,
     "pushedAt": "2026-11-26T18:38:12.952Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
+    "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
+    "titleZh": "梅西百貨感恩節遊行顛覆了計劃並增加了遊行樂隊的成本",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-marching-band-gfqm/25parade-live-marching-band-gfqm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T18:41:56.149Z"
   }
 ]
