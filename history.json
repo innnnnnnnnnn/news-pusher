@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-board-faces-governance-questions-video",
-    "title": "Nvidia’s Board Faces Governance Questions",
-    "titleZh": "英偉達董事會面臨治理問題",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-board-faces-governance-questions-video",
-    "image": null,
-    "pushedAt": "2026-11-24T16:26:08.014Z"
-  },
-  {
     "id": "https://www.ft.com/content/d7a7b7e3-9fe0-45f1-ab12-479b28d509bd",
     "title": "Black Friday Sale Now On",
     "titleZh": "黑色星期五促銷活動現已開始",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/3d4f2a34-ae3f-4e1f-96af-d6e39e5c66fc?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-26T21:34:49.094Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html",
+    "title": "Doug Ford Says He’d Use a Gun to Protect His Family",
+    "titleZh": "道格福特說他會用槍來保護家人",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-canada-ford-mlwc/26int-canada-ford-mlwc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T21:39:59.831Z"
   }
 ]
