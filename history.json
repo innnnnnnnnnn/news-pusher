@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-tariffs-on-industrial-overcapacity",
-    "title": "Trump tariffs on industrial overcapacity",
-    "titleZh": "川普對工業產能過剩徵收關稅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-tariffs-on-industrial-overcapacity",
-    "image": null,
-    "pushedAt": "2026-11-24T18:31:43.921Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-24/how-jensen-huang-s-return-may-reduce-risks-to-us-growth",
     "title": "How Jensen Huang’s Return May Reduce Risks to US Growth",
     "titleZh": "黃仁勳的回歸如何降低美國經濟成長的風險",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/dutch-to-back-eu-consensus-for-ecb-jobs-opening-door-to-de-cos",
     "image": null,
     "pushedAt": "2026-11-26T13:20:16.514Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+    "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+    "titleZh": "對中國來說，黃仁勳重返 Nvidia 是喜憂參半",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-china-chips-analysis-01-zjqb/24int-china-chips-analysis-01-zjqb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T13:20:47.559Z"
   }
 ]
