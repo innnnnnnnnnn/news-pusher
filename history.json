@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
-    "title": "Grand Transitory Assumptions",
-    "titleZh": "重大暫時性假設",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
-    "image": null,
-    "pushedAt": "2026-11-24T20:47:26.953Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/taxing-the-wealthy-has-become-an-election-rallying-cry-in-europe",
     "title": "Wealth Taxes Have Become an Election Rallying Cry in Europe",
     "titleZh": "對富人徵稅已成為歐洲選舉的口號",
@@ -942,7 +933,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T08:28:21.675Z"
+    "pushedAt": "2026-11-26T10:33:26.515Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-leaves-interest-rate-unchanged-before-presidential-poll",
@@ -2904,7 +2895,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
     "image": null,
-    "pushedAt": "2026-11-26T08:27:31.745Z"
+    "pushedAt": "2026-11-26T10:32:38.074Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
@@ -5010,7 +5001,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-uk-royals-break-in-mfgl/25int-uk-royals-break-in-mfgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T08:26:39.917Z"
+    "pushedAt": "2026-11-26T10:31:50.000Z"
   },
   {
     "id": "https://www.ft.com/content/f269760e-e9e4-4bf9-b88b-a5daaa5b5b52",
@@ -6756,7 +6747,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T08:27:06.188Z"
+    "pushedAt": "2026-11-26T10:32:14.049Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-u-turn-is-bad-news-for-anthropic-parmy-olson-video",
@@ -7764,7 +7755,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
     "image": null,
-    "pushedAt": "2026-11-26T08:29:11.330Z"
+    "pushedAt": "2026-11-26T10:33:50.701Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/dry-bulk-shipping-rates-climb-as-capesize-vessel-supply-tightens",
@@ -7809,7 +7800,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/99acbf19-3a6f-4b4c-aa8c-77b8b7edb5e9?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T08:27:56.791Z"
+    "pushedAt": "2026-11-26T10:33:02.316Z"
   },
   {
     "id": "https://flipso.com/p/7cc6b790b38d581da2c147ad6242fe8d",
@@ -8998,5 +8989,14 @@
     "url": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
     "image": null,
     "pushedAt": "2026-11-26T10:31:22.440Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/portugal-rejects-opposition-tax-cuts-to-preserve-budget-surplus",
+    "title": "Portugal Rejects Opposition Tax Cuts to Preserve Budget Surplus",
+    "titleZh": "葡萄牙拒絕反對派減稅以維持預算盈餘",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/portugal-rejects-opposition-tax-cuts-to-preserve-budget-surplus",
+    "image": null,
+    "pushedAt": "2026-11-26T10:34:18.848Z"
   }
 ]
