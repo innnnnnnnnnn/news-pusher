@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-    "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-    "titleZh": "6 個工藝靜修處提供適合所有技能等級的編織、陶器等活動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-    "image": null,
-    "pushedAt": "2026-11-26T09:36:53.734Z"
-  },
-  {
-    "id": "https://www.ft.com/content/90858eba-0c00-4e10-bcca-31ae34bd835d",
-    "title": "Democrats widen graft investigation into Donald Trump Jr-linked groups",
-    "titleZh": "民主黨擴大對小唐納德·川普相關團體的腐敗調查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/90858eba-0c00-4e10-bcca-31ae34bd835d?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9774649e-2bcc-4a4c-8492-17e19eda432b.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-24T16:27:32.412Z"
-  },
-  {
     "id": "https://www.ft.com/content/5d42ba2d-88c2-494c-b794-8c883b735466",
     "title": "Labour’s plans to take back control hit an old snag",
     "titleZh": "工黨奪回控制權的計劃遇到了老問題",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T10:58:47.002Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+    "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+    "titleZh": "挪威關閉了最後一個煤礦，結束了北極的生活方式",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-norway-coalmine-kplj/20int-norway-coalmine-kplj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:59:15.253Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
+    "title": "Wall Street Flips From AI Euphoria to Gloom",
+    "titleZh": "華爾街從人工智慧的狂熱轉向悲觀",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
+    "image": null,
+    "pushedAt": "2026-11-26T10:59:20.183Z"
   }
 ]
