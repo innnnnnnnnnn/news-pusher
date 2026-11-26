@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-    "title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
-    "titleZh": "標普 500 指數波動撕毀劇本，市場擇時者接受教育",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-    "image": null,
-    "pushedAt": "2026-11-24T16:05:16.666Z"
-  },
-  {
-    "id": "https://flipso.com/p/92718d67b03350e89108d63655a85663",
-    "title": "Own this website 2026-11-24 13:00",
-    "titleZh": "擁有本網站 2026-11-24 13:00",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/92718d67b03350e89108d63655a85663",
-    "image": null,
-    "pushedAt": "2026-11-24T13:49:21.172Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-nvidia-move-hopefully-not-a-precedent-luria-video",
     "title": "Trump’s Nvidia Move ‘Hopefully Not a Precedent,’ Says DA Davidson’s Luria",
     "titleZh": "地方檢察官戴維森 (DA Davidson) 的盧裡亞 (Luria) 表示，川普對英偉達的舉動“希望不是先例”",
@@ -8025,7 +8007,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/us/turkey-art-stamps-thanksgiving-minnesota.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-turkey-art-top-4-gblj/26nat-turkey-art-top-4-gblj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T13:09:36.963Z"
+    "pushedAt": "2026-11-26T15:15:15.242Z"
   },
   {
     "id": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
     "image": null,
     "pushedAt": "2026-11-26T15:14:47.819Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+    "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
+    "titleZh": "誰選了這份禮物？我的人工智慧假日購物者。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/business/00holiday-agents-sub/00holiday-agents-sub-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T15:15:44.488Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+    "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+    "titleZh": "資料中心開發商希望建立，而不是擴建。堪薩斯城說不",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+    "image": "https://static01.nyt.com/images/2026/11/17/business/17-vertical-data-center-handouts-04/17-vertical-data-center-handouts-04-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T15:15:50.311Z"
   }
 ]
