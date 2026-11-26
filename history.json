@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930",
-    "title": "The Jensen put",
-    "titleZh": "詹森把",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T19:47:22.081Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/south-korea-considers-potential-3-billion-dollar-bond-sale",
     "title": "South Korea Considers Potential $3 Billion Dollar Bond Sale",
     "titleZh": "韓國考慮出售 30 億美元債券",
@@ -690,7 +681,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T06:02:46.592Z"
+    "pushedAt": "2026-11-26T08:13:24.516Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
@@ -3210,7 +3201,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
     "image": null,
-    "pushedAt": "2026-11-26T06:03:34.398Z"
+    "pushedAt": "2026-11-26T08:14:16.223Z"
   },
   {
     "id": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
@@ -6774,7 +6765,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/23/bartleby-newsletter-valley-mentality",
     "image": null,
-    "pushedAt": "2026-11-26T06:03:10.514Z"
+    "pushedAt": "2026-11-26T08:13:51.156Z"
   },
   {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-25/one-thing-in-markets-to-be-thankful-for",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-hongkong-fire-anniversary-01-fmwk/26int-hongkong-fire-anniversary-01-fmwk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-26T08:12:56.357Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+    "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
+    "titleZh": "川普透過削弱「中國+1」的關稅激怒貿易夥伴",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+    "image": null,
+    "pushedAt": "2026-11-26T08:14:43.320Z"
   }
 ]
