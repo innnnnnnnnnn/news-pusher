@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a",
-    "title": "Is the SEC cutting red tape or torching safeguards?",
-    "titleZh": "是的，薪酬揭露規則需要重新考慮。但美國證券交易委員會並沒有幫助投資者",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T03:34:04.369Z"
-  },
-  {
     "id": "https://www.ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918",
     "title": "How Trump helped orchestrate Huang’s return to Nvidia",
     "titleZh": "川普如何幫助黃仁勳重返英偉達",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/c4affa94-263d-4bab-959a-b26fc7cc8077?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-26T16:02:49.272Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+    "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+    "titleZh": "法國警察在青少年槍擊事件中謀殺罪名恢復",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/world/24int-france-trial-aaa/24int-france-trial-aaa-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T16:03:19.060Z"
   }
 ]
