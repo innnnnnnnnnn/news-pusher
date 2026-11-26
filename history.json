@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/fd02cab3-70b1-4c14-8d5b-5306b39a7ad8",
-    "title": "Stately homes deck the halls for the Christmas season",
-    "titleZh": "莊嚴的房子裝飾著聖誕節的大廳",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fd02cab3-70b1-4c14-8d5b-5306b39a7ad8",
-    "image": null,
-    "pushedAt": "2026-11-24T09:36:49.877Z"
-  },
-  {
     "id": "https://www.ft.com/content/5a5ad497-11e7-493b-8ee4-46e65e59d873",
     "title": "Silicon Valley’s too big to fail moment",
     "titleZh": "矽谷太大而不能倒的時刻",
@@ -4533,7 +4524,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T04:49:01.913Z"
+    "pushedAt": "2026-11-26T06:51:40.293Z"
   },
   {
     "id": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
@@ -6665,8 +6656,8 @@
     "titleZh": "英鎊崩潰進入政府管理",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cfa5222e-c629-4f8c-8d32-d4723e13b7f4?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8cd7042d-124d-4750-af6a-34b0e1468def.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-26T04:49:50.339Z"
+    "image": null,
+    "pushedAt": "2026-11-26T06:52:06.092Z"
   },
   {
     "id": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366",
@@ -6675,7 +6666,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T04:50:14.455Z"
+    "pushedAt": "2026-11-26T06:52:30.522Z"
   },
   {
     "id": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3",
@@ -8263,12 +8254,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-    "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+    "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes on Inflation",
     "titleZh": "日本央行鷹派成員尋求快速升息應對通膨",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
     "image": null,
-    "pushedAt": "2026-11-26T04:50:39.261Z"
+    "pushedAt": "2026-11-26T06:52:55.313Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-26/us-chip-curbs-stall-asia-data-center-financing-video",
@@ -8439,7 +8430,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
     "image": null,
-    "pushedAt": "2026-11-26T04:48:10.296Z"
+    "pushedAt": "2026-11-26T06:51:15.467Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
     "image": null,
     "pushedAt": "2026-11-26T06:50:48.007Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/live-blog/2026-11-26/ftse-100-live-updates-pound-bonds-dollar-ai-stocks-gold-prices-tube-strike-boe-report-what-s-moving-uk-markets-right-now-markets-today",
+    "title": "FTSE 100 to Rebound Following Another Tumultuous Session - Live Updates",
+    "titleZh": "富時 100 指數將在另一個動蕩的交易日後反彈 - 即時更新",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-26/ftse-100-live-updates-pound-bonds-dollar-ai-stocks-gold-prices-tube-strike-boe-report-what-s-moving-uk-markets-right-now-markets-today",
+    "image": null,
+    "pushedAt": "2026-11-26T06:53:20.496Z"
   }
 ]
