@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-    "title": "Pope Francis Diary Excerpts Published in New Book",
-    "titleZh": "教宗方濟各日記摘錄在新書中出版",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-pope-diary01-photo-vhtj/24int-pope-diary01-photo-vhtj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:54:50.430Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
     "title": "Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.",
     "titleZh": "誰控制環球小姐選美比賽？令人驚訝的是很難說。",
@@ -636,7 +627,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-uk-harry-meghan-aaaa/24int-uk-harry-meghan-aaaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:31:29.946Z"
+    "pushedAt": "2026-11-26T07:37:40.309Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
@@ -6540,7 +6531,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
     "image": null,
-    "pushedAt": "2026-11-26T05:31:05.703Z"
+    "pushedAt": "2026-11-26T07:37:15.033Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/deere-down-on-earnings-dell-lower-despite-server-sales-video",
@@ -8087,8 +8078,8 @@
     "titleZh": "研究稱，英國大學「成績通膨」最高的是課程作業較多的學位",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/c6b0e13f-9c87-4e8b-8847-8553162d2435?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T05:31:54.272Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ad98814-c2eb-493c-8f42-401f783b7142.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-26T07:38:07.209Z"
   },
   {
     "id": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514",
@@ -8097,7 +8088,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T05:32:18.415Z"
+    "pushedAt": "2026-11-26T07:38:33.101Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead",
     "image": null,
     "pushedAt": "2026-11-26T07:36:45.398Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
+    "title": "FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
+    "titleZh": "隨著轉向英國金邊債券的暫停，富時 100 指數反彈",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
+    "image": null,
+    "pushedAt": "2026-11-26T07:38:59.311Z"
   }
 ]
