@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-    "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
-    "titleZh": "隨著挪威關閉最後一個煤礦，北極的生活方式也逐漸消失",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-norway-coalmine-kplj/20int-norway-coalmine-kplj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T09:36:05.159Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
     "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
     "titleZh": "6 個工藝靜修處提供適合所有技能等級的編織、陶器等活動",
@@ -4461,7 +4452,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T08:55:13.312Z"
+    "pushedAt": "2026-11-26T10:58:19.297Z"
   },
   {
     "id": "https://www.ft.com/content/f3e59769-6b74-4dfc-913a-985286847ff0",
@@ -5469,7 +5460,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-inflation-gvjc/25dc-inflation-gvjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T08:53:35.854Z"
+    "pushedAt": "2026-11-26T10:57:29.737Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month",
@@ -6018,7 +6009,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-safrica-ramaphosa-klqh/25int-safrica-ramaphosa-klqh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T08:54:00.374Z"
+    "pushedAt": "2026-11-26T10:57:54.508Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/romanian-far-right-leader-simion-charged-with-inciting-violence",
     "image": null,
     "pushedAt": "2026-11-26T10:57:01.958Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+    "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+    "titleZh": "英國淨移民人數降至 1997 年以來的最低水準（不包括流行病）",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T10:58:47.002Z"
   }
 ]
