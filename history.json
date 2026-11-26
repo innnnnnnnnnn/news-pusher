@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
-    "title": "October inflation data keeps BoJ on course for further tightening",
-    "titleZh": "10 月通膨數據讓日本央行進一步收緊政策",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
-    "image": null,
-    "pushedAt": "2026-11-24T12:36:41.306Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html",
     "title": "Why I’m Not Surprised Jensen Huang Is Back",
     "titleZh": "為什麼我對黃仁勳的回歸並不感到驚訝",
@@ -2499,7 +2490,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T21:58:56.747Z"
+    "pushedAt": "2026-11-26T00:04:13.230Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-leaves-interest-rate-unchanged-before-presidential-poll",
@@ -3417,7 +3408,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T21:58:33.146Z"
+    "pushedAt": "2026-11-26T00:03:48.965Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
@@ -8691,7 +8682,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-25/1password-says-hacker-accessed-user-data-passwords-remain-safe",
     "image": null,
-    "pushedAt": "2026-11-25T21:58:06.736Z"
+    "pushedAt": "2026-11-26T00:03:24.795Z"
   },
   {
     "id": "https://flipso.com/p/3829e392e4875d26a71fa6c1ec0fbedc",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-25T23:58:56.616Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
+    "title": "Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
+    "titleZh": "潛在的 RadioShack 復興者和解 SEC 詐欺訴訟指控",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
+    "image": null,
+    "pushedAt": "2026-11-26T00:04:39.746Z"
   }
 ]
