@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ecdc724e-5923-4e57-9d72-c6551c9634f9",
-    "title": "Does Jensen Huang’s return to Nvidia mean the chip group is too big to fail?",
-    "titleZh": "黃仁勳回歸英偉達是否意味著該晶片集團大而不能倒？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ecdc724e-5923-4e57-9d72-c6551c9634f9?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T09:44:31.364Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
     "title": "Pope Francis Diary Excerpts Published in New Book",
     "titleZh": "教宗方濟各日記摘錄在新書中出版",
@@ -591,7 +582,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:27:27.242Z"
+    "pushedAt": "2026-11-26T07:34:40.135Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
@@ -600,7 +591,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
     "image": null,
-    "pushedAt": "2026-11-26T05:27:51.562Z"
+    "pushedAt": "2026-11-26T07:35:04.884Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
@@ -609,7 +600,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
     "image": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:29:04.102Z"
+    "pushedAt": "2026-11-26T07:35:29.279Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
@@ -618,7 +609,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T05:29:28.503Z"
+    "pushedAt": "2026-11-26T07:35:54.600Z"
   },
   {
     "id": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
@@ -7458,7 +7449,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/china/2026/11/23/does-a-crummy-economy-threaten-chinas-social-contract",
     "image": null,
-    "pushedAt": "2026-11-26T05:27:03.237Z"
+    "pushedAt": "2026-11-26T07:34:15.668Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud",
@@ -8232,7 +8223,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-26/china-us-must-manage-ai-risks-ex-negotiator-video",
     "image": null,
-    "pushedAt": "2026-11-26T05:26:38.500Z"
+    "pushedAt": "2026-11-26T07:33:49.480Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/microdramas-rake-in-20-billion-as-world-gloms-on-to-quick-hits",
@@ -8241,7 +8232,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/microdramas-rake-in-20-billion-as-world-gloms-on-to-quick-hits",
     "image": null,
-    "pushedAt": "2026-11-26T05:30:17.133Z"
+    "pushedAt": "2026-11-26T07:36:20.010Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-26T07:33:21.331Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead",
+    "title": "Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead",
+    "titleZh": "載有柴油的船在西班牙伊維薩島附近沉沒，一人死亡",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead",
+    "image": null,
+    "pushedAt": "2026-11-26T07:36:45.398Z"
   }
 ]
