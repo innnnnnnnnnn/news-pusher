@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/75da1516-b0b1-4f40-a67d-992a32208054",
-    "title": "My top 10: Jackie Wullschläger’s Musée d’Orsay favourites — away from the crowds",
-    "titleZh": "我的前 10 名：傑基·烏爾施拉格 (Jackie Wullschläger) 最喜歡的奧賽博物館——遠離人群",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/75da1516-b0b1-4f40-a67d-992a32208054",
-    "image": null,
-    "pushedAt": "2026-11-24T11:45:05.274Z"
-  },
-  {
-    "id": "https://www.ft.com/content/fa36caaa-85d8-4fac-82d6-a33fba093b28",
-    "title": "Belonging by Sonia Gandhi — a riveting, personal portrait of an Indian dynasty",
-    "titleZh": "索尼婭·甘地的《歸屬》——一幅引人入勝的印度王朝個人肖像",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/fa36caaa-85d8-4fac-82d6-a33fba093b28?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-24T11:45:29.201Z"
-  },
-  {
     "id": "https://www.ft.com/content/97e74bf5-081b-4f56-900f-36f1fd3b0e20",
     "title": "European fertiliser suppliers shutting plants as energy prices soar",
     "titleZh": "由於能源價格飆升，歐洲化肥供應商關閉工廠",
@@ -5100,7 +5082,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T04:44:51.724Z"
+    "pushedAt": "2026-11-26T06:48:05.990Z"
   },
   {
     "id": "https://www.ft.com/content/f3e59769-6b74-4dfc-913a-985286847ff0",
@@ -7467,7 +7449,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-theworld-students-02-hlqk-promo/26int-theworld-students-02-hlqk-promo-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T04:46:04.728Z"
+    "pushedAt": "2026-11-26T06:48:31.195Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/blue-owl-blackstone-make-rare-pension-deal-video",
@@ -7827,7 +7809,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/financials-healthcare-will-be-big-ai-winners-yardeni-video",
     "image": null,
-    "pushedAt": "2026-11-26T04:44:27.856Z"
+    "pushedAt": "2026-11-26T06:47:41.409Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/next-20-days-is-mission-critical-for-retailers-yih-video",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-traders-see-slower-rate-cut-pace-as-reserves-shrink",
     "image": null,
     "pushedAt": "2026-11-26T06:37:01.243Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
+    "title": "Why the AI Panic May Be Premature",
+    "titleZh": "為什麼人工智慧恐慌可能為時過早",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
+    "image": null,
+    "pushedAt": "2026-11-26T06:48:58.813Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-26/chinese-carmakers-double-sales-in-europe-on-hybrid-demand",
+    "title": "Chinese Carmakers Double Sales in Europe on Hybrid Demand",
+    "titleZh": "中國汽車製造商在歐洲的混合動力需求銷售翻倍",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/chinese-carmakers-double-sales-in-europe-on-hybrid-demand",
+    "image": null,
+    "pushedAt": "2026-11-26T06:49:02.692Z"
   }
 ]
