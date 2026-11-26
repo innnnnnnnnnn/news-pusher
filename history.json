@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/kunst-founder-exceptionalism-has-a-cost-video",
-    "title": "Nvidia's Board Members Should Resign, Cleo Capital's Kunst Says",
-    "titleZh": "Kunst：創始人例外主義是有代價的",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/kunst-founder-exceptionalism-has-a-cost-video",
-    "image": null,
-    "pushedAt": "2026-11-24T18:18:09.413Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/congressman-questions-huang-reinstatement-video",
     "title": "Congressman Questions Huang Reinstatement",
     "titleZh": "國會議員質疑黃復職",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
     "image": null,
     "pushedAt": "2026-11-26T20:46:46.247Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+    "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+    "titleZh": "川普對英偉達的推動顯示了公司在全球經濟戰爭中的重要性",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-26T20:47:13.138Z"
   }
 ]
