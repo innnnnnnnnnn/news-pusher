@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-    "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-    "titleZh": "在執行長突然上任後，股票通常會上漲出口。英偉達有什麼不同嗎？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-    "image": null,
-    "pushedAt": "2026-11-24T08:47:51.392Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
     "title": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
     "titleZh": "是「A.I.」特工來買我們的酵母發酵劑嗎？",
@@ -2643,7 +2634,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-american-airlines-01-kcqz/24biz-american-airlines-01-kcqz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T00:00:34.959Z"
+    "pushedAt": "2026-11-26T02:07:08.705Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
@@ -4731,7 +4722,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
     "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T00:00:58.906Z"
+    "pushedAt": "2026-11-26T02:07:32.870Z"
   },
   {
     "id": "https://www.ft.com/content/e1e08be8-da07-44c3-abe6-9873991ee91a",
@@ -7206,7 +7197,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/e5a85fb7-d980-4c34-9857-c57eff52c3c7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-25T23:59:46.787Z"
+    "pushedAt": "2026-11-26T02:06:17.848Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
@@ -7224,7 +7215,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T00:00:10.929Z"
+    "pushedAt": "2026-11-26T02:06:44.438Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
@@ -8790,7 +8781,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
     "image": null,
-    "pushedAt": "2026-11-25T23:58:29.642Z"
+    "pushedAt": "2026-11-26T02:05:27.236Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
@@ -8799,7 +8790,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T23:58:56.616Z"
+    "pushedAt": "2026-11-26T02:05:53.117Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-rally-has-91-in-sight-as-rbi-seen-holding-back-dollar-buys",
     "image": null,
     "pushedAt": "2026-11-26T02:04:57.615Z"
+  },
+  {
+    "id": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+    "title": "Bank of Korea raises interest rates amid AI chip boom",
+    "titleZh": "韓國央行在人工智慧晶片熱潮中升息",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fadec4995-dc2e-4f9e-994f-067dce469ae4.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-26T02:08:00.314Z"
   }
 ]
