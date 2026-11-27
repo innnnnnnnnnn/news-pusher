@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/hackers-breach-cia-system-to-access-unclassified-information",
-    "title": "Hackers Breach CIA System to Access Unclassified Information",
-    "titleZh": "駭客入侵中央情報局系統以存取非機密資訊",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/hackers-breach-cia-system-to-access-unclassified-information",
-    "image": null,
-    "pushedAt": "2026-11-25T02:44:56.850Z"
-  },
-  {
     "id": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
     "title": "Bangladesh, an underappreciated success, faces an economic crisis",
     "titleZh": "孟加拉國，一個被低估的成功，面臨經濟危機",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
     "image": null,
     "pushedAt": "2026-11-27T08:04:52.322Z"
+  },
+  {
+    "id": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11",
+    "title": "French economy shrinks 0.2% in third quarter",
+    "titleZh": "法國經濟第三季萎縮0.2%",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-27T08:19:37.705Z"
   }
 ]
