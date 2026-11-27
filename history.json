@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/kinship-ventures-co-founders-on-their-investing-approach-video",
-    "title": "Kinship Ventures Co-Founders Gwyneth Paltrow & Moj Mahdara on Partnership & Portfolio Strategy",
-    "titleZh": "Kinship Ventures 共同創辦人 Gwyneth Paltrow 和 Moj Mahdara 談合作夥伴關係和投資組合策略",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/kinship-ventures-co-founders-on-their-investing-approach-video",
-    "image": null,
-    "pushedAt": "2026-11-25T08:01:31.290Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
-    "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
-    "titleZh": "愛荷華州在計劃爆炸前夕準備迎接有毒羽流",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T12:18:51.556Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/foxconn-faces-india-insolvency-lawsuit-over-unpaid-vendor-dues",
     "title": "Foxconn Faces India Insolvency Lawsuit Over Unpaid Vendor Dues",
     "titleZh": "富士康因未支付供應商會費而面臨印度破產訴訟",
@@ -4893,7 +4875,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/651b89f5-7262-43e8-a022-a068b935950b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T08:08:52.044Z"
+    "pushedAt": "2026-11-27T10:02:36.357Z"
   },
   {
     "id": "https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27Trav-tokyo-layover-06-tmcp/27Trav-tokyo-layover-06-tmcp-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-27T10:02:09.949Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+    "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
+    "titleZh": "俄羅斯用一塊牌子抹去古拉格恐怖事件的記憶",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27russia-memory-01-pkwg/27russia-memory-01-pkwg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:03:00.716Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
+    "title": "Why Russia Is Erasing Stalin’s Crimes",
+    "titleZh": "為什麼俄羅斯要消除史達林的罪行",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
+    "image": null,
+    "pushedAt": "2026-11-27T10:03:04.412Z"
   }
 ]
