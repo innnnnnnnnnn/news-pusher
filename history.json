@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
-    "title": "Why Jensen Huang Was Reinstated at Nvidia",
-    "titleZh": "黃仁勳為何重返 Nvidia",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
-    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T09:39:11.388Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
     "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
     "titleZh": "DealBook 高峰會 2026：混亂世界中務實的代價",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-health-taskforce-cvqw/25sp-dealbook-health-taskforce-cvqw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-27T09:02:10.833Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+    "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+    "titleZh": "DealBook 高峰會 2026：開創者講述他們的想法",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-groundbreakers-3-tklf/25sp-dealbook-groundbreakers-3-tklf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T09:02:38.056Z"
   }
 ]
