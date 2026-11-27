@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html",
-    "title": "Trump Awards Rudy Giuliani Presidential Medal of Freedom",
-    "titleZh": "川普授予魯迪朱利安尼總統自由勳章",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-trump-giuliani-fpzw/24dc-trump-giuliani-fpzw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T21:18:27.746Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
-    "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
-    "titleZh": "積壓訂單達到創紀錄的 1,320 億美元，戴爾提高了 AI 伺服器前景結束鐘聲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
-    "image": null,
-    "pushedAt": "2026-11-24T23:37:05.152Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
     "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
     "titleZh": "在執行長黃回歸後，Nvidia Option Trader 漲幅達 1,984%",
@@ -8654,8 +8636,8 @@
     "titleZh": "聯準會準備好迎接下一場戰鬥了嗎？",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-27T05:05:35.847Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd485b693-478d-415e-8869-ec9781fbc1d9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-27T06:55:31.184Z"
   },
   {
     "id": "https://www.ft.com/content/587198a8-ac15-46b2-83f2-f6e181ccd7cd",
@@ -8663,8 +8645,8 @@
     "titleZh": "卡爾希的下一個大賭注：為小型企業提供“小額保險”",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/587198a8-ac15-46b2-83f2-f6e181ccd7cd?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-27T05:05:40.172Z"
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1c37cfeb-f193-4a7a-b36a-feb7ac870245.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-27T06:55:54.939Z"
   },
   {
     "id": "https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34",
@@ -8673,7 +8655,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T05:05:43.410Z"
+    "pushedAt": "2026-11-27T06:56:18.296Z"
   },
   {
     "id": "https://www.ft.com/content/8aafaa00-9b46-4513-9be9-b5ec5c6d123f",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-asia-trade-11-27-2026-video",
     "image": null,
     "pushedAt": "2026-11-27T06:55:04.376Z"
+  },
+  {
+    "id": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1",
+    "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+    "titleZh": "香港尋求透過稅收減免吸引主權財富基金",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-27T06:56:43.958Z"
+  },
+  {
+    "id": "https://www.ft.com/content/698d29bd-490b-41ef-a3e3-20edc2b591f7",
+    "title": "‘It’s not nation versus nation. It’s hyperscaler versus hyperscaler’",
+    "titleZh": "‘這不是國家與國家之間的對抗。這是超大規模與超大規模之間的較量”",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/698d29bd-490b-41ef-a3e3-20edc2b591f7?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-27T06:56:47.496Z"
   }
 ]
