@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/ccd66428-604f-40a2-a2e9-b271d9239a55",
-    "title": "Berlin’s playgrounds are better than Berghain",
-    "titleZh": "柏林的遊樂場比 Berghain 更好",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/ccd66428-604f-40a2-a2e9-b271d9239a55?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T07:39:23.770Z"
-  },
-  {
     "id": "https://www.ft.com/content/ed7aa6db-3271-4726-ae33-f4606289e540",
     "title": "Killing the Pope by Serhii Plokhy — a cold war mystery?",
     "titleZh": "Serhii Plokhy 的《殺死教皇》——冷戰之謎？",
@@ -1086,7 +1077,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
     "image": null,
-    "pushedAt": "2026-11-27T13:22:54.251Z"
+    "pushedAt": "2026-11-27T15:20:34.124Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
@@ -2445,7 +2436,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-lukoil-fjvh/25dc-lukoil-fjvh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T13:22:30.230Z"
+    "pushedAt": "2026-11-27T15:20:10.176Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/world/middleeast/opposition-makes-progress-toward-ousting-netanyahu-party-leader-says.html",
@@ -3165,7 +3156,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/fb4f6707-274e-4f93-bcfb-7cce28d4a4ea",
     "image": null,
-    "pushedAt": "2026-11-27T13:20:56.311Z"
+    "pushedAt": "2026-11-27T15:18:34.010Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
@@ -3174,7 +3165,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-top-gear/25xp-top-gear-mediumSquareAt3X-v2.jpg",
-    "pushedAt": "2026-11-27T13:22:06.916Z"
+    "pushedAt": "2026-11-27T15:19:45.775Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video",
@@ -6657,7 +6648,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T13:21:19.911Z"
+    "pushedAt": "2026-11-27T15:18:57.863Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html",
@@ -6990,7 +6981,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
     "image": null,
-    "pushedAt": "2026-11-27T13:21:43.593Z"
+    "pushedAt": "2026-11-27T15:19:22.347Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
     "image": null,
     "pushedAt": "2026-11-27T15:18:07.286Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
+    "title": "How an Aluminum Squeeze Brought the LME to the Brink of Crisis Again",
+    "titleZh": "鋁擠型如何將倫敦金屬交易所再次推向危機邊緣",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
+    "image": null,
+    "pushedAt": "2026-11-27T15:21:00.751Z"
   }
 ]
