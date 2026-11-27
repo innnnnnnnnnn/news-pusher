@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
-    "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
-    "titleZh": "債券交易員紛紛對沖聯準會升息導致經濟停滯的風險",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
-    "image": null,
-    "pushedAt": "2026-11-24T23:47:29.179Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/dell-ups-annual-sales-forecast-again-video",
     "title": "Dell Ups Annual Sales Forecast Again on Rising AI Server Demand",
     "titleZh": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-us-trade-deal-talks-close-to-culmination-goyal-says",
     "image": null,
     "pushedAt": "2026-11-27T07:02:13.202Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/nyregion/national-weather-service-thanksgiving-storm.html",
+    "title": "Tonight’s Forecast Is Rain, Wind — and Leftover Turkey",
+    "titleZh": "今晚的天氣預報是雨、風——還有剩下的火雞",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/nyregion/national-weather-service-thanksgiving-storm.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-meteorologists2/27xp-meteorologists2-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T07:02:42.250Z"
   }
 ]
