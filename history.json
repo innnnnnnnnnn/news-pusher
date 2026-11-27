@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d",
-    "title": "Eurozone capitals seek consolation prize for Knot to avoid ECB vote",
-    "titleZh": "歐元區各國政府為諾特尋求安慰獎以避免歐洲央行投票",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-27T05:21:55.246Z"
-  },
-  {
-    "id": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745",
-    "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
-    "titleZh": "M&G 老闆呼籲削減印花稅，以阻止倫敦公司飛往紐約的航班",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T18:07:41.217Z"
-  },
-  {
     "id": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e",
     "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
     "titleZh": "川普拯救英偉達黃仁勳，“科技兄弟反擊”",
@@ -1275,7 +1257,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-uk-royals-break-in-mfgl/25int-uk-royals-break-in-mfgl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:42:48.185Z"
+    "pushedAt": "2026-11-27T12:45:34.634Z"
   },
   {
     "id": "https://www.ft.com/content/f269760e-e9e4-4bf9-b88b-a5daaa5b5b52",
@@ -7449,7 +7431,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-401K-ESG-fmkb/24Biz-401K-ESG-fmkb-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:43:35.417Z"
+    "pushedAt": "2026-11-27T12:45:58.560Z"
   },
   {
     "id": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc75666e0-5a15-401f-b05a-47444d86b91c.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-27T12:45:08.421Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
+    "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+    "titleZh": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
+    "image": null,
+    "pushedAt": "2026-11-27T12:46:23.271Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+    "title": "Poland Signs $300 Million Palantir Deal to Use AI for Defense",
+    "titleZh": "波蘭簽署 3 億美元 Palantir 協議，利用人工智慧進行國防",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+    "image": null,
+    "pushedAt": "2026-11-27T12:46:27.381Z"
   }
 ]
