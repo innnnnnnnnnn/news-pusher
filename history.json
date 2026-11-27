@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
-    "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
-    "titleZh": "習近平調查上海領導人，擴大政治變動",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
-    "image": null,
-    "pushedAt": "2026-11-25T06:41:44.070Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
     "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
     "titleZh": "隨著晶片限制影響資料中心項目，馬來亞銀行審查投資組合",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
     "image": null,
     "pushedAt": "2026-11-27T12:14:14.639Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+    "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+    "titleZh": "所羅門群島與澳洲簽署安全條約，對中國構成打擊",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T12:14:41.208Z"
   }
 ]
