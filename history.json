@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/arts/pierre-bellocq-dead.html",
-    "title": "Pierre Bellocq, Who Drew Horse Racing Cartoons as ‘Peb,’ Has Died",
-    "titleZh": "繪製賽馬漫畫“Peb”的皮埃爾·貝洛克去世",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/arts/pierre-bellocq-dead.html",
-    "image": null,
-    "pushedAt": "2026-11-25T02:38:56.476Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/huawei-found-guilty-of-us-charges-in-landmark-case-video",
-    "title": "Huawei Found Guilty of US Charges in Landmark Case",
-    "titleZh": "華為在具有里程碑意義的案件中被美國指控有罪",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/huawei-found-guilty-of-us-charges-in-landmark-case-video",
-    "image": null,
-    "pushedAt": "2026-11-25T08:56:46.748Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
     "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
     "titleZh": "台灣股市暴跌 8%，黃仁勳的提振迅速消退",
@@ -3723,7 +3705,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
     "image": null,
-    "pushedAt": "2026-11-27T09:39:27.805Z"
+    "pushedAt": "2026-11-27T11:37:27.421Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
@@ -3975,7 +3957,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/23/how-the-manosphere-cashes-in-on-male-insecurity",
     "image": null,
-    "pushedAt": "2026-11-27T09:40:15.171Z"
+    "pushedAt": "2026-11-27T11:38:14.365Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
@@ -4335,7 +4317,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
     "image": null,
-    "pushedAt": "2026-11-27T09:40:39.189Z"
+    "pushedAt": "2026-11-27T11:38:38.334Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html",
@@ -4911,7 +4893,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T09:39:51.830Z"
+    "pushedAt": "2026-11-27T11:37:50.830Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/ethiopia-set-to-complete-1-billion-bond-revamp-by-mid-december",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/altria-s-interest-in-imperial-may-also-affect-its-ab-inbev-stake",
     "image": null,
     "pushedAt": "2026-11-27T11:37:00.489Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b",
+    "title": "Japanese carmakers’ sales collapse amid China market plunge",
+    "titleZh": "中國市場暴跌，日本汽車製造商銷量大幅下滑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-27T11:39:03.398Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+    "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+    "titleZh": "德意志交易所 53 億歐元的 Allfunds 交易獲得歐盟批准",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+    "image": null,
+    "pushedAt": "2026-11-27T11:39:06.195Z"
   }
 ]
