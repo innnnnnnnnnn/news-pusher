@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-    "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-    "titleZh": "貝森特呼籲英偉達就向中國銷售晶片提供答案",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T12:50:59.090Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
     "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
     "titleZh": "《飢餓遊戲》票房反彈，《收割日出》首映票房1.2億美元",
@@ -1545,7 +1536,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
     "image": null,
-    "pushedAt": "2026-11-27T08:13:37.592Z"
+    "pushedAt": "2026-11-27T10:09:08.279Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/opinion/trump-corruption-investigate-democrats.html",
@@ -6909,7 +6900,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
     "image": null,
-    "pushedAt": "2026-11-27T08:14:26.510Z"
+    "pushedAt": "2026-11-27T10:09:55.168Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
@@ -7098,7 +7089,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
     "image": null,
-    "pushedAt": "2026-11-27T08:14:01.302Z"
+    "pushedAt": "2026-11-27T10:09:31.634Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/milei-s-overhaul-of-argentina-s-central-bank-wins-final-approval-in-congress",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-france-bookshops-gmfk/27int-france-bookshops-gmfk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-27T10:08:16.739Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
+    "title": "European Workers’ AI Use on Par With That of US Peers, ECB Says",
+    "titleZh": "歐洲央行表示，歐洲工人對人工智慧的使用與美國同行持平",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
+    "image": null,
+    "pushedAt": "2026-11-27T10:10:20.977Z"
   }
 ]
