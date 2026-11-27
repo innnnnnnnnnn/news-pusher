@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
-    "title": "The Case of the Idle Assistants",
-    "titleZh": "無所事事的助理案",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22SunBiz-WORKFRIEND-kwtq/22SunBiz-WORKFRIEND-kwtq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T09:58:40.381Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
     "title": "Looking for the Formula to Stop an Apocalypse",
     "titleZh": "尋找阻止世界末日的方法",
@@ -2256,7 +2247,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T04:35:58.078Z"
+    "pushedAt": "2026-11-27T06:25:22.899Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
     "image": null,
     "pushedAt": "2026-11-27T06:24:56.753Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cf5e2884-63e3-4fde-ad32-15c8cfa9603e",
+    "title": "Year-end deadline for EU budget deal in doubt after testy summit",
+    "titleZh": "高峰會動盪後，歐盟預算協議年底截止日期存疑",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cf5e2884-63e3-4fde-ad32-15c8cfa9603e?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-27T06:25:49.107Z"
   }
 ]
