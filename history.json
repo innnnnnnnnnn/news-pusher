@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-    "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
-    "titleZh": "據說星巴克正在與銀行合作出售日本業務",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-    "image": null,
-    "pushedAt": "2026-11-25T05:35:01.203Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
     "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
     "titleZh": "官員們向國會工作人員通報有關 Nvidia 事件的情報",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
     "image": null,
     "pushedAt": "2026-11-27T11:50:39.315Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+    "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+    "titleZh": "托馬斯馬克爾在美國被指控持有兒童性虐待材料",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+    "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-markle-bjgq/10xp-markle-bjgq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T11:51:05.731Z"
   }
 ]
