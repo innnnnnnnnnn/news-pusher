@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-asia-trade-11-25-2026-video",
-    "title": "AI Rout Spills Over Into Asia, US Readies Tariff Hike",
-    "titleZh": "人工智慧潰敗蔓延至亞洲，美國準備加徵關稅",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-asia-trade-11-25-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-25T07:18:28.573Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/boj-s-faster-inflation-indicator-backs-case-for-another-hike",
     "title": "BOJ’s Faster Inflation Indicator Backs Case for Another Hike",
     "titleZh": "日本央行更快的通膨指標支持再次升息的理由",
@@ -636,7 +627,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
     "image": null,
-    "pushedAt": "2026-11-27T17:04:41.802Z"
+    "pushedAt": "2026-11-27T19:10:42.333Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",
@@ -2688,7 +2679,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
     "image": null,
-    "pushedAt": "2026-11-27T17:05:38.653Z"
+    "pushedAt": "2026-11-27T19:11:56.807Z"
   },
   {
     "id": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
@@ -2697,7 +2688,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
     "image": null,
-    "pushedAt": "2026-11-27T17:06:02.240Z"
+    "pushedAt": "2026-11-27T19:12:21.153Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-deals-11-25-2026-video",
@@ -4155,7 +4146,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T17:06:49.968Z"
+    "pushedAt": "2026-11-27T19:12:45.802Z"
   },
   {
     "id": "https://www.ft.com/content/722ecb81-51cc-4897-baa9-cb80c4d2fe4a",
@@ -6567,7 +6558,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T17:07:13.598Z"
+    "pushedAt": "2026-11-27T19:13:12.594Z"
   },
   {
     "id": "https://flipso.com/p/072a3c0d6b405a84937197a3648abc39",
@@ -8790,7 +8781,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-2026-shoppers-cut-back-hunt-for-deals-video",
     "image": null,
-    "pushedAt": "2026-11-27T17:05:07.999Z"
+    "pushedAt": "2026-11-27T19:11:07.035Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/uk-steel-sector-says-uk-eu-agreement-gives-rivals-unfair-edge",
@@ -8799,7 +8790,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/uk-steel-sector-says-uk-eu-agreement-gives-rivals-unfair-edge",
     "image": null,
-    "pushedAt": "2026-11-27T17:05:11.729Z"
+    "pushedAt": "2026-11-27T19:11:32.787Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
     "image": null,
     "pushedAt": "2026-11-27T19:10:15.425Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/opinion/johnny-depp-ebenezer-david-ellison.html",
+    "title": "Johnny Depp’s ‘Ebenezer’ Is Rich Guy Propaganda",
+    "titleZh": "強尼戴普的《埃比尼澤》是有錢人的宣傳",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/opinion/johnny-depp-ebenezer-david-ellison.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/opinion/27Colman/27Colman-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T19:13:39.353Z"
   }
 ]
