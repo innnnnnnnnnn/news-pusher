@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/32e2579e-fbb1-47d3-b2f8-e71484eb2d39",
-    "title": "Is the Booma-Huang a bad day for capitalism?",
-    "titleZh": "Booma-Huang 對資本主義來說是糟糕的一天嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/32e2579e-fbb1-47d3-b2f8-e71484eb2d39?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T03:34:55.589Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
     "title": "How Six Americans Under 40 Are Saving for Retirement",
     "titleZh": "六名 40 歲以下的美國人如何為退休儲蓄",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/e5d08f5e-3f0a-43af-a6d7-06f2ad93370e",
     "image": null,
     "pushedAt": "2026-11-27T05:49:34.875Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/software-firm-sap-weighs-cutting-at-least-10-000-jobs-video",
+    "title": "Software Firm SAP Weighs Cutting at Least 10,000 Jobs",
+    "titleZh": "軟體公司 SAP 考慮裁員至少 1 萬人",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/software-firm-sap-weighs-cutting-at-least-10-000-jobs-video",
+    "image": null,
+    "pushedAt": "2026-11-27T05:50:04.415Z"
   }
 ]
