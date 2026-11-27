@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
-    "title": "25 Years of DealBook Moments",
-    "titleZh": "25 年的 DealBook 時刻",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-moments-08-cbtj/25sp-dealbook-moments-08-cbtj-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T07:43:35.267Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
-    "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
-    "titleZh": "DealBook 高峰會 2026：中期選舉帶來的劇變之後，2028 年誰更有優勢？",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T07:43:59.736Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
     "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
     "titleZh": "DealBook Summit 2026：控制人工智慧，但不要暫停它",
@@ -8331,7 +8313,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/8aafaa00-9b46-4513-9be9-b5ec5c6d123f?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T06:57:13.554Z"
+    "pushedAt": "2026-11-27T08:59:50.235Z"
   },
   {
     "id": "https://www.ft.com/content/f683c0d1-c48e-45fe-a0bb-666380299b31",
@@ -8340,7 +8322,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f683c0d1-c48e-45fe-a0bb-666380299b31?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T06:57:36.938Z"
+    "pushedAt": "2026-11-27T09:00:13.507Z"
   },
   {
     "id": "https://www.ft.com/content/0f537b6e-7426-43a1-b82c-4e444335507b",
@@ -8664,16 +8646,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/698d29bd-490b-41ef-a3e3-20edc2b591f7?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T06:56:47.496Z"
+    "pushedAt": "2026-11-27T08:59:26.806Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video",
-    "title": "Equities Extend Recovery as AI Trade Rebounds (Video)",
+    "title": "Equities Extend Recovery as AI Trade Rebounds",
     "titleZh": "隨著人工智慧貿易反彈，股市延續復甦（影片）",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video",
     "image": null,
-    "pushedAt": "2026-11-27T06:58:01.022Z"
+    "pushedAt": "2026-11-27T09:00:37.589Z"
   },
   {
     "id": "https://www.bloomberg.com/news/live-blog/2026-11-27/ftse-100-live-updates-pound-gilts-ai-stocks-treasuries-hsbc-copper-euro-what-s-moving-uk-markets-right-now-markets-today-mwymmeef",
@@ -8998,5 +8980,23 @@
     "url": "https://www.economist.com/leaders/2026/11/26/america-needs-to-slash-red-tape-and-build",
     "image": null,
     "pushedAt": "2026-11-27T08:59:00.012Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
+    "title": "Isabella Weber's Vision for an Affordability Agenda",
+    "titleZh": "伊莎貝拉·韋伯的負擔能力議程願景",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
+    "image": null,
+    "pushedAt": "2026-11-27T09:01:03.405Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
+    "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
+    "titleZh": "奇怪的事情：韋伯對負擔能力議程的願景（播客）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
+    "image": null,
+    "pushedAt": "2026-11-27T09:01:08.023Z"
   }
 ]
