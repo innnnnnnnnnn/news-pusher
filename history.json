@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c",
-    "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
-    "titleZh": "英偉達的影響會扼殺亞洲資料中心的繁榮嗎？",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff7f94631-f7d9-467b-8647-f373edee7c6f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T10:33:45.261Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/ai-chip-boom-to-see-won-build-on-best-year-in-almost-a-decade",
     "title": "SK Hynix, Samsung to Jolt Won With $33 Billion Year-End Demand",
     "titleZh": "人工智慧晶片熱潮將在近十年來最好的一年基礎上取得勝利",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform",
     "image": null,
     "pushedAt": "2026-11-27T11:24:27.294Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
+    "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
+    "titleZh": "儘管艾爾段做出承諾，土耳其基金投資者仍面臨本金損失",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
+    "image": null,
+    "pushedAt": "2026-11-27T11:24:54.951Z"
   }
 ]
