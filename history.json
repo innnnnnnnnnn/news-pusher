@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/07a9463d-dcde-4ca2-a984-f197cc5d4d6b",
-    "title": "How Sanofi’s $41bn megadeal challenges pharma’s M&A curse",
-    "titleZh": "賽諾菲 410 億美元的巨額交易如何挑戰製藥公司的併購魔咒",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/07a9463d-dcde-4ca2-a984-f197cc5d4d6b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T00:25:43.466Z"
-  },
-  {
     "id": "https://www.ft.com/content/7693f1a2-58ec-46e0-b798-bcea394862c0",
     "title": "British drone developers hampered by outdated laws, industry warns",
     "titleZh": "業界警告稱，英國無人機開發商受到過時法律的阻礙",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
     "image": null,
     "pushedAt": "2026-11-27T12:42:58.544Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+    "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+    "titleZh": "匈牙利公開其秘密警察檔案。讓手指指點開始吧。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-hungary-files-01-khpb/25int-hungary-files-01-khpb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T12:43:26.343Z"
   }
 ]
