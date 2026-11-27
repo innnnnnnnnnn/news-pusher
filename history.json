@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/06429bc7-51ec-4677-bbba-70ba280c84ac",
-    "title": "The high price of Swiss neutrality",
-    "titleZh": "瑞士中立的高昂代價",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/06429bc7-51ec-4677-bbba-70ba280c84ac?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T13:41:43.979Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2",
-    "title": "Europe must not accept ‘hybrid’ warfare as normal, defence CEO warns",
-    "titleZh": "國防部長警告歐洲不能正常接受「混合」戰爭",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2823b097-94f1-4421-a7ed-c391ae806804.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T18:13:13.404Z"
-  },
-  {
     "id": "https://www.ft.com/content/9910163e-c103-46b5-8bbe-5a12ab5453e6",
     "title": "UK pensions watchdog ‘worried’ over schemes’ exposure to AI sector",
     "titleZh": "英國退休金監管機構「擔心」計畫對人工智慧產業的影響",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-27T13:39:06.953Z"
+  },
+  {
+    "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
+    "title": "Inflation and interest rates tracker: see how your country compares",
+    "titleZh": "通貨膨脹和利率追蹤器：了解您所在國家/地區的比較情況",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-27T13:39:34.902Z"
+  },
+  {
+    "id": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+    "title": "The reforms the NHS needs (and those it doesn’t)",
+    "titleZh": "NHS 所需的改革（以及不必要的改革）",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+    "image": null,
+    "pushedAt": "2026-11-27T13:39:38.384Z"
   }
 ]
