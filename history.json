@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-    "title": "Gold Bounces Back Above $3,500 as Yields, Dollar Retreat",
-    "titleZh": "美國關稅計劃強化加息押注，金價維持下跌",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-    "image": null,
-    "pushedAt": "2026-11-25T23:32:57.921Z"
-  },
-  {
-    "id": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6",
-    "title": "Shein to pay $100mn to resolve US allegations it deceived customers",
-    "titleZh": "Shein 將支付 1 億美元以解決美國對其欺騙客戶的指控",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T04:18:45.454Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
-    "title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
-    "titleZh": "澳洲聯邦儲備銀行雅各布斯表示加息後金融狀況“受到限制”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
-    "image": null,
-    "pushedAt": "2026-11-25T04:14:36.202Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
     "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
     "titleZh": "貝森特呼籲英偉達就向中國銷售晶片提供答案",
@@ -7521,7 +7494,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
     "image": null,
-    "pushedAt": "2026-11-27T08:12:50.072Z"
+    "pushedAt": "2026-11-27T10:07:45.021Z"
   },
   {
     "id": "https://flipso.com/p/92044ea1f4b85ec18be402eeabf1683f",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
     "image": null,
     "pushedAt": "2026-11-27T10:07:18.311Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+    "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+    "titleZh": "西班牙的極右翼時代於 1975 年結束。這個人會改變這現狀嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-spain-abascal-promo-zlgq/27int-spain-abascal-promo-zlgq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:08:09.847Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
+    "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
+    "titleZh": "一名記者在埃及爭取言論自由並避免入獄",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-Eygpt-journalist-vfzk/27int-Eygpt-journalist-vfzk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:08:13.023Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
+    "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+    "titleZh": "法國的書店和深受喜愛的文學策展人正陷入嚴重危機",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-france-bookshops-gmfk/27int-france-bookshops-gmfk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:08:16.739Z"
   }
 ]
