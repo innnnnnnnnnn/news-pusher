@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/ba19f42d8f915143b4048611360a1258",
-    "title": "Own this website 2026-11-25 08:00",
-    "titleZh": "擁有本網站 2026-11-25 08:00",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/ba19f42d8f915143b4048611360a1258",
-    "image": null,
-    "pushedAt": "2026-11-25T08:15:52.827Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/copper-nears-bear-market-as-ai-doubts-fuel-rout-video",
     "title": "Copper Nears Bear Market as AI Doubts Fuel Rout",
     "titleZh": "人工智慧懷疑燃料潰敗，銅價接近熊市",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
     "image": null,
     "pushedAt": "2026-11-27T22:51:04.325Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+    "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+    "titleZh": "哥倫比亞領導人將停電歸咎於“恐怖攻擊”",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-colombia-blackout-gzpt/25int-colombia-blackout-gzpt-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T22:51:36.774Z"
   }
 ]
