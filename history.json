@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71",
-    "title": "Contraceptive pill use plunges among young British women",
-    "titleZh": "英國年輕女性避孕藥使用率大幅下降",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T04:44:33.087Z"
-  },
-  {
     "id": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
     "title": "A new axis of malice threatens the global order",
     "titleZh": "新的惡意軸心威脅全球秩序",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
     "image": "https://static01.nyt.com/images/2026/12/01/multimedia/26SCI-CONVERSATION-URSCHEL1-jpht/26SCI-CONVERSATION-URSCHEL1-jpht-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-27T10:57:41.847Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+    "title": "Trump Administration Pauses Joint Operations With Ecuador",
+    "titleZh": "川普政府暫停與厄瓜多爾的聯合行動",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+    "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:58:08.634Z"
   }
 ]
