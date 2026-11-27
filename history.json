@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-    "title": "Copper Heads Toward Bear-Market Territory as Selloff Continues",
-    "titleZh": "由於交易商等待美國通膨，金屬大幅拋售後漲跌互現",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-    "image": null,
-    "pushedAt": "2026-11-25T18:45:16.941Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
     "title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
     "titleZh": "丹格特煉油廠將成為非洲最大的上市公司",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-opening-trade-11-27-2026-video",
     "image": null,
     "pushedAt": "2026-11-27T12:10:53.805Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+    "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+    "titleZh": "底特律雄獅隊老闆瑪莎費爾斯通福特 (Martha Firestone Ford) 去世，享年 101 歲",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+    "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/Ford-01-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-27T12:11:20.746Z"
   }
 ]
