@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
-    "title": "Trump Administration Pauses Joint Operations With Ecuador",
-    "titleZh": "川普政府暫停與厄瓜多爾的聯合行動",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
-    "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:41:13.759Z"
-  },
-  {
-    "id": "https://www.ft.com/content/e1e08be8-da07-44c3-abe6-9873991ee91a",
-    "title": "Spain’s likely rightward shift",
-    "titleZh": "西班牙可能右傾",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e1e08be8-da07-44c3-abe6-9873991ee91a?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T02:08:51.864Z"
-  },
-  {
-    "id": "https://www.ft.com/content/95057819-cbcc-407a-83a7-953fb100a837",
-    "title": "Judge grants bail to OpenAI engineer accused of bugging start-up",
-    "titleZh": "法官批准被指控竊聽新創公司的 OpenAI 工程師保釋",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/95057819-cbcc-407a-83a7-953fb100a837?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T04:43:39.100Z"
-  },
-  {
     "id": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71",
     "title": "Contraceptive pill use plunges among young British women",
     "titleZh": "英國年輕女性避孕藥使用率大幅下降",
@@ -8025,7 +7998,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f683c0d1-c48e-45fe-a0bb-666380299b31?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T09:00:13.507Z"
+    "pushedAt": "2026-11-27T10:57:09.257Z"
   },
   {
     "id": "https://www.ft.com/content/0f537b6e-7426-43a1-b82c-4e444335507b",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-27T10:56:42.822Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+    "title": "Thanksgiving Storm Leaves Half a Million Without Power on the East Coast",
+    "titleZh": "感恩節風暴導致東岸 50 萬人斷電",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:57:34.938Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
+    "title": "‘My Duty as a Grandson’: Gen Z Men Are as Likely as Women to Provide Elder Care",
+    "titleZh": "「我身為孫子的責任」：Z 世代男性與女性一樣有可能提供老年照護服務",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/00up-elder-care-01-tpwk/00up-elder-care-01-tpwk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:57:39.750Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+    "title": "The N.F.L. Player Who Left Football for Math",
+    "titleZh": "NFL為了數學而離開足球的球員",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+    "image": "https://static01.nyt.com/images/2026/12/01/multimedia/26SCI-CONVERSATION-URSCHEL1-jpht/26SCI-CONVERSATION-URSCHEL1-jpht-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T10:57:41.847Z"
   }
 ]
