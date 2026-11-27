@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-    "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-    "titleZh": "所羅門群島與澳洲簽署安全條約，對中國構成打擊",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:36:49.774Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
     "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
     "titleZh": "習近平調查上海領導人，擴大政治變動",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
     "image": null,
     "pushedAt": "2026-11-27T12:13:47.100Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+    "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+    "titleZh": "黑色星期五購物者轉向人工智慧機器人尋找優惠",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+    "image": null,
+    "pushedAt": "2026-11-27T12:14:14.639Z"
   }
 ]
