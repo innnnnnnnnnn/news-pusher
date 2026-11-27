@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
-    "title": "Shanghai’s boss is purged from Xi Jinping’s top team",
-    "titleZh": "上海的老闆被清除出習近平的高層團隊",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
-    "image": null,
-    "pushedAt": "2026-11-27T04:45:07.823Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
-    "title": "Trump Ballroom and Other Projects Got $300 Million Donation Boost",
-    "titleZh": "川普宴會廳和其他項目獲得 3 億美元捐款",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24DC-DONATION-fwlk/24DC-DONATION-fwlk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T04:03:19.274Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
     "title": "Smithsonian Boss Defends Autonomy After Report of Trump Overhaul Plan",
     "titleZh": "史密森尼老闆在川普改革計畫報告後捍衛自主權",
@@ -8998,5 +8980,23 @@
     "url": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-27T05:02:30.655Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/asia/a-japanese-volleyball-player-breaks-a-taboo.html",
+    "title": "A Japanese Volleyball Player Breaks a Taboo",
+    "titleZh": "日本排球選手打破禁忌",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/asia/a-japanese-volleyball-player-breaks-a-taboo.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-japan-volleyball-promo-tjhk/25int-japan-volleyball-promo-tjhk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T05:03:00.497Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
+    "title": "Taiwan's ETF Godfather Julian Liu on Market Momentum",
+    "titleZh": "台灣 ETF 教父 Julian Liu 談市場動能",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
+    "image": null,
+    "pushedAt": "2026-11-27T05:03:05.348Z"
   }
 ]
