@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
-    "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
-    "titleZh": "摩根大通設定的 2027 年標準普爾 500 指數低於共識目標 8,200 點",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
-    "image": null,
-    "pushedAt": "2026-11-24T21:06:10.053Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
     "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
     "titleZh": "韓國教育部長因反人工智慧辭職作弊規則",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-salary-review-to-exacerbate-fiscal-strains-analysts-say",
     "image": null,
     "pushedAt": "2026-11-27T05:31:45.202Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+    "title": "‘Saturday Night Live’ Is Coming to France",
+    "titleZh": "《週六夜現場》即將登陸法國",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T05:32:13.671Z"
   }
 ]
