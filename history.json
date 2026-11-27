@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-bull-says-huang-s-return-restores-tech-leadership-video",
-    "title": "Nvidia Bull Says Huang’s Return Restores Tech Leadership",
-    "titleZh": "Nvidia Bull 稱黃仁勳的回歸恢復了技術領先地位",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-bull-says-huang-s-return-restores-tech-leadership-video",
-    "image": null,
-    "pushedAt": "2026-11-24T20:44:05.948Z"
-  },
-  {
     "id": "https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac",
     "title": "EU warns France and Belgium to put public finances on ‘sustainable path’",
     "titleZh": "歐盟警告法國和比利時將公共財政置於“可持續道路”",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
     "image": null,
     "pushedAt": "2026-11-27T03:08:57.869Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+    "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+    "titleZh": "伊斯坦布尔附近一只逍遥的狮子？沒那麼快。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T03:09:26.908Z"
   }
 ]
