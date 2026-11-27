@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
-    "title": "Smithsonian Boss Defends Autonomy After Report of Trump Overhaul Plan",
-    "titleZh": "史密森尼老闆在川普改革計畫報告後捍衛自主權",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-bunch-letter-vmzl/24cul-bunch-letter-vmzl-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T23:52:25.134Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
     "title": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset",
     "titleZh": "密西西比州參議院競選甚至不是今年最大的冷門",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
     "image": null,
     "pushedAt": "2026-11-27T05:03:05.348Z"
+  },
+  {
+    "id": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
+    "title": "Shanghai’s boss is purged from Xi Jinping’s top team",
+    "titleZh": "上海的老闆被清除出習近平的高層團隊",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
+    "image": null,
+    "pushedAt": "2026-11-27T05:03:31.934Z"
   }
 ]
