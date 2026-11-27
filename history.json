@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
-    "title": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
-    "titleZh": "由於擔心獲利疲軟、被迫拋售，寧德時代股價下跌 12%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
-    "image": null,
-    "pushedAt": "2026-11-25T10:44:03.092Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/neuberger-easy-ai-wins-are-over-stick-to-hyperscalers-video",
     "title": "Neuberger Says 'Easy Wins' in AI Are Over, Stick to Hyperscalers",
     "titleZh": "紐伯格表示人工智慧領域的「輕鬆勝利」已經結束，堅持超大規模",
@@ -2544,7 +2535,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
     "image": null,
-    "pushedAt": "2026-11-27T21:38:53.196Z"
+    "pushedAt": "2026-11-27T23:50:02.260Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
@@ -6801,7 +6792,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/f7c0d928-ed8b-4835-9a60-1acf098a98c1?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T21:37:40.633Z"
+    "pushedAt": "2026-11-27T23:49:11.590Z"
   },
   {
     "id": "https://www.ft.com/content/1da49f07-9558-4e37-88e8-cc2088c27a58",
@@ -7809,7 +7800,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video",
     "image": null,
-    "pushedAt": "2026-11-27T21:36:52.487Z"
+    "pushedAt": "2026-11-27T23:48:20.789Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/altria-s-interest-in-imperial-may-also-affect-its-ab-inbev-stake",
@@ -8106,7 +8097,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-goods-trade-deficit-widens-for-fourth-straight-month",
     "image": null,
-    "pushedAt": "2026-11-27T21:38:28.938Z"
+    "pushedAt": "2026-11-27T23:49:36.997Z"
   },
   {
     "id": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65",
@@ -8115,7 +8106,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T21:39:41.872Z"
+    "pushedAt": "2026-11-27T23:50:53.203Z"
   },
   {
     "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
@@ -8592,7 +8583,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T21:37:16.469Z"
+    "pushedAt": "2026-11-27T23:48:45.851Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-27/gta-vi-s-record-launch-makes-the-case-for-human-made-video",
@@ -8601,7 +8592,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/gta-vi-s-record-launch-makes-the-case-for-human-made-video",
     "image": null,
-    "pushedAt": "2026-11-27T21:39:17.361Z"
+    "pushedAt": "2026-11-27T23:50:28.403Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/fd0ef0c75f385e0caacf6b737367d833",
     "image": null,
     "pushedAt": "2026-11-27T23:47:50.685Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
+    "title": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms.",
+    "titleZh": "由於停電和暴風雨，一些美國人取消或推遲了感恩節晚餐。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27nat-thanksgiving-do-over-1-ktwf/27nat-thanksgiving-do-over-1-ktwf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T23:51:19.562Z"
   }
 ]
