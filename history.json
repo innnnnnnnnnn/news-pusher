@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
-    "title": "A French crisis would be a threat — and opportunity — for Europe",
-    "titleZh": "法國危機對歐洲來說既是威脅，也是機遇",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-27T03:34:59.799Z"
-  },
-  {
     "id": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
     "title": "The world’s carmakers are revving up in America",
     "titleZh": "世界汽車製造商正在美國加速發展",
@@ -8403,16 +8394,16 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T12:59:23.306Z"
+    "pushedAt": "2026-11-27T14:55:31.673Z"
   },
   {
     "id": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84",
-    "title": "If we say the pay, let’s say the pension",
+    "title": "If we say the pay, let’s mention the pension",
     "titleZh": "如果我們說工資，就說退休金",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc7a5172c-3195-49de-89b8-c23c1599eac9.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-27T12:59:48.621Z"
+    "pushedAt": "2026-11-27T14:55:55.577Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
@@ -8421,16 +8412,16 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T13:00:12.519Z"
+    "pushedAt": "2026-11-27T14:56:19.581Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
-    "title": "‘My Duty as a Grandson’: Gen Z Men Are as Likely as Women to Provide Elder Care",
+    "title": "Elder Care Is Unequally Shared. But Not Among Gen Z.",
     "titleZh": "「我身為孫子的責任」：Z 世代男性與女性一樣有可能提供老年照護服務",
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/00up-elder-care-01-tpwk/00up-elder-care-01-tpwk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T13:00:35.949Z"
+    "pushedAt": "2026-11-27T14:56:44.571Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
@@ -8439,7 +8430,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
     "image": "https://static01.nyt.com/images/2026/12/01/multimedia/26SCI-CONVERSATION-URSCHEL1-jpht/26SCI-CONVERSATION-URSCHEL1-jpht-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T13:01:00.073Z"
+    "pushedAt": "2026-11-27T14:57:08.045Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/can-russia-ever-change-from-within-video",
     "image": null,
     "pushedAt": "2026-11-27T14:55:05.256Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
+    "title": "48 Hours in Tokyo With an Airline Pilot",
+    "titleZh": "與航空公司飛行員一起暢遊東京 48 小時",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27Trav-tokyo-layover-06-tmcp/27Trav-tokyo-layover-06-tmcp-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T14:57:32.082Z"
   }
 ]
