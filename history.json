@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/german-economy-grew-less-than-estimated-in-third-quarter",
-    "title": "German Economic Growth Revised Down as Investment Sinks",
-    "titleZh": "德國第三季經濟成長低於預期",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/german-economy-grew-less-than-estimated-in-third-quarter",
-    "image": null,
-    "pushedAt": "2026-11-25T16:01:36.532Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/mizuho-s-avendus-to-hire-75-private-bankers-over-four-years",
     "title": "Mizuho’s Avendus to Hire 75 Private Bankers Over Four Years",
     "titleZh": "瑞穗銀行 Avendus 將在四年內聘用 75 名私人銀行家",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-27T18:59:29.650Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+    "title": "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+    "titleZh": "紐約第一位女性參議院多數黨領袖安德里亞·斯圖爾特-考辛斯去世",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27met-cousins-death-kpcz/27met-cousins-death-kpcz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T19:03:24.564Z"
   }
 ]
