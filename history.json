@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
-    "title": "Donald Trump’s love of “conquest” is more self-defeating than ever",
-    "titleZh": "唐納德·川普對“征服”的熱愛比以往任何時候都更加弄巧成拙",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
-    "image": null,
-    "pushedAt": "2026-11-26T12:13:46.082Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
     "title": "A layered fight over a marginal commodity",
     "titleZh": "圍繞邊際商品的分層鬥爭",
@@ -735,7 +726,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-disney-iger-3-ctbh/24biz-disney-iger-3-ctbh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T14:27:39.199Z"
+    "pushedAt": "2026-11-27T16:26:58.843Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
@@ -6216,7 +6207,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T14:28:55.714Z"
+    "pushedAt": "2026-11-27T16:27:45.774Z"
   },
   {
     "id": "https://www.ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379",
@@ -6679,12 +6670,12 @@
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
-    "title": "Brazil Assets Surge as Lula Taps Trabuco as Finance Chief",
+    "title": "Brazil Markets Rally as Trabuco Pick Soothes Fiscal Fears",
     "titleZh": "盧拉任命銀行家為財政部長後巴西資產上漲",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
     "image": null,
-    "pushedAt": "2026-11-27T14:30:08.683Z"
+    "pushedAt": "2026-11-27T16:28:34.954Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
@@ -8124,7 +8115,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36193732-00f9-47f6-887b-9d90e40543ca.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-27T14:29:19.473Z"
+    "pushedAt": "2026-11-27T16:28:09.772Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/jse-courts-dangote-refinery-secondary-listing-in-expansion-push",
@@ -8727,7 +8718,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/world/asia/rui-takahashi-japan-volleyball-gay-athlete.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-japan-volleyball-promo-tjhk/25int-japan-volleyball-promo-tjhk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T14:28:29.112Z"
+    "pushedAt": "2026-11-27T16:27:22.253Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-pares-gains-altria-moves-lower-stock-movers-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf50e637-f128-49f8-9c34-bcbf689a9bc2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-27T16:26:32.254Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/lula-escolhe-trabuco-para-acalmar-mercado-video",
+    "title": "Lula escolhe Trabuco para acalmar mercado",
+    "titleZh": "盧拉學校 Trabuco para acalmar 市場",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/lula-escolhe-trabuco-para-acalmar-mercado-video",
+    "image": null,
+    "pushedAt": "2026-11-27T16:29:02.502Z"
   }
 ]
