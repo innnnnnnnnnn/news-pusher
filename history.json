@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
-    "title": "A fight over chips is roiling Donald Trump’s cabinet",
-    "titleZh": "晶片之爭正在擾亂唐納德·川普的內閣",
-    "source": "經濟學人 The Economist",
-    "url": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
-    "image": null,
-    "pushedAt": "2026-11-26T12:25:15.074Z"
-  },
-  {
     "id": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
     "title": "What is causing America’s recent outages",
     "titleZh": "是什麼導致了美國最近的停電",
@@ -843,7 +834,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25db-watch-summit-task-forces-zmtq/25db-watch-summit-task-forces-zmtq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T14:44:39.810Z"
+    "pushedAt": "2026-11-27T16:42:50.184Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says",
@@ -6315,7 +6306,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
     "image": "https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T14:44:16.245Z"
+    "pushedAt": "2026-11-27T16:42:26.555Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth",
@@ -6972,7 +6963,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
     "image": null,
-    "pushedAt": "2026-11-27T14:43:28.258Z"
+    "pushedAt": "2026-11-27T16:41:39.443Z"
   },
   {
     "id": "https://flipso.com/p/341ee512a1dc527eb315d072c4c4b24d",
@@ -6990,7 +6981,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T14:43:52.185Z"
+    "pushedAt": "2026-11-27T16:42:02.916Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
@@ -8520,16 +8511,16 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
     "image": null,
-    "pushedAt": "2026-11-27T14:42:39.234Z"
+    "pushedAt": "2026-11-27T16:40:51.233Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
-    "title": "Poland Signs $300 Million Palantir Deal to Use AI for Defense",
+    "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
     "titleZh": "波蘭簽署 3 億美元 Palantir 協議，利用人工智慧進行國防",
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
     "image": null,
-    "pushedAt": "2026-11-27T14:43:04.125Z"
+    "pushedAt": "2026-11-27T16:41:15.235Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-two-rate-hikes-to-date-aren-t-enough-dolenc-tells-delo",
@@ -8538,7 +8529,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-two-rate-hikes-to-date-aren-t-enough-dolenc-tells-delo",
     "image": null,
-    "pushedAt": "2026-11-27T14:45:03.562Z"
+    "pushedAt": "2026-11-27T16:43:13.848Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/ofwat-warns-thames-water-rescue-decision-remains-months-away",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/euro-zone-inflation-is-seen-weaker-for-first-time-in-five-months",
     "image": null,
     "pushedAt": "2026-11-27T16:40:24.760Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+    "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
+    "titleZh": "加拿大最高法院允許魁北克對世俗主義法使用有爭議的措施",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T16:43:42.328Z"
   }
 ]
