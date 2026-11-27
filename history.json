@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff",
-    "title": "FirstFT: Wall Street set to rebound after AI stock sell-off",
-    "titleZh": "FirstFT：人工智慧股票拋售後華爾街將反彈",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T03:48:59.466Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-still-faces-key-man-risk-in-huang-professor",
     "title": "NVidia Still Faces 'Key-Man Risk' in Huang: Professor",
     "titleZh": "黃教授：英偉達仍面臨“關鍵人物風險”",
@@ -5208,7 +5199,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
     "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:11:35.193Z"
+    "pushedAt": "2026-11-27T12:09:54.965Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
     "image": null,
     "pushedAt": "2026-11-27T12:07:06.121Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video",
+    "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+    "titleZh": "在與 Alice Huang 相關的中國網站中發現 Blackwell 晶片",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video",
+    "image": null,
+    "pushedAt": "2026-11-27T12:10:21.338Z"
   }
 ]
