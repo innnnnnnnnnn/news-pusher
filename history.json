@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
-    "title": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-    "titleZh": "伊隆馬斯克談他的政治、潛在的合併和烏克蘭",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DB-musk-thgp/21DB-musk-thgp-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-24T22:20:37.128Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
     "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
     "titleZh": "愛荷華州陸軍彈藥廠爆炸事件按計劃於週三上午發生",
@@ -7233,7 +7224,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-26T23:27:35.835Z"
+    "pushedAt": "2026-11-27T01:31:41.442Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
@@ -7701,7 +7692,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/2f5970e6-fe6c-416c-aff8-3f8b889802de?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-26T23:28:01.007Z"
+    "pushedAt": "2026-11-27T01:32:06.487Z"
   },
   {
     "id": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7",
@@ -7710,7 +7701,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7daf313-6ce2-4352-97c8-c9a9d12979c2.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-26T23:28:26.886Z"
+    "pushedAt": "2026-11-27T01:32:31.834Z"
   },
   {
     "id": "https://flipso.com/p/fb308d6caf8e55ad9d64a36e4610070f",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
     "image": null,
     "pushedAt": "2026-11-27T01:31:13.384Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+    "title": "Modi Critics Face Growing Constraints on Travel, Speech in India",
+    "titleZh": "莫迪批評者在印度旅行和言論方面面臨越來越多的限制",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+    "image": null,
+    "pushedAt": "2026-11-27T01:32:59.978Z"
   }
 ]
