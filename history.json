@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/huang-apologizes-to-nvidia-staff-after-returning-as-ceo-video",
-    "title": "Huang Apologizes to Nvidia Staff After Returning as CEO",
-    "titleZh": "黃在重新擔任執行長後向 Nvidia 員工道歉（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/huang-apologizes-to-nvidia-staff-after-returning-as-ceo-video",
-    "image": null,
-    "pushedAt": "2026-11-25T13:25:21.408Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-    "title": "US Treasury Yields Hit Two-Month Low as Tech Stocks Extend Slide",
-    "titleZh": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-    "image": null,
-    "pushedAt": "2026-11-25T22:01:02.151Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
     "title": "Danantara Reports $634 Billion Assets in Audited Accounts",
     "titleZh": "Danantara 在第一份審計報告中報告資產達 6,340 億美元",
@@ -8340,7 +8322,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
     "image": null,
-    "pushedAt": "2026-11-27T16:40:51.233Z"
+    "pushedAt": "2026-11-27T18:44:22.232Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
@@ -8349,7 +8331,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
     "image": null,
-    "pushedAt": "2026-11-27T16:41:15.235Z"
+    "pushedAt": "2026-11-27T18:44:47.453Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-two-rate-hikes-to-date-aren-t-enough-dolenc-tells-delo",
@@ -8817,7 +8799,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/euro-zone-inflation-is-seen-weaker-for-first-time-in-five-months",
     "image": null,
-    "pushedAt": "2026-11-27T16:40:24.760Z"
+    "pushedAt": "2026-11-27T18:43:56.240Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
     "image": null,
     "pushedAt": "2026-11-27T18:43:28.511Z"
+  },
+  {
+    "id": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10",
+    "title": "Trump’s Nvidia intervention has a cost for US stocks",
+    "titleZh": "川普幹預英偉達讓美股付出代價",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd97b8a60-f073-44b9-afe2-4c0fa5aeb7a5.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-27T18:45:15.134Z"
+  },
+  {
+    "id": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7",
+    "title": "AI and the decryption nightmare",
+    "titleZh": "人工智慧與解密噩夢",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3c4ab5e0-9211-4a82-ab0f-45dc9140929f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-27T18:45:19.817Z"
   }
 ]
