@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-    "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-    "titleZh": "台灣喜劇演員因嘲笑習近平而吸引大批觀眾",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-    "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T15:29:32.921Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-24/kalshi-eyes-under-21-ban-to-avoid-ny-shutdown-video",
     "title": "Kalshi Eyes Under-21 Ban to Avoid NY Shutdown",
     "titleZh": "Kalshi 擬禁止 21 歲以下兒童入境以避免紐約州停擺",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/ded8cea8-f2c1-485f-aaf9-d3aac4ad7d02",
     "image": null,
     "pushedAt": "2026-11-27T05:06:09.782Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+    "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+    "titleZh": "伊拉克總理旨在從庫德斯坦地區奪取更多權力",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T05:06:37.251Z"
   }
 ]
