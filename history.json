@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/38243255-cc94-4843-bfc4-958009c1295e",
-    "title": "The most famous economist you've never heard of",
-    "titleZh": "你從未聽過的最著名的經濟學家",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/38243255-cc94-4843-bfc4-958009c1295e?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T07:22:28.639Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
     "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
     "titleZh": "以色列政治領袖在西岸襲擊後譴責“猶太恐怖主義”",
@@ -2751,7 +2742,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
     "image": null,
-    "pushedAt": "2026-11-27T12:21:07.735Z"
+    "pushedAt": "2026-11-27T14:21:35.702Z"
   },
   {
     "id": "https://flipso.com/p/62b3050f48355f8abf2becb11ed5587e",
@@ -7161,7 +7152,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
     "image": null,
-    "pushedAt": "2026-11-27T12:21:55.262Z"
+    "pushedAt": "2026-11-27T14:22:23.110Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
@@ -8061,7 +8052,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/taiwan-lifts-2027-growth-outlook-despite-mounting-ai-concern",
     "image": null,
-    "pushedAt": "2026-11-27T12:21:31.707Z"
+    "pushedAt": "2026-11-27T14:21:59.155Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-27/us-investors-will-have-to-chase-rally-3-minutes-mliv-video",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/german-budget-passes-with-210-billion-in-new-borrowing-planned",
     "image": null,
     "pushedAt": "2026-11-27T14:14:17.612Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/world/asia/north-korea-defectors-children-school-seoul.html",
+    "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+    "titleZh": "北韓脫北者兒童庇護所面臨的威脅",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/world/asia/north-korea-defectors-children-school-seoul.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T14:22:46.698Z"
   }
 ]
