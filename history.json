@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
-    "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
-    "titleZh": "寶潔公司將增加無人工廠轉移以削減成本",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T12:17:58.685Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
     "title": "The Case of the Idle Assistants",
     "titleZh": "無所事事的助理案",
@@ -2256,7 +2247,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T04:35:34.533Z"
+    "pushedAt": "2026-11-27T06:24:31.924Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
@@ -4011,7 +4002,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
     "image": null,
-    "pushedAt": "2026-11-27T04:34:41.271Z"
+    "pushedAt": "2026-11-27T06:23:45.648Z"
   },
   {
     "id": "https://flipso.com/p/62b3050f48355f8abf2becb11ed5587e",
@@ -7764,7 +7755,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/milei-s-overhaul-of-argentina-s-central-bank-wins-final-approval-in-congress",
     "image": null,
-    "pushedAt": "2026-11-27T04:33:54.633Z"
+    "pushedAt": "2026-11-27T06:23:22.231Z"
   },
   {
     "id": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff",
@@ -8506,12 +8497,12 @@
   },
   {
     "id": "https://www.ft.com/content/bc5d39a0-6610-481b-9138-5afdd22cf406",
-    "title": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant",
+    "title": "New Zealand election leaves PM’s fate in hands of ex-KPMG consultant",
     "titleZh": "紐西蘭大選將總理盧克森的命運掌握在前畢馬威顧問手中",
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/bc5d39a0-6610-481b-9138-5afdd22cf406?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T04:35:07.888Z"
+    "pushedAt": "2026-11-27T06:24:08.868Z"
   },
   {
     "id": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
     "image": null,
     "pushedAt": "2026-11-27T06:22:55.886Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
+    "title": "Ziemba: Oil Supply Risks Outweigh OPEC+ Moves (Video)",
+    "titleZh": "Ziemba：石油供應風險超過 OPEC+ 舉措（影片）",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
+    "image": null,
+    "pushedAt": "2026-11-27T06:24:56.753Z"
   }
 ]
