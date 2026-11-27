@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-    "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-    "titleZh": "隨著公司客戶受到審查，布蘭奇淡化了對 Nvidia 的質疑",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T06:38:02.985Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/wisetech-s-white-cleared-in-human-trafficking-probe-by-police",
     "title": "WiseTech’s White Cleared in Human Trafficking Probe by Police",
     "titleZh": "慧諮科技在人口販運調查中獲清白",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/horizons-middle-east-africa-11-27-2026-video",
     "image": null,
     "pushedAt": "2026-11-27T07:54:56.298Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+    "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+    "titleZh": "「迦太基居民阿爾·戈爾」購買了家鄉田納西州報紙",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T07:55:24.886Z"
   }
 ]
