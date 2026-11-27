@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video",
-    "title": "J.P. Morgan’s Rosenbaum on 2027 AI Spend",
-    "titleZh": "摩根大通資產管理公司的 Rosenbaum 談 2027 年人工智慧支出",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video",
-    "image": null,
-    "pushedAt": "2026-11-25T20:48:07.564Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-    "title": "Abrego Garcia Arrives in Spain After Voluntarily Leaving U.S.",
-    "titleZh": "阿布雷戈·加西亞將自願離開美國，結束長達20個月的法律考驗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X-v3.jpg",
-    "pushedAt": "2026-11-25T18:26:58.716Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
     "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
     "titleZh": "電子郵件顯示，檢察官敦促司法部重新考慮對逃犯的指控",
@@ -8998,5 +8980,23 @@
     "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F78d9b182-467f-40fd-ad51-c8bc2131347f.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-27T08:52:19.795Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
+    "title": "Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
+    "titleZh": "杜拜股市消除戰時損失，成為海灣地區表現最佳的股票",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
+    "image": null,
+    "pushedAt": "2026-11-27T08:52:50.143Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
+    "title": "China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
+    "titleZh": "中國銀行債利差將創兩年多來最大漲幅",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
+    "image": null,
+    "pushedAt": "2026-11-27T08:52:55.103Z"
   }
 ]
