@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
-    "title": "‘Saturday Night Live’ Is Coming to France",
-    "titleZh": "《週六夜現場》即將登陸法國",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T04:17:53.794Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-korea-seen-resuming-rate-hikes-as-ai-boom-stokes-growth",
-    "title": "Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth",
-    "titleZh": "人工智慧熱潮推動經濟成長，韓國央行預計將恢復升息",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-korea-seen-resuming-rate-hikes-as-ai-boom-stokes-growth",
-    "image": null,
-    "pushedAt": "2026-11-25T14:27:59.595Z"
-  },
-  {
-    "id": "https://www.ft.com/content/7ad64c80-64d2-4516-9400-1fbad546b0fe",
-    "title": "Argentina expected to suffer technical recession in blow to Milei",
-    "titleZh": "阿根廷預計將遭受技術性衰退，對米雷造成打擊",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/7ad64c80-64d2-4516-9400-1fbad546b0fe?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T18:19:32.311Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
     "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
     "titleZh": "摩根大通設定的 2027 年標準普爾 500 指數低於共識目標 8,200 點",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/ea0f3201-34f4-4cd4-84f3-6510bcc8b313?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-27T05:31:11.750Z"
+  },
+  {
+    "id": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+    "title": "Are America’s supply chains really more vulnerable than China’s?",
+    "titleZh": "美國的供應鏈真的比中國脆弱嗎？",
+    "source": "經濟學人 The Economist",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+    "image": null,
+    "pushedAt": "2026-11-27T05:31:39.191Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+    "title": "National Security vs. the Stock Market",
+    "titleZh": "國家安全與股市",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T05:31:41.741Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-salary-review-to-exacerbate-fiscal-strains-analysts-say",
+    "title": "India’s Salary Review to Exacerbate Fiscal Strains, Analysts Say",
+    "titleZh": "分析師稱印度薪資審查將加劇財政緊張",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-salary-review-to-exacerbate-fiscal-strains-analysts-say",
+    "image": null,
+    "pushedAt": "2026-11-27T05:31:45.202Z"
   }
 ]
