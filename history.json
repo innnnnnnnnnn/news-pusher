@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c",
-    "title": "China launches first space mission with foreign astronaut",
-    "titleZh": "中國首次與外國太空人一起執行太空任務",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T03:52:55.545Z"
-  },
-  {
     "id": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff",
     "title": "FirstFT: Wall Street set to rebound after AI stock sell-off",
     "titleZh": "FirstFT：人工智慧股票拋售後華爾街將反彈",
@@ -6261,7 +6252,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
     "image": null,
-    "pushedAt": "2026-11-27T10:08:42.915Z"
+    "pushedAt": "2026-11-27T12:06:41.853Z"
   },
   {
     "id": "https://www.bloomberg.com/news/videos/2026-11-26/-que-causo-las-fallas-tecnologicas-en-ee-uu-video",
@@ -7179,7 +7170,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
     "image": null,
-    "pushedAt": "2026-11-27T10:07:45.021Z"
+    "pushedAt": "2026-11-27T12:05:08.282Z"
   },
   {
     "id": "https://flipso.com/p/92044ea1f4b85ec18be402eeabf1683f",
@@ -8655,7 +8646,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
     "image": null,
-    "pushedAt": "2026-11-27T10:07:18.311Z"
+    "pushedAt": "2026-11-27T12:04:44.803Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
@@ -8664,7 +8655,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-spain-abascal-promo-zlgq/27int-spain-abascal-promo-zlgq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:08:09.847Z"
+    "pushedAt": "2026-11-27T12:05:31.419Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
@@ -8673,7 +8664,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-Eygpt-journalist-vfzk/27int-Eygpt-journalist-vfzk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:08:13.023Z"
+    "pushedAt": "2026-11-27T12:05:54.857Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
@@ -8682,7 +8673,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-france-bookshops-gmfk/27int-france-bookshops-gmfk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-27T10:08:16.739Z"
+    "pushedAt": "2026-11-27T12:06:18.542Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/sap-struggles-with-turnover-in-the-executive-team",
     "image": null,
     "pushedAt": "2026-11-27T12:04:18.383Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
+    "title": "India’s Richest Civic Body Will Open Bond Sales to Retail Buyers",
+    "titleZh": "印度最富有的公民機構將向零售買家開放債券銷售",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
+    "image": null,
+    "pushedAt": "2026-11-27T12:07:06.121Z"
   }
 ]
