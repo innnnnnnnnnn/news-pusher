@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/f6c2d0f7-b096-48fb-96af-931c33ec54ba",
-    "title": "Ex-Petrofac executives accused of paying millions to win $3.4bn of contracts",
-    "titleZh": "Petrofac 前高層被指控支付數百萬美元以獲得 34 億美元的合約",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/f6c2d0f7-b096-48fb-96af-931c33ec54ba?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T04:03:44.131Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
     "title": "XAI Founders Unveil New AI Startup to Predict Future Events",
     "titleZh": "XAI 創辦人推出新的人工智慧新創公司來預測未來事件",
@@ -7053,7 +7044,7 @@
     "source": "彭博社 Bloomberg",
     "url": "https://www.bloomberg.com/news/videos/2026-11-26/investec-sees-opportunities-in-three-key-ai-buckets-video",
     "image": null,
-    "pushedAt": "2026-11-26T21:58:57.174Z"
+    "pushedAt": "2026-11-27T00:01:57.451Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-26/uk-migration-at-lowest-level-since-at-least-2012-outside-covid",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure",
     "image": null,
     "pushedAt": "2026-11-26T23:56:28.421Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+    "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+    "titleZh": "一座城市擔心其碼頭在部分塌陷陷入海後失去",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-ca-pacifica-1-fqgw/26nat-ca-pacifica-1-fqgw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T00:02:24.437Z"
   }
 ]
