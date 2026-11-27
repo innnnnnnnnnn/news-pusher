@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze",
-    "title": "UK Energy Bills Rise 26% as War Fuels Cost-of-Living Squeeze",
-    "titleZh": "戰爭加劇生活成本緊縮，英國能源費用上漲 26%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze",
-    "image": null,
-    "pushedAt": "2026-11-26T00:25:20.007Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/german-economy-grew-less-than-estimated-in-third-quarter",
     "title": "German Economic Growth Revised Down as Investment Sinks",
     "titleZh": "德國第三季經濟成長低於預期",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
     "image": null,
     "pushedAt": "2026-11-27T18:58:59.614Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+    "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+    "titleZh": "北韓因與烏克蘭戰爭有關的爭端而驅逐瑞士外交官",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-27T18:59:29.650Z"
   }
 ]
