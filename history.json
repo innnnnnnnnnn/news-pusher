@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month",
-    "title": "US Consumers Press Pause After Strong Spending Last Quarter",
-    "titleZh": "美國消費者支出停滯，核心PCE連續第三個月上漲0.3%",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month",
-    "image": null,
-    "pushedAt": "2026-11-26T08:54:25.053Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/utah-s-weird-crude-is-attracting-big-oil-s-attention-after-market-chaos",
     "title": "Utah’s Weird Crude Is Attracting Big Oil’s Attention After Market Chaos",
     "titleZh": "猶他州的奇特原油在市場動盪後吸引了大型石油公司的關注",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-28/walmart-leans-on-value-and-ai-for-holidays-video",
     "image": null,
     "pushedAt": "2026-11-28T12:56:31.212Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+    "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "titleZh": "另一項熱門通膨數據使聯準會預計將再次升息",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-inflation-gvjc/25dc-inflation-gvjc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T12:57:00.341Z"
   }
 ]
