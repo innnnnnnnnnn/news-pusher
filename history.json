@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-answer-to-delaware-style-system-for-investment-hits-roadblock",
-    "title": "Europe’s Answer to Delaware-Style System for Investment Hits Roadblock",
-    "titleZh": "歐洲對標德拉瓦州投資制度的方案遭遇阻礙",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-answer-to-delaware-style-system-for-investment-hits-roadblock",
-    "image": null,
-    "pushedAt": "2026-11-25T16:40:38.546Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
     "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
     "titleZh": "俄羅斯石油出口量增加，導致全球供應過剩",
@@ -8998,5 +8989,14 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
     "image": null,
     "pushedAt": "2026-11-28T10:21:25.690Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c",
+    "title": "Israeli strike kills two Médecins Sans Frontières workers in Gaza",
+    "titleZh": "以色列罷工導致加薩無國界醫生兩名工作人員死亡",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
+    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd046c6f7-ba84-4d72-ae20-3766f0a6d7c8.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
+    "pushedAt": "2026-11-28T10:21:56.284Z"
   }
 ]
