@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb",
-    "title": "NBA rallies private equity for €10bn European arena fund",
-    "titleZh": "NBA募集私募股權投資100億歐元的歐洲競技場基金",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T00:36:41.083Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/25/arts/television/late-night-trump-giuliani.html",
     "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
     "titleZh": "深夜猛烈抨擊川普表彰魯迪朱利安尼",
@@ -8998,5 +8989,14 @@
     "url": "https://flipso.com/p/a2556b7f00ef571c81ea8a43221027fc",
     "image": null,
     "pushedAt": "2026-11-28T13:27:22.059Z"
+  },
+  {
+    "id": "https://www.bloomberg.com/news/articles/2026-11-28/musk-says-google-interested-in-renting-more-compute-from-spacex",
+    "title": "Musk Says Google Interested in Renting More Compute from SpaceX",
+    "titleZh": "馬斯克表示Google有興趣向 SpaceX 租用更多計算設備",
+    "source": "彭博社 Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/musk-says-google-interested-in-renting-more-compute-from-spacex",
+    "image": null,
+    "pushedAt": "2026-11-28T13:50:49.563Z"
   }
 ]
