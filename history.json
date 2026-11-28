@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-    "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
-    "titleZh": "墨西哥調查協助中央情報局的檢察官關於卡特爾共謀",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-28T04:41:37.162Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
     "title": "How to Use Your Apps With Fewer Taps",
     "titleZh": "如何以更少的點擊次數使用您的應用程式",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
     "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-trump-fifa-prize-zjpm/28int-trump-fifa-prize-zjpm-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-28T05:03:12.455Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+    "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+    "titleZh": "伊朗盟友如何在也門戰爭中佔上風",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:03:42.188Z"
   }
 ]
