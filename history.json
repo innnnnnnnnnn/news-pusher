@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
-    "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
-    "titleZh": "被困在停機坪上：川普領導下航班延誤 3 小時激增",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-11-16-tarmacdelays-index/2026-11-16-tarmacdelays-index-mediumSquareAt3X-v15.png",
-    "pushedAt": "2026-11-28T04:43:41.672Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html",
     "title": "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives",
     "titleZh": "鮑伯艾格 (Bob Iger) 永遠退出迪士尼，一本不受歡迎的傳記問世",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-28T05:04:10.683Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
+    "title": "How to Use Your Apps With Fewer Taps",
+    "titleZh": "如何以更少的點擊次數使用您的應用程式",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
+    "image": "https://static01.nyt.com/images/2026/11/26/technology/personaltech/25BIZ-TECHTIP-TOP-lrint/25BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:04:40.084Z"
   }
 ]
