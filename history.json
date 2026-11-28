@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
-    "title": "Why the Nvidia Rally Fizzled",
-    "titleZh": "英偉達集會為何失敗",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25db-nvda-kfvq/25db-nvda-kfvq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-28T10:59:02.019Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/huang-is-worth-up-to-10-trillion-to-the-market-ives-video",
-    "title": "Huang Is Worth Up to $10 Trillion to the Market, Ives Says",
-    "titleZh": "黃的市場價值高達 10 兆美元：艾夫斯（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/huang-is-worth-up-to-10-trillion-to-the-market-ives-video",
-    "image": null,
-    "pushedAt": "2026-11-25T17:39:20.332Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
     "title": "Tata Steel Weighs Changes to APL Apollo Deal After Backlash",
     "titleZh": "塔塔鋼鐵公司在強烈反對後考慮改變 APL Apollo 交易",
@@ -7422,7 +7404,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-28T10:07:46.482Z"
+    "pushedAt": "2026-11-28T12:05:12.188Z"
   },
   {
     "id": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
@@ -8196,7 +8178,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff5905f2d-cd2a-4342-a226-f22fe4445592.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-28T10:07:20.711Z"
+    "pushedAt": "2026-11-28T12:04:47.756Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
@@ -8304,7 +8286,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27nat-thanksgiving-do-over-1-ktwf/27nat-thanksgiving-do-over-1-ktwf-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-28T10:06:55.353Z"
+    "pushedAt": "2026-11-28T12:04:23.438Z"
   },
   {
     "id": "https://flipso.com/p/80eae437adbf512b9e0b3ea0d731ed36",
@@ -8998,5 +8980,23 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-sees-robust-growth-momentum-flags-el-nino-mideast-risks",
     "image": null,
     "pushedAt": "2026-11-28T11:47:12.205Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/opinion/elon-musk-usaid-south-sudan.html",
+    "title": "What the World’s Richest Man Did to the World’s Poorest Children",
+    "titleZh": "世界上最富有的人對世界上最貧窮的孩子做了什麼",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/opinion/elon-musk-usaid-south-sudan.html",
+    "image": "https://static01.nyt.com/images/2026/11/29/multimedia/00kristof-aid-13-kqpg/00kristof-aid-13-kqpg-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-28T12:05:40.225Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/opinion/saddam-hussein-us-iraq-war.html",
+    "title": "My Six Months With Saddam Hussein",
+    "titleZh": "我與薩達姆侯賽因的六個月",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/opinion/saddam-hussein-us-iraq-war.html",
+    "image": "https://static01.nyt.com/images/2026/12/08/opinion/28piro1/08piro1-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T12:05:45.106Z"
   }
 ]
