@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/japan-firms-say-rate-hikes-are-starting-to-bite-new-study-shows",
-    "title": "Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows",
-    "titleZh": "新研究顯示日本企業稱升息已開始產生影響",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-firms-say-rate-hikes-are-starting-to-bite-new-study-shows",
-    "image": null,
-    "pushedAt": "2026-11-25T15:42:40.058Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
-    "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
-    "titleZh": "為什麼黃仁勳重返 Nvidia 對中國很重要（影片）",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
-    "image": null,
-    "pushedAt": "2026-11-25T11:11:46.604Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
-    "title": "China’s Surprise Soyoil Export Boom Cools as India Turns to Palm",
-    "titleZh": "隨著印度轉向棕櫚油，中國意外的豆油出口熱潮降溫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
-    "image": null,
-    "pushedAt": "2026-11-25T11:17:23.587Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/videos/2026-11-25/insight-with-haslinda-amin-11-25-2026-video",
     "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
     "titleZh": "美國晶片限制威脅資料中心繁榮，馬來西亞的人工智慧野心經受考驗",
@@ -6441,7 +6414,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
     "image": null,
-    "pushedAt": "2026-11-27T22:57:22.418Z"
+    "pushedAt": "2026-11-28T00:59:54.299Z"
   },
   {
     "id": "https://flipso.com/p/341ee512a1dc527eb315d072c4c4b24d",
@@ -8673,7 +8646,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/9cdc5817-0c7f-42d0-a6ae-bfd7006e4c9b?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T22:57:48.377Z"
+    "pushedAt": "2026-11-28T01:00:19.861Z"
   },
   {
     "id": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
@@ -8998,5 +8971,32 @@
     "url": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/00DC-BACKLASH-01-vzhc/00DC-BACKLASH-01-vzhc-mediumSquareAt3X-v2.jpg",
     "pushedAt": "2026-11-28T00:46:32.622Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a",
+    "title": "The Chinese car champion turning to police and nurse robots",
+    "titleZh": "中國汽車冠軍轉向警察和護士機器人",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T01:00:48.014Z"
+  },
+  {
+    "id": "https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4",
+    "title": "The ‘diehard separatist’ shaking up Taipei’s election",
+    "titleZh": "「頑固分離主義者」撼動台北選舉",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T01:00:52.937Z"
+  },
+  {
+    "id": "https://www.ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95",
+    "title": "South Africa’s credit rating upgraded after years of economic stagnation",
+    "titleZh": "南非在多年經濟停滯後信用評等上調",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T01:00:58.451Z"
   }
 ]
