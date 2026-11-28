@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
-    "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
-    "titleZh": "保衛亞丁，也門抵抗胡塞武裝的據點",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
-    "image": null,
-    "pushedAt": "2026-11-28T05:44:50.119Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
-    "title": "China Hits Back at New Trump Tariff Prospects",
-    "titleZh": "中國回擊川普新關稅前景",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-25T13:38:13.142Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-25/jpmorgan-jpm-outage-signals-banks-tsunami-of-patching-before-ai-strikes",
-    "title": "JPMorgan (JPM) Outage Signals Banks’ ‘Tsunami of Patching’ Before AI Strikes",
-    "titleZh": "摩根大通 (JPM) 宕機預示著銀行在人工智慧襲擊之前將面臨“補丁海嘯”",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/jpmorgan-jpm-outage-signals-banks-tsunami-of-patching-before-ai-strikes",
-    "image": null,
-    "pushedAt": "2026-11-25T16:04:23.246Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/stock-valuations-to-remain-under-pressure-safra-s-chen-says",
     "title": "Stock Valuations to Remain Under Pressure, Safra’s Chen Says",
     "titleZh": "薩夫拉集團的陳先生表示，股票估值將持續承壓",
@@ -8998,5 +8971,32 @@
     "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
     "image": null,
     "pushedAt": "2026-11-28T06:58:05.681Z"
+  },
+  {
+    "id": "https://www.ft.com/content/cc26cc08-6d49-4e33-933c-6ccd5e8064e4",
+    "title": "Why Jensen Huang’s daily therapy sets a healthy example",
+    "titleZh": "為什麼黃仁勳的日常治療樹立了健康榜樣",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/cc26cc08-6d49-4e33-933c-6ccd5e8064e4?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T07:00:41.869Z"
+  },
+  {
+    "id": "https://www.ft.com/content/12760b28-2a70-4671-985b-45e00746cc29",
+    "title": "Falling student numbers will hit property markets all over the UK",
+    "titleZh": "學生人數下降將打擊英國各地的房地產市場",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/12760b28-2a70-4671-985b-45e00746cc29",
+    "image": null,
+    "pushedAt": "2026-11-28T07:00:45.294Z"
+  },
+  {
+    "id": "https://www.ft.com/content/f1249918-b0f0-4db4-96f1-549fe94b51cd",
+    "title": "Millions of pension scheme members eye growing UK plan surpluses",
+    "titleZh": "數百萬退休金計劃成員關注英國計劃盈餘不斷增長",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/f1249918-b0f0-4db4-96f1-549fe94b51cd?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T07:00:49.990Z"
   }
 ]
