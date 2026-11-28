@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
-    "title": "How to Use Your Apps With Fewer Taps",
-    "titleZh": "如何以更少的點擊次數使用您的應用程式",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
-    "image": "https://static01.nyt.com/images/2026/11/26/technology/personaltech/25BIZ-TECHTIP-TOP-lrint/25BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-28T04:43:17.084Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
     "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
     "titleZh": "被困在停機坪上：川普領導下航班延誤 3 小時激增",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-28T05:03:42.188Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+    "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
+    "titleZh": "墨西哥調查協助中央情報局的檢察官可能與卡特爾有關",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:04:10.683Z"
   }
 ]
