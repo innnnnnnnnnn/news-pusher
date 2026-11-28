@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
-    "title": "Tata Steel Weighs Changes to APL Apollo Deal After Backlash",
-    "titleZh": "塔塔鋼鐵公司在強烈反對後考慮改變 APL Apollo 交易",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
-    "image": null,
-    "pushedAt": "2026-11-25T13:20:54.690Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
     "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
     "titleZh": "川普政府以不公平做法為由對數十個國家徵收新關稅",
@@ -8998,5 +8989,14 @@
     "url": "https://www.nytimes.com/2026/11/28/opinion/saddam-hussein-us-iraq-war.html",
     "image": "https://static01.nyt.com/images/2026/12/08/opinion/28piro1/08piro1-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-28T12:05:45.106Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
+    "title": "Why the Nvidia Rally Fizzled",
+    "titleZh": "英偉達集會為何失敗",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25db-nvda-kfvq/25db-nvda-kfvq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T12:06:13.370Z"
   }
 ]
