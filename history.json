@@ -1,32 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/9d739904-42a4-4b23-a761-2153be12c21c",
-    "title": "Letter: Ministers must intervene to stem City listing exodus",
-    "titleZh": "信函：部長必須幹預，阻止市府上市外流",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/9d739904-42a4-4b23-a761-2153be12c21c",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f6f3e82-2a9d-43e5-a253-30ed4263b007.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
-    "pushedAt": "2026-11-25T14:41:13.839Z"
-  },
-  {
-    "id": "https://flipso.com/p/e4d2ce611d7356aa9db33a341e2ebea1",
-    "title": "Own this website 2026-11-25 10:00",
-    "titleZh": "擁有本網站 2026-11-25 10:00",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/e4d2ce611d7356aa9db33a341e2ebea1",
-    "image": null,
-    "pushedAt": "2026-11-25T10:06:16.971Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-    "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
-    "titleZh": "隨著胡塞民兵的推進，也門政府的損失不斷增加",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-28T04:41:12.352Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
     "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
     "titleZh": "墨西哥調查協助中央情報局的檢察官關於卡特爾共謀",
@@ -6324,7 +6297,7 @@
     "source": "經濟學人 The Economist",
     "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
     "image": null,
-    "pushedAt": "2026-11-28T02:59:14.585Z"
+    "pushedAt": "2026-11-28T05:02:30.322Z"
   },
   {
     "id": "https://flipso.com/p/341ee512a1dc527eb315d072c4c4b24d",
@@ -8998,5 +8971,32 @@
     "url": "https://www.ft.com/content/b9819fb0-b72a-4b03-afd9-138a006f71ec",
     "image": null,
     "pushedAt": "2026-11-28T05:02:02.064Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
+    "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+    "titleZh": "官員稱極右義務警員加劇了法國的騷亂",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-france-gangs-1-wzvb/28int-france-gangs-1-wzvb-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:03:00.601Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+    "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+    "titleZh": "在國外，西班牙領導人是一位左翼英雄。他家裡會斷電嗎？",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-spain-election-zhfc/28int-spain-election-zhfc-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:03:06.123Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+    "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+    "titleZh": "國際足總可能會廢除授予川普的和平獎",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-trump-fifa-prize-zjpm/28int-trump-fifa-prize-zjpm-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:03:12.455Z"
   }
 ]
