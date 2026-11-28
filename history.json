@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-    "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
-    "titleZh": "雜貨商在感恩節套餐上蒙受損失以吸引購物者",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/23biz-holiday-groceries--03-zwvc/23biz-holiday-groceries--03-zwvc-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T20:43:35.616Z"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
-    "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
-    "titleZh": "CVS Health 的分拆計畫並未平息反托拉斯批評者的聲音",
-    "source": "紐約時報 New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-cvs-lkcq/23biz-cvs-lkcq-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-25T18:32:33.991Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
-    "title": "Tech Selloff Rolls On as AI Worries Persist",
-    "titleZh": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
-    "image": null,
-    "pushedAt": "2026-11-25T14:07:05.955Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/newsletters/2026-11-25/your-thanksgiving-meal-costs-more-as-us-food-inflation-returns",
-    "title": "Your Thanksgiving Meal Costs More as US Food Inflation Returns",
-    "titleZh": "美國食品通膨捲土重來，你的感恩節大餐成本更高",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/your-thanksgiving-meal-costs-more-as-us-food-inflation-returns",
-    "image": null,
-    "pushedAt": "2026-11-26T03:13:40.163Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/newsletters/2026-11-25/trump-and-data-centers-and-aluminum",
     "title": "Trump and data centers and aluminum",
     "titleZh": "川普與資料中心和鋁",
@@ -8565,7 +8529,7 @@
     "source": "紐約時報 New York Times",
     "url": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
     "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-tarps-lpjw/27dc-tarps-lpjw-mediumSquareAt3X.jpg",
-    "pushedAt": "2026-11-28T08:00:58.443Z"
+    "pushedAt": "2026-11-28T10:05:18.034Z"
   },
   {
     "id": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
@@ -8998,5 +8962,41 @@
     "url": "https://www.nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html",
     "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28biz-sqft-ai-newyorkoffice-promo-zfcv/28biz-sqft-ai-newyorkoffice-promo-zfcv-mediumSquareAt3X.jpg",
     "pushedAt": "2026-11-28T10:04:49.091Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html",
+    "title": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
+    "titleZh": "從臭名昭著的敘利亞監獄獲釋，但仍被恐怖所困",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28syria-prisoner-01-bflz/28syria-prisoner-01-bflz-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T10:05:45.581Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+    "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+    "titleZh": "烏克蘭的深度打擊在俄羅斯及其他地區的規模和範圍不斷擴大",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v2.jpg",
+    "pushedAt": "2026-11-28T10:05:50.969Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html",
+    "title": "Canada’s Arctic Reservists Know the Land. Fewer Young People Do.",
+    "titleZh": "加拿大的北極預備役軍人了解這片土地。這樣做的年輕人越來越少。",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html",
+    "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-Canada-rangers-01-kzlq-copy-promo/28int-Canada-rangers-01-kzlq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T10:05:56.373Z"
+  },
+  {
+    "id": "https://flipso.com/p/043bf534d4da5876b3c8538236014630",
+    "title": "Own this website 2026-11-28 10:00",
+    "titleZh": "擁有本網站 2026-11-28 10:00",
+    "source": "路透社 Reuters",
+    "url": "https://flipso.com/p/043bf534d4da5876b3c8538236014630",
+    "image": null,
+    "pushedAt": "2026-11-28T10:05:59.714Z"
   }
 ]
