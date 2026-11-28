@@ -1,41 +1,5 @@
 [
   {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/stock-valuations-to-remain-under-pressure-safra-s-chen-says",
-    "title": "Stock Valuations to Remain Under Pressure, Safra’s Chen Says",
-    "titleZh": "薩夫拉集團的陳先生表示，股票估值將持續承壓",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-valuations-to-remain-under-pressure-safra-s-chen-says",
-    "image": null,
-    "pushedAt": "2026-11-25T11:30:52.134Z"
-  },
-  {
-    "id": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60",
-    "title": "The investigations facing Nvidia and Jensen Huang",
-    "titleZh": "針對輝達 (Nvidia) 和黃仁勳 (Jensen Huang) 的調查",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-26T04:45:40.653Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/videos/2026-11-25/austria-s-fastest-growing-company-mulls-us-listing-video",
-    "title": "Austria's Fastest Growing Company Mulls US Listing, CEO Says",
-    "titleZh": "執行長表示奧地利成長最快的公司考慮在美國上市",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/austria-s-fastest-growing-company-mulls-us-listing-video",
-    "image": null,
-    "pushedAt": "2026-11-25T16:09:04.459Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
-    "title": "Anthropic Expands in Zurich to Tap City’s AI Talent Pool",
-    "titleZh": "Anthropic 在蘇黎世擴張，遷至 Tap City 的人工智慧人才庫",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
-    "image": null,
-    "pushedAt": "2026-11-25T16:09:31.107Z"
-  },
-  {
     "id": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
     "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
     "titleZh": "烏克蘭對利比亞海岸的攻擊顯示其海軍無人機的攻擊範圍",
@@ -8998,5 +8962,41 @@
     "url": "https://www.ft.com/content/f1249918-b0f0-4db4-96f1-549fe94b51cd?syn-25a6b1a6=1",
     "image": null,
     "pushedAt": "2026-11-28T07:00:49.990Z"
+  },
+  {
+    "id": "https://www.ft.com/content/71b43a99-b58e-492a-8227-9ea49bec9a5d",
+    "title": "How to get more UK money into UK equity markets",
+    "titleZh": "如何讓更多英國資金進入英國股市",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/71b43a99-b58e-492a-8227-9ea49bec9a5d?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T07:01:20.695Z"
+  },
+  {
+    "id": "https://www.ft.com/content/2771d3f4-f6c3-4a50-a8e7-24e0fa919648",
+    "title": "What’s really behind the sex recession?",
+    "titleZh": "性衰退背後的真正原因是什麼？",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/2771d3f4-f6c3-4a50-a8e7-24e0fa919648?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T07:01:25.837Z"
+  },
+  {
+    "id": "https://www.ft.com/content/b792f63f-6363-4df0-8063-38417ef6db99",
+    "title": "Short cuts: Lufthansa’s snarky clothing line and the ‘world’s southernmost’ hotel",
+    "titleZh": "捷徑：漢莎航空的尖酸刻薄的服裝系列和“世界最南端”的酒店",
+    "source": "金融時報 Financial Times",
+    "url": "https://www.ft.com/content/b792f63f-6363-4df0-8063-38417ef6db99?syn-25a6b1a6=1",
+    "image": null,
+    "pushedAt": "2026-11-28T07:01:31.310Z"
+  },
+  {
+    "id": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+    "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+    "titleZh": "保衛亞丁，也門抵抗胡塞武裝的據點",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+    "image": null,
+    "pushedAt": "2026-11-28T07:01:34.688Z"
   }
 ]
