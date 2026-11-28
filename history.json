@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://www.ft.com/content/e3b9cc16-25b1-46a0-b64b-19f511f3979b",
-    "title": "Timms review takes aim at state’s weaponised incompetence",
-    "titleZh": "提姆斯審查瞄準國家武器化無能",
-    "source": "金融時報 Financial Times",
-    "url": "https://www.ft.com/content/e3b9cc16-25b1-46a0-b64b-19f511f3979b?syn-25a6b1a6=1",
-    "image": null,
-    "pushedAt": "2026-11-25T15:21:37.257Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/mideast-ipo-slump-prompts-efg-to-branch-out-into-debt-advisory",
     "title": "Mideast IPO Slump Prompts EFG to Branch Out Into Debt Advisory",
     "titleZh": "中東 IPO 低迷促使 EFG 涉足債務諮詢領域",
@@ -8998,5 +8989,14 @@
     "url": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa881301a-884a-4c3e-a768-041d674213eb.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down",
     "pushedAt": "2026-11-28T05:15:18.838Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+    "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+    "titleZh": "印尼大雨後礦坑13人死亡13人受困",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25indonesia-mine-ztkg/25indonesia-mine-ztkg-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T05:15:47.697Z"
   }
 ]
