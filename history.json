@@ -1,23 +1,5 @@
 [
   {
-    "id": "https://flipso.com/p/8c660e5ff17b524eb3165a9980998700",
-    "title": "Own this website 2026-11-25 09:00",
-    "titleZh": "擁有本網站 2026-11-25 09:00",
-    "source": "路透社 Reuters",
-    "url": "https://flipso.com/p/8c660e5ff17b524eb3165a9980998700",
-    "image": null,
-    "pushedAt": "2026-11-25T09:16:40.115Z"
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-11-25/india-extends-duty-free-sugar-imports-as-dry-weather-hits-crop",
-    "title": "India Extends Duty-Free Sugar Imports as Dry Weather Hits Crop",
-    "titleZh": "由於乾旱天氣影響農作物產量，印度擴大了免稅糖進口範圍",
-    "source": "彭博社 Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/india-extends-duty-free-sugar-imports-as-dry-weather-hits-crop",
-    "image": null,
-    "pushedAt": "2026-11-25T11:31:48.073Z"
-  },
-  {
     "id": "https://www.bloomberg.com/news/articles/2026-11-25/at-s-weighs-moving-listing-to-us-asia-from-cute-vienna-bourse",
     "title": "AT&S Weighs Moving Listing to US, Asia From ‘Cute’ Vienna",
     "titleZh": "AT&S 考慮將上市地點從「可愛」的維也納交易所轉移到美國和亞洲",
@@ -8043,7 +8025,7 @@
     "source": "金融時報 Financial Times",
     "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
     "image": null,
-    "pushedAt": "2026-11-27T23:50:53.203Z"
+    "pushedAt": "2026-11-28T01:51:17.543Z"
   },
   {
     "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
@@ -8998,5 +8980,23 @@
     "url": "https://flipso.com/p/e23728ba13cb5c6ea7b5fd959c227bca",
     "image": null,
     "pushedAt": "2026-11-28T01:01:29.493Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
+    "title": "For One Stormy Moment, D.C. Reveled in a Blank Wall Where Trump’s Name Once Hung",
+    "titleZh": "在一個風雨飄搖的時刻，華盛頓陶醉在曾經掛著川普名字的一面空白牆上",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-tarps-lpjw/27dc-tarps-lpjw-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T01:51:44.138Z"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+    "title": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+    "titleZh": "規劃委員會將舉行最後一刻會議以考慮川普的華盛頓特區建設",
+    "source": "紐約時報 New York Times",
+    "url": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-planning-pzmq/27dc-planning-pzmq-mediumSquareAt3X.jpg",
+    "pushedAt": "2026-11-28T01:51:47.653Z"
   }
 ]
